@@ -75,7 +75,11 @@ def logout():
     return redirect(url_for('index'))
 
 @app.route('/addPaper',methods=['POST'])
-def addPaper:
-    return
+def addPaper():
+    if request.method=='POST' and 'name' in session:
+
+        return
+    else:
+        return "You are not good at hacking sorry!"
 if __name__ == '__main__':
     app.run()
