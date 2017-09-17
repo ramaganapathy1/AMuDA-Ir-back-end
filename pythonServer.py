@@ -74,6 +74,8 @@ def logout():
     print ("logout success")
     return redirect(url_for('index'))
 
-
+@app.route('/addPaper',methods=['POST'])
+def addPaper:
+    return
 if __name__ == '__main__':
     app.run()
