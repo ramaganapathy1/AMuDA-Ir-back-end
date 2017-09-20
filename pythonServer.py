@@ -50,8 +50,8 @@ def dashboard():
         print (session['number'])
         print (paper.count())
         for i in paper:
-            print (i)
-        return render_template('dashboard.html',li=paper)
+            li1.append(i)
+        return render_template('dashboard.html',li=li1)
     else:
         return redirect(url_for('index'))
 @app.route('/signIn', methods=['POST'])
