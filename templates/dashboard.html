@@ -81,13 +81,14 @@
 
     </div>
     <div class="col-lg-9">
+        <a class="btn btn-app" data-toggle="modal" data-target="#myModal">
+                <i class="fa fa-edit"></i> Edit
+              </a>
         <h1>Your Collection(s)!</h1>
         {% for i in li %}
             <div class="col-lg-3">
-                <div class="callout callout-warning">
-                        <h3><b>{{ i['name'] }} <a href="../uploads/{{ i['filename'] }}"><i class="fa fa-book pull-right"></i> </b></a> </h3>
-
-                    <p><a href="/read/{{ i['name'] }}" style="color:green;">Read? </a> | <a href="/delete/{{ i['name'] }}" style="color:red"> Delete?</a> </p>
+                <div class="callout callout-success">
+                        <h3><b>{{ i }} <a href="/domain/{{ i }}"><i class="fa fa-book pull-right"></i> </b></a> </h3>
                 </div></div>
         {% else %}
         <div class="alert alert-info alert-dismissible">
@@ -99,6 +100,52 @@
             </div>
             </div>
     </div>
+</div>
+<div id="myModal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Add Paper to {{ li[0]['domain'] }}</h4>
+      </div>
+      <div class="modal-body">
+          <!-- general form elements -->
+          <div class="box box-primary">
+            <div class="box-header with-border">
+              <h3 class="box-title">Fill it up!</h3>
+            </div>
+            <!-- /.box-header -->
+            <!-- form start -->
+            <form role="form" method="post" action="/addPaper" enctype=multipart/form-data>
+              <div class="box-body">
+                <div class="form-group">
+                  <label for="exampleInputPassword1">Name</label>
+                  <input type="name" class="form-control" name="name" id="exampleInputPassword1" required placeholder="Name">
+                </div>
+
+                <div class="form-group">
+                  <label for="exampleInputPassword3">Domain</label>
+                  <input type="name" class="form-control" id="exampleInputPassword3"   name="domain" required  placeholder="Domain">
+                </div>
+                <div class="form-group">
+                  <label for="exampleInputFile">File input</label>
+                  <input type="file" name="file" id="exampleInputFile" required>
+                </div>
+              <!-- /.box-body -->
+
+              <div class="box-footer">
+                <button type="submit" class="btn btn-primary">Submit</button>
+              </div>
+            </form></div></p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+
+  </div>
 </div>
 <div class="row">
 </div>
@@ -142,8 +189,8 @@
 
         var data = google.visualization.arrayToDataTable([
             ['Saved', 'Value'],
-            ['Saved',20],
-            ['Read',0]
+            ['Saved',{{ li|length }}],
+            ['Read',{{ session['count'] }}]
         ]);
 
         var options = {

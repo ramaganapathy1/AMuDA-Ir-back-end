@@ -1,4 +1,4 @@
-from flask import Flask, session, redirect, url_for
+from flask import Flask, session, redirect, url_for,send_file
 from flask import request  # getting post request
 from flask import render_template
 from pymongo import MongoClient
@@ -8,8 +8,8 @@ client = MongoClient('mongodb://localhost:27017/')
 db = client.ir
 app = Flask(__name__)
 app.secret_key = os.urandom(32)
-UPLOAD_FOLDER = '/uploads'
-ALLOWED_EXTENSIONS = set(['pdf'])
+UPLOAD_FOLDER = '../AMuDA-Ir-back-end/uploads'
+ALLOWED_EXTENSIONS = ['pdf']
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
 @app.route('/', methods=['GET'])
@@ -46,11 +46,13 @@ def dashboard():
     if 'name' in session:
         li1=[]
         n=session['number']
-        paper=db.paper.find({"user":n})
+        paper=db.papers.find({"userId":n})
         print (session['number'])
         print (paper.count())
         for i in paper:
-            li1.append(i)
+            if i['domain'] not in li1:
+                li1.append(i['domain'])
+        print (li1)
         return render_template('dashboard.html',li=li1)
     else:
         return redirect(url_for('index'))
@@ -75,6 +77,8 @@ def signin():
             app.secret_key='ir'
             session['name'] = result['name']
             session['number'] = result['number']
+            c=db.papers.find({'userId':session['number'],'status':'1'})
+            session['count']=c.count()
             return redirect(url_for('dashboard'))
         else:
             return redirect(url_for('index'),code=400)
@@ -87,22 +91,55 @@ def logout():
     print ("logout success")
     return redirect(url_for('index'))
 
-@app.route('/addPaper',methods=['POST'])
+@app.route('/addPaper',methods=['GET','POST'])
 def addPaper():
+    if request.method =='POST' and 'name' in session:
+        data = {}
+        data['_id'] = request.form['name']
+        data['userId'] = session['number']
+        data['status'] = '0'
+        f = request.files['file']
+        data['filename'] = f.filename
+        data['domain'] = request.form['domain']
+        data['name'] = request.form['name']
+        print (data)
+        print("paper added", data)
 
-    if request.method=='POST' and 'name' in session:
-        if 'file' not in request.files:
-            return redirect(request.url)
-        file = request.files['file']
-        if file.filename == '':
-            return redirect(request.url)
-        if file and ALLOWED_EXTENSIONS(file.filename):
-            filename = secure_filename(file.filename)
-            file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
-            return redirect(url_for('dashboard',
-                                    filename=filename))
-        return
+        print (f)
+        filename = f.filename
+        print (filename)
+        f.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
+        r=db.papers.insert_one(data)
+        print(r)
+        return redirect(url_for('dashboard'))
     else:
         return "You are not good at hacking sorry!"
+@app.route('/read/<paperName>',methods=['GET'])
+def markRead(paperName):
+    if 'name' in session:
+        print (paperName)
+        r = db.papers.update({'_id':paperName,'userId':session['number']},{ '$set' :{'status':'1'}})
+        print (r)
+        if( r['nModified'] ==1):
+            print(paperName+' Marker Successfully')
+            return redirect(url_for('dashboard'),code=200)
+        else:
+            return redirect(url_for('dashboard'),code=301)
+    else:
+        return redirect(url_for('index'))
+@app.route('/domain/<dname>',methods=['GET'])
+def domain(dname):
+    if 'name' in session:
+        papers = db.papers.find({'userId':session['number'],'domain':dname})
+        li1=[]
+        for i in papers:
+            li1.append(i)
+        print (li1)
+        return render_template('list.html',li=li1)
+    else:
+        return redirect(url_for('index'),code=400)
+@app.route('/upload/<filename1>',methods=['GET'])
+def upload(filename1):
+    return send_file('/home/ramaganapathy1/PycharmProjects/AMuDA-Ir-back-end/uploads/'+filename1,attachment_filename=filename1)
 if __name__ == '__main__':
-    app.run()
+    app.run(debug = True)
