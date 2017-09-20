@@ -2,19 +2,21 @@ from flask import Flask, session, redirect, url_for
 from flask import request  # getting post request
 from flask import render_template
 from pymongo import MongoClient
+from werkzeug.utils import secure_filename
 import os
 client = MongoClient('mongodb://localhost:27017/')
 db = client.ir
 app = Flask(__name__)
 app.secret_key = os.urandom(32)
-
+UPLOAD_FOLDER = '/uploads'
+ALLOWED_EXTENSIONS = set(['pdf'])
+app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
 @app.route('/', methods=['GET'])
 def index():
     if 'name' not in session or session['name']=='':
         return render_template('index.html')
     else:
-        li = []
         li = session
         print ('li',li)
         return render_template('index.html', user=li)
@@ -41,16 +43,27 @@ def signup():
 
 @app.route('/dashboard',methods=['GET'])
 def dashboard():
-    return render_template('dashboard.html')
+    if 'name' in session:
+        li1=[]
+        n=session['number']
+        paper=db.paper.find({"user":n})
+        print (session['number'])
+        print (paper.count())
+        for i in paper:
+            print (i)
+        return render_template('dashboard.html',li=paper)
+    else:
+        return redirect(url_for('index'))
 @app.route('/signIn', methods=['POST'])
 def signin():
     if request.method == 'POST':
         number = request.form['number']
         password = request.form['password']
         result = db.user.find_one({'_id': number})
-        print (result)
-        print (password)
-        print (result['password'])
+        print (len(result))
+
+        # print (password)
+       # print (result['password'])
         flag = (str(result['password']) == str(password))
         print (flag)
         if flag:
@@ -76,8 +89,18 @@ def logout():
 
 @app.route('/addPaper',methods=['POST'])
 def addPaper():
-    if request.method=='POST' and 'name' in session:
 
+    if request.method=='POST' and 'name' in session:
+        if 'file' not in request.files:
+            return redirect(request.url)
+        file = request.files['file']
+        if file.filename == '':
+            return redirect(request.url)
+        if file and ALLOWED_EXTENSIONS(file.filename):
+            filename = secure_filename(file.filename)
+            file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
+            return redirect(url_for('dashboard',
+                                    filename=filename))
         return
     else:
         return "You are not good at hacking sorry!"
