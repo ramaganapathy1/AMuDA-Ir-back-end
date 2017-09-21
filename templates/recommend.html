@@ -83,6 +83,11 @@
     <div class="col-lg-9">
         <div class="row">
             <div class="col-lg-12">
+                <div id="wordtree_basic" style="width: 900px; height: 500px;"></div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
         <h1>Your Recommendations(s)!</h1>
         <h2>To read next!</h2>
         {% for i in li[0]['continuation'] %}
@@ -154,6 +159,33 @@
 <script src="../static/plugins/datatables/dataTables.bootstrap.min.js"></script>
 <script src="../static/plugins/datatables/jquery.dataTables.min.js"></script>
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
+      google.charts.load('current', {packages:['wordtree']});
+      google.charts.setOnLoadCallback(drawChart);
+
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable(
+          [ ['Phrases'],
+              {% for i in li[0]['elaboration'] %}
+                ['{{ li[0]['_id']}} elaboration {{i}}'],
+              {% endfor %}
+              {% for i in li[0]['continuation'] %}
+                ['{{ li[0]['_id']}} continuation {{i}}'],
+              {% endfor %}
+          ]
+        );
+
+        var options = {
+          wordtree: {
+            format: 'implicit',
+            word: '{{ li[0]['_id'] }}'
+          }
+        };
+
+        var chart = new google.visualization.WordTree(document.getElementById('wordtree_basic'));
+        chart.draw(data, options);
+      }
+    </script>
 <script type="text/javascript">
     google.charts.load('current', {'packages':['gauge']});
     google.charts.setOnLoadCallback(drawChart);
