@@ -62,6 +62,7 @@ def signin():
         number = request.form['number']
         password = request.form['password']
         result = db.user.find_one({'_id': number})
+
         print (len(result))
 
         # print (password)
@@ -77,8 +78,10 @@ def signin():
             app.secret_key='ir'
             session['name'] = result['name']
             session['number'] = result['number']
-            c=db.papers.find({'userId':session['number'],'status':'1'})
+            c=db.papers.find({'userId':session['number']})
+            result2 = db.papers.find({'userId':session['number'], 'status': '1'})
             session['count']=c.count()
+            session['count2']=result2.count()
             return redirect(url_for('dashboard'))
         else:
             return redirect(url_for('index'),code=400)
@@ -138,6 +141,17 @@ def domain(dname):
         return render_template('list.html',li=li1)
     else:
         return redirect(url_for('index'),code=400)
+@app.route('/recommend/<paperName>',methods=['GET'])
+def recommend(paperName):
+    if('name' in session):
+        result = db.rPaper.find({'_id':paperName,'userId':session['number']})
+        print (result)
+        li1=[]
+        for i in result:
+            li1.append(i)
+        return render_template("recommend.html",li=li1)
+    else:
+        return( "sorry you are not good at hacking!" )
 @app.route('/upload/<filename1>',methods=['GET'])
 def upload(filename1):
     return send_file('/home/ramaganapathy1/PycharmProjects/AMuDA-Ir-back-end/uploads/'+filename1,attachment_filename=filename1)

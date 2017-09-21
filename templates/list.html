@@ -95,8 +95,7 @@
                 {% else %}
                     <div class="callout callout" style="background-color: gainsboro;">
                         <h3><b>{{ i['name'] }} <a href="/upload/{{ i['filename'] }}"><i class="fa fa-book pull-right" style="color: #222;"></i> </b></a> </h3>
-                    <p><a href="/recommend/{{ i['name'] }}" style="color:green;">Read Next ? </a> |
-                        <a href="/notclear/{{ i['name'] }}" style="color:blue;"> Not Clear ? ? </a>
+                    <p><a href="/recommend/{{ i['name'] }}" style="color:blue;">What to do next? </a>
                         | <a href="/delete/{{ i['name'] }}" style="color: red;">Delete ?</a> </p>
                 </div></div>
                 {% endif %}
@@ -199,8 +198,8 @@
 
         var data = google.visualization.arrayToDataTable([
             ['Saved', 'Value'],
-            ['Saved',{{ li|length }}],
-            ['Read',{{ session['count'] }}]
+            ['Saved',{{ session['count'] }}],
+            ['Read',{{ session['count2'] }}]
         ]);
 
         var options = {
