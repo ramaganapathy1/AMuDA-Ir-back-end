@@ -1,0 +1,4767 @@
+rfid tag::32.0
+rfid tags::25.0
+offline algorithm::25.0
+rfid reader::23.0
+online algorithm::19.0
+object location::17.0
+positive reading::16.0
+nomadic objects::14.0
+coverage region::14.0
+coordinate system::13.0
+negative reading::12.0
+objects location::12.0
+coverage map::12.0
+readers coverage region::11.094737505
+shown in figure::11.094737505
+error rate::11.0
+position of the object::10.0
+object locations::10.0
+ferret can detect::9.50977500433
+results show::9.0
+negative readings::9.0
+location map::8.0
+postulation of the object::8.0
+ferret can refine object::8.0
+positive readings::7.0
+location estimation::7.0
+passive rfid::7.0
+prototype system::7.0
+ferret can refine::6.33985000288
+objects that move::6.33985000288
+stream of noisy::6.33985000288
+prototype system moves::6.33985000288
+infer the location::6.33985000288
+number of objects::6.33985000288
+refine object locations::6.33985000288
+pervasive nature of multimedia::6.0
+locationing system::6.0
+mobile device::6.0
+readings from an rfid::6.0
+postulation of the objects::6.0
+online algorithm for real-time::6.0
+location information::6.0
+variety of user mobility::6.0
+stream of noisy readings::6.0
+nature of multimedia recording::6.0
+size of the location::6.0
+minutes with small error::6.0
+locations for the object::6.0
+camera and rfid reader::6.0
+ferret can detect nomadic::6.0
+mobility pattern::6.0
+tag in the room::6.0
+tagged objects::6.0
+locationing algorithm::5.0
+sample point::5.0
+mobility patterns::5.0
+pervasive multimedia::5.0
+rfid readers::5.0
+projection area::5.0
+small error rate::4.75488750216
+detect nomadic objects::4.75488750216
+minutes with small::4.75488750216
+algorithm for real-time::4.75488750216
+detecting a tag::4.75488750216
+series of readings::4.75488750216
+number of errors::4.75488750216
+pervasive multimedia applications::4.75488750216
+camera coordinate system::4.75488750216
+user mobility patterns::4.75488750216
+chance of detecting::4.75488750216
+camera and rfid::4.75488750216
+passive rfid tags::4.75488750216
+world coordinate system::4.75488750216
+rfid reader produces::4.75488750216
+online and offline::4.75488750216
+volume of the region::4.0
+rfid tagged::4.0
+system for locating nomadic::4.0
+values of each grid::4.0
+moving distances exceed 20cm::4.0
+restart the refinement process::4.0
+line segment::4.0
+passive rfid tagged objects::4.0
+display with an outline::4.0
+case of the circular::4.0
+location using a stream::4.0
+straight line::4.0
+accuracy when the moving::4.0
+refine object::4.0
+rfid tags and displaying::4.0
+alternative algorithms for refining::4.0
+knowledge of object location::4.0
+augmented with rfid tags::4.0
+head-on pattern::4.0
+moving distance::4.0
+ferret leverages the users::4.0
+circular and head-on patterns::4.0
+rfid localization for pervasive::4.0
+objects that move infrequently::4.0
+objects in its vicinity::4.0
+probability of detecting tags::4.0
+origin at the center::4.0
+scalable system for locating::4.0
+0.15m3 and 0.05m3 regions::4.0
+relation to the reader::4.0
+objects augmented with rfid::4.0
+location of the object::4.0
+present two alternative algorithms::4.0
+present methods for detecting::4.0
+region of the rfid::4.0
+multimedia applications with automatic::4.0
+center of the readers::4.0
+users mobility to produce::4.0
+localization for pervasive multimedia::4.0
+ubiquitous identification and location::4.0
+online and offline ferret::4.0
+location map is empty::4.0
+book on a bookshelf::4.0
+location of the tag::4.0
+outperforms the online algorithm::4.0
+likelihood threshold::4.0
+locating nomadic objects augmented::4.0
+versus time in figure::4.0
+region containing the object::4.0
+power output::4.0
+volume of approximately 2m3::4.0
+reading for each object::4.0
+reading of a tag::4.0
+contained within the coverage::4.0
+enables novel pervasive multimedia::4.0
+volume of the location::4.0
+position of the tag::4.0
+ferret device::4.0
+detecting when nomadic objects::4.0
+postulation of an objects::4.0
+offline ferret::4.0
+two alternative algorithms::3.16992500144
+algorithms for refining::3.16992500144
+front of objects::3.16992500144
+amount of computation::3.16992500144
+ferret is designed::3.16992500144
+likelihood location map::3.16992500144
+show that ferret::3.16992500144
+2.56m x 1.74m::3.16992500144
+object has moved::3.16992500144
+users inherent mobility::3.16992500144
+tag is present::3.16992500144
+localization for pervasive::3.16992500144
+equipped with rfid::3.16992500144
+mobility to produce::3.16992500144
+rfid tagged objects::3.16992500144
+reset the algorithms::3.16992500144
+knowledge of object::3.16992500144
+restart the refinement::3.16992500144
+discussed in section::3.16992500144
+methods for detecting::3.16992500144
+leverages the users::3.16992500144
+identification and location::3.16992500144
+offline and online::3.16992500144
+applications with automatic::3.16992500144
+detecting when nomadic::3.16992500144
+nature of multimedia::3.16992500144
+presents the design::3.16992500144
+performance of ferret::3.16992500144
+distances exceed 20cm::3.16992500144
+results are shown::3.16992500144
+orientation and position::3.16992500144
+refine the location::3.16992500144
+monte carlo localization::3.16992500144
+display the location::3.16992500144
+user in real-time::3.16992500144
+points that describe::3.16992500144
+ferret to estimate::3.16992500144
+produce a series::3.16992500144
+first positive reading::3.16992500144
+constant y value::3.16992500144
+multiple vantage points::3.16992500144
+dimensions is straightforward::3.16992500144
+probability of detecting::3.16992500144
+inertial navigation systems::3.16992500144
+estimate its location::3.16992500144
+readers current position::3.16992500144
+operate in real-time::3.16992500144
+designed to operate::3.16992500144
+deal with objects::3.16992500144
+location of objects::3.16992500144
+two line segments::3.16992500144
+robotics and automation::3.16992500144
+store the location::3.16992500144
+grid point contained::3.16992500144
+estimate the orientation::3.16992500144
+multimedia recording devices::3.16992500144
+refining a postulation::3.16992500144
+algorithms to restart::3.16992500144
+enables novel pervasive::3.16992500144
+localize an object::3.16992500144
+map is empty::3.16992500144
+resulting location map::3.16992500144
+nomadic objects move::3.16992500144
+tag here reader::3.16992500144
+perform these operations::3.16992500144
+tags and displaying::3.16992500144
+mapping and localization::3.16992500144
+infer the locations::3.16992500144
+design and implementation::3.16992500144
+implementation of ferret::3.16992500144
+detect nomadic::3.0
+ferret leverages::3.0
+world coordinate::3.0
+location algorithm::3.0
+camera coordinate::3.0
+volume size::3.0
+distances exceed::3.0
+user mobility::3.0
+ferret system::3.0
+reader produces::3.0
+two line::3.0
+dimensional map::3.0
+offline technique::3.0
+video camera::3.0
+line segments::3.0
+current position::3.0
+large number::3.0
+image plane::3.0
+ferrets performance::3.0
+multimedia recording::3.0
+mobile robot::3.0
+sample points::3.0
+rfid localization::3.0
+multiple readings::3.0
+two alternative::3.0
+radiation pattern::3.0
+noisy readings::3.0
+0.05m3 region::3.0
+spatial requirements::3.0
+epc class::3.0
+larger threshold::3.0
+multimedia applications::3.0
+technical report::3.0
+readers coverage::3.0
+video display::3.0
+rfid technology::3.0
+computational requirements::3.0
+ferret incorporates a video::2.0
+locationing capabilities::2.0
+identify thousands of objects::2.0
+ferret adds locationing capabilities::2.0
+narrower beam will produce::2.0
+nomadic distances exceed 20cm::2.0
+locate in the room::2.0
+offline and online representations::2.0
+region on a shelf::2.0
+reader for a small::2.0
+probabilities of the objects::2.0
+first transforms the coverage::2.0
+describing just the convex::2.0
+real-time identification and search::2.0
+tag but also estimate::2.0
+large amount of computational::2.0
+technique greatly reduces complexity::2.0
+projection the basic algorithm::2.0
+cover very similar regions::2.0
+volume tracks the total::2.0
+reader facing the object::2.0
+points can be adjusted::2.0
+tags using mobile robots::2.0
+locationas the user moves::2.0
+ferret prototype::2.0
+rfid reader that queries::2.0
+map l ferret repeats::2.0
+algorithm only costs 6ms::2.0
+trend is the emergence::2.0
+reading whenever it fails::2.0
+continuously calculate and improve::2.0
+location of a camera::2.0
+bytes and the online::2.0
+reading of the rfid::2.0
+reset the locationing algorithm::2.0
+keeping the reader facing::2.0
+coverage range are refined::2.0
+wide variety of user::2.0
+screen of the camera::2.0
+ferret device fraction detected::2.0
+correct about the objects::2.0
+rfid system::2.0
+large number of household::2.0
+assuming no prior history::2.0
+pose about the location::2.0
+objects in a room::2.0
+room and use ferret::2.0
+linear algebra and computer::2.0
+approach for using sensor::2.0
+paper presents the design::2.0
+active badge location system::2.0
+thingmagic mercury4 rfid reader::2.0
+spacewith a locationing system::2.0
+offline algorithms performance advantage::2.0
+detect objects that move::2.0
+unobtrusively detect human activities::2.0
+non-zero probability of detecting::2.0
+possibility of future antennas::2.0
+locate and identify thousands::2.0
+control the antennas movement::2.0
+antennas with variable radiation::2.0
+part by nsf grants::2.0
+map onto a two::2.0
+room with the camera::2.0
+sample points that describe::2.0
+preclude a much smaller::2.0
+nomadic objects we place::2.0
+ferret rotates and translates::2.0
+calculating and displaying object::2.0
+implications for privacy control::2.0
+drastically affects the location::2.0
+movements when the moving::2.0
+online algorithm can localize::2.0
+rfid reader can determine::2.0
+show how to tune::2.0
+method for identifying objects::2.0
+point in this space::2.0
+tags eases large-scale deployment::2.0
+likelihood that the resulting::2.0
+patterns affect the performance::2.0
+mobility effects ferret exploits::2.0
+region from the postulation::2.0
+technology m rfid tag::2.0
+perimeter only requires two::2.0
+large volumes of personal::2.0
+coverage range is decreased::2.0
+design ferret is designed::2.0
+rfid tags eases large-scale::2.0
+ferrets performance using two::2.0
+map onto the display::2.0
+immediately project an area::2.0
+information in a central::2.0
+information sharing across devices::2.0
+offline locationing algorithm formally::2.0
+two maps::2.0
+region is an irregular::2.0
+bytes to 178k byteseach::2.0
+attention to how fast::2.0
+accuracy when the nomadic::2.0
+ieee personal communications magazine::2.0
+half of the diagram::2.0
+addition to the volume::2.0
+show that ferret performs::2.0
+algorithm on an ibm::2.0
+collected in the experiment::2.0
+run online to track::2.0
+describes the coverage region::2.0
+robot and rfid technology::2.0
+poorly in detecting translation-only::2.0
+describe two alternative methods::2.0
+number of sample points::2.0
+stream with that region::2.0
+system is a corner::2.0
+uniquely identifies the object::2.0
+tag and cubic tag::2.0
+assuming that the z-axis::2.0
+origin of our world-coordinate::2.0
+advantages of allowing offline::2.0
+results of experiments conducted::2.0
+intensive for a mobile::2.0
+interactions with rfid-tagged objects::2.0
+positions for the object::2.0
+assume that each reading::2.0
+detection probability and form::2.0
+future antennas with variable::2.0
+2.56m at the maximum::2.0
+combination of a laser-range::2.0
+objects with zero initial::2.0
+produces a likelihood location::2.0
+require any infrastructural support::2.0
+modeling of reader performance::2.0
+region with a volume::2.0
+precision of the system::2.0
+translates the coverage map::2.0
+reduce the possible locations::2.0
+large map with equally::2.0
+system that can measure::2.0
+directly on the tag::2.0
+likelihood for the object::2.0
+number of mostly static::2.0
+doesnt consider the problem::2.0
+system intersects the two::2.0
+ferret performs::2.0
+recall that a larger::2.0
+found that each rfid::2.0
+locationing technologies::2.0
+details can be found::2.0
+coordinate within the grid::2.0
+works with a wide::2.0
+dealing with nomadic objects::2.0
+location estimation via intersecting::2.0
+signal attenuation to estimate::2.0
+robot using 3d rfid::2.0
+negative readings are weighted::2.0
+back-annotate the entire video::2.0
+implemented a prototype ferret::2.0
+choice and the possibility::2.0
+locate objects::2.0
+move infrequently::2.0
+showing a single centroid::2.0
+inexpensive nature of rfid::2.0
+slightly different coordinate system::2.0
+unknown probability of finding::2.0
+movement pattern we ran::2.0
+performance of the rfid::2.0
+range with past history::2.0
+offline algorithm costs 749.32ms::2.0
+response rate of rfid::2.0
+0.01m3 has a diameter::2.0
+require a locationing technology::2.0
+video display to show::2.0
+incorporate negative::2.0
+designed ferret::2.0
+reference tags to determine::2.0
+reading multiplies each coordinate::2.0
+objects using a stream::2.0
+representation of the objects::2.0
+object is as important::2.0
+26.7cm and a volume::2.0
+rfid reader to formulate::2.0
+location of an object::2.0
+online representations are highly::2.0
+line head-on z-line rotate::2.0
+location of a book::2.0
+system into the camera::2.0
+evaluating the offline algorithm::2.0
+stream of tag readings::2.0
+outline of the probable::2.0
+devices with video capture::2.0
+balloon shaped radiation pattern::2.0
+larger threshold will increase::2.0
+progressively narrow the region::2.0
+proposition of the objects::2.0
+observed by the camera::2.0
+large number of readingsmost::2.0
+refinement performance the primary::2.0
+threshold may cause ferret::2.0
+store the regions directly::2.0
+evaluated ferret::2.0
+improve its own notion::2.0
+ferret can take advantage::2.0
+tags with some probability::2.0
+offline algorithm we sample::2.0
+consists of several combined::2.0
+underlying technique to map::2.0
+ferret can progressively narrow::2.0
+attenuation to estimate tags::2.0
+tag and ferret begins::2.0
+custom-built from multiple tags::2.0
+show that the final::2.0
+position of the tagged::2.0
+10m x 3m room::2.0
+likelihood on the map::2.0
+goal is to reduce::2.0
+focal length of 2.75mm::2.0
+sensing using active rfid::2.0
+barrier to providing locationing::2.0
+offline algorithm widely outperforms::2.0
+online representation::2.0
+image onto the image::2.0
+change of likelihood threshold::2.0
+data point in relation::2.0
+activities on rfid tagged::2.0
+equipped with self-identifying rfid::2.0
+pervasive multimedia ? xiaotao::2.0
+reinitialize the location map::2.0
+generally in the center::2.0
+multiple fixed rfid readers::2.0
+location and the error::2.0
+coordinates in the map::2.0
+roll of the system::2.0
+possibility of false positives::2.0
+gps or a building::2.0
+detected object movements straight::2.0
+based on rf signal::2.0
+algorithm incurs large overhead::2.0
+human activities on rfid::2.0
+shown as a percentage::2.0
+semi-repeatable motion patterns shown::2.0
+technique used the change::2.0
+region is very compact::2.0
+rfid tags to unobtrusively::2.0
+cyclic environments from raw::2.0
+identification and location abilities::2.0
+simple yet elegant technique::2.0
+produces a negative reading::2.0
+history of tags read::2.0
+2.5m x 2m region::2.0
+current mobile::2.0
+questions for future research::2.0
+6ms per positive reading::2.0
+ferrets location::2.0
+book to a small::2.0
+highlights a small region::2.0
+size of the region::2.0
+online algorithm only requires::2.0
+similar method to positive::2.0
+household or office objects::2.0
+rfid tags are passive::2.0
+leaving out possible locations::2.0
+point in the spacewith::2.0
+location of the camera::2.0
+outperforming the online algorithm::2.0
+fraction of all objects::2.0
+ferret works::2.0
+users inherent::2.0
+negatives do not affect::2.0
+technologies such as rfid::2.0
+offline and online algorithms::2.0
+future research::2.0
+readers and laser-range scanner::2.0
+patterns shown in figure::2.0
+projected onto the video::2.0
+increase the error rate::2.0
+map m to match::2.0
+emergence of low-cost identification::2.0
+system with the origin::2.0
+practice in c addison-wesley::2.0
+computer graphics::2.0
+continually improve its postulation::2.0
+senses the same object::2.0
+ferret can immediately project::2.0
+nature raises a number::2.0
+greater number of errors::2.0
+camera from multiple vantage::2.0
+considerations we have implemented::2.0
+detect this and start::2.0
+samples for nearby tags::2.0
+view of the refinement::2.0
+factor in this approach::2.0
+sensor readings to locate::2.0
+size of the postulated::2.0
+system of the coverage::2.0
+previous user has stored::2.0
+system fuses a stream::2.0
+tune the offline algorithm::2.0
+mobile objects that move::2.0
+costs 749.32ms per reading::2.0
+tags locationsthe offline algorithm::2.0
+addition to object identities::2.0
+map from the world::2.0
+tag limits the amount::2.0
+rfid tags of epc::2.0
+deploys multiple fixed rfid::2.0
+centroid of its read::2.0
+et.al proposed a navigation::2.0
+intersection is the segment::2.0
+accuracy for both algorithms::2.0
+attached to the rfid::2.0
+ferret repeats this process::2.0
+representation to 5k bytes::2.0
+querying and providing initial::2.0
+straight line head-on z-line::2.0
+acm transactions on information::2.0
+requires building a map::2.0
+readings of an objects::2.0
+long-range detection of interactions::2.0
+volume tracks::2.0
+readings to locate rfid::2.0
+map m as described::2.0
+works with a variety::2.0
+disturbance in the force::2.0
+data on the tags::2.0
+ubiquitous identification and locationing::2.0
+moves in a circle::2.0
+vantage points and intersecting::2.0
+threshold errors mean volume::2.0
+camera with a display::2.0
+build accurate 2d maps::2.0
+show how to choose::2.0
+probability of a sample::2.0
+localization for mobile robots::2.0
+pervasive systems that rely::2.0
+online algorithm only costs::2.0
+majorityin any given room::2.0
+transforms the coverage map::2.0
+varied the likelihood threshold::2.0
+detected with higher probabilities::2.0
+reduce the likely positions::2.0
+error rate is determined::2.0
+nearness to reference tags::2.0
+automatically provides the size::2.0
+inherent mobility to estimate::2.0
+size of both online::2.0
+raw laser range measurements::2.0
+present two::2.0
+devices enables novel pervasive::2.0
+show that the online::2.0
+rfid tags using mobile::2.0
+ultrasound 3d locationing system::2.0
+left the postulated area::2.0
+location for an object::2.0
+center of the cameras::2.0
+algebra and computer graphics::2.0
+cricket sensor::2.0
+prevent them from scaling::2.0
+interactions with passive rfid::2.0
+intersecting the coverage regions::2.0
+derived from elfess work::2.0
+rotate circle online volume::2.0
+plane of the video::2.0
+present in the read::2.0
+future many personal objects::2.0
+represent the coverage region::2.0
+directly on the storage-poor::2.0
+system overlays the video::2.0
+described in a three-dimensional::2.0
+four bytes to describe::2.0
+tunable parameter in ferretin::2.0
+ferret is still correct::2.0
+support a massive number::2.0
+objects locationthis is reflected::2.0
+moves in the environment::2.0
+nomadicas opposed to mobile::2.0
+stops when the reader::2.0
+ferret is to quickly::2.0
+objects move::2.0
+offline algorithm to trade::2.0
+simultaneously on relatively inexpensive::2.0
+initial postulate that associates::2.0
+verify the online algorithms::2.0
+easily maintained::2.0
+percentage of the image::2.0
+probabilities for the coverage::2.0
+camera records all video::2.0
+prototype around the room::2.0
+section presents the design::2.0
+nomadic objectsobjects that change::2.0
+online algorithms error rate::2.0
+rfid readers to infer::2.0
+days to several years::2.0
+orientation of the camera::2.0
+region of zero volume::2.0
+confluence of these trendsthe::2.0
+readings to update locations::2.0
+connected to a sony::2.0
+technique to detect human::2.0
+online algorithms::2.0
+device this technique greatly::2.0
+system can not incorporate::2.0
+tags and the small::2.0
+objects with the distance::2.0
+noisy readings from rfid::2.0
+form-factor and limited battery::2.0
+probabilities of all sample::2.0
+accuracy the results show::2.0
+system can do drastically::2.0
+nomadic and static objects::2.0
+intersected with all readings::2.0
+readers antenna::2.0
+map l for instance::2.0
+readings produce a large::2.0
+present methods::2.0
+require changing an unmanageable::2.0
+requires an orientation system::2.0
+covers more disjoint spaces::2.0
+evaluate ferrets::2.0
+objects is the reliance::2.0
+determined from the antenna::2.0
+refinement timewith prior knowledge::2.0
+work researchers have developed::2.0
+coordinate system is co-linear::2.0
+head-on z-line rotate circle::2.0
+display is constantly updated::2.0
+balance of error rate::2.0
+affects the location algorithm::2.0
+objects that move infrequentlycommonly::2.0
+tags in a 2.5m::2.0
+eases large-scale deployment issues::2.0
+algorithm does not exhibit::2.0
+signal received in multiple::2.0
+mobility to produce readings::2.0
+offline algorithm incorporates information::2.0
+performance the primary goal::2.0
+likelihood of an objects::2.0
+negative readingswhen the reader::2.0
+region that it computed::2.0
+complexity of the representation::2.0
+system highlights a small::2.0
+demonstrated that their system::2.0
+international conference on robotics::2.0
+reader under ideal conditions::2.0
+offline algorithm and compare::2.0
+detect a moved object::2.0
+tags nearness to reference::2.0
+present in a captured::2.0
+performance to the online::2.0
+ran the offline ferret::2.0
+interesting questions for future::2.0
+proximate to the tag::2.0
+objects requiring location information::2.0
+proportional to the nearness::2.0
+online offline::2.0
+first positive::2.0
+tag has a non-zero::2.0
+readers current::2.0
+self-identifying but not self-locating::2.0
+advances in digital imaging::2.0
+moves around the room::2.0
+path of the ferret::2.0
+ferret provides systems support::2.0
+non-zero probability::2.0
+starts with an initial::2.0
+objects augmented::2.0
+contained in the volume::2.0
+specific orientation-sensitive 3d tags::2.0
+tag at each data::2.0
+total space::2.0
+tags to a large::2.0
+information can be remotely::2.0
+locationing consider an rfid::2.0
+tags to unobtrusively detect::2.0
+measured the computational requirements::2.0
+realtime on current mobile::2.0
+conduct a detailed performance::2.0
+threshold will also increase::2.0
+illustrated that resulting maps::2.0
+determine the 2d position::2.0
+algorithms have a similar::2.0
+measurements to several base::2.0
+start with better initial::2.0
+sensor to our prototype::2.0
+intersecting with a negative::2.0
+locations of rfid tagged::2.0
+version of the locationing::2.0
+sparton sp3003d digital compass::2.0
+systems for mobile robots::2.0
+small error::2.0
+plot the projection area::2.0
+z-axis of the camera::2.0
+objects she is searching::2.0
+transactions on information systems::2.0
+tags in balloon-shaped region::2.0
+ferret continuously collects readings::2.0
+reader can determine object::2.0
+value for the likelihood::2.0
+room and we show::2.0
+map onto the image::2.0
+locate a misplaced book::2.0
+translated to the readers::2.0
+range of the reader::2.0
+real-time on a mobile::2.0
+store the location information::2.0
+algorithm described above assumes::2.0
+devicesenables novel pervasive multimedia::2.0
+tags then other ferret::2.0
+ferret reduces the volume::2.0
+demonstrating that these techniques::2.0
+accurate modeling of reader::2.0
+misplaced book::2.0
+researchers have developed rfid-based::2.0
+prototype is quite large::2.0
+show that their system::2.0
+integration of a handheld::2.0
+readings from the recent::2.0
+real-time to a mobile::2.0
+computational requirements of ferrets::2.0
+offline system::2.0
+robot perception and navigation::2.0
+cmos-based camera is set::2.0
+device from exploiting history::2.0
+transformation using the cameras::2.0
+algorithm incurs::2.0
+led to a proliferation::2.0
+science foundation grants cns-0219520::2.0
+grids for mobile robot::2.0
+system can store long::2.0
+location sensing::2.0
+keeping the lens orientation::2.0
+university of massachusets amherst::2.0
+robot system to control::2.0
+compensation for false nega::2.0
+projecting the location map::2.0
+bytes using the commonly::2.0
+location estimates to mobile::2.0
+means that each independent::2.0
+43.5m bytes::2.0
+ferret under various mobility::2.0
+change of response rate::2.0
+prototype has a non-zero::2.0
+compared to offline spatial::2.0
+distinguish between these objects::2.0
+system to dynamically discover::2.0
+ferret subtracts the readers::2.0
+origin at any point::2.0
+exceeds 25cm and 20cm::2.0
+simply does not scale::2.0
+reality users move erratically::2.0
+version is not unreasonable::2.0
+grid of the environment::2.0
+scaling to applications dealing::2.0
+lens and the readers::2.0
+union tag and cubic::2.0
+doing so involves projecting::2.0
+threshold to the likelihood::2.0
+times for each distance::2.0
+locations of nomadic objects::2.0
+projects the intersection map::2.0
+human interactions with passive::2.0
+mobile device this technique::2.0
+evaluation of the ferret::2.0
+computation that the system::2.0
+offline querying and providing::2.0
+camera provides uncompressed 320x240::2.0
+location information is small::2.0
+cricket sensor is offset::2.0
+ferret exploits the users::2.0
+collects readings and improves::2.0
+operations for each individual::2.0
+describing such a region::2.0
+leverages the users mobility::2.0
+approach using the combination::2.0
+reader can produce positive::2.0
+intersect two line segments::2.0
+equipping hundreds of objects::2.0
+searching for another object::2.0
+locations of nearby tags::2.0
+match to the readers::2.0
+carlo localization::2.0
+locally on each reader::2.0
+resulting location::2.0
+threshold for the minimum::2.0
+nomadic objects we designed::2.0
+fast ferret can refine::2.0
+scalable system::2.0
+ferret uses a directional::2.0
+system has gained additional::2.0
+determined through manual inspection::2.0
+cdf of locationing accuracy::2.0
+equipped with a 1.5ghz::2.0
+read range are detected::2.0
+interpretation of the precise::2.0
+encompasses the likely position::2.0
+equip passive rfid tags::2.0
+incorporates a video display::2.0
+indoor 3d location sensing::2.0
+performance of the reader::2.0
+point within that region::2.0
+online algorithm incurs small::2.0
+concave region would return::2.0
+searching for multiple objects::2.0
+beacons on the ceiling::2.0
+estimate the objects location::2.0
+describe an online algorithm::2.0
+performance using the volume::2.0
+threshold is a critical::2.0
+computation and storage costs::2.0
+maintained method for identifying::2.0
+science university of massachusetts::2.0
+false nega::2.0
+requirement from 43.5m bytes::2.0
+knowledge about the location::2.0
+online to track multiple::2.0
+rate and mean volume::2.0
+tag operating at 915mhz::2.0
+defined by the read::2.0
+intersection of the two::2.0
+providing initial location estimates::2.0
+absence of an object::2.0
+described in the previous::2.0
+readers to have connectivity::2.0
+results in a threedimensional::2.0
+reading the rfid reader::2.0
+similar to the locationing::2.0
+offline can be reduced::2.0
+occupancy grids for robotic::2.0
+object and the users::2.0
+heavily as positive readings::2.0
+readings that generally cover::2.0
+orientation systems for ultrasound::2.0
+concentrate on how quickly::2.0
+identifying objects ; ferret::2.0
+equipped with a cricket::2.0
+range ; by maintaining::2.0
+closer to the centroid::2.0
+region where the object::2.0
+reader can not directly::2.0
+study how individual patterns::2.0
+room using a ferret-based::2.0
+modulate the power output::2.0
+reading of the tag::2.0
+inherent mobility to produce::2.0
+algorithm uses more information::2.0
+record ? this research::2.0
+costs of our system::2.0
+location map and removing::2.0
+step places a minimum::2.0
+lens and rfid reader::2.0
+locationing technologies with pervasive::2.0
+user switches to searching::2.0
+outline on the video::2.0
+objects using static rfid::2.0
+larger threshold can reduce::2.0
+maximum dimensions of 2.56m::2.0
+sensor size of 2.4mm::2.0
+equipped with rfid tags::2.0
+directly determine the exact::2.0
+shows this in detail::2.0
+rfid tags are self-identifying::2.0
+ferret combines locationing technologies::2.0
+identification and search operations::2.0
+user with a portable::2.0
+choosing an appropriate threshold::2.0
+information on the tag::2.0
+describe a greatly simplified::2.0
+region is greatly reduced::2.0
+identify and locate objects::2.0
+didnt detect a moved::2.0
+objects in a space::2.0
+generating maps of large-scale::2.0
+location sensing technology based::2.0
+ubiquity of rfid tags::2.0
+doesnt contain the object::2.0
+ferrets performance in detecting::2.0
+map to the user::2.0
+ferret can continually improve::2.0
+due to our incorporation::2.0
+algorithm is too computationally::2.0
+conducted using a fully::2.0
+43.5m bytes to 178k::2.0
+quickly learn the structure::2.0
+start its refinement process::2.0
+object in the recent::2.0
+area projected::2.0
+location of the objects::2.0
+repeat the experiment ten::2.0
+queried by a wireless::2.0
+device moves and senses::2.0
+camera lens and rfid::2.0
+due to several constraints::2.0
+applications dealing with hundreds::2.0
+objects we designed ferret::2.0
+requirements of ferrets locationing::2.0
+produce a new map::2.0
+readings from the rfid::2.0
+randomly around the room::2.0
+rfid tag ferret moving::2.0
+camera is constantly moving::2.0
+goal is to implement::2.0
+mapping and localization approach::2.0
+individual passive rfid tagged::2.0
+ferret projects the intersection::2.0
+co-linear with the cameras::2.0
+features make passive rfid::2.0
+possibilities for the object::2.0
+three-dimensional region::2.0
+ferret can incorporate human::2.0
+method to positive readings::2.0
+greatly reduces the objects::2.0
+benefits from having absolute::2.0
+connectivity to the database::2.0
+research has proposed orientation::2.0
+important direction for future::2.0
+small set of semi-repeatable::2.0
+exhibit the same behavior::2.0
+cup in a messy::2.0
+incorporation of negative readings::2.0
+receives the first positive::2.0
+fastslam algorithm for generating::2.0
+depends on the users::2.0
+moves in an arc::2.0
+option is to store::2.0
+maps is very fast::2.0
+make passive rfid technology::2.0
+readers and reference tags::2.0
+two bytes to track::2.0
+first reading::2.0
+widely outperforms the online::2.0
+negative region::2.0
+run the offline algorithm::2.0
+ferret displays the outline::2.0
+algorithm on the data::2.0
+system finds the intersection::2.0
+handheld device and nomadic::2.0
+robot and moving tags::2.0
+ferret under different likelihood::2.0
+options are to store::2.0
+multimedia recording devices enables::2.0
+non-zero probability of reading::2.0
+places where the tag::2.0
+ferret to the change::2.0
+ferret adds::2.0
+reader and we correct::2.0
+head towards the object::2.0
+environments from raw laser::2.0
+battery-powered locationing::2.0
+past history as shown::2.0
+track multiple tags simultaneously::2.0
+offsets from the reader::2.0
+object at each coordinate::2.0
+results of a human::2.0
+elfess work on occupancy::2.0
+high of a threshold::2.0
+errors in the offline::2.0
+algorithm requires every point::2.0
+tags of epc class::2.0
+system uses an expensive::2.0
+series of line intersections::2.0
+representation of the probability::2.0
+object is to modulate::2.0
+virtually eliminates the possibility::2.0
+identification and locationing abilities::2.0
+exploits the users mobility::2.0
+imaging technologies have led::2.0
+spatial requirements as compared::2.0
+reader than can read::2.0
+constantly moving::2.0
+user gets one positive::2.0
+object from different vantage::2.0
+intersects the two line::2.0
+measures the tracking tags::2.0
+deal with nomadic objects::2.0
+robots equipped with rfid::2.0
+location system::2.0
+probability at each location::2.0
+pinpointing a misplaced book::2.0
+precise location::2.0
+reference tags as infrastructure::2.0
+conclusions this paper presents::2.0
+similarity of their signal::2.0
+video screen::2.0
+178k bytes::2.0
+distance measurement::2.0
+tracking applications can proactively::2.0
+full representation that describes::2.0
+postulated region::2.0
+intersection map::2.0
+sensitivity of offline ferret::2.0
+rfid-based indoor locationing systems::2.0
+applications can proactively generate::2.0
+offline algorithms::2.0
+encounters an empty location::2.0
+objects at the boundary::2.0
+location with a probability::2.0
+sony motion eye web-camera::2.0
+device and nomadic objects::2.0
+readings than positive readings::2.0
+representation and the intersection::2.0
+case of the offline::2.0
+location algorithm must perform::2.0
+pattern and longer range::2.0
+room with the prototype::2.0
+requires two x points::2.0
+complicated as it produces::2.0
+mobile device to operate::2.0
+current position and orientation::2.0
+2.56m x 1.74mthis shape::2.0
+transformed into a common::2.0
+object locationas the user::2.0
+vantage points::2.0
+positions of reference tags::2.0
+option provides different privacy::2.0
+positive readings only shrinks::2.0
+location map l ferret::2.0
+thousands of tagged objects::2.0
+grids for robotic navigation::2.0
+number of negative readings::2.0
+negative readings are correlated::2.0
+comparison of the online::2.0
+move within a room::2.0
+user selects some set::2.0
+offline ferret can detect::2.0
+developed rfid-based indoor locationing::2.0
+system will be trivial::2.0
+assume that the ferret::2.0
+readings in the algorithm::2.0
+estimates to mobile readers::2.0
+nature of rfid tags::2.0
+multimedia ? xiaotao liu::2.0
+experiments pay specific attention::2.0
+locations of individual passive::2.0
+ferretin the evaluation section::2.0
+performance of offline ferret::2.0
+inertial navigation::2.0
+dimensional array to store::2.0
+transform the intersection map::2.0
+reading and the last::2.0
+objects using their rfid::2.0
+area of the two-dimensional::2.0
+storage for the offline::2.0
+float of four bytes::2.0
+posed by the integration::2.0
+ferret uses the location::2.0
+applying a likelihood threshold::2.0
+offline algorithm is due::2.0
+experiment showed the results::2.0
+produce a large map::2.0
+tags in its vicinitythe::2.0
+object in a 0.05m3::2.0
+probability of the object::2.0
+number of errors doesnt::2.0
+tags by the similarity::2.0
+referred to as nomadicas::2.0
+mobile robots::2.0
+pattern performs the worst::2.0
+constraints in our current::2.0
+made it relatively simple::2.0
+readings of the tag::2.0
+digital compass::2.0
+experimental evaluation::2.0
+incorrectly shrinks the volume::2.0
+set of semi-repeatable motion::2.0
+zline rfid tag ferret::2.0
+storage requirement from 43.5m::2.0
+determine its own location::2.0
+rate is the number::2.0
+tradeoff in antenna choice::2.0
+elegant technique for inferring::2.0
+ideal for such applications::2.0
+algorithm uses a float::2.0
+regions at these positions::2.0
+reduced to 250k bytes::2.0
+verify how many objects::2.0
+organization of a space::2.0
+tags and the pervasive::2.0
+region onto the video::2.0
+tracks the total volume::2.0
+error rate of ferret::2.0
+maps of static rfid::2.0
+z-shaped line without changing::2.0
+threshold ferret incorrectly shrinks::2.0
+previous knowledge about object::2.0
+reader reaches the object::2.0
+inspection of a video::2.0
+support for a variety::2.0
+received in multiple readers::2.0
+ferret can locate objects::2.0
+refinement process::2.0
+overlays the video display::2.0
+ferret must continuously calculate::2.0
+thingmagic monostatic circular antenna::2.0
+designed ferret to deal::2.0
+corner of the room::2.0
+cameras lens::2.0
+locally in each ferret::2.0
+estimation drops from 2m3::2.0
+values for each point::2.0
+current reading::2.0
+prototype system is constantly::2.0
+moves in a z-shaped::2.0
+alien technology m rfid::2.0
+generally cover very similar::2.0
+locations locally::2.0
+image plane is straightforward::2.0
+rfid tags are inexpensive::2.0
+multiple power outputs requires::2.0
+accurately localize the robot::2.0
+store the locations locally::2.0
+design of our rfid::2.0
+refine the object location::2.0
+works with read-only rfid::2.0
+work use battery-powered sensors::2.0
+augmented reality and immersive::2.0
+algorithm incurs small overhead::2.0
+online refinement of location::2.0
+designed ferret to support::2.0
+technique for the active::2.0
+recording devicesenables novel pervasive::2.0
+ferret leverages the fact::2.0
+moving distance exceeds 25cm::2.0
+require any information sharing::2.0
+location on the video::2.0
+performance of the online::2.0
+ferrets notion of object::2.0
+reflected as the volume::2.0
+object locations in relation::2.0
+approximately 2m3::2.0
+track the x value::2.0
+moving and the tags::2.0
+distance to the base::2.0
+intersection of coverage maps::2.0
+unmanageable number of batteries::2.0
+system that can infer::2.0
+tangential to the object::2.0
+option requires writable tags::2.0
+combination of many separate::2.0
+manually mapping the probability::2.0
+pattern as the first::2.0
+limitation is that passive::2.0
+performance while the online::2.0
+rfid tags without expensive::2.0
+estimation is essentially constant::2.0
+evaluation section we demonstrate::2.0
+associates an unknown probability::2.0
+detected with lower probabilities::2.0
+numeric code that uniquely::2.0
+imagine that the ability::2.0
+movement pattern::2.0
+embedded in the video::2.0
+carlo localization for mobile::2.0
+cdf of ferrets location::2.0
+rfid provides a battery-free::2.0
+moves in a straight::2.0
+rate in locating objects::2.0
+location information is stored::2.0
+coverage region every centimeter::2.0
+commonly available compression tool::2.0
+code that uniquely identifies::2.0
+costs 6ms per positive::2.0
+locations of all rfid-tagged::2.0
+passive rfid technology ideal::2.0
+rotating the coverage map::2.0
+map for each power::2.0
+initializes a three dimensional::2.0
+notion of the object::2.0
+ferret can detect movement::2.0
+reduce the volume encompassing::2.0
+key insight in ferret::2.0
+object recognition of robot::2.0
+projection areas are shown::2.0
+convex shape that describes::2.0
+reduce it to describing::2.0
+evaluate ferret by focusing::2.0
+ferret performs this transformation::2.0
+done in two steps::2.0
+perimeter of the convex::2.0
+ferret does not make::2.0
+maps of large-scale cyclic::2.0
+rfid tags and displays::2.0
+users motion to reduce::2.0
+equipping cameras with rfid::2.0
+cameras with rfid readers::2.0
+location of passive rfid::2.0
+reader emits a signal::2.0
+radial to the path::2.0
+volume tracks the size::2.0
+algorithm is more complicated::2.0
+advantage of this method::2.0
+performance using two metrics::2.0
+algorithm outperforms the online::2.0
+intersection of two maps::2.0
+moves using the continuous::2.0
+ferret devices can start::2.0
+highly compressible::2.0
+tags are remotely rewritable::2.0
+algorithm when objects move::2.0
+national science foundation grants::2.0
+times that ferret didnt::2.0
+maps of rfid tags::2.0
+beam will produce fewer::2.0
+location does not improve::2.0
+precision in locating objects::2.0
+pinpoint their individual locations::2.0
+video camera and rfid::2.0
+coverage map that includes::2.0
+ferret is to exploit::2.0
+practical experiments they demonstrated::2.0
+complexity over the offline::2.0
+power of the reader::2.0
+infrastructure requirements strictly speaking::2.0
+volume of the resulting::2.0
+shenoy department of computer::2.0
+straight at the object::2.0
+overhead and will run::2.0
+produces a positive reading::2.0
+ferret can detect objects::2.0
+online refinement::2.0
+demonstrate how to choose::2.0
+show that the volume::2.0
+address the above challenges::2.0
+tagged objects using static::2.0
+technologies such as gps::2.0
+updates the cameras display::2.0
+implicitly indicates a negative::2.0
+shape that is 2.56m::2.0
+greatly aids ferrets ability::2.0
+value for the threshold::2.0
+locationing accuracy the results::2.0
+objects will be equipped::2.0
+object in the room::2.0
+volumes of personal video::2.0
+primary goal of ferret::2.0
+assumes a stationary camera::2.0
+location estimates::2.0
+spatial requirements the prototype::2.0
+proliferation of consumer devices::2.0
+region of the reader::2.0
+technologies with pervasive multimedia::2.0
+work on occupancy grids::2.0
+systems such as ultrasound::2.0
+localization with rfid technology::2.0
+power outputs requires building::2.0
+previous results that show::2.0
+area onto the video::2.0
+incorporating motion is straightforward::2.0
+object movements::2.0
+tag contains a numeric::2.0
+objects that move frequently::2.0
+kinds of 3d tags::2.0
+objects are truly contained::2.0
+approach employed laser-based fastslam::2.0
+negative readings than positive::2.0
+mobility of the reader::2.0
+consumer devices with video::2.0
+real-time updates the cameras::2.0
+choose a likelihood threshold::2.0
+evaluation shows that ferret::2.0
+quickly find the precise::2.0
+application of conditional probability::2.0
+reduces the storage requirement::2.0
+multiple objects are present::2.0
+offset from the reader::2.0
+reducing the possible locations::2.0
+0.1m3 has a diameter::2.0
+rate of rfid tags::2.0
+compared to the offline::2.0
+device must start finding::2.0
+drastically reduced computational cost::2.0
+ibm x40 laptop equipped::2.0
+choose an appropriate threshold::2.0
+methods presented in section::2.0
+changing an unmanageable number::2.0
+encompassing the likely position::2.0
+occupancy grids::2.0
+subtracts the readers coverage::2.0
+region from each reading::2.0
+shape has a volume::2.0
+addition to positive readings::2.0
+region which is 2m3::2.0
+motion eye web-camera connected::2.0
+refine its location estimation::2.0
+directionality of rfid readers::2.0
+starts from the first::2.0
+ferret on a mobile::2.0
+ferret samples for nearby::2.0
+knowledge about object locations::2.0
+equipped with rfid readers::2.0
+object locations without needing::2.0
+tags also has implications::2.0
+rfid many pervasive systems::2.0
+negative region can create::2.0
+map can be determined::2.0
+map of a reader::2.0
+mounted on the ceiling::2.0
+complexity of the ferret::2.0
+ferret prototype system cricket::2.0
+paired with a thingmagic::2.0
+operate on a handheld::2.0
+produce positive or negative::2.0
+indoor location::2.0
+notion of object location::2.0
+static rfid::2.0
+computational requirements the computational::2.0
+equivalent to hahnels approach::2.0
+contained in the area::2.0
+sample this coverage region::2.0
+consistent with our previous::2.0
+ubiquitous identification::2.0
+offset from the camera::2.0
+offline maps of static::2.0
+tag from multiple vantage::2.0
+system can build accurate::2.0
+number of objects requiring::2.0
+leverages the users inherent::2.0
+responses to a query::2.0
+object in a head-on::2.0
+location to the users::2.0
+offline algorithm incurs large::2.0
+movements straight line head-on::2.0
+readings of the object::2.0
+estimates of object location::2.0
+location can be imprecise::2.0
+correct for this translation::2.0
+grants national science foundation::2.0
+detecting these nomadic objects::2.0
+location sensing using active::2.0
+radiation patterns are interesting::2.0
+improve beyond a point::2.0
+opposed to mobile objects::2.0
+locationing algorithm when objects::2.0
+sphere with a volume::2.0
+online location::2.0
+controls on the database::2.0
+tags with these capabilities::2.0
+points for each pair::2.0
+readings as a series::2.0
+knowledge of object locations::2.0
+find the precise location::2.0
+ferrets ability to store::2.0
+show the tags locationsthe::2.0
+tags continue to drop::2.0
+object alerts upon detecting::2.0
+commercially available digital compass::2.0
+begins with no previous::2.0
+readings from rfid tags::2.0
+found in a technical::2.0
+exterior of the region::2.0
+due to the combination::2.0
+tags are passive devices::2.0
+separate pieces of hardwarethere::2.0
+places a minimum value::2.0
+algorithm that performs intersections::2.0
+area does not monotonically::2.0
+ceiling which we manually::2.0
+algorithm for generating maps::2.0
+system is constantly moving::2.0
+patterns are interesting questions::2.0
+algorithm by a factor::2.0
+continuous stream of tag::2.0
+post-processing applications::2.0
+capabilities to such objects::2.0
+location algorithm that performs::2.0
+algorithm with drastically reduced::2.0
+tag readings to update::2.0
+direction for future research::2.0
+ferret system as shown::2.0
+video and image content::2.0
+contained within its sensing::2.0
+negative readings to reduce::2.0
+algorithm performs an intersection::2.0
+goal for the system::2.0
+rfid readers and reference::2.0
+number of readingsmost points::2.0
+require battery power source::2.0
+ferret receives the first::2.0
+ferrets precision in locating::2.0
+landmarc uses the weighted::2.0
+generate missing object alerts::2.0
+updated as the user::2.0
+radius on the order::2.0
+portion of the total::2.0
+location in this section::2.0
+written to the rfid::2.0
+objectsobjects that change locations::2.0
+user moves::2.0
+object for a user::2.0
+ferret with a small::2.0
+location of a soup::2.0
+operates at the frequency::2.0
+dimensional array::2.0
+occurs much more rapidly::2.0
+areas from different orientations::2.0
+localization system::2.0
+trendsthe ubiquity of rfid::2.0
+rfid readers and laser-range::2.0
+error rate in locating::2.0
+movement and then estimate::2.0
+projection on the video::2.0
+obtain the 3d orientations::2.0
+reader covers more disjoint::2.0
+points in the readers::2.0
+current map::2.0
+greatly reduced in size::2.0
+reliance on batteriesmaking objects::2.0
+region to the user::2.0
+reality and immersive systems::2.0
+reinitializes the location map::2.0
+tags as a replacement::2.0
+user can quickly find::2.0
+database storage is plentiful::2.0
+probability that the object::2.0
+fact that an increasing::2.0
+representation of the region::2.0
+techniques from linear algebra::2.0
+read range::2.0
+reference tags::2.0
+proactively generate missing object::2.0
+detecting tags in balloon-shaped::2.0
+occupancy grids for mobile::2.0
+relative to the starting::2.0
+results in much smaller::2.0
+readings from the reader::2.0
+read by the system::2.0
+signal and tags respond::2.0
+z-line rotate circle online::2.0
+reduces the possible locations::2.0
+complexity of the intersection::2.0
+monotonically decrease::2.0
+compared the smallest volume::2.0
+map that it believes::2.0
+user has stored location::2.0
+nsf grants national science::2.0
+readings ; the coverage::2.0
+devices to conduct real-time::2.0
+describing an eventual goal::2.0
+output of the reader::2.0
+detail for two dimensions::2.0
+volume of the three-dimensional::2.0
+producing few negative readings::2.0
+requirements the computational requirements::2.0
+focusing on the performance::2.0
+ferret encounters an empty::2.0
+choose a reasonable value::2.0
+empty when the object::2.0
+location estimation is essentially::2.0
+nomadic location with rfid::2.0
+map the detection probability::2.0
+quickly ferret can refine::2.0
+power produces a negative::2.0
+projected onto the display::2.0
+object being at position::2.0
+office devices to conduct::2.0
+description of the objects::2.0
+algorithm uses a two::2.0
+reader is an independent::2.0
+large number of objects::2.0
+rfid tags are remotely::2.0
+stored in a centralized::2.0
+system uses a robot-controlled::2.0
+convex region::2.0
+present within its reading::2.0
+location of the reader::2.0
+circle ferret system fig::2.0
+probability values::2.0
+requirements of the offline::2.0
+positive or negative assertions::2.0
+volume of the postulated::2.0
+results show that ferret::2.0
+assume that the camera::2.0
+contained within each image::2.0
+location information in addition::2.0
+room and evaluated ferret::2.0
+possibly thousands of nomadic::2.0
+ieee transactions on robotics::2.0
+locations does not require::2.0
+department of computer science::2.0
+predicated on the assumption::2.0
+navigation systems for mobile::2.0
+determine the exact location::2.0
+produces a three dimensional::2.0
+seconds on a modern::2.0
+greatly reduces::2.0
+map shown in figure::2.0
+room with self-locating capabilities::2.0
+locationing system to estimate::2.0
+video without any positive::2.0
+personal video and image::2.0
+output produces a positive::2.0
+primary barrier to providing::2.0
+initial estimates of object::2.0
+decrease as the volume::2.0
+grid point::2.0
+attached a cricket sensor::2.0
+digital compass to obtain::2.0
+shows that the online::2.0
+segments for each pair::2.0
+circular pattern::2.0
+performance is an important::2.0
+capabilities due to reasons::2.0
+addition to the offline::2.0
+performed poorly in detecting::2.0
+designed to replace barcodes::2.0
+battery-powered sensors to identify::2.0
+tag ferret moving direction::2.0
+assumption that the number::2.0
+diagram shows sample points::2.0
+variety of new applications::2.0
+shrink the volume excessively::2.0
+point contained::2.0
+object could not possibly::2.0
+straight-forward application of conditional::2.0
+needing the full complexity::2.0
+ferrets knowledge of object::2.0
+increasing number of objects::2.0
+evaluate ferret::2.0
+objects ; ferret adds::2.0
+introduction advances in digital::2.0
+detection ferret is designed::2.0
+region is not spherical::2.0
+radiation pattern and longer::2.0
+respond with their unique::2.0
+produce fewer positive readings::2.0
+projecting a 3d map::2.0
+representations are highly compressible::2.0
+ferret device must start::2.0
+base stations::2.0
+recent past::2.0
+set to a fixed::2.0
+read by a reader::2.0
+displaying the uncertainty region::2.0
+readings from multiple positions::2.0
+object movements straight line::2.0
+reader must be contained::2.0
+storage for each object::2.0
+batteriesmaking objects self-locating requires::2.0
+localization system to dynamically::2.0
+online and offline systems::2.0
+recording devices::2.0
+orientation-insensitive tag per object::2.0
+online algorithm by localizing::2.0
+online algorithm with drastically::2.0
+ferret is an rfid::2.0
+past locations of nomadic::2.0
+devices such as cellphones::2.0
+introduction to rfid technology::2.0
+amount of computational power::2.0
+readings for each tag::2.0
+object motion detection ferret::2.0
+order to test::1.58496250072
+measure ferrets performance::1.58496250072
+enable new opportunities::1.58496250072
+location estimation drops::1.58496250072
+store a description::1.58496250072
+university of massachusetts::1.58496250072
+patterns are interesting::1.58496250072
+rfid tags continue::1.58496250072
+lower power produces::1.58496250072
+volume of hundredths::1.58496250072
+tag ferret moving::1.58496250072
+queries all tags::1.58496250072
+compute the likelihood::1.58496250072
+passive rfid tagged::1.58496250072
+vicinitythe reader emits::1.58496250072
+camera from multiple::1.58496250072
+associates probability values::1.58496250072
+nearness to reference::1.58496250072
+objects possible locations::1.58496250072
+scanning the room::1.58496250072
+incorporates a video::1.58496250072
+ferret prototype shows::1.58496250072
+produces a negative::1.58496250072
+outputs requires building::1.58496250072
+finding the object::1.58496250072
+track multiple tags::1.58496250072
+results in figure::1.58496250072
+displaying a location::1.58496250072
+system to estimate::1.58496250072
+subtracts the readers::1.58496250072
+motion patterns shown::1.58496250072
+rate is determined::1.58496250072
+barrier to providing::1.58496250072
+ubiquity of rfid::1.58496250072
+projects the intersection::1.58496250072
+rfid reader embedded::1.58496250072
+uncompressed 320x240 video::1.58496250072
+system to dynamically::1.58496250072
+waving a hand::1.58496250072
+independent ferret device::1.58496250072
+projection area versus::1.58496250072
+system would work::1.58496250072
+battery-powered locationing capabilities::1.58496250072
+set of objects::1.58496250072
+structure or organization::1.58496250072
+readings and improves::1.58496250072
+improves the postulation::1.58496250072
+pieces of hardwarethere::1.58496250072
+ferret by focusing::1.58496250072
+rate of ferret::1.58496250072
+smaller spatial requirements::1.58496250072
+scenario the user::1.58496250072
+ability to store::1.58496250072
+device from exploiting::1.58496250072
+trade the size::1.58496250072
+transform the intersection::1.58496250072
+locations of nearby::1.58496250072
+repeats this process::1.58496250072
+rfid localization technique::1.58496250072
+requires every point::1.58496250072
+orientation-sensitive 3d tags::1.58496250072
+ran three experiments::1.58496250072
+rfid localization system::1.58496250072
+badge location system::1.58496250072
+readings are weighted::1.58496250072
+multiple tags simultaneously::1.58496250072
+proceedings of mobicom00::1.58496250072
+number of readingsmost::1.58496250072
+requirements as compared::1.58496250072
+locations of objects::1.58496250072
+system has gained::1.58496250072
+large-scale deployment issues::1.58496250072
+ability to locate::1.58496250072
+ferret to support::1.58496250072
+require any infrastructural::1.58496250072
+intersects the two::1.58496250072
+sparton sp3003d digital::1.58496250072
+computes the intersection::1.58496250072
+ibm x40 laptop::1.58496250072
+pinpoint their individual::1.58496250072
+perception and navigation::1.58496250072
+performing this transformation::1.58496250072
+algorithm to trade::1.58496250072
+absolute volume tracks::1.58496250072
+grids for robotic::1.58496250072
+cameras with rfid::1.58496250072
+sequence of readings::1.58496250072
+addition to object::1.58496250072
+representation that describes::1.58496250072
+previously postulated region::1.58496250072
+opportunity to perform::1.58496250072
+motion detection ferret::1.58496250072
+object in 0.15m3::1.58496250072
+reduce the representation::1.58496250072
+address the concerns::1.58496250072
+prototype system cricket::1.58496250072
+battery-powered locationing hardware::1.58496250072
+test the sensitivity::1.58496250072
+objects we designed::1.58496250072
+locations of rfid::1.58496250072
+projecting the image::1.58496250072
+areas are shown::1.58496250072
+describe the perimeter::1.58496250072
+interpret the results::1.58496250072
+1.5ghz pentiumm processor::1.58496250072
+queried in real-time::1.58496250072
+sensing technology based::1.58496250072
+multimedia recording devicesenables::1.58496250072
+reliance on batteriesmaking::1.58496250072
+algorithm and compare::1.58496250072
+algorithm incurs small::1.58496250072
+errors mean volume::1.58496250072
+present the results::1.58496250072
+beam will produce::1.58496250072
+point in relation::1.58496250072
+2.5m x 2.5m::1.58496250072
+detecting the tag::1.58496250072
+means the complexity::1.58496250072
+mark d corner::1.58496250072
+modulate the power::1.58496250072
+map and removing::1.58496250072
+formulate a proposition::1.58496250072
+devicesenables novel pervasive::1.58496250072
+semi-repeatable motion patterns::1.58496250072
+basic algorithm described::1.58496250072
+reading is intersected::1.58496250072
+coverage map shown::1.58496250072
+mobile robots equipped::1.58496250072
+technique to map::1.58496250072
+continue to drop::1.58496250072
+narrow its location::1.58496250072
+system is co-linear::1.58496250072
+section we demonstrate::1.58496250072
+equip passive rfid::1.58496250072
+reader under ideal::1.58496250072
+sensitivity of offline::1.58496250072
+ferret can localize::1.58496250072
+positions of objects::1.58496250072
+locationas the user::1.58496250072
+low-cost identification technologies::1.58496250072
+sensors to identify::1.58496250072
+proposed a navigation::1.58496250072
+tag and cubic::1.58496250072
+digital imaging technologies::1.58496250072
+encounters an empty::1.58496250072
+department of computer::1.58496250072
+leaving the interpretation::1.58496250072
+producing few negative::1.58496250072
+plot the cdf::1.58496250072
+record the volume::1.58496250072
+show the tags::1.58496250072
+goal of ferret::1.58496250072
+performance of locationing::1.58496250072
+localizing an object::1.58496250072
+require specific orientation-sensitive::1.58496250072
+ieee international conference::1.58496250072
+rotate circle online::1.58496250072
+changing an unmanageable::1.58496250072
+tag here fig::1.58496250072
+determined through manual::1.58496250072
+raw laser range::1.58496250072
+zline rfid tag::1.58496250072
+ferret can locate::1.58496250072
+commonly available compression::1.58496250072
+conduct real-time identification::1.58496250072
+reader coordinate system::1.58496250072
+ferret moving direction::1.58496250072
+prototype is based::1.58496250072
+determine the exact::1.58496250072
+ferret combines locationing::1.58496250072
+incorporate negative regions::1.58496250072
+ferret is searching::1.58496250072
+large-scale cyclic environments::1.58496250072
+missing the object::1.58496250072
+nature of rfid::1.58496250072
+cameras optical axis::1.58496250072
+antenna data sheet::1.58496250072
+science foundation grants::1.58496250072
+method for identifying::1.58496250072
+two dimensional display::1.58496250072
+tradeoff in antenna::1.58496250072
+learn the structure::1.58496250072
+reader can determine::1.58496250072
+performs this transformation::1.58496250072
+robot-controlled uni-directional antenna::1.58496250072
+reduce the possibilities::1.58496250072
+locations in relation::1.58496250072
+researchers have developed::1.58496250072
+ultrasound or uwb::1.58496250072
+show the computation::1.58496250072
+float of four::1.58496250072
+interactions with passive::1.58496250072
+translation in software::1.58496250072
+algorithm for generating::1.58496250072
+object is contained::1.58496250072
+tag to query::1.58496250072
+record the number::1.58496250072
+multimedia ? xiaotao::1.58496250072
+ferrets locationing algorithm::1.58496250072
+offline algorithm performance::1.58496250072
+rotating and translating::1.58496250072
+sensor is offset::1.58496250072
+reading was negative::1.58496250072
+cricket locationsupport system::1.58496250072
+volume that encompasses::1.58496250072
+information is stored::1.58496250072
+describe a greatly::1.58496250072
+tags are self-identifying::1.58496250072
+inferring the location::1.58496250072
+algorithm incurs large::1.58496250072
+proceedings of percom03::1.58496250072
+intersecting two maps::1.58496250072
+store long histories::1.58496250072
+estimation is essentially::1.58496250072
+maps of large-scale::1.58496250072
+volume of 0.01m3::1.58496250072
+advances in digital::1.58496250072
+rfid-tagged objects contained::1.58496250072
+plot the projection::1.58496250072
+measured the computational::1.58496250072
+online location estimation::1.58496250072
+techniques from linear::1.58496250072
+eye web-camera connected::1.58496250072
+rfid tag operating::1.58496250072
+commercially available digital::1.58496250072
+readings are correlated::1.58496250072
+omit the proof::1.58496250072
+reading the rfid::1.58496250072
+produces a positive::1.58496250072
+sony motion eye::1.58496250072
+proposed a technique::1.58496250072
+find the precise::1.58496250072
+displaying object locations::1.58496250072
+objects requiring location::1.58496250072
+detail for two::1.58496250072
+locations of nomadic::1.58496250072
+object motion detection::1.58496250072
+dollars per sensor::1.58496250072
+reaches the object::1.58496250072
+set of points::1.58496250072
+experiments they demonstrated::1.58496250072
+objectthis greatly reduces::1.58496250072
+projecting the location::1.58496250072
+keeping the lens::1.58496250072
+sony vaio laptop::1.58496250072
+set of readings::1.58496250072
+detecting these nomadic::1.58496250072
+technologies with pervasive::1.58496250072
+successive reading multiplies::1.58496250072
+online algorithm incurs::1.58496250072
+mobile robot perception::1.58496250072
+maintaining a history::1.58496250072
+run the offline::1.58496250072
+adjust to deal::1.58496250072
+system can store::1.58496250072
+region is greatly::1.58496250072
+entire video stream::1.58496250072
+exploits the users::1.58496250072
+tags and displays::1.58496250072
+leverages the fact::1.58496250072
+describe the exterior::1.58496250072
+prototype of ferret::1.58496250072
+ferrets offline algorithm::1.58496250072
+tags to unobtrusively::1.58496250072
+supported in part::1.58496250072
+mapping the probability::1.58496250072
+tag can report::1.58496250072
+object in view::1.58496250072
+requires relative locations::1.58496250072
+errors in locating::1.58496250072
+x40 laptop equipped::1.58496250072
+estimates of object::1.58496250072
+sense a disturbance::1.58496250072
+information is small::1.58496250072
+amount of computational::1.58496250072
+tags are remotely::1.58496250072
+detecting the absence::1.58496250072
+algorithm with drastically::1.58496250072
+tracks the total::1.58496250072
+region would return::1.58496250072
+measured the performance::1.58496250072
+locating the object::1.58496250072
+sensors are expensive::1.58496250072
+localize the robot::1.58496250072
+produce a large::1.58496250072
+limited battery life::1.58496250072
+scaling to applications::1.58496250072
+rotation and projection::1.58496250072
+environments from raw::1.58496250072
+device must start::1.58496250072
+narrow the location::1.58496250072
+method to positive::1.58496250072
+focused radiation pattern::1.58496250072
+research was supported::1.58496250072
+pattern and longer::1.58496250072
+ferret performs similarly::1.58496250072
+require location information::1.58496250072
+number of batteries::1.58496250072
+tags are passive::1.58496250072
+two x points::1.58496250072
+reduces the volume::1.58496250072
+rotating the coverage::1.58496250072
+detected with lower::1.58496250072
+implemented a prototype::1.58496250072
+expensive robot system::1.58496250072
+number of negative::1.58496250072
+technical report 06-22::1.58496250072
+move the camera::1.58496250072
+activities on rfid::1.58496250072
+proceedings of iros03::1.58496250072
+dollar per tag::1.58496250072
+tracking tags nearness::1.58496250072
+identification and locationing::1.58496250072
+objecta positive reading::1.58496250072
+shape that describes::1.58496250072
+knowledge about object::1.58496250072
+range are detected::1.58496250072
+aids ferrets ability::1.58496250072
+thingmagic monostatic circular::1.58496250072
+thousands of nomadic::1.58496250072
+online to track::1.58496250072
+modifications to tags::1.58496250072
+transforms the coverage::1.58496250072
+object as described::1.58496250072
+prevents the device::1.58496250072
+heading and yaw::1.58496250072
+objects are uncertain::1.58496250072
+ferret provides systems::1.58496250072
+showing a single::1.58496250072
+estimate the objects::1.58496250072
+inventory tracking applications::1.58496250072
+positive or negative::1.58496250072
+applying a likelihood::1.58496250072
+emits a signal::1.58496250072
+reflects the map::1.58496250072
+change locations infrequently::1.58496250072
+reader is shown::1.58496250072
+human may move::1.58496250072
+ferret must transform::1.58496250072
+produce a region::1.58496250072
+needing the full::1.58496250072
+likelyonce the user::1.58496250072
+correlated by orientation::1.58496250072
+identifies the object::1.58496250072
+tag per object::1.58496250072
+related work researchers::1.58496250072
+camera is constantly::1.58496250072
+composed of smaller::1.58496250072
+improves its postulation::1.58496250072
+devices to conduct::1.58496250072
+features make passive::1.58496250072
+monostatic circular antenna::1.58496250072
+readings to reduce::1.58496250072
+ferret should adjust::1.58496250072
+relative volume tracks::1.58496250072
+greatly simplified version::1.58496250072
+data we collected::1.58496250072
+allowing offline querying::1.58496250072
+probability of finding::1.58496250072
+empty location estimation::1.58496250072
+create a concave::1.58496250072
+system can build::1.58496250072
+plane is straightforward::1.58496250072
+reading a tag::1.58496250072
+intersecting the coverage::1.58496250072
+bytes to track::1.58496250072
+make any errors::1.58496250072
+performance using two::1.58496250072
+displaying the uncertainty::1.58496250072
+locate a misplaced::1.58496250072
+previous experiment showed::1.58496250072
+current mobile devices::1.58496250072
+diameter of 57.6cm::1.58496250072
+analyzing the data::1.58496250072
+offline ferret algorithm::1.58496250072
+store the probabilities::1.58496250072
+intersection of coverage::1.58496250072
+showed the results::1.58496250072
+system for analyzing::1.58496250072
+readings from multiple::1.58496250072
+proceedings of iccas05::1.58496250072
+narrow the region::1.58496250072
+offline algorithm outperforms::1.58496250072
+rfid-based indoor locationing::1.58496250072
+start finding objects::1.58496250072
+equally likely probabilities::1.58496250072
+shows that ferret::1.58496250072
+set of semi-repeatable::1.58496250072
+algorithm by localizing::1.58496250072
+map of probabilities::1.58496250072
+overlays the video::1.58496250072
+2m3 to 0.02m3::1.58496250072
+reduced representation results::1.58496250072
+displays the outline::1.58496250072
+augmented with rfid::1.58496250072
+slightly greater number::1.58496250072
+highlights a small::1.58496250072
+walking in front::1.58496250072
+ran the offline::1.58496250072
+code that uniquely::1.58496250072
+reasons of cost::1.58496250072
+application of conditional::1.58496250072
+reinitializes the location::1.58496250072
+amount of history::1.58496250072
+multiple power outputs::1.58496250072
+computing the intersection::1.58496250072
+provide a method::1.58496250072
+refine the locations::1.58496250072
+out possible locations::1.58496250072
+problem of estimating::1.58496250072
+introduction to rfid::1.58496250072
+systems for mobile::1.58496250072
+ferret can store::1.58496250072
+providing locationing information::1.58496250072
+describe two alternative::1.58496250072
+volume monotonically decreases::1.58496250072
+performance is similar::1.58496250072
+track the probability::1.58496250072
+hundreds or thousands::1.58496250072
+described in section::1.58496250072
+reader is set::1.58496250072
+ferret can narrow::1.58496250072
+objects using static::1.58496250072
+ferret design ferret::1.58496250072
+greatly aids ferrets::1.58496250072
+hand in front::1.58496250072
+poorly in detecting::1.58496250072
+device this technique::1.58496250072
+position and orientation::1.58496250072
+return the complexity::1.58496250072
+location estimation versus::1.58496250072
+diameter of 26.7cm::1.58496250072
+readings to infer::1.58496250072
+distance exceeds 25cm::1.58496250072
+proceedings of icra05::1.58496250072
+numerous locationing technologies::1.58496250072
+university of washington::1.58496250072
+objects rfid tag::1.58496250072
+tag from multiple::1.58496250072
+intersection of two::1.58496250072
+increase the likelihood::1.58496250072
+tag a distance::1.58496250072
+technique for inferring::1.58496250072
+users can locate::1.58496250072
+affect the system::1.58496250072
+receives the first::1.58496250072
+distance between 5cm::1.58496250072
+directionality of rfid::1.58496250072
+tend to head::1.58496250072
+algorithm is designed::1.58496250072
+storing locations locally::1.58496250072
+motions are composed::1.58496250072
+volume of 0.1m3::1.58496250072
+equally likely probability::1.58496250072
+read-only rfid tags::1.58496250072
+ferret should detect::1.58496250072
+objects are present::1.58496250072
+passive nature raises::1.58496250072
+change of response::1.58496250072
+probability threshold errors::1.58496250072
+self-identifying rfid tags::1.58496250072
+sensing using active::1.58496250072
+errors almost doubles::1.58496250072
+evaluate ferrets performance::1.58496250072
+indoor locationing systems::1.58496250072
+incurs small overhead::1.58496250072
+self-locating capabilities simply::1.58496250072
+cricket ultrasound system::1.58496250072
+requires writable tags::1.58496250072
+demonstrate that ferret::1.58496250072
+emergence of low-cost::1.58496250072
+signal and tags::1.58496250072
+locations without needing::1.58496250072
+project different areas::1.58496250072
+solution is applying::1.58496250072
+tag and falling::1.58496250072
+compass to obtain::1.58496250072
+information in addition::1.58496250072
+shrink the volume::1.58496250072
+detect the existence::1.58496250072
+eases large-scale deployment::1.58496250072
+finds the intersection::1.58496250072
+deal with nomadic::1.58496250072
+objects or pinpoint::1.58496250072
+two dimensional array::1.58496250072
+circular pattern performs::1.58496250072
+region can create::1.58496250072
+batteriesmaking objects self-locating::1.58496250072
+produces smaller volumes::1.58496250072
+image plane area::1.58496250072
+done in realtime::1.58496250072
+algorithms that refine::1.58496250072
+displays their locations::1.58496250072
+requirement from 43.5m::1.58496250072
+system is constantly::1.58496250072
+shows sample points::1.58496250072
+track the points::1.58496250072
+order of 20cm::1.58496250072
+describing the perimeter::1.58496250072
+ferret must store::1.58496250072
+location with rfid::1.58496250072
+room and moves::1.58496250072
+opposed to robotic::1.58496250072
+precision in locating::1.58496250072
+view and generally::1.58496250072
+performance of offline::1.58496250072
+weighted as heavily::1.58496250072
+reader is assumed::1.58496250072
+performs the worst::1.58496250072
+tag greatly reduces::1.58496250072
+requires a set::1.58496250072
+estimate tags distance::1.58496250072
+detect human interactions::1.58496250072
+approach employed laser-based::1.58496250072
+measures the tracking::1.58496250072
+translating and rotating::1.58496250072
+storage the number::1.58496250072
+readings only shrinks::1.58496250072
+lens orientation radial::1.58496250072
+ferrets error rate::1.58496250072
+reduces the storage::1.58496250072
+vision and graphics::1.58496250072
+handheld video camera::1.58496250072
+plot the volume::1.58496250072
+refine its location::1.58496250072
+ferret to narrow::1.58496250072
+includes all places::1.58496250072
+environment and assuming::1.58496250072
+system to control::1.58496250072
+total space required::1.58496250072
+addition to positive::1.58496250072
+movements straight line::1.58496250072
+changing its orientation::1.58496250072
+locations in real-time::1.58496250072
+set a threshold::1.58496250072
+volume can project::1.58496250072
+ferret to discover::1.58496250072
+errors doesnt change::1.58496250072
+individual patterns affect::1.58496250072
+shrinks the area::1.58496250072
+fixed focal length::1.58496250072
+changing the orientation::1.58496250072
+display object locations::1.58496250072
+set to 30dbm::1.58496250072
+tag being tracked::1.58496250072
+display area fig::1.58496250072
+intersecting positive readings::1.58496250072
+video capture capabilities::1.58496250072
+equivalent to hahnels::1.58496250072
+handles nomadic objects::1.58496250072
+battery power source::1.58496250072
+easily maintained method::1.58496250072
+pdas and laptops::1.58496250072
+work on occupancy::1.58496250072
+coverage region fig::1.58496250072
+describes the probability::1.58496250072
+rate of rfid::1.58496250072
+system to display::1.58496250072
+ferret didnt detect::1.58496250072
+choose a constant::1.58496250072
+user has stored::1.58496250072
+repeat the experiment::1.58496250072
+objects do move::1.58496250072
+ieee pervasive computing::1.58496250072
+method for displaying::1.58496250072
+designed for offline::1.58496250072
+move the prototype::1.58496250072
+discover the location::1.58496250072
+two novel algorithms::1.58496250072
+designed to replace::1.58496250072
+proceedings of ubicomp04::1.58496250072
+algorithms error rate::1.58496250072
+describe the probability::1.58496250072
+reduced computational cost::1.58496250072
+describing an eventual::1.58496250072
+system performed poorly::1.58496250072
+national science foundation::1.58496250072
+approach is derived::1.58496250072
+tags without expensive::1.58496250072
+static rfid readers::1.58496250072
+due to reasons::1.58496250072
+grants national science::1.58496250072
+online locationing algorithm::1.58496250072
+supports rfid tags::1.58496250072
+incorporating negative readings::1.58496250072
+attached a cricket::1.58496250072
+produce fewer positive::1.58496250072
+replacement to barcodes::1.58496250072
+location are predicated::1.58496250072
+common coordinate system::1.58496250072
+principles and practice::1.58496250072
+derive the probability::1.58496250072
+show the results::1.58496250072
+2.4mm by 1.8mm::1.58496250072
+ferret first transforms::1.58496250072
+efficient fastslam algorithm::1.58496250072
+method to reduce::1.58496250072
+ferret to shrink::1.58496250072
+rfid many pervasive::1.58496250072
+affect the precision::1.58496250072
+positive and negative::1.58496250072
+display an outline::1.58496250072
+missing object alerts::1.58496250072
+nomadic and static::1.58496250072
+cameras ccd sensor::1.58496250072
+burden of management::1.58496250072
+threshold step places::1.58496250072
+variable radiation patterns::1.58496250072
+rate in locating::1.58496250072
+stringent latency requirements::1.58496250072
+employed laser-based fastslam::1.58496250072
+computer science university::1.58496250072
+experimental results show::1.58496250072
+locate rfid tags::1.58496250072
+volume in common::1.58496250072
+reality and immersive::1.58496250072
+prototype ferret system::1.58496250072
+heart of ferret::1.58496250072
+rfid technology ideal::1.58496250072
+algorithm when objects::1.58496250072
+pinpointing a misplaced::1.58496250072
+ferret system fig::1.58496250072
+transactions on robotics::1.58496250072
+fewer positive readings::1.58496250072
+presented in section::1.58496250072
+identities and locations::1.58496250072
+drops from 2m3::1.58496250072
+object and stops::1.58496250072
+system called ferret::1.58496250072
+false nega tives::1.58496250072
+object movements straight::1.58496250072
+report its identify::1.58496250072
+depend on modifications::1.58496250072
+circle ferret system::1.58496250072
+systems for ultrasound::1.58496250072
+intersecting these ranges::1.58496250072
+z-line rotate circle::1.58496250072
+stored location information::1.58496250072
+pixel diameter circle::1.58496250072
+tracks the size::1.58496250072
+require battery power::1.58496250072
+gained additional knowledge::1.58496250072
+readings to update::1.58496250072
+query its location::1.58496250072
+deployed cricket beacons::1.58496250072
+describes the perimeter::1.58496250072
+show a comparison::1.58496250072
+requirements the prototype::1.58496250072
+objects location likelihood::1.58496250072
+move infrequentlycommonly referred::1.58496250072
+power output level::1.58496250072
+passive rfid technology::1.58496250072
+directional video camera::1.58496250072
+times that ferret::1.58496250072
+place a tag::1.58496250072
+direction for future::1.58496250072
+combine multiple readings::1.58496250072
+hundreds of objects::1.58496250072
+number of times::1.58496250072
+smaller commercial version::1.58496250072
+current mobile hardware::1.58496250072
+ferrets location accuracy::1.58496250072
+rely on location::1.58496250072
+imagine attaching tags::1.58496250072
+locationing and projection::1.58496250072
+moved and reinitialize::1.58496250072
+robot and moving::1.58496250072
+gps and ultrasound::1.58496250072
+incorporate human movements::1.58496250072
+tens of dollars::1.58496250072
+2.56m x 2.56m::1.58496250072
+camera ; doing::1.58496250072
+final projection area::1.58496250072
+drop in price::1.58496250072
+maps were disjoint::1.58496250072
+designed to deal::1.58496250072
+experiment ten times::1.58496250072
+number of hurdles::1.58496250072
+prototype moves straight::1.58496250072
+averaged the results::1.58496250072
+line segment representation::1.58496250072
+rfid reading consumes::1.58496250072
+simple to capture::1.58496250072
+discrete motion patterns::1.58496250072
+assumed to detect::1.58496250072
+translating the map::1.58496250072
+ranges allows ferret::1.58496250072
+opposed to mobile::1.58496250072
+times and record::1.58496250072
+combining multiple readings::1.58496250072
+evaluate ferrets precision::1.58496250072
+scales to hundreds::1.58496250072
+indoor location sensing::1.58496250072
+algorithm that performs::1.58496250072
+devices with video::1.58496250072
+static rfid tags::1.58496250072
+standard orientation-insensitive tag::1.58496250072
+prashant shenoy department::1.58496250072
+developed rfid-based indoor::1.58496250072
+refine the object::1.58496250072
+detailed performance evaluation::1.58496250072
+times the number::1.58496250072
+scenario will generate::1.58496250072
+intersecting the range::1.58496250072
+system then reinitializes::1.58496250072
+tags are inexpensive::1.58496250072
+technical report 00-02-02::1.58496250072
+proposed orientation systems::1.58496250072
+cameras current position::1.58496250072
+1.74m x 2.56m::1.58496250072
+estimates to mobile::1.58496250072
+show an outline::1.58496250072
+grids for mobile::1.58496250072
+hundreds and thousands::1.58496250072
+addition to translating::1.58496250072
+mounted the compass::1.58496250072
+reading was positive::1.58496250072
+tag it initializes::1.58496250072
+samples for nearby::1.58496250072
+exploit the location::1.58496250072
+increase the error::1.58496250072
+tags in balloon-shaped::1.58496250072
+offline spatial requirements::1.58496250072
+thresholding and projection::1.58496250072
+nsf grants national::1.58496250072
+computed to back-annotate::1.58496250072
+move the tag::1.58496250072
+variety of user::1.58496250072
+share large volumes::1.58496250072
+performs an intersection::1.58496250072
+object does move::1.58496250072
+power output produces::1.58496250072
+requirements the computational::1.58496250072
+radio signal attenuation::1.58496250072
+refining location estimates::1.58496250072
+offline algorithm requires::1.58496250072
+instance in figure::1.58496250072
+weight is proportional::1.58496250072
+accuracy the results::1.58496250072
+readers rfid antenna::1.58496250072
+objectsobjects that change::1.58496250072
+pair of constant::1.58496250072
+display will show::1.58496250072
+representations are highly::1.58496250072
+smallest volume size::1.58496250072
+reduce the volume::1.58496250072
+real-time to display::1.58496250072
+offline computational requirements::1.58496250072
+fully working prototype::1.58496250072
+inertial location system::1.58496250072
+single centroid point::1.58496250072
+5cm and 200cm::1.58496250072
+incorporate negative readingswhen::1.58496250072
+produces a set::1.58496250072
+localization with rfid::1.58496250072
+location and directionality::1.58496250072
+yielding similar performance::1.58496250072
+threshold ferret incorrectly::1.58496250072
+starting coverage region::1.58496250072
+ferret also address::1.58496250072
+experiments are conducted::1.58496250072
+location algorithm performs::1.58496250072
+tags are developed::1.58496250072
+evaluated ferrets performance::1.58496250072
+estimate the location::1.58496250072
+overlay this region::1.58496250072
+three-dimensional coordinate system::1.58496250072
+determine object locations::1.58496250072
+detecting translation-only movement::1.58496250072
+triangulate the position::1.58496250072
+rotated and translated::1.58496250072
+compression tool gzip::1.58496250072
+tag in relation::1.58496250072
+online algorithms error::1.58496250072
+estimating the locations::1.58496250072
+form a pose::1.58496250072
+storage is plentiful::1.58496250072
+object is observed::1.58496250072
+outperforms the online::1.58496250072
+small and mobile::1.58496250072
+online refinement performance::1.58496250072
+space will enable::1.58496250072
+reader is paired::1.58496250072
+objects self-locating requires::1.58496250072
+opportunities in vision::1.58496250072
+boundary are detected::1.58496250072
+ferret can make::1.58496250072
+generate offline maps::1.58496250072
+overestimated the performance::1.58496250072
+infer and refine::1.58496250072
+measure the pan::1.58496250072
+multiple readings produce::1.58496250072
+ferret prototype system::1.58496250072
+removing any location::1.58496250072
+designed a system::1.58496250072
+present the design::1.58496250072
+thousands of objects::1.58496250072
+dimensional space::1.0
+threshold ferret::1.0
+allowing offline::1.0
+cmos-based camera::1.0
+imagine attaching::1.0
+resulting intersection::1.0
+specific attention::1.0
+combine multiple::1.0
+elegant technique::1.0
+tag ferret::1.0
+drastically reduced::1.0
+ferret focuses::1.0
+plane area::1.0
+object motion::1.0
+work researchers::1.0
+exact location::1.0
+online representations::1.0
+intersecting positive::1.0
+line head-on::1.0
+future antennas::1.0
+user selects::1.0
+ferret produces::1.0
+map shown::1.0
+trendsthe ubiquity::1.0
+simplified version::1.0
+pervasive systems::1.0
+1.5ghz pentiumm::1.0
+patterns shown::1.0
+acm transactions::1.0
+communications magazine::1.0
+system highlights::1.0
+combining multiple::1.0
+requires writable::1.0
+centroid point::1.0
+ieee transactions::1.0
+past locations::1.0
+users cognition::1.0
+proposed orientation::1.0
+lower probabilities::1.0
+didnt detect::1.0
+manually verify::1.0
+pattern performs::1.0
+relative volume::1.0
+dimensional display::1.0
+basic algorithm::1.0
+initial postulate::1.0
+nomadicas opposed::1.0
+online volume::1.0
+probability threshold::1.0
+algorithm outperforms::1.0
+robotic navigation::1.0
+reader covers::1.0
+readings produce::1.0
+offline representation::1.0
+process occurs::1.0
+initial estimates::1.0
+quickly find::1.0
+nomadic distances::1.0
+mobile user::1.0
+resulting maps::1.0
+two steps::1.0
+immersive systems::1.0
+grants national::1.0
+sparton sp3003d::1.0
+wireless reader::1.0
+option requires::1.0
+individual locations::1.0
+individual patterns::1.0
+thingmagic mercury4::1.0
+employed laser-based::1.0
+features make::1.0
+volume excessively::1.0
+methods presented::1.0
+tags simultaneously::1.0
+display area::1.0
+ferret moving::1.0
+errors doesnt::1.0
+locate rfid::1.0
+proposed technique::1.0
+experiment ten::1.0
+power outputs::1.0
+paper presents::1.0
+pay specific::1.0
+ferrets precision::1.0
+laser range::1.0
+personal communications::1.0
+ferret algorithm::1.0
+proactively generate::1.0
+manually calibrated::1.0
+cameras ccd::1.0
+smallest region::1.0
+algorithm costs::1.0
+video capture::1.0
+previous user::1.0
+deployed cricket::1.0
+threedimensional map::1.0
+moving distances::1.0
+high probability::1.0
+ieee pervasive::1.0
+detect movement::1.0
+first transforms::1.0
+individual object::1.0
+localization approach::1.0
+object locationas::1.0
+past history::1.0
+algorithm requires::1.0
+sensing range::1.0
+ferret-based camera::1.0
+ferrets offline::1.0
+compression tool::1.0
+detection ferret::1.0
+successive reading::1.0
+objects locationthis::1.0
+hahnels approach::1.0
+cyclic environments::1.0
+focused radiation::1.0
+greatly simplified::1.0
+storing locations::1.0
+computational cost::1.0
+common coordinate::1.0
+produce positive::1.0
+performs similarly::1.0
+starting coverage::1.0
+absolute volume::1.0
+providing locationing::1.0
+precise representation::1.0
+numerous locationing::1.0
+static objects::1.0
+ferret depends::1.0
+food items::1.0
+estimate tags::1.0
+maximum dimensions::1.0
+computationally intensive::1.0
+storing data::1.0
+directly determine::1.0
+human interactions::1.0
+systems support::1.0
+region relative::1.0
+captured image::1.0
+three-dimensional coordinate::1.0
+video plane::1.0
+monotonically decreases::1.0
+multiple readers::1.0
+full complexity::1.0
+experiments pay::1.0
+require changing::1.0
+balloon shaped::1.0
+likelihood location::1.0
+doesnt change::1.0
+volume defined::1.0
+step places::1.0
+computer science::1.0
+ferrets ability::1.0
+offline spatial::1.0
+tag operating::1.0
+monostatic circular::1.0
+developed rfid-based::1.0
+ferret projects::1.0
+office devices::1.0
+independent trial::1.0
+area fig::1.0
+leaving out::1.0
+threshold step::1.0
+probable location::1.0
+combines locationing::1.0
+ferret combines::1.0
+storage-poor tags::1.0
+union tag::1.0
+zline rfid::1.0
+self-locating requires::1.0
+approach employed::1.0
+performance evaluation::1.0
+objects rfid::1.0
+reasonable value::1.0
+unobtrusively detect::1.0
+limited battery::1.0
+requirements strictly::1.0
+patterns affect::1.0
+continuously collects::1.0
+previous results::1.0
+concave region::1.0
+quickly ferret::1.0
+share large::1.0
+move infrequentlycommonly::1.0
+performance advantage::1.0
+limitations prevent::1.0
+key limitation::1.0
+output produces::1.0
+distance measurements::1.0
+tags distance::1.0
+similar relationship::1.0
+infrequentlycommonly referred::1.0
+slightly greater::1.0
+device fraction::1.0
+devices enables::1.0
+practical experiments::1.0
+tag readings::1.0
+generally cover::1.0
+disjoint spaces::1.0
+implementation considerations::1.0
+introduction advances::1.0
+change locations::1.0
+pixel diameter::1.0
+location storage::1.0
+privacy controls::1.0
+system cricket::1.0
+coverage regions::1.0
+key insight::1.0
+describe two::1.0
+initial knowledge::1.0
+inherent mobility::1.0
+collects readings::1.0
+self-identifying rfid::1.0
+gained additional::1.0
+completely stationary::1.0
+intersecting two::1.0
+pervasive computing::1.0
+small storage::1.0
+locationing accuracy::1.0
+battery life::1.0
+negative assertions::1.0
+fewer positive::1.0
+greater number::1.0
+shows sample::1.0
+likelihood thresholds::1.0
+longer range::1.0
+cricket beacons::1.0
+offline computational::1.0
+robots equipped::1.0
+national science::1.0
+central database::1.0
+produces smaller::1.0
+manual inspection::1.0
+readingsmost points::1.0
+remotely rewritable::1.0
+involves projecting::1.0
+manually mapping::1.0
+motion eye::1.0
+costs 749.32ms::1.0
+grants cns-0219520::1.0
+previous section::1.0
+refining location::1.0
+continuously calculate::1.0
+large-scale cyclic::1.0
+effects ferret::1.0
+eases large-scale::1.0
+probabilityobjects closer::1.0
+batteriesmaking objects::1.0
+tags nearness::1.0
+world-coordinate system::1.0
+rfid reading::1.0
+reader means::1.0
+coverage range::1.0
+rotating objects::1.0
+critical factor::1.0
+similar performance::1.0
+management tradeoffs::1.0
+straight-forward application::1.0
+orientation-insensitive tag::1.0
+ideal conditions::1.0
+ferret benefits::1.0
+power source::1.0
+z-shaped line::1.0
+ferrets error::1.0
+commercial version::1.0
+first half::1.0
+dimensions correspond::1.0
+offline systems::1.0
+iso 18000-6b::1.0
+efficient fastslam::1.0
+inventory tracking::1.0
+case ferret::1.0
+vision-based applications::1.0
+ferret starts::1.0
+tags respond::1.0
+offline querying::1.0
+quickly locate::1.0
+room equipped::1.0
+video recording::1.0
+imprecise readings::1.0
+motion detection::1.0
+sony motion::1.0
+handheld device::1.0
+space required::1.0
+consumer devices::1.0
+external database::1.0
+modern processor::1.0
+projection areas::1.0
+ferret automatically::1.0
+objectthis greatly::1.0
+reader implicitly::1.0
+require battery::1.0
+portable camera::1.0
+writable tags::1.0
+moving direction::1.0
+uniquely identifies::1.0
+volume monotonically::1.0
+maintained method::1.0
+ferret encounters::1.0
+moving tags::1.0
+algorithm incorporates::1.0
+conduct real-time::1.0
+location region::1.0
+multiple fixed::1.0
+frequency range::1.0
+system fig::1.0
+building map::1.0
+xiaotao liu::1.0
+large volumes::1.0
+intersect two::1.0
+initial location::1.0
+performs intersections::1.0
+subsequently display::1.0
+capabilities due::1.0
+prior knowledge::1.0
+point-view constantly::1.0
+virtually eliminates::1.0
+ferret assumes::1.0
+tunable parameter::1.0
+data sheet::1.0
+expensive robot::1.0
+build accurate::1.0
+handles nomadic::1.0
+first location::1.0
+limited lifetime::1.0
+directional video::1.0
+unknown probability::1.0
+capabilities simply::1.0
+last reading::1.0
+individual passive::1.0
+readers range::1.0
+ferret design::1.0
+addison-wesley professional::1.0
+reading consumes::1.0
+empty location::1.0
+objects self-locating::1.0
+object directly::1.0
+moves straight::1.0
+experimental setup::1.0
+system performed::1.0
+attaching tags::1.0
+object recognition::1.0
+volume doesnt::1.0
+estimation drops::1.0
+ferret continuously::1.0
+laptop equipped::1.0
+stored location::1.0
+requires readers::1.0
+image content::1.0
+antenna choice::1.0
+outputs requires::1.0
+tracking tags::1.0
+power produces::1.0
+negative readingswhen::1.0
+250k bytes::1.0
+incurs large::1.0
+z-line rotate::1.0
+captured video::1.0
+fully working::1.0
+equipping cameras::1.0
+detected object::1.0
+robot system::1.0
+science university::1.0
+large-scale deployment::1.0
+tag consists::1.0
+location errors::1.0
+tags eases::1.0
+replace barcodes::1.0
+reader operates::1.0
+location likelihood::1.0
+equipping hundreds::1.0
+science foundation::1.0
+detailed performance::1.0
+requires building::1.0
+ferret didnt::1.0
+figure shows::1.0
+run offline::1.0
+detect rotations::1.0
+full representation::1.0
+battery powered::1.0
+sensing technology::1.0
+signal strength::1.0
+active office::1.0
+separate pieces::1.0
+detecting tags::1.0
+mobile objects::1.0
+motion patterns::1.0
+algorithm performs::1.0
+unique identifier::1.0
+offline maps::1.0
+possibly thousands::1.0
+greatly aids::1.0
+nearby tags::1.0
+working prototype::1.0
+algorithm formally::1.0
+alternative algorithms::1.0
+first assume::1.0
+detecting translation-only::1.0
+mobile system::1.0
+current prototype::1.0
+strictly speaking::1.0
+relative orientation::1.0
+detect objects::1.0
+evaluation shows::1.0
+system finds::1.0
+absolute orientation::1.0
+diagram shows::1.0
+postulated location::1.0
+missing object::1.0
+pessimistic view::1.0
+small portion::1.0
+fastslam algorithm::1.0
+tags locationsthe::1.0
+ieee computer::1.0
+users mobility::1.0
+lens orientation::1.0
+combined tags::1.0
+moving objects::1.0
+widely outperforms::1.0
+rfid antenna::1.0
+start finding::1.0
+algorithms performance::1.0
+device moves::1.0
+ferret receives::1.0
+interesting questions::1.0
+deploys multiple::1.0
+concurrent trend::1.0
+prototype moves::1.0
+movements straight::1.0
+primary goal::1.0
+continuous stream::1.0
+technology ideal::1.0
+segment representation::1.0
+supports rfid::1.0
+tag greatly::1.0
+object alerts::1.0
+determine object::1.0
+ferret devices::1.0
+tool gzip::1.0
+laser-range scanner::1.0
+signal attenuation::1.0
+rotate circle::1.0
+locationing information::1.0
+inertial location::1.0
+higher probabilities::1.0
+store long::1.0
+read tags::1.0
+beacons mounted::1.0
+nega tives::1.0
+locationing systems::1.0
+multiple tags::1.0
+false negatives::1.0
+translation-only movement::1.0
+linear antenna::1.0
+ieee personal::1.0
+prashant shenoy::1.0
+experiment showed::1.0
+track multiple::1.0
+web-camera connected::1.0
+alternative methods::1.0
+centralized database::1.0
+eye web-camera::1.0
+foreseeable future::1.0
+eventual goal::1.0
+problems posed::1.0
+additional knowledge::1.0
+resulting region::1.0
+multiple objects::1.0
+multiple positions::1.0
+messy office::1.0
+location technique::1.0
+locating nomadic::1.0
+exceed 20cm::1.0
+incorporate human::1.0
+two-dimensional projection::1.0
+ferrets readings::1.0
+thingmagic monostatic::1.0
+shenoy department::1.0
+0.1m3 region::1.0
+output power::1.0
+human activities::1.0
+robot perception::1.0
+inexpensive hardware::1.0
+radio signal::1.0
+algorithm widely::1.0
+power modulation::1.0
+irregular shape::1.0
+privacy control::1.0
+energy efficient::1.0
+threshold increase::1.0
+rfid locationing::1.0
+primary barrier::1.0
+online system::1.0
+location accuracy::1.0
+nonzero value::1.0
+yielding similar::1.0
+rfid-tagged objects::1.0
+multiple power::1.0
+implement ferret::1.0
+algorithms error::1.0
+ferret incorrectly::1.0
+refinement performance::1.0
+coverage maps::1.0
+nsf grants::1.0
+ultra-wide band::1.0
+linear algebra::1.0
+movement patterns::1.0
+minimum likelihood::1.0
+objects requiring::1.0
+computationally intense::1.0
+mobile hardware::1.0
+objecta positive::1.0
+small region::1.0
+battery power::1.0
+walked randomly::1.0
+reading range::1.0
+1.74mthis shape::1.0
+tracking applications::1.0
+refinement timewith::1.0
+aids ferrets::1.0
+reduced computational::1.0
+circle ferret::1.0
+total volume::1.0
+two dimensions::1.0
+battery-powered sensors::1.0
+timewith prior::1.0
+increasing number::1.0
+proposed system::1.0
+circle online::1.0
+human-driven applications::1.0
+orientation system::1.0
+previous readings::1.0
+alien technology::1.0
+remotely written::1.0
+ferrets notion::1.0
+incurs small::1.0
+computational power::1.0
+readers rfid::1.0
+pictorial representation::1.0
+smaller commercial::1.0
+orientation systems::1.0
+ferrets locationing::1.0
+produce fewer::1.0
+weighted sum::1.0
+two kinds::1.0
+dimensional grid::1.0
+navigation systems::1.0
+probability greater::1.0
+capture capabilities::1.0
+locating objects::1.0
+two dimensional::1.0
+detect human::1.0
+evaluation section::1.0
+online version::1.0
+conditional probability::1.0
+uncertainty region::1.0
+volume volume::1.0
+offline volume::1.0
+single centroid::1.0
+stationary camera::1.0
+mercury4 rfid::1.0
+distance exceeds::1.0
+incorrectly shrinks::1.0
+imaging technologies::1.0
+region shrinking::1.0
+coffee cup::1.0
+ferret reader::1.0
+generate offline::1.0
+normalization factor::1.0
+cs.umass.edu abstract::1.0
+multiple vantage::1.0
+vast majorityin::1.0
+single tag::1.0
+low-cost identification::1.0
+make passive::1.0
+digital camcorders::1.0
+limited::0.0
+represent::0.0
+four::0.0
+consists::0.0
+centimeter::0.0
+two-dimensional::0.0
+calculate::0.0
+segments::0.0
+presents::0.0
+localization technique::0.0
+readers and reference::0.0
+incurs::0.0
+affect::0.0
+devicesenables::0.0
+force::0.0
+10m::0.0
+post-processing::0.0
+tangential::0.0
+nega::0.0
+conduct::0.0
+increasing::0.0
+readings to locate::0.0
+simultaneously::0.0
+evaluating::0.0
+error::0.0
+active::0.0
+path::0.0
+interpret::0.0
+infrequentlycommonly::0.0
+items::0.0
+study::0.0
+00-02-02::0.0
+subtracts::0.0
+mobility::0.0
+mercury4::0.0
+total::0.0
+plot::0.0
+0.0112m3::0.0
+real-time::0.0
+ward::0.0
+lower power::0.0
+room::0.0
+setup::0.0
+work::0.0
+algorithm widely outperforms::0.0
+balance of error::0.0
+derive::0.0
+household::0.0
+updated::0.0
+0.0117m3::0.0
+feasible::0.0
+absolute::0.0
+provide::0.0
+verify::0.0
+finding objects::0.0
+percom03::0.0
+0.05m3::0.0
+front::0.0
+move frequently::0.0
+inherent::0.0
+modulation::0.0
+orientation-sensitive::0.0
+lau::0.0
+requiring location::0.0
+algorithms::0.0
+require specific::0.0
+operate::0.0
+operations::0.0
+interpretation::0.0
+office::0.0
+semi-repeatable::0.0
+likelyonce::0.0
+directional::0.0
+personal::0.0
+highlights::0.0
+fig::0.0
+versus::0.0
+combination::0.0
+incorrectly::0.0
+effects::0.0
+xiaotaol::0.0
+detroit::0.0
+reasonable::0.0
+perimeter::0.0
+independent::0.0
+essentially constant::0.0
+principles::0.0
+749.32ms::0.0
+elfess::0.0
+aids::0.0
+headon::0.0
+realtime::0.0
+content::0.0
+size::0.0
+linear::0.0
+barrier::0.0
+commercially::0.0
+map l ferret::0.0
+detecting::0.0
+hand::0.0
+incorporates::0.0
+starts::0.0
+inexpensive::0.0
+days::0.0
+iso::0.0
+unknown::0.0
+features::0.0
+primary::0.0
+:91102::0.0
+portable::0.0
+related work::0.0
+approximately::0.0
+normalization::0.0
+pinpointing::0.0
+tags of epc::0.0
+unobtrusively detect human::0.0
+radiation::0.0
+tool::0.0
+washington::0.0
+locationsthe offline::0.0
+begins::0.0
+showed::0.0
+elegant::0.0
+tunable::0.0
+pervasive nature::0.0
+1watt::0.0
+boston::0.0
+modern::0.0
+outperforms::0.0
+graphics::0.0
+robot and rfid::0.0
+overlays::0.0
+implemented::0.0
+icra05::0.0
+describes the coverage::0.0
+semi-repeatable motion::0.0
+evaluated ferrets::0.0
+transactions::0.0
+correct::0.0
+eliminates::0.0
+extending::0.0
+errors::0.0
+points::0.0
+left::0.0
+consumer::0.0
+consumes::0.0
+incorporate::0.0
+ferret incorporates::0.0
+abilities::0.0
+radio::0.0
+durrant-whyte::0.0
+volumes of personal::0.0
+facing the object::0.0
+make::0.0
+raw laser::0.0
+ultra-wide::0.0
+ferret device fraction::0.0
+localizing::0.0
+scalable::0.0
+antennas movement::0.0
+prototype ferret::0.0
+system as shown::0.0
+automatic::0.0
+transforms::0.0
+sensitivity::0.0
+observed::0.0
+cns-0447877::0.0
+depends::0.0
+radius::0.0
+result::0.0
+calculating and displaying::0.0
+techniques::0.0
+system intersects::0.0
+size of 2.4mm::0.0
+combining::0.0
+hundreds::0.0
+overestimated::0.0
+essentially::0.0
+irregular::0.0
+refinement::0.0
+readers::0.0
+receives::0.0
+exceeds::0.0
+vaio::0.0
+personal objects::0.0
+mercury4 rfid reader::0.0
+conference::0.0
+quickly::0.0
+recording devicesenables::0.0
+dynamically::0.0
+change of likelihood::0.0
+immersive::0.0
+user can quickly::0.0
+balance::0.0
+pessimistic::0.0
+locating nomadic objects::0.0
+hightower::0.0
+exterior::0.0
+march::0.0
+alien::0.0
+perform::0.0
+immediately project::0.0
+inventory::0.0
+positives::0.0
+start its refinement::0.0
+opportunity::0.0
+:4657::0.0
+scenario::0.0
+gzip::0.0
+detection of interactions::0.0
+office objects::0.0
+epc::0.0
+stringent::0.0
+proposed::0.0
+diameter::0.0
+laptop::0.0
+rotated::0.0
+identify::0.0
+human::0.0
+rotates::0.0
+projection::0.0
+practice::0.0
+transformed::0.0
+advances::0.0
+posed::0.0
+possibly::0.0
+manual::0.0
+specific::0.0
+amherst::0.0
+algorithms performance advantage::0.0
+tracked::0.0
+fox::0.0
+translates the coverage::0.0
+ubiquity::0.0
+technique to detect::0.0
+steps::0.0
+head-on::0.0
+places a minimum::0.0
+pose::0.0
+progressively narrow::0.0
+emits::0.0
+associates an unknown::0.0
+projected::0.0
+update locations::0.0
+slightly::0.0
+automatically::0.0
+considerations::0.0
+float::0.0
+back-annotate the entire::0.0
+raises::0.0
+refined::0.0
+vicinitythe::0.0
+rely::0.0
+compression::0.0
+support::0.0
+constantly::0.0
+transform::0.0
+timewith::0.0
+overhead::0.0
+tag limits::0.0
+head::0.0
+form::0.0
+wireless::0.0
+incorporation::0.0
+true::0.0
+smallest volume::0.0
+reset::0.0
+attached::0.0
+camera ; ferrets::0.0
+length of 2.75mm::0.0
+computing::0.0
+covers::0.0
+regions directly::0.0
+continually::0.0
+eventual::0.0
+locationsthe offline algorithm::0.0
+incurs large overhead::0.0
+alerts::0.0
+generally::0.0
+parameter in ferretin::0.0
+reality::0.0
+chakraborty::0.0
+conditions::0.0
+motion is straightforward::0.0
+test::0.0
+involves::0.0
+shrink::0.0
+history as shown::0.0
+ccd sensor::0.0
+2.56m::0.0
+update::0.0
+infrastructure requirements::0.0
+concurrent::0.0
+variable::0.0
+describing::0.0
+longer::0.0
+assume::0.0
+localization::0.0
+locationing::0.0
+raises a number::0.0
+technique greatly reduces::0.0
+maps of rfid::0.0
+updates::0.0
+roh::0.0
+building a map::0.0
+1.74m::0.0
+749.32ms per reading::0.0
+roy::0.0
+multiple fixed rfid::0.0
+mounted::0.0
+navigation::0.0
+technique::0.0
+environment::0.0
+finally::0.0
+monotonically::0.0
+reader emits::0.0
+controls::0.0
+choice::0.0
+reduced in size::0.0
+orientations::0.0
+exact::0.0
+ubicomp04::0.0
+level::0.0
+camera ; ferrets notion::0.0
+prevent::0.0
+three-dimensional::0.0
+dealing::0.0
+initializes::0.0
+reader that queries::0.0
+20cm::0.0
+modeling of reader::0.0
+adds::0.0
+current::0.0
+badge::0.0
+eia-0098060::0.0
+users motion::0.0
+address::0.0
+change::0.0
+final projection::0.0
+commonly::0.0
+assuming no prior::0.0
+require a locationing::0.0
+pictorial::0.0
+reset the locationing::0.0
+possibility of false::0.0
+working::0.0
+positive::0.0
+handles::0.0
+opposed::0.0
+attenuation to estimate::0.0
+limitation::0.0
+cases::0.0
+drastically affects::0.0
+inertial::0.0
+believes::0.0
+soup::0.0
+values::0.0
+dollars::0.0
+heart::0.0
+figure::0.0
+exploit::0.0
+overlay::0.0
+sample::0.0
+refine::0.0
+past::0.0
+stream of tag::0.0
+requirements::0.0
+tilt::0.0
+algorithm can localize::0.0
+described above assumes::0.0
+parameter::0.0
+et.al::0.0
+prior history::0.0
+offline locationing algorithm::0.0
+applications::0.0
+estimation via intersecting::0.0
+representations::0.0
+data::0.0
+localize::0.0
+outline::0.0
+long-range::0.0
+nomadic::0.0
+progressively::0.0
+thresholds::0.0
+display to show::0.0
+tags eases large-scale::0.0
+equip::0.0
+ieee::0.0
+encompasses::0.0
+vicinity::0.0
+decreases::0.0
+low-cost::0.0
+present two alternative::0.0
+decreased::0.0
+tags locationsthe offline::0.0
+rotations::0.0
+scaling::0.0
+records::0.0
+require location::0.0
+half::0.0
+january::0.0
+drop::0.0
+massachusets::0.0
+landmarc::0.0
+antenna::0.0
+weighted::0.0
+dellaert::0.0
+video and image::0.0
+challenges::0.0
+design ferret::0.0
+erratically::0.0
+description::0.0
+mobility effects ferret::0.0
+shown::0.0
+diagram shows sample::0.0
+space::0.0
+increase::0.0
+contained::0.0
+sensor::0.0
+reconciled::0.0
+shows::0.0
+algebra and computer::0.0
+possibility::0.0
+advantages::0.0
+slightly different coordinate::0.0
+control the antennas::0.0
+diagram::0.0
+fixed::0.0
+motion::0.0
+plane::0.0
+place::0.0
+massive::0.0
+infrastructural::0.0
+generate missing object::0.0
+first::0.0
+origin::0.0
+initial::0.0
+simplified::0.0
+fast::0.0
+directly::0.0
+array::0.0
+massive number::0.0
+sheet::0.0
+report 06-22::0.0
+remotely::0.0
+fixed rfid::0.0
+consistent::0.0
+national::0.0
+speaking::0.0
+fraction::0.0
+concave::0.0
+continuous::0.0
+accurately::0.0
+wide::0.0
+encompassing::0.0
+require::0.0
+inferring::0.0
+battery-free::0.0
+reinitializes::0.0
+locations::0.0
+computationally::0.0
+efficient::0.0
+illustrated that resulting::0.0
+complexity::0.0
+pdas::0.0
+ideal::0.0
+locationthis is reflected::0.0
+performance::0.0
+multiple::0.0
+0.15m3::0.0
+track::0.0
+price::0.0
+successive::0.0
+pair::0.0
+pages::0.0
+combines locationing technologies::0.0
+implications::0.0
+order::0.0
+measure ferrets::0.0
+readingswhen::0.0
+refining::0.0
+professional::0.0
+represent the coverage::0.0
+26.7cm::0.0
+constantly updated::0.0
+precise::0.0
+2m3::0.0
+walking::0.0
+drastically::0.0
+show::0.0
+spaces::0.0
+threshold::0.0
+corner::0.0
+cmos-based::0.0
+sparton::0.0
+active badge::0.0
+histories::0.0
+transactions on information::0.0
+systems that rely::0.0
+equipped::0.0
+sensor readings::0.0
+adds locationing capabilities::0.0
+refinement of location::0.0
+z-axis::0.0
+reality users move::0.0
+ferret can progressively::0.0
+detection probability::0.0
+reality users::0.0
+history of tags::0.0
+vision::0.0
+borriello::0.0
+infrastructure requirements strictly::0.0
+ferret displays::0.0
+maximum::0.0
+relative::0.0
+essence::0.0
+devices::0.0
+57.6cm::0.0
+collects::0.0
+fails::0.0
+algorithm costs 749.32ms::0.0
+postulate::0.0
+reading::0.0
+infrastructure::0.0
+august::0.0
+screen::0.0
+spacewith::0.0
+concentrate::0.0
+online::0.0
+multiplies::0.0
+advantages of allowing::0.0
+exploiting history::0.0
+part by nsf::0.0
+large amount::0.0
+nearby::0.0
+tradeoff::0.0
+probability of reading::0.0
+algorithm we sample::0.0
+deploys multiple fixed::0.0
+maintained::0.0
+grants::0.0
+combines::0.0
+locally::0.0
+attaching::0.0
+combined::0.0
+prototype::0.0
+abstract::0.0
+enable::0.0
+operating at 915mhz::0.0
+designed::0.0
+readings::0.0
+laptops::0.0
+rotates and translates::0.0
+reinitialize::0.0
+shenoy::0.0
+case::0.0
+hughes::0.0
+equipped with self-identifying::0.0
+produces a likelihood::0.0
+location abilities::0.0
+possibility of future::0.0
+orientation::0.0
+cameras optical::0.0
+movements::0.0
+intense::0.0
+pay::0.0
+pan::0.0
+performance in detecting::0.0
+rfid::0.0
+postulation::0.0
+unmanageable::0.0
+changing::0.0
+cameras display::0.0
+reference::0.0
+tracking::0.0
+motions::0.0
+tives::0.0
+proliferation of consumer::0.0
+straight line head-on::0.0
+costs::0.0
+coordinate::0.0
+ccd::0.0
+objectsobjects::0.0
+elfes::0.0
+object identities::0.0
+speed::0.0
+captured::0.0
+line head-on z-line::0.0
+head-on patterns::0.0
+store the locations::0.0
+variable radiation::0.0
+conference on robotics::0.0
+individual passive rfid::0.0
+human-driven::0.0
+head-on z-line rotate::0.0
+absence::0.0
+outperforming the online::0.0
+grid::0.0
+batteriesmaking::0.0
+hahnel::0.0
+furniture::0.0
+identifying::0.0
+43.5m::0.0
+roll::0.0
+facing::0.0
+priyantha::0.0
+output::0.0
+reduced::0.0
+zline::0.0
+conditional::0.0
+room and evaluated::0.0
+images::0.0
+rewritable::0.0
+poorly::0.0
+stops::0.0
+critical::0.0
+robotics::0.0
+process::0.0
+power::0.0
+seconds::0.0
+problems::0.0
+equivalent::0.0
+highly::0.0
+tags using mobile::0.0
+large overhead::0.0
+mobicom00::0.0
+circular and head-on::0.0
+passive::0.0
+comparison::0.0
+stations::0.0
+discussed::0.0
+acm::0.0
+practical::0.0
+stationary::0.0
+icra99::0.0
+beacons::0.0
+references::0.0
+monostatic::0.0
+determine::0.0
+mark::0.0
+shrinking::0.0
+performing::0.0
+area::0.0
+removing::0.0
+strictly::0.0
+active badge location::0.0
+start::0.0
+algorithm only requires::0.0
+assumes::0.0
+jones::0.0
+250k::0.0
+technologies::0.0
+associates probability::0.0
+embedded::0.0
+ferret can continually::0.0
+proactively::0.0
+computation and storage::0.0
+advantage::0.0
+objects we place::0.0
+identify thousands::0.0
+technology based::0.0
+scanner::0.0
+intersect two line::0.0
+describe::0.0
+moved::0.0
+general::0.0
+lifetime::0.0
+moves::0.0
+performed poorly::0.0
+threshold can reduce::0.0
+storage::0.0
+smaller spatial::0.0
+device fraction detected::0.0
+separate::0.0
+simple yet elegant::0.0
+includes::0.0
+waving::0.0
+important::0.0
+massachusetts::0.0
+coverage::0.0
+stationary camera ; ferrets::0.0
+world-coordinate::0.0
+building::0.0
+imprecise::0.0
+battery-powered::0.0
+incorporating motion::0.0
+starting::0.0
+external::0.0
+hundredths::0.0
+monte::0.0
+thingmagic::0.0
+dollar::0.0
+higher::0.0
+messy::0.0
+moves and senses::0.0
+research::0.0
+camera records::0.0
+opportunities::0.0
+et.al proposed::0.0
+activities::0.0
+straightforward::0.0
+reader::0.0
+worst::0.0
+uwb::0.0
+0.05m3 regions::0.0
+sensor size::0.0
+fastslam::0.0
+switches::0.0
+identification technologies::0.0
+study how individual::0.0
+triangulate::0.0
+adjust::0.0
+small::0.0
+choose a likelihood::0.0
+sample this coverage::0.0
+computation::0.0
+ten::0.0
+foundation::0.0
+prevents::0.0
+translating::0.0
+rate::0.0
+perception::0.0
+design::0.0
+displays::0.0
+searching for multiple::0.0
+incorporation of negative::0.0
+section::0.0
+applications dealing::0.0
+version::0.0
+intersect::0.0
+deal::0.0
+method::0.0
+contrast::0.0
+movement::0.0
+form-factor and limited::0.0
+outperforming::0.0
+full::0.0
+tags::0.0
+ranges::0.0
+tracks::0.0
+operating::0.0
+uncompressed 320x240::0.0
+search::0.0
+prior::0.0
+amount::0.0
+narrow::0.0
+options::0.0
+uniquely::0.0
+ferret can incorporate::0.0
+requiring::0.0
+accurate 2d maps::0.0
+analyzing::0.0
+robot-controlled::0.0
+ieee personal communications::0.0
+read-only::0.0
+eye::0.0
+x40::0.0
+probabilities::0.0
+direction::0.0
+two::0.0
+laser range measurements::0.0
+displaying object::0.0
+make passive rfid::0.0
+real-time identification::0.0
+producing::0.0
+keeping::0.0
+science::0.0
+ferret reduces::0.0
+learn::0.0
+history::0.0
+readingswhen the reader::0.0
+compare::0.0
+omit::0.0
+range measurements::0.0
+greatly reduces complexity::0.0
+thresholding::0.0
+share::0.0
+sphere::0.0
+minimum::0.0
+sense::0.0
+section presents::0.0
+axis::0.0
+information::0.0
+goal::0.0
+maps::0.0
+results of experiments::0.0
+ubiquitous::0.0
+algebra::0.0
+similar method::0.0
+derived::0.0
+mapping::0.0
+balloon-shaped region::0.0
+connectivity::0.0
+accurate modeling::0.0
+response::0.0
+jiang::0.0
+320x240 video::0.0
+secs::0.0
+refinement timewith prior::0.0
+patil::0.0
+applications can proactively::0.0
+covers more disjoint::0.0
+number of sample::0.0
+trade::0.0
+paper::0.0
+existence::0.0
+camera provides uncompressed::0.0
+rapidly::0.0
+greatly::0.0
+minimum value::0.0
+detected::0.0
+systems::0.0
+estimation versus::0.0
+replace::0.0
+return::0.0
+similar regions::0.0
+food::0.0
+university of massachusets::0.0
+data point::0.0
+reflected::0.0
+inexpensive nature::0.0
+prashant::0.0
+rfid-tagged::0.0
+readers to infer::0.0
+pattern we ran::0.0
+easily::0.0
+fully::0.0
+presented::0.0
+affects the location::0.0
+continuously collects readings::0.0
+radial::0.0
+found::0.0
+referred::0.0
+detect::0.0
+formulate::0.0
+energy::0.0
+reduce::0.0
+numeric::0.0
+circle online volume::0.0
+experimental results::0.0
+measurement::0.0
+requiring location information::0.0
+standard::0.0
+philipose::0.0
+fraction detected::0.0
+conclusions::0.0
+passive devices::0.0
+offline::0.0
+evaluation::0.0
+perimeter only requires::0.0
+offsets::0.0
+location of passive::0.0
+tags as infrastructure::0.0
+ferret first::0.0
+0.02m3::0.0
+base::0.0
+reasons::0.0
+imaging::0.0
+approach::0.0
+generate::0.0
+unique::0.0
+0.15m3 and 0.05m3::0.0
+e.g::0.0
+maps of static::0.0
+similarly::0.0
+mobile devices::0.0
+25cm and 20cm::0.0
+uncontrolled::0.0
+probability::0.0
+number::0.0
+done::0.0
+nomadic objectsobjects::0.0
+plentiful::0.0
+run online::0.0
+verify the online::0.0
+introduction::0.0
+assumption::0.0
+locationsupport::0.0
+store::0.0
+option::0.0
+relationship::0.0
+vantage::0.0
+ieee international::0.0
+optical::0.0
+translation::0.0
+percentage::0.0
+locationsupport system::0.0
+recording::0.0
+cost::0.0
+gps::0.0
+region fig::0.0
+ceiling::0.0
+randomly::0.0
+adding::0.0
+work use battery-powered::0.0
+proliferation::0.0
+optical axis::0.0
+sp3003d digital::0.0
+reliance::0.0
+liu::0.0
+build::0.0
+system fuses::0.0
+camera to infer::0.0
+self-locating capabilities::0.0
+system for locating::0.0
+park::0.0
+equipping::0.0
+confluence::0.0
+value::0.0
+mobile::0.0
+cover::0.0
+unreasonable::0.0
+choose a reasonable::0.0
+part::0.0
+limits the amount::0.0
+januarymarch::0.0
+spherical::0.0
+cdf::0.0
+hopper::0.0
+focusing::0.0
+large::0.0
+relation::0.0
+system moves::0.0
+find::0.0
+benefits::0.0
+keeping the reader::0.0
+left the postulated::0.0
+sharing::0.0
+distributed::0.0
+long histories::0.0
+nomadic distances exceed::0.0
+conducted::0.0
+cubic tag::0.0
+6ms per positive::0.0
+0.0108m3::0.0
+accurate::0.0
+dimensions of 2.56m::0.0
+distance::0.0
+indoor 3d location::0.0
+ferret::0.0
+0.0104m3::0.0
+users move erratically::0.0
+falling::0.0
+restart::0.0
+querying::0.0
+motion eye web-camera::0.0
+cyclic::0.0
+bytes::0.0
+batteries::0.0
+doubles::0.0
+display is constantly::0.0
+locating::0.0
+reduces complexity::0.0
+initial location estimates::0.0
+set::0.0
+september::0.0
+objects contained::0.0
+arc::0.0
+readings that generally::0.0
+threshold errors::0.0
+project::0.0
+probable::0.0
+reader reaches::0.0
+heading::0.0
+determined::0.0
+numerous::0.0
+missing::0.0
+attention::0.0
+coffee::0.0
+distinguish::0.0
+enables::0.0
+last::0.0
+locationsthe::0.0
+assumed::0.0
+improves::0.0
+tune the offline::0.0
+ferret begins::0.0
+experimental::0.0
+move erratically::0.0
+point::0.0
+simple::0.0
+dimensional::0.0
+rfid-based indoor::0.0
+simply::0.0
+postulate that associates::0.0
+described::0.0
+create::0.0
+due::0.0
+ran::0.0
+describes::0.0
+complicated::0.0
+collected::0.0
+empty::0.0
+display object::0.0
+generating::0.0
+samples::0.0
+precision::0.0
+circular antenna::0.0
+works with read-only::0.0
+uncertain::0.0
+laser-based::0.0
+evaluated::0.0
+recall::0.0
+predicated::0.0
+behavior::0.0
+entire video::0.0
+projecting::0.0
+computed::0.0
+exceeds 25cm::0.0
+readingsmost::0.0
+compared to offline::0.0
+leaving::0.0
+wide variety::0.0
+estimate::0.0
+line intersections::0.0
+cs.umass.edu::0.0
+read::0.0
+virtually::0.0
+widely::0.0
+map with equally::0.0
+shrinks the volume::0.0
+iros03::0.0
+attenuation::0.0
+falcao::0.0
+latency::0.0
+previous knowledge::0.0
+nomadic location::0.0
+strength::0.0
+moving::0.0
+user::0.0
+occurs::0.0
+focal::0.0
+recent::0.0
+majorityin::0.0
+database::0.0
+trendsthe::0.0
+accurately localize::0.0
+reading multiplies::0.0
+requirements of ferrets::0.0
+320x240::0.0
+calibrated::0.0
+projection the basic::0.0
+organization::0.0
+distances::0.0
+2.4mm::0.0
+exploits::0.0
+infrastructural support::0.0
+foundation grants cns-0219520::0.0
+ferret to deal::0.0
+shape::0.0
+questions::0.0
+representation results::0.0
+alternative::0.0
+requirements strictly speaking::0.0
+relative locations::0.0
+x|d::0.0
+locate and identify::0.0
+cup::0.0
+assumes a stationary::0.0
+iccas05::0.0
+device to operate::0.0
+locations of individual::0.0
+source::0.0
+location::0.0
+notion of object::0.0
+reader coordinate::0.0
+transformation::0.0
+deployment issues::0.0
+video stream::0.0
+equip passive::0.0
+finding::0.0
+178k::0.0
+emergence::0.0
+projects::0.0
+modifications::0.0
+rotate::0.0
+shaped::0.0
+probability and form::0.0
+signal::0.0
+offline locationing::0.0
+translates::0.0
+communications::0.0
+continue::0.0
+0.0102m3::0.0
+translated::0.0
+offline algorithms performance::0.0
+search operations::0.0
+reduces::0.0
+methods::0.0
+discrete::0.0
+dealing with hundreds::0.0
+moving distances exceed::0.0
+scale::0.0
+locationing technology::0.0
+affects::0.0
+measurements::0.0
+integration::0.0
+centroid::0.0
+ferret repeats::0.0
+foley::0.0
+heavily as positive::0.0
+object::0.0
+run::0.0
+requires two::0.0
+performed::0.0
+x.liu::0.0
+large map::0.0
+derived from elfess::0.0
+step::0.0
+negatives::0.0
+nature raises::0.0
+gibbons::0.0
+metrics::0.0
+detect human activities::0.0
+range with past::0.0
+range::0.0
+i.e::0.0
+point-view::0.0
+misplaced::0.0
+computational::0.0
+self-locating::0.0
+evaluate::0.0
+nsf::0.0
+ferret incorrectly shrinks::0.0
+reader to formulate::0.0
+frames::0.0
+proportional::0.0
+ferret rotates::0.0
+computer::0.0
+lens and rfid::0.0
+measured::0.0
+long::0.0
+array to store::0.0
+foreseeable::0.0
+compressible::0.0
+orientation-insensitive::0.0
+line::0.0
+deployed::0.0
+:25::0.0
+selects::0.0
+quickly learn::0.0
+ultrasound 3d locationing::0.0
+real-time updates::0.0
+paired::0.0
+estimates::0.0
+sum::0.0
+continuously::0.0
+selects some set::0.0
+similar::0.0
+offline algorithm widely::0.0
+storing::0.0
+constant::0.0
+defined::0.0
+narrower beam::0.0
+magazine::0.0
+done in two::0.0
+mobility effects::0.0
+single::0.0
+associates::0.0
+back-annotate::0.0
+locationthis::0.0
+burgard::0.0
+camcorders::0.0
+image::0.0
+vaio laptop::0.0
+read-only rfid::0.0
+application::0.0
+outputs::0.0
+department::0.0
+nonzero::0.0
+users::0.0
+calculating::0.0
+:328342::0.0
+robots::0.0
+lens::0.0
+allowing::0.0
+fishkin::0.0
+devices can start::0.0
+mcorner::0.0
+structure::0.0
+feiner::0.0
+balloon shaped radiation::0.0
+assertions::0.0
+users move::0.0
+algorithm::0.0
+required::0.0
+badge location::0.0
+walked::0.0
+self-identifying::0.0
+international::0.0
+handheld::0.0
+requires::0.0
+proximate::0.0
+map that includes::0.0
+code::0.0
+series::0.0
+results::0.0
+illustrated::0.0
+international conference::0.0
+proposition::0.0
+sp3003d digital compass::0.0
+query::0.0
+issues::0.0
+compact::0.0
+insight in ferret::0.0
+band::0.0
+digital imaging::0.0
+intensive::0.0
+improve its postulation::0.0
+system overlays::0.0
+implicitly::0.0
+fixed rfid readers::0.0
+tradeoffs::0.0
+ibm::0.0
+handheld video::0.0
+entire::0.0
+technology m rfid::0.0
+positions::0.0
+independent ferret::0.0
+fewer::0.0
+detect a moved::0.0
+inspection::0.0
+locate::0.0
+detected object movements::0.0
+smaller::0.0
+switches to searching::0.0
+conclusions this paper::0.0
+produce readings::0.0
+video::0.0
+carlo::0.0
+1.5ghz::0.0
+needing::0.0
+developed::0.0
+option requires writable::0.0
+rfid tags eases::0.0
+multimedia::0.0
+experiment::0.0
+technology::0.0
+objecta::0.0
+led::0.0
+lee::0.0
+straight-forward::0.0
+offline algorithm costs::0.0
+commercial::0.0
+objects::0.0
+focused::0.0
+calculate and improve::0.0
+support a massive::0.0
+mobility to estimate::0.0
+frames-per-second::0.0
+discrete motion::0.0
+technical::0.0
+didnt::0.0
+larger::0.0
+implementation::0.0
+camera is set::0.0
+resulting::0.0
+massachusets amherst::0.0
+implement::0.0
+moving distance exceeds::0.0
+makes::0.0
+composed::0.0
+indoor locationing::0.0
+scales::0.0
+spoton::0.0
+custom-built from multiple::0.0
+household or office::0.0
+underlying technique::0.0
+ferrets knowledge::0.0
+readings than positive::0.0
+shaped radiation::0.0
+camera::0.0
+reflects::0.0
+volume encompassing::0.0
+pentiumm processor::0.0
+formally::0.0
+915mhz::0.0
+personal communications magazine::0.0
+locationing algorithm formally::0.0
+map the detection::0.0
+antennas::0.0
+central::0.0
+iii::0.0
+circle::0.0
+balakrishnan::0.0
+locationas::0.0
+reducing::0.0
+averaged::0.0
+mobile readers::0.0
+active rfid::0.0
+requires an orientation::0.0
+choi::0.0
+0.0116m3::0.0
+drops::0.0
+proof::0.0
+control::0.0
+ferrets::0.0
+pieces::0.0
+high::0.0
+dynamically discover::0.0
+reinitialize the location::0.0
+providing initial::0.0
+locationing hardware::0.0
+varied::0.0
+line without changing::0.0
+results that show::0.0
+sensors::0.0
+yielding::0.0
+nearness::0.0
+ibm x40::0.0
+uncompressed::0.0
+regions::0.0
+research has proposed::0.0
+z-shaped::0.0
+06-22::0.0
+circular::0.0
+hurdles::0.0
+imagine::0.0
+bytes to describe::0.0
+5cm::0.0
+localization for mobile::0.0
+ferret can immediately::0.0
+personal video::0.0
+motion to reduce::0.0
+correspond::0.0
+processor::0.0
+sony::0.0
+subsequently::0.0
+uni-directional::0.0
+rfid tag ferret::0.0
+performance the primary::0.0
+algorithm incorporates information::0.0
+compass::0.0
+equally::0.0
+report::0.0
+2.56m x 1.74mthis::0.0
+providing initial location::0.0
+store the regions::0.0
+raw::0.0
+chosen::0.0
+25cm::0.0
+user switches::0.0
+received in multiple::0.0
+choose::0.0
+researchers::0.0
+camera lens::0.0
+pixel::0.0
+previously postulated::0.0
+offline algorithm incorporates::0.0
+postulated area::0.0
+greater::0.0
+200cm::0.0
+monte carlo::0.0
+dam::0.0
+non-intuitive::0.0
+shaped radiation pattern::0.0
+rotation::0.0
+cdf of ferrets::0.0
+university::0.0
+xiaotao::0.0
+unmanageable number::0.0
+response rate::0.0
+identifies::0.0
+identifier::0.0
+tags read::0.0
+algorithm described::0.0
+constraints::0.0
+map::0.0
+doing::0.0
+doing so involves::0.0
+displaying::0.0
+frequency::0.0
+static::0.0
+measure::0.0
+orientation radial::0.0
+foundation grants::0.0
+objects ; ferret::0.0
+out::0.0
+measures::0.0
+implications for privacy::0.0
+cdf of locationing::0.0
+performs::0.0
+barcodes::0.0
+supports::0.0
+common::0.0
+technique greatly::0.0
+interactions::0.0
+questions for future::0.0
+pentiumm::0.0
+completely::0.0
+threedimensional::0.0
+region::0.0
+prototype shows::0.0
+likelihood::0.0
+capture::0.0
+times::0.0
+area versus::0.0
+length::0.0
+produce::0.0
+vicinitythe reader::0.0
+storage costs::0.0
+repeats::0.0
+varied the likelihood::0.0
+points and intersecting::0.0
+demonstrating::0.0
+scanning::0.0
+reaches::0.0
+intuitively::0.0
+region every centimeter::0.0
+future many personal::0.0
+management::0.0
+experiments conducted::0.0
+privacy::0.0
+respond::0.0
+system::0.0
+occupancy::0.0
+6ms::0.0
+algorithm only costs::0.0
+bytes to 178k::0.0
+fuses a stream::0.0
+final::0.0
+pervasive::0.0
+shelf::0.0
+affect the performance::0.0
+detection::0.0
+device and nomadic::0.0
+numeric code::0.0
+estimating::0.0
+compensation::0.0
+individual::0.0
+providing::0.0
+experiments pay specific::0.0
+exhibit::0.0
+specific orientation-sensitive::0.0
+false::0.0
+shrinks::0.0
+convex shape::0.0
+translation-only::0.0
+threshold will increase::0.0
+disjoint::0.0
+ferretin::0.0
+storage-poor::0.0
+intersecting::0.0
+decrease::0.0
+readers and laser-range::0.0
+incorporating negative::0.0
+antenna data::0.0
+instance::0.0
+concerns::0.0
+incorporating::0.0
+antennas with variable::0.0
+accuracy::0.0
+tois::0.0
+unobtrusively::0.0
+connected::0.0
+30dbm::0.0
+representation::0.0
+device::0.0
+volume of approximately::0.0
+future::0.0
+segment::0.0
+ferret continuously collects::0.0
+addison-wesley::0.0
+power outputs requires::0.0
+proceedings::0.0
+trial::0.0
+fact::0.0
+online locationing::0.0
+intersections::0.0
+negative regions::0.0
+stream::0.0
+offline algorithm incurs::0.0
+indoor::0.0
+tagged::0.0
+centralized::0.0
+rotating::0.0
+trivial::0.0
+continually improve::0.0
+based::0.0
+knowledge::0.0
+produces::0.0
+smallest::0.0
+postulated::0.0
+tune::0.0
+algorithm must perform::0.0
+thousands::0.0
+move::0.0
+cover very similar::0.0
+means::0.0
+beam::0.0
+october::0.0
+applying::0.0
+years::0.0
+areas::0.0
+queried::0.0
+conduct a detailed::0.0
+1.8mm::0.0
+encounters::0.0
+radiation patterns::0.0
+0.1m3::0.0
+experiments::0.0
+queries::0.0
+view::0.0
+requirement::0.0
+frame::0.0
+pitch::0.0
+operates::0.0
+writable::0.0
+edition::0.0
+computes::0.0
+0.0100m3::0.0
+2.75mm::0.0
+employed::0.0
+project an area::0.0
+focal length::0.0
+closer::0.0
+focuses::0.0
+pattern::0.0
+nature::0.0
+human movements::0.0
+tend::0.0
+effects ferret exploits::0.0
+written::0.0
+identification::0.0
+tens::0.0
+reader facing::0.0
+boundary::0.0
+non-zero::0.0
+ability::0.0
+notion::0.0
+reduced to 250k::0.0
+timewith prior knowledge::0.0
+key::0.0
+require any information::0.0
+sony vaio::0.0
+limits::0.0
+april::0.0
+interesting::0.0
+storage requirement::0.0
+estimation::0.0
+1.74mthis::0.0
+detailed::0.0
+adjusted::0.0
+rfid-based::0.0
+form-factor::0.0
+narrower::0.0
+environments::0.0
+generating maps::0.0
+reduces the objects::0.0
+modeling::0.0
+multiplies each coordinate::0.0
+range are refined::0.0
+cameras::0.0
+realtime on current::0.0
+powered::0.0
+addition::0.0
+yaw::0.0
+underlying::0.0
+locationing abilities::0.0
+improve::0.0
+trend::0.0
+records all video::0.0
+senses::0.0
+received::0.0
+compensation for false::0.0
+clothing::0.0
+178k byteseach::0.0
+negative::0.0
+incorporates information::0.0
+location sensing technology::0.0
+present::0.0
+laser::0.0
+head-on z-line::0.0
+directionality::0.0
+co-linear::0.0
+ferret adds locationing::0.0
+moved object::0.0
+uncertainty::0.0
+important direction::0.0
+manually::0.0
+infrequently::0.0
+hardware::0.0
+excessively::0.0
+detected with higher::0.0
+balloon-shaped::0.0
+identification and search::0.0
+insight::0.0
+supported::0.0
+balloon::0.0
+ultrasound system::0.0
+digital::0.0
+x40 laptop::0.0
+solution::0.0
+infer::0.0
+cellphones::0.0
+responses::0.0
+cubic::0.0
+long-range detection::0.0
+false positives::0.0
+automation::0.0
+discover::0.0
+robotic::0.0
+frequently::0.0
+center::0.0
+thousands of tagged::0.0
+finds::0.0
+series of line::0.0
+patterns::0.0
+greatly reduced::0.0
+nomadic objects augmented::0.0
+objectthis::0.0
+position::0.0
+sensing::0.0
+proactively generate missing::0.0
+updates the cameras::0.0
+heavily::0.0
+byteseach::0.0
+obtain::0.0
+0.01m3::0.0
+cns-052072::0.0
+stored::0.0
+diameter circle::0.0
+standard orientation-insensitive::0.0
+disturbance::0.0
+deploys::0.0
+large-scale::0.0
+depend::0.0
+capabilities::0.0
+battery::0.0
+combine::0.0
+maintaining::0.0
+algorithm performance::0.0
+intersected::0.0
+match::0.0
+hahnels::0.0
+two metrics::0.0
+spatial::0.0
+dn1::0.0
+information systems::0.0
+ferret samples::0.0
+burden::0.0
+deployment::0.0
+identify and locate::0.0
+immediately::0.0
+signal received::0.0
+intersection::0.0
+showing::0.0
+exploiting::0.0
+ferret subtracts::0.0
+exceed::0.0
+database storage::0.0
+cognition::0.0
+smaller volumes::0.0
+works::0.0
+preclude::0.0
+replacement::0.0
+alerts upon detecting::0.0
+dealing with nomadic::0.0
+generate missing::0.0
+grids::0.0
+sequence::0.0
+costs 6ms::0.0
+ferret-based::0.0
+choosing::0.0
+convex::0.0
+cns-0219520::0.0
+modulate::0.0
+recognition::0.0
+information sharing::0.0
+possibilities::0.0
+pinpoint::0.0
+small set::0.0
+nomadicas::0.0
+augmented reality::0.0
+expensive::0.0
+two alternative methods::0.0
+assuming::0.0
+passive nature::0.0
+demonstrated::0.0
+limitations::0.0
+range is decreased::0.0
+room with self-locating::0.0
+positions of reference::0.0
+eliminates the possibility::0.0
+cameras current::0.0
+two bytes::0.0
+readings from rfid::0.0
+cricket locationsupport::0.0
+fixed focal::0.0
+offset::0.0
+similarity::0.0
+vision-based::0.0
+fast ferret::0.0
+noisy::0.0
+gained::0.0
+coordinates::0.0
+uni-directional antenna::0.0
+world::0.0
+eases::0.0
+number of household::0.0
+union::0.0
+ferretin the evaluation::0.0
+reduced representation::0.0
+requires relative::0.0
+recording devices enables::0.0
+software::0.0
+identifying objects::0.0
+barshan::0.0
+reader embedded::0.0
+previously::0.0
+pay specific attention::0.0
+previous experiment::0.0
+tag::0.0
+ultrasound::0.0
+doesnt::0.0
+laser-based fastslam::0.0
+tags to determine::0.0
+reader performance::0.0
+compared the smallest::0.0
+leverages::0.0
+sp3003d::0.0
+additional::0.0
+cricket ultrasound::0.0
+four bytes::0.0
+lower::0.0
+stringent latency::0.0
+spacewith a locationing::0.0
+latency requirements::0.0
+fuses::0.0
+tag and ferret::0.0
+928mhz::0.0
+cricket::0.0
+hardwarethere::0.0
+elfess work::0.0
+basic::0.0
+locations infrequently::0.0
+weight::0.0
+volume::0.0
+drastically reduced computational::0.0
+output level::0.0
+related::0.0
+straight::0.0
+bookshelf::0.0
+algorithm is due::0.0
+made::0.0
+compute::0.0
+evaluating the offline::0.0
+places::0.0
+recognition of robot::0.0
+record::0.0
+:4247::0.0
+books::0.0
+web-camera::0.0
+demonstrate::0.0
+problem::0.0
+robot::0.0
+minutes::0.0
+display::0.0
+2.5m::0.0
+querying and providing::0.0
+report 00-02-02::0.0
+intersects::0.0
+factor::0.0
+ferret exploits::0.0
+life::0.0
+technologies have led::0.0
+z-line::0.0
+small overhead::0.0
+identities::0.0
+compared::0.0
+searching::0.0
+variety::0.0
+ten times::0.0
+tags continue::0.0
+detail::0.0
+book::0.0
+details::0.0
+sharing across devices::0.0
+adds locationing::0.0
+repeat::0.0
+kinds::0.0
+probabilityobjects::0.0
+class::0.0
+june::0.0
+chance::0.0
+interactions with rfid-tagged::0.0
+additionally::0.0
+previous::0.0
+ferret must continuously::0.0
+thingmagic mercury4 rfid::0.0
+thrun::0.0
+describe an online::0.0
+laser-range::0.0
+vast::0.0
+correlated::0.0
+dimensions::0.0
+robot-controlled uni-directional::0.0
+custom-built::0.0
+portion::0.0
+volumes::0.0
+18000-6b::0.0
+augmented::0.0
+reader can produce::0.0

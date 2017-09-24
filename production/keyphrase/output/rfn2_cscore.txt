@@ -1,0 +1,1912 @@
+location and containment::9.50977500433
+physical world::8.0
+containment relationship::7.0
+graph model::7.0
+interpretation and compression::6.33985000288
+interpretation and compression substrate::6.0
+containment relationships::6.0
+state of the world::6.0
+packaging area::6.0
+data interpretation::5.0
+output stream::5.0
+data volume::5.0
+incoming edge::5.0
+locations and containment::4.75488750216
+accuracy while retaining efficiency::4.0
+recent collocations::4.0
+objects in the physical::4.0
+show that our inference::4.0
+loading dock::4.0
+compression algorithm yields significant::4.0
+special reader::4.0
+time-varying colored graph model::4.0
+edge inference::4.0
+containment relationships between objects::4.0
+compression substrate over rfid::4.0
+uncolored node::4.0
+good accuracy while retaining::4.0
+inference with high certainty::4.0
+state of the physical::4.0
+data capture::4.0
+location of the object::4.0
+techniques provide good accuracy::4.0
+rfid data::4.0
+reduction in data volume::4.0
+node inference::4.0
+inference techniques provide good::4.0
+significant reduction in data::4.0
+data interpretation and compression::4.0
+algorithm yields significant reduction::4.0
+locations and containment relationships::4.0
+object locations and containment::4.0
+capture inter-object relationships::3.16992500144
+inference is applied::3.16992500144
+algorithm yields significant::3.16992500144
+compression algorithm yields::3.16992500144
+reduction in data::3.16992500144
+last confirmed parent::3.16992500144
+node is colored::3.16992500144
+containment between objects::3.16992500144
+enterprise supply-chain environment::3.16992500144
+confirm the containment::3.16992500144
+location and container::3.16992500144
+bit-vector recent collocations::3.16992500144
+set of location::3.16992500144
+rfid data streams::3.16992500144
+inference techniques provide::3.16992500144
+time-varying graph model::3.16992500144
+set of locations::3.16992500144
+past certain parent::3.16992500144
+t=3 in figure::3.16992500144
+incoming edges::3.0
+supply-chain environment::3.0
+probabilistic inference::3.0
+results show::3.0
+recent color::3.0
+object location::3.0
+missed reading::3.0
+packaging level::3.0
+time-varying graph::3.0
+safely discarded::3.0
+two nodes::3.0
+rfid streams::3.0
+uncolored nodes::3.0
+capture technique to construct::2.0
+node colors::2.0
+preserving all useful information::2.0
+noisy with observed read::2.0
+smoothing to alleviate missed::2.0
+techniques provide::2.0
+layer for each packaging::2.0
+areas such as aisle::2.0
+node colored in step::2.0
+based on the intuition::2.0
+model while simultaneously helping::2.0
+applied to an uncolored::2.0
+monitoring and tracking applications::2.0
+identification technology::2.0
+readers in an epoch::2.0
+dataa triplet < tag::2.0
+rfid streams to address::2.0
+probabilistic algorithm that infers::2.0
+produces a new graph::2.0
+inference will subsequently chose::2.0
+modify the output stream::2.0
+node consists of two::2.0
+recent positive and negative::2.0
+nodes of different colors::2.0
+stream with a reduced::2.0
+read by any reader::2.0
+recent bit::2.0
+designed to identify individual::2.0
+color and the observation::2.0
+present in any pre-defined::2.0
+collocation of the two::2.0
+step attempts to estimate::2.0
+estimates of the location::2.0
+location of the reader::2.0
+result in uncolored nodes::2.0
+item may have multiple::2.0
+identification technology that enables::2.0
+basic formraises new challenges::2.0
+examples of the time-varying::2.0
+significant reduction::2.0
+fixed locations::2.0
+absence of a state::2.0
+estimate of the state::2.0
+location is currently unknown::2.0
+individually on the belt::2.0
+operations such as sorting::2.0
+substrate over rfid data::2.0
+observation as a conflicting::2.0
+step builds a probability::2.0
+streams is only concerned::2.0
+filtered and compressed close::2.0
+information about an objects::2.0
+weight on this edge::2.0
+feature of the algorithm::2.0
+propagated through the edges::2.0
+methods which are processed::2.0
+item can be contained::2.0
+reported in different locations::2.0
+containment relationships of objects::2.0
+packaging level is encoded::2.0
+readings are inherently noisy::2.0
+uncolored nodes retain memory::2.0
+inference at a node::2.0
+capable of reducing total::2.0
+adaptive cleaning for rfid::2.0
+remember the last confirmed::2.0
+object enters the world::2.0
+provide good::2.0
+graph contruction per-tag cleaning::2.0
+containment with a higher::2.0
+probability is then chosen::2.0
+containment for an object::2.0
+cleaning rfid devices fig::2.0
+knowledge of what data::2.0
+data streams which employs::2.0
+removed from the graph::2.0
+compression module that outputs::2.0
+addresses the above challenges::2.0
+conflicting observation::2.0
+including their reported locations::2.0
+revealed by a special::2.0
+read exactly one pallet::2.0
+data stream::2.0
+stream-driven construction::2.0
+location or is uncolored::2.0
+probabilistic inference compression data::2.0
+interpretation module to probabilistically::2.0
+world covers a geographical::2.0
+containment are the containment::2.0
+wei for each incoming::2.0
+epoch using the color::2.0
+exception that an edge::2.0
+design considerations for high::2.0
+world includes a set::2.0
+key challenge in node::2.0
+apture this section describes::2.0
+compressed output event stream::2.0
+proposed for rfid warehouses::2.0
+section describes our data::2.0
+examples of ambiguous containment::2.0
+compression interpretation & interpretation::2.0
+pallet ; the packaging::2.0
+observations in a warehouse::2.0
+object locations and containments::2.0
+inherently noisy with observed::2.0
+parent statistics to remember::2.0
+module for stream-driven construction::2.0
+number of conflicting observations::2.0
+edge can not connect::2.0
+read rate::2.0
+epochs and the graph::2.0
+case i contains item::2.0
+module takes the results::2.0
+maintains past certain parent::2.0
+problem is to transform::2.0
+contruction per-tag cleaning rfid::2.0
+pei to each edge::2.0
+update procedure entails four::2.0
+improvement in the accuracy::2.0
+overwhelm a data stream::2.0
+data from each epoch::2.0
+techniques are also capable::2.0
+module to probabilistically infer::2.0
+construction of a time-varying::2.0
+fell off its case::2.0
+employed temporal and spatial::2.0
+construct a time-varying graph::2.0
+object with an unknown::2.0
+applied to each incoming::2.0
+connected by the edge::2.0
+throughput above stream speed::2.0
+common configuration in todays::2.0
+missed readings::2.0
+consists of two steps::2.0
+deployment reveals such special::2.0
+edges can be removed::2.0
+configuration in todays rfid::2.0
+confirm the containment denoted::2.0
+unknown location::2.0
+rfid readers are installed::2.0
+departs from the prior::2.0
+statistical history about co-occurrences::2.0
+edge against the edges::2.0
+containment compression exploits stable::2.0
+location or its containment::2.0
+captured in the data::2.0
+shenoy department of computer::2.0
+present but was missed::2.0
+cases that are present::2.0
+rfid is a promising::2.0
+reading captures the location::2.0
+case or a pallet::2.0
+concerned about the present::2.0
+epcglobal tag data standards::2.0
+algorithm takes the graph::2.0
+encoding possible object locations::2.0
+mostlikely locations and containment::2.0
+distinguishing characteristic of rfid::2.0
+constructed from the data::2.0
+state change::2.0
+remain in its current::2.0
+constructed for the arriving::2.0
+denoted by the edges::2.0
+container of v past::2.0
+edge oi oj denotes::2.0
+data interpretation over streams::2.0
+encodes the current view::2.0
+incomplete data::2.0
+relationships or provide location::2.0
+estimate of this objects::2.0
+input stream with additional::2.0
+location where each tag::2.0
+reveals such special readers::2.0
+colored with the color::2.0
+observation of the world::2.0
+key idea behind compression::2.0
+recent bit of recent::2.0
+object using a probabilistic::2.0
+proceeds incrementally as readings::2.0
+confirm the current state::2.0
+location and all subsequent::2.0
+transit between two locations::2.0
+previously proposed for rfid::2.0
+disappear from all observable::2.0
+belt reader that read::2.0
+level of an item::2.0
+infrastructure to provide timely::2.0
+node set v denotes::2.0
+data in an compressed::2.0
+location of an unreported::2.0
+pei for each edge::2.0
+sensitive to missed readings::2.0
+read in the packaging::2.0
+role in containment inference::2.0
+area event db complex::2.0
+structure past certain parent::2.0
+ummary of p erformance::2.0
+special readers::2.0
+object has a packaging::2.0
+updated but simplify fade::2.0
+count the current observation::2.0
+time-varying graph model encoding::2.0
+graphs for the observations::2.0
+location was inferred due::2.0
+key role in containment::2.0
+notion of the physical::2.0
+readings in each epoch::2.0
+uncolored node van object::2.0
+observed object::2.0
+rfid technology presents numerous::2.0
+container and contained object::2.0
+covers a geographical area::2.0
+based on the observations::2.0
+update and color nodes::2.0
+world through a designated::2.0
+distribution across all incoming::2.0
+case and its item::2.0
+utput with c ompression::2.0
+due to color inherited::2.0
+objects location::2.0
+emulating an enterprise supply-chain::2.0
+characteristic of rfid streams::2.0
+balancing the relative weight::2.0
+relationships such as co-location::2.0
+past history::2.0
+edge using the history::2.0
+inferred due to color::2.0
+output algorithm that transforms::2.0
+encoded in the rfid::2.0
+double arrows in figure::2.0
+tag data standards version::2.0
+substrate and have evaluated::2.0
+reported by the readings::2.0
+event db complex event::2.0
+events through the parent::2.0
+readers provide a means::2.0
+opposed to our methods::2.0
+loading dock reader reports::2.0
+prohibited for two objects::2.0
+guarantees a consistent output::2.0
+present on a shelf::2.0
+history makes edge inference::2.0
+object exits the world::2.0
+present a novel data::2.0
+high-value content to monitoring::2.0
+play a key role::2.0
+object changes its location::2.0
+problem is to construct::2.0
+augments the input stream::2.0
+procedure entails four steps::2.0
+assuming a supply-chain environment::2.0
+collectively called an observation::2.0
+spatial smoothing to alleviate::2.0
+uncolored nodes or nodes::2.0
+timeonly an initial event::2.0
+warehouse scenario is depicted::2.0
+reduced volume of data::2.0
+created in the graph::2.0
+past or the future::2.0
+builds a probabilistic distribution::2.0
+denotes all rfid-tagged objects::2.0
+node inference is applied::2.0
+considerations for high fan-in::2.0
+accuracy of the graph::2.0
+containment compression::2.0
+arises from a three-way::2.0
+evidence for the collocation::2.0
+transforms an input stream::2.0
+included in the output::2.0
+rfid readings::2.0
+stream of rfid readings::2.0
+data streams::2.0
+represented by the bit-vector::2.0
+reader or through inference::2.0
+evaluated it using synthetic::2.0
+university of massachusetts amherst::2.0
+contained object are present::2.0
+edge inference is applied::2.0
+location can be safely::2.0
+infer both object location::2.0
+stream to a compressed::2.0
+object location and containment::2.0
+edge inference less sensitive::2.0
+multiple outgoing and incoming::2.0
+transform the input stream::2.0
+simulated workloads in excess::2.0
+information infrastructure to provide::2.0
+challenge in node inference::2.0
+maintains a bit-vector recent::2.0
+nterpretation the graph constructed::2.0
+removed from an object::2.0
+container of each object::2.0
+per-tag cleaning rfid devices::2.0
+dependent on the fact::2.0
+recent history of co-locations::2.0
+synthetic rfid streams emulating::2.0
+capture step can result::2.0
+missed time t=1 level::2.0
+object when a single::2.0
+edge with the highest::2.0
+location or containment relationship::2.0
+volumes which can easily::2.0
+objects while still maintaining::2.0
+statistics play a key::2.0
+compressed format with smoothing::2.0
+infers the mostlikely locations::2.0
+past certain parent statistics::2.0
+simultaneously helping to prune::2.0
+processing throughput above stream::2.0
+compression requires the knowledge::2.0
+color of the location::2.0
+installed above the loading::2.0
+input stream::2.0
+nodes in adjacent layers::2.0
+work has been supported::2.0
+inference compression data capture::2.0
+positive and negative evidence::2.0
+rfid readings are inherently::2.0
+location for a period::2.0
+helping to prune unnecessary::2.0
+substrate over rfid streams::2.0
+temporal and spatial smoothing::2.0
+graph if its vertices::2.0
+tradeoff among object dynamics::2.0
+updated using stream data::2.0
+denoted by an unshaded::2.0
+edges last confirmed parent::2.0
+depicted by the dashed::2.0
+history of observed co-locations::2.0
+creating the inaccurate appearance::2.0
+readers are coarsely synchronized::2.0
+linked nodes is uncolored::2.0
+confirmation of an edge::2.0
+technology presents numerous challenges::2.0
+model from the raw::2.0
+edge t=1 time level::2.0
+foundation under the grant::2.0
+two previously co-located objects::2.0
+builds a probability distribution::2.0
+rfid readers::2.0
+graph update procedure entails::2.0
+techniques have been previously::2.0
+denoted by the shaded::2.0
+read at the belt::2.0
+set of location relationships::2.0
+model incorporates statistical history::2.0
+color of the reader::2.0
+readers mounted at fixed::2.0
+high volume::2.0
+colors of its neighboring::2.0
+packaging area a sequence::2.0
+account for these possibilities::2.0
+inference technique::2.0
+alleviate missed time t=1::2.0
+object is not read::2.0
+scaling to simulated workloads::2.0
+module that outputs stream::2.0
+recent collocations is set::2.0
+massive rfid data sets::2.0
+uncolored if its location::2.0
+three-way tradeoff among object::2.0
+rfid streams richard cocci::2.0
+assigned the same color::2.0
+mounted at fixed locationsa::2.0
+child node::2.0
+special readers that scan::2.0
+stationary and mobile objects::2.0
+model encoding possible object::2.0
+statistics of the edges::2.0
+provide probabilistic values representing::2.0
+observable location::2.0
+reducing total data volume::2.0
+inherited from its neighbors::2.0
+ordered discrete time domain::2.0
+describes our data capture::2.0
+edge of a node::2.0
+parent of the child::2.0
+edges with double arrows::2.0
+part by the national::2.0
+readings and often uncertain::2.0
+complex event processor network::2.0
+excess of 100,000 objects::2.0
+view of the objects::2.0
+observe the physical world::2.0
+streams emulating an enterprise::2.0
+nodes with multiple parent::2.0
+compression over rfid streams::2.0
+arrive from each reader::2.0
+inherently an identification technology::2.0
+missed by the reader::2.0
+edge set e encodes::2.0
+inter-object relationships or provide::2.0
+streams are their high::2.0
+prior work by building::2.0
+containment between the case::2.0
+assigns a probability pei::2.0
+edge of the child::2.0
+step computes a weight::2.0
+enumerates all possible containment::2.0
+epoch and a set::2.0
+extent of a containment::2.0
+data interpretation step attempts::2.0
+warehousing and analyzing massive::2.0
+diao and prashant shenoy::2.0
+confirmed as the objects::2.0
+challenges in enterprise supply-chain::2.0
+probability pei::2.0
+recent research on rfid::2.0
+graph model that captures::2.0
+due to conflicting node::2.0
+captures possible object locations::2.0
+objects resident in two::2.0
+easily overwhelm a data::2.0
+computes a probability pei::2.0
+readings from all readers::2.0
+department of computer science::2.0
+collocations to record recent::2.0
+relationships with its stream-driven::2.0
+edge ; the edge::2.0
+graph also encodes additional::2.0
+changed if its location::2.0
+past history makes edge::2.0
+objects are not updated::2.0
+colored graph::2.0
+recent collocations to record::2.0
+special location called unknown::2.0
+location and containment compression::2.0
+ompression the output module::2.0
+result in a lack::2.0
+case may contain multiple::2.0
+colors of a node::2.0
+event processor network output::2.0
+readers that scan containers::2.0
+correctly infer both object::2.0
+works on the intuition::2.0
+state of an object::2.0
+yanlei diao and prashant::2.0
+remained with its case::2.0
+node colors are updated::2.0
+colors of unobserved objects::2.0
+levels that the reported::2.0
+significantly impairing the tasks::2.0
+stream into an output::2.0
+highest probability::2.0
+locationand attempts to infer::2.0
+probabilistic inference will subsequently::2.0
+knowledge of the deployment::2.0
+location and containment information::2.0
+objects are now reported::2.0
+reached in many current::2.0
+readings does not capture::2.0
+object locations::2.0
+analyzing massive rfid data::2.0
+exited the physical world::2.0
+arrival at this location::2.0
+encodes possible containment relationships::2.0
+loading dock locations fig::2.0
+fixed locationsa common configuration::2.0
+outgoing and incoming edges::2.0
+inference builds a probabilistic::2.0
+observation of the confirmation::2.0
+enables a real-time information::2.0
+bit of recent collocations::2.0
+cleaning for rfid data::2.0
+ensures that the algorithm::2.0
+edge maintains a bit-vector::2.0
+appearance that the item::2.0
+abstract despite its promise::2.0
+setting the most recent::2.0
+generate an output stream::2.0
+pruned due to conflicting::2.0
+compared to the raw::2.0
+generated by a positioning::2.0
+close to the hardware::2.0
+observed for the first::2.0
+accuracy when the readers::2.0
+occur when two previously::2.0
+recent bit to true::2.0
+promising electronic identification technology::2.0
+processed on the fly::2.0
+continuation of past state::2.0
+incrementally as readings arrive::2.0
+research on rfid data::2.0
+updated for the stream::2.0
+computes a weight wei::2.0
+demonstrates edges being constructed::2.0
+focus on readers mounted::2.0
+relationship with other objects::2.0
+capture module for stream-driven::2.0
+graph model while simultaneously::2.0
+technology designed to identify::2.0
+dock reader reports objects::2.0
+employs three key techniques::2.0
+two nodes in adjacent::2.0
+compression exploits stable containment::2.0
+colored and uncolored nodes::2.0
+approximate yet accurate estimate::2.0
+research on rfid::1.58496250072
+prohibited for two::1.58496250072
+edges last confirmed::1.58496250072
+contruction per-tag cleaning::1.58496250072
+two different locations::1.58496250072
+data i nterpretation::1.58496250072
+relationships of objects::1.58496250072
+university of massachusetts::1.58496250072
+arrows in figure::1.58496250072
+configuration in todays::1.58496250072
+single edge t=1::1.58496250072
+efficient data interpretation::1.58496250072
+maintains a bit-vector::1.58496250072
+determining both location::1.58496250072
+attempts to estimate::1.58496250072
+probabilistic inference technique::1.58496250072
+promising electronic identification::1.58496250072
+reduced data volume::1.58496250072
+characteristic of rfid::1.58496250072
+infers the mostlikely::1.58496250072
+assigned different colors::1.58496250072
+step updates statistics::1.58496250072
+highest probability represents::1.58496250072
+warehousing and analyzing::1.58496250072
+nodes in adjacent::1.58496250072
+set of objects::1.58496250072
+model while simultaneously::1.58496250072
+data capture step::1.58496250072
+physical world improperly::1.58496250072
+containment between items::1.58496250072
+encodes additional statistics::1.58496250072
+colors of unobserved::1.58496250072
+statistics to remember::1.58496250072
+generate an output::1.58496250072
+item t=3 t=2::1.58496250072
+prashant shenoy department::1.58496250072
+confirm its absence::1.58496250072
+electronic identification technology::1.58496250072
+total data volume::1.58496250072
+current rfid deployments::1.58496250072
+augments the input::1.58496250072
+captures the location::1.58496250072
+location was inferred::1.58496250072
+erformance e valuation::1.58496250072
+reader that observed::1.58496250072
+object or confirm::1.58496250072
+covers a geographical::1.58496250072
+consists of two::1.58496250072
+informative output stream::1.58496250072
+presents numerous challenges::1.58496250072
+encodes possible containment::1.58496250072
+includes a set::1.58496250072
+incrementally as readings::1.58496250072
+bit of recent::1.58496250072
+node inference builds::1.58496250072
+encoding possible object::1.58496250072
+captures possible object::1.58496250072
+locationsa common configuration::1.58496250072
+considerations for high::1.58496250072
+temporal and spatial::1.58496250072
+tatement before defining::1.58496250072
+computes a probability::1.58496250072
+department of computer::1.58496250072
+bit is set::1.58496250072
+sequence of observations::1.58496250072
+t=1 time level::1.58496250072
+resident in two::1.58496250072
+high fan-in systems::1.58496250072
+expensive disk-based operations::1.58496250072
+t=2 and stayed::1.58496250072
+requires the knowledge::1.58496250072
+challenge in node::1.58496250072
+diao and prashant::1.58496250072
+two linked nodes::1.58496250072
+area a sequence::1.58496250072
+fly and modify::1.58496250072
+encodes the current::1.58496250072
+object is observed::1.58496250072
+framework is capable::1.58496250072
+knowledge and generate::1.58496250072
+physical world covers::1.58496250072
+update procedure entails::1.58496250072
+stream with additional::1.58496250072
+capturing the containment::1.58496250072
+per-tag cleaning rfid::1.58496250072
+confirm the current::1.58496250072
+module for stream-driven::1.58496250072
+techniques provide good::1.58496250072
+builds a probabilistic::1.58496250072
+readers are installed::1.58496250072
+divided into epochs::1.58496250072
+data stream system::1.58496250072
+set of pre-defined::1.58496250072
+edge are assigned::1.58496250072
+approximate yet accurate::1.58496250072
+relationships or provide::1.58496250072
+graph update procedure::1.58496250072
+loading dock locations::1.58496250072
+data be filtered::1.58496250072
+tag data standards::1.58496250072
+history makes edge::1.58496250072
+multiple parent nodes::1.58496250072
+describes our data::1.58496250072
+supported in part::1.58496250072
+observed read rates::1.58496250072
+inherently an identification::1.58496250072
+multiple potential cases::1.58496250072
+todays rfid deployments::1.58496250072
+readings merely confirm::1.58496250072
+construct an approximate::1.58496250072
+missed time t=1::1.58496250072
+loading dock reader::1.58496250072
+sensitive to missed::1.58496250072
+challenges in enterprise::1.58496250072
+set to false::1.58496250072
+synthetic rfid streams::1.58496250072
+tream o utput::1.58496250072
+nodes are arranged::1.58496250072
+enterprise supply-chain environments::1.58496250072
+graph is arranged::1.58496250072
+ompression the output::1.58496250072
+compute probability values::1.58496250072
+streams richard cocci::1.58496250072
+inference will subsequently::1.58496250072
+inference compression data::1.58496250072
+rfid streams richard::1.58496250072
+containment compression exploits::1.58496250072
+event processor network::1.58496250072
+history of co-locations::1.58496250072
+implemented our interpretation::1.58496250072
+role in containment::1.58496250072
+readers that scan::1.58496250072
+enables a real-time::1.58496250072
+history of observed::1.58496250072
+location called unknown::1.58496250072
+conflicting observations obtained::1.58496250072
+roblem s tatement::1.58496250072
+prune unnecessary edges::1.58496250072
+colored and uncolored::1.58496250072
+means to observe::1.58496250072
+stream of readings::1.58496250072
+v10 s location::1.58496250072
+processor network output::1.58496250072
+location or containment::1.58496250072
+geographical area event::1.58496250072
+reported or unreported::1.58496250072
+significantly reduced volume::1.58496250072
+tag is observed::1.58496250072
+observations in figure::1.58496250072
+graph is updated::1.58496250072
+compression exploits stable::1.58496250072
+maintaining processing throughput::1.58496250072
+denotes its location::1.58496250072
+missed readings result::1.58496250072
+event db complex::1.58496250072
+stream of rfid::1.58496250072
+emulating an enterprise::1.58496250072
+hardware while preserving::1.58496250072
+two objects resident::1.58496250072
+node inference arises::1.58496250072
+pre-defined logical areas::1.58496250072
+real-time information infrastructure::1.58496250072
+architecture of spire::1.58496250072
+depicted in figure::1.58496250072
+obtain such knowledge::1.58496250072
+continuation of past::1.58496250072
+outputs stream data::1.58496250072
+focus on readers::1.58496250072
+data is redundant::1.58496250072
+work by building::1.58496250072
+transform the input::1.58496250072
+result of inference::1.58496250072
+framework for inference::1.58496250072
+directed edge set::1.58496250072
+two nodes connected::1.58496250072
+scaling to simulated::1.58496250072
+readings are inherently::1.58496250072
+incorporates statistical history::1.58496250072
+lack of information::1.58496250072
+including incomplete data::1.58496250072
+cleaning rfid devices::1.58496250072
+discrete time domain::1.58496250072
+information about objects::1.58496250072
+overwhelm a data::1.58496250072
+helping to prune::1.58496250072
+assembled from cases::1.58496250072
+identify individual objects::1.58496250072
+creating the inaccurate::1.58496250072
+updated by setting::1.58496250072
+address these challenges::1.58496250072
+rfid streams emulating::1.58496250072
+containment is prohibited::1.58496250072
+data c apture::1.58496250072
+reported tag ids::1.58496250072
+compression data capture::1.58496250072
+loss of information::1.58496250072
+rfid readers provide::1.58496250072
+data capture technique::1.58496250072
+construction algorithm takes::1.58496250072
+record recent positive::1.58496250072
+edges being constructed::1.58496250072
+set of readings::1.58496250072
+shows the edge::1.58496250072
+format with smoothing::1.58496250072
+raw reader output::1.58496250072
+builds a probability::1.58496250072
+containment compression techniques::1.58496250072
+inadequate for capturing::1.58496250072
+compression over rfid::1.58496250072
+vertices are assigned::1.58496250072
+exited the physical::1.58496250072
+node is created::1.58496250072
+arranged into layers::1.58496250072
+readers are coarsely::1.58496250072
+data interpretation step::1.58496250072
+key distinguishing characteristic::1.58496250072
+readers read rate::1.58496250072
+technology presents numerous::1.58496250072
+data structure past::1.58496250072
+analyzing massive rfid::1.58496250072
+co-occurrences between objects::1.58496250072
+conflicting node colors::1.58496250072
+object is stationaryresident::1.58496250072
+exits the world::1.58496250072
+assigns a probability::1.58496250072
+high data volumes::1.58496250072
+provide probabilistic values::1.58496250072
+shown in figure::1.58496250072
+dock locations fig::1.58496250072
+present the notion::1.58496250072
+identification technology designed::1.58496250072
+data interpretation problem::1.58496250072
+national science foundation::1.58496250072
+building an interpretation::1.58496250072
+rfid dataa triplet::1.58496250072
+bit to true::1.58496250072
+object can remain::1.58496250072
+node becomes uncolored::1.58496250072
+defining the problem::1.58496250072
+rfid data cleaning::1.58496250072
+co-location and containment::1.58496250072
+infer both object::1.58496250072
+special color unknown::1.58496250072
+interpretation step attempts::1.58496250072
+observe the physical::1.58496250072
+edge by balancing::1.58496250072
+excess of 100,000::1.58496250072
+massive rfid data::1.58496250072
+edge is added::1.58496250072
+loading dock fig::1.58496250072
+results of inference::1.58496250072
+sorting and summarization::1.58496250072
+observation time denoted::1.58496250072
+color that denotes::1.58496250072
+model that captures::1.58496250072
+occur when two::1.58496250072
+past history makes::1.58496250072
+collocations to record::1.58496250072
+unknown locationand attempts::1.58496250072
+containment is dependent::1.58496250072
+output module takes::1.58496250072
+comprising a set::1.58496250072
+substrate over rfid::1.58496250072
+rfid is inherently::1.58496250072
+outgoing and incoming::1.58496250072
+update the past::1.58496250072
+data compression problem::1.58496250072
+colors are updated::1.58496250072
+due to conflicting::1.58496250072
+note that containment::1.58496250072
+t=1 in figure::1.58496250072
+fixed locationsa common::1.58496250072
+location compression works::1.58496250072
+node maintains past::1.58496250072
+tasks of determining::1.58496250072
+computes a weight::1.58496250072
+impairing the tasks::1.58496250072
+high volume streams::1.58496250072
+data capture module::1.58496250072
+exists containment relationships::1.58496250072
+designed to identify::1.58496250072
+exploits stable containment::1.58496250072
+provide location estimates::1.58496250072
+first step computes::1.58496250072
+algorithm that transforms::1.58496250072
+imperative that data::1.58496250072
+combinations of colored::1.58496250072
+proposed for rfid::1.58496250072
+step can result::1.58496250072
+cleaning for rfid::1.58496250072
+indicating an object::1.58496250072
+employs three key::1.58496250072
+system that addresses::1.58496250072
+lack of location::1.58496250072
+capable of scaling::1.58496250072
+item is missing::1.58496250072
+interpretation to obtain::1.58496250072
+case at t=2::1.58496250072
+valuation r esults::1.58496250072
+period of timeonly::1.58496250072
+edge is removed::1.58496250072
+connect two nodes::1.58496250072
+streams emulating::1.0
+maintaining processing::1.0
+data sets::1.0
+probabilistically infer::1.0
+raw stream::1.0
+important feature::1.0
+van object::1.0
+nodes connected::1.0
+output event::1.0
+readers provide::1.0
+standards version::1.0
+multiple potential::1.0
+expensive disk-based::1.0
+distinguishing characteristic::1.0
+design considerations::1.0
+yanlei diao::1.0
+volume streams::1.0
+childs events::1.0
+conveyor belt::1.0
+four steps::1.0
+world includes::1.0
+capture technique::1.0
+inferred due::1.0
+pallet locations::1.0
+belt examples::1.0
+key role::1.0
+epcglobal tag::1.0
+inherently noisy::1.0
+correctly infer::1.0
+processing throughput::1.0
+dataa triplet::1.0
+warehouse scenario::1.0
+two steps::1.0
+fan-in systems::1.0
+existing object::1.0
+retain memory::1.0
+object exits::1.0
+coordinates generated::1.0
+substrate consists::1.0
+prune graph::1.0
+incorporates statistical::1.0
+high data::1.0
+100,000 objects::1.0
+locationsa common::1.0
+rfid devices::1.0
+edges last::1.0
+compression module::1.0
+fixed locationsa::1.0
+previously co-located::1.0
+present state::1.0
+observed co-locations::1.0
+t=1 level::1.0
+per-tag cleaning::1.0
+readings produced::1.0
+readings result::1.0
+enable inference::1.0
+graph contruction::1.0
+reader reports::1.0
+recent positive::1.0
+packaging levels::1.0
+previously proposed::1.0
+including incomplete::1.0
+update edges::1.0
+containment denoted::1.0
+arriving pallet::1.0
+parent statistics::1.0
+observations obtained::1.0
+technology presents::1.0
+confirmed edge::1.0
+network output::1.0
+tag ids::1.0
+entails four::1.0
+interpretation problem::1.0
+multiple outgoing::1.0
+pre-defined location::1.0
+past state::1.0
+current epoch::1.0
+relative weight::1.0
+locations fig::1.0
+unknown locationand::1.0
+computer science::1.0
+initial event::1.0
+double arrows::1.0
+algorithm works::1.0
+output algorithm::1.0
+ntroduction rfid::1.0
+promising electronic::1.0
+coarsely synchronized::1.0
+special location::1.0
+dock locations::1.0
+domain knowledge::1.0
+unnecessary edges::1.0
+makes edge::1.0
+unobserved objects::1.0
+conflicting observations::1.0
+fixed readers::1.0
+total data::1.0
+positioning system::1.0
+graph constructed::1.0
+color inherited::1.0
+edge t=1::1.0
+massive rfid::1.0
+contruction per-tag::1.0
+case level::1.0
+simultaneously helping::1.0
+provide probabilistic::1.0
+locationand attempts::1.0
+inference compression::1.0
+identify individual::1.0
+grant cns-052072::1.0
+key techniques::1.0
+connect two::1.0
+tag data::1.0
+technological advances::1.0
+numerous challenges::1.0
+time-varying colored::1.0
+edge maintains::1.0
+information infrastructure::1.0
+compressed format::1.0
+simplify fade::1.0
+national science::1.0
+readings arrive::1.0
+spire departs::1.0
+current observation::1.0
+synthetic rfid::1.0
+dock reader::1.0
+last confirmation::1.0
+shenoy department::1.0
+three-way tradeoff::1.0
+record recent::1.0
+level reached::1.0
+ordered discrete::1.0
+weight wei::1.0
+construction algorithm::1.0
+compressed output::1.0
+observable locations::1.0
+common configuration::1.0
+outputs stream::1.0
+neighboring nodes::1.0
+stable containment::1.0
+step computes::1.0
+significantly impairing::1.0
+capture module::1.0
+step attempts::1.0
+containment information::1.0
+capture step::1.0
+high volumes::1.0
+directed edge::1.0
+event processor::1.0
+presents numerous::1.0
+compression exploits::1.0
+complex event::1.0
+encodes additional::1.0
+recent research::1.0
+spatial smoothing::1.0
+analyzing massive::1.0
+adjacent layers::1.0
+compression data::1.0
+reports objects::1.0
+interpretation step::1.0
+parent edge::1.0
+node maintains::1.0
+world based::1.0
+first arrival::1.0
+present spire::1.0
+conflicting node::1.0
+prior work::1.0
+compression requires::1.0
+probabilistic values::1.0
+supply-chain environments::1.0
+science foundation::1.0
+demonstrates edges::1.0
+blue cases::1.0
+streams richard::1.0
+designated channel::1.0
+rfid tag::1.0
+inference techniques::1.0
+accurate estimate::1.0
+first step::1.0
+inference builds::1.0
+module takes::1.0
+objects container::1.0
+last confirmed::1.0
+blue item::1.0
+rfid dataa::1.0
+stream data::1.0
+pruned due::1.0
+provide location::1.0
+two objects::1.0
+shaded nodes::1.0
+multiple parent::1.0
+data standards::1.0
+subsequent readings::1.0
+data compression::1.0
+actual deployments::1.0
+bit-vector recent::1.0
+exploits stable::1.0
+location estimates::1.0
+current location::1.0
+multiple items::1.0
+readers mounted::1.0
+prashant shenoy::1.0
+objects resident::1.0
+enterprise supply-chain::1.0
+linked nodes::1.0
+compression substrate::1.0
+special color::1.0
+previous epoch::1.0
+color unknown::1.0
+values representing::1.0
+good accuracy::1.0
+two previously::1.0
+insufficient information::1.0
+technology designed::1.0
+hifi approach::1.0
+cs.umass.edu abstract::1.0
+reducing total::1.0
+compression techniques::1.0
+thanh tran::1.0
+unshaded node::1.0
+update statistics::1.0
+scanned individually::1.0
+inter-object relationships::1.0
+rfid deployments::1.0
+rfid technology::1.0
+raw reader::1.0
+dashed edges::1.0
+confirmed parent::1.0
+four::0.0
+assembled::0.0
+relationships::0.0
+contained::0.0
+presents::0.0
+updated::0.0
+probability::0.0
+updates::0.0
+roblem::0.0
+consistent::0.0
+estimates::0.0
+implemented::0.0
+simultaneously::0.0
+represented::0.0
+items::0.0
+changed::0.0
+reports::0.0
+total::0.0
+negative::0.0
+type::0.0
+real-time::0.0
+work::0.0
+containment::0.0
+preserving::0.0
+per-tag::0.0
+provide::0.0
+feature::0.0
+adjacent::0.0
+operations::0.0
+interpretation::0.0
+fig::0.0
+fade::0.0
+reached::0.0
+network::0.0
+yields significant reduction::0.0
+content::0.0
+reader::0.0
+co-locations::0.0
+graph update::0.0
+incorporates::0.0
+created::0.0
+unknown::0.0
+rfid-tagged::0.0
+electronic::0.0
+observations::0.0
+contruction::0.0
+enables::0.0
+raw::0.0
+node colored::0.0
+blue::0.0
+object::0.0
+retaining::0.0
+result in uncolored::0.0
+dataa::0.0
+inferred::0.0
+enterprise::0.0
+incomplete::0.0
+informative output::0.0
+colors::0.0
+cocci::0.0
+architecture::0.0
+observed::0.0
+augments::0.0
+techniques::0.0
+propagated::0.0
+approach::0.0
+triplet::0.0
+loading::0.0
+consists::0.0
+reported::0.0
+readers read::0.0
+warehouses::0.0
+basic::0.0
+containers::0.0
+obtained::0.0
+child::0.0
+applied::0.0
+exception::0.0
+current rfid::0.0
+voluminous::0.0
+procedure::0.0
+disappear::0.0
+hong::0.0
+complex::0.0
+filtered::0.0
+level is encoded::0.0
+scenario::0.0
+noisy with observed::0.0
+simulated::0.0
+scan containers::0.0
+proposed::0.0
+assigned::0.0
+identify::0.0
+transforms::0.0
+previous::0.0
+enters::0.0
+han::0.0
+eferences::0.0
+technological::0.0
+advances::0.0
+unnecessary::0.0
+steps::0.0
+amherst::0.0
+jeffery::0.0
+a,1::0.0
+t=3 t=2::0.0
+definition::0.0
+compressed close::0.0
+considerations::0.0
+two::0.0
+reducing::0.0
+compression::0.0
+initial::0.0
+transform::0.0
+encodes::0.0
+encoded::0.0
+cidr::0.0
+removed::0.0
+true::0.0
+builds::0.0
+devices::0.0
+abstract::0.0
+evidence::0.0
+exist::0.0
+check::0.0
+constructed::0.0
+setting::0.0
+role::0.0
+warehouse::0.0
+node::0.0
+update::0.0
+fell::0.0
+cooper::0.0
+disk-based::0.0
+assume::0.0
+co-occurrences::0.0
+neighbors::0.0
+node van::0.0
+childs::0.0
+focus::0.0
+layers::0.0
+environment::0.0
+pei::0.0
+mostlikely::0.0
+standards::0.0
+discrete::0.0
+edakkunni::0.0
+nterpretation::0.0
+incrementally::0.0
+spire::0.0
+current::0.0
+algorithm yields::0.0
+world improperly::0.0
+unobserved::0.0
+nodes retain memory::0.0
+address::0.0
+change::0.0
+incoming::0.0
+streams which employs::0.0
+franklin::0.0
+two linked::0.0
+tasks::0.0
+inference::0.0
+logical::0.0
+opposed::0.0
+capturing::0.0
+subsequently chose::0.0
+technology that enables::0.0
+values::0.0
+arrive::0.0
+stream::0.0
+conversely::0.0
+occur::0.0
+pre-defined::0.0
+monitoring::0.0
+divided::0.0
+ambiguous containment::0.0
+adaptive cleaning::0.0
+mar::0.0
+applications::0.0
+revealed::0.0
+remember::0.0
+garofalakis::0.0
+statistical::0.0
+thanh::0.0
+coordinates::0.0
+section describes::0.0
+pruned::0.0
+100,000::0.0
+scaling::0.0
+arriving::0.0
+maintaining::0.0
+procedure entails::0.0
+yields significant::0.0
+arrows::0.0
+possibilities::0.0
+retaining efficiency::0.0
+individually::0.0
+domain::0.0
+significantly::0.0
+challenges::0.0
+gonzalez::0.0
+shown::0.0
+container::0.0
+imperative::0.0
+shows::0.0
+massive::0.0
+first::0.0
+intuition::0.0
+approximate::0.0
+examples of ambiguous::0.0
+relationships between objects::0.0
+t=1::0.0
+t=2::0.0
+t=3::0.0
+representing::0.0
+future::0.0
+remained::0.0
+locations::0.0
+efficient::0.0
+note::0.0
+potential::0.0
+channel::0.0
+multiple::0.0
+locationsa::0.0
+single edge::0.0
+object dynamics::0.0
+show::0.0
+deployments::0.0
+designated::0.0
+belt reader::0.0
+additional statistics::0.0
+efficient data::0.0
+reveals::0.0
+relative::0.0
+high certainty::0.0
+emulating::0.0
+enumerates::0.0
+subsequent::0.0
+potential cases::0.0
+reading::0.0
+arrival::0.0
+infrastructure::0.0
+parent::0.0
+stationaryresident::0.0
+present::0.0
+ttran::0.0
+color::0.0
+continuation::0.0
+period::0.0
+capable::0.0
+distinguishing::0.0
+collocation::0.0
+enable::0.0
+readings::0.0
+current view::0.0
+observe::0.0
+case::0.0
+reader reports objects::0.0
+unshaded::0.0
+unreported::0.0
+promising::0.0
+yanlei::0.0
+coarsely::0.0
+epoch::0.0
+physical::0.0
+events::0.0
+assigns::0.0
+rfid::0.0
+probabilistic distribution::0.0
+edges::0.0
+tracking::0.0
+disk-based operations::0.0
+proceeds incrementally::0.0
+alleviate::0.0
+model::0.0
+captures::0.0
+speed::0.0
+captured::0.0
+confirmed::0.0
+pallet::0.0
+set v denotes::0.0
+represents::0.0
+read::0.0
+department::0.0
+world::0.0
+including their reported::0.0
+discarded::0.0
+output::0.0
+stationary::0.0
+reduced::0.0
+todays::0.0
+confirm::0.0
+smoothing to alleviate::0.0
+two locations::0.0
+processor::0.0
+significantly reduced::0.0
+capture inter-object::0.0
+history about co-occurrences::0.0
+area::0.0
+balancing the relative::0.0
+inter-object::0.0
+key idea::0.0
+node van object::0.0
+inference with high::0.0
+attempts to infer::0.0
+output event stream::0.0
+colored graph model::0.0
+scanned::0.0
+acknowledgments::0.0
+reveals such special::0.0
+spatial::0.0
+includes::0.0
+important::0.0
+massachusetts::0.0
+included::0.0
+klabjan::0.0
+interpretation module::0.0
+krishnamurthy::0.0
+lack::0.0
+capable of reducing::0.0
+denotes::0.0
+improperly::0.0
+synthetic::0.0
+rfid devices fig::0.0
+shenoy::0.0
+graph contruction per-tag::0.0
+nodes::0.0
+algorithm that infers::0.0
+balancing::0.0
+reducing total data::0.0
+workloads::0.0
+foundation::0.0
+past::0.0
+rate::0.0
+design::0.0
+tracking applications::0.0
+previously co-located objects::0.0
+diao::0.0
+richard::0.0
+section::0.0
+version::0.0
+outgoing::0.0
+modify::0.0
+formraises new challenges::0.0
+compressed::0.0
+excess::0.0
+i.e::0.0
+fan-in::0.0
+colored::0.0
+prior::0.0
+graph::0.0
+exited::0.0
+technique::0.0
+transit::0.0
+analyzing::0.0
+estimate::0.0
+takes::0.0
+entails::0.0
+aisle::0.0
+algorithm takes::0.0
+mounted::0.0
+rfid warehouses::0.0
+co-location::0.0
+science::0.0
+remain::0.0
+history::0.0
+dock reader reports::0.0
+synchronized::0.0
+scan::0.0
+denotes all rfid-tagged::0.0
+compression algorithm::0.0
+information::0.0
+technology::0.0
+stayed::0.0
+content to monitoring::0.0
+colored in step::0.0
+summarization::0.0
+current state::0.0
+installed::0.0
+parent nodes::0.0
+alleviate missed::0.0
+module that outputs::0.0
+absence::0.0
+systems::0.0
+ompression::0.0
+todays rfid::0.0
+good::0.0
+timestamp::0.0
+individual objects::0.0
+framework::0.0
+prashant::0.0
+easily::0.0
+world covers::0.0
+level::0.0
+procedure entails four::0.0
+weight::0.0
+idea::0.0
+connect::0.0
+event::0.0
+missed::0.0
+item::0.0
+research::0.0
+denoted::0.0
+generate::0.0
+e.g::0.0
+positioning::0.0
+triplet < tag::0.0
+encoding::0.0
+number::0.0
+impairing::0.0
+construct::0.0
+c,2::0.0
+c,3::0.0
+relationship::0.0
+compute probability::0.0
+uncolored::0.0
+double::0.0
+uncolored nodes retain::0.0
+reported tag::0.0
+reiss::0.0
+play::0.0
+added::0.0
+construct a time-varying::0.0
+significant::0.0
+probabilistic::0.0
+part::0.0
+provide timely::0.0
+v10::0.0
+item t=3::0.0
+utput::0.0
+dependent::0.0
+combinations::0.0
+probabilistic inference compression::0.0
+common::0.0
+set::0.0
+overwhelm::0.0
+collectively::0.0
+individual::0.0
+close::0.0
+structure past::0.0
+provide a means::0.0
+numerous::0.0
+creating::0.0
+object are present::0.0
+recent history::0.0
+inaccurate appearance::0.0
+sensitive::0.0
+rcocci::0.0
+probability distribution::0.0
+uncolored node van::0.0
+improvement::0.0
+expensive::0.0
+belt::0.0
+ensures::0.0
+conveyor::0.0
+remember the last::0.0
+reduction::0.0
+describes::0.0
+node consists::0.0
+stolen::0.0
+uncertain::0.0
+evaluated::0.0
+probabilistically::0.0
+model incorporates statistical::0.0
+rfid-tagged objects::0.0
+grant::0.0
+cs.umass.edu::0.0
+two previously co-located::0.0
+throughput::0.0
+compression interpretation::0.0
+higher::0.0
+basic formraises::0.0
+levels::0.0
+time-varying colored graph::0.0
+recent::0.0
+logical areas::0.0
+bit-vector::0.0
+scenario is depicted::0.0
+edge::0.0
+probabilistic algorithm::0.0
+exploits::0.0
+enters the world::0.0
+readers::0.0
+location::0.0
+input::0.0
+guarantees::0.0
+mostlikely locations::0.0
+format::0.0
+bit::0.0
+sorting::0.0
+play a key::0.0
+apture this section::0.0
+separately::0.0
+yields::0.0
+pre-defined logical::0.0
+methods::0.0
+positive and negative::0.0
+examples::0.0
+timeonly an initial::0.0
+number of conflicting::0.0
+esults::0.0
+locations and containments::0.0
+rfid data sets::0.0
+interpretation & interpretation::0.0
+processing::0.0
+step::0.0
+observed read::0.0
+tatement::0.0
+update and color::0.0
+deployment reveals::0.0
+ids::0.0
+positive::0.0
+entails four steps::0.0
+nodes is uncolored::0.0
+statistics::0.0
+specifically::0.0
+nodes retain::0.0
+cleaning::0.0
+reduced volume::0.0
+memory::0.0
+infers::0.0
+observation::0.0
+directed::0.0
+icde::0.0
+characteristic::0.0
+streams to address::0.0
+mobile::0.0
+ordered::0.0
+vertices::0.0
+single::0.0
+dashed::0.0
+outputs::0.0
+modify the output::0.0
+helping::0.0
+generated::0.0
+richard cocci::0.0
+structure::0.0
+algorithm::0.0
+tradeoff::0.0
+departs::0.0
+requires::0.0
+vldb::0.0
+results::0.0
+existing::0.0
+cases::0.0
+concerned::0.0
+simplify::0.0
+step builds::0.0
+stable::0.0
+indicating::0.0
+fly::0.0
+confirmation::0.0
+stream system::0.0
+updated but simplify::0.0
+high-value content::0.0
+timely::0.0
+mobile objects::0.0
+exits::0.0
+attempts::0.0
+node set::0.0
+erformance::0.0
+data standards version::0.0
+dynamics::0.0
+monitoring and tracking::0.0
+chose::0.0
+objects::0.0
+warehousing::0.0
+data cleaning::0.0
+prune unnecessary::0.0
+transit between two::0.0
+volume of data::0.0
+shaded::0.0
+makes::0.0
+addresses::0.0
+inference less sensitive::0.0
+co-located objects::0.0
+figure::0.0
+statistical history::0.0
+read rates::0.0
+container and contained::0.0
+interpretation over streams::0.0
+depicted::0.0
+compressed output event::0.0
+processor network::0.0
+set e encodes::0.0
+event stream::0.0
+iii::0.0
+mounted at fixed::0.0
+account::0.0
+dock fig::0.0
+challenge::0.0
+graph model encoding::0.0
+consistent output::0.0
+high::0.0
+tag::0.0
+employs::0.0
+update procedure::0.0
+reader output::0.0
+nodes with multiple::0.0
+infrastructure to provide::0.0
+tradeoff among object::0.0
+reading captures::0.0
+probability represents::0.0
+makes edge inference::0.0
+redundant::0.0
+subsequently::0.0
+produces::0.0
+move::0.0
+produced::0.0
+transforms an input::0.0
+including::0.0
+formraises::0.0
+collocations::0.0
+chosen::0.0
+temporal::0.0
+b,3::0.0
+b,2::0.0
+step updates::0.0
+complex event processor::0.0
+idea behind compression::0.0
+defining::0.0
+takes the graph::0.0
+dock::0.0
+university::0.0
+tran::0.0
+special::0.0
+object enters::0.0
+adaptive::0.0
+maintains::0.0
+massachusetts amherst::0.0
+color nodes::0.0
+determining::0.0
+time-varying::0.0
+retain::0.0
+designed::0.0
+filtered and compressed::0.0
+ntroduction::0.0
+containments::0.0
+three-way::0.0
+model incorporates::0.0
+compression problem::0.0
+data::0.0
+system::0.0
+apture::0.0
+ambiguous::0.0
+shelf::0.0
+epochs::0.0
+prune::0.0
+result::0.0
+technique to construct::0.0
+false::0.0
+compression works::0.0
+linked::0.0
+inference arises::0.0
+accuracy::0.0
+edges with double::0.0
+connected::0.0
+contained object::0.0
+nodes or nodes::0.0
+stream-driven::0.0
+location compression::0.0
+negative evidence::0.0
+neighboring::0.0
+graphs::0.0
+fact::0.0
+supported::0.0
+based::0.0
+knowledge::0.0
+inherited::0.0
+employed::0.0
+epcglobal::0.0
+means::0.0
+hifi::0.0
+arranged::0.0
+areas::0.0
+substrate::0.0
+output module::0.0
+comprising::0.0
+processed::0.0
+fixed::0.0
+view::0.0
+supply-chain::0.0
+exists::0.0
+national::0.0
+module::0.0
+computes::0.0
+computer::0.0
+location relationships::0.0
+missing::0.0
+state::0.0
+identification::0.0
+correctly::0.0
+module to probabilistically::0.0
+provide good accuracy::0.0
+notion::0.0
+key challenge::0.0
+efficiency::0.0
+key::0.0
+configuration::0.0
+problem::0.0
+observable::0.0
+instant::0.0
+streams::0.0
+safely::0.0
+extent::0.0
+environments::0.0
+packaging::0.0
+model encoding::0.0
+addition::0.0
+tream::0.0
+rates::0.0
+arises::0.0
+informative::0.0
+edge set::0.0
+due to color::0.0
+last::0.0
+appearance::0.0
+probability values::0.0
+layer::0.0
+resident::0.0
+hardware::0.0
+updated using stream::0.0
+capture::0.0
+timeonly::0.0
+geographical::0.0
+ummary::0.0
+infer::0.0
+conflicting::0.0
+http::0.0
+reader that read::0.0
+reduced data::0.0
+data volumes::0.0
+updates statistics::0.0
+sets::0.0
+accurate::0.0
+reported locations::0.0
+obtain::0.0
+inadequate::0.0
+cns-052072::0.0
+wei::0.0
+data structure::0.0
+probabilistic values representing::0.0
+deployment::0.0
+loss::0.0
+simulated workloads::0.0
+geographical area::0.0
+alternatively::0.0
+containment inference::0.0
+count the current::0.0
+works::0.0
+collocations is set::0.0
+assuming a supply-chain::0.0
+sequence::0.0
+nterpretation the graph::0.0
+demonstrates::0.0
+assuming::0.0
+guarantees a consistent::0.0
+stationary and mobile::0.0
+inaccurate::0.0
+devices fig::0.0
+paper::0.0
+cleaning rfid::0.0
+prohibited::0.0
+noisy::0.0
+actual::0.0
+certainty::0.0
+epcglobal tag data::0.0
+insufficient::0.0
+history makes::0.0
+key distinguishing::0.0
+previously::0.0
+exists containment::0.0
+due::0.0
+promise::0.0
+van::0.0
+additional::0.0
+maintains past::0.0
+smoothing::0.0
+area event::0.0
+building::0.0
+high fan-in::0.0
+employed temporal::0.0
+rizvi::0.0
+accuracy while retaining::0.0
+volume::0.0
+construction::0.0
+highest::0.0
+valuation::0.0
+count::0.0
+compute::0.0
+easily overwhelm::0.0
+covers::0.0
+record::0.0
+distribution::0.0
+statistics play::0.0
+co-located::0.0
+proceeds::0.0
+electronic identification::0.0
+compared::0.0
+stream speed::0.0
+graph also encodes::0.0
+rfid technology presents::0.0
+workloads in excess::0.0
+inherently::0.0
+additionally::0.0
+locationand::0.0
+takes the results::0.0
+real-time information::0.0
+volumes::0.0
+throughput above stream::0.0
+high-value::0.0

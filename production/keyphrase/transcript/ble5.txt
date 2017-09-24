@@ -1,0 +1,874 @@
+Indoor Localization Based on Response Rate of Bluetooth
+Inquiries
+Mortaza S. Bargh
+
+Robert de Groote
+
+Telematica Instituut
+P.O. Box 589, 7500AN Enschede
+The Netherlands
++31 (0)53 485 0443
+
+Telematica Instituut
+P.O. Box 589, 7500AN Enschede
+The Netherlands
++31 (0)53 485 0445
+
+Mortaza.Bargh@telin.nl
+
+Robert.deGroote@telin.nl
+provoked by predefined events), from single-target to multi-target
+(i.e., interrelating several targets among each other), from selfreferencing to cross-referencing (i.e., other users requesting a
+user’s location), and from content-oriented to application-oriented
+(i.e., richer applications developed around user location) [1].
+
+ABSTRACT
+Location is considered as the most important and relevant context
+information. Bluetooth technology, being a common feature of
+commercial mobile devices, is a (or the) key technology that is
+pervasively available nowadays. There has been not much success
+in using Bluetooth technology for indoor localization, mainly due
+to the limitation of the technology. Using the Context
+Management Frame (CMF) infrastructure deployed in our office
+building, we have designed, implemented and evaluated a
+Bluetooth based indoor localization solution that determines the
+locations of stationary mobile users at a room level. The solution
+is based on the inquiry response rate of Bluetooth technology.
+This approach does not require establishing any connectivity
+between Bluetooth devices. Further, since the solution is
+infrastructure- and network-based, it does not require mobile
+devices to be upgraded in any way in order to be localized. The
+results of experiments show that our solution has 98% accuracy in
+rooms with full Bluetooth sensor coverage, when the target device
+being stationary for 3 minutes.
+
+Location determination is the main component of the systems that
+deliver LBSs. For outdoor environments Global Positioning
+System (GPS) provides an effective solution to determine location
+of GPS enabled mobile devices. For indoor environments,
+however, such an effective solution does not exist. As a result,
+indoor location determination is an active area of research
+nowadays. In this contribution we consider an indoor localization
+solution that relies on Bluetooth technology that, being a common
+feature of mobile devices, is a pervasive technology currently.
+Most Bluetooth based solutions rely on network characteristics
+like Received Signal Strength (RSS). Bluetooth RSS, specified as
+RSS Indicator (RSSI) and Link Quality (LQ), is not a reliable
+measure considering the heterogeneity of Bluetooth hardware in
+available devices. This is partly resulting from an imprecise
+definition of RSS in the Bluetooth standard [2]. Obtaining
+Bluetooth RSS, moreover, generally requires establishing
+connectivity between corresponding devices. This requires users
+to maintain their devices in connectable mode, which is
+considered unsafe by most users.
+
+Categories and Subject Descriptors
+C.2.4
+[Computer-Communication-Networks]:
+Systems – distributed applications
+
+Distributed
+
+General Terms
+
+Our location determination method is a fingerprint-based
+localization solution that relies on only the Response Rate (RR) of
+Bluetooth inquiries. This just requires mobile devices to be in
+discoverable mode. According to this approach, every location is
+fingerprinted by Inquiry RRs (IRRs) of Bluetooth sensors
+installed in a multi-floor building. After obtaining the IRR of a
+target device to be localized, our system uses relative entropy
+measure (i.e., Kullback-Leibler function) and its extension (i.e.,
+Jensen-Shannon distance measure) to estimate the location of the
+target device. We evaluated the performance of the solution by
+carrying out some experiments in an infrastructure deployed in
+our entire office building. The accuracy of our location estimation
+is almost 98% in a room where all neighboring rooms have
+Bluetooth dongles. Note that this performance was obtained when
+different device types were used for the fingerprinting of rooms,
+and the target device to be localized differed from those devices
+used for room fingerprinting. During our experiments, moreover,
+the target device was relocated in the test room every hour. Our
+solution aims at determining location at a room level, which is a
+meaningful granularity for a wide range of indoor applications.
+Moreover, our approach does not require any upgrade to mobile
+
+Algorithms, Measurement, Performance, Verification
+
+Keywords
+Indoor localization, Bluetooth, response rate, office buildings
+
+1. INTRODUCTION
+Location based Services (LBSs) have resurrected in recent years
+due to several important developments like emergence of GPScapable mobile devices, introduction of Web 2.0 platform, and
+deployment of wireless broadband wireless services [1]. There are
+also a number of paradigm shifts that have contributed to
+resurgence of LBSs, namely: from reactive to proactive (i.e.,
+Permission to make digital or hard copies of all or part of this work for
+personal or classroom use is granted without fee provided that copies are
+not made or distributed for profit or commercial advantage and that
+copies bear this notice and the full citation on the first page. To copy
+otherwise, or republish, to post on servers or to redistribute to lists,
+requires prior specific permission and/or a fee.
+MELT’08, September 19, 2008, San Francisco, California, USA.
+Copyright 2008 ACM 978-1-60558-189-7/08/09...$5.00
+
+49
+
+infrastructures (i.e., preferably require no upgrade of user
+terminals, need no excessive hardware installation, and use
+existing technologies), impose low power consumption on mobile
+terminals, and use low cost infrastructure [6]. As mentioned in
+[6], Zigbee and Bluetooth are two technologies that impose low
+power consumption on mobile terminals. It is, however, Bluetooth
+technology that has been deployed pervasively nowadays and it is
+considered to be “the fastest growing technology since the
+Internet or the cellular phone”, see pp. xiii [7]. Having no mobile
+terminal upgrade has guided us to adopt an infrastructure-based
+and network-based approach, as categorized in [2]. In such an
+approach a target device to be localized must be in discoverable
+mode and almost all of localization process is delegated to
+Bluetooth infrastructure (i.e., to Bluetooth access points and the
+backend server, as described in detail in Section 3).
+
+devices to be localized and it inflicts low power consumption on
+mobile devices due to its reliance on Bluetooth technology.
+The rest of the paper is organized as follows. Section 2 gives
+some background information over existing localization
+approaches and our Bluetooth based solution. Section 3 describes
+our solution in detail. Section 4 provides the results of our
+evaluation of the proposed solution. Finally Section 5 presents our
+conclusions and future research directions.
+
+2. BACKGROUND
+2.1 Localization Approaches
+Localization systems can be divided into two categories:
+processing based and fingerprint based. Processing based systems
+use techniques like lateration, angulation, dead reckoning and
+proximity detection, see [2] for references. For example, the
+famous GPS uses lateration and angulation techniques to derive
+the coordinates (i.e., position) of GPS devices. These techniques
+process different parameters of radio signals like RSS, angle of
+arrival, time of arrival, and time difference of arrival. Processing
+based systems generally rely on dedicated software/hardware and
+they are not much effective indoors. Indoor environments affect
+the propagation of wireless signals non-deterministically due to
+sever multi-path effects, dead-spots, noise and interference [3]. As
+a result, it becomes infeasible to construct a simple and accurate
+model of indoor signal propagation which is required for the
+techniques mentioned.
+
+2.3 Challenge and Opportunity
+The process of establishing connectivity between two Bluetooth
+devices relies on inquiry and paging mechanisms. The inquiry
+mechanism allows the inquirer to discover the Bluetooth enabled
+devices in its neighborhood. The inquirer transmits a series of
+inquiry packets and the discoverable Bluetooth device, which
+periodically scans for inquiries, eventually replies with a
+Frequency Hop Synchronization (FHS) packet. The FHS packet
+contains all information that the inquirer needs to establish a
+Bluetooth connection with the scanning device (e.g., device class
+and type). Then, the paging mechanism is used to find out the
+services that a target device provides. To this end, the inquirer
+pages the target device using information obtained during inquiry.
+If the target device scans for paging, it replies. Subsequently a
+connection is established between the two devices and the
+inquirer retrieves information about the services provided by the
+target device. After this the connection is generally shut down.
+Using the information obtained during paging, the inquirer
+establishes another connection towards the target device with
+appropriate quality of service requirements.
+
+Fingerprint based systems capture fingerprints of all known
+locations. These fingerprints are (pre-recorded) measurements of
+network characteristics in the corresponding locations and they
+can be considered as signatures of those locations. For
+localization of a target device, the momentary network
+characteristics of that device are examined with respect to the
+radio map (i.e., collection of location fingerprints) and most likely
+location is determined. The network characteristics used for
+fingerprinting include RSS, access point ID, and RR. A taxonomy
+of fingerprint based approaches is presented in [2].
+
+Scanning devices can choose for two modes: discoverable and
+connectable. Being in discoverable mode is enough for the
+inquiry mechanism. For establishing connectivity, however,
+scanning devices must choose for connectable mode which
+implies also being discoverable. The user acceptance barrier to
+maintain devices in discoverable mode is lower than it is for
+connectable mode. Therefore, we require for target devices (i.e.,
+those to be localized) to be just discoverable.
+
+RR is one of the network characteristic that is not well-explored
+for fingerprinting. It is defined as “the frequency of received
+measurements over time from a given base station” in [2] or “the
+percentage of times that a given access point was heard in all of
+the WiFi scans at a specific distance from that access point” in
+[4]. RR approaches proposed so far are used in combination with
+RSS for localization with WiFi technology [3][4] and with
+Bluetooth technology [5]. In this paper we design and evaluate a
+fingerprint method that relies on only IRR fingerprints of
+Bluetooth technology.
+
+Our approach uses inquiry response rate as the sole network
+characteristic to fingerprint locations and localize target devices.
+Every TS = 10 seconds Bluetooth access points (i.e., the inquirers
+called “dongles” from now on) obtain a list of discovered “object
+devices”. The Bluetooth IRR is defined as “the percentage of
+inquiry responses to total inquiries, replied by a discoverable
+target device and sent by a dongle that are located at a specific
+distance from each other”.
+
+2.2 Motivation and Principles
+Our work is motivated by the design of a location based
+application called “Colleague Radar” that locates coworkers in
+our office building. The application aims at locating users at
+room-level where users are assumed to be stationary for a while
+(e.g., the person being in her/his room or in a meeting room for a
+few minutes or more). This means that tracking users (in realtime) is not required for the application.
+
+Many fingerprinting solutions are based on RSS and access point
+ID. Recent findings indicate that RSS should be used as a weak
+indicator of distance for indoors [4]. Cheng et al [4] explored WiFi RR as a new metric for location estimation and found out that
+there is a strong relation between distance and RR, compare
+Figures 2 and 3 in [4]. We investigated the relation of IRR and
+distance for Bluetooth in our office. Our test was carried out in
+
+On the other hand, successful and widely deployable indoor
+localization systems must integrate smoothly with existing
+
+50
+
+The system distinguishes between different types of Bluetooth
+devices: dongles and mobile devices. Bluetooth dongles are the
+inquiring sensors that are plugged in to the PCs of users. Since
+these machines have a fixed location (only desktop PCs were
+used), the locations of these dongles are known. Mobile devices
+are being discovered by the inquiring dongles, and can be further
+distinguished into two categories: reference devices and target
+devices. Reference devices are mobile devices for which the
+location is known a-priori, since they are known to have been at a
+particular location at a particular point in time. Target devices are
+devices for which there is no a-priori location information. It is
+the task of the Bluetooth positioning system to estimate the
+location of the target devices by comparing their observed
+fingerprints with the (pre-recorded) fingerprints of the reference
+devices. Little homogeneity exists among the Bluetooth mobile
+devices, while the dongles are all of the same type.
+
+three locations: a room with a dongle, the hall outside the dongle
+room and a room across the hall. All IRR measurements were
+carried out at points 2 meters apart on a straight line. Both walls
+between the rooms and the hall were thin, however, there was a
+wide metal bookshelf behind the wall between the hall and the
+room across the hall. Table 1 summarizes the test results and
+shows how IRR decreases with increasing distance. Each row of
+Table 1 reports the average and variance of IRR measurements
+measured every 5 seconds for 20 minutes (thus 240 samples),
+where every IRR sample is the RR of the last 50 inquiries.
+Table 1. Measured IRR with respect to distance
+location of the
+object device
+
+distance of
+devices
+
+average of
+IRR
+
+variance of
+IRR
+
+in the room of the
+Bluetooth dongle
+
+2m
+
+97 %
+
+1.8
+
+in the hall outside
+the dongle room
+
+4m
+
+97 %
+
+1.2
+
+6m
+
+99 %
+
+1
+
+8m
+
+94 %
+
+1.4
+
+10 m
+
+86 %
+
+4.6
+
+12 m
+
+74 %
+
+9.6
+
+14 m
+
+67 %
+
+4.6
+
+in room across the
+hall
+
+16 m
+
+NULL
+
+NULL
+
+18 m
+
+NULL
+
+NULL
+
+The Bluetooth localization system architecture is shown in Figure
+1 schematically. This architecture encompasses the main system
+components in the central machine and does not include dongles
+connected to remote PCs. As shown in
+Figure 1, room
+fingerprints are derived during training and (pre)stored in a
+database. On the other hand, the location fingerprint of a target
+device is detected in real-time and fed to a location estimator that
+compares it with room fingerprints one by one. The best match
+determines the location estimate of the target device. This
+estimate is fed to the Colleague Radar application. Our system
+determines user locations when the users are stationary for a few
+minutes. If the target device moves between rooms, our location
+determination system does not give any particular location as an
+output, however a subcomponent indicates that the user is
+moving. This subcomponent is out of scope of this paper.
+
+To the best of our knowledge, there is no prior work that bases its
+location estimation process solely on the IRR parameter. We
+adopted an IRR based approach for two reasons: (i) RSS in
+Bluetooth (e.g., RSSI or LQ) cannot be obtained reliably due to
+the fact that power aspects are not standardized in detail [2]; and
+(ii) obtaining RRS in Bluetooth v1.1, based on which our dongles
+were manufactured, requires establishing connectivity between
+devices, an operation that is against our requirements.
+An IRR based approach faces the challenge of a target device
+being detected by many Bluetooth dongles of the surrounding
+rooms. In the rest of paper we propose a method that eliminates
+the location uncertainty imposed by the IRRs of multiple
+Bluetooth dongles.
+
+room fingerprint
+detection
+
+radio map
+(room IRR
+fingerprints)
+
+location fingerprint
+detection
+
+location
+estimation
+
+location
+estimate
+
+movement
+detection
+
+Figure 1. System architecture.
+
+3. APPROACH
+3.1 Infrastructure and System
+
+3.2 Solution
+
+Our Bluetooth positioning system was implemented on top of an
+existing Context Management Framework (CMF). The CMF is a
+publish-subscribe system where remote machines run so-called
+context-sources which publish contextual information to central
+machines that have subscribed to that type of context information.
+The location determination takes place in a central component
+called location estimator that subscribes to all Bluetooth contextsources. Bluetooth context-sources run inquiries periodically, and
+send the results of these inquiries to their subscriber as soon as an
+inquiry has completed. An inquiry result is a list of Bluetooth
+addresses that were discovered by every Bluetooth context source.
+In our setting, inquiries have a fixed length of 5.12s, and are
+started every TS=10s.
+
+Let {d1, d2, …, dM} denote the set of the dongles installed on
+users’ PCs. We assume these PCs are located at topological
+locations (i.e., rooms) of the building, generally one in every
+room. This constitutes a dynamic sensor network connected
+through Ethernet. Dynamicity comes from the fact that users’ PCs
+can come and go as users log in and log out their systems.
+Fingerprints indicate the spatial density of Bluetooth cells in each
+room in that, given a room, (a) which subset of dongles detect a
+discoverable mobile device in the room; and (b) how often they
+discover the device. These are a function of RSS, the geometry of
+the building, etc. We have two fingerprint types: training
+
+51
+
+fingerprint Tk associated with Room-k, k=1,…, K, and location
+fingerprint L associated with a target device.
+Let {ik1, ik2, …, ikM} be the number of times that in a training
+window of WT seconds dongles {d1, d2, …, dM} have detected the
+reference device of Room k. Further, let nT be number of inquiry
+done by these dongles in WT seconds (note that all dongles
+inquiry at a fix rate of every TS=10 seconds, thus nT given WT is
+independent of k). Then, the training fingerprint Tk is defined as a
+vector:
+
+Tk = (Tk 1 , Tk 2 ,..., TkM ) = (
+
+=
+
+ik 1 ik 2
+i
+, ,..., kM )
+nT nT
+nT
+
+T
+
+log
+
+m
+
+|| Tkm )
+
+jm
+j
+n − jm
++ (1 − m ) log T
+)
+ikm
+nT
+nT − ikm
+
+1
+( D ( L || M ) + D(Tk || M ))
+2
+
+4. EVALUATION
+To evaluate the performance of our solution we conducted two
+tests in two rooms of size 4m×6m in our office building. These
+rooms are called Room-1 and Room-2 from now on. Our office
+building has 4 floors and each floor has about 20 rooms. Room-1
+was located in floor 2 and surrounded by rooms all with dongles
+(i.e., rooms on the right, left, top, and below had Bluetooth
+dongles). Room-2, on the other hand, was located in floor 3 and
+surrounded by rooms with and without dongles (i.e., rooms on the
+right and below had no Bluetooth dongles). We refer to Room-1
+and Room-2 as rooms with full and partial coverage, respectively.
+
+j1 j2
+j
+, ,..., M )
+nT nT
+nT
+
+In each room we put a target device in 6 positions, for about one
+hour in each position. These positions were at least one meter
+apart and considered to be the most likely user locations (i.e., of
+room residences and visitors). The test rooms as well as all the
+surrounding rooms (12 and 14 rooms in total) were fingerprinted
+for the duration of the test. These fingerprints were obtained using
+dedicated reference devices that were (a) other than the target
+device and (b) of 4 different types: Bluelon BT-002 body tags,
+HTC-P3300 and 9000 and Nokia E61 and N70.
+
+p ( x)
+q( x)
+
+The KL divergence or relative entropy has the following
+interpretation: if a source produces symbols x according to
+distribution p(x), then a data compression scheme that uses p(x) to
+compress a sequence of such symbols will result in optimum
+entropy rate H ( p ) = − ∑ p ( x ) log p ( x ) bits per symbol on
+x
+
+We carried out location estimations every 5 seconds for the target
+device in Room-1 or Room-2, using KL and JS divergence
+measures. The estimation performance is evaluated based on
+estimation accuracy that is defined as the percentage of times in
+which a method gives the correct location estimate with respect to
+total number of estimations. The estimation accuracy can be
+determined for the most likely estimate and for 2 most likely
+estimates (i.e., that either of the rank 1 or rank 2 estimate is
+correct) and so on. We refer to these accuracy measures as top-1
+or top-2 accuracy, respectively.
+
+average. If the data compression scheme uses another distribution
+q(x) instead of p(x) to compress the same sequence, then the
+result will have D(p||q) bits more on average. Note that KL
+divergence is not a “distance” measure in that D(p||q) ∫ D(q||p).
+Our approach approximates the location of the target device with
+the location of the closest room. The output of such a localization
+process must have minimum deviation or distortion from the real
+room where the user is physically. The physical/real location is
+characterized by L, thus our location estimate is Room-k such that
+D(L||Tk) is minimized, or:
+
+In Figure 2 two graphs (1st and 3rd from top) show the top-1
+accuracy of the KL scheme for the test in Room-1, given two
+training window sizes of 5 and 30 minutes (i.e., WT=5’ and 30’)
+and as a function of localization window size WL. The training
+fingerprints for the graphs of Figure 2 were obtained in the
+beginning of the test day. For WL ¥ 2’, the accuracy of the KL
+method is almost 100%.
+
+arg min[ KLk ] = arg min[ D ( L || Tk )]
+k
+
+m =1
+
+m =1
+
+where M = 0.5( L + Tk ) . Note that, unlike KL divergence, JS
+divergence is a distance measure in that JSD(p||q) = JSD(q||p) [6].
+
+The location estimation component in Figure 1 determines the
+location of the target device by finding the room fingerprint that
+best resembles the observed location fingerprint. This can be
+considered as a classification problem. The difference measure
+used in our system is based on the concept of information gain,
+calculated using the Kullback-Leibler (KL) divergence. For two
+probability mass functions p(x) and q(x), KL divergence is
+defined as:
+
+x
+
+jm
+
+∑(n
+
+JSD( L || Tk ) =
+
+let {j1, j2, …, jM} be the number of times that in a localization
+window of WL seconds dongles {d1, d2, …, dM} have detected a
+target device. Then, assuming the same inquiry rate nT, the
+location fingerprint L is defines as:
+
+D ( p ( x) || q ( x)) = ∑ p ( x) log
+
+M
+
+Because in practice we determine location fingerprints using
+rather small training and localization window sizes (i.e., WT and
+WL), it is possible for some dongles to miss the replies of
+reference or target devices. This causes the KL measure to deviate
+enormously. Therefore we have adopted its modified version
+called Jensen Shannon (JS) divergence [6], defined as:
+
+Each element Tkm of Tk, m=1, …, M, can be considered as an
+empirical binary distribution with parameter ikm nT . Similarly,
+
+L = ( L1 , L2 ,..., LM ) = (
+
+M
+
+∑ D( L
+
+D( L || Tk ) =
+
+k
+
+To calculate KLk, we assume independence between the binary
+random variables corresponding to the outputs of dongles given
+the location of a target device. Then,
+
+The KL method, however, is sensitive to training data and partial
+dongle coverage, for example, its accuracy becomes about 7783% if we use a different training data set in each hour or it
+
+52
+
+WL=3’ and WT=10’. For both tests, the accuracy of top-2 estimate
+is 100%.
+
+becomes about 14-45% if we do estimation in Room-2 with
+partial coverage. Therefore we adopted the JS method whose
+performance is shown by two graphs (2nd and 4th from top) in
+Figure 2 for the same training set. As can be seen from Figure 2,
+the accuracy of JS is slightly lower than that of KL.
+
+In all graphs mentioned so far (i.e., all graphs in Figure 2, Figure
+3 and two bottom graphs of Figure 4), we have used two different
+devices as a reference device to collect training data and as a
+target data to collect localization data in each room. In our
+experiments, moreover, the target device was moved every hour
+with respect to the reference device. If, in addition to training
+data, we used the rest of the data collected from the reference
+device for localizing the same reference device –the approach
+commonly used in literature e.g. [8] – then we would have a top-1
+estimate accuracy of almost 100%. Such performance indications
+are shown by top 2 graphs in Figure 4 for the JS method. Using
+the same device for training and localization is often not realistic;
+therefore, we have chosen to present our results based on a
+realistic case where training and localization devices differ.
+Should in practice training and localization device be the same,
+our JS based scheme achieves 100% accuracy of top-1 estimate
+for both full and partial coverage even if WT=5’ and WL=1.5’.
+
+105
+
+accuracy (%)
+
+100
+95
+90
+85
+80
+
+KL 30' training
+
+KL 5' training
+
+JS 30' training
+
+JS 5' training
+
+75
+1
+
+2
+
+3
+
+4
+
+105
+
+localization window (minutes)
+
+100
+95
+
+Figure 2. Accuracy of JS and KL methods for training
+window sizes of WT = 30 and 5 minutes.
+accuracy (%)
+
+90
+
+Graphs of Figure 3 show the performance of the JS method when
+we used fresh training fingerprints obtained in the beginning of
+every hour. Note that the training data was excluded when doing
+location estimation. The result shows minor sensitivity of JS
+method to change of training data, especially for WT = 30’.
+
+85
+80
+75
+70
+65
+
+JS 3'
+JS 3'
+JS 3'
+JS 3'
+
+60
+55
+
+105
+
+50
+
+localization, full coverage, same device
+localization, full coverage
+localization, partial coverage, same device
+localization, partial coverage
+
+45
+5
+
+100
+
+10
+
+15
+
+20
+
+25
+
+30
+
+accuracy (%)
+
+training window (minutes)
+95
+
+Figure 4. Accuracy of JS method in two rooms with full and
+partial converge for WL = 3 minutes.
+
+90
+
+5. CONCLUSION AND FUTURE WORK
+
+85
+
+80
+
+JS 30' training
+
+JS 5' training
+
+JS 30' fresh training
+
+JS 5' fresh training
+
+In this paper we proposed a Bluetooth based localization solution
+that works well when there is a high spatial density of Bluetooth
+sensors. This means that it is suitable for multi-floor buildings
+with overlapping Bluetooth cells. The solution is a fingerprinting
+approach that exploits the inquiry response rate of Bluetooth
+technology. As such the solution does not require any upgrade of
+mobile devices and only requires these devices to be in
+discoverable mode. The solution was implemented and tested.
+The test results showed that the solution achieves top-1 estimation
+accuracy of 98% and 75% when there was full sensor coverage
+and partial sensor coverage, respectively. For this performance,
+the training and localization window sizes were 3 and 10 minutes,
+respectively (i.e., WL=3’ and WT=10’).
+
+75
+1
+
+2
+
+3
+
+4
+
+localization window (minutes)
+
+Figure 3. Accuracy of JS method with updated training data
+for WT = 30 and 5 minutes.
+For the JS method, the effect of partial Bluetooth dongle coverage
+is shown in Figure 4. This figure, unlike previous ones, depicts
+accuracy for a localization window size of 3 minutes (i.e., WL=3’)
+as a function of training window size WT. The bottom two graphs
+of Figure 4 show the results of the top-1 estimate for duration of
+260 minutes for the tests in Room-1 and Room-2 with full and
+partial coverage, respectively. For these graphs the training
+periods are chosen in the beginning of each test day, and the data
+obtained in the rest of each day is used for location estimation of
+the target device. As we observe, the accuracy of the JS method
+for top-1 estimate in Room-1 and Room-2 is 97.82% and 75% for
+
+Currently we are working on a number of issues and extensions.
+The impacts of interference and mobility on the RR are needed to
+be further studied and ways to deal with a time-variant RR are to
+be investigated. One approach hereto is to obtain and use fresh
+fingerprints. This solution direction, however, makes sense if one
+devises localization methods that work well with short
+fingerprints. The current approach of fingerprinting locations by
+
+53
+
+using dedicated reference devices, moreover, is infeasible when
+the number of locations is high. A better approach would be to
+automatically obtain these fingerprints. We are currently
+investigating whether the dongles used to record the fingerprints
+can be used as reference devices as well. This basically involves
+devising a control mechanism (i.e., control protocol and logic)
+that switches dongles between two modes: a mode where they are
+inquiring and one where they are discoverable.
+
+7. REFERENCES
+[1] Bellavista, P., Küpper, A., Helal, S. 2008. Location-Based
+Services: Back to the Future. Journal of IEEE Pervasive
+Computing. Vol. 7 issue 2, pp. 85-89, April-June 2008.
+[2] Madhavapeddy, A. and Tse, A. 2005. A Study of Bluetooth
+Propagation Using Accurate Indoor Location Mapping. In
+Proceedings of the Seventh International Conference on
+Ubiquitous Computing (UbiComp 2005). Beigl M. et al.
+(Eds.), LNCS 3660, 105 – 120 2005.
+
+Dongles compatible with Bluetooth v1.2 standard are able to
+provide also the RSS of inquiry responses. It is important to
+investigate how much our scheme is improved if also the RSS
+information of Bluetooth inquiries is used for location
+determination. Another interesting extension to examine further is
+to fuse the Bluetooth sensor information with other types of
+sensor data. Since our infrastructure (i.e., CMF) is providing
+contextual information from multiple sources, combining these
+sources could aid the location determination. Should this
+combination allow the system to accurately determine the location
+of a target device, then the observed fingerprint of the target
+device could be used as a room fingerprint and added for the
+already existing fingerprints for that room.
+
+[3] Kjærgaard, M.B. 2007. A Taxonomy for Radio Location
+Fingerprinting. In Proceedings of the Third International
+Symposium on Location and Context Awareness (LoCA
+2007). Springer LNCS, vol. 4718, pp. 139-156.
+[4] Ladd A.M., Bekris, K.E., Rudys, A., Kavraki, L.E., and
+Wallach, D.S. 2005. Robotics-Based Location Sensing Using
+Wireless Ethernet. Journal of Wireless Networks. January
+2005, volume 11, number 1-2, p.p., 189-204.
+[5] Cheng Y.-C., Chawathe, Y., LaMarca, A., Krumm, J. 2005.
+Accuracy characterization for metropolitan-scale Wi-Fi
+localization. In Proceedings of the 3rd international
+conference on Mobile Systems, applications, and services
+(MobiSys 2005.) Seattle, Washington, USA, 2005, pp. 233245.
+
+An interesting direction is to get some more insight into the
+impact of our approach on the mobile phones in terms of power
+consumption. The power consumption of a mobile device being
+inquired continuously will increase as the frequency of inquiries
+or the number of inquirers increases. On the other hand, a higher
+number of inquirers or a higher inquiry frequency will yield a
+more responsive system and possibly better (more accurate)
+fingerprints. An interesting research question is how the
+estimation accuracy relates to the power consumption of the
+mobile devices.
+
+[6] Mahtab Hossain, A.K.M, Hien Nguyen Van, Yunye Jin,
+Wee-Seng Soh. 2007. Indoor Localization Using Multiple
+Wireless Technologies. In Proceedings of the IEEE
+International Conference on Mobile Adhoc and Sensor
+Systems (MASS 2007). 8-11 Oct. 2007, pp. 1-8.
+[7] Fuglede, B. and Topsoe, F. 2004. Jensen-Shannon
+divergence and Hilbert space embedding. In proceedings of
+International Symposium on Information Theory (ISIT
+2004). 27 June-2 July 2004, pp. 31-.
+
+6. ACKNOWLEDGMENTS
+This work is part of the Freeband AWARENESS project
+(http://awareness.freeband.nl). Freeband is sponsored by the
+Dutch government under contract BSIK 03025. The authors
+would like to thank Niels Snoeck, Martin Wibbels, Markus
+Jevring and Maarten Wegdam for their assistance in preparation
+of the infrastructure and for their helpful comments.
+
+[8] Bray, J., Sturman C.F. 2001. Bluetooth: Connect Without
+Cables. Prentice Hall PTR, 2001.
+[9] Haeberlen, A., Flannery, E., Ladd, A.M., Rudys, A.,
+Wallach, D.S., Kavraki, L.E. 2004. Practical robust
+localization over large-scale 802.11 wireless networks. In
+Proceedings of the 10th ACM International Conference on
+Mobile Computing and Networking (MobiCom 2004).
+Philadelphia, PA, September 2004, ACM, pp. 70-84.
+
+54
+
+

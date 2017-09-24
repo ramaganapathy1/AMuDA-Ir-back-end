@@ -1,0 +1,1572 @@
+θt::0.0317199413743
+φt  θt::0.0278284052483
+deployment area::0.0216443151931
+φt::0.0216443151931
+θ̂t::0.0185522701655
+target’s position::0.0154602251379
+φ̂t  θ̂t::0.0139142026241
+single anchor node::0.0139142026241
+radiation patterns::0.0131704036571
+doa estimation::0.0123681801103
+ŷt::0.0123681801103
+antenna faces::0.0123681801103
+single anchor::0.0123681801103
+switched-beam antenna::0.0123681801103
+doa::0.0122959586448
+switched-beam::0.0108221575965
+antenna gains::0.010246632204
+target’s::0.010246632204
+faces::0.00977042669478
+simulated radiation patterns::0.00927613508275
+−→ φt::0.00927613508275
+error equal::0.00927613508275
+x̂t  ŷt::0.00927613508275
+φ̂t::0.00927613508275
+θt and elevation::0.00927613508275
+rooms or indoor::0.00927613508275
+indoor open spaces::0.00927613508275
+discussed in sec::0.00927613508275
+estimate the doa::0.00927613508275
+satisfactory localization results::0.00927613508275
+x̂t::0.00927613508275
+angles φt::0.00927613508275
+avg err::0.00927613508275
+switched-beam directional antenna::0.00927613508275
+single-anchor indoor localization::0.00927613508275
+grid see fig::0.00927613508275
+∈ simax::0.00927613508275
+row of fig::0.00927613508275
+localization error equal::0.00927613508275
+localization error::0.0077306292202
+single-anchor::0.00773011256896
+z̄6::0.00773011256896
+ieee communications letters::0.00771205720259
+anchor node::0.00771205720259
+los communication::0.00771205720259
+average localization error::0.00771205720259
+communications letters vol::0.00771205720259
+face::0.00752594494694
+senior member ieee::0.00679713029448
+measured rss values::0.00679713029448
+rss values::0.00633090784387
+microstrip antenna::0.00618409005517
+range-free proximity::0.00618409005517
+azimuth θt::0.00618409005517
+single-anchor indoor::0.00618409005517
+previous case::0.00618409005517
+hfss software1::0.00618409005517
+localization proximity::0.00618409005517
+antenna position::0.00618409005517
+angle θt::0.00618409005517
+m−1 φ̂t::0.00618409005517
+max z¯i::0.00618409005517
+single-anchor localization::0.00618409005517
+switched-beam directional::0.00618409005517
+doa φt::0.00618409005517
+rss traces::0.00618409005517
+values z̄1::0.00618409005517
+indoor open::0.00618409005517
+satisfactory localization::0.00618409005517
+simulated radiation::0.00618409005517
+doa φ̂t::0.00618409005517
+target’s messages::0.00618409005517
+low-cost system::0.00618409005517
+rss::0.00609355742643
+gains::0.00569941557195
+grid points::0.00564445871021
+direction of arrival::0.00564445871021
+measured rss::0.00523305241432
+normalized rss::0.00514137146839
+antenna mounted::0.00514137146839
+communications letters::0.00514137146839
+large rooms::0.00514137146839
+antenna::0.00507853370511
+1089-7798  giorgetti::0.00463806754138
+ieee 802.15.x devices::0.00463806754138
+relates the rss::0.00463806754138
+node face1 directivity::0.00463806754138
+solutions exploiting beacons::0.00463806754138
+set of anchor::0.00463806754138
+effects in reflective::0.00463806754138
+partition the deployment::0.00463806754138
+al. “indoor location::0.00463806754138
+case this method::0.00463806754138
+top antenna gains::0.00463806754138
+sandeep.gupta}@asu.edu a cidronali::0.00463806754138
+proximity and range-based::0.00463806754138
+lab impact.asu.edu arizona::0.00463806754138
+principle of operations::0.00463806754138
+substrate and fed::0.00463806754138
+transceiver the inactive::0.00463806754138
+target positioning indoor::0.00463806754138
+rappaport wireless communications::0.00463806754138
+spherical coordinate system::0.00463806754138
+active face iii::0.00463806754138
+z¯i::0.00463806754138
+solution bears resemblance::0.00463806754138
+propose an rf-based::0.00463806754138
+positions the results::0.00463806754138
+applications the fingerprinting::0.00463806754138
+estimated target positions::0.00463806754138
+azimuth angle θt::0.00463806754138
+set of nonoverlapping::0.00463806754138
+aoa-based localization requires::0.00463806754138
+“vor base stations::0.00463806754138
+state university tempe::0.00463806754138
+assembled to form::0.00463806754138
+single-anchor 2d localization::0.00463806754138
+access point,” wireless::0.00463806754138
+localization is feasible::0.00463806754138
+form a semi::0.00463806754138
+distance second aoa-based::0.00463806754138
+actual rss values::0.00463806754138
+gains pi −::0.00463806754138
+area is partitioned::0.00463806754138
+antenna avg err::0.00463806754138
+accuracy and costs::0.00463806754138
+estimated by first::0.00463806754138
+deployments and ad-hoc::0.00463806754138
+antenna gianni giorgetti::0.00463806754138
+differences in received::0.00463806754138
+figure 1b shows::0.00463806754138
+designing and building::0.00463806754138
+area see top::0.00463806754138
+implement localization systems::0.00463806754138
+describe a range-free::0.00463806754138
+antenna switched-beam localization::0.00463806754138
+include low-cost deployments::0.00463806754138
+bottom row grid::0.00463806754138
+gupta senior member::0.00463806754138
+proximity doa fingerprinting::0.00463806754138
+strength rss ranging::0.00463806754138
+ŷt  ∈::0.00463806754138
+beam antenna target’s::0.00463806754138
+behave as dummy::0.00463806754138
+signal classification music::0.00463806754138
+spaces where installing::0.00463806754138
+imax = arg::0.00463806754138
+knn regression algorithm::0.00463806754138
+solutions we describe::0.00463806754138
+θt  single-anchor::0.00463806754138
+ensured outdoor localization::0.00463806754138
+combined with distance::0.00463806754138
+deployment area bottom::0.00463806754138
+matched loads behave::0.00463806754138
+wi-fi access point,”::0.00463806754138
+optimized for size::0.00463806754138
+multiplex each radiating::0.00463806754138
+estimates the target’s::0.00463806754138
+sufficient for absolute::0.00463806754138
+offers a low-computation::0.00463806754138
+results with range-free::0.00463806754138
+iii l ocalization::0.00463806754138
+e-mail alessandro.cidronali gianfranco.manes}@unifi.it::0.00463806754138
+apply the inverse::0.00463806754138
+tracing approach adopted::0.00463806754138
+classroom containing rows::0.00463806754138
+positioning indoor measurements::0.00463806754138
+requires a site::0.00463806754138
+ieee and gianfranco::0.00463806754138
+node the anchor::0.00463806754138
+grid the grid::0.00463806754138
+localization doa estimation::0.00463806754138
+database of previously::0.00463806754138
+gianfranco manes senior::0.00463806754138
+antenna target’s position::0.00463806754138
+messages our solution::0.00463806754138
+ieee signal proc::0.00463806754138
+points was caused::0.00463806754138
+research the parametric::0.00463806754138
+bluetooth and zigbee::0.00463806754138
+control and computing::0.00463806754138
+single wi-fi access::0.00463806754138
+evaluate the result::0.00463806754138
+range-free localization proximity::0.00463806754138
+anchor can alleviate::0.00463806754138
+doa base station::0.00463806754138
+values the rss::0.00463806754138
+nath “vor base::0.00463806754138
+system that requires::0.00463806754138
+represented in spherical::0.00463806754138
+results were achieved::0.00463806754138
+exploited to estimate::0.00463806754138
+perturbing the radiation::0.00463806754138
+nsf for support::0.00463806754138
+proximity a rangebased::0.00463806754138
+85287 usa e-mail::0.00463806754138
+collected rss traces::0.00463806754138
+assuming target’s movements::0.00463806754138
+loads without significantly::0.00463806754138
+error is equal::0.00463806754138
+obtained without assumptions::0.00463806754138
+cidronali member ieee::0.00463806754138
+range-free proximity range-based::0.00463806754138
+signal proc mag.::0.00463806754138
+room and collects::0.00463806754138
+patterns when faces::0.00463806754138
+estimation is limited::0.00463806754138
+costs we propose::0.00463806754138
+arrival aoa estimation::0.00463806754138
+− gj φt::0.00463806754138
+implemented in microstrip::0.00463806754138
+improved by computing::0.00463806754138
+elevation angles φt::0.00463806754138
+usa e-mail gianni.giorgetti::0.00463806754138
+dodecahedron see fig::0.00463806754138
+assigned an error::0.00463806754138
+requirements in terms::0.00463806754138
+regions are computed::0.00463806754138
+collect rss signatures::0.00463806754138
+scheme that estimates::0.00463806754138
+radiation patterns simulated::0.00463806754138
+multiple signal classification::0.00463806754138
+ieee trans veh::0.00463806754138
+neighbor knn regression::0.00463806754138
+kajiwara “line-of-sight indoor::0.00463806754138
+terminated on matched::0.00463806754138
+implemented a proof-of-concept::0.00463806754138
+tracking using rssi::0.00463806754138
+publication was h.-h::0.00463806754138
+gains of faces::0.00463806754138
+adjust the size::0.00463806754138
+tempe az 85287::0.00463806754138
+alleviate the deployment::0.00463806754138
+circular polarization design::0.00463806754138
+set to transmit::0.00463806754138
+face the music::0.00463806754138
+e.g emergency response::0.00463806754138
+pentagonal plastic substrate::0.00463806754138
+gianfranco.manes}@unifi.it digital object::0.00463806754138
+university of florence::0.00463806754138
+scenarios include low-cost::0.00463806754138
+directivity is typical::0.00463806754138
+power on face::0.00463806754138
+reasons first aoa::0.00463806754138
+fingerprinting approach discussed::0.00463806754138
+equation the received::0.00463806754138
+schemes are suited::0.00463806754138
+“indoor location tracking::0.00463806754138
+θt  x̂t::0.00463806754138
+gains gi m(x::0.00463806754138
+applications e.g emergency::0.00463806754138
+show that satisfactory::0.00463806754138
+round of measurements::0.00463806754138
+illuminated by face::0.00463806754138
+covers an area::0.00463806754138
+member ieee sandeep::0.00463806754138
+larger ground planes::0.00463806754138
+incoming pack top::0.00463806754138
+function that describes::0.00463806754138
+ideal environment face::0.00463806754138
+assign the target’s::0.00463806754138
+building the antenna::0.00463806754138
+ray tracing approach::0.00463806754138
+cc2420 transceivers set::0.00463806754138
+floor we collected::0.00463806754138
+improves over received::0.00463806754138
+target by estimating::0.00463806754138
+φt are estimated::0.00463806754138
+pair of angles::0.00463806754138
+k-nearest neighbor knn::0.00463806754138
+approach are minimal::0.00463806754138
+approach is attractive::0.00463806754138
+alessandro.cidronali gianfranco.manes}@unifi.it digital::0.00463806754138
+arg max z¯i::0.00463806754138
+range-based localization doa::0.00463806754138
+doa by selecting::0.00463806754138
+applications we adopted::0.00463806754138
+range-based approaches discussed::0.00463806754138
+distance and antenna::0.00463806754138
+active the proposed::0.00463806754138
+beacons with directional::0.00463806754138
+goal to implement::0.00463806754138
+department of electronics::0.00463806754138
+range-based and fingerprinting::0.00463806754138
+prentice hall inc.::0.00463806754138
+approach extends previous::0.00463806754138
+anchor is equipped::0.00463806754138
+represents a viable::0.00463806754138
+faces the system::0.00463806754138
+gianni giorgetti alessandro::0.00463806754138
+supported by placing::0.00463806754138
+elevation φt aoa::0.00463806754138
+e-mail gianni.giorgetti sandeep.gupta}@asu.edu::0.00463806754138
+suited for large::0.00463806754138
+observations at runtime::0.00463806754138
+errors in cluttered::0.00463806754138
+model the constraints::0.00463806754138
+figure 4b shows::0.00463806754138
+coordinate system centered::0.00463806754138
+proposing an indoor::0.00463806754138
+sight los communication::0.00463806754138
+obtained from rss::0.00463806754138
+pack top row::0.00463806754138
+circular polarized waves,”::0.00463806754138
+approach we evaluate::0.00463806754138
+approach one step::0.00463806754138
+steerable beam capable::0.00463806754138
+θt  grid::0.00463806754138
+trans veh technol.::0.00463806754138
+alessandro cidronali member::0.00463806754138
+estimate the target’s::0.00463806754138
+extends previous solutions::0.00463806754138
+rss values z̄1::0.00463806754138
+patterns in fig::0.00463806754138
+giorgetti et al.::0.00463806754138
+parametric approach,” ieee::0.00463806754138
+rows of desks::0.00463806754138
+terms—directional antenna switched-beam::0.00463806754138
+planes and radiation::0.00463806754138
+illuminating the space::0.00463806754138
+data see bottom::0.00463806754138
+small antenna dimensions::0.00463806754138
+proc mag. vol::0.00463806754138
+proximity the first::0.00463806754138
+strongest average signal::0.00463806754138
+giorgetti::0.00463806754138
+adopted log-normal shadowing::0.00463806754138
+polarized waves,” ieee::0.00463806754138
+fingerprinting doa estimation::0.00463806754138
+computing the euclidean::0.00463806754138
+zero-configuration the reported::0.00463806754138
+strength information sufficient::0.00463806754138
+attractive to applications::0.00463806754138
+real deployment show::0.00463806754138
+popular multiple signal::0.00463806754138
+array signal processing::0.00463806754138
+initial antenna prototype::0.00463806754138
+measurements each location::0.00463806754138
+localization this solution::0.00463806754138
+implementation we created::0.00463806754138
+localization manuscript received::0.00463806754138
+letter and approving::0.00463806754138
+simax::0.00463806754138
+3); we evaluated::0.00463806754138
+directional antennas located::0.00463806754138
+peaks for angles::0.00463806754138
+italy e-mail alessandro.cidronali::0.00463806754138
+probe the operating::0.00463806754138
+maximum spectrum value;::0.00463806754138
+“line-of-sight indoor radio::0.00463806754138
+element under control::0.00463806754138
+doa estimation localization::0.00463806754138
+show that single-anchor::0.00463806754138
+realistic propagation model::0.00463806754138
+faces with larger::0.00463806754138
+arizona state university::0.00463806754138
+figure 4a shows::0.00463806754138
+yielded an average::0.00463806754138
+prototype; f zucchelli::0.00463806754138
+feasible possible application::0.00463806754138
+position by comparing::0.00463806754138
+classification music approach::0.00463806754138
+applications in large::0.00463806754138
+spaces where line::0.00463806754138
+widely adopted log-normal::0.00463806754138
+classification b doa::0.00463806754138
+antenna prototype optimized::0.00463806754138
+target localization manuscript::0.00463806754138
+comments; and nsf::0.00463806754138
+solution targets applications::0.00463806754138
+expect larger errors::0.00463806754138
+nodes are needed::0.00463806754138
+based on angle::0.00463806754138
+approach the proposed::0.00463806754138
+target position localization::0.00463806754138
+giorgetti alessandro cidronali::0.00463806754138
+al. single-anchor indoor::0.00463806754138
+face i note::0.00463806754138
+onclusions the proximity::0.00463806754138
+values to estimate::0.00463806754138
+runtime we assign::0.00463806754138
+point we assigned::0.00463806754138
+row and normalized::0.00463806754138
+computed c range-based::0.00463806754138
+room two meters::0.00463806754138
+strongest signal compared::0.00463806754138
+ntroduction mart antennas::0.00463806754138
+angles that yield::0.00463806754138
+show satisfactory localization::0.00463806754138
+six-through rf switch::0.00463806754138
+anchor node face1::0.00463806754138
+measuring the strongest::0.00463806754138
+received power depends::0.00463806754138
+iii-c are based::0.00463806754138
+microstrip antenna technology::0.00463806754138
+fig 3 direction::0.00463806754138
+antenna to implement::0.00463806754138
+resolve the target::0.00463806754138
+fixed antenna position::0.00463806754138
+previously measured values::0.00463806754138
+compact low-cost system::0.00463806754138
+signal processing research::0.00463806754138
+radiating elements assembled::0.00463806754138
+antenna by comparing::0.00463806754138
+target’s position projection::0.00463806754138
+ansoft hfss software1::0.00463806754138
+method is computationally::0.00463806754138
+measured rss data::0.00463806754138
+adopted a circular::0.00463806754138
+achieved by setting::0.00463806754138
+chamber we expect::0.00463806754138
+area simax computed::0.00463806754138
+comparing the gains::0.00463806754138
+active patch figure::0.00463806754138
+case each area::0.00463806754138
+viberg “two decades::0.00463806754138
+sets of requirements::0.00463806754138
+messages these schemes::0.00463806754138
+deployment area partitioned::0.00463806754138
+decades of array::0.00463806754138
+impact.asu.edu arizona state::0.00463806754138
+infrastructure of anchors::0.00463806754138
+switched-beam localization proximity::0.00463806754138
+z̄1::0.00463806754138
+computing the regions::0.00463806754138
+ets our implementation::0.00463806754138
+conf on communication::0.00463806754138
+varying the antenna’s::0.00463806754138
+position localization error::0.00463806754138
+gains gi φt::0.00463806754138
+switched-beam antenna fig::0.00463806754138
+tolerate approximate positions::0.00463806754138
+associate editor coordinating::0.00463806754138
+installing a network::0.00463806754138
+measurements; the anonymous::0.00463806754138
+communication using circular::0.00463806754138
+dbm a principle::0.00463806754138
+coordinating the review::0.00463806754138
+application scenarios include::0.00463806754138
+created the database::0.00463806754138
+normalized rss measurements::0.00463806754138
+manes senior member::0.00463806754138
+information d fingerprinting::0.00463806754138
+data to evaluate::0.00463806754138
+err = x̂t::0.00463806754138
+point,” wireless networks::0.00463806754138
+selecting the angles::0.00463806754138
+downside it requires::0.00463806754138
+position and assuming::0.00463806754138
+receive the strongest::0.00463806754138
+directivity db abstract—we::0.00463806754138
+area bottom measured::0.00463806754138
+element is implemented::0.00463806754138
+chairs the antenna::0.00463806754138
+grid bottom row::0.00463806754138
+index terms—directional antenna::0.00463806754138
+results are comparable::0.00463806754138
+height when los::0.00463806754138
+θt  −::0.00463806754138
+node the node::0.00463806754138
+ntenna the antenna::0.00463806754138
+survey to collect::0.00463806754138
+support r eferences::0.00463806754138
+florence italy e-mail::0.00463806754138
+rss ranging schemes::0.00463806754138
+desirable or feasible::0.00463806754138
+indoor radio communication::0.00463806754138
+radiation patterns measured::0.00463806754138
+antenna b simulated::0.00463806754138
+waves,” ieee trans::0.00463806754138
+music algorithm produces::0.00463806754138
+describes the mapping::0.00463806754138
+bottom measured rss::0.00463806754138
+compatible with ieee::0.00463806754138
+approach,” ieee signal::0.00463806754138
+evaluated using rss::0.00463806754138
+z̄6  collected::0.00463806754138
+first aoa estimates::0.00463806754138
+m(x y ∀i::0.00463806754138
+implement our solution::0.00463806754138
+mitigating multipath effects::0.00463806754138
+main lobe pointing::0.00463806754138
+zàruba et al.::0.00463806754138
+veh technol. vol::0.00463806754138
+response to accommodate::0.00463806754138
+error m avg::0.00463806754138
+comparing the rss::0.00463806754138
+impact lab impact.asu.edu::0.00463806754138
+evaluated the localization::0.00463806754138
+applying a k-nearest::0.00463806754138
+set of similar::0.00463806754138
+chen g giorgetti::0.00463806754138
+iii-b and iii-c::0.00463806754138
+capable of selectively::0.00463806754138
+fine-grained localization figure::0.00463806754138
+assignment 4 figure::0.00463806754138
+grid to facilitate::0.00463806754138
+values are centered::0.00463806754138
+θt  obtained::0.00463806754138
+implement a compact::0.00463806754138
+produces a “spectrum”::0.00463806754138
+sec iii-d represents::0.00463806754138
+distance estimates obtained::0.00463806754138
+location was estimated::0.00463806754138
+values this approach::0.00463806754138
+estimation localization error::0.00463806754138
+localization proximity doa::0.00463806754138
+arrival doa base::0.00463806754138
+applies spectral decomposition::0.00463806754138
+simple proximity-based scheme::0.00463806754138
+propose three localization::0.00463806754138
+ad-hoc applications e.g::0.00463806754138
+switched-beam antenna gianni::0.00463806754138
+absolute 2d target::0.00463806754138
+gains 4 i∈[1,6::0.00463806754138
+node which serves::0.00463806754138
+adjacent radiating elements::0.00463806754138
+found an average::0.00463806754138
+solution the results::0.00463806754138
+mobicom’04 pp 58–69::0.00463806754138
+rf-based localization system::0.00463806754138
+previous solutions exploiting::0.00463806754138
+localization results::0.00458390144226
+top row::0.00453142019632
+open spaces::0.00453142019632
+letters vol::0.00453142019632
+member ieee::0.00431812550621
+average rss::0.00409865288161
+arrival doa::0.00409865288161
+average localization::0.00409865288161
+bottom row::0.00409865288161
+anchor::0.0038653146101
+rss measurements::0.0038653146101
+err::0.00385602860129
+shows the localization::0.00385602860129
+yield the maximum::0.00385602860129
+type of antenna::0.00385602860129
+trans systems man::0.00385602860129
+collects signal strength::0.00385602860129
+resolution is limited::0.00385602860129
+spectrum is shown::0.00385602860129
+system that works::0.00385602860129
+average rss values::0.00385602860129
+desks and chairs::0.00385602860129
+localization systems based::0.00385602860129
+m(x::0.00385602860129
+practice prentice hall::0.00385602860129
+computationally more expensive::0.00385602860129
+shows the deployment::0.00385602860129
+log-normal shadowing model::0.00385602860129
+ieee trans systems::0.00385602860129
+case we found::0.00385602860129
+fingerprinting localization approach::0.00385602860129
+network of anchors::0.00385602860129
+stations for indoor::0.00385602860129
+radiation::0.00384403315567
+received power::0.00376297247347
+directional antenna::0.00376297247347
+localization::0.00368216057068
+distance estimates::0.00348870160955
+range-free::0.00348870160955
+results were obtained::0.00339856514724
+set of rss::0.00339856514724
+range-based::0.00339856514724
+azimuth::0.00339856514724
+model that relates::0.00339856514724
+wireless networks vol::0.00339856514724
+large indoor space::0.00339856514724
+fig::0.0032347229176
+h.-h chen::0.00309204502758
+true doa::0.00309204502758
+polarized waves,”::0.00309204502758
+knn regression::0.00309204502758
+editor coordinating::0.00309204502758
+incoming messages::0.00309204502758
+power readings::0.00309204502758
+localization doa::0.00309204502758
+regression algorithm::0.00309204502758
+ieee 802.15.x::0.00309204502758
+solution targets::0.00309204502758
+−→::0.00309204502758
+signal proc::0.00309204502758
+ray tracing::0.00309204502758
+target’s distance::0.00309204502758
+extends previous::0.00309204502758
+circular polarized::0.00309204502758
+multiple signal::0.00309204502758
+power depends::0.00309204502758
+hall inc.::0.00309204502758
+“vor base::0.00309204502758
+ad-hoc applications::0.00309204502758
+computing 1861–1870::0.00309204502758
+“two decades::0.00309204502758
+grid bottom::0.00309204502758
+position unobtrusive::0.00309204502758
+spectral decomposition::0.00309204502758
+sufficient height::0.00309204502758
+target positioning::0.00309204502758
+bottom measured::0.00309204502758
+solution tested::0.00309204502758
+area measuring::0.00309204502758
+antenna switched-beam::0.00309204502758
+beam capable::0.00309204502758
+tracing approach::0.00309204502758
+al. single-anchor::0.00309204502758
+low-cost deployments::0.00309204502758
+φt aoa::0.00309204502758
+ideal environment::0.00309204502758
+sec iii-d::0.00309204502758
+sec iii-b::0.00309204502758
+ensured outdoor::0.00309204502758
+gianni.giorgetti sandeep.gupta}@asu.edu::0.00309204502758
+range-free scheme::0.00309204502758
+applies spectral::0.00309204502758
+computed off-line::0.00309204502758
+florence italy::0.00309204502758
+face measuring::0.00309204502758
+manes::0.00309204502758
+position projection::0.00309204502758
+communication control::0.00309204502758
+e-mail alessandro.cidronali::0.00309204502758
+rss ranging::0.00309204502758
+information sufficient::0.00309204502758
+patch figure::0.00309204502758
+semi dodecahedron::0.00309204502758
+elements assembled::0.00309204502758
+nath “vor::0.00309204502758
+approach discussed::0.00309204502758
+signal compared::0.00309204502758
+include low-cost::0.00309204502758
+cidronali member::0.00309204502758
+estimation localization::0.00309204502758
+wlan bluetooth::0.00309204502758
+reflective environments::0.00309204502758
+direction perpendicular::0.00309204502758
+deployment show::0.00309204502758
+gianni giorgetti::0.00309204502758
+antenna technology::0.00309204502758
+low-computation solution::0.00309204502758
+previous solutions::0.00309204502758
+statistical sense::0.00309204502758
+point,” wireless::0.00309204502758
+iii-d represents::0.00309204502758
+main lobe::0.00309204502758
+proof-of-concept application::0.00309204502758
+antenna target’s::0.00309204502758
+real deployment::0.00309204502758
+measurement grid::0.00309204502758
+targets applications::0.00309204502758
+antenna dimensions::0.00309204502758
+solutions exploiting::0.00309204502758
+fingerprinting doa::0.00309204502758
+technol. vol::0.00309204502758
+collecting information::0.00309204502758
+lobe pointing::0.00309204502758
+strongest average::0.00309204502758
+plastic substrate::0.00309204502758
+cidronali::0.00309204502758
+friis’ equation::0.00309204502758
+approximate positions::0.00309204502758
+adjacent radiating::0.00309204502758
+mitigating multipath::0.00309204502758
+giorgetti alessandro::0.00309204502758
+range-based localization::0.00309204502758
+adopted log-normal::0.00309204502758
+solution bears::0.00309204502758
+aoa-based localization::0.00309204502758
+antenna avg::0.00309204502758
+pentagonal plastic::0.00309204502758
+loads behave::0.00309204502758
+initial antenna::0.00309204502758
+area simax::0.00309204502758
+proximity-based classification::0.00309204502758
+proc mag.::0.00309204502758
+one-to-one correspondence::0.00309204502758
+trans veh::0.00309204502758
+single-pole six-through::0.00309204502758
+fingerprinting ets::0.00309204502758
+expect larger::0.00309204502758
+approach,” ieee::0.00309204502758
+bears resemblance::0.00309204502758
+bijective function::0.00309204502758
+antenna’s faces::0.00309204502758
+active patch::0.00309204502758
+veh technol.::0.00309204502758
+i∈[1,6 note::0.00309204502758
+inactive faces::0.00309204502758
+cc2420 transceivers::0.00309204502758
+parametric approach,”::0.00309204502758
+directional approach::0.00309204502758
+neighbor knn::0.00309204502758
+alessandro.cidronali gianfranco.manes}@unifi.it::0.00309204502758
+ansoft hfss::0.00309204502758
+proximity-based scheme::0.00309204502758
+access point,”::0.00309204502758
+show satisfactory::0.00309204502758
+faces based::0.00309204502758
+spectrum value;::0.00309204502758
+signal classification::0.00309204502758
+steerable beam::0.00309204502758
+spherical coordinate::0.00309204502758
+node face1::0.00309204502758
+transceivers set::0.00309204502758
+music approach::0.00309204502758
+cluttered environments::0.00309204502758
+approaches discussed::0.00309204502758
+tolerate approximate::0.00309204502758
+antennas located::0.00309204502758
+italy e-mail::0.00309204502758
+switch connects::0.00309204502758
+stored measurements::0.00309204502758
+zigbee transceivers::0.00309204502758
+active face::0.00309204502758
+patterns measured::0.00309204502758
+row grid::0.00309204502758
+simple proximity-based::0.00309204502758
+gain values::0.00309204502758
+requires zero-configuration::0.00309204502758
+face1 directivity::0.00309204502758
+scenarios include::0.00309204502758
+university tempe::0.00309204502758
+mart antennas::0.00309204502758
+gupta senior::0.00309204502758
+maximum spectrum::0.00309204502758
+beam antenna::0.00309204502758
+statical expectation::0.00309204502758
+approach offers::0.00309204502758
+polarization design::0.00309204502758
+impact lab::0.00309204502758
+helpful comments;::0.00309204502758
+assuming target’s::0.00309204502758
+realistic propagation::0.00309204502758
+prototype optimized::0.00309204502758
+bandwidth compatible::0.00309204502758
+software1::0.00309204502758
+antenna gianni::0.00309204502758
+impact.asu.edu arizona::0.00309204502758
+e.g emergency::0.00309204502758
+indoor measurements::0.00309204502758
+lab impact.asu.edu::0.00309204502758
+system centered::0.00309204502758
+music spectrum::0.00309204502758
+azimuth angle::0.00309204502758
+radiating element::0.00309204502758
+doa fingerprinting::0.00309204502758
+dummy loads::0.00309204502758
+target’s movements::0.00309204502758
+rappaport wireless::0.00309204502758
+alessandro cidronali::0.00309204502758
+ground planes::0.00309204502758
+patterns simulated::0.00309204502758
+face iii::0.00309204502758
+exploiting beacons::0.00309204502758
+proximity doa::0.00309204502758
+waves,” ieee::0.00309204502758
+manes senior::0.00309204502758
+radiating elements::0.00309204502758
+previous observations::0.00309204502758
+abstract—we propose::0.00309204502758
+index terms—directional::0.00309204502758
+antenna prototype;::0.00309204502758
+elevation φt::0.00309204502758
+classification results::0.00309204502758
+proximity classication::0.00309204502758
+proc mobicom’04::0.00309204502758
+space underneath::0.00309204502758
+selectively illuminating::0.00309204502758
+ieee sandeep::0.00309204502758
+proximity range-based::0.00309204502758
+compact low-cost::0.00309204502758
+gianfranco.manes}@unifi.it digital::0.00309204502758
+matched loads::0.00309204502758
+terms—directional antenna::0.00309204502758
+single wi-fi::0.00309204502758
+target’s plane::0.00309204502758
+bottom-up view::0.00309204502758
+fig 3);::0.00309204502758
+switched-beam localization::0.00309204502758
+simax computed::0.00309204502758
+position localization::0.00309204502758
+classification music::0.00309204502758
+significantly perturbing::0.00309204502758
+grid covers::0.00309204502758
+area partitioned::0.00309204502758
+first aoa::0.00309204502758
+ieee 1089-7798::0.00309204502758
+localization manuscript::0.00309204502758
+popular multiple::0.00309204502758
+exhibits peaks::0.00309204502758
+“line-of-sight indoor::0.00309204502758
+e-mail gianni.giorgetti::0.00309204502758
+solution implemented::0.00309204502758
+802.15.x devices::0.00309204502758
+exchanging bursts::0.00309204502758
+arg max(φ,θ::0.00309204502758
+incoherent array::0.00309204502758
+large classroom::0.00309204502758
+facilitate comparison::0.00309204502758
+viberg “two::0.00309204502758
+coarse-grained localization::0.00309204502758
+85287 usa::0.00309204502758
+area bottom::0.00309204502758
+doa base::0.00309204502758
+sophisticated models::0.00309204502758
+music algorithm::0.00309204502758
+incoming pack::0.00309204502758
+nonoverlapping regions::0.00309204502758
+first computing::0.00309204502758
+fixed antenna::0.00309204502758
+gianfranco manes::0.00309204502758
+similar measurements::0.00309204502758
+approach adopted::0.00309204502758
+antenna prototype::0.00309204502758
+coaxial probe::0.00309204502758
+processing research::0.00309204502758
+antenna’s height::0.00309204502758
+pack top::0.00309204502758
+circular polarization::0.00309204502758
+ntroduction mart::0.00309204502758
+approach extends::0.00309204502758
+implement localization::0.00309204502758
+algorithm produces::0.00309204502758
+kajiwara “line-of-sight::0.00309204502758
+arizona state::0.00309204502758
+larger ground::0.00309204502758
+wireless communications principles::0.00307398966121
+antennas,” in proc::0.00307398966121
+music::0.00307398966121
+positioning,” in proc::0.00307398966121
+localization via received::0.00307398966121
+measurements with directional::0.00307398966121
+manuscript received september::0.00307398966121
+system can locate::0.00307398966121
+“sensor network localization::0.00307398966121
+electronics and telecommunications::0.00307398966121
+proc allerton conf::0.00307398966121
+potter “sensor network::0.00307398966121
+patterns::0.00307071989283
+senior member::0.00305593429484
+row::0.00305593429484
+propagation model::0.00288302486676
+locate a target::0.0028222293551
+fingerprinting::0.00275868107692
+messages::0.00272025388669
+grid::0.00263789397318
+avg::0.00261652620716
+range-based approaches::0.0025706857342
+estimates obtained::0.0025706857342
+array signal::0.0025706857342
+target positions::0.0025706857342
+applications e.g::0.0025706857342
+loads::0.0025706857342
+aoa estimates::0.0025706857342
+environment face::0.0025706857342
+reported results::0.0025706857342
+viable solution::0.0025706857342
+collect rss::0.0025706857342
+fingerprinting solutions::0.0025706857342
+practice prentice::0.0025706857342
+elevation angles::0.0025706857342
+previously measured::0.0025706857342
+proposed schemes::0.0025706857342
+small antenna::0.0025706857342
+target position::0.0025706857342
+target localization::0.0025706857342
+shadowing model::0.0025706857342
+rss signatures::0.0025706857342
+radiating::0.0025706857342
+expected values::0.0025706857342
+proximity-based::0.0025706857342
+ranging schemes::0.0025706857342
+trans systems::0.0025706857342
+approach improves::0.0025706857342
+target::0.00251681169902
+techniques and systems,”::0.00244260667369
+systems,” ieee trans::0.00244260667369
+principles and practice::0.00244260667369
+directional::0.00229503968837
+terms of accuracy::0.00229195072113
+estimate the position::0.00229195072113
+anchors::0.00229195072113
+estimated target::0.00226571009816
+proposed solution::0.00226571009816
+reasons first::0.00226571009816
+localization requires::0.00226571009816
+elevation::0.00226571009816
+log-normal shadowing::0.00226571009816
+“indoor location::0.00226571009816
+deployment costs::0.00226571009816
+arg max::0.00226571009816
+fingerprinting schemes::0.00226571009816
+antenna fig::0.00226571009816
+top antenna::0.00226571009816
+al. “survey::0.00226571009816
+positioning indoor::0.00226571009816
+rf-based localization::0.00226571009816
+localization solutions::0.00226571009816
+microstrip::0.00226571009816
+collects signal::0.00226571009816
+sight los::0.00226571009816
+letters::0.00226571009816
+al. “indoor::0.00226571009816
+man and cybernetics::0.00215906275311
+liu et al.::0.00215906275311
+signal strength information::0.00215906275311
+“survey of wireless::0.00215906275311
+base station::0.00211030261462
+radio communication::0.00204932644081
+actual rss::0.00204932644081
+communications principles::0.00204932644081
+collected rss::0.00204932644081
+k-nearest neighbor::0.00204932644081
+prentice hall::0.00204932644081
+allerton conf::0.00204932644081
+widely adopted::0.00204932644081
+anechoic chamber::0.00204932644081
+larger errors::0.00204932644081
+“sensor network::0.00204932644081
+gupta::0.00204932644081
+potter “sensor::0.00204932644081
+anchor nodes::0.00204932644081
+covariance matrix::0.00204932644081
+target device::0.00204932644081
+proc allerton::0.00204932644081
+cybernetics vol::0.00204932644081
+received september::0.00204932644081
+directional antennas,”::0.00204932644081
+localization figure::0.00204932644081
+evaluate the performance::0.00204019041502
+digital object identifier::0.00204019041502
+ieee trans::0.00201321570806
+normalized::0.00193265730505
+equal::0.00192201657784
+range-free localization::0.00188148623674
+large indoor::0.00188148623674
+experiments show::0.00188148623674
+arg::0.00188148623674
+average signal::0.00188148623674
+fingerprinting localization::0.00188148623674
+partitioned::0.00188148623674
+reference nodes::0.00188148623674
+arrival aoa::0.00188148623674
+traces::0.00188148623674
+networks vol::0.00188148623674
+computational requirements::0.00188148623674
+bottom::0.00183448726708
+signal strength measurements::0.00183448726708
+indoor localization::0.00175705758706
+ieee communications::0.00175469708162
+∈::0.00175469708162
+regions::0.00175469708162
+angles::0.00175469708162
+rss data::0.00174435080477
+network localization::0.00174435080477
+large error::0.00174435080477
+emergency response::0.00174435080477
+fingerprinting scheme::0.00174435080477
+first approach::0.00174435080477
+pointing::0.00174435080477
+desks::0.00174435080477
+directional antennas::0.00174435080477
+operating frequency::0.00174435080477
+angle of arrival::0.00174417958636
+indoor localization system::0.00174417958636
+wireless indoor positioning::0.00166056773361
+line of sight::0.00166056773361
+shown in fig::0.00166056773361
+indoor applications::0.00162840444913
+mobile target::0.00162840444913
+application scenarios::0.00162840444913
+satisfactory::0.00162840444913
+radiation pattern::0.00162840444913
+directivity::0.00162840444913
+rssi readings::0.00162840444913
+outdoor localization::0.00162840444913
+wi-fi access::0.00162840444913
+ieee signal::0.00162840444913
+aoa estimation::0.00162840444913
+usa e-mail::0.00162840444913
+schemes::0.00160413903941
+simulated::0.00158272696097
+indoor positioning techniques::0.00158272696097
+aoa::0.00158272696097
+low-computation::0.00154602251379
+terms—directional::0.00154602251379
+“two::0.00154602251379
+hfss::0.00154602251379
+iii-d::0.00154602251379
+iii-b::0.00154602251379
+one-to-one::0.00154602251379
+arizona::0.00154602251379
+ntenna::0.00154602251379
+bottom-up::0.00154602251379
+iii-c::0.00154602251379
+kajiwara::0.00154602251379
+letter::0.00154602251379
+dummy::0.00154602251379
+abstract—we::0.00154602251379
+resemblance::0.00154602251379
+face1::0.00154602251379
+face2::0.00154602251379
+gianni::0.00154602251379
+“line-of-sight::0.00154602251379
+gianfranco.manes}@unifi.it::0.00154602251379
+semi::0.00154602251379
+gianni.giorgetti::0.00154602251379
+zàruba::0.00154602251379
+3);::0.00154602251379
+illuminating::0.00154602251379
+pentagonal::0.00154602251379
+zucchelli::0.00154602251379
+classication::0.00154602251379
+comments;::0.00154602251379
+approving::0.00154602251379
+sandeep::0.00154602251379
+dodecahedron::0.00154602251379
+single-pole::0.00154602251379
+waves,”::0.00154602251379
+1089-7798::0.00154602251379
+statical::0.00154602251379
+i∈[1,6::0.00154602251379
+mart::0.00154602251379
+reflective::0.00154602251379
+802.15.x::0.00154602251379
+multiplex::0.00154602251379
+maurri::0.00154602251379
+nonoverlapping::0.00154602251379
+85287::0.00154602251379
+coaxial::0.00154602251379
+point,”::0.00154602251379
+“spectrum”::0.00154602251379
+m−1::0.00154602251379
+bijective::0.00154602251379
+corsi::0.00154602251379
+florence::0.00154602251379
+radiators::0.00154602251379
+“vor::0.00154602251379
+rangebased::0.00154602251379
+imax::0.00154602251379
+tolerate::0.00154602251379
+pack::0.00154602251379
+alessandro.cidronali::0.00154602251379
+67–94::0.00154602251379
+prototype;::0.00154602251379
+maddio::0.00154602251379
+incoherent::0.00154602251379
+krim::0.00154602251379
+gianfranco::0.00154602251379
+tempe::0.00154602251379
+steerable::0.00154602251379
+bears::0.00154602251379
+487–493::0.00154602251379
+measurements;::0.00154602251379
+six-through::0.00154602251379
+alessandro::0.00154602251379
+ets::0.00154602251379
+max(φ,θ::0.00154602251379
+bursts::0.00154602251379
+impact.asu.edu::0.00154602251379
+58–69::0.00154602251379
+terminated::0.00154602251379
+sandeep.gupta}@asu.edu::0.00154602251379
+centered::0.00152796714742
+measured values::0.00152796714742
+fine-grained localization::0.00152796714742
+anonymous reviewers::0.00152796714742
+sec::0.00152796714742
+associate editor::0.00152796714742
+site survey::0.00152796714742
+deployment::0.00151403157668
+plane::0.00150991178105
+proximity::0.00145574568193
+classification::0.00144151243338
+los::0.00144151243338
+signal strength rss::0.00144151243338
+adopted::0.00144151243338
+state university::0.00143937516874
+indoor space::0.00143937516874
+strength information::0.00143937516874
+localization approach::0.00143937516874
+incoming::0.00143937516874
+strongest signal::0.00143937516874
+beam::0.00143937516874
+antenna’s::0.00143937516874
+mag. vol::0.00143937516874
+spectrum::0.00137702381302
+normal distribution::0.00136012694335
+object identifier::0.00136012694335
+additional information::0.00136012694335
+multipath effects::0.00136012694335
+fingerprinting approach::0.00136012694335
+measured data::0.00136012694335
+digital object::0.00136012694335
+transceivers::0.00136012694335
+systems,” ieee::0.00136012694335
+manuscript received::0.00136012694335
+al.::0.00131602281121
+member::0.00131602281121
+location tracking::0.00128843820337
+coordinate system::0.00128843820337
+localization algorithms::0.00128843820337
+switch::0.00128843820337
+systems man::0.00128843820337
+indoor radio::0.00128843820337
+circular::0.00128843820337
+oblivious::0.0012853428671
+h.-h::0.0012853428671
+rappaport::0.0012853428671
+suspect::0.0012853428671
+value;::0.0012853428671
+expectation::0.0012853428671
+approach,”::0.0012853428671
+decomposition::0.0012853428671
+mobicom’04::0.0012853428671
+friis’::0.0012853428671
+mitigating::0.0012853428671
+tracing::0.0012853428671
+perturbing::0.0012853428671
+lobe::0.0012853428671
+coordinating::0.0012853428671
+localization system::0.00128285419504
+feasible::0.00122299151138
+strength measurements::0.00122299151138
+vol::0.00118996974588
+element::0.00116278639091
+proc::0.00115061836497
+connects::0.00113285504908
+downside::0.00113285504908
+ray::0.00113285504908
+probe::0.00113285504908
+target;::0.00113285504908
+∀i::0.00113285504908
+exchanging::0.00113285504908
+illuminated::0.00113285504908
+ansoft::0.00113285504908
+1067–1080::0.00113285504908
+parametric::0.00113285504908
+inactive::0.00113285504908
+resolved::0.00113285504908
+systems based::0.00110704515574
+senior::0.00110704515574
+wireless communications::0.00110704515574
+strongest::0.00110704515574
+low-cost::0.00110046594386
+collected::0.00106796774226
+height::0.00105515130731
+average error::0.00105515130731
+euclidean distance::0.00105515130731
+station::0.00105244832699
+scheme::0.00105244832699
+solution::0.00105204587734
+log-normal::0.0010246632204
+ocalization::0.0010246632204
+coarse-grained::0.0010246632204
+aoa-based::0.0010246632204
+veh::0.0010246632204
+unobtrusive::0.0010246632204
+potter::0.0010246632204
+prentice::0.0010246632204
+chamber::0.0010246632204
+installing::0.0010246632204
+technol.::0.0010246632204
+ash::0.0010246632204
+alleviate::0.0010246632204
+off-line::0.0010246632204
+viberg::0.0010246632204
+patch::0.0010246632204
+proposing::0.0010246632204
+polarization::0.0010246632204
+allerton::0.0010246632204
+1861–1870::0.0010246632204
+cc2420::0.0010246632204
+received signal strength::0.00100935438445
+january::0.00100660785403
+signal processing::0.00100660785403
+sections::0.00100660785403
+wireless indoor::0.00100660785403
+arrival::0.00100639116883
+top::0.000962140646279
+implement::0.000962140646279
+ceiling::0.000961008288918
+spaces::0.000961008288918
+strength rss::0.000961008288918
+yielded::0.000940743118368
+underneath::0.000940743118368
+plastic::0.000940743118368
+positioning,”::0.000940743118368
+polarized::0.000940743118368
+cluttered::0.000940743118368
+anechoic::0.000940743118368
+fed::0.000940743118368
+spherical::0.000940743118368
+error::0.000901364623037
+node::0.00087929799106
+−::0.000878528793529
+localization systems::0.00087734854081
+e-mail::0.00087734854081
+proven::0.000872175402386
+“sensor::0.000872175402386
+decades::0.000872175402386
+correspondence::0.000872175402386
+onclusions::0.000872175402386
+selectively::0.000872175402386
+ensured::0.000872175402386
+covariance::0.000872175402386
+assignment::0.000872175402386
+planes::0.000872175402386
+zero-configuration::0.000872175402386
+antennas,”::0.000872175402386
+proof-of-concept::0.000872175402386
+relates::0.000872175402386
+substrate::0.000872175402386
+chairs::0.000872175402386
+array::0.000838767649958
+positioning techniques::0.000838767649958
+trans::0.000838767649958
+indoor::0.000822624838735
+assembled::0.000814202224565
+applies::0.000814202224565
+projection::0.000814202224565
+signatures::0.000814202224565
+peaks::0.000814202224565
+accommodate::0.000814202224565
+spectral::0.000814202224565
+runtime::0.000814202224565
+shadowing::0.000814202224565
+assign::0.000814202224565
+knn::0.000814202224565
+measurements::0.000811228160733
+rooms::0.000802069519707
+assuming::0.000800688020885
+base stations::0.000767078909977
+behave::0.000763983573709
+arrangement::0.000763983573709
+approach::0.000740703477224
+round::0.000719687584369
+classroom::0.000719687584369
+cybernetics::0.000719687584369
+computationally::0.000719687584369
+resolve::0.000719687584369
+perpendicular::0.000719687584369
+“survey::0.000719687584369
+nath::0.000719687584369
+extends::0.000719687584369
+measuring::0.000701632217996
+mounted::0.000701632217996
+larger::0.000693154910914
+average::0.000686449133666
+exhibits::0.000680063471673
+bandwidth::0.000680063471673
+eferences::0.000680063471673
+editor::0.000680063471673
+deployments::0.000680063471673
+sophisticated::0.000680063471673
+niculescu::0.000680063471673
+rows::0.000680063471673
+formulated::0.000680063471673
+ntroduction::0.000680063471673
+mag.::0.000680063471673
+k-nearest::0.000680063471673
+estimates::0.000672902922969
+installed::0.000670927445886
+sufficient::0.000670927445886
+anonymous::0.000644219101683
+viable::0.000644219101683
+acknowledgments::0.000644219101683
+intended::0.000644219101683
+nsf::0.000644219101683
+assumptions::0.000644219101683
+manuscript::0.000644219101683
+reviewers::0.000644219101683
+attractive::0.000644219101683
+helpful::0.000644219101683
+costs::0.000641427097519
+received signal::0.000634816713139
+solutions::0.000626768487421
+direction::0.000626768487421
+angle::0.000613040239315
+systems,”::0.000611495755692
+“indoor::0.000611495755692
+hall::0.000611495755692
+realistic::0.000611495755692
+message::0.000611495755692
+exploited::0.000611495755692
+compact::0.000611495755692
+relying::0.000611495755692
+italy::0.000611495755692
+neighbor::0.000611495755692
+evaluate::0.000594984872942
+base::0.000594984872942
+center::0.000585685862353
+designing::0.000581393195454
+conf::0.000581393195454
+matched::0.000581393195454
+covers::0.000581393195454
+partition::0.000581393195454
+produces::0.000581393195454
+obtained::0.000572040944722
+estimation::0.000572040944722
+equipped::0.00055929148867
+comparing::0.00055929148867
+targets::0.000553522577871
+transceiver::0.000553522577871
+serves::0.000553522577871
+zigbee::0.000553522577871
+comparable::0.000553522577871
+regression::0.000553522577871
+inc.::0.000553522577871
+measured::0.000540818773822
+values::0.000540305118589
+requirements::0.000533792013923
+indoor positioning::0.000533792013923
+antennas::0.000533792013923
+lab::0.000527575653656
+relation::0.000527575653656
+matrix::0.000527575653656
+publication::0.000527575653656
+depend::0.000509128739893
+areas::0.000504677192227
+computed::0.000504677192227
+fine-grained::0.000503303927015
+optimized::0.000503303927015
+adjacent::0.000503303927015
+max::0.000503303927015
+man::0.000503303927015
+ideal::0.000503303927015
+emergency::0.000503303927015
+apply::0.000503303927015
+collecting::0.000503303927015
+exploiting::0.000503303927015
+selecting::0.000503303927015
+single::0.000490271272026
+telecommunications::0.000480504144459
+euclidean::0.000480504144459
+inverse::0.000480504144459
+offers::0.000480504144459
+collects::0.000480504144459
+adjust::0.000480504144459
+simplicity::0.000480504144459
+corresponds::0.000480504144459
+minimal::0.000480504144459
+elements::0.000480504144459
+compatible::0.000480504144459
+wireless networks::0.000462103273943
+readings::0.000462103273943
+propose::0.000462103273943
+evaluated::0.000462103273943
+operations::0.000459007937675
+ad-hoc::0.000459007937675
+yield::0.000459007937675
+capable::0.000459007937675
+movements::0.000459007937675
+suited::0.000459007937675
+placing::0.000459007937675
+index::0.000459007937675
+facilitate::0.000459007937675
+communication::0.000450682311518
+communications::0.000448253250247
+open::0.00043964899553
+assigned::0.000438674270405
+literature::0.000438674270405
+reasons::0.000438674270405
+ieee::0.000428336768841
+position::0.000428336768841
+model::0.000424569338374
+desirable::0.000419383824979
+chen::0.000419383824979
+created::0.000419383824979
+principle::0.000419383824979
+setting::0.000419383824979
+beacons::0.000419383824979
+applying::0.000419383824979
+expect::0.000419383824979
+electronics::0.000419383824979
+signal strength::0.000404020078486
+represented::0.000401034759853
+ghz::0.000401034759853
+ground::0.000401034759853
+varying::0.000401034759853
+e.g::0.000401034759853
+sight::0.000401034759853
+site::0.000401034759853
+implemented::0.000394517204001
+control::0.000394517204001
+previous::0.000392217017621
+show::0.000392217017621
+area::0.000385959413786
+associate::0.000383539454989
+popular::0.000383539454989
+caused::0.000383539454989
+impact::0.000383539454989
+computational::0.000383539454989
+room::0.00037604810194
+nodes::0.00037604810194
+ranging::0.000366821981288
+wi-fi::0.000366821981288
+dimensions::0.000366821981288
+resolution::0.000366821981288
+transmit::0.000350816108998
+approximate::0.000350816108998
+wlan::0.000350816108998
+pair::0.000350816108998
+review::0.000350816108998
+prototype::0.000350816108998
+gain::0.000350816108998
+dbm::0.000350816108998
+propagation::0.000343224566833
+set::0.000336683398738
+goal::0.000335463722943
+improves::0.000335463722943
+collect::0.000335463722943
+identifier::0.000335463722943
+rf-based::0.000335463722943
+principles::0.00032071354876
+normal::0.00032071354876
+stations::0.00032071354876
+sense::0.00032071354876
+september::0.00032071354876
+survey::0.00032071354876
+sets::0.00032071354876
+active::0.000318427003781
+estimated::0.00031740835657
+compared::0.00031740835657
+absolute::0.000306520119657
+scenarios::0.000306520119657
+statistical::0.000306520119657
+operating::0.000306520119657
+tested::0.000306520119657
+discussed::0.000298835500165
+shows::0.000294162763215
+reported::0.000292842931176
+rssi::0.000292842931176
+mapping::0.000292842931176
+response::0.000292842931176
+view::0.000292842931176
+database::0.000280710226318
+implementation::0.000280710226318
+floor::0.000279645744335
+equation::0.000279645744335
+bluetooth::0.000279645744335
+multipath::0.000279645744335
+locations::0.000275042837779
+computing::0.000269346718991
+observations::0.000266896006962
+meters::0.000266896006962
+coordinate::0.000266896006962
+receive::0.000266896006962
+note::0.000263011469334
+size::0.000263011469334
+algorithm::0.000263011469334
+differences::0.000254564369947
+estimating::0.000254564369947
+requires::0.000247145806013
+models::0.000242624280321
+combined::0.000242624280321
+outdoor::0.000242624280321
+constraints::0.000242624280321
+describe::0.000242624280321
+estimate::0.000240135608262
+power::0.000240135608262
+represents::0.000231051636971
+achieved::0.000231051636971
+improved::0.000231051636971
+describes::0.000231051636971
+practice::0.000231051636971
+stored::0.000231051636971
+results::0.000229561251241
+application::0.000228816377889
+points::0.000224352228746
+digital::0.000219824497765
+pattern::0.000219824497765
+previously::0.000219824497765
+limited::0.000212284669187
+proposed::0.000212284669187
+positions::0.000212284669187
+effects::0.00020892282914
+approximately::0.00020892282914
+expected::0.00020892282914
+liu::0.00020892282914
+close::0.00020892282914
+line::0.00020892282914
+initial::0.00020892282914
+located::0.00020892282914
+supported::0.00020892282914
+figure::0.000202010039243
+positioning::0.00019610850881
+true::0.00018802405097
+widely::0.00018802405097
+terms::0.00018802405097
+locate::0.00018802405097
+wireless::0.000180101706196
+expensive::0.000177994623711
+signal::0.000170694878767
+type::0.000168225730742
+depends::0.000168225730742
+main::0.000168225730742
+reduced::0.000168225730742
+users::0.000168225730742
+usa::0.000168225730742
+actual::0.000168225730742
+distribution::0.000168225730742
+network::0.000164763870675
+received::0.000160816422411
+applications::0.000160816422411
+large::0.000160816422411
+significantly::0.000158704178285
+comparison::0.000158704178285
+typical::0.000149417750082
+experiments::0.000149417750082
+design::0.000149417750082
+iii::0.000149417750082
+approaches::0.000149417750082
+state::0.000149417750082
+errors::0.000140355113159
+maximum::0.000140355113159
+found::0.000140355113159
+department::0.000140355113159
+works::0.000140355113159
+distance::0.000132762683486
+needed::0.000131505734667
+include::0.000131505734667
+access::0.000131505734667
+fixed::0.000131505734667
+algorithms::0.000122859808294
+form::0.000122859808294
+real::0.000122859808294
+object::0.000122859808294
+space::0.000120067804131
+environments::0.000120067804131
+strength::0.000116819118775
+reference::0.000114408188944
+infrastructure::0.000114408188944
+measurement::0.000114408188944
+http::0.000114408188944
+performance::0.000106142334594
+multiple::0.000106142334594
+building::0.000106142334594
+simple::0.000106142334594
+processing::0.000106142334594
+step::0.000106142334594
+additional::0.000106142334594
+frequency::0.000106142334594
+similar::9.80542544051e-05
+device::9.80542544051e-05
+first::9.64898534466e-05
+designed::9.01364623037e-05
+networks::9.01364623037e-05
+support::8.23819353376e-05
+function::8.23819353376e-05
+university::7.78794125166e-05
+case::7.58643905632e-05
+result::7.47840762487e-05
+method::6.73366797476e-05
+small::6.73366797476e-05
+accuracy::6.00339020654e-05
+devices::6.00339020654e-05
+based::5.68982929224e-05
+location::5.10136113868e-05
+radio::4.58404729632e-05
+point::4.58404729632e-05
+techniques::3.89397062583e-05
+shown::3.21632844822e-05
+tracking::3.21632844822e-05
+range::3.21632844822e-05
+technology::2.55068056934e-05
+mobile::2.55068056934e-05
+data::2.50744041125e-05
+research::1.89660976408e-05
+environment::1.25372020563e-05
+information::0.0
+systems::0.0
+system::0.0

@@ -1,0 +1,763 @@
+3870
+
+IEEE TRANSACTIONS ON ANTENNAS AND PROPAGATION, VOL. 53, NO. 12, DECEMBER 2005
+
+Antenna Design for UHF RFID Tags:
+A Review and a Practical Application
+K. V. Seshagiri Rao, Senior Member, IEEE, Pavel V. Nikitin, Member, IEEE, and Sander F. Lam
+
+Abstract—In this paper, an overview of antenna design for passive radio frequency identification (RFID) tags is presented. We
+discuss various requirements of such designs, outline a generic design process including range measurement techniques and concentrate on one practical application: RFID tag for box tracking in
+warehouses. A loaded meander antenna design for this application
+is described and its various practical aspects such as sensitivity to
+fabrication process and box content are analyzed. Modeling and
+simulation results are also presented which are in good agreement
+with measurement data.
+Index Terms—Antennas, passive modulated backscatter, radio
+frequency identification (RFID), tags, transponders.
+
+I. INTRODUCTION
+
+R
+
+ADIO FREQUENCY identification (RFID) is a rapidly
+developing technology which uses RF signals for automatic identification of objects. Although the first paper on modulated backscatter (basic principle of passive RFID) was published in 1948 [1] it took considerable amount of time before
+the technology advanced to current level [2]. Now RFID finds
+many applications in various areas such as electronic toll collection, asset identification, retail item management, access control, animal tracking, and vehicle security [3]. Several standards
+of RFID systems are currently in use (ISO, Class 0, Class 1, and
+Gen 2).
+Globally, each country has its own frequency allocation for
+RFID. For example, RFID UHF bands are: 866–869 MHz
+in Europe, 902–928 MHz in North and South America, and
+950–956 MHz in Japan and some Asian countries. A typical
+passive RFID transponder often called “tag” consists of an antenna and an application specific integrated circuit (ASIC) chip.
+RFID tags can be active (with batteries) or passive (batteryless).
+A passive back-scattered RFID system operates in the following way. A base station (reader) transmits a modulated signal
+with periods of unmodulated carrier, which is received by the tag
+antenna. The RF voltage developed on antenna terminals during
+unmodulated period is converted to dc. This voltage powers up
+the chip, which sends back the information by varying its front
+end complex RF input impedance. The impedance typically toggles between two different states, between conjugate match and
+some other impedance, effectively modulating the back-scattered signal. Fig. 1 illustrates a passive RFID system operation.
+
+Proper impedance match between the antenna and the chip
+is of paramount importance in RFID. Since new IC design and
+manufacturing is a big and costly venture, RFID tag antennas
+are designed for a specific ASIC available in the market. Adding
+an external matching network with lumped elements is usually
+prohibitive in RFID tags due to cost and fabrication issues. To
+overcome this situation, antenna can be directly matched to the
+ASIC which has complex impedance varying with the frequency
+and the input power applied to the chip.
+Several papers have been published on RFID antennas for
+both passive and active tags, including covered slot antenna
+design [4], circular patch antenna analysis [5], meander antenna
+optimization [6], planar inverted F-antenna [7], folded dipole
+antenna [8], etc. However, very few papers [9] provided an
+overview of criteria for RFID tag antenna design and an analysis of practical application aspects. At the same time, there
+exist many papers on practical analysis and design of particular
+classes of antennas used for other applications [10]–[12].
+In the current article, we attempted to fill the existing gap.
+We reviewed design requirements for passive UHF RFID tag
+antennas, outlined the design process, described range measurement techniques, and proposed a performance chart for tag analysis. We also presented a specific application example: a passive
+UHF tag design for a RFID tag placed on a cardboard box that
+is being tracked in standard supply chain. The design is a versatile loaded meander antenna which can be easily tuned for boxes
+with various content like dry goods or plastics. This example is
+supplemented with modeling and simulation results which are
+in close agreement with measured data.
+II. ANTENNA DESIGN
+A. Performance Criteria
+The most important tag performance characteristic is read
+range—the maximum distance at which RFID reader can detect the backscattered signal from the tag. Because reader sensitivity is typically high in comparison with tag, the read range is
+defined by the tag response threshold. Read range is also sensitive to the tag orientation, the material the tag is placed on, and
+to the propagation environment.
+The read range can be calculated using Friis free-space formula as
+(1)
+
+Manuscript received December 18, 2004; revised June 8, 2005.
+The authors are with the RFID Intellitag Engineering Department, Intermec
+Technologies Corporation, Everett, WA 98203 USA (e-mail: kvs.rao@intermec.com; pavel.nikitin@intermec.com; sander.lam@intermec.com).
+Digital Object Identifier 10.1109/TAP.2005.859919
+
+is the power transmitted by the
+where is the wavelength,
+is the gain of the transmitting antenna,
+is the
+reader,
+is the minimum threshold
+gain of the receiving tag antenna,
+
+0018-926X/$20.00 © 2005 IEEE
+
+RAO et al.: ANTENNA DESIGN FOR UHF RFID TAGS: A REVIEW
+
+3871
+
+Fig. 1. RFID system operation. The backscattered signal is modulated by changes in chip impedance Z .
+
+Fig. 2. Antenna impedance, chip impedance, and range as functions of frequency for a typical RFID tag.
+
+power necessary to provide enough power to the RFID tag chip,
+and is the power transmission coefficient given by
+
+(2)
+is chip impedance and
+where
+is antenna impedance.
+Qualitative behavior of antenna impedance, chip impedance,
+and read range as functions of frequency for a typical RFID tag
+is illustrated in Fig. 2. The frequency of the peak range is referred as the tag resonance. The tag range bandwidth can be
+defined as the frequency band in which the tag offers an acceptable minimum read range over that band. From (1) one can see
+of the reader
+that read range is determined by the product
+(transmitter EIRP), tag antenna gain , and transmission coefficient . Typically is dominant in frequency dependence and
+primarily determines the tag resonance which happens at the frequency of the best impedance match between chip and antenna.
+This frequency is different from the resonant frequency of antenna loaded with 50 Ohm and the antenna self-resonance.
+The range in (1) can be normalized with a factor
+4
+. This factor is the range of the
+to the
+tag with 0 dBi antenna perfectly matched
+chip impedance at a fixed frequency. Contours of constant
+range from (1) can be plotted on gain-transmission coefficient
+plane as shown in Fig. 3 where they are labeled with their
+values normalized to . The chart in Fig. 3 can be used as a
+common reference frame to present the performance of any
+RFID tag antenna similar to impedance presentation of a circuit
+
+Fig. 3. Tag antenna performance chart: contours of constant normalized
+range in gain-transmission coefficient plane where the range multiplier is
+r = (=4 ) P G =P . Peak free-space performance of RFID tag in
+example given in this article is also shown.
+
+on a Smith chart. The same range can correspond to several
+gain-transmission coefficient combinations.
+The RFID tag antenna design process involves inevitable
+tradeoffs between antenna gain, impedance, and bandwidth.
+The performance chart in Fig. 3 helps the designer to estimate
+the range tradeoff between the impedance matching and the
+gain. The normalization factor for this performance chart can
+be easily calculated for any case of EIRP and threshold power
+of the chip for a given frequency.
+
+3872
+
+IEEE TRANSACTIONS ON ANTENNAS AND PROPAGATION, VOL. 53, NO. 12, DECEMBER 2005
+
+B. Design Requirements
+Several general RFID tag design requirements whose relative importance depends on tag application are discussed in the
+following paragraph. These requirements largely determine the
+criteria for selecting an RFID tag antenna.
+1) Frequency band. Desired frequency band of operation
+depends on the regulations of the country where tag will
+be used.
+2) Size and form. Tag form and size must be such that
+it can be embedded or attached to the required objects
+(cardboard boxes, airline baggage strips, identification
+cards, etc.) or fit inside a printed label.
+3) Read range. Minimum required read range is usually
+specified for different:
+EIRP. EIRP is determined by local country regulations.
+Objects. Tag performance changes when it is
+placed on different objects (e.g. cardboard boxes
+with various content), or when other objects are
+present in the vicinity of the tagged object. Tag antenna can be designed or tuned for optimum performance on a particular object or designed to be less
+sensitive to the content on which the tag is placed.
+Orientation. Read range depends on antenna orientation. Some applications require a tag to have a
+specific directivity pattern such as omnidirectional
+or hemispherical coverage.
+4) Applications with mobility. RFID tag may be used in
+situations where tagged objects like pallets or boxes
+travel on a conveyor belt at speeds up to either 600
+ft/min or 10 mph. The Doppler shift in this case is less
+than 30 Hz at 915 MHz and does not affect RFID operation. However, the tag spends less time in the read field
+of RFID reader, demanding high read rate capability. In
+such cases, RFID system must be carefully planned to
+ensure reliable tag identification.
+5) Cost. RFID tag must be a low-cost device. This imposes restrictions both on antenna structure and on the
+choice of materials for its construction including the
+ASIC used. Typical conductors used in tags are copper,
+aluminum, and silver ink. The dielectrics include a flexible polyester and rigid PCB substrates like FR4.
+6) Reliability. RFID tag must be a reliable device that can
+sustain variations due to temperature, humidity, stress,
+and survive such processes as label insertion, printing
+and lamination.
+C. Design Process
+RFID tag antenna performance strongly depends on the frequency-dependent complex impedance presented by the chip.
+Tag read range must be closely monitored in the design process
+in order to satisfy design requirements. Since antenna size
+and frequency of operation impose limitations on maximum
+attainable gain and bandwidth [13], [14] compromises have to
+be made to obtain optimum tag performance to satisfy design
+requirements. Often a tunable antenna design is preferable to
+provide tolerance for tag fabrication variations and for optimizing antenna performance on different materials in different
+frequency bands.
+
+Fig. 4.
+
+RFID tag antenna design process.
+
+RFID tag antenna design process is illustrated on a flow chart
+shown in Fig. 4. Once the RFID application is selected, system
+requirements can be translated into tag requirements. These requirements determine the materials for tag antenna construction
+and ASIC packaging. The impedance of the selected ASIC in a
+chosen RF package (like flip-chip, etc.) to which antenna will
+be matched can be measured with a network analyzer.
+Antenna parametric study and optimization is performed
+until design requirements are met in simulation. Like most
+antennas, RFID tag antennas tend to be too complicated for
+analytical solution as they can be used in complex environment.
+Tag antennas are usually analyzed with electromagnetic modeling and simulation tools, typically with method of moments
+(MoM) for planar designs (e.g. thin flexible tags) and with
+finite-element method (FEM) or finite-difference time-domain
+method (FDTD) for more complicated three-dimensional designs (e.g. thick metal mounted tags). Fast EM analysis tools
+are crucial for efficient tag design. In a typical design process,
+modeling and simulation tools can be benchmarked against
+measurements. Read range calculation can be implemented directly in EM software. Tag antenna is first modeled, simulated,
+and optimized on a computer by monitoring the tag range,
+antenna gain, and impedance which give to a designer a good
+understanding of the antenna behavior.
+In the last step of the design process, prototypes are built and
+theirperformanceismeasuredextensively.Ifdesignrequirements
+are satisfied, the antenna design is ready. Otherwise, the design is
+further modified and optimized until requirements are met.
+D. Range Measurement
+Accurate tag range measurement can be conducted in a controlled environment, such as anechoic chamber or transverse
+electromagnetic (TEM) cell. In both methods tag position can be
+fixed and transmitter output power can be varied by controlled
+
+RAO et al.: ANTENNA DESIGN FOR UHF RFID TAGS: A REVIEW
+
+Fig. 5.
+
+3873
+
+RFID tag range measurement using anechoic chamber.
+Fig. 7. RFID conveyor belt application. Boxes are equipped with smart labels
+and being tracked.
+
+where is the height of the TEM cell at the cross-section where
+RFID tag is placed and is TEM cell input impedance.
+In our measurements, we used an anechoic chamber with 3
+ft (0.91 m) distance to the tag and 6.2 dBi linearly polarized
+220 mm and
+reader antenna. The TEM cell had parameters
+50 Ohm. Cable loss was 0.5 dB in both cases.
+III. RFID EXAMPLE
+A. Application
+Fig. 6.
+
+RFID tag range measurement using TEM cell.
+
+attenuation. This allows one to carry accurate tag range characterization and avoid using large and prohibitively expensive
+chambers or cells. Compact TEM cell is a convenient tool for
+measuring small tags while larger anechoic chamber can be used
+to measure tag performance on various objects.
+In anechoic chamber, the tag is placed at a fixed distance from
+the reader antenna as illustrated in Fig. 5.
+required to
+At each frequency, the minimum power
+of
+communicate with the tag is recorded. Since the loss
+of the transmitting antenna
+the connecting cable, the gain
+and the distance to the tag are known, the tag range for any
+transmitter EIRP of interest can be determined from (1) as
+(3)
+The general guidelines for selecting the tag position in anechoic chamber are the following: i) the distance must be such
+that the tag will respond and will be in far field and ii) the tag
+must be placed in a quiet zone of the anechoic chamber where
+multipath is minimal.
+In TEM cell, the tag is placed inside, and the cell is connected to RFID reader with variable output power as illustrated
+in Fig. 6.
+at the input of
+At each frequency, the minimum power
+TEM cell required to communicate with the tag is measured. Tag
+range can be calculated from known expressions for the field
+inside TEM cell [15] as
+(4)
+
+Consider a specific application: a smart label for cardboard
+box labeling in warehouse environment worldwide. Such a label
+with a bar code printed on it and an RFID tag embedded underneath can be placed on cardboard boxes with various contents.
+Boxes may travel on a conveyor belt as shown in Fig. 7 or may
+be moved through large portals by forklifts equipped with RFID
+readers. Requirements to the tag design are the following:
+•
+Tag should be easily tunable to any frequency in
+860–960 MHz range for various contents in the final
+assembly when the tag is inserted into a label and
+placed on a cardboard box.
+•
+Tag should have at least 2.5 m range with 4 W EIRP in
+915 MHz band (902–928 MHz frequencies, US) and
+at least 2.2 m range with 2 W ERP (3.3 W EIRP) in
+868 MHz band (866–869 MHz frequencies, Europe)
+to meet worst case application requirements.
+•
+Tag should fit into a standard 6 4 inch label. It is
+desirable to have as small footprint as possible to fit
+into 4 2 inch and 4 1 inch labels for other potential
+applications.
+•
+It is preferred to have omni-like read range performance for a tag.
+B. Antenna Design
+The process of antenna design is briefly described below.
+•
+Materials. Because of cost and application considerations, it was decided to use for the antenna a thin flexible polyester substrate with a dielectric permittivity of
+3.5 and a thickness of 2 mil (0.051 mm). Top antenna
+trace was made of copper and had a thickness of 0.7
+mil (0.018 mm).
+
+3874
+
+IEEE TRANSACTIONS ON ANTENNAS AND PROPAGATION, VOL. 53, NO. 12, DECEMBER 2005
+
+TABLE I
+PARAMETERS OF THE LOADED MEANDER TAG ANTENNA (mm)
+
+Fig. 8.
+
+RFID chip affixed to antenna terminals using flip-chip packaging.
+
+Fig. 9.
+
+Geometry of the loaded meander tag antenna.
+
+•
+
+•
+
+•
+
+ASIC. For this smart label application, we used Philips
+EPC 1.19 G2 RFID ASIC chip [16] mounted on antenna terminals as shown in Fig. 8 using flip-chip packaging [17] which has been widely established as a popular low-cost technique.
+The input impedance of the packaged chip was measured in the frequency domain with the network analyzer for different power levels. It was determined with
+RFID reader that the minimum power needed by the
+chip to turn on is 10 dBm, which agreed with manufacturer specifications.
+Antenna type. The antenna geometry is shown
+in Fig. 9. Because of the size and tunability requirements, meandered dipole antenna was a natural choice.
+Meandering allowed the antenna to be compact and
+to provide omnidirectional performance in the plane
+perpendicular to the axis of the meander. To have a
+better control over the antenna resistance, we added
+one loading bar with the same width as the meander
+trace. To provide a better match for the chip capacitive
+impedance, one meandered section was further meandered to obtain additional inductance. This antenna
+can be easily tuned by trimming. Lengths of meander
+trace and loading bar can be varied to obtain optimum
+reactance and resistance matching. The trimming is
+realized by punching holes through the antenna trace
+at defined locations. Such tunable design is desirable
+where it is often needed to provide a solution for a
+particular application with a minimum lead time.
+Parametric study and optimization. The loaded meander antenna has several key parameters: loading bar
+width , distance , spacing , meander step width ,
+and meander step height . Maximum allowed antenna
+length is dictated by the size requirements. The pa-
+
+Fig. 10. Impedance of the loaded meander tag antenna (R , X ) as a function
+of meander trace length trimming x. Tag resonance is determined by the best
+match with the chip impedance (R , X ).
+
+1
+
+•
+
+rameters mentioned above influence antenna gain and
+impedance which determine tag resonance, peak range,
+and bandwidth. This thin planar antenna was optimized
+using Ansoft Designer. Tag range was computed from
+and impedance
+(1) using simulated values for gain
+and measured values for chip impedance
+at the
+threshold power. Although Ansoft software had a powerful parametrics and optimization engine, its post-processing capabilities were not sufficient to create an adequate cost function for our design requirements. The
+optimal realizable combinations of tag antenna parameters were identified by plotting and examining the families of curves. After optimization, we arrived to the final
+parameter values for tag antenna given in Table I.
+Antenna reactance and resistance can be controlled
+by trimming as it is illustrated in Fig. 10. For example,
+mm moves
+trimming the meander trace by
+the resonant frequency up by 20 MHz. The gain is
+not significantly affected by trimming as it is shown
+in Fig. 11. The performance of the untrimmed tag is
+also shown on the chart in Fig. 3.
+Prototyping and validation. Several tag prototypes
+similar to the one shown in Fig. 12 were fabricated and
+tested in both anechoic chamber and TEM cell range
+measurement setups.
+Fig. 13 presents a comparison between theoretical
+and experimentally measured read range for one of the
+tags tuned to 915 MHz band in free space. It can be
+seen that theoretical curve and experimental data are in
+close agreement. Differences between TEM cell data
+and anechoic chamber data are due partially to imperfections of anechoic chamber and partially to electric
+field nonuniformities inside TEM cell.
+
+RAO et al.: ANTENNA DESIGN FOR UHF RFID TAGS: A REVIEW
+
+3875
+
+Fig. 14. Variations of RFID tag range versus frequency for different samples
+due to ASIC packaging process variations ERP 2 W .
+
+(
+
+=
+
+)
+
+Fig. 11. Gain of the loaded meander tag antenna in yz -plane at 900 MHz as a
+function of meander trace length trimming x.
+
+1
+
+Fig. 12. Prototype of RFID tag with loaded meander antenna.
+
+Fig. 15. Variations of RFID tag range versus frequency for different tagged
+2 W . Box 1 is empty cardboard box and box 2 is cardboard
+objects ERP
+box with plastic material 
+2.87 inside.
+
+(
+
+Fig. 13. Theoretical and experimental read ranges for loaded meander RFID
+tag in free-space EIRP
+4W .
+
+(
+
+•
+
+=
+
+)
+
+Sensitivity to chip variations. Tag design must meet
+range requirements in spite of variations in ASIC assembly and packaging process. Because all fabrication details may not be known in advance, the tag resonant frequency after fabrication may differ significantly from the expected value.
+To provide sufficient tolerance for tag resonant frequency, our meander antenna is designed to resonate
+in free-space with a typical chip impedance shown in
+
+•
+
+=
+
+)
+
+( =
+
+)
+
+Fig. 10 at about 855 MHz. This ensures that when the
+tag is placed on the box, it covers the lowest RFID band
+(866–869 MHz) even if fabrication process causes significant resonant frequency deviation. The tag antenna
+can always be trimmed to a shorter length whereas extending its length after the fabrication is not easy.
+After the prototypes were fabricated, it was found
+that the spread of the tag resonant frequency is about
+20 MHz as shown in Fig. 14. This spread was caused
+by the flip-chip attachment process which affected the
+package parasitics and added variations to the imaginary part of the packaged chip impedance.
+Sensitivity to box content. When the tag is placed
+on a cardboard box with some content, its resonance
+frequency shifts down but the tag can be trimmed and
+tuned to the proper frequency and range performance
+as shown in Fig. 15. The corresponding trimming of the
+meander trace and the loading bar is shown in Fig. 16.
+
+3876
+
+Fig. 16.
+
+IEEE TRANSACTIONS ON ANTENNAS AND PROPAGATION, VOL. 53, NO. 12, DECEMBER 2005
+
+Meander tuning for various box content in 868 MHz band.
+
+Once the tuning is determined, it can be applied to
+all tags destined to work for specific box content in specific frequency band. The presented tag design meets
+the desired range requirements for various box contents in both 868 MHz and 915 MHz frequency bands.
+IV. CONCLUSION
+Radio frequency identification is a rapidly developing technology for automatic identification of objects. In this paper, we
+presented an overview of antenna design for passive UHF RFID
+tags. We discussed various requirements to such designs, outlined a generic design process including range measurement
+techniques, and concentrated on one practical application, RFID
+tag for box tracking in warehouse. We presented a loaded meander antenna design for this application and analyzed various
+practical aspects such as its sensitivity to fabrication process
+and box content. We also presented modeling and simulation
+results which were in good agreement with measurement data.
+The analysis presented here can also be applied to active tags
+and tags operating at other frequencies.
+
+[12] S. Brebels, J. Ryckaert, B. Come, S. Donnay, W. D. Raedt, E. Beyne,
+and R. P. Mertens, “SOP integration and codesign of antennas,” IEEE
+Trans. Adv. Packag., vol. 27, pp. 341–351, May 2004.
+[13] R. F. Harrington, “Effect of antenna size on gain, bandwidth, and
+eciency,” J. Res. Nat. Bureau Standards, vol. 64D, pp. 1–12, Jan.-Feb.
+1960.
+[14] H. A. Wheeler, “Small antennas,” IEEE Trans. Antennas Propag., vol.
+AP-23, no. 4, pp. 462–469, Jul. 1975.
+[15] P. Hui, “Small antenna measurements using a GTEM cell,” in Proc.
+IEEE Antennas and Propagation Soc. Int. Symp., vol. 1, Jun. 2003, pp.
+715–718.
+[16] http://www.semiconductors.philips.com.
+[17] R. Tummala and E. Rymaszewski, Microelectronics Packaging Handbook. New York: Van Nostrand Reinold, 1989.
+K. V. Seshagiri Rao (S’78–M’84–SM’91) received
+the Ph.D. degree from the Indian Institute of Technology (IIT), Kharagpur, India, in 1984.
+In 1979, he joined the IIT, as a Senior Research Assistant, and subsequently joined the faculty in 1984.
+Apart from his teaching at IIT, he has also participated in various projects in the area of antennas and
+circuits sponsored by defense and aerospace. In 1988,
+he was on sabbatical leave from IIT as a Research Associate with the University of Ottawa, Ottawa, ON,
+Canada. In 1993, he joined Antenna Research Associates, Beltsville, MD, where he was involved with the design and development
+of antennas. He then joined the T. J. Watson Research Center, IBM, Yorktown
+Heights, NY, as a Research Staff Member, where he was involved with RFID.
+In 1998, he joined the Intermec Technologies Corporation, Everett, WA, as one
+of the core team members with the RFID technologies acquired from IBM. He
+is currently a Staff Technologist with the RFID Intellitag Engineering Department, Intermec Technologies Corporation, where he also manages a small group
+in the area of RFID transponder design and development. He coauthored Millimeter-Wave Microstrip and Printed Circuit Antennas (Norwood, MA: Artech
+House, 1991). He has authored or coauthored approximately 35 technical publications in standard journals and conferences. He also has 13 U.S. patents in
+the area of RFID.
+
+ACKNOWLEDGMENT
+The authors would like to thank their colleagues Mr. T. Miller
+and Dr. P. Maltseff, both of the Intermec Technologies Corporation, Everett, WA, for their interest in this work.
+REFERENCES
+[1] H. Stockman, “Communication by means of reflected power,” Proc. IRE,
+pp. 1196–1204, Oct. 1948.
+[2] K. Finkenzeller, RFID Handbook: Radio-Frequency Identi cation Fundamentals and Applications, 2nd ed: Wiley, 2004.
+[3] R. Bansal, “Coming soon to a Wal-Mart near you,” IEEE Antennas
+Propag. Mag., vol. 45, pp. 105–106, Dec. 2003.
+[4] S.-Y. Chen and P. Hsu, “CPW-fed folded-slot antenna for 5.8 GHz RFID
+tags,” Electron. Lett., vol. 24, pp. 1516–1517, Nov. 2004.
+[5] S. K. Padhi, N. C. Karmakar, C. L. Law, and S. Aditya, “A dual polarized
+aperture coupled circular patch antenna using a C-shaped coupling slot,”
+IEEE Trans. Antennas Propag., vol. 51, no. 12, pp. 3295–3298, Dec.
+2003.
+[6] G. Marrocco, “Gain-optimized self-resonant meander line antennas for
+RFID applications,” Antennas Wireless Propag. Lett., vol. 2, no. 21, pp.
+302–305, 2003.
+[7] M. Hirvonen, P. Pursula, K. Jaakkola, and K. Laukkanen, “Planar inverted-F antenna for radio frequency identication,” Electron. Lett., vol.
+40, pp. 848–850, Jul. 2004.
+[8] Q. Xianming and Y. Ning, “A folded dipole antenna for RFID,” in Proc.
+IEEE Antennas and Propagation Soc. Int. Symp., vol. 1, Jun. 2004, pp.
+97–100.
+[9] P. R. Foster and R. A. Burberry, “Antenna problems in RFID systems,”
+in Proc. Inst. Elect. Eng. Colloquium RFID Technology, Oct. 1999, pp.
+3/1–3/5.
+[10] C. Peixeiro, “Design of log-periodic dipole antennas,” Proc. Inst. Elect.
+Eng. Microwaves, Antennas and Propagation, vol. 135, pp. 98–102, Apr.
+1988.
+[11] S. Weigand, G. H. Hu, K. H. Pan, and J. T. Bernhard, “Analysis and
+design of broad-band single-layer rectangular U-slot microstrip patch
+antennas,” IEEE Trans. Antennas Propag., vol. 51, no. 3, pp. 457–468,
+Mar. 2003.
+
+Pavel V. Nikitin (S’98–M’02) received the B.S. and
+M.S. degrees in electrical engineering from Utah
+State University, Logan, in 1994 and 1998, respectively, the B.S. degree in physics from Novosibirsk
+State University, Novosibirsk, Russia, in 1995,
+and the Ph.D. degree in electrical and computer
+engineering from Carnegie-Mellon University,
+Pittsburgh, PA, in 2002.
+In Summer 1999, he was a Software Design Engineer with Ansoft Corporation, Pittsburgh, PA. In
+Summer 2000, he was a Design Development Engineer with the Microelectronics Division, IBM Corporation, Essex Junction,
+VT. In 2002, he joined the Department of Electrical Engineering, University of
+Washington, Seattle, as a Research Associate, where he was involved with computer- aided design of mixed-technology systems-on-chip. In 2004, he joined
+the Intermec Technologies Corporation, Everett, WA, where he is currently a
+Lead Engineer with the RFID Intellitag Engineering Department involved with
+the design and development of antennas for RFID tags. He has authored over
+40 technical publications. He also has several patents pending.
+Dr. Nikitin was the recipient of the ECE Teaching Assistant of the Year Award
+presented by Carnegie-Mellon University.
+Sander F. Lam received the B.Eng. degree from McMaster University, Hamilton, ON, Canada, in 1981.
+Since 1982, he has been involved with various RF
+communication hardware design. He was involved in
+the research and development of single-conversion
+TVRO and CATV headend equipment with Triple
+Crown Electronics Inc., Mississauga, ON, Canada.
+In 1989, he joined U.S.-based Auget Communication Products Inc., where he was the lead RF
+Designer involved with CATV two-way broad-band
+trunk distribution amplifiers. In 1997, he joined the
+Intermec Technologies Corporation, Everett, WA, where he is currently the
+Senior RF Engineer. His interests include various RF communication hardware
+design and RFID tag development.
+
+1906
+
+IEEE TRANSACTIONS ON ANTENNAS AND PROPAGATION, VOL. 54, NO. 6, JUNE 2006
+
+Comments and Replies
+Comments on “Antenna Design for UHF RFID Tags: A
+Review and a Practical Application”
+Yuri Tikhov
+
+In [1], the authors discuss the generic design process for passive UHF
+Radio Frequency IDentification (RFID) tag antennas. The attempt to
+formulate the key universal criteria for the tag antenna design looks
+really interesting. In this connection the most important characteristic
+of every UHF RFID system is a read range r —the maximum practical
+distance between an interrogator base station (reader) and a transponder
+(tag). Accordingly, the basic considerations are focused on the read
+range formula given in [1] as (1)
+
+r=
+
+
+4
+
+P t Gt G r 
+Pth
+
+(1)
+
+where  is the wavelength, Pt is the power transmitted by the reader,
+Gt is the gain of the reader antenna, Gr is the gain of tag antenna, Pth
+is the minimum threshold power necessary to provide enough energy
+feeding for the tag chip, and  is the power transmission coefficient
+due to the impedance mismatch between tag antenna and chip. Indeed,
+the far-field formula (1) is correct subject to assumption that polarization of reader antenna and the polarization of tag antenna are perfectly
+matched. But in fact, the polarization mismatch is essential in most
+RFID applications.
+The point is that in the majority of applications the tag is allowed to
+appear in almost arbitrary position in the field of the reader antenna.
+Actually in [1] authors mention the problem of tag orientation, but just
+in the specific context of a directivity pattern. However, the polarization issue becomes also critical. And the polarization of the tag antenna
+is usually linear because of pre-required small size of the tag. In such
+situation the only way to fulfill a system requirement is to use circularly polarized reader antenna. Thus, a sacrifice of 3-dB power loss due
+to polarization mismatch between circularly polarized reader antenna
+and linearly polarized tag antenna overcomes the problem of tag orientation. This is why nowadays the major vendors (such as [2]–[5] and
+many others) offer mainly circularly polarized reader antennas.
+At the same time the linearly polarized antennas are also available
+in the market for limited RFID applications. In the case of linearly polarized both reader and tag antennas, the substantial polarization misalignment may cause severe power loss which in its turn can potentially
+lead even to fault of RFID system at all.
+Therefore, considering polarization issues, in order to avoid overestimation of the read range the formula (1) needs revisions. Definitely,
+in the most conventional case of circular-to-linear polarization mismatch the read range r should be (1= 2) times shorter. In the case
+of linear-to-linear polarization mismatch the decay factor is a function
+of the variable misalignment angle. The chart in [1, Fig. 3] should be
+corrected accordingly.
+
+p
+
+Manuscript received December 10, 2005.
+The author is with the Samsung Advanced Institute of Technology, Suwon
+440-600, Korea (e-mail: tikhov@sait.samsung.co.kr).
+Digital Object Identifier 10.1109/TAP.2006.875933
+
+Besides, it is worth mentioning that formula (1) is invalid at nearfield distances between reader and tag. And the near-field situation can
+frequently happen in practical UHF RFID application scenario.
+Regardless of above-mentioned inaccuracy, the qualitative value of
+the work [1] can be definitely very helpful for designers of passive UHF
+RFID tags.
+
+REFERENCES
+[1] K. V. S. Rao, P. V. Nikitin, and S. F. Lam, “Antenna design for UHF
+RFID tags: A review and a practical application,” IEEE Trans. Antennas Propag., vol. 53, no. 12, pp. 3870–3876, Dec. 2005.
+[2] Symbol Technologies, Inc.. Holtsville, NY 11742-1300 [Online].
+Available: www.symbol.com
+[3] SAMSys Technologies, Inc.. Ontario, Canada [Online]. Available:
+www.samsys.com
+[4] Applied Wireless Identifications Group, Inc.. Monsey, NY [Online].
+Available: www.awid.com
+[5] Intermec Technologies Corp.. West Everett, WA [Online]. Available:
+www.intermec.com
+
+Reply to “Comments on ‘Antenna Design for UHF RFID
+Tags: A Review and a Practical Application’”
+Pavel V. Nikitin and K. V. S. Rao
+The first issue raised by Dr. Tikhov in his Comments [1] is missing
+polarization mismatch factor in (1) of our work [2]. We agree that polarization mismatch is an important factor in communication links [3].
+We also would like to point that (1) gives the maximum distance in free
+space at which RFID reader can detect the backscattered signal from a
+given tag which implies that both reader antenna and tag antenna are
+oriented towards each other in the direction of maximum gain and their
+polarizations are matched. To make (1) more general, one can indeed
+include in it both the polarization efficiency p (which accounts for polarization mismatch) and the dependence of antenna gain on the angles
+(; '). The modified read range equation would then be given by
+
+r=
+
+
+4
+
+Pt Gt (; ')Gr (; ')p
+:
+Pth
+
+(1)
+
+In the most general case, both reader and tag antenna are elliptically
+polarized with mutually tilted major axis of the polarization ellipses
+which lie in the planes perpendicular to the direction of propagation.
+The polarization efficiency p can be expressed as [4]
+
+p=
+
+2 2
+1 + 1 2 + 21 2 cos(#1
+(1 + 21 ) (1 + 22 )
+
+0 #2 )
+
+(2)
+
+Manuscript received February 19, 2006.
+The authors are with the RFID Intellitag Engineering Department, Intermec
+Technologies Corporation, Everett, WA 98203 USA (e-mail: pavel.nikitin@intermec.com; kvs.rao@intermec.com).
+Digital Object Identifier 10.1109/TAP.2006.875934
+
+0018-926X/$20.00 © 2006 IEEE
+
+IEEE TRANSACTIONS ON ANTENNAS AND PROPAGATION, VOL. 54, NO. 6, JUNE 2006
+
+where 1 ej# and 2 ej# are the complex polarization ratios of the
+reader antenna and the tag antenna. The absolute value  of the antenna
+polarization ratio is related to the antenna axial ratio A (measured in
+decibels) as
+
+A = 20 log
+
++1
+:
+01
+
+(3)
+
+There are several special cases of interest for RFID applications. When
+both antennas are linearly polarized and oriented with a misalignment
+angle , the polarization efficiency is p = cos2 . When the reader
+antenna is circularly polarized and the tag antenna is linearly polarized,
+p
+the polarization efficiency is 1=2 which decreases the read range by 2
+as correctly pointed out by Dr. Tikhov.
+Dr. Tikhov also mentions that (1) is invalid at near-field distances.
+We agree with that but would like to emphasize again that (1) gives
+the maximum distance at which RFID reader can read the tag in free
+space. In most UHF RFID systems, this distance extends well into the
+far-field zone. This is reflected in the very form of (1) which uses Friis
+free-space transmission formula valid only in the far-field region [5].
+While some tag application scenarios involve near-field tag scanning,
+
+1907
+
+it can be expected that in most cases the tag which can operate in the far
+field should receive more than adequate power to operate when brought
+closer to RFID reader antenna into the near field. Hence, the read range
+of most UHF RFID tags is determined by the tag performance in far
+field.
+We would like to thank Dr. Tikhov for his valuable Comments [1]
+which helped to clarify some aspects of our work [2] and make it more
+useful for tag antenna designers and other RFID community.
+
+REFERENCES
+[1] Y. Tikhov, “Comments on ‘Antenna design for UHF RFID tags: A review and a practical application’,” IEEE Trans. Antennas Propag., vol.
+54, p. 1906, Jun. 2006.
+[2] K. V. S. Rao, P. V. Nikitin, and S. Lam, “Antenna design for UHF
+RFID tags: A review and a practical application,” IEEE Trans. Antennas Propag., vol. 53, no. 12, pp. 3870–3876, Dec. 2005.
+[3] P. Talaga, “The measurement of a large antenna using a spacecraft as a
+receiver,” IEEE Trans. Antennas Propag., vol. 38, no. 6, pp. 883–888,
+Jun. 1990.
+[4] IEEE Standard Test Procedures for Antennas, , Dec. 1979, IEEE Standard 149-1979, pp. 61–70.
+[5] D. C. Hogg, “Fun with the Friis free-space transmission formula,” IEEE
+Antennas Propag. Mag., vol. 35, no. 4, pp. 33–35, Aug. 1993.
+
+

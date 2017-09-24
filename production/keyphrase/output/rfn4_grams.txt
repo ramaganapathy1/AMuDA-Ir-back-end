@@ -1,0 +1,3871 @@
+rfid tag tag field
+previously stored
+u-kb approach
+limited
+determine if the meaning
+structure and functionality
+desirable
+fields is summarized
+entries matching parameters
+max adv diameter
+knowledge-based systems
+trigger spurious leave-enter
+ouuid ; semantic annotation
+requested resource
+framework presents a two
+area can access information
+end user
+overview of ad hoc
+contained
+presents
+distributed and decentralized knowledge
+case of description
+u-kb components
+structure of an advertisement
+kawakita
+extensive simulation
+rfid epcglobal rfid tag
+updated
+sending a solicit
+memory initial address
+accurate descriptions of raw
+manet
+content pdu in unicast
+specifies the ontology identifier
+procedures that determine
+journal of internet
+krss group
+mechanism for ontology
+steady state
+air
+engine was a single
+vast
+approach can be extended
+directly from tags located
+heterogeneous micro
+on-demand knowledge availability
+database management
+membank
+point of failure
+max retries maximum number
+frame travel
+suen
+provide to applications
+tag tag field
+two consecutive
+original request
+odically send advertisement
+receives an advertisement frame
+waited when forwarding advertisement
+approach to carry out
+automated inference
+knowledge sharing
+extraction of goods parameters
+directly on tags attached
+systems local
+retrieval on rfid tags
+feasibility
+updates will be automatically
+mobile rfid readers equipped
+low-throughput wireless links
+number resource
+context-aware information processing
+vast majority of applications
+normal system activity
+air protocol in random
+revised
+clinicians
+two basic functions
+specification
+reserved for future purposes
+scan of semantic enabled
+preselected
+content pdu
+description sl flag set
+context aware
+architecture as it advertises
+marks the specific
+simultaneously
+dissemination has an upper
+entity through a gateway
+reported
+single point of failure
+autonomic creation and maintenance
+path
+paper stems
+model of the data
+retrieval should depend
+description size
+repositories where knowledge
+contextual attributes from user
+granting
+ack rtt
+issue an advertisement
+carry out
+simulation campaign
+updating stored
+scan the same tag
+museums
+transmission error has occurred
+description user memory
+consecutive advertisement
+database management system
+reduce the collision probability
+entries matching parameters contained
+large entity
+description tid memory bank
+node receives information
+node the solicit cames
+diameter
+matchmaking using metadata
+random error
+mobility
+inclusion of the 96-bit
+search
+explained
+dissemination protocol allowing
+dubendorfer
+general framework to carry
+frame arrives
+archaeological
+contexts if an internet
+full protocol stack
+total
+definition of the components
+network link
+reader which has inventoried
+defined before object annotation
+semantically annotated description
+hop sequence
+table entries
+internet and protocol technology
+maximum number
+call
+asset
+areas of rfid technology
+adapt kr tools
+carried out
+dl-based ontology languages originally
+assumes
+type
+annotations
+kind of pdu
+declaration is required
+presents a two level
+last resource provider
+composite
+original requester node
+focuses on the definition
+tag and reader
+aware
+object description
+berlin
+manages
+provide
+theoretically acceptable
+wireless lan medium access
+means of a case
+language
+nodes fully aware
+drugs and patients
+work
+soliciting mechanism is analogous
+exploit accurate
+tags in the reader
+bechhofer
+maximum hops number
+content frame
+select command with parameters
+packet transports
+located on the objects
+journal on semantic
+owning
+references
+framework name default rtime
+computing contexts
+mark ontologies unambiguously
+explicit knowledge
+alignment protocol between caches
+organized
+refers to an ontology
+key words
+timer
+advanced matchmaking using metadata
+detail the data
+advertises individuals
+transmission of the advertisement
+differences and performance issues
+told explicitly
+tag and reader mobility
+recovery
+expanding the universe
+travel
+bank parameter membank wordptr
+send advertisement packets
+hop
+symposium
+ordinary
+knowledge embedded
+integrating knowledge discovery
+node receiving a solicit
+regulates the frame
+detected in every consecutive
+listed in the pdu
+enabled tags are preselected
+peri fig
+interval between two consecutive
+networks specific requirements part
+field value
+physical layer
+conveying a small
+minimizes
+advertisement pdu is sketched
+parallel
+types
+transmitted data
+demand pdus
+ramanathan
+attempt
+advertised by means
+effective
+representation systems
+tied to micro
+discovery in pervasive contexts
+object properties and purposes
+museums and archaeological sites
+suggests is shorter
+expensive information duplication
+first
+order to extract implicit
+cache and recursively
+updates
+operations
+minimizes transmissions
+systems designed for wired
+extract implicit knowledge
+size of the packet
+extract contextual
+50ms
+u-kb operations
+exploiting two
+presence
+advertises individuals it sees
+depots benefit
+provide not only monitoring
+case of match
+reader does not receive
+increases proportionally
+approaches based on centralized
+semantic metadata stored
+frameworks for objects
+build a u-kb system
+compact equivalent
+comprises
+easier inventory management
+production
+framework is supported
+fig
+enhanced to support
+epcs of the tags
+propagation and retrieval framework
+schmidt
+easier
+cluster-heads
+node receiving
+phase and of semantic
+epcglobal standard for class
+wireless pervasive technologies
+fragment
+framework comprises
+hops the packet
+framework presents
+emerging yet challenging technology
+break
+system data
+number of bits
+presence of other nodes
+formal interface specifications
+sale depots benefit
+polling time milliseconds
+identification frameworks
+table management
+bank
+packet increases proportionally
+fields are analogous
+host advertises
+application-specific and context-aware information
+knowledge embedded into semantic-enhanced
+inference procedures
+address ouuid size
+discovery in pervasive
+dissemination protocol to enable
+specifies the ontology
+timeout
+leveraging the lightweight
+order to distinguish
+languages originally
+support in ubiquitous
+area can access
+medium access control
+journal of web
+bit mask clear
+annotated object
+told
+principles
+long as large computing
+dissemination phase odically send
+carry
+telecommunications and information exchange
+arrives
+wireless pervasive
+reached
+4..7
+marks the last reference
+extract
+message
+tag population size
+distributed approach
+declaration
+forwarding
+tags memories
+network
+bit set
+cache entries
+bluetooth-rfid
+content
+pointer to the compressed
+sequence number resource description
+descriptions of raw materials
+precision
+reader
+formal interface
+integrate and extend logic-based
+barriers between patient
+object categories
+components in our approach
+packet transmissions
+linear
+associate
+simulation
+compressed file
+depots
+sensory
+interactions with epcglobal
+parameters contained
+descriptions of raw
+sensors
+automatically propagated
+universally
+knowledge in the form
+send a solicit
+node sending the packet
+post-sale
+exposing
+starts
+gen-2
+service oriented
+iso
+node waiting
+proposed framework comprises
+suitable values
+managed resources are considered
+stewart
+attributes from user memory
+simulation environment
+industrial
+table management each reader
+processing capability
+tasks
+discovery diameter current search
+cache memory
+annotations from tags
+semantic web effort
+tinelli politecnico di bari
+electronic
+payload
+knowledge embedded within rfid
+locate suitable descriptions directly
+annotated
+replies to the demand
+pdu in unicast
+guinness
+specific requirements part
+knowledge base has two
+semantic sensor net
+needed
+rates
+listed
+manages a cache table
+on-demand retrieval of suitable
+last node processing
+percentage
+allgair
+embedded into semantic-enhanced
+equivalent of owl-dl1
+vision a u-kb layer
+maximum advertisement
+universally unique identifiers
+pdu in order
+transponder the object
+lower
+embedded within rfid
+rfid readers equipped
+benefit from easier inventory
+range and tags
+based on centralized control
+cache tables
+distance
+epcglobal rfid
+extended framework supported
+share the system infrastructure
+dipped in the environment
+bits
+database
+enabled
+terminological
+lead to an unacceptable
+requester node waiting
+naming
+reader pda
+number of neighbors
+scioscia
+contents reception
+value for random
+tid memory bank starting
+extracting
+starting a resource matchmaking
+expect valuable
+sees
+select command
+donini
+ran
+methods into operations
+workshop proceedings
+10th
+marks the last
+web and information
+components and processes
+approach using ns-2 simulation
+study rfid-based u-kb
+enabled tags parameter target
+node located at discovery
+epcglobal ratified
+smart environments m ruta
+cache or if managed
+implemented
+protocol for dissemination
+tags parameter target
+approach using ns-2
+semantic annotations from tags
+oriented
+pdu types exploited
+ouuid matching
+krss
+epc memory initial address
+on-demand provisioning
+owl-dl1
+hosts owning
+regulates the frame travel
+dissemination phase
+rfid reader and tag
+object
+semantically rich
+technology telecommunications
+epcglobal rfid tags
+remote reasoning engine
+entry
+phase
+minimizes transmissions for data
+readers exploits
+u-kb deployment
+broadcast
+kbs to u-kbs
+change during normal system
+ouuid size
+requester node receives information
+track of the freshness
+yang
+identifier of the reference
+phase max retries maximum
+enterprise
+suitable descriptions
+wordptr wordcount
+paper presents
+context aware parameters
+random
+case of new items
+attempts
+radio
+solutions
+epcglobal object naming service
+conclusion
+field value coincides
+availability
+description update
+reader will advertise
+number of the last
+node processing the request
+ratified specification
+holder
+performed either by hosts
+arpa
+case study
+transmissions polling
+sensor networks
+reader are advertised
+rich
+integrate
+population
+oct
+user memory bank parameter
+ad-hoc networks
+populating a smart
+functional and non-functional
+epcglobal ratified specification
+layer rfid epcglobal rfid
+krss are characterized
+annotations retrieval
+creation and management
+report
+reconstruct
+mcguinness
+insufficient to satisfy
+net
+stored in the cache
+generated by data
+frame for broadcast
+ceur
+web and grid services
+individuals in the environment
+suggested
+refers
+workshop on description
+analytical model
+8802-11
+upper bound
+analytical
+metadata
+electronic product
+bustein
+identification codes
+disaster
+reference
+command as in table
+international journal of internet
+data propagation and retrieval
+extend logic-based reasoning
+depends
+solicit packet
+data-oriented attributes
+globally unique item
+management each reader manages
+on-demand
+universe of marketing
+ubiquitous knowledge
+e..l 4..7 reserved advertisement
+hop traversal
+operations in our u-kb
+anti-collision
+storage are utterly
+automatically build
+propagated
+due to technical
+discovery
+preserve
+poliba.it
+terms
+extend
+solicit pdus
+framework to carry
+describing general concepts
+back
+principles of semantic
+retrieval framework
+packet is higher
+approach to carry
+smart environments
+trigger spurious leave-enter event
+topology
+semantic-based
+carrying object characteristics
+metadata stored
+u-kb the proposed framework
+extracts
+enable rfid object
+distributed application-layer protocol
+reasoning procedures
+application-layer protocol
+description-logic knowledge
+pdu to notify
+receives
+reader be familiar
+distinction
+requests
+sake
+sensing technologies
+enable rfid
+transmissions for data alignment
+reduce the collision
+work we aim
+exposing a high-level interface
+choose only semantically
+telecommunications
+packet by broadcasting
+lan medium access
+schramek
+rfid epcglobal
+source
+readers receiving a cache
+extract implicit
+extraction
+trigger
+information technology
+detail the data structures
+basic
+outline pdu
+ubiquitous knowledge bases
+characteristics from field
+last hop
+objects could talk
+life
+code in the case
+reasoning is carried out
+provider address
+drugs
+memory bank starting address
+coincides
+variable length field
+object categories can co-exist
+remaining time to live
+bank starting address
+barthel
+system evaluation
+type bit set
+process and forward
+max retries maximum
+tbox is contained
+commerce
+logic-based reasoning services
+update their own cache
+constant values
+heidelberg
+aim
+length field
+8802-11 first
+resource limitations
+lifecycle of industrial products
+reader assumes
+items
+error communication
+equipped with rfid
+knowledge dissemination
+address ouuid
+metropolitan
+node forwards
+single large entity
+ack rtt seconds
+w3c recommendation
+information storage are utterly
+tags whose descriptions
+proposed framework type bit
+pointer
+sessions
+mobile host
+number for the advertisement
+fixed knowledge bases
+perform
+make
+description sl flag
+compressed semantic
+semantic sensor networks
+compact
+inventory
+case of rfid
+entries are refreshed
+avoids
+filtered
+politecnico di bari
+query processing
+functions were identified
+tags attached to objects
+applications and the internet
+command with parameters
+semantic web and information
+sarma
+period default
+non-functional requirements
+96-bit
+manet is labeled
+dl-based language dig
+nodes forward the packet
+finally the epc
+tags in its range
+initial address number
+manet-based
+suitable
+scenario
+packet is silently discarded
+structure of a typical
+specifications for knowledge
+disseminated
+materials
+advertises contextual parameters referred
+effective only as long
+paradigm
+total traffic generated
+performed following a data
+notify individuals
+framework name default
+unnecessary data transfers
+protocol
+proposed
+maximum number of retransmissions
+data-oriented
+function of tag population
+office appliances
+address of the rfid
+involved in the data
+extracted
+epcglobal object naming
+previous
+lower network
+needed to adapt
+cache contents
+contents
+campaign
+approach is needed
+extract semantic annotations
+investments in infrastructure
+maximum hops
+assuming the reader
+tuples
+moving readers
+require a preliminary
+match
+matchmaking using metadata stored
+approaches based on description
+withouth expensive investments
+professional
+ijipt
+physical environment
+respective owners
+frame for broadcast transmission
+table for entries
+introduction in pervasive
+unique
+artificial
+advanced
+ouuid ; semantic
+scan
+system data structures
+workshop
+set of data-oriented attributes
+stored in rfid tags
+grid services
+expensive investments in infrastructure
+advertisements max adv jitter
+gateway exposing
+characteristics from field layer
+introduction in pervasive contexts
+unique identifiers
+u-kb layer
+collision or a transmission
+avoids unnecessary data
+resource locators
+pervasive rfid
+ontologys unique identifier
+sends
+discovery sessions
+agriculture and disaster
+proportionally
+proposal is explained
+early findings
+advertise
+pda
+concepts and properties
+resource-constrained mobile devices
+host can issue
+represent
+tracked
+communications
+reader node waits
+consecutive
+exchange between systems local
+fully aware
+track
+individuals
+ouuid from the tid
+vast majority
+code of the single
+partition-free network
+forwards the packet
+cyclic advertisement diffusion
+forwarding the packet
+repository
+marketing
+contextual
+knowledge by using inference
+reasoning tasks
+architectural
+attempts to cover
+cluster-heads w.r.t
+context-aware information
+rfid-based scenarios
+properties
+compare table
+end user memory
+proposed approach
+theoretically acceptable scalability
+live of a resource
+total hops
+description logics
+content pdu update
+providing cache table entries
+magazine
+central component
+ieee communications
+remote reasoning
+rfid tags and wireless
+aware parameters
+centralized control
+standard was enhanced
+multiple readers
+tags are preselected
+remote procedure
+frame the requester
+consecutive scan
+node sequence
+two
+contextual parameters referred
+rfid protocol data
+submit any ask-type request
+flags are reserved
+pairs
+infrastructure where rfid
+methods
+knowledge representation system specification
+two level
+long as large
+event pairs
+reserved for future
+inventoried
+waits
+un-tell
+rtime meaning
+support
+initial
+pointer length mask value
+individuals to neighboring hosts
+access to knowledge embedded
+languages originally conceived
+receives a demand
+rfid tag field layer
+overhead
+information is more recent
+selection
+creation
+prevents the well-known issue
+form
+cache content packet
+problem within the domain
+forming
+differences
+workshops
+embedded into semantic-enhanced epcglobal
+supported by a dissemination
+wireless
+failure
+generated by data dissemination
+fallback mechanism
+removed
+compressed object
+longer timeout
+arpa knowledge sharing effort
+motivation of our paper
+default rtime
+prevents
+form of an ontology
+attached
+maximum
+devices
+partition-free
+ibm websphere rfid
+implied by the information
+neighboring
+epc memory
+stages
+notify individuals to neighboring
+located at discovery
+extract semantic
+computing
+characteristics of pervasive computing
+abstract
+number resource description
+metropolitan area networks specific
+presented
+discovery phase max
+physically tied
+discovery in home
+base has two components
+internal
+physical
+specifically in pervasive computing
+carrying semantic-based
+devices such as rfid
+show the typical
+tags are then scanned
+ubiquitous knowledge base
+depend on object
+generally
+resource providers peri fig
+matchmaking using semantic
+duration of service discovery
+u-kb the proposed
+role
+tags for epcglobal gen-2
+typical sequence
+tid
+providing cache table
+granted to local visitors
+shows
+diameter current search diameter
+node
+resource descriptions
+developed an analytical model
+autonomic
+semantic-enhanced bluetooth
+discovery approach for pervasive
+formally
+reader and tag
+precision agriculture and disaster
+update
+route the pdu suggests
+query is implied
+means of this frame
+variable
+pre-filtered
+current search diameter
+out in a reduced
+disaster recovery
+transmissions for data
+annotation refers
+processing are needed
+base has two
+italy
+packets
+described and tracked
+rich description and discovery
+supported by a suitable
+reception
+out an advanced
+traveled hops field
+greatly improved
+neighbors
+lower network layers
+objects equipped
+managed
+duration of service
+skip
+reception hop
+emerging
+propagation among readers
+rfids
+paper focuses
+mere identification
+responsible for u-kb creation
+addresses of hosts owning
+traveled hops sequence number
+pdu fig
+well-known issue
+requested
+designed for wired
+depend
+simple
+starts an rfid
+environment
+traffic generated
+finally
+field depending
+marks
+detected epc
+analogous
+maintains the ordinary
+tinelli politecnico
+cache table
+receive any echo
+descriptions
+rfid tags without unique
+ubiquitous computing applications
+abox containing extensional
+demand and solicit
+diameter current
+details of the semantic-enhanced
+phase max retries
+protocol technology
+technologies help break barriers
+individuals through sequence numbers
+feasibility study using ibm
+immediately
+protocol data
+radio range and tags
+bank to compare
+labels
+item
+unique advertisement pdu
+traveled hops
+section
+ontology universally unique identifiers
+support of apulia
+added
+epc memory initial
+packets one hop
+findings
+send advertisement
+computing environment
+descriptions are required
+reader pda rfid
+two basic
+springer berlin
+cost
+populating
+rfids lacking unique
+patient
+node sequence number
+purchasers
+layer rfid epcglobal fig
+adds
+reader sets this value
+physical space
+endowed with rfid table
+successful
+lifecycle of industrial
+current
+proportionally with the number
+parameter
+parameter membank wordptr wordcount
+processing capability and short-range
+lightweight infrastructure already deployed
+update or individual removal
+hop wait timer
+default rtime milliseconds
+satisfy
+resource provider
+knowledge dissemination protocol
+concepts
+traffic generated by data
+source address ouuid
+sending the packet
+annotations from tags memories
+random error communication link
+access to local cache
+maintains the ordinary meaning
+descriptions directly from tags
+epc
+change
+wait
+u-kb creation and management
+system allows autonomic creation
+verifies if the received
+solicit pdu
+prevents propagation issues
+studied
+base where the factual
+lan
+ontology w.r.t
+procedures to resource-constrained
+framework architecture
+semanticbased
+extend logic-based reasoning services
+retrieval phase
+knowledge-based system
+ratio
+due to lack
+inference
+rodrigues
+inference procedures that determine
+rfid is exploited
+network layers we adopt
+mere identification codes
+soliciting
+high-level
+previously told explicitly
+apposite demand
+wireless networks
+kind
+analogous to the advertising
+flag
+manufacturing
+knowledge that is specific
+working
+aware of all individuals
+rfid tags populating
+peri
+neighbor ack rtt
+neighbor ack
+scenarios
+live
+rfid readers are adopted
+integration of semanticenhanced
+criteria
+web ontology
+ibm websphere
+size lifetime timestamp traveled
+connected through the internet
+sharing
+extended framework
+byte   source
+storage space
+acceptable
+equipped
+information about nearby
+access to local
+kl-one-like language
+architecture framework
+reported pdu
+entry of the cache
+memory bank parameter
+retrieval of suitable
+ibm
+smart semantic-based content
+mask value
+originally
+adv
+cambridge university press
+advanced resource discovery framework
+semantic metadata
+values
+sensitivity to topology variations
+epcglobal rfid into mobile
+grants each mobile node
+2000ms
+codes of semantic based
+address
+description and discovery layer
+maximum value for random
+length mask value
+figure
+reader listens
+extract ouuid
+attribute
+devised solutions
+node can send
+resource description epc fig
+zinkhan
+e.tinelli
+semantically annotated compressed
+performed
+international workshop
+owl web
+conversely
+semantic-enhanced rfid protocol
+service discovery
+resources are considered
+requirements
+present a general framework
+readers attempt
+tag field
+provisioning
+providers peri fig
+dissemination and query processing
+sketched in figure
+familiar
+maintains the ordinary structure
+needed to enable advanced
+extraction of goods
+local and metropolitan area
+generally attempts to cover
+individuals avoids unnecessary data
+demand pdu fig
+product
+spurious leave-enter
+nearby nodes
+max
+respective
+ad-hoc communication
+readers is performed
+applications
+2000ms 50ms
+advertised individuals
+data extracted
+reader sets
+websphere rfid middleware
+readers attempt to scan
+high-throughput network link
+data
+abox containing extensional knowledge
+hoc
+accurate descriptions
+paper is organized
+network layers
+scans
+communication between the tag
+reasoning services with application-specific
+traditional applications
+automatically
+requester host specifies
+stored as a compressed
+talk
+table entries matching
+number of heterogeneous
+forced
+tagged
+explicit assertions of terminological
+words
+solicit pdu fig
+sends back
+satisfying the solicit
+procedures can be executed
+unacceptable
+advertisement pdu to notify
+motivation
+level infrastructure where rfid
+quality control
+typical sequence and involved
+random error communication
+ttl
+future purposes
+membank wordptr
+unicast using apposite demand
+proposed approach are revised
+baader
+neighbors value
+total hops the pdu
+number of advertised resources
+acknowledge
+detailed and formal interface
+located at discovery diameter
+reader mobility
+architectural role
+central repositories where knowledge
+broadcasts
+providing cache
+4..7 reserved advertisement
+factual
+resource life
+conveying
+poliba.it abstract
+hoc networks
+u-kbs can actually populate
+multiple readers attempt
+explicit assertions
+advertisement packet transmissions polling
+advertisement packet it originally
+analogous to the previous
+format is depicted
+introduce
+file and filtered
+records
+transmissions
+information about individuals
+coincides with the previous
+resource
+pervasive technologies help break
+content of each field
+cache contents reception hop
+matched
+description tid memory
+carrying
+contextual attributes
+object characteristics
+providing the intensional
+discovery diameter current
+description user memory bank
+resource annotations
+manage any information
+seldom
+last
+individually
+domain
+translating remote methods
+table where it stores
+international symposium on applications
+pdus
+fields are outlined
+field layer
+protocol devised
+ontology identifier
+automatically removed
+present work
+ubiquitous
+waits a random
+wireless lan medium
+semantically annotated compressed object
+mobile node
+living
+shown
+recursively sends back
+bank parameter membank
+current search
+scenario with a partition-free
+closes the paper
+collisions
+due to architectural
+generating a solicit
+elements recur
+internet
+expensive investments
+receiving
+sensor
+16th international
+e..l 4..7 reserved
+application-layer protocol for dissemination
+table is fully updated
+requester has no resource
+state
+tag tag field layer
+node generating
+dig
+gen-2 uhf rfid
+recur in our definition
+mechanism grants each mobile
+cache table for entries
+byte
+spent into the adaptation
+rfid epcglobal fig
+reference to the entry
+context-aware parameter
+objects equipped with rfid
+layer provides access
+connectivity
+document fragment
+web and information systems
+retries maximum
+monitoring and sensing technologies
+silently
+tbox seldom
+endowed with rfid
+waited
+unnecessary
+repositories
+resource discovery is supported
+16th
+means of a unique
+submit
+directly
+number of requested
+semantic-enhanced rfid
+ons
+data alignment and prevents
+inventoried a tag
+epcglobal standard was enhanced
+size
+resource discovery
+integration of semanticenhanced epcglobal
+architecture we hypothesize
+function of tag
+gateway exposing a high-level
+dbms
+advanced solutions
+valuable insight
+information about the resources
+summarized
+semanticenhanced epcglobal
+structures
+hospital and at home
+local entry
+neighbor for ack
+number of resource handles
+aspects of the proposed
+reader radio range
+cope
+initial knowledge
+identifier and a range
+cost constraints
+values for context aware
+rtt timer
+calvanese
+ontology describing general
+requirements of mobile
+replies to the requester
+tags located
+flag to distinguish
+wide
+retrieval on rfid
+impractical
+object characteristics from field
+require
+future
+state where every host
+ontology describing general concepts
+fetch ontology file
+description update or individual
+wireless semantic sensor networks
+typical entry
+typical read rates
+entity
+diameter=4
+large computing resources
+ontologys
+large number
+discovery diameter hops
+uhf tags
+pervasive computing
+remote procedure call
+grants each mobile
+knowledge base
+record in the reader
+clung
+structures and protocol devised
+structures and protocol
+technologies to functional
+read commands
+medium access
+scheduled after a longer
+ontology languages originally conceived
+note
+equipment
+protocol between caches
+low-throughput
+host in the area
+performance
+properties and purposes
+locate suitable
+waiting for cache contents
+membank wordptr wordcount
+aim at assuring on-demand
+operations of a u-kb
+semantic-enhanced
+leveraging the lightweight infrastructure
+multiple
+normal
+host receives a demand
+information duplication
+hit
+technologies help break
+enable ubiquitous knowledge
+ontology languages originally
+resource discovery is based
+visitors
+satisfying
+problems can be mitigated
+bank starting
+reasoning engine
+inserted
+kl-one-like
+reduce power
+sequence and involved
+multiple u-kbs
+museums and archaeological
+node receives
+adopt
+steady
+sale
+order
+depending on the number
+ubiquitous computing contexts
+resource providers peri
+information systems
+duplication
+tid memory
+compatible services
+search diameter
+receive requests from nearby
+two read commands
+show
+host will wait
+international workshop on description
+sites
+evaluation of the proposed
+hop sequence number
+executed
+wide range
+remote entity
+distinguish different solicit requests
+access control
+ouuids
+food products
+operations require
+pdu fields are outlined
+pre-filtered on-demand provisioning
+office
+acquisition phase
+conceived for the semantic
+mask clear
+node located
+explicitly
+apulia
+neighbor for ack rtt
+target action membank
+large computing
+rfid protocol
+easier inventory
+semantic annotation
+sends the same advertisement
+pervasive technologies
+parameter target action
+two read
+agriculture and disaster recovery
+tag data dissemination
+distinction between tbox
+advertisement diameter
+lack of space
+starting address
+framework type
+significant theoretical aspects
+supported by a knowledge
+led to detailed
+ijswis
+ad-hoc
+interaction for advanced resource
+building on our previous
+support to clinicians
+matches message
+dissemination paradigm
+resource data
+remaining flags are reserved
+challenging technology
+vision
+address number
+host scans rfid
+memory initial
+physically
+approach for pervasive
+replies
+break barriers between patient
+rfid tag rfid tag
+echo of the advertisements
+considered
+significant theoretical
+presents an extended
+system infrastructure
+ieee
+ability
+tags and wireless sensors
+specifically in pervasive
+terminological knowledge and information
+set in case
+led to expensive
+review
+alignment and prevents propagation
+store advertisements
+data dissemination and query
+extensible framework
+introduce ubiquitous commerce
+refreshed
+command able to extract
+management each reader
+research effort
+generation uhf tags
+referred to the last
+infrastructure
+descriptions from field level
+rfid protocol data exchange
+plays an architectural
+data structures
+parameters as shown
+epcglobal rfid tags populating
+reader manages a cache
+websphere
+devised to build
+provided to purchasers
+advertised resources
+smart identification
+u-kb
+matchmaking using semantic metadata
+epc codes
+receive requests
+defines in detail
+compressed semantic-based
+enabling
+solicit pdu basically
+stored within the rfid
+knowledge of the problem
+international journal of web
+nearby
+last reference
+tests have been carried
+tag field layer
+knowledge bases
+tag data dissemination phase
+incorrect removal of u-kb
+overview
+advanced resource
+period
+compressed document fragment
+parameters referred
+coping with the characteristics
+manufacturing and quality
+wired networks
+broadcast transmission
+networks are hardly adaptable
+exploits the semantic-enhanced epcglobal
+extract the compressed semantic
+bank of the tag
+logic
+hops sequence
+unambiguously labels
+ordinary meaning
+berthon
+performing an extensive simulation
+resource advertisement
+node receives an advertisement
+classic
+issue an advertisement pdu
+layer
+mark
+original requester node receives
+requester can fetch ontology
+object properties
+studied specifically in pervasive
+reduced simulation environment
+exposing a high-level
+knowledge declaration is required
+enable
+parameter target action membank
+data dissemination paradigm
+advertisement pdu in figure
+96-bit epc
+cache containing the advertisements
+freshness of advertised
+reader radio
+commands
+object discovery in smart
+traversal
+length field depending
+granting a theoretically
+explicit knowledge declaration
+generating a solicit packet
+packet waits
+command able to detect
+advertisement period
+standard
+tags attached
+implicit knowledge
+solicit cames
+home and office
+remote clients
+received information
+memory bank parameter membank
+retransmissions
+theoretical
+reconstruct a local subset
+recall that mac
+epcglobal architecture framework
+updated and the host
+pointer length
+defined before object
+endowed
+centralized control and information
+symposium on applications
+knowledge availability
+tables provides ip addresses
+detect only semantic
+characterized in terms
+technology
+detailed and formal
+environments where a wide
+propagation
+number of retransmissions
+granted
+packet it originally transmitted
+objects disseminated
+food
+verifies
+tag rfid
+performance of gen2 air
+knowledge representation systems
+document
+smart identification frameworks
+contents reception hop
+bit set pdu
+status
+individual is characterized
+node generating a solicit
+pitt
+rfid
+tags of an ontology
+flickering2
+assuring on-demand
+related to the inter-reader
+packet increases
+wired
+sequence numbers
+advertisement
+provide any acknowledgment frame
+rfid reader pda rfid
+stems from our experience
+pervasive environments
+annotation from user memory
+framework
+proposed framework presents
+tbox and the abox
+identifiers
+production environments
+wordptr
+detected for an existing
+technical overview
+severe
+extensible
+components
+reader manages
+forward a solicit
+hospital
+object annotation and u-kb
+depending on a centralized
+network overhead
+order to reduce
+type bit set pdu
+forwarded using mac
+set pdu
+timestamp traveled hops sequence
+host is aware
+protocol in random error
+readers exploits the semantic-enhanced
+locate suitable descriptions
+granting a theoretically acceptable
+bari via re david
+functions they provide
+cache content pdu update
+ontology describing
+intensional
+local manet
+estimate whether the inclusion
+time-to-live
+unambiguously
+local cache tables
+object discovery
+functionality
+extensive
+phenomenon can trigger
+cache is updated
+scheduled
+resource requirements
+present in its cache
+aspects
+format of a solicit
+read
+field and readers exploits
+group of the arpa
+epcs
+early
+low storage space
+traffic
+ontology language
+management is greatly
+semantically annotated object
+distributed and decentralized
+end of the loop
+number of hops
+first value
+exploit
+discarded
+spurious leave-enter event
+grants
+table is fully
+code is not detected
+metropolitan area
+reduced
+ouuid value
+assertions
+specifies
+destination address
+service discovery sessions
+simulator
+enable advanced solutions
+managed reference ouuid
+moving
+network sends
+small amount
+effort is being spent
+service
+receiving a cache
+field and discovery
+duration
+resource retrieval
+matching
+build a u-kb
+users
+nodes forward
+typical read
+percentage of successful resource
+impractical in such scenarios
+propagation issues
+memories
+interconnect tags
+memory bank starting
+approach for pervasive environments
+neighbor ack rtt timer
+information exchange
+exploit dl-based ontology
+tags in range
+acceptable scalability
+provider
+sake of conciseness
+semantically
+withouth
+granted to local
+preliminary retrieval phase
+processing the request
+reads the semantically
+power
+workshop on description logics
+seconds
+receives an advertisement
+equivalent
+ran across a shorter
+assertions of terminological knowledge
+centralized repository
+layers in the proposed
+knowledge representation we exploit
+duplication within the environment
+aware of the network
+plays a central role
+support storage and retrieval
+rfid into mobile
+exploits the semantic-enhanced
+discovery framework
+semanticbased bluetooth-rfid interaction
+ack
+field of the advertisement
+generated
+semantic-enhanced epcglobal
+iso 8802-11
+physically tied to micro
+greatly
+neighbor
+codes of semantic
+tinelli
+resources inventoried
+conforming to the epcglobal
+preliminary assessment of resource
+mac
+web ontology language
+inclusion
+communication
+benefit from easier
+components and operations
+descriptions in its cache
+sharing effort
+epcglobal rfid technology
+pda rfid tag tag
+determine
+host advertises individuals
+entries compatible
+factual knowledge
+valuable
+e..l
+theoretically
+smart environment
+addresses of hosts
+performing
+jitter maximum
+logics
+resource description epc
+forwarded
+fields
+area
+fixed central
+assumed
+echo within polling
+protocol keeps track
+discovery framework is supported
+inventoried by a reader
+hops sequence number
+due to rfid reader
+pda rfid
+low
+differences and performance
+series
+mobile rfid readers
+selection allows to choose
+advanced matchmaking using semantic
+tag will be stored
+reader node
+conciseness
+decision support
+readers sequence number
+semantic annotation from user
+rfids lacking
+ontology the resource
+epc codes of semantic
+detect
+data dissemination
+technologies
+uni
+allowing to exactly locate
+longer
+environment by means
+infrastructure are granted
+order to reduce power
+unicast using apposite
+default
+gen-2 uhf
+individuals avoids unnecessary
+advertisement every default
+ontologies
+table whenever the node
+smart post-sale services
+host detects
+integrating
+scattered within a smart
+epc code
+field layer rfid epcglobal
+frameworks for ubiquitous computing
+expect
+detailed
+engine
+area networks specific requirements
+carry out an advanced
+range of objects
+depicted in figure
+cover the request
+scenarios with both fixed
+acknowledge support
+resource discovery approach
+deem
+populating a smart environment
+avoids unnecessary data transfers
+file
+mobile and ubiquitous
+ouuid
+embedded into a physical
+item identifier
+link
+pervasive contexts intelligence
+incorrect
+contained within the solicit
+freshness of advertised individuals
+request by using resource
+host scans
+storage
+field
+requester elicits information
+implied
+application to the enterprise
+content frame arrives
+rtt seconds
+approach we preserve
+ontology providing the intensional
+read its ouuid
+performance issues
+max req
+listens
+unicast toward the node
+gen2 air
+moller
+framework architecture we hypothesize
+protocol for m-commerce applications
+contextual parameters
+schoch
+requester
+soliciting mechanism
+deployed in the field
+building
+due to collisions
+data dissemination phase
+remote
+node forwards the packet
+assuming that a collision
+shorter than the previously
+set max adv diameter=4
+mask
+ttl of corresponding cache
+random time waited
+tracking
+prevents propagation
+procedure
+u-kb if not renewed
+semantic-based descriptions from field
+f.scioscia
+field layer to discovery
+original
+functional approach to knowledge
+semantic
+table entries matching parameters
+mask clear otherwise bank
+stems
+functional and non-functional requirements
+ontology provisioning
+improved
+received
+higher
+assessment
+low storage
+research
+based on three stages
+reasoning
+number
+introduced pdu
+carrying object
+require a preliminary retrieval
+resource matchmaking
+extraction of resource annotations
+removal
+brachman
+tied to micro devices
+automated
+code of a specific
+wordcount
+depending
+solicit
+application-layer
+nodes
+integration
+communications magazine
+problem domain
+case
+paradigm has led
+removing
+stored data
+dissemination phase odically
+reasoning services
+logic-based reasoning
+needed to enable
+values for context
+cheung
+basic elements recur
+pdu is sketched
+automated inference procedures
+route the pdu
+tag field layer rfid
+autonomic creation
+large
+due to power
+logic-based
+discovery and reasoning tasks
+hogan
+tags parameter target action
+small
+study
+scanned individually and ttl
+forwarding advertisement packets
+node generally attempts
+neighborhood
+dl-based language
+devices deployed
+resource parameters
+lack
+translating
+wireless semantic
+advertisement packets one hop
+network infrastructure
+unique and fixed knowledge
+description-logic knowledge representation
+phase odically send advertisement
+advanced matchmaking
+frameworks
+linear function of tag
+reference ontology
+ontology support in ubiquitous
+referred to tags
+knowledge sharing effort
+ibm websphere rfid middleware
+description logic interface
+telecommunications and information
+lifetime timestamp traveled hops
+acknowledgments
+layers
+full
+tags
+multi-hop communication infrastructure
+un-told
+component
+unique advertisement
+knowledge discovery in home
+experience in using knowledge
+semantic-based sensory data dissemination
+lightweight infrastructure
+compressed
+resource description
+directions
+omit details
+u-kb individuals
+provide any acknowledgment
+readers receiving
+ceur workshop
+environment and share
+ontology languages
+suitable dissemination
+stored in rfid
+bank to compare table
+experience
+address read
+scenarios where retrieval
+amount
+base
+advertising
+rfid event flickering2
+action
+on-demand knowledge
+compatible with the request
+order to extract
+disciascio
+unambiguously labels the pdu
+maximum travel
+inventoried a tag series
+on-demand retrieval
+revised ; in section
+ordinary structure and functionality
+packets one hop wait
+state transfer
+pdu payload
+appliances
+content packet
+sensitivity to topology
+estimate
+updated and the maximum
+populate the same environment
+compressed semantic-based annotation
+destination
+starts an rfid scan
+update the cache
+tag rfid tag
+told to the system
+characteristics
+u-kb layer provides access
+silently discarded
+protocol in random
+definition
+proceedings of the 16th
+semanticbased bluetooth-rfid
+individual is a semantically
+unnecessary data
+parallel research effort
+advertisement pdu type
+adapt
+ontology support
+dissemination protocol
+basically
+foundations
+mechanism for ontology support
+mark ontologies
+descriptions from field
+management system
+web sevices of rpc
+recall
+dl03
+physical environment by means
+action membank
+4..7 reserved
+large number of heterogeneous
+discovery in smart environments
+compare
+percentage of successful
+challenging
+layers we adopt
+description of a resource
+share
+proposed framework type
+lan medium access control
+individually and ttl
+collision
+satisfy the request
+numbers
+starting address read
+led to expensive information
+semantic-based content fruition
+semantic enabled
+interconnect
+node forwarding the packet
+sensor net
+entry could be added
+information
+goods parameters
+swartout
+memory of forwarding nodes
+advertisement pdu
+framework to carry out
+reader this field
+ratified
+transfers
+central component for reasoning
+crowther
+semantic sensor
+status flag to distinguish
+generation uhf
+acknowledgment frame
+experience has shown
+traveled hops sequence
+target action
+transmission error
+manet-based computing environment
+extensional knowledge
+pdu transports
+identification frameworks for ubiquitous
+max adv diameter=4
+scalability
+consequence
+tag mobility
+hit ratio
+descriptions directly
+m-commerce
+epc among those listed
+current krss are characterized
+phenomenon can trigger spurious
+lifecycle
+pdu has to skip
+specific reference
+epcglobal gen-2 uhf
+formally described and tracked
+requester node after sending
+jitter
+rfid-based u-kb the proposed
+address number of bits
+starting a resource
+lifetime timestamp traveled
+central repositories
+population size
+layer is related
+reference ontology the resource
+intelligence is embedded
+outline pdu fields
+retrieval
+discovery of knowledge embedded
+updating stored data
+tag data
+assessment of resource
+electronic product code
+developed
+travel diameter
+entries
+proposed framework
+computing applications
+paper
+epc code not present
+preliminary
+set max
+resource discovery in pervasive
+structures and low-level
+framework comprises the specification
+probability
+read command to extract
+quality control can exploit
+annotations were placed simultaneously
+cache and forward
+providing the intensional knowledge
+ouuid size lifetime timestamp
+systems
+access information
+uhf
+representational state transfer
+motivated
+information storage
+paper presents an extended
+timestamp
+reader pda rfid reader
+metadata stored in rfids
+discovery and reasoning
+representation system
+tag rfid tag field
+individual to the ontology
+academy of marketing science
+mechanism grants
+reference ouuid
+adds cache
+labeled by means
+short-range
+generated traffic
+patient management
+sensory data
+products
+coping
+fully
+level
+logic interface
+storage and retrieval
+inter-reader
+filtered individuals
+capability
+micro
+node forwarding
+jitter maximum value
+manet-based computing
+originally transmitted
+end user memory bank
+application areas of rfid
+characterized
+referred
+exposing system
+semantic-based discovery
+dig ; a set
+generation
+pervasive computing scenarios
+reduce
+numeric
+two components
+international symposium
+expensive information
+benefit
+sketched
+central role
+event
+introduce ubiquitous
+assertions of terminological
+handles
+table is updated
+semantically compatible
+target action membank pointer
+ask-type request
+owning all the individuals
+polling
+control and information storage
+table entries are refreshed
+extract contextual attributes
+forward the packet
+bits bit mask
+semantic-based sensory
+scans rfid tags
+pervasive rfid environments
+owners
+low-level operations
+node must firstly
+transponders conforming
+e.g
+amount of useful information
+extend logic-based
+wordptr wordcount value
+mobile devices
+dependency on context
+fetch ontology
+reference domain
+waits for an acknowledgment
+framework supported
+specifications for knowledge representation
+network simulator
+characterized by user
+forwards
+upper
+object description stored
+meet the specified criteria
+mobile ad-hoc
+hosts store
+traveled
+well-known
+systems allow to un-tell
+resnick
+notify
+decision support to clinicians
+maximum advertisement diameter
+inter-reader ad-hoc communication
+data structures and protocol
+causing
+set of data-oriented
+utterly impractical
+knowledge and information
+tags in a manet-based
+preserve the distinction
+centralized repository and coordination
+semantic-enhanced epcglobal rfid tags
+introduction
+resource handles the pdu
+discovery frameworks for objects
+saint
+wordcount value
+semantic enabled tags
+node verifies
+store
+semantic-based annotation
+bluetooth-rfid interaction for advanced
+comprises the specification
+recursively
+anti-collision performance
+cache fig
+size lifetime timestamp
+requester node
+transponder
+ansi std
+internet and protocol
+show the typical sequence
+semantic-based sensory data
+enabled tags
+diffusion
+meaning time interval
+96-bit epc code
+readers equipped with ieee
+cyclic
+pervasive contexts
+protocol does not provide
+general concepts
+explained and motivated
+performance of gen2
+nodes in its neighborhood
+contrary
+system allows autonomic
+metadata stored in rfid
+representation we exploit dl-based
+creation and maintenance
+timer set
+high-throughput network
+outline the proposed
+description-logic knowledge representation system
+ontology file and filtered
+requester elicits
+enable rfid object discovery
+lan medium
+elicits information
+semantic networks
+rfid tag
+obtain a confirmation
+advertisement frame
+original requester
+conforming
+majority
+semantic based tags
+build
+scanned individually
+deployed for internal
+approach to knowledge
+individuals to neighboring
+populate
+technologies for tracking
+reserved advertisement
+waiting for ack
+evaluation
+readers are adopted
+oriented architecture
+i-70125 bari
+computing resources
+logic handbook
+rfid table
+unambiguously and to associate
+model
+individuals are physically
+marketing science
+requirements part
+apposite
+t.dinoia
+clear
+field depends
+advertised semantic annotations
+file and filtered individuals
+traditional
+part
+tbox and individuals
+wait timer set
+cache tuples
+semantically compatible services
+individuals through sequence
+scenarios all application areas
+max retries
+advertises
+number of the node
+phenomenon
+dig description logic
+read command
+scattered
+rtt
+products equipped
+stores
+providers peri
+section we present
+infrastructure already deployed
+max req diameter
+cache memory of forwarding
+remote clients connected
+rfid-based
+network infrastructure are granted
+asset management
+resource in the manet
+distributed
+transmitting
+demand e..l 4..7
+tag series
+traub
+membank pointer length
+proximity
+pdu to notify individuals
+std
+timeout in order
+tbox
+contained in an ontology
+break barriers
+parameter membank wordptr
+spurious
+two level infrastructure
+environments the tbox seldom
+simulation campaign in ns-2
+interaction for advanced
+labels the pdu
+provider and cache holder
+reply
+ns-2
+number resource description epc
+rfid transponder
+data dissemination phase odically
+designed for wired networks
+end
+agricultural and food products
+code not present
+rfid object discovery
+bytes
+knowledge-based
+remove
+heterogeneous micro devices
+matchmaking
+ontology universally
+activity
+full protocol
+u-kbs kb components
+smart semantic-based content fruition
+identified for kb management
+communication range
+set
+intelligence
+sevices of rpc
+technical reasons
+allowing an on-demand
+remove information
+focuses
+adaptation of reasoning
+food products equipped
+bari
+led
+pdu update
+semantic-enhanced epcglobal rfid
+i-70125
+project
+annotated description is missing
+developed for a preliminary
+designed
+removal of u-kb
+type bit
+globally unique
+exchange
+wireless connectivity
+dissemination and discovery
+cyclic advertisement
+types exploited
+executed in order
+previously told
+choose
+pdu when starting
+case of description update
+hypothesize each resource
+rfid readers
+initially
+rich description
+suitable dissemination protocol
+default rtime meaning
+reader pda rfid tag
+knowledge representation system
+stores characteristics
+max adv jitter
+foundations of a functional
+individuals from their respective
+abox is scattered
+study using ibm websphere
+local and metropolitan
+special issue
+environment and readers
+epcglobal object
+remaining of the paper
+pdu
+framework type bit set
+decentralized knowledge base
+16th international workshop
+operations are transparent
+connection
+acquisition
+context
+address ouuid size lifetime
+advertised individuals through sequence
+descriptions from their respective
+bluetooth-rfid interaction
+patel-schneider
+load
+content fruition
+pdu fields
+regulates
+point
+reasons
+case study rfid-based u-kb
+requester ip address
+descriptions stored
+application areas
+destination node
+adaptation
+epcglobal rfid protocol data
+resources and a stable
+allowing an on-demand retrieval
+expensive
+pervasive computing environments
+support of apulia project
+equipped with rfid tags
+forwarding nodes
+remaining life
+tags populating
+iso 8802-11 first edn
+collision probability
+req diameter
+local visitors
+data alignment
+weinstein
+maintenance
+hops field
+advanced resource discovery
+generating
+layer rfid epcglobal
+annotation from user
+sending
+semantically annotated descriptions
+stable network infrastructure
+adaptable
+rfid reader
+u-kb is a distributed
+retransmit the advertisement
+originally conceived
+demand
+resource providers
+dig description logic interface
+destination sequence
+m.ruta
+directly from tags
+data propagation among readers
+unicast
+hosts store advertisements
+networks specific requirements
+raw
+epcglobal standard
+functionality tests
+solicit requests
+receive
+knowledge-based systems designed
+error
+abox
+challenges and directions
+involved actors
+loop
+based on centralized
+smart semantic-based
+advertisements are forwarded
+unacceptable network overhead
+reads
+stored in rfids
+triple
+bits bit mask clear
+semantic annotations retrieval
+control and information
+approaches based
+globally unique item identifier
+knowledge declaration
+attributes and a compressed
+shorter
+ruta
+action membank pointer
+data alignment protocol
+epcglobal rfid protocol
+resources
+timestamp traveled
+description logic handbook
+micro devices deployed
+attached to objects
+power and cost constraints
+u-kbs
+build up a multi-hop
+adopt ontology universally unique
+timestamp traveled hops
+annotated compressed
+proximity via rfid
+user
+initial selection
+stack
+objects are endowed
+recent
+hypothesize
+mobile rfid
+annotated descriptions
+proposed data
+advertised semantic
+advertises contextual
+tag tag
+spent
+precision agriculture
+semantically rich description
+flags
+cache content frame
+node needs to process
+inventory management
+odically
+ack after a solicit
+responsible
+exploits
+discovery frameworks
+frameworks for ubiquitous
+case study rfid-based
+deployment
+set max adv
+press
+waits for the echo
+ontology universally unique
+handles the pdu
+hops from the requester
+ontology file
+nardi
+alignment
+knowledge acquisition phase
+tables
+storage are utterly impractical
+internet connection
+readers
+extraction of resource
+data exchange
+production environments the tbox
+advertisements
+international
+description and discovery
+representational
+carrying semantic-based descriptions
+existing local entry
+components of a u-kb
+remaining
+attributes
+detects a new epc
+lacking
+format
+path than the existing
+address of the resource
+mattern
+rfid-based u-kb
+micro devices
+structure of a record
+bit
+provider and cache
+scalability to the system
+formal
+tracking of agricultural
+sciascio
+retrieval of suitable descriptions
+anti-collision performance of gen2
+reasoning over a knowledge
+reception hop traversal
+node sending
+epcglobal rfid tag rfid
+update or individual
+advertisement packets
+environments m ruta
+ouuid size lifetime
+remote methods
+fresh sequence number
+membank pointer
+embedded within rfid tags
+rfid reader pda
+removal of u-kb individuals
+advertisement period default
+trends
+data structures and low-level
+represent kb individuals
+describing
+associate each individual
+attribute it is interested
+tools
+decision
+cache contents reception
+suitable descriptions directly
+reader cache fig
+semantic-based content
+avoids unnecessary
+central
+u-kb creation
+hosts
+event flickering2
+system to enable
+request to a local
+dissemination and query
+processing
+reported here due
+unique item
+tagged objects represent
+goods
+dl-based
+operations require a preliminary
+epcglobal gen-2
+managed reference
+range
+hops already traversed
+information satisfying the solicit
+exploited at the field
+value coincides
+i.e
+adopt ontology
+management is greatly improved
+based tags
+error has occurred
+odically send advertisement packets
+discovery diameter
+broadcasting
+services
+number of advertised
+meaning of introduced
+unicast the corresponding semantically
+pda rfid reader pda
+sequence number
+retransmit
+general framework
+level infrastructure
+depend on object properties
+springer
+procedure call
+depicted
+long
+translating remote
+aim at assuring
+handbook
+wireless lan
+waiting for cache
+forward
+layers we adopt ieee
+arpa knowledge sharing
+advertisements max
+hop wait
+properties of the reference
+description is missing
+integrate and extend
+memory
+politecnico
+entries matching
+rfid event
+severe resource limitations
+deployed
+representational state
+zhu
+wireless sensors
+receiving a cache content
+middleware
+representation we exploit
+general concepts and properties
+mobile
+heterogeneous
+retransmissions before a reader
+manets
+environments the tbox
+constant
+prevents the well-known
+field and discovery layers
+defined
+characteristics of both tags
+resource records
+recommendation
+command
+globally
+gen2 air protocol
+single
+exploit dl-based
+topology variations
+user memory bank starting
+information exchange between systems
+application-specific and context-aware
+codes
+hops number
+compressed document
+tid memory bank
+domain ; an abox
+source address ouuid size
+clients connected
+low-throughput wireless
+devices in its communication
+system activity
+actors
+scan of semantic
+retract
+pdu type
+means of a select
+elements
+tags dipped
+typical scenario
+provided
+sensory data dissemination
+assessment of resource requirements
+problems
+acknowledgment frame for broadcast
+occurred
+meaning
+resources are considered insufficient
+allowing
+utterly
+basic functions
+semantic-enhanced bluetooth discovery protocol
+communication infrastructure
+structure
+dl-based ontology
+fallback mechanism for ontology
+receives a demand pdu
+support in ubiquitous computing
+required
+integrating knowledge
+ttl to expire
+build the tbox
+requester node receives
+back a cache content
+local storage
+requester host
+readers able to receive
+fresh
+garrett
+individual in a u-kb
+data propagation
+code
+adhere
+ubiquitous knowledge-based system
+matching parameters
+edn
+local or remote reasoning
+contexts intelligence
+endowed with very low
+interface specifications for knowledge
+solutions for the integration
+communication link
+query
+information about nearby nodes
+motivation for this paper
+issues
+interconnect tags dipped
+cache holder
+reasoning is carried
+detects
+file containing the dig
+effort
+description
+send
+languages
+capability and short-range
+representation system specification
+mistugi
+stable
+details
+fixed and moving readers
+adv jitter maximum
+reader and tag mobility
+confirmation
+clear otherwise bank
+responsible for u-kb
+structures and low-level operations
+transponders
+special issue on rfid
+grid
+adv jitter maximum value
+definition of an individual
+size of this field
+protocol data exchange
+withouth expensive
+specific
+categories
+present motivation
+enable ubiquitous knowledge bases
+solutions for e.g
+mechanism is analogous
+discovery is based
+inter-reader ad-hoc
+transmission
+phase odically send
+memories of the nodes
+detect only semantic enabled
+description tid
+discovery of knowledge
+extracts information
+ouuid and contextual attributes
+archaeological sites
+uhf rfid
+decentralized knowledge
+special
+principles of semantic networks
+query processing are needed
+limitations
+cambridge university
+clients
+service oriented architecture
+emerging yet challenging
+developed an analytical
+application-specific
+expire before removing
+located
+discovery phase max retries
+ouuid and contextual
+hops sequence number resource
+monitoring and sensing
+identifier of the original
+retries maximum number
+interested
+node processing
+recur
+plays
+systems designed
+discovery protocol
+length mask
+gen2
+labeled
+networks
+access
+waiting
+repository and coordination
+rfid object
+discovery approach
+majority of applications
+protocol to enable
+ack rtt timer
+compressed object description stored
+shorter path
+exploiting two read commands
+matches
+leveraging
+agricultural and food
+reported pdu fields
+objects
+wide range of objects
+web
+out an advanced matchmaking
+levesque
+implicit
+tags in their radio
+rtime
+preliminary assessment
+field and readers
+objects represent kb individuals
+apposite demand pdus
+university press
+technical
+involved
+host scans rfid tags
+single point
+readers equipped
+romer
+suggests
+expire
+survey
+assuring on-demand knowledge availability
+sale depots
+rfid middleware
+stored in rfids lacking
+decentralized
+objects represent
+receive the transmitted
+context-aware
+description-logic
+manage
+protocol stack
+parameters referred to tags
+non-functional requirements of mobile
+frame
+redi
+resource data dissemination
+gateway
+bound
+size lifetime
+adopt ieee
+acknowledge support of apulia
+consumption
+read rates
+host waits a random
+simple mechanism
+assuring
+individual removal
+expanding
+enhanced by a semantically
+length
+number of the destination
+means of the triple
+specification of components
+milliseconds
+longer timeout in order
+generally attempts
+variable length field depending
+area networks
+support storage
+demand e..l 4..7 reserved
+node after sending
+retrieval of advertised
+specific requirements
+u-kb system
+suitable values for context
+annotated object description
+limited time-to-live
+discovery in smart
+improved in those scenarios
+retries
+defines
+tags and wireless
+vision a u-kb
+resource-constrained mobile
+pointer length mask
+error communication link
+rfid protocol proposed
+sets this value
+industrial products
+retrieved in unicast
+tag
+present work we aim
+wireless links
+universe
+meet
+fetch
+fixed central component
+control
+consecutive advertisement packet transmissions
+resource-constrained
+reserved
+links
+providers
+process
+advanced solutions for e.g
+requester can fetch
+renewed
+semantic web
+application
+recursively sends
+adds cache entries
+hops for the advertisement
+number of heterogeneous micro
+naming service
+max adv jitter maximum
+discovery layer is related
+international journal on semantic
+object is clung
+semantic-enhanced epcglobal rfid protocol
+wireless semantic sensor
+leave-enter
+node generally
+overview and its application
+description epc
+adopted as cluster-heads w.r.t
+finally the epc code
+rfid transponder the object
+solicit frame
+framework has been studied
+interval between two
+m-commerce applications
+medium
+domain can be inserted
+manages a cache
+pdu an entry
+paper ; in section
+extracted from the rfid
+specifications
+object annotation
+space
+power and cost
+tied
+february 10th
+pdu types
+manufacturing and quality control
+pdu fields are analogous
+insufficient
+discovery layers
+monitoring
+distributed application-layer
+extensional
+interaction
+last resource
+introduced
+enable ubiquitous
+exploited in the proposed
+specific ontology
+watson
+post-sale services
+e..l 4..7
+healthcare
+presents a two
+fallback
+description user
+causing incorrect
+management and can introduce
+rtime meaning time interval
+attempt to scan
+enhanced to support storage
+access to knowledge
+owl
+nearby nodes forward
+insight
+reader range
+cambridge
+choose only semantically compatible
+pdu fields is summarized
+maintenance of a virtual
+kbs
+parameters
+characteristics of pervasive
+ontologies unambiguously
+hypothesize that ontologies
+high-level interface
+advertisement can be scheduled
+memory of forwarding
+variable length
+listens to the echo
+requests from nearby nodes
+annotated compressed object
+w.r.t
+motivation motivation
+compressed semantic annotation
+universally unique
+knowledge representation
+readers sequence
+interactions with epcglobal rfid
+ieee communications magazine
+ubiquitous commerce
+abox by explicit assertions
+dl-based ontology languages
+cache table is fully
+pdu basically
+cover
+adhere to the classic
+annotated compressed object description
+wait timer
+rfid scan
+disseminated within the environment
+lifetime timestamp
+transparent
+advertisement could lead
+set of attributes
+cache content frame arrives
+epcglobal gen-2 uhf rfid
+ontologys unique
+first edn
+epcglobal architecture
+freshness
+specific to the individuals
+internal inventory
+lifetime
+ubiquitous computing
+requested resource descriptions
+fruition can be granted
+transmitted
+tags without unique
+information only on micro
+sequence and involved actors
+pda rfid tag
+proceedings of the international
+identifier
+receive the transmitted data
+subset
+demand pdu
+procedures to resource-constrained mobile
+issue on rfid
+assuring on-demand knowledge
+semantically annotated object description
+categories can co-exist
+diffusion allows to cope
+related
+bluetooth
+number of bits bit
+approach to knowledge representation
+shows the structure
+packet is silently
+adv jitter
+based
+acknowledgment from each neighbor
+agriculture
+ability to remove
+out
+unique and fixed
+acknowledgment
+number of tags
+req
+mobile and ubiquitous computing
+forwarding advertisement
+sees in its proximity
+traversed
+annotation and u-kb deployment
+exploit accurate descriptions
+reduce power consumption
+operations on the u-kb
+compressed object description
+interactions
+retrieved
+maintains
+semanticenhanced
+stable network
+epc identifier
+approaches
+last hop sequence number
+fresh sequence
+pdu suggests is shorter
+extract the compressed
+retrieval of advertised semantic
+hop wait timer set
+scattered among objects
+resources handles
+updating
+route
+cache content pdu
+approach is effective
+david
+issue of rfid event
+evaluation of the approach
+phase odically
+section we present motivation
+barriers
+distinguish
+enable advanced
+adopted as cluster-heads
+exploiting two read
+terms of what functions
+initial address
+receiving a solicit
+tools and technologies
+severe resource
+product code
+transports
+echo
+marks the specific reference
+borgida
+compact equivalent of owl-dl1
+annotated description
+advertisement or a cache
+owl web ontology language
+quality
+discovery is supported
+information technology telecommunications
+adv diameter=4
+management
+information satisfying
+asset management is greatly
+successful resource retrieval
+shows the format
+system
+adopted
+annotation
+nodes fully
+require in unicast
+reader cache
+sensitivity
+considered insufficient to satisfy
+pervasive
+node in the network
+udp
+maintains a cache
+areas of rfid
+report here our early
+academy
+networks specific
+frame the requester elicits
+send a solicit pdu
+receiving a solicit pdu
+architecture of the proposed
+architecture
+purposes
+lacking unique and fixed
+shown in table
+outline
+case of rfid tags
+abox by explicit
+rfid epcglobal rfid
+number of resources handles
+pre-filtered on-demand
+wait for the ttl
+describing general
+knowledge discovery
+patients
+individual
+application scenarios all application
+providing
+description logic
+initial knowledge acquisition
+expect valuable insight
+explicit
+ordinary structure
+numeric identifier
+membank pointer length mask
+proposed data propagation
+8802-11 first edn
+computing scenarios
+services can be provided
+host
+meaning of the query
+component for reasoning
+node the solicit
+spurious leave-enter event pairs
+directly on tags
+system specification
+packet transmissions polling
+tags populating a smart
+based on description
+home and office appliances
+advertisements max adv
+set by a requester
+mechanism
+command to extract
+exposing system data
+echo of the advertisement
+traditional krss
+table for entries compatible
+fields are the resource
+pdu suggests
+target
+rfid tag field
+fixed knowledge
+plays a central
+packet it originally
+exploit dl-based ontology languages
+last node
+back a cache
+terminological knowledge
+connected
+adopt ontology universally
+representation
+device
+epcglobal fig
+class
+two consecutive advertisement packet
+demand and solicit pdus
+last fields
+description epc fig
+object naming service
+locators
+unacceptable network
+request
+preliminary retrieval
+proceedings
+sensing technologies beyond rfid
+high-throughput
+virtual knowledge base
+study rfid-based
+code in each resource
+typical
+action membank pointer length
+remaining flags
+rtime milliseconds
+existing local
+field level
+sending a solicit packet
+individuals that meet
+products equipped with rfid
+interface specifications
+centralized
+standard for class
+submit any ask-type
+systems local and metropolitan
+system to enable rfid
+semantic-based discovery frameworks
+knowledge
+implemented by most krss
+hops
+diameter hops
+scenarios all application
+challenges
+presents an extended framework
+bases
+trigger spurious
+noia
+rfid scan of semantic
+local
+single large
+approach are revised
+presented an approach
+means
+reads the semantically annotated
+conclusion building
+rfid tags
+parallel research
+technologies beyond rfid
+parameter target
+specific resource
+resource discovery framework
+requests from nearby
+identifier for the specific
+enabling to provide
+procedures
+memory bank
+cache and recursively sends
+areas
+liu
+processes
+kind of transmission
+embedded
+approach
+issues in the case
+introduced pdu fields
+non-functional
+transparent to users
+fixed
+caches
+depots benefit from easier
+mobile ad-hoc networks
+cache entry
+host specifies the ontology
+added to the cache
+web effort
+packet
+enhanced
+agricultural
+international journal
+recently
+address of the reader
+cache table entries matching
+operations a dl knowledge
+replies with a cache
+distinguish the kind
+closes
+exploited
+forwarded using mac broadcasts
+reader involved
+missing
+semantic-based descriptions
+dls
+leave-enter event pairs
+flag set
+previous work
+identification
+cope with tag
+sevices
+forward a solicit packet
+tagged objects
+luo
+hops the pdu
+ontology
+advertises contextual parameters
+diameter current search
+number of resources
+addresses
+parameter membank
+individuals it sees
+power consumption
+air protocol
+computing environments
+key
+group
+technical report
+maximum number of hops
+exposing system data structures
+cache
+considered insufficient
+tags parameter
+semantic-enhanced rfid protocol proposed
+due to rfid
+reader this field value
+respective providers
+bluetooth discovery
+cache table is updated
+data dissemination protocol
+rfid into mobile ad-hoc
+environments
+outline the proposed data
+interface
+rpc
+two consecutive advertisement
+manage any information satisfying
+table
+architectural differences and performance
+user memory
+conveying a small amount
+local or remote
+ubiquitous knowledge-based
+entry with a fresh
+addition
+advertisement travel
+tid memory bank parameter
+epcglobal
+co-exist
+command to extract contextual
+detected
+address of the last
+demand e..l
+proposal
+reconstruct a local
+contents reception hop traversal
+owl web ontology
+enabled tags parameter
+host waits
+web and grid
+advertisement packet
+due to technical reasons
+contexts intelligence is embedded
+local cache
+semantic-enhanced bluetooth discovery
+academy of marketing
+dig description
+general
+present
+distinguish different solicit
+meaning of introduced pdu
+ack rtt timer set
+contexts
+journal on semantic web
+tag population
+value
+specifically
+campaign in ns-2
+actors of the data
+scanned
+virtual knowledge
+address of the destination
+fixed and moving
+piscitelli
+adaptation of reasoning procedures
+share the system
+outlined
+level to the discovery
+smart post-sale
+specific reference ontology
+lightweight
+initial knowledge acquisition phase
+traffic is a linear
+last hop sequence
+metropolitan area networks
+simple mechanism grants
+supported
+field is reported
+change during normal
+flag set in case
+knowledge acquisition
+linear function
+destination sequence number
+leave-enter event
+semantic enabled tags parameter
+monitoring but also decision
+tags in its radio
+discovery protocol for m-commerce
+resource handles
+model has been developed
+http
+control can exploit accurate
+elicits
+conceived
+neighboring hosts
+means of a data
+bank starting address read
+phy
+ontology providing
+investments
+control can exploit
+node waits
+annotation and u-kb
+local subset
+proposed framework architecture
+advertisement every default rtime
+update the cache memory
+addition to the epc
+hosts in the local
+formally described
+study using ibm
+studied specifically
+mitigated
+propagation and retrieval
+mac broadcasts
+sets
+firstly
+starting a matchmaking
+sensing
+fully updated
+discovery phase
+pdu in figure
+current krss
+managed resources
+accurate
+obtain
+select
+stored
+motivated by means
+virtual
+network content
+scattered among objects disseminated
+cames
+present a general
+rest
+coordination
+low-level
+classic tell model
+solicit packet waits
+protocol proposed
+omit
+advertisement packet transmissions
+journal of the academy
+capabilities
+memory initial address number
+application scenarios
+exchange between systems
+arpa knowledge
+framework type bit
+basic functions were identified
+smart
+resource advertisement could lead
+tests
+host replies
+increased
+scans rfid
+devised
+demand pdu when starting
+february
+websphere rfid
+ns-2 simulation environment
+cache content
+increases
+handles the pdu transports
+maximum travel diameter
+retries retries
+multi-hop
+equipped with ieee
+pda rfid reader
+apulia project
+uni or broadcast
+incorrect removal
+ceur workshop proceedings
+individuals are physically tied
+exploiting
+adv diameter
+causing incorrect removal
+number of requests
+protocol devised to build
+receives information
+existing
+reasoning procedures to resource-constrained
+university
+user memory bank
+alignment and prevents
+tag field and readers
+sequence
+tbox and abox
+identified
+matching parameters contained
+rfid environments
+status flag
+well-known issue of rfid
+due to architectural differences
+information processing
+home
+phase max
+web sevices
+language dig
+lead
+semanticenhanced epcglobal rfid
+rtt timer set
+bits bit
+frameworks for objects equipped
+consecutive advertisement packet
+living with classic
+healthcare applications
+membank wordptr wordcount value
+sends back a cache
+entry in the cache
+normal system
+assuming
+rfid technology
+fruition
+extended to other monitoring
+descriptions directly on tags
+locate
+remote methods into operations
+tags per reader
+successful resource
+sequence number resource
+perform the data dissemination
+journal
+management in the hospital
+area networks specific
+interval
+likewise
+fragment in the dl-based
+epc fig
+individuals avoids
+deployed for internal inventory
+confirmation of the presence
+based on description logics
+described
+maximum value
+science
+cache table entries
+alignment protocol
+carried
+ansi
+krs
+theoretical aspects
+make the overall nodes
+max adv
+compatible
+dependency
+network load
+barriers between patient management
+ability to remove information
+constraints
+host receives
+semantically annotated
+source address
+rfid tag tag
+architectural differences
+previously
+forward them to nearby
+functional
+due
+data transfers
+host specifies
+number of resource
+mere
+resource descriptions stored
+number within the packet
+bluetooth discovery protocol
+bank parameter
+w3c
+tags for epcglobal
+functional approach
+discovery layer
+provisioning of kb individuals
+transfer
+mobile hosts
+max retries retries
+traversed by the packet
+simultaneously on tags
+ask-type
+artificial intelligence
+function
+show how these problems
+entity which is immediately
+centralized infrastructure
+attributes from user
+extended
+volume
+content pdu an entry
+basic elements
+advertisements in their cache
+significant
+advertisement diffusion
+multi-hop communication
+cache table management
+variations
+reduced simulation
+case it will extract
+record
+performing an extensive
+epcglobal rfid tag
+services with application-specific
+waited when forwarding
+problem
+issue
+iso 8802-11 first
+node waiting for ack
+replying
+knowledge-based system to enable
+ns-2 simulation
+extensive simulation campaign
+dissemination
+protocol allowing
+matched against requests
+object naming
+unique item identifier
+dipped
+functions
+unique identifier
+hops the frame
+field layer rfid
+protocol to enable ubiquitous
+detail
+single tag
+odically send
+issue of rfid
+elicits information about nearby
+depends on the number
+rfid tag rfid
+radio range
+ontologies are defined
+u-commerce
+advertisement is forwarded
+removing the entry
+description stored
+broadcasts an advertisement
+number of requested resource
+protocol for m-commerce
+perform the data
+plays an architectural role
+advertised
+replying to the requester
+recent or has ran
+semantic annotations
+individuals in our system
+lacking unique
+technology telecommunications and information
+total traffic
+starting
+intensional knowledge
+layer rfid
+semantic based
+bit mask
+raw materials
+layer to discovery
+internet workshops
+feasibility study

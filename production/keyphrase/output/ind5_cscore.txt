@@ -1,0 +1,3986 @@
+positioning system::39.0
+error distance::36.0
+error estimate::22.0
+signal strength::20.0
+error distance and error::14.0
+positioning engine::14.0
+distance and error estimate::14.0
+location sensing::13.0
+positioning systems::13.0
+median std dev::12.6797000058
+err est::12.0
+convergence for each algorithm::12.0
+error distance at convergence::12.0
+sample point::11.0
+std dev::10.0
+intersection algorithm::10.0
+error distance wrt sample::10.0
+access point::10.0
+distance at convergence::9.50977500433
+sample points::9.0
+asset tracking::9.0
+tagged item::8.0
+access points::8.0
+location of the tag::8.0
+client device::8.0
+averages algorithm::8.0
+algorithm mean median std::8.0
+rfid technology::8.0
+intersection err est::7.92481250361
+wi-fi positioning system::7.92481250361
+error distance wrt::7.92481250361
+number of samples::7.92481250361
+distance wrt sample::7.92481250361
+passive tag::7.0
+err distance::7.0
+confidence circle::7.0
+calibration points::7.0
+variance in error::6.33985000288
+positioning systems accuracy::6.33985000288
+distance and error::6.33985000288
+location sensing system::6.33985000288
+averages algorithm mean median::6.0
+weighted average::6.0
+intersection area::6.0
+provided by the positioning::6.0
+variance of the error::6.0
+conditions in the room::6.0
+tracking in indoor environment::6.0
+error distance w.r.t sample::6.0
+positioning technology::6.0
+computer science and engineering::6.0
+weighted intersection err est::6.0
+positioning engine was calibrated::6.0
+indoor location::6.0
+passive tags::6.0
+map of the room::6.0
+calibration process::6.0
+sample i of tag::6.0
+sensing system::5.0
+actual location::5.0
+wrt sample::5.0
+systems accuracy::5.0
+tracking system::5.0
+median std::5.0
+rfid reader::5.0
+experiment set::5.0
+base station::5.0
+prototype system::5.0
+engine was calibrated::4.75488750216
+error distance w.r.t::4.75488750216
+watson research center::4.75488750216
+algorithm mean median::4.75488750216
+continuous in space::4.75488750216
+signal strength measure::4.75488750216
+calibrated to work::4.75488750216
+indoor location sensing::4.75488750216
+location sensing technologies::4.75488750216
+shown that our positioning::4.0
+positioning algorithms can bring::4.0
+err est plain weighted::4.0
+day with varying conditions::4.0
+variance in error estimate::4.0
+location products for real::4.0
+michigan state university east::4.0
+w.r.t sample::4.0
+experiment area::4.0
+technology has attracted considerable::4.0
+state university east lansing::4.0
+average of the readers::4.0
+variance of error distance::4.0
+supply chain::4.0
+210-180 240-210 270-240 300-270::4.0
+variance err est figure::4.0
+essential for the smooth::4.0
+confidence circle for sample::4.0
+rfid tags::4.0
+tagged items::4.0
+estimate for each sample::4.0
+reported by the positioning::4.0
+rfid technology to increase::4.0
+confidence circles::4.0
+location crawling abhishek patil::4.0
+tracking via robotic location::4.0
+computes the location coordinates::4.0
+coordinates of the tagged::4.0
+exp run::4.0
+asset tracking in indoor::4.0
+ibm t j watson::4.0
+convergence values for figure::4.0
+robotic location crawling abhishek::4.0
+distance mean err est::4.0
+270-240 300-270 > =300::4.0
+error distance wrt samples::4.0
+asset tracking via robotic::4.0
+improvement on the raw::4.0
+characteristics of the reader::4.0
+runs of the experiment::4.0
+average plain averages algorithm::4.0
+movement of the robot::4.0
+distance wrt::4.0
+4ft from the ground::4.0
+science and engineering michigan::4.0
+run of the experiment::4.0
+comparison of rf tag::4.0
+detected tag::4.0
+computer science::4.0
+accuracy of the system::4.0
+180-150 210-180 240-210 270-240::4.0
+90-120 150-120 180-150 210-180::4.0
+indoor environment::4.0
+converge to the actual::4.0
+uniform placement of tags::4.0
+tracking in indoor environments::4.0
+weighted intersection::4.0
+plain weighted::4.0
+intersection err::4.0
+two different experiment runs::4.0
+intersection of several confidence::4.0
+location positioning::4.0
+corners of the room::4.0
+intersection err est sample::4.0
+convergence mean median std::4.0
+engineering michigan state university::4.0
+error distance convergence w.r.t::4.0
+aesthetic or security reasons::4.0
+updates and the cost::4.0
+12.5m x 13.75m room::4.0
+robot that moves autonomously::4.0
+position estimates::4.0
+open 12.5m x 13.75m::4.0
+position estimate::4.0
+accuracy of this algorithm::4.0
+variance in error distance::4.0
+department of computer science::4.0
+change in the environment::4.0
+location estimate::4.0
+location of the tags::4.0
+err distance mean err::4.0
+times during the day::4.0
+w.r.t time for two::4.0
+location system::4.0
+client device was moved::4.0
+position of the client::4.0
+bluebot setup::4.0
+samples variance err distance::4.0
+variance err::4.0
+150-120 180-150 210-180 240-210::4.0
+estimate for the entire::4.0
+location crawling abhishek::3.16992500144
+large open 12.5m::3.16992500144
+automatic location sensing::3.16992500144
+samples variance err::3.16992500144
+repeated at four::3.16992500144
+variance err distance::3.16992500144
+state university east::3.16992500144
+robotic location crawling::3.16992500144
+estimated and algorithm::3.16992500144
+computes the location::3.16992500144
+distance mean err::3.16992500144
+continuous positioning technology::3.16992500144
+engineering michigan state::3.16992500144
+department of computer::3.16992500144
+require continuous tracking::3.16992500144
+bluebot setup figure::3.16992500144
+90-120 150-120 180-150::3.16992500144
+system uses uwb::3.16992500144
+average plain averages::3.16992500144
+process was repeated::3.16992500144
+detected the entity::3.16992500144
+experiments have shown::3.16992500144
+experiments to examine::3.16992500144
+two different experiment::3.16992500144
+installation and maintenance::3.16992500144
+comparison of actual::3.16992500144
+tags as computed::3.16992500144
+asset tracking knowing::3.16992500144
+weighted averages algorithm::3.16992500144
+ways to track::3.16992500144
+distance convergence w.r.t::3.16992500144
+location positioning system::3.16992500144
+signal strength map::3.16992500144
+queried to report::3.16992500144
+researchers and industry::3.16992500144
+industry have proposed::3.16992500144
+roomba robotic floorvac::3.16992500144
+frequency of updates::3.16992500144
+signal strength pattern::3.16992500144
+raw positioning system::3.16992500144
+science and engineering::3.16992500144
+described in section::3.16992500144
+algorithm that computes::3.16992500144
+differ with respect::3.16992500144
+300-270 > =300::3.16992500144
+sample distribution w.r.t::3.16992500144
+located is essential::3.16992500144
+raw accuracy provided::3.16992500144
+err est sample::3.16992500144
+chosen as sample::3.16992500144
+distribution of samples::3.16992500144
+number of detection::3.16992500144
+convergence mean median::3.16992500144
+position estimation algorithms::3.16992500144
+shown in figure::3.16992500144
+shows the performance::3.16992500144
+cost of installation::3.16992500144
+four different times::3.16992500144
+samples at convergence::3.16992500144
+examine the performance::3.16992500144
+attracted considerable attention::3.16992500144
+tag location products::3.16992500144
+wi-fi client device::3.16992500144
+error estimate values::3.16992500144
+inside buildings::3.0
+automatic location::3.0
+experiment run::3.0
+research center::3.0
+wi-fi client::3.0
+environmental conditions::3.0
+bluebot system::3.0
+convergence values::3.0
+sensing systems::3.0
+power level::3.0
+readers antenna::3.0
+robots position::3.0
+distance w.r.t::3.0
+active tags::3.0
+tracking applications::3.0
+fold improvement::3.0
+watson research::3.0
+location tracking::3.0
+symmetric coverage::3.0
+tag location::3.0
+user location::3.0
+wi-fi positioning::3.0
+tagged entity::3.0
+libraries or small retail::2.0
+positioning report for sample::2.0
+attached to a directional::2.0
+60-90 90-120 150-120 180-150::2.0
+rfid tags usually operate::2.0
+4.2.1 case a 12.5m::2.0
+modulating the reflected signal::2.0
+reader detects a tag::2.0
+techniques such as differential::2.0
+bluebot setup with non-uniform::2.0
+converged for each run::2.0
+off-the-shelf location positioning system::2.0
+area is so small::2.0
+section 4.2.1::2.0
+entity as a weighted::2.0
+consecutive samples::2.0
+sample locations::2.0
+experiments we have considered::2.0
+bats to within 9cm::2.0
+reader can be connected::2.0
+distribution of the estimate::2.0
+readers manage to return::2.0
+operation of many enterprises::2.0
+described in this paper::2.0
+spaced at a distance::2.0
+calibration process is repeated::2.0
+client device by applying::2.0
+form of a cone::2.0
+duri and amaresh rajasekharan::2.0
+outwards in the vertical::2.0
+estimated location::2.0
+acknowledgments we thank sastry::2.0
+performance of our bluebot::2.0
+location of the tagged::2.0
+algorithms that can average::2.0
+requires the same radio::2.0
+carried out::2.0
+intersection area is reported::2.0
+aps with directional antennas::2.0
+amaresh rajasekharan at ibm::2.0
+tdoa algorithm to determine::2.0
+overlap the intersection area::2.0
+client machine::2.0
+two omnidirectional access points::2.0
+samples is high resulting::2.0
+active bat location system::2.0
+experiment set a tag::2.0
+david wood::2.0
+results in later section::2.0
+locations and positioning system::2.0
+principal techniques for automatic::2.0
+client device and records::2.0
+provide the precise location::2.0
+providing a novel mechanism::2.0
+estimate ee in meters::2.0
+two sets of experiments::2.0
+tracking system called bluebot::2.0
+chosen was a large::2.0
+experiments with the prototype::2.0
+tracking mechanism is required::2.0
+wrt samples::2.0
+experiments is as shown::2.0
+systems are radio based::2.0
+experimented with different position::2.0
+practice for indoor location::2.0
+position estimate that falls::2.0
+constant representing the read::2.0
+average number of samples::2.0
+change in the signal::2.0
+points and positioning engine::2.0
+access points for coverage::2.0
+distribution between consecutive detections::2.0
+positioning systems api gave::2.0
+empirical measurements and signal::2.0
+similar to weighted average::2.0
+connected to a laptop::2.0
+discussion the asset tracking::2.0
+estimated location this algorithm::2.0
+major limitations that suggest::2.0
+entire set::2.0
+area where the tracked::2.0
+estimates having a smaller::2.0
+section 4.2.2::2.0
+intersection and the averaging::2.0
+state university::2.0
+wtdx intersec errest actualy::2.0
+wi-fi systems are easily::2.0
+offset close to 3.5m::2.0
+university east::2.0
+moved in a random::2.0
+positioning technologies are continuous::2.0
+steepest signal strength gradient::2.0
+add information by modulating::2.0
+client and an error::2.0
+gain antenna::2.0
+3.5m in the estimated::2.0
+coverage improves positioning systems::2.0
+experiment set b figure::2.0
+technology used to position::2.0
+estimate values::2.0
+performance of our system::2.0
+roomba from the center::2.0
+visible tags software current::2.0
+respect to the technology::2.0
+related work::2.0
+system and passive rfid::2.0
+signals containing a unique::2.0
+discussion on the couch::2.0
+record the same signal::2.0
+machine running the positioning::2.0
+found that certain algorithms::2.0
+hardware position determination technology::2.0
+system uses uwb tags::2.0
+radius of the rfid::2.0
+strength based wi-fi systems::2.0
+access points were powered::2.0
+point in this taxonomy::2.0
+applying a probabilistic model::2.0
+bottlenecks in their supply::2.0
+tracking knowing::2.0
+positioning algorithms::2.0
+applications do not require::2.0
+center of the bounding::2.0
+strength based::2.0
+tracking on their premises::2.0
+correct shelf::2.0
+jonathan munson::2.0
+share a significant advantage::2.0
+characterize different tracking technologies::2.0
+small or too low::2.0
+knowledge of the readers::2.0
+increase in the number::2.0
+greater degree of flexibility::2.0
+point for each tag::2.0
+coverage in an open::2.0
+calibrated for the entire::2.0
+description of several indoor::2.0
+work without a battery::2.0
+in-building rf-based user location::2.0
+240-210 270-240::2.0
+positioning system was calibrated::2.0
+reader and its software::2.0
+previous samples to refine::2.0
+box around the intersection::2.0
+computed positions of detected::2.0
+positioning system is capable::2.0
+categorized as either passive::2.0
+non-uniform placement of tags::2.0
+axis along the longer::2.0
+arrival rather than signal::2.0
+proposed several location-sensing systems::2.0
+location to an informative::2.0
+plot of the area::2.0
+compared to the estimated::2.0
+enterprises of all kinds::2.0
+bat ultrasonic location system::2.0
+signal strength and claims::2.0
+work with the access::2.0
+change in the environmental::2.0
+define the term error::2.0
+samples required to converge::2.0
+antenna controls the movement::2.0
+giving us accuracies close::2.0
+estimate of the tags::2.0
+combine the detected tags::2.0
+proposing to use rfid::2.0
+system with high per-item::2.0
+systems suffer from disadvantages::2.0
+estimate of a tags::2.0
+equipment or an important::2.0
+points give better accuracy::2.0
+setup with non-uniform placement::2.0
+presents a prototype automatic::2.0
+distance and the error::2.0
+experiment setup::2.0
+considered employing a feedback::2.0
+attention in the recent::2.0
+change in the computed::2.0
+dissemination of its contents::2.0
+enge and p misra::2.0
+navigation technology to automatically::2.0
+preferred for tagging goods::2.0
+advantages of using rfid::2.0
+system had high accuracy::2.0
+bluebot system is targeted::2.0
+described in section 4.2.2::2.0
+engine which keeps track::2.0
+convergence w.r.t::2.0
+location scanning can begin::2.0
+future research::2.0
+systems that are immune::2.0
+shows our tag tracking::2.0
+taxonomy continuous in space::2.0
+referring to figure 18a::2.0
+locations in an approximate::2.0
+returns the tested item::2.0
+distribution of calibration points::2.0
+convergence point::2.0
+low value to justify::2.0
+technology that has entered::2.0
+convergence w.r.t to sample::2.0
+accuracy has now 3.71m::2.0
+convergence values to find::2.0
+offset from the positioning::2.0
+differed in the density::2.0
+moving of office partition::2.0
+estimate for the positioning::2.0
+moved within a facility::2.0
+transmission range and cost-effectiveness::2.0
+acm transactions on information::2.0
+averaging algorithm didnt converge::2.0
+permissible for an assets::2.0
+add reference rfid tags::2.0
+estimated x from positioning::2.0
+running the positioning engine::2.0
+works by timing signals::2.0
+active bat can locate::2.0
+asset tracking technologies mentioned::2.0
+technologies wi-fi signal strength::2.0
+examination of the two::2.0
+readers location::2.0
+first round of experiments::2.0
+technology and a wi-fi::2.0
+intermec uhf pc reader::2.0
+intersection area slowly shrinks::2.0
+sum of the reader::2.0
+moved to using radio::2.0
+ez-pass toll collection system::2.0
+library scenario described earlier::2.0
+technologies for asset tracking::2.0
+positioning engine was queried::2.0
+two or more sample::2.0
+location of an asset::2.0
+concealed for either aesthetic::2.0
+carried out two sets::2.0
+notes the current position::2.0
+transmission are two major::2.0
+robot until its low::2.0
+engineering michigan::2.0
+placement for this set::2.0
+active badge::2.0
+determine location inside buildings::2.0
+based continuous location positioning::2.0
+accuracy of several meters::2.0
+system uses the roomba::2.0
+state for a tag::2.0
+station it is communicating::2.0
+attempts for location sensing::2.0
+watson research center p.o::2.0
+sweep space::2.0
+applications may require recalibration::2.0
+replaces the old barcode::2.0
+tags reading with previous::2.0
+accuracy of our system::2.0
+current location sensing systems::2.0
+approximate a vertical cone::2.0
+based continuous::2.0
+base of the readers::2.0
+bring a three-fold improvement::2.0
+automatic location sensing system::2.0
+accurately delineate 4x4 square-feet::2.0
+updated on a periodic::2.0
+chart of the system::2.0
+achieve location tracking inside::2.0
+location as the centroid::2.0
+robotic floorvac::2.0
+tag distribution of consecutive::2.0
+emerging as an important::2.0
+change in environmental conditions::2.0
+technology that is reshaping::2.0
+area map and recording::2.0
+precision of this algorithm::2.0
+affected the positioning systems::2.0
+higher near the edges::2.0
+error radius::2.0
+radius of the confidence::2.0
+remove any positional offsets::2.0
+average out the offset::2.0
+performance of intersection algorithm::2.0
+improves positioning systems accuracy::2.0
+low gain partner sees::2.0
+intersec errest::2.0
+showed that the average::2.0
+ekahau est::2.0
+detection range::2.0
+base stations for indoor::2.0
+positioned to provide overlapping::2.0
+change in its centroid::2.0
+fixed to the items::2.0
+retailers of consumer goods::2.0
+positioning systems to adapt::2.0
+tracking system with high::2.0
+entities to within 1.5m::2.0
+tags software current location::2.0
+technology for asset tracking::2.0
+recording sample points signal::2.0
+intersection err est plain::2.0
+system computes the location::2.0
+points and their power::2.0
+lines on the area::2.0
+end of an experiment::2.0
+systems are portal based::2.0
+location of tagged items::2.0
+room and hence affected::2.0
+require continuous::2.0
+unlike conventional rf systems::2.0
+required re-calibration to ensure::2.0
+important person a surgeon::2.0
+periodically crawls the space::2.0
+experience with its performance::2.0
+smooth out the large::2.0
+engine varies between 11.5m::2.0
+signals to do location::2.0
+tracked entity is located::2.0
+positioning systems expected error::2.0
+results of experiments carried::2.0
+targeted towards such applications::2.0
+regions within a room::2.0
+series of straight lines::2.0
+smooth operation::2.0
+view of the transfer::2.0
+location of an entity::2.0
+level didnt give complete::2.0
+converge to same error::2.0
+dual-variable gain antenna system::2.0
+calibrated before location scanning::2.0
+cellular system where cellid::2.0
+section 4.2.1 was close::2.0
+algorithms for this setup::2.0
+pallet and carton level::2.0
+ibm research report bluebot::2.0
+percent of the measurements::2.0
+based system for locating::2.0
+indoor environments::2.0
+signal strengths at multiple::2.0
+continue to use wi-fi::2.0
+indoor asset tracking system::2.0
+higher weight to sample::2.0
+density of calibration points::2.0
+error for the weighted::2.0
+machine and the robot::2.0
+performance of the system::2.0
+dept of computer science::2.0
+partner sees the tag::2.0
+locations when it detected::2.0
+improvement in the accuracy::2.0
+access points had four::2.0
+rfid systems::2.0
+shows that the error::2.0
+position of the tagged::2.0
+transactions on information systems::2.0
+sam ple::2.0
+square of the error::2.0
+investing heavily in rfid::2.0
+averages algorithm to converge::2.0
+individually have high value::2.0
+steggles and j cadman::2.0
+raw accuracy::2.0
+associating items it detects::2.0
+robust localization over large-scale::2.0
+difference between the estimated::2.0
+improve the overall accuracy::2.0
+times that item passes::2.0
+operation of large manufacturing::2.0
+tdoa based::2.0
+filled only by reprints::2.0
+converges to the tag::2.0
+algorithm gives an area::2.0
+out the large variation::2.0
+pattern for the error::2.0
+area is better calibrated::2.0
+table placed in front::2.0
+products for real world::2.0
+exists in many retail::2.0
+runs it is easy::2.0
+client device being tracked::2.0
+4.2.1 for this setup::2.0
+out-performed the intersection algorithm::2.0
+location-aware services and applications::2.0
+radius is the sum::2.0
+reader client rf reader::2.0
+access points are added::2.0
+positioning system to provide::2.0
+variation in the number::2.0
+autonomously through the space::2.0
+rfid for identifying large::2.0
+intersec errest actualy ekahau::2.0
+present results of experiments::2.0
+location tracking in indoor::2.0
+start of the steady::2.0
+rf-ir combination or ultrasonic::2.0
+tag during robots random::2.0
+points and the size::2.0
+presence technologies wi-fi signal::2.0
+area into the positioning::2.0
+vertex on the readers::2.0
+positioning technology for asset::2.0
+current position::2.0
+confidence circles are shown::2.0
+setup gave accuracies close::2.0
+zurich limited distribution notice::2.0
+research report::2.0
+enters its coverage area::2.0
+tracking technologies by distinguishing::2.0
+characteristic of reader antenna::2.0
+connected to the client::2.0
+delineate 4x4 square-feet regions::2.0
+based continuous positioning technology::2.0
+presented an inexpensive automated::2.0
+inexpensive automated indoor asset::2.0
+mounted on a robot::2.0
+errest actualy ekahau est::2.0
+est sample::2.0
+discussed in this paper::2.0
+estimate e in meters::2.0
+positioning accuracy::2.0
+simple signal strength measurement::2.0
+publication outside of ibm::2.0
+passes near a reader::2.0
+1.5m are not easily::2.0
+lighter and less expensive::2.0
+continuous location positioning system::2.0
+region of the base::2.0
+algorithm computes an estimate::2.0
+rajasekharan at ibm watson::2.0
+intersection of these circles::2.0
+location crawling abhishek patil1::2.0
+wi-fi devices running ekahau::2.0
+niculescu and b nath::2.0
+error distance w.r.t samples::2.0
+hightower and g borriello::2.0
+pcmcia reader and passive::2.0
+tend to be closer::2.0
+range than passive tags::2.0
+corner of the library::2.0
+closer to the tag::2.0
+estimate for the first::2.0
+sample points while table::2.0
+circles provides a finer::2.0
+ibm research::2.0
+high resulting in larger::2.0
+logical flow::2.0
+previous samples::2.0
+higher number of calibration::2.0
+machine sends a message::2.0
+copies may be requested::2.0
+ibm prior to publication::2.0
+peer communications and specific::2.0
+intersection algorithm mean median::2.0
+indoor 3d location sensing::2.0
+back in the wrong::2.0
+estimation algorithms::2.0
+rfid technology alone lacks::2.0
+coordinates and an error::2.0
+autonomously in the sweep::2.0
+coverage in the room::2.0
+precise location estimates needed::2.0
+positioning engine was programmed::2.0
+characteristics had an elliptical::2.0
+out using our prototype::2.0
+paper presents a prototype::2.0
+locating and tracking users::2.0
+positioning system had high::2.0
+accuracy of the raw::2.0
+asymmetric coverage improves positioning::2.0
+publication should be limited::2.0
+item in the sweep::2.0
+signal strength based wi-fi::2.0
+box of this intersection::2.0
+reshaping supply chain management::2.0
+needed by some applications::2.0
+work researchers and industry::2.0
+obtained from the positioning::2.0
+two to three fold::2.0
+4.2.2 the positioning engine::2.0
+reported as the computed::2.0
+flowchart of the robotic::2.0
+room while active bat::2.0
+sample with the previous::2.0
+relative to the original::2.0
+rfid reader is connected::2.0
+location by using signal::2.0
+rfid technology and off-the-shelf::2.0
+special note about run::2.0
+powered down to run::2.0
+send their signal strength::2.0
+overstocking or locate spoiled::2.0
+station visibility and signal::2.0
+plain averages::2.0
+signal transmission are two::2.0
+averaging algorithms::2.0
+high gain antenna controls::2.0
+uniform placement::2.0
+point can be thought::2.0
+running a wi-fi client::2.0
+web site on uwb::2.0
+arena of indoor location::2.0
+found that the intersection::2.0
+rime nt runs intersection::2.0
+due to its dependence::2.0
+location and tracking system::2.0
+ways to track people::2.0
+location sensing technology based::2.0
+simple presence technologies wi-fi::2.0
+restriction ; ultrasonic systems::2.0
+tags with accuracy close::2.0
+make use of systems::2.0
+alan cole ibm research::2.0
+items require continuous tracking::2.0
+processed using the tdoa::2.0
+5mw power level didnt::2.0
+location and the actual::2.0
+system computed the location::2.0
+tracking technologies::2.0
+centroid of the bounding::2.0
+taxonomy of location sensing::2.0
+communications and specific requests::2.0
+visibility and signal strength::2.0
+wi-fi based location positioning::2.0
+devices with an accuracy::2.0
+detection circle was determined::2.0
+sensing system robot figure::2.0
+tracks our client device::2.0
+algorithm will be slightly::2.0
+order to determine user::2.0
+gps lacks the ability::2.0
+position estimation::2.0
+continuous in space continuous::2.0
+user location for context::2.0
+continuous tracking and justify::2.0
+propagation modeling in order::2.0
+location information::2.0
+positioning systems location estimates::2.0
+provide a position estimate::2.0
+automated indoor asset tracking::2.0
+space at a confidence::2.0
+system works by making::2.0
+weight to sample points::2.0
+user location and tracking::2.0
+tracking items that individually::2.0
+positioning technology accuracy analysis::2.0
+thomas j watson research::2.0
+information about the exact::2.0
+positions of detected tags::2.0
+0.5m of the tag::2.0
+case where the positioning::2.0
+security reasons::2.0
+antenna is placed facing::2.0
+reported as the calculated::2.0
+stores where the customers::2.0
+year battery to power::2.0
+marks the actual location::2.0
+imply higher probability distribution::2.0
+calibration points were spaced::2.0
+cone with its vertex::2.0
+size of the intersection::2.0
+current location rf reader::2.0
+presents directions for future::2.0
+tags are much lighter::2.0
+algorithms at every sample::2.0
+tagged items are scanned::2.0
+wi-fi client and connected::2.0
+crawling abhishek patil department::2.0
+system uses wi-fi based::2.0
+sample locations and positioning::2.0
+tags at a height::2.0
+bluebot setup with uniform::2.0
+accuracy and had lesser::2.0
+dependence on the satellites::2.0
+signals transmitted from tags::2.0
+large error::2.0
+rfid technology has attracted::2.0
+points were closely spaced::2.0
+sensing systems are radio::2.0
+based on rf signal::2.0
+give the best gradient::2.0
+greatly varies between tags::2.0
+coordinates for that tag::2.0
+centroid until a point::2.0
+size of the experiment::2.0
+performance of our prototype::2.0
+asymmetric coverage by introducing::2.0
+eeti is the error::2.0
+technique to provide location::2.0
+close to positioning systems::2.0
+points near the wall::2.0
+provide a periodic asset-locating::2.0
+research division::2.0
+chosen as sample points::2.0
+sensing systems for ubiquitous::2.0
+earlier attempts for location::2.0
+devices running ekahau client::2.0
+gave an average error::2.0
+precise location::2.0
+algorithm when the positioning::2.0
+track of each devices::2.0
+due to the large::2.0
+map and recording sample::2.0
+circle the confidence circle::2.0
+client rf reader hardware::2.0
+tags can be read::2.0
+characteristics of the positioning::2.0
+location when it detected::2.0
+tags position::2.0
+weight of each location::2.0
+tracker gui before convergence::2.0
+sample points and positioning::2.0
+technology location sensing system::2.0
+plainy wtdy intersec errest::2.0
+measurement technique to provide::2.0
+intersect and the intersection::2.0
+research report for early::2.0
+records all the tags::2.0
+found that the eccentricity::2.0
+location determination via clustering::2.0
+recalibration of the room::2.0
+system combines empirical measurements::2.0
+algorithms surpassed the performance::2.0
+move around the room::2.0
+line of sight restriction::2.0
+sample i for tag::2.0
+measure to the positioning::2.0
+virtually unlimited operational lifetime::2.0
+move in a directed::2.0
+advertised an average accuracy::2.0
+off-the-shelf wi-fi::2.0
+limited to peer communications::2.0
+expensive than active tags::2.0
+rfid tags are categorized::2.0
+strengths at multiple base::2.0
+entity as the statistical::2.0
+circle drawn with center::2.0
+explains the wi-fi positioning::2.0
+adapter to measure signal::2.0
+realize indoor location positioning::2.0
+systems for ubiquitous computing::2.0
+rf-tag-based location sensing technologies::2.0
+measured at the wi-fi::2.0
+large lots of goods::2.0
+error close to 3.5m::2.0
+developed at olivetti research::2.0
+tracking solutions that provide::2.0
+indoor location sensing technologies::2.0
+sides of the rectangle::2.0
+transparency of their supply::2.0
+lower in this case::2.0
+sastry duri and amaresh::2.0
+positioning system was queried::2.0
+problem of asset tracking::2.0
+weighted avg::2.0
+footprint compared to passive::2.0
+wood2 and alan cole2::2.0
+algorithm out-performed the intersection::2.0
+algorithms combine this sample::2.0
+estimate is inversely proportional::2.0
+pattern from the two::2.0
+user location thereby enabling::2.0
+enabling such tracking applications::2.0
+stations positioned to provide::2.0
+technologies and various companies::2.0
+return the unwanted books::2.0
+determination technology location sensing::2.0
+noticed that signal strength::2.0
+products for real-world applications::2.0
+calculated location::2.0
+number of calibration points::2.0
+calibrated for a smaller::2.0
+based on the intersection::2.0
+computer science ibm research::2.0
+tracking users inside buildings::2.0
+tracking is not restricted::2.0
+points had four power::2.0
+reader and passive tag::2.0
+gradient across the room::2.0
+variation in the error::2.0
+estimates at previous detections::2.0
+donating a pcmcia card::2.0
+information of every rfid-tagged::2.0
+center of the experiment::2.0
+requests should be filled::2.0
+directions for future research::2.0
+intervals along the lines::2.0
+points in this experiment::2.0
+location sensing system robot::2.0
+moves to different corners::2.0
+estimates continuous in space::2.0
+variation in the amount::2.0
+number of samples required::2.0
+periodically samples which tags::2.0
+track people and things::2.0
+circles overlap the intersection::2.0
+research in this paper::2.0
+probability when the reader::2.0
+special issue on gps::2.0
+network adapter to measure::2.0
+accuracies close to 2.5m::2.0
+tags at the end::2.0
+science ibm research report::2.0
+height of approximately 4ft::2.0
+ability to accurately determine::2.0
+introducing a third access::2.0
+shows the time distribution::2.0
+ibm research division thomas::2.0
+power level didnt give::2.0
+system that combines rfid::2.0
+shown in the figure::2.0
+account the error estimate::2.0
+area or the intersection::2.0
+section 4.2.2 the positioning::2.0
+briefly describes rfid technology::2.0
+points that were installed::2.0
+sensing system that combines::2.0
+work with any continuous::2.0
+hand works by timing::2.0
+points that would record::2.0
+system not only identifies::2.0
+affected by multipath distortion::2.0
+paper and presents directions::2.0
+operates at a frequency::2.0
+companies that are seeking::2.0
+rest of the paper::2.0
+radio frequency::2.0
+technology and off-the-shelf wi-fi::2.0
+3.71m foosball table 13.75m::2.0
+active badge location system::2.0
+robots position is obtained::2.0
+patil department of computer::2.0
+case b as described::2.0
+calibration points were closely::2.0
+repeated until the entire::2.0
+performance of the wi-fi::2.0
+identifier for each person::2.0
+errors in the estimated::2.0
+chain and to provide::2.0
+roomba uses intelligent navigation::2.0
+averages algorithms::2.0
+location products::2.0
+analysis because our tag-position::2.0
+tracking systems::2.0
+scheme does not provide::2.0
+previous samples to compute::2.0
+detections for each tag::2.0
+positions of tagged entities::2.0
+wi-fi based::2.0
+tags can be concealed::2.0
+sample distribution::2.0
+rfid systems are portal::2.0
+case a the wi-fi::2.0
+kind of automated tracking::2.0
+values are much lower::2.0
+visibility within their supply::2.0
+estimation algorithms and found::2.0
+positioning system to track::2.0
+wi-fi system::2.0
+edges of the experiment::2.0
+signals provide additional resolution::2.0
+location of the client::2.0
+intersections imply higher probability::2.0
+due to the rectangular::2.0
+result of the algorithm::2.0
+signals from all directions::2.0
+coverage and the uncertainty::2.0
+shows the computed location::2.0
+extent on the distribution::2.0
+0-30 30-60 exp run::2.0
+representing the read radius::2.0
+report for early dissemination::2.0
+establishes an rf-signal strength::2.0
+smaller intersections imply higher::2.0
+screenshot of our tag::2.0
+location coordinates of tags::2.0
+coverage within a room::2.0
+satellites to track location::2.0
+estimate of the positioning::2.0
+location estimates::2.0
+portal based where tagged::2.0
+current location::2.0
+chosen as sample locations::2.0
+rf-reader enters its coverage::2.0
+location for context aware::2.0
+location of a client::2.0
+systems are easily affected::2.0
+message containing the tags::2.0
+resulted in a higher::2.0
+calibration setup::2.0
+engine get a signal::2.0
+location rf reader client::2.0
+distribution outside of ibm::2.0
+points that are closer::2.0
+location thereby enabling location-aware::2.0
+found that 5mw power::2.0
+estimates at any point::2.0
+involves drawing a series::2.0
+offer a virtually unlimited::2.0
+altered the signal strength::2.0
+tags placed at 4ft::2.0
+sits on the robot::2.0
+provide a good comparison::2.0
+newer ways to track::2.0
+falls anywhere in space::2.0
+detects as the roomba::2.0
+signal to be received::2.0
+reading with previous samples::2.0
+two averaging algorithms depend::2.0
+number of wireless companies::2.0
+reason why the intersection::2.0
+algorithm is inversely proportional::2.0
+employing a feedback system::2.0
+location of the item::2.0
+samples for each tag::2.0
+consisting of the rfid::2.0
+installed in the room::2.0
+estimate positions of tagged::2.0
+location estimate for sample::2.0
+mechanism to track tagged::2.0
+tracking applications may require::2.0
+continuous in both space::2.0
+david wood2 and alan::2.0
+shows the computed positions::2.0
+connected to the positioning::2.0
+coordinates of the client::2.0
+convergence run::2.0
+meters for this setup::2.0
+cricket indoor location system::2.0
+room without any human::2.0
+arrival or simple signal::2.0
+smaller error radius tend::2.0
+advantages are their promising::2.0
+item to its correct::2.0
+averaging algorithm::2.0
+ultrasound time-of-flight measurement technique::2.0
+rest of the calibration::2.0
+reduce overstocking or locate::2.0
+error values are higher::2.0
+location sensing using active::2.0
+area and the calibration::2.0
+circles gives a large::2.0
+ekahau est y plainy::2.0
+track our client system::2.0
+cricket location support system::2.0
+technique is to avoid::2.0
+30-60 60-90 exp run::2.0
+total number of samples::2.0
+determined with the wi-fi::2.0
+distribution of consecutive samples::2.0
+reflect the rf signal::2.0
+assets within their supply::2.0
+blocked by a folded::2.0
+tags to a network::2.0
+heavily in rfid technology::2.0
+compared to passive tags::2.0
+simple techniques to improve::2.0
+introduction consider a typical::2.0
+vertical direction::2.0
+performance of our positioning::2.0
+sensing using active rfid::2.0
+range and access mechanisms::2.0
+location sensing used infrared::2.0
+constantly send their signal::2.0
+things in indoor environment::2.0
+moved from the calibrated::2.0
+yorktown heights::2.0
+transceiver and a 2-5::2.0
+reported as the cellphones::2.0
+work with the smaller::2.0
+work in the area::2.0
+location along the line::2.0
+location of a tagged::2.0
+run shown in figure::2.0
+michigan state::2.0
+est y plainy wtdy::2.0
+plain weighted intersection err::2.0
+operate without a battery::2.0
+slowly shrinks the centroid::2.0
+readers physical detection range::2.0
+bat can locate bats::2.0
+due to the random::2.0
+passive rfid::2.0
+order to achieve location::2.0
+wi-fi positioning system computes::2.0
+tdoa based positioning systems::2.0
+tags that it detects::2.0
+represent the tags location::2.0
+engine has an offset::2.0
+read the encoded information::2.0
+number of samples increases::2.0
+off-the-shelf wi-fi based continuous::2.0
+roomba expects to cover::2.0
+rfid not only replaces::2.0
+positioning system and passive::2.0
+rest of this section::2.0
+techniques for automatic location-sensing::2.0
+setup with uniform placement::2.0
+calibration process involves drawing::2.0
+area of location tracking::2.0
+intervals between estimates limited::2.0
+carry out a series::2.0
+line-of-sight requirement and short-range::2.0
+repeated if an access::2.0
+sample points signal strength::2.0
+positioning systems is gps::2.0
+cole ibm research division::2.0
+densely spaced calibration points::2.0
+points 1-6 and multiples::2.0
+location estimate is inversely::2.0
+reprints or legally obtained::2.0
+issued as a research::2.0
+environment altered the signal::2.0
+location tracking inside buildings::2.0
+define a convergence point::2.0
+estimate of the robots::2.0
+tags through the environment::2.0
+retail stores::2.0
+plain avg::2.0
+location coordinates::2.0
+represents a new point::2.0
+requirement and short-range signal::2.0
+wherenet location tracking systems::2.0
+provided by multispectral solutions::2.0
+sensing technologies and application::2.0
+entire area is covered::2.0
+wi-fi devices::2.0
+engine advertised an average::2.0
+position of access points::2.0
+observed that the error::2.0
+sight restriction ; ultrasonic::2.0
+achieved using passive tags::2.0
+systems have a fast::2.0
+bounding box::2.0
+distance as the difference::2.0
+connected to any device::2.0
+depicts the bluebot setup::2.0
+directional antenna::2.0
+multiple base stations positioned::2.0
+considerable attention::2.0
+direction of the robot::2.0
+passive tags are preferred::2.0
+based where tagged items::2.0
+gave a better accuracy::2.0
+model to the signal::2.0
+resulting in larger confidence::2.0
+conclusion and future research::2.0
+technology that provides space-continuous::2.0
+detected by an rfid::2.0
+algorithms performed better giving::2.0
+smooth operation of large::2.0
+prototype automatic location sensing::2.0
+samples around the tagged::2.0
+coordinates with the actual::2.0
+comparison of various rf-tag-based::2.0
+system employs a robot::2.0
+system and our experience::2.0
+measurement at various sensors::2.0
+process establishes an rf-signal::2.0
+sensing is the key::2.0
+technology that provides time-continuous::2.0
+expe rime nt runs::2.0
+distance convergence w.r.t sample::2.0
+report has been submitted::2.0
+described in section 4.2.1::2.0
+sensing technologies::2.0
+division thomas j watson::2.0
+multispectral solutions::2.0
+perceived by the client::2.0
+systems use an ultrasound::2.0
+9cm of their true::2.0
+ignore any other access::2.0
+books to the correct::2.0
+accuracies close::2.0
+entire room as described::2.0
+offset in the raw::2.0
+part of the reason::2.0
+measurements and signal propagation::2.0
+watson for their assistance::2.0
+technology to automatically move::2.0
+geared towards tracking items::2.0
+easily achieved using passive::2.0
+larger physical footprint compared::2.0
+clustering and probability distributions::2.0
+position determination technology location::2.0
+government and military organizations::2.0
+books in some corner::2.0
+didnt give complete coverage::2.0
+err estimate::2.0
+accuracy close to 1.5m::2.0
+differential time of arrival::2.0
+tag will be sampled::2.0
+proportional to the size::2.0
+find the right book::2.0
+working under harsh environmental::2.0
+plain intersection err est::2.0
+plain weighted intersection sample::2.0
+location products for real-world::2.0
+copies of the article::2.0
+wi-fi based continuous positioning::2.0
+reader and add information::2.0
+expect a uniform distribution::2.0
+ieee percom::2.0
+proportional to the square::2.0
+re-calibration to ensure maximum::2.0
+accurately determine location inside::2.0
+uwb and is based::2.0
+rfid scanner can read::2.0
+placement of the tags::2.0
+tracking systems taxonomy continuous::2.0
+number of detection samples::2.0
+tags have more range::2.0
+sec intervals::2.0
+reader hardware position determination::2.0
+start with a large::2.0
+tdoa based systems::1.58496250072
+technologies are continuous::1.58496250072
+applications may require::1.58496250072
+lots of goods::1.58496250072
+system is capable::1.58496250072
+adapter to measure::1.58496250072
+contact and non-line-of-sight::1.58496250072
+companies like radianse::1.58496250072
+802.11-based time difference::1.58496250072
+positioned to provide::1.58496250072
+system where cellid::1.58496250072
+average error close::1.58496250072
+technology location sensing::1.58496250072
+tracking users inside::1.58496250072
+readers rf characteristics::1.58496250072
+network of receivers::1.58496250072
+conclusion and future::1.58496250072
+wi-fi based location::1.58496250072
+tag tracker gui::1.58496250072
+locate spoiled cargo::1.58496250072
+practice for indoor::1.58496250072
+person a surgeon::1.58496250072
+offer a virtually::1.58496250072
+distance of approximately::1.58496250072
+system is targeted::1.58496250072
+limited to peer::1.58496250072
+combine the detected::1.58496250072
+low gain partner::1.58496250072
+location tracking inside::1.58496250072
+enter or leave::1.58496250072
+client and connected::1.58496250072
+area slowly shrinks::1.58496250072
+series of straight::1.58496250072
+simple presence technologies::1.58496250072
+determine user location::1.58496250072
+set of tests::1.58496250072
+based location positioning::1.58496250072
+number of calibration::1.58496250072
+described in case::1.58496250072
+location sensing systems::1.58496250072
+goods and assets::1.58496250072
+position the robot::1.58496250072
+gave an average::1.58496250072
+crawling abhishek patil::1.58496250072
+quantify the performance::1.58496250072
+facing the ceiling::1.58496250072
+achieve location tracking::1.58496250072
+strengths at multiple::1.58496250072
+abhishek patil department::1.58496250072
+represent the tags::1.58496250072
+number of detections::1.58496250072
+off-the-shelf wi-fi based::1.58496250072
+focus has moved::1.58496250072
+position the tags::1.58496250072
+client and associates::1.58496250072
+coverage by introducing::1.58496250072
+expensive tracking equipment::1.58496250072
+provide position estimates::1.58496250072
+setup for four::1.58496250072
+presence technologies wi-fi::1.58496250072
+assistance and ideas::1.58496250072
+rfid technology rfid::1.58496250072
+indoor location system::1.58496250072
+companies that make::1.58496250072
+report the location::1.58496250072
+accurately delineate 4x4::1.58496250072
+ensure maximum accuracy::1.58496250072
+tdoa based positioning::1.58496250072
+accurately determine location::1.58496250072
+lookout for cheaper::1.58496250072
+ithas been issued::1.58496250072
+area is covered::1.58496250072
+algorithms and found::1.58496250072
+wireless base station::1.58496250072
+respect to technology::1.58496250072
+dedicated standard protocol::1.58496250072
+accepted for publication::1.58496250072
+30-60 60-90 exp::1.58496250072
+drawn with center::1.58496250072
+diffuse infrared technology::1.58496250072
+signal strength measurement::1.58496250072
+sensing technology based::1.58496250072
+ubisense march 2004.http::1.58496250072
+in-building rf-based user::1.58496250072
+timed very accurately::1.58496250072
+points had four::1.58496250072
+tags are detectable::1.58496250072
+seeking newer ways::1.58496250072
+close to 2.5m::1.58496250072
+crawling abhishek patil1::1.58496250072
+send their signal::1.58496250072
+leave the books::1.58496250072
+weighted intersection sample::1.58496250072
+technology has attracted::1.58496250072
+reader is attached::1.58496250072
+find the accuracy::1.58496250072
+robot is controlled::1.58496250072
+systems location estimates::1.58496250072
+calibration process establishes::1.58496250072
+investigate the reason::1.58496250072
+relies on satellites::1.58496250072
+dual-variable gain antenna::1.58496250072
+high per-item cost::1.58496250072
+averages algorithm out-performed::1.58496250072
+directions for future::1.58496250072
+prototype system show::1.58496250072
+transmitted from tags::1.58496250072
+expects to cover::1.58496250072
+retailers of consumer::1.58496250072
+position of access::1.58496250072
+accurate but expensive::1.58496250072
+devices running ekahau::1.58496250072
+location of tagged::1.58496250072
+8.08m x 3.71m::1.58496250072
+increase the transparency::1.58496250072
+convergence w.r.t sample::1.58496250072
+real world applications::1.58496250072
+asymmetric coverage improves::1.58496250072
+computed the location::1.58496250072
+smaller intersections imply::1.58496250072
+experiment run figure::1.58496250072
+government and military::1.58496250072
+3.71m foosball table::1.58496250072
+include the tag::1.58496250072
+services and applications::1.58496250072
+techniques to improve::1.58496250072
+dept of computer::1.58496250072
+roomba uses intelligent::1.58496250072
+signals rf-ir combination::1.58496250072
+items that individually::1.58496250072
+pcmcia rfid reader::1.58496250072
+assets and equipment::1.58496250072
+paper and presents::1.58496250072
+items it detects::1.58496250072
+steggles and cadman::1.58496250072
+raw location reported::1.58496250072
+situation is hard::1.58496250072
+bluebot fixed beacon::1.58496250072
+high gain antenna::1.58496250072
+tags with accuracy::1.58496250072
+restricted to libraries::1.58496250072
+locating and tracking::1.58496250072
+actualy ekahau est::1.58496250072
+intersections imply higher::1.58496250072
+number of wireless::1.58496250072
+tag being hunted::1.58496250072
+algorithms to compute::1.58496250072
+lacks the ability::1.58496250072
+works by making::1.58496250072
+wlan location determination::1.58496250072
+battery to power::1.58496250072
+controlled to move::1.58496250072
+locations and positioning::1.58496250072
+compute its location::1.58496250072
+technology to automatically::1.58496250072
+key to enabling::1.58496250072
+rti = eeti::1.58496250072
+enters its coverage::1.58496250072
+positioning systems engine::1.58496250072
+points while table::1.58496250072
+systems are portal::1.58496250072
+pallet and carton::1.58496250072
+increase the visibility::1.58496250072
+experiment area chosen::1.58496250072
+server then notes::1.58496250072
+err est plain::1.58496250072
+sends a message::1.58496250072
+location of items::1.58496250072
+strength based wi-fi::1.58496250072
+recording sample points::1.58496250072
+provided by multispectral::1.58496250072
+satellites to track::1.58496250072
+technology alone lacks::1.58496250072
+wi-fi based continuous::1.58496250072
+plan to make::1.58496250072
+uwb is provided::1.58496250072
+larger confidence circles::1.58496250072
+comparison of computed::1.58496250072
+power spread-spectrum location::1.58496250072
+paper is structured::1.58496250072
+precise location estimates::1.58496250072
+systems expected error::1.58496250072
+intersection algorithm worked::1.58496250072
+based positioning systems::1.58496250072
+individually have high::1.58496250072
+donating a pcmcia::1.58496250072
+companies are realizing::1.58496250072
+reprints or legally::1.58496250072
+account the error::1.58496250072
+server machine running::1.58496250072
+out two sets::1.58496250072
+practical robust localization::1.58496250072
+algorithms as mentioned::1.58496250072
+performance is close::1.58496250072
+altered the signal::1.58496250072
+room to accommodate::1.58496250072
+modeling in order::1.58496250072
+reading with previous::1.58496250072
+time-continuous position estimates::1.58496250072
+wireless lan infrastructure::1.58496250072
+attached rfid reader::1.58496250072
+ibm research division::1.58496250072
+transfer of copyright::1.58496250072
+enabling such tracking::1.58496250072
+developed at olivetti::1.58496250072
+set a tag::1.58496250072
+four different runs::1.58496250072
+spaced calibration points::1.58496250072
+client rf reader::1.58496250072
+two major limitations::1.58496250072
+found that 5mw::1.58496250072
+estimates at previous::1.58496250072
+ibm research report::1.58496250072
+weight to sample::1.58496250072
+crawls the space::1.58496250072
+provide overlapping coverage::1.58496250072
+adapt to change::1.58496250072
+algorithms greatly varies::1.58496250072
+gave accuracies close::1.58496250072
+accommodate the change::1.58496250072
+olivetti research laboratory::1.58496250072
+smaller foot print::1.58496250072
+zurich limited distribution::1.58496250072
+promising transmission range::1.58496250072
+periodic asset-locating sweep::1.58496250072
+object being tracked::1.58496250072
+timing signals transmitted::1.58496250072
+illustrated in table::1.58496250072
+order to determine::1.58496250072
+illustrates the inability::1.58496250072
+place them back::1.58496250072
+technique to provide::1.58496250072
+term error distance::1.58496250072
+determine the location::1.58496250072
+w.r.t to sample::1.58496250072
+error radius tend::1.58496250072
+users inside buildings::1.58496250072
+radianse indoor positioning::1.58496250072
+systems is gps::1.58496250072
+intelligent navigation technology::1.58496250072
+technology and off-the-shelf::1.58496250072
+frequency of 915mhz::1.58496250072
+procedure as described::1.58496250072
+technologies and application::1.58496250072
+power the transceiver::1.58496250072
+characterize different tracking::1.58496250072
+positioning engine advertised::1.58496250072
+running ekahau client::1.58496250072
+depicts the bluebot::1.58496250072
+measurements and signal::1.58496250072
+reason is due::1.58496250072
+noticed that signal::1.58496250072
+thomas j watson::1.58496250072
+round of experiments::1.58496250072
+create an algorithm::1.58496250072
+coordinates of tags::1.58496250072
+short-range signal transmission::1.58496250072
+reader and passive::1.58496250072
+employs a robot::1.58496250072
+measure signal strengths::1.58496250072
+two sets differed::1.58496250072
+system that combines::1.58496250072
+continuity in space::1.58496250072
+libraries or small::1.58496250072
+5mw power level::1.58496250072
+tag-position estimation algorithms::1.58496250072
+people playing foosball::1.58496250072
+emergency medical equipment::1.58496250072
+degree of flexibility::1.58496250072
+hard to detect::1.58496250072
+items are scanned::1.58496250072
+find the right::1.58496250072
+densely spaced calibration::1.58496250072
+room while active::1.58496250072
+combine this sample::1.58496250072
+algorithms that combine::1.58496250072
+marks the actual::1.58496250072
+signal propagation modeling::1.58496250072
+items being tracked::1.58496250072
+related work researchers::1.58496250072
+establishes an rf-signal::1.58496250072
+4.2.2 the positioning::1.58496250072
+weighted average algorithm::1.58496250072
+passive or active::1.58496250072
+wi-fi signal strength::1.58496250072
+badge location system::1.58496250072
+sensors are employed::1.58496250072
+visibility of goods::1.58496250072
+rf-tag-based location sensing::1.58496250072
+site on uwb::1.58496250072
+products for real::1.58496250072
+re-calibration to ensure::1.58496250072
+geared towards tracking::1.58496250072
+level of accuracy::1.58496250072
+capable of giving::1.58496250072
+research report bluebot::1.58496250072
+access points installed::1.58496250072
+solutions that provide::1.58496250072
+large manufacturing companies::1.58496250072
+provide asset tracking::1.58496250072
+setup gave accuracies::1.58496250072
+calibrated before location::1.58496250072
+symmetric rf pattern::1.58496250072
+vor base stations::1.58496250072
+small retail stores::1.58496250072
+identifying large lots::1.58496250072
+sensing used infrared::1.58496250072
+library or place::1.58496250072
+provide a periodic::1.58496250072
+determine location inside::1.58496250072
+points were closely::1.58496250072
+recorded the performance::1.58496250072
+arena of indoor::1.58496250072
+intersection algorithm converges::1.58496250072
+positioning system reported::1.58496250072
+achieved using passive::1.58496250072
+science ibm research::1.58496250072
+realize indoor location::1.58496250072
+track tagged items::1.58496250072
+tag being tracked::1.58496250072
+scanner can read::1.58496250072
+positioning algorithms start::1.58496250072
+referring to figure::1.58496250072
+realizing the importance::1.58496250072
+tag during robots::1.58496250072
+reader hardware position::1.58496250072
+research division thomas::1.58496250072
+working under harsh::1.58496250072
+11.5m to 13m::1.58496250072
+asset tracking system::1.58496250072
+resulting in larger::1.58496250072
+location estimates needed::1.58496250072
+proposed several systems::1.58496250072
+time-of-flight measurement technique::1.58496250072
+enabling location-aware services::1.58496250072
+active badge location::1.58496250072
+presents a prototype::1.58496250072
+signal strength measured::1.58496250072
+averages algorithms performed::1.58496250072
+room as described::1.58496250072
+positions of tagged::1.58496250072
+plain and weighted::1.58496250072
+provide a good::1.58496250072
+two primary examples::1.58496250072
+kinds are gearing::1.58496250072
+plainy wtdy intersec::1.58496250072
+rf-signal strength plot::1.58496250072
+ultrasound time-of-flight measurement::1.58496250072
+algorithm for computing::1.58496250072
+setup with uniform::1.58496250072
+track the location::1.58496250072
+capability to track::1.58496250072
+location rf reader::1.58496250072
+distinguishing between continuity::1.58496250072
+801.11b client device::1.58496250072
+two graphs shows::1.58496250072
+legally obtained copies::1.58496250072
+positioning system computed::1.58496250072
+university of washington::1.58496250072
+unlimited operational lifetime::1.58496250072
+calibration points give::1.58496250072
+indoor asset tracking::1.58496250072
+positioning technology gave::1.58496250072
+requested from ibm::1.58496250072
+reader and add::1.58496250072
+smaller experiment area::1.58496250072
+tagged items tagid::1.58496250072
+cellid is reported::1.58496250072
+readers physical detection::1.58496250072
+estimate is inversely::1.58496250072
+hardware position determination::1.58496250072
+engine was queried::1.58496250072
+compared to passive::1.58496250072
+things in indoor::1.58496250072
+flexibility in terms::1.58496250072
+2-5 year battery::1.58496250072
+payment of royalties::1.58496250072
+kind of automated::1.58496250072
+simple signal strength::1.58496250072
+robots current position::1.58496250072
+logical flow chart::1.58496250072
+research division almaden::1.58496250072
+virtually unlimited operational::1.58496250072
+determining user location::1.58496250072
+submitted for publication::1.58496250072
+overlap the intersection::1.58496250072
+series of experiments::1.58496250072
+positioning systems software::1.58496250072
+experiments carried out::1.58496250072
+techniques for automatic::1.58496250072
+cricket location support::1.58496250072
+cone expanding outwards::1.58496250072
+goods at pallet::1.58496250072
+position estimates continuous::1.58496250072
+room which resulted::1.58496250072
+return the unwanted::1.58496250072
+algorithm is similar::1.58496250072
+5.3.2 experiment set::1.58496250072
+provide three algorithms::1.58496250072
+affected by multipath::1.58496250072
+give higher weight::1.58496250072
+physical detection range::1.58496250072
+solve this problem::1.58496250072
+tryout several items::1.58496250072
+foosball table 13.75m::1.58496250072
+prototype system described::1.58496250072
+two averaging algorithms::1.58496250072
+based continuous positioning::1.58496250072
+report the position::1.58496250072
+sample points signal::1.58496250072
+internet at http::1.58496250072
+supply chain management::1.58496250072
+represent the result::1.58496250072
+removed or moved::1.58496250072
+ekahau positioning system::1.58496250072
+effective in practice::1.58496250072
+delineate 4x4 square-feet::1.58496250072
+customers can tryout::1.58496250072
+provide any information::1.58496250072
+robots random walk::1.58496250072
+sensing system robot::1.58496250072
+set of experiments::1.58496250072
+patilabh @ cse.msu.edu::1.58496250072
+wood2 and alan::1.58496250072
+technology no contact::1.58496250072
+eccentricity was close::1.58496250072
+sample points 1-6::1.58496250072
+systems are easily::1.58496250072
+points signal strength::1.58496250072
+out a series::1.58496250072
+improved to approximately::1.58496250072
+context aware computing::1.58496250072
+representing the read::1.58496250072
+describes rfid technology::1.58496250072
+reader periodically samples::1.58496250072
+reduce this variation::1.58496250072
+detected tags reading::1.58496250072
+base stations positioned::1.58496250072
+setup with non-uniform::1.58496250072
+run at 15mw::1.58496250072
+experiment were closely::1.58496250072
+close to positioning::1.58496250072
+items before deciding::1.58496250072
+position of tags::1.58496250072
+12.5m x 13.75m::1.58496250072
+prototype system works::1.58496250072
+helps big retailers::1.58496250072
+works by timing::1.58496250072
+four power levels::1.58496250072
+pcmcia card reader::1.58496250072
+signals provide additional::1.58496250072
+requirement and short-range::1.58496250072
+slightly higher compared::1.58496250072
+order to achieve::1.58496250072
+laptop or pda::1.58496250072
+signal strength based::1.58496250072
+entered the arena::1.58496250072
+copyrighted if accepted::1.58496250072
+computer science ibm::1.58496250072
+circle was determined::1.58496250072
+experiments we started::1.58496250072
+provide location information::1.58496250072
+battery and offer::1.58496250072
+customer never returns::1.58496250072
+planning to reduce::1.58496250072
+0-30 exp run::1.58496250072
+call this circle::1.58496250072
+suffer from disadvantages::1.58496250072
+intervals between estimates::1.58496250072
+out the large::1.58496250072
+wherenet location tracking::1.58496250072
+smaller error radius::1.58496250072
+report for early::1.58496250072
+distribution of consecutive::1.58496250072
+observed that tags::1.58496250072
+importance of increasing::1.58496250072
+experiment runs table::1.58496250072
+programmed to ignore::1.58496250072
+global positioning system::1.58496250072
+lacks the capability::1.58496250072
+track our client::1.58496250072
+access point coverage::1.58496250072
+1-6 and multiples::1.58496250072
+operation of large::1.58496250072
+restriction ; ultrasonic::1.58496250072
+give complete coverage::1.58496250072
+compute the location::1.58496250072
+intermec for donating::1.58496250072
+combines rfid technology::1.58496250072
+150-120 180-150 210-180::1.58496250072
+strength and claims::1.58496250072
+entity is located::1.58496250072
+bring a two::1.58496250072
+refine the position::1.58496250072
+track their assets::1.58496250072
+location support system::1.58496250072
+distance w.r.t samples::1.58496250072
+30-60 exp run::1.58496250072
+typical public library::1.58496250072
+survey and taxonomy::1.58496250072
+analyze the performance::1.58496250072
+read the encoded::1.58496250072
+signal strength information::1.58496250072
+overstocking or locate::1.58496250072
+reader would approximate::1.58496250072
+survey related work::1.58496250072
+reporting the location::1.58496250072
+tag per run::1.58496250072
+mechanism to track::1.58496250072
+imply higher probability::1.58496250072
+samples per tag::1.58496250072
+algorithm we investigate::1.58496250072
+make 3d positioning::1.58496250072
+cricket indoor location::1.58496250072
+terms of range::1.58496250072
+locate wi-fi devices::1.58496250072
+leave a facility::1.58496250072
+systems to adapt::1.58496250072
+close to 0.25m::1.58496250072
+shows the placement::1.58496250072
+passive rfid technology::1.58496250072
+automated tracking mechanism::1.58496250072
+180-150 210-180 240-210::1.58496250072
+folded pingpong table::1.58496250072
+space-continuous position estimates::1.58496250072
+reports @ us.ibm.com::1.58496250072
+immune to environmental::1.58496250072
+difference of arrival::1.58496250072
+210-180 240-210 270-240::1.58496250072
+positioning engine varies::1.58496250072
+tracking in indoor::1.58496250072
+out-performed the intersection::1.58496250072
+skyline drive hawthorne::1.58496250072
+area of location::1.58496250072
+tracking systems taxonomy::1.58496250072
+location and tracking::1.58496250072
+radio frequency identification::1.58496250072
+presented an inexpensive::1.58496250072
+positions of detected::1.58496250072
+typical rfid deployment::1.58496250072
+started the roomba::1.58496250072
+similar situation exists::1.58496250072
+reader is mounted::1.58496250072
+systems taxonomy continuous::1.58496250072
+harsh environmental conditions::1.58496250072
+weighted intersection err::1.58496250072
+shrinks the centroid::1.58496250072
+tag tracking gui::1.58496250072
+actualx meters meters::1.58496250072
+approximately three meters::1.58496250072
+client machine sends::1.58496250072
+concludes the paper::1.58496250072
+shown in table::1.58496250072
+characteristic of reader::1.58496250072
+higher error distance::1.58496250072
+improving the accuracy::1.58496250072
+order to quantify::1.58496250072
+drawing a series::1.58496250072
+determination technology location::1.58496250072
+error estimate circle::1.58496250072
+shows the computed::1.58496250072
+record the signals::1.58496250072
+surpassed the performance::1.58496250072
+clustering and probability::1.58496250072
+plain intersection err::1.58496250072
+represents the tag::1.58496250072
+space is cell-id::1.58496250072
+sample circles converges::1.58496250072
+base station visibility::1.58496250072
+multiple base stations::1.58496250072
+increasing the visibility::1.58496250072
+informative web site::1.58496250072
+wi-fi devices running::1.58496250072
+client device e.g::1.58496250072
+higher probability distribution::1.58496250072
+propose three algorithms::1.58496250072
+wellknow positioning systems::1.58496250072
+shows the average::1.58496250072
+computing the location::1.58496250072
+intermec pcmcia reader::1.58496250072
+two averages algorithm::1.58496250072
+median at convergence::1.58496250072
+required to converge::1.58496250072
+small detection range::1.58496250072
+ways to make::1.58496250072
+placement of tags::1.58496250072
+tag is concealed::1.58496250072
+current rfid systems::1.58496250072
+asset being tracked::1.58496250072
+passive rfid tags::1.58496250072
+5.3.1 experiment set::1.58496250072
+optimized for low::1.58496250072
+first few samples::1.58496250072
+indoor 3d location::1.58496250072
+rfid is emerging::1.58496250072
+position determination technology::1.58496250072
+didnt give complete::1.58496250072
+plain weighted intersection::1.58496250072
+passive tags work::1.58496250072
+feet were detected::1.58496250072
+wtdy intersec errest::1.58496250072
+compared to case::1.58496250072
+average positioning error::1.58496250072
+person or asset::1.58496250072
+space and continuity::1.58496250072
+close to 1.5m::1.58496250072
+hand is based::1.58496250072
+noted that due::1.58496250072
+calibration process involves::1.58496250072
+performed better giving::1.58496250072
+15mw and 5mw::1.58496250072
+prototype automatic location::1.58496250072
+giving better accuracy::1.58496250072
+future we plan::1.58496250072
+close to 3.5m::1.58496250072
+robotic crawler system::1.58496250072
+averages algorithms surpassed::1.58496250072
+disadvantages that limit::1.58496250072
+intersection area decreases::1.58496250072
+considered the readers::1.58496250072
+large error distance::1.58496250072
+readers detection circle::1.58496250072
+square-feet regions::1.0
+toll collection::1.0
+cases tags::1.0
+lower cost::1.0
+delineate 4x4::1.0
+algorithms greatly::1.0
+physical detection::1.0
+steady state::1.0
+larger physical::1.0
+periodically samples::1.0
+ibm watson::1.0
+smaller experiment::1.0
+reshaping supply::1.0
+work researchers::1.0
+public library::1.0
+exact location::1.0
+equally spaced::1.0
+current rfid::1.0
+ibm prior::1.0
+formally bluesoft::1.0
+portable system::1.0
+random movement::1.0
+measure signal::1.0
+wtdy intersec::1.0
+api gave::1.0
+uncertainty circle::1.0
+approximate area::1.0
+4.2.2 case::1.0
+system discussed::1.0
+expanding outwards::1.0
+acm transactions::1.0
+signal transmission::1.0
+cse 00-02-02::1.0
+feedback system::1.0
+systems taxonomy::1.0
+card reader::1.0
+uniformly spread::1.0
+experiments carried::1.0
+software current::1.0
+tag table::1.0
+consecutive detections::1.0
+higher probability::1.0
+spread-spectrum location::1.0
+indoor asset::1.0
+ultrasonic systems::1.0
+2-5 year::1.0
+running ekahau::1.0
+cse 01-08-03::1.0
+open room::1.0
+similar situation::1.0
+division almaden::1.0
+jonathan munson2::1.0
+two major::1.0
+computed positions::1.0
+simply providing::1.0
+random fashion::1.0
+provide location::1.0
+process establishes::1.0
+locate bats::1.0
+small retail::1.0
+antenna system::1.0
+detection circle::1.0
+strength information::1.0
+smaller area::1.0
+random walk::1.0
+systems expected::1.0
+roomba moves::1.0
+rf-based user::1.0
+ubisense limited::1.0
+150-120 180-150::1.0
+points signal::1.0
+us.ibm.com abstract::1.0
+positional offsets::1.0
+smaller error::1.0
+paper presents::1.0
+estimates limited::1.0
+computed coordinates::1.0
+entire area::1.0
+track tagged::1.0
+context aware::1.0
+two graphs::1.0
+east lansing::1.0
+tags location::1.0
+wireless companies::1.0
+sight restriction::1.0
+selected 15mw::1.0
+additional resolution::1.0
+important person::1.0
+improves positioning::1.0
+location support::1.0
+required re-calibration::1.0
+table 13.75m::1.0
+position determination::1.0
+primary examples::1.0
+involves drawing::1.0
+right book::1.0
+est figure::1.0
+tags reading::1.0
+circles overlap::1.0
+time-of-flight measurement::1.0
+robust localization::1.0
+tags emit::1.0
+manufacturing companies::1.0
+previous detections::1.0
+client system::1.0
+access mechanisms::1.0
+tracking mechanism::1.0
+high value::1.0
+estimate circle::1.0
+0-30 exp::1.0
+tracking users::1.0
+rf-ir combination::1.0
+four power::1.0
+unwanted books::1.0
+sample circles::1.0
+determination technology::1.0
+typical rfid::1.0
+large area::1.0
+reference rfid::1.0
+technology location::1.0
+bat ultrasonic::1.0
+scenario described::1.0
+points 1-6::1.0
+isolate bottlenecks::1.0
+5.3.1 experiment::1.0
+footprint compared::1.0
+estimate location::1.0
+reduce overstocking::1.0
+actual coordinates::1.0
+items require::1.0
+accurately delineate::1.0
+total radius::1.0
+figure 18a::1.0
+provide overlapping::1.0
+robots current::1.0
+radianse indoor::1.0
+track people::1.0
+term error::1.0
+rectangular base::1.0
+samples variance::1.0
+accuracy analysis::1.0
+algorithms surpassed::1.0
+science ibm::1.0
+large manufacturing::1.0
+transmission range::1.0
+non-uniform placement::1.0
+drive hawthorne::1.0
+prototype automatic::1.0
+time-continuous position::1.0
+cricket indoor::1.0
+system described::1.0
+track location::1.0
+estimated error::1.0
+earlier attempts::1.0
+systems software::1.0
+users inside::1.0
+higher compared::1.0
+straight lines::1.0
+dual-variable gain::1.0
+reader coverage::1.0
+steepest signal::1.0
+sensing technology::1.0
+typical public::1.0
+algorithm converges::1.0
+operational lifetime::1.0
+alan cole2::1.0
+amaresh rajasekharan::1.0
+calibration figure::1.0
+w.r.t samples::1.0
+military organizations::1.0
+greater degree::1.0
+expe rime::1.0
+average error::1.0
+logical flowchart::1.0
+3-5m intervals::1.0
+total number::1.0
+complete coverage::1.0
+skyline drive::1.0
+zurich limited::1.0
+overlapping coverage::1.0
+signal propagation::1.0
+informative web::1.0
+cole ibm::1.0
+collection system::1.0
+determine location::1.0
+report bluebot::1.0
+small detection::1.0
+densely spaced::1.0
+provide asset::1.0
+periodic basisnightly::1.0
+frequency identification::1.0
+versus technology::1.0
+ultra wideband::1.0
+measurement technique::1.0
+run shown::1.0
+roomba expects::1.0
+special note::1.0
+points give::1.0
+pcmcia card::1.0
+algorithm didnt::1.0
+location determined::1.0
+power levels::1.0
+portal based::1.0
+intersections imply::1.0
+smaller radius::1.0
+determining user::1.0
+combines rfid::1.0
+automated tracking::1.0
+accuracy close::1.0
+describes rfid::1.0
+strength plot::1.0
+simple presence::1.0
+definite pattern::1.0
+technologies mentioned::1.0
+60-90 exp::1.0
+meters meters::1.0
+big retailers::1.0
+coverage region::1.0
+true position::1.0
+coverage improves::1.0
+helps big::1.0
+based system::1.0
+alan cole::1.0
+read radius::1.0
+coverage area::1.0
+algorithms performed::1.0
+ez-pass toll::1.0
+library scenario::1.0
+automated indoor::1.0
+801.11b client::1.0
+large extent::1.0
+additional portability::1.0
+chain management::1.0
+support system::1.0
+statistical average::1.0
+readers locations::1.0
+give complete::1.0
+experiments showed::1.0
+briefly describes::1.0
+rfid scanner::1.0
+spaced calibration::1.0
+system computes::1.0
+30-60 exp::1.0
+actual x=15.2m::1.0
+presents directions::1.0
+stations positioned::1.0
+reader client::1.0
+intelligent navigation::1.0
+out two::1.0
+situation exists::1.0
+chess board::1.0
+recent years::1.0
+smaller device::1.0
+gave accuracies::1.0
+large variation::1.0
+simple techniques::1.0
+system combines::1.0
+technology gave::1.0
+wherenet location::1.0
+ieee infocom::1.0
+promising transmission::1.0
+real-world applications::1.0
+combines empirical::1.0
+systems location::1.0
+limited distribution::1.0
+add reference::1.0
+provide additional::1.0
+government departments::1.0
+taxonomy continuous::1.0
+pcmcia reader::1.0
+station visibility::1.0
+peer communications::1.0
+division thomas::1.0
+sastry duri::1.0
+area decreases::1.0
+continuous tracking::1.0
+bluetooth systems::1.0
+systems suffer::1.0
+ekahau tags::1.0
+smaller intersections::1.0
+coarse-grain positioning::1.0
+easily affected::1.0
+robotic crawler::1.0
+world applications::1.0
+uwb systems::1.0
+unlimited operational::1.0
+radius tend::1.0
+average positioning::1.0
+based wi-fi::1.0
+periodically crawls::1.0
+error close::1.0
+larger axis::1.0
+rf-reader enters::1.0
+circles converges::1.0
+tag tracking::1.0
+area chosen::1.0
+constant representing::1.0
+ekahau positioning::1.0
+carpeted area::1.0
+robot figure::1.0
+estimated position::1.0
+constantly send::1.0
+technology accuracy::1.0
+intersection sample::1.0
+badge location::1.0
+lesser variation::1.0
+librarians nightmare::1.0
+positioning error::1.0
+level didnt::1.0
+wrong location::1.0
+reader hardware::1.0
+location scanning::1.0
+reader periodically::1.0
+system employs::1.0
+plainy wtdy::1.0
+estimates needed::1.0
+ultrasound time-of-flight::1.0
+infrared systems::1.0
+experimental results::1.0
+est plain::1.0
+probability distributions::1.0
+tracking items::1.0
+ultrasonic technology::1.0
+distribution notice::1.0
+barcode technology::1.0
+propagation modeling::1.0
+average accuracy::1.0
+unlike case::1.0
+scene analysis::1.0
+unlike aeroscout::1.0
+gain partner::1.0
+cellphones location::1.0
+tag placement::1.0
+metal shelves::1.0
+march 2004.http::1.0
+higher error::1.0
+strength measurement::1.0
+imply higher::1.0
+reader connected::1.0
+30-60 60-90::1.0
+probability distribution::1.0
+rf-tag-based location::1.0
+center p.o::1.0
+locate spoiled::1.0
+multiple base::1.0
+60-90 90-120::1.0
+large lots::1.0
+plain intersection::1.0
+section confirm::1.0
+5mw power::1.0
+system robot::1.0
+specific requests::1.0
+partner sees::1.0
+device e.g::1.0
+intersection region::1.0
+tags work::1.0
+continuous positioning::1.0
+finer estimate::1.0
+180-150 210-180::1.0
+robot moves::1.0
+network adapter::1.0
+didnt give::1.0
+devices running::1.0
+location determination::1.0
+location crawling::1.0
+original calibration::1.0
+machine running::1.0
+wireless networks::1.0
+two sets::1.0
+distance convergence::1.0
+tracking gui::1.0
+visible tags::1.0
+signal strength-based::1.0
+accuracy provided::1.0
+averaged out::1.0
+government organizations::1.0
+slowly converge::1.0
+3.5-4 meters::1.0
+space-continuous position::1.0
+actual 15.2m::1.0
+location solution::1.0
+three-fold improvement::1.0
+based location::1.0
+major change::1.0
+open 12.5m::1.0
+tag tracker::1.0
+two averages::1.0
+wirelessly connected::1.0
+setup gave::1.0
+4x4 square-feet::1.0
+0-30 30-60::1.0
+add information::1.0
+important technology::1.0
+devices location::1.0
+algorithm depends::1.0
+detection samples::1.0
+readers physical::1.0
+attracted considerable::1.0
+sacrificing continuity::1.0
+empirical measurements::1.0
+human direction::1.0
+actualx meters::1.0
+detected tags::1.0
+folded pingpong::1.0
+slowly shrinks::1.0
+automatic location-sensing::1.0
+significant change::1.0
+recording device::1.0
+experiment proceeds::1.0
+short range::1.0
+errest actualy::1.0
+crawling abhishek::1.0
+samples increases::1.0
+bat location::1.0
+room entrance::1.0
+smooth out::1.0
+positioning engines::1.0
+foosball table::1.0
+separate points::1.0
+entire room::1.0
+line-of-sight requirement::1.0
+rfid-tagged item::1.0
+rfid deployment::1.0
+confidence level::1.0
+identifying large::1.0
+current system::1.0
+unique identifier::1.0
+pingpong table::1.0
+active bat::1.0
+two aps::1.0
+experiment room::1.0
+greater resolution::1.0
+process involves::1.0
+90-120 150-120::1.0
+in-building rf-based::1.0
+210-180 240-210::1.0
+system works::1.0
+directed pattern::1.0
+recent past::1.0
+experiment runs::1.0
+uniform distribution::1.0
+signal strengths::1.0
+fast response::1.0
+require recalibration::1.0
+systems api::1.0
+pcmcia port::1.0
+longer sides::1.0
+inexpensive automated::1.0
+readers detection::1.0
+base stations::1.0
+error values::1.0
+weighted averages::1.0
+point coverage::1.0
+physical footprint::1.0
+signals provide::1.0
+long lived::1.0
+machine sends::1.0
+tags software::1.0
+algorithm computes::1.0
+rf-signal strength::1.0
+virtually unlimited::1.0
+location inside::1.0
+bluebot performance::1.0
+radio transceiver::1.0
+environment altered::1.0
+harsh environmental::1.0
+wi-fi signal::1.0
+ubisense march::1.0
+march 2004.pdf::1.0
+maximum gain::1.0
+slightly higher::1.0
+algorithms work::1.0
+didnt converge::1.0
+radio signal::1.0
+cooltown project::1.0
+hand works::1.0
+easily achieved::1.0
+abhishek patil::1.0
+computed location::1.0
+larger confidence::1.0
+antenna controls::1.0
+inversely proportional::1.0
+automatically move::1.0
+2.4ghz band::1.0
+asymmetric coverage::1.0
+averaging effect::1.0
+algorithm run::1.0
+present relative::1.0
+calibrated area::1.0
+270-240 300-270::1.0
+algorithms converged::1.0
+systems engine::1.0
+paper combines::1.0
+onboard radio::1.0
+web site::1.0
+feet max::1.0
+signal transmitted::1.0
+assets location::1.0
+close examination::1.0
+patil department::1.0
+high variation::1.0
+improve accuracy::1.0
+two averaging::1.0
+limited::0.0
+5.3.2 experiment::0.0
+1,2::0.0
+four::0.0
+240-210::0.0
+worked::0.0
+ezpass::0.0
+flannery::0.0
+aug::0.0
+xti::0.0
+updated::0.0
+retail::0.0
+updates::0.0
+tagging::0.0
+xt2::0.0
+solution::0.0
+4x4::0.0
+errors::0.0
+selected::0.0
+establishes::0.0
+increasing::0.0
+consisting::0.0
+process is repeated::0.0
+reported::0.0
+munson::0.0
+active::0.0
+obtained::0.0
+height of approximately::0.0
+items::0.0
+reports::0.0
+manage to return::0.0
+00-02-02::0.0
+visible::0.0
+total::0.0
+presents::0.0
+call::0.0
+technologies wi-fi signal::0.0
+coverage improves positioning::0.0
+slocombe::0.0
+est y plainy::0.0
+room::0.0
+err::0.0
+setup::0.0
+circles are shown::0.0
+transparency::0.0
+bluebot::0.0
+india::0.0
+aesthetic or security::0.0
+david::0.0
+end::0.0
+provide::0.0
+machine::0.0
+lan::0.0
+description::0.0
+earlier::0.0
+wrong::0.0
+lau::0.0
+wood2::0.0
+algorithms::0.0
+enter::0.0
+operate::0.0
+realizing::0.0
+restriction::0.0
+feedback::0.0
+office::0.0
+expects::0.0
+uwb::0.0
+spoiled cargo::0.0
+aps with directional::0.0
+pcmcia::0.0
+affected::0.0
+combination::0.0
+shows our tag::0.0
+similar::0.0
+band::0.0
+xt1::0.0
+915mhz::0.0
+laboratory::0.0
+algorithm to determine::0.0
+network::0.0
+gradient::0.0
+01-08-03::0.0
+e.g::0.0
+weighted::0.0
+reader::0.0
+standard::0.0
+intersec::0.0
+problem of asset::0.0
+non-line-of-sight::0.0
+inexpensive::0.0
+mingo::0.0
+primary::0.0
+mobicom::0.0
+items tagid::0.0
+heights::0.0
+needed::0.0
+boundingbox::0.0
+ceiling::0.0
+legally::0.0
+distance::0.0
+5mw::0.0
+location reported::0.0
+showed::0.0
+project::0.0
+spoiled::0.0
+expe::0.0
+modulating::0.0
+fashion::0.0
+mind::0.0
+raw::0.0
+circle for sample::0.0
+time-of-flight::0.0
+chess::0.0
+circles::0.0
+transactions::0.0
+object::0.0
+patil1::0.0
+system called bluebot::0.0
+medical::0.0
+partition::0.0
+cellid::0.0
+investing::0.0
+location inside buildings::0.0
+consumer::0.0
+section::0.0
+random::0.0
+infrared::0.0
+radio::0.0
+location-aware services::0.0
+cole2::0.0
+folded::0.0
+continuity::0.0
+preferred::0.0
+watson::0.0
+cadman::0.0
+runs::0.0
+lookout::0.0
+colea::0.0
+automatic::0.0
+large-scale::0.0
+=300::0.0
+out-performed::0.0
+reference::0.0
+detection::0.0
+depends::0.0
+radius::0.0
+modulating the reflected::0.0
+lots::0.0
+symmetric::0.0
+drawn::0.0
+samples to refine::0.0
+eotd::0.0
+combines empirical measurements::0.0
+metal::0.0
+rime::0.0
+extent::0.0
+modeling::0.0
+improve::0.0
+accurate::0.0
+adapter::0.0
+uncertainty::0.0
+technology accuracy analysis::0.0
+variance::0.0
+requests::0.0
+suggest::0.0
+rti::0.0
+laptop wirelessly::0.0
+square-feet::0.0
+engines::0.0
+expected::0.0
+entered::0.0
+board::0.0
+wherenet::0.0
+easy::0.0
+points for coverage::0.0
+bat location system::0.0
+lesser::0.0
+dept::0.0
+off-the-shelf location positioning::0.0
+gave::0.0
+procedure::0.0
+newer ways::0.0
+characterize::0.0
+cone::0.0
+aeroscout::0.0
+mechanism is required::0.0
+algorithm is inversely::0.0
+seattle::0.0
+inside::0.0
+make::0.0
+rf-signal::0.0
+lan infrastructure::0.0
+cell-id::0.0
+ultrasonic location system::0.0
+portal::0.0
+military::0.0
+strength::0.0
+cost-effectiveness::0.0
+5.3.2::0.0
+5.3.1::0.0
+off-the-shelf::0.0
+scenario::0.0
+claims::0.0
+significant advantage::0.0
+240-210 270-240 300-270::0.0
+protocol::0.0
+proposed::0.0
+isolate::0.0
+laptop::0.0
+similar to weighted::0.0
+human::0.0
+depicts::0.0
+passive::0.0
+spread::0.0
+advantages::0.0
+positioning systems api::0.0
+east::0.0
+210-180::0.0
+bluebot fixed::0.0
+unique::0.0
+tracker gui::0.0
+rnt::0.0
+set b figure::0.0
+informative::0.0
+right::0.0
+people::0.0
+sends::0.0
+distance w.r.t sample::0.0
+meters::0.0
+altered::0.0
+dense::0.0
+tracked::0.0
+issue on gps::0.0
+barcode::0.0
+considered employing::0.0
+ple::0.0
+signals transmitted::0.0
+peer::0.0
+manufacturing::0.0
+based continuous location::0.0
+bahl::0.0
+browse::0.0
+ensure::0.0
+slightly::0.0
+automatically::0.0
+facility::0.0
+gearing::0.0
+bats::0.0
+rf-based user location::0.0
+intersection area slowly::0.0
+support::0.0
+constantly::0.0
+knowing::0.0
+approximate::0.0
+resulted::0.0
+battery::0.0
+manufacturers::0.0
+bottlenecks::0.0
+encoded::0.0
+15.2m::0.0
+removed::0.0
+true::0.0
+attached::0.0
+yorktown::0.0
+devices::0.0
+computing::0.0
+abstract::0.0
+visible tags software::0.0
+distributions::0.0
+physical::0.0
+floor::0.0
+30-60::0.0
+unlike conventional::0.0
+30m::0.0
+uniformly::0.0
+3.5m::0.0
+aware::0.0
+technology rfid::0.0
+longer::0.0
+assume::0.0
+cheaper::0.0
+omnidirectional access::0.0
+chain::0.0
+global::0.0
+spaced::0.0
+uneven::0.0
+2.4ghz::0.0
+environment::0.0
+finally::0.0
+location-sensing systems::0.0
+division::0.0
+patilabh::0.0
+general::0.0
+perceived::0.0
+running the positioning::0.0
+short-range::0.0
+level::0.0
+gui::0.0
+leave::0.0
+item::0.0
+round::0.0
+scanning can begin::0.0
+err est figure::0.0
+cost::0.0
+port::0.0
+samples which tags::0.0
+assistance::0.0
+uniform::0.0
+current::0.0
+short-range signal::0.0
+badge::0.0
+smailagic::0.0
+shankar::0.0
+based::0.0
+falcao::0.0
+rc23510::0.0
+heubler::0.0
+system with high::0.0
+navigation::0.0
+2004.http::0.0
+limitations that suggest::0.0
+logical::0.0
+flexibility::0.0
+software current location::0.0
+transactions on information::0.0
+working::0.0
+entities::0.0
+give::0.0
+introducing::0.0
+cases::0.0
+organizations::0.0
+ibm::0.0
+sastry::0.0
+applying a probabilistic::0.0
+values::0.0
+achieve location::0.0
+making::0.0
+dedicated::0.0
+figure::0.0
+expanding::0.0
+sample::0.0
+active rfid::0.0
+refine::0.0
+discussion::0.0
+positional::0.0
+immune::0.0
+out the offset::0.0
+map::0.0
+mar::0.0
+max::0.0
+applications::0.0
+radio based::0.0
+value::0.0
+improving::0.0
+tagged::0.0
+years::0.0
+experiments::0.0
+report for sample::0.0
+statistical::0.0
+raw location::0.0
+ieee::0.0
+blocked::0.0
+define a convergence::0.0
+medical equipment::0.0
+wallach::0.0
+coordinates::0.0
+est plain weighted::0.0
+dawood::0.0
+share a significant::0.0
+add reference rfid::0.0
+chiesa::0.0
+records::0.0
+nov::0.0
+term::0.0
+corners::0.0
+provide the precise::0.0
+individually::0.0
+zurich::0.0
+preferred for tagging::0.0
+roussos::0.0
+readers manage::0.0
+year::0.0
+reprints::0.0
+shown::0.0
+space::0.0
+increase::0.0
+attracted::0.0
+ability to accurately::0.0
+internet::0.0
+correct::0.0
+shows::0.0
+noessel::0.0
+directional antennas::0.0
+algorithm s y err::0.0
+mechanisms::0.0
+unwanted::0.0
+wi-fi::0.0
+location this algorithm::0.0
+wlan::0.0
+long::0.0
+carry::0.0
+message::0.0
+open::0.0
+accommodate::0.0
+size::0.0
+structured::0.0
+returns::0.0
+plainx::0.0
+plainy::0.0
+asymmetric::0.0
+employing a feedback::0.0
+cellular system::0.0
+continuous::0.0
+accurately::0.0
+alan::0.0
+representing::0.0
+effective::0.0
+provide position::0.0
+require::0.0
+future::0.0
+aesthetic::0.0
+high accuracy::0.0
+ithas::0.0
+affected the positioning::0.0
+802.11b::0.0
+sam::0.0
+turned::0.0
+locations::0.0
+place::0.0
+efficient::0.0
+offer::0.0
+infocom::0.0
+ideas::0.0
+converges::0.0
+note::0.0
+equipment::0.0
+converged::0.0
+performance::0.0
+strengths::0.0
+technology to increase::0.0
+begin::0.0
+multiple::0.0
+falls::0.0
+wireless::0.0
+considered::0.0
+average::0.0
+steady::0.0
+drive::0.0
+order::0.0
+pattern::0.0
+precise::0.0
+wellknow::0.0
+multispectral::0.0
+copyrighted::0.0
+corner::0.0
+ground::0.0
+lansing::0.0
+first::0.0
+lighter::0.0
+distortion::0.0
+low gain::0.0
+median::0.0
+summary::0.0
+skyline::0.0
+borriello::0.0
+system show::0.0
+averaging algorithm didnt::0.0
+relative::0.0
+wideband::0.0
+bat ultrasonic location::0.0
+reference rfid tags::0.0
+detect::0.0
+ways::0.0
+estimated::0.0
+definite::0.0
+yti::0.0
+reading::0.0
+arrival::0.0
+notice::0.0
+infrastructure::0.0
+vertical::0.0
+receivers::0.0
+high resulting::0.0
+article::0.0
+installation::0.0
+region::0.0
+directional::0.0
+yt2::0.0
+emit::0.0
+propagation::0.0
+tracking inside buildings::0.0
+indoor positioning::0.0
+server machine::0.0
+combines::0.0
+capable::0.0
+detected::0.0
+distinguishing::0.0
+range and cost-effectiveness::0.0
+tracking equipment::0.0
+direction::0.0
+maximum accuracy::0.0
+carton::0.0
+probabilistic model::0.0
+situation::0.0
+versus::0.0
+tdoa::0.0
+donating::0.0
+uwb tags::0.0
+yt1::0.0
+technology::0.0
+enabling::0.0
+expensive tracking::0.0
+considerable::0.0
+propose::0.0
+autonomously::0.0
+disadvantages::0.0
+rfid::0.0
+transceiver::0.0
+running::0.0
+edges::0.0
+footprint::0.0
+relies::0.0
+area map::0.0
+solve::0.0
+inability::0.0
+model::0.0
+rajasekharan::0.0
+researchers::0.0
+justify::0.0
+0.5m::0.0
+tracked entity::0.0
+multiples::0.0
+sampled::0.0
+signals rf-ir::0.0
+11.5m::0.0
+tag-position::0.0
+value to justify::0.0
+probabilistic::0.0
+detects a tag::0.0
+real::0.0
+represents::0.0
+read::0.0
+early::0.0
+uhf pc reader::0.0
+world::0.0
+part::0.0
+accepted::0.0
+server::0.0
+facing::0.0
+retailers::0.0
+view::0.0
+area slowly::0.0
+depend::0.0
+associating items::0.0
+0.25m::0.0
+table::0.0
+confirm::0.0
+recorded::0.0
+tracking solutions::0.0
+reader detects::0.0
+power::0.0
+gain antenna controls::0.0
+ez-pass::0.0
+tested item::0.0
+padmanabhan::0.0
+12.5m::0.0
+comparison::0.0
+xnt::0.0
+stations::0.0
+industry::0.0
+infrared technology::0.0
+practical::0.0
+client::0.0
+research laboratory::0.0
+15mw::0.0
+determine::0.0
+area::0.0
+300-270::0.0
+moves autonomously::0.0
+start::0.0
+points were spaced::0.0
+complete::0.0
+item passes::0.0
+agrawala::0.0
+bat can locate::0.0
+technologies::0.0
+prototype::0.0
+moved::0.0
+examine::0.0
+associating::0.0
+lifetime::0.0
+moves::0.0
+antenna::0.0
+approximate a vertical::0.0
+requested::0.0
+briefly::0.0
+intermec::0.0
+hawthorne::0.0
+ansi::0.0
+track::0.0
+coverage::0.0
+tracking technologies mentioned::0.0
+delineate::0.0
+density of calibration::0.0
+quantify::0.0
+original::0.0
+represent::0.0
+maximum::0.0
+positioning system computes::0.0
+based where tagged::0.0
+referring::0.0
+companies::0.0
+signal strength gradient::0.0
+wi-fi systems::0.0
+diffuse::0.0
+government::0.0
+adapt::0.0
+case::0.0
+results::0.0
+vertex::0.0
+points were powered::0.0
+difference::0.0
+high gain::0.0
+form::0.0
+seeking newer::0.0
+reshaping supply chain::0.0
+small::0.0
+space-continuous::0.0
+employing::0.0
+portable::0.0
+past::0.0
+strength measure::0.0
+algorithms can bring::0.0
+niculescu::0.0
+sum::0.0
+offsets::0.0
+intersect::0.0
+public::0.0
+day with varying::0.0
+movement::0.0
+tags::0.0
+promising::0.0
+ranges::0.0
+directions::0.0
+i.e::0.0
+system was queried::0.0
+arena::0.0
+publisher::0.0
+improves positioning systems::0.0
+asset tracking technologies::0.0
+experience::0.0
+robotic location::0.0
+prior::0.0
+amount::0.0
+periodic::0.0
+university east lansing::0.0
+people playing::0.0
+technique::0.0
+dual-variable::0.0
+two omnidirectional access::0.0
+information by modulating::0.0
+two omnidirectional::0.0
+conventional::0.0
+wanted::0.0
+presence::0.0
+two::0.0
+periodic asset-locating::0.0
+characteristics::0.0
+helps::0.0
+samples is high::0.0
+systems are radio::0.0
+tester::0.0
+marks::0.0
+tested::0.0
+varying::0.0
+mounted::0.0
+tags software current::0.0
+shelves::0.0
+dev::0.0
+reshaping::0.0
+bring a three-fold::0.0
+dec::0.0
+cse.msu.edu::0.0
+asset-locating sweep::0.0
+cooltown::0.0
+share::0.0
+wal-mart::0.0
+office partition::0.0
+lacks::0.0
+axis::0.0
+information::0.0
+sits::0.0
+advantage::0.0
+cse::0.0
+explains::0.0
+practical robust::0.0
+ubiquitous::0.0
+communicating::0.0
+tracks our client::0.0
+active bat location::0.0
+reflect::0.0
+eeti::0.0
+wtdx intersec errest::0.0
+strength map::0.0
+short::0.0
+laptop wirelessly connected::0.0
+misra::0.0
+height::0.0
+custom-built::0.0
+range than passive::0.0
+enters::0.0
+patil::0.0
+conventional rf systems::0.0
+september::0.0
+taxonomy::0.0
+installed::0.0
+radar::0.0
+paper::0.0
+suffer::0.0
+carpeted::0.0
+exact::0.0
+270-240::0.0
+3,2::0.0
+wrt::0.0
+systems::0.0
+differed::0.0
+wtdy::0.0
+wtdx::0.0
+crawls::0.0
+finer::0.0
+uhf::0.0
+good::0.0
+return::0.0
+seeking::0.0
+timestamp::0.0
+pingpong::0.0
+number::0.0
+permissible::0.0
+foot::0.0
+hunted::0.0
+easily::0.0
+presented::0.0
+capability::0.0
+ynt::0.0
+found::0.0
+toll collection system::0.0
+weight::0.0
+hard::0.0
+reduce::0.0
+expect::0.0
+measurement::0.0
+positioning technologies::0.0
+operation::0.0
+haifa::0.0
+cone expanding::0.0
+interesection::0.0
+tag distribution::0.0
+print::0.0
+non-uniform::0.0
+issue::0.0
+two primary::0.0
+localization::0.0
+geared::0.0
+wireless base::0.0
+base::0.0
+continuous location positioning::0.0
+device and records::0.0
+positioning::0.0
+plot::0.0
+ultrasonic location::0.0
+major::0.0
+gain antenna system::0.0
+probability::0.0
+system computed::0.0
+reflected::0.0
+feet::0.0
+points installed::0.0
+approximately::0.0
+system robot figure::0.0
+passes::0.0
+differ::0.0
+systems api gave::0.0
+introduction::0.0
+provide a position::0.0
+year battery::0.0
+station::0.0
+show::0.0
+4.2.1 case::0.0
+gps::0.0
+high per-item::0.0
+tracking::0.0
+std::0.0
+roomba robotic::0.0
+kind::0.0
+18a::0.0
+system and passive::0.0
+averaging algorithms depend::0.0
+recording::0.0
+playing::0.0
+results of experiments::0.0
+90-120::0.0
+device by applying::0.0
+categorized::0.0
+variance err est::0.0
+sets of experiments::0.0
+couch::0.0
+liu::0.0
+4ft::0.0
+gui before convergence::0.0
+3.71m::0.0
+added::0.0
+system for locating::0.0
+cargo::0.0
+chart::0.0
+average out::0.0
+plan::0.0
+significant::0.0
+services::0.0
+measured::0.0
+13.75m::0.0
+siewiorek::0.0
+rf-reader::0.0
+4.2.2::0.0
+4.2.1::0.0
+thomas::0.0
+standard protocol::0.0
+accuracies::0.0
+enabling location-aware::0.0
+offset close::0.0
+large::0.0
+surpassed::0.0
+find::0.0
+copyright::0.0
+series::0.0
+alan cole ibm::0.0
+rf-ir::0.0
+abhishek patil1::0.0
+olivetti::0.0
+major limitations::0.0
+omnidirectional access points::0.0
+tracking inside::0.0
+plain averages algorithm::0.0
+line-of-sight::0.0
+system to provide::0.0
+valuable::0.0
+closely::0.0
+rt2::0.0
+aware computing::0.0
+remove::0.0
+investigate::0.0
+filled::0.0
+emergency medical::0.0
+cole::0.0
+achieved::0.0
+flow chart::0.0
+180-150::0.0
+proposed several location-sensing::0.0
+sec::0.0
+overstocking::0.0
+close::0.0
+system uses wi-fi::0.0
+localization over large-scale::0.0
+libraries::0.0
+determined::0.0
+consecutive::0.0
+give higher::0.0
+conditions::0.0
+special issue::0.0
+off-the-shelf location::0.0
+recently::0.0
+premises::0.0
+attention::0.0
+foot print::0.0
+presence technologies::0.0
+response::0.0
+improved::0.0
+improves::0.0
+context::0.0
+higher number::0.0
+system combines empirical::0.0
+experimental::0.0
+100mw::0.0
+deciding::0.0
+simple::0.0
+sweep::0.0
+simply::0.0
+sees::0.0
+improvement::0.0
+expensive::0.0
+described::0.0
+due::0.0
+rfid for identifying::0.0
+30mw::0.0
+describes::0.0
+feburary::0.0
+change::0.0
+maintenance::0.0
+ekahau::0.0
+library scenario described::0.0
+box::0.0
+lived::0.0
+flight::0.0
+samples::0.0
+precision::0.0
+gain partner sees::0.0
+determination::0.0
+real world::0.0
+case a 12.5m::0.0
+replaces::0.0
+straight::0.0
+empirical::0.0
+expensive than active::0.0
+9cm::0.0
+error::0.0
+carry out::0.0
+ladd::0.0
+averaging::0.0
+note about run::0.0
+enge::0.0
+time-continuous::0.0
+vor::0.0
+tagging goods::0.0
+cole ibm research::0.0
+estimate::0.0
+expected error::0.0
+contents::0.0
+resulting::0.0
+higher::0.0
+screenshot::0.0
+triangulation::0.0
+levels::0.0
+moving::0.0
+user::0.0
+robust::0.0
+recent::0.0
+rfid-tagged::0.0
+lower::0.0
+information systems::0.0
+analysis::0.0
+ez-pass toll collection::0.0
+landmarc::0.0
+person::0.0
+calibrated::0.0
+briefly describes rfid::0.0
+run figure::0.0
+tdoa algorithm::0.0
+things::0.0
+positioned::0.0
+ubitags::0.0
+attempts for location::0.0
+nanoseconds::0.0
+present results::0.0
+shape::0.0
+intervals::0.0
+playing foosball::0.0
+david wood2::0.0
+intersection::0.0
+area is reported::0.0
+readers::0.0
+5,2::0.0
+realize indoor::0.0
+signals::0.0
+us.ibm.com::0.0
+location::0.0
+space continuous::0.0
+olivetti research::0.0
+flowchart::0.0
+customers::0.0
+march::0.0
+emergency::0.0
+big::0.0
+performance of intersection::0.0
+unlimited::0.0
+tracks::0.0
+wirelessly::0.0
+signal::0.0
+ignore::0.0
+continue::0.0
+technologies wi-fi::0.0
+samples to compute::0.0
+essential::0.0
+carried out two::0.0
+prior to publication::0.0
+obtained copies::0.0
+back::0.0
+150-120::0.0
+carton level::0.0
+examples::0.0
+sight::0.0
+scale::0.0
+measurements::0.0
+centroid::0.0
+proc::0.0
+run::0.0
+algorithm didnt converge::0.0
+steggles::0.0
+concealed::0.0
+gibbons::0.0
+notes the current::0.0
+goods::0.0
+optimized::0.0
+range::0.0
+taxonomy of location::0.0
+60-90 90-120 150-120::0.0
+distributors::0.0
+positioning systems expected::0.0
+spread-spectrum::0.0
+proportional::0.0
+w0502-005::0.0
+clustering::0.0
+computer::0.0
+fast::0.0
+wireless lan::0.0
+analyze::0.0
+royalties::0.0
+inches::0.0
+positioning technology accuracy::0.0
+newer::0.0
+line::0.0
+youssef::0.0
+directed::0.0
+characteristic::0.0
+intermec uhf::0.0
+1.5m::0.0
+estimates::0.0
+sopieva::0.0
+calculated::0.0
+algorithm out-performed::0.0
+constant::0.0
+security::0.0
+flow::0.0
+entrance::0.0
+engineering::0.0
+associates::0.0
+strength gradient::0.0
+research::0.0
+smaller foot::0.0
+distance wrt samples::0.0
+vertical cone::0.0
+work::0.0
+location for context::0.0
+remove any positional::0.0
+current location sensing::0.0
+application::0.0
+points::0.0
+department::0.0
+algorithms depend::0.0
+users::0.0
+provided::0.0
+early dissemination::0.0
+robots::0.0
+line of sight::0.0
+est::0.0
+algorithm to converge::0.0
+sides::0.0
+technology based::0.0
+algorithm::0.0
+virtually::0.0
+required::0.0
+departments::0.0
+requires::0.0
+reflected signal::0.0
+illustrates::0.0
+issued::0.0
+4.2.1 was close::0.0
+tag-position estimation::0.0
+illustrated::0.0
+actualy::0.0
+system reported::0.0
+3.5-4::0.0
+recording sample::0.0
+send::0.0
+outwards::0.0
+per-item cost::0.0
+include::0.0
+strength measured::0.0
+801.11b::0.0
+distribution w.r.t::0.0
+hardware position::0.0
+hopper::0.0
+average algorithm::0.0
+asset::0.0
+distribution::0.0
+cellular::0.0
+bounding::0.0
+specific::0.0
+surgeon::0.0
+converge::0.0
+entire::0.0
+multipath distortion::0.0
+algorithm worked::0.0
+transmission::0.0
+positions::0.0
+notes::0.0
+attempts::0.0
+average plain::0.0
+described earlier::0.0
+noted::0.0
+solutions::0.0
+locate::0.0
+smaller::0.0
+rudys::0.0
+fold::0.0
+imply::0.0
+concludes::0.0
+developed::0.0
+cover::0.0
+giving::0.0
+networks::0.0
+access::0.0
+experiment::0.0
+errest::0.0
+degree::0.0
+genz::0.0
+attached rfid::0.0
+products for real-world::0.0
+didnt::0.0
+larger::0.0
+engine::0.0
+products::0.0
+involves::0.0
+global positioning::0.0
+re-calibration::0.0
+asset-locating::0.0
+aps::0.0
+manage::0.0
+spoton::0.0
+determine user::0.0
+api::0.0
+confidence::0.0
+haeberlen::0.0
+usa::0.0
+average number::0.0
+periodically::0.0
+examination::0.0
+communications::0.0
+jonathan::0.0
+milliseconds::0.0
+robots random::0.0
+combination or ultrasonic::0.0
+formally::0.0
+started::0.0
+crawler system::0.0
+visibility::0.0
+technology for asset::0.0
+sees the tag::0.0
+runs table::0.0
+normalized::0.0
+antennas::0.0
+actualx::0.0
+detects::0.0
+circle::0.0
+customer::0.0
+account::0.0
+continuous location::0.0
+portability::0.0
+system had high::0.0
+averaged::0.0
+rectangle::0.0
+ekahau client::0.0
+averages::0.0
+performed::0.0
+point::0.0
+beijing::0.0
+distribution of calibration::0.0
+process::0.0
+discussed::0.0
+high::0.0
+densely::0.0
+tag::0.0
+acm::0.0
+employs::0.0
+level didnt give::0.0
+arrival or simple::0.0
+ee+r::0.0
+regions::0.0
+varies::0.0
+elliptical::0.0
+tags are categorized::0.0
+approximately 4ft::0.0
+intelligent::0.0
+positioning systems location::0.0
+greatly::0.0
+intermec pcmcia::0.0
+buildings::0.0
+coarse-grain::0.0
+collection::0.0
+based wi-fi systems::0.0
+points and positioning::0.0
+device being tracked::0.0
+robot::0.0
+crawling::0.0
+map and recording::0.0
+move::0.0
+technologies for asset::0.0
+report::0.0
+cambridge::0.0
+onboard::0.0
+chosen::0.0
+limited distribution notice::0.0
+pallet::0.0
+w.r.t::0.0
+covered::0.0
+acknowledgments::0.0
+13m::0.0
+consumer goods::0.0
+front::0.0
+assets::0.0
+realize::0.0
+february::0.0
+location thereby enabling::0.0
+setup figure::0.0
+investing heavily::0.0
+university::0.0
+ubiquitous computing::0.0
+transmitted::0.0
+identifies::0.0
+identifier::0.0
+programmed::0.0
+related::0.0
+bluetooth::0.0
+frequency::0.0
+measure::0.0
+bat::0.0
+special::0.0
+out::0.0
+computes an estimate::0.0
+strength pattern::0.0
+tagid::0.0
+per-item::0.0
+sensing using active::0.0
+give better accuracy::0.0
+visibility and signal::0.0
+good comparison::0.0
+samples required::0.0
+system to track::0.0
+determining::0.0
+bluesoft::0.0
+times::0.0
+timed::0.0
+transmission are two::0.0
+locating::0.0
+austin::0.0
+locate wi-fi::0.0
+scanning::0.0
+scene::0.0
+set::0.0
+people and things::0.0
+proposing::0.0
+management::0.0
+publication::0.0
+circle drawn::0.0
+system::0.0
+detectable::0.0
+positioning report::0.0
+low::0.0
+algorithms combine::0.0
+errest actualy ekahau::0.0
+2-5::0.0
+shelf::0.0
+michigan state university::0.0
+environmental::0.0
+strength-based::0.0
+observed::0.0
+times that item::0.0
+submitted::0.0
+inversely::0.0
+provide additional resolution::0.0
+exp::0.0
+4x4 square-feet regions::0.0
+providing::0.0
+result::0.0
+shrinks::0.0
+3.71m foosball::0.0
+lines::0.0
+3-5m::0.0
+ultrasonic::0.0
+p.o::0.0
+engine was programmed::0.0
+closely spaced::0.0
+mechanism::0.0
+contact::0.0
+based systems::0.0
+accuracy::0.0
+13.75m room::0.0
+techniques::0.0
+location-aware::0.0
+expect a uniform::0.0
+connected::0.0
+device::0.0
+tracking via robotic::0.0
+payment::0.0
+placement::0.0
+systems for ubiquitous::0.0
+repeated::0.0
+sensors::0.0
+graphs::0.0
+typical::0.0
+automated indoor asset::0.0
+fact::0.0
+identifying::0.0
+emerging::0.0
+indoor::0.0
+12m::0.0
+bring::0.0
+planning::0.0
+larger physical footprint::0.0
+principal::0.0
+roomba::0.0
+knowledge::0.0
+graphs shows::0.0
+controls::0.0
+operational::0.0
+jan::0.0
+surroundings::0.0
+heavily in rfid::0.0
+employed::0.0
+pcmcia rfid::0.0
+achieve::0.0
+michigan::0.0
+ensure maximum::0.0
+principal techniques::0.0
+timing::0.0
+applying::0.0
+entity::0.0
+queried::0.0
+harsh::0.0
+estimate that falls::0.0
+horizontally::0.0
+approach::0.0
+cricket location::0.0
+differential::0.0
+processed::0.0
+rf-based::0.0
+moving of office::0.0
+fixed::0.0
+requirement::0.0
+computed::0.0
+exists::0.0
+in-building::0.0
+operates::0.0
+mentioned::0.0
+computes::0.0
+rime nt runs::0.0
+points are added::0.0
+terms::0.0
+closer::0.0
+multipath::0.0
+record::0.0
+nightmare::0.0
+recalibration::0.0
+tend::0.0
+targeted::0.0
+state::0.0
+identification::0.0
+low value::0.0
+change in environmental::0.0
+email::0.0
+power level didnt::0.0
+communications and specific::0.0
+ability::0.0
+legally obtained::0.0
+importance::0.0
+focus::0.0
+60-90::0.0
+key::0.0
+scenario described earlier::0.0
+engine varies::0.0
+first round::0.0
+simple signal::0.0
+discussion the asset::0.0
+cisco::0.0
+inexpensive automated indoor::0.0
+estimation::0.0
+large open::0.0
+timing signals::0.0
+wall::0.0
+environments::0.0
+walk::0.0
+steepest signal strength::0.0
+power spread-spectrum::0.0
+physical footprint compared::0.0
+decreases::0.0
+respect::0.0
+tagged entities::0.0
+gillette::0.0
+powered::0.0
+card::0.0
+copies::0.0
+slowly::0.0
+advertised an average::0.0
+jpmunson::0.0
+define::0.0
+controlled::0.0
+received::0.0
+rajasekharan at ibm::0.0
+running a wi-fi::0.0
+estimate for sample::0.0
+research center p.o::0.0
+abhishek::0.0
+location sensing technology::0.0
+present::0.0
+sacrificing::0.0
+ubisense::0.0
+wood::0.0
+survey::0.0
+unlike::0.0
+plain::0.0
+cvs::0.0
+three-fold::0.0
+rectangular::0.0
+scanned::0.0
+reader is connected::0.0
+located::0.0
+ultra::0.0
+2004.pdf::0.0
+supply::0.0
+x=15.2m::0.0
+encoded information::0.0
+site::0.0
+hardware::0.0
+lightweight::0.0
+partner::0.0
+error distance convergence::0.0
+avg::0.0
+greater::0.0
+reader antenna::0.0
+accurately determine::0.0
+algorithms start::0.0
+tags usually operate::0.0
+cellphones::0.0
+experimented::0.0
+practice::0.0
+http::0.0
+determination via clustering::0.0
+variance of error::0.0
+reporting::0.0
+librarians::0.0
+effect::0.0
+1-6::0.0
+radianse::0.0
+robotic::0.0
+toll::0.0
+wtdx intersec::0.0
+navigation technology::0.0
+tokyo::0.0
+center::0.0
+runs intersection::0.0
+restricted::0.0
+thought::0.0
+varies between 11.5m::0.0
+pda::0.0
+sets::0.0
+position::0.0
+sensing::0.0
+drawing::0.0
+gps lacks::0.0
+stores::0.0
+heavily::0.0
+proximity::0.0
+device was moved::0.0
+vor base::0.0
+books::0.0
+advertised::0.0
+higher weight::0.0
+rest::0.0
+location-sensing::0.0
+web::0.0
+density::0.0
+satellites::0.0
+comparison of computed coordinates::0.0
+day::0.0
+reasons::0.0
+add::0.0
+nath::0.0
+combine::0.0
+reason::0.0
+dedicated standard::0.0
+omnidirectional::0.0
+tests::0.0
+60-90 exp run::0.0
+kavraki::0.0
+robot that moves::0.0
+0-30 30-60 exp::0.0
+wlan location::0.0
+increases::0.0
+giving us accuracies::0.0
+scheme::0.0
+deployment::0.0
+floorvac::0.0
+wellknow positioning::0.0
+circle the confidence::0.0
+almaden::0.0
+works::0.0
+varies between tags::0.0
+crawler::0.0
+sets differed::0.0
+library::0.0
+greatly varies::0.0
+location tracking systems::0.0
+controls the movement::0.0
+amaresh::0.0
+fixed beacon::0.0
+foosball::0.0
+avoid::0.0
+separate::0.0
+overlap::0.0
+process involves drawing::0.0
+tracking and justify::0.0
+intersections::0.0
+limitations::0.0
+system was calibrated::0.0
+real-world::0.0
+diffuse infrared::0.0
+offset::0.0
+indoor location positioning::0.0
+rf-tag-based::0.0
+science::0.0
+actual::0.0
+carried::0.0
+dependence::0.0
+values to find::0.0
+technologies by distinguishing::0.0
+important::0.0
+0-30::0.0
+create::0.0
+software::0.0
+equally::0.0
+basisnightly::0.0
+washington::0.0
+ultrasound::0.0
+square::0.0
+duri and amaresh::0.0
+scanner::0.0
+survey related::0.0
+estimates continuous::0.0
+values for figure::0.0
+stations for indoor::0.0
+additional::0.0
+beacon::0.0
+transfer::0.0
+noticed::0.0
+tracker::0.0
+building::0.0
+cricket::0.0
+buy::0.0
+define the term::0.0
+munson2::0.0
+varying conditions::0.0
+overlapping::0.0
+gain::0.0
+automated::0.0
+convergence::0.0
+compute::0.0
+explains the wi-fi::0.0
+smooth::0.0
+bluetags::0.0
+8.08m::0.0
+limit::0.0
+hand::0.0
+steepest::0.0
+tags are preferred::0.0
+problem::0.0
+based positioning::0.0
+2.5m::0.0
+values are higher::0.0
+duri::0.0
+dissemination::0.0
+detections::0.0
+proceeds::0.0
+intersec errest actualy::0.0
+compared::0.0
+802.11-based::0.0
+position is obtained::0.0
+calibration::0.0
+distribution between consecutive::0.0
+7,2::0.0
+percent::0.0
+book::0.0
+range and access::0.0
+items require continuous::0.0
+conclusion::0.0
+kinds::0.0
+actualy ekahau::0.0
+percom::0.0
+variation::0.0
+returns the tested::0.0
+engine advertised::0.0
+previous::0.0
+enterprises::0.0
+raw positioning::0.0
+resolution::0.0
+estimate positions::0.0
+hightower::0.0
+tryout::0.0
+eccentricity::0.0

@@ -1,0 +1,3720 @@
+rfid tag::46.0
+tag antenna::37.0
+antenna design::23.0
+read range::22.0
+design for uhf rfid::18.0
+antenna design for uhf::18.0
+uhf rfid tag::17.4345875079
+rfid tags::16.0
+shown in fig::15.8496250072
+uhf rfid tags::15.8496250072
+uhf rfid::15.0
+rfid tag antenna::14.2646625065
+ieee trans::14.0
+antennas and propagation::12.6797000058
+tem cell::12.0
+ieee transactions on antennas::12.0
+review and a practical::12.0
+intermec technologies corporation::11.094737505
+intermec technologies corp::11.094737505
+design process::11.0
+reader antenna::11.0
+anechoic chamber::10.0
+loaded meander::10.0
+tag range::10.0
+chip impedance::9.0
+antennas propag::9.0
+practical application::9.0
+rfid intellitag engineering department::8.0
+rfid tag antenna design::8.0
+intermec technologies::8.0
+loaded meander tag antenna::8.0
+rfid system::8.0
+range measurement::8.0
+technologies corp::8.0
+modeling and simulation::7.92481250361
+loaded meander antenna::7.92481250361
+design for uhf::7.92481250361
+adio frequency identification::7.92481250361
+technologies corporation::7.0
+design requirements::7.0
+polarization mismatch::7.0
+rfid reader::7.0
+cardboard box::7.0
+illustrated in fig::6.33985000288
+tag antenna design::6.33985000288
+ieee transactions::6.0
+tag antennas::6.0
+transmission coefficient::6.0
+meander antenna::6.0
+circularly polarized reader antenna::6.0
+modeling and simulation results::6.0
+comments on antenna design::6.0
+tag design::6.0
+boxes with various content::6.0
+tag antenna design process::6.0
+frequency band::6.0
+passive uhf rfid tag::6.0
+resonant frequency::6.0
+joined the intermec technologies::6.0
+linearly polarized::6.0
+frequency identification::5.0
+antenna gain::5.0
+tag performance::5.0
+radio frequency::5.0
+meander trace::5.0
+rfid application::5.0
+box content::5.0
+polarized reader antenna::4.75488750216
+joined the intermec::4.75488750216
+passive uhf rfid::4.75488750216
+digital object identifier::4.75488750216
+generic design process::4.75488750216
+circularly polarized reader::4.75488750216
+range measurement techniques::4.75488750216
+rfid tag antennas::4.75488750216
+pavel v nikitin::4.75488750216
+radio frequency identification::4.75488750216
+tag resonant frequency::4.75488750216
+problem of tag orientation::4.0
+performance chart::4.0
+friis free-space transmission formula::4.0
+design for this application::4.0
+involved with the design::4.0
+ieee antennas and propagation::4.0
+power necessary to provide::4.0
+range can be calculated::4.0
+tag for box tracking::4.0
+antenna design for passive::4.0
+rfid tag range measurement::4.0
+reader and tag antenna::4.0
+rfid tag range versus::4.0
+process and box content::4.0
+frequency for a typical::4.0
+meander trace length trimming::4.0
+tag range versus frequency::4.0
+agreement with measurement data::4.0
+passive uhf rfid tags::4.0
+parametric study and optimization::4.0
+design process including range::4.0
+distance at which rfid::4.0
+rfid reader can detect::4.0
+good agreement with measurement::4.0
+distance to the tag::4.0
+automatic identification of objects::4.0
+process including range measurement::4.0
+communicate with the tag::4.0
+modeling and simulation tools::4.0
+loaded meander antenna design::4.0
+loading bar::4.0
+box tracking in warehouse::4.0
+rfid tag for box::4.0
+overview of antenna design::4.0
+variations of rfid tag::4.0
+travel on a conveyor::4.0
+antennas and propagation soc::4.0
+sensitivity to fabrication process::4.0
+rfid applications::4.0
+detect the backscattered signal::4.0
+generic design process including::4.0
+fabrication process and box::4.0
+passive uhf::4.0
+function of meander trace::4.0
+including range measurement techniques::4.0
+rfid system operation::3.16992500144
+satisfy design requirements::3.16992500144
+folded dipole antenna::3.16992500144
+including range measurement::3.16992500144
+communication hardware design::3.16992500144
+power transmission coefficient::3.16992500144
+manuscript received december::3.16992500144
+gain-transmission coefficient plane::3.16992500144
+detect the backscattered::3.16992500144
+sensitivity to fabrication::3.16992500144
+trace length trimming::3.16992500144
+meander antenna design::3.16992500144
+accurate tag range::3.16992500144
+reader can detect::3.16992500144
+design process including::3.16992500144
+rapidly developing technology::3.16992500144
+uhf rfid system::3.16992500144
+contours of constant::3.16992500144
+range as functions::3.16992500144
+reactance and resistance::3.16992500144
+functions of frequency::3.16992500144
+overview of antenna::3.16992500144
+inside tem cell::3.16992500144
+reader and tag::3.16992500144
+ieee antennas propag::3.16992500144
+sander f lam::3.16992500144
+institute of technology::3.16992500144
+tag range measurement::3.16992500144
+intellitag engineering department::3.16992500144
+antenna design process::3.16992500144
+development of antennas::3.16992500144
+identification of objects::3.16992500144
+comments on antenna::3.16992500144
+chart in fig::3.16992500144
+area of rfid::3.16992500144
+pavel.nikitin @ intermec.com::3.16992500144
+design for passive::3.16992500144
+tag antenna performance::3.16992500144
+typical rfid tag::3.16992500144
+design and development::3.16992500144
+kvs.rao @ intermec.com::3.16992500144
+rfid tag range::3.16992500144
+function of meander::3.16992500144
+object identifier::3.0
+passive rfid::3.0
+antenna performance::3.0
+threshold power::3.0
+measurement techniques::3.0
+maximum distance::3.0
+smart label::3.0
+cardboard boxes::3.0
+dipole antenna::3.0
+research associate::3.0
+rfid systems::3.0
+free space::3.0
+patch antenna::3.0
+input impedance::3.0
+intellitag engineering::3.0
+antenna terminals::3.0
+mhz band::3.0
+tag resonance::3.0
+backscattered signal::3.0
+engineering department::3.0
+fabrication process::3.0
+ieee antennas::3.0
+tag resonant::3.0
+polarization efficiency::3.0
+adio frequency::3.0
+generic design::3.0
+circularly polarized::3.0
+match between the antenna::2.0
+reader with variable output::2.0
+inch label::2.0
+range must be closely::2.0
+plane where the range::2.0
+back-scattered rfid system operates::2.0
+field of the reader::2.0
+pth is the minimum::2.0
+criteria for rfid tag::2.0
+match with the chip::2.0
+misalignment may cause severe::2.0
+contents in the final::2.0
+anechoic chamber where multipath::2.0
+packaging process::2.0
+needed by the chip::2.0
+design meets the desired::2.0
+understanding of the antenna::2.0
+adding an external matching::2.0
+combinations of tag antenna::2.0
+intellitag engineering department involved::2.0
+terminals using flip-chip packaging::2.0
+connection the most important::2.0
+demanding high read rate::2.0
+proper frequency and range::2.0
+carefully planned to ensure::2.0
+developing technology::2.0
+gain-optimized self-resonant meander line::2.0
+award presented by carnegie-mellon::2.0
+pattern such as omnidirectional::2.0
+frequency dependence and primarily::2.0
+resonant frequency after fabrication::2.0
+process rfid tag antenna::2.0
+polarization of reader antenna::2.0
+typically high in comparison::2.0
+circuits sponsored by defense::2.0
+rfid tag embedded underneath::2.0
+expensive chambers or cells::2.0
+requirements to such designs::2.0
+tag antenna are elliptically::2.0
+tags can be active::2.0
+tummala and e rymaszewski::2.0
+defined as the frequency::2.0
+presented a loaded meander::2.0
+obtain optimum tag performance::2.0
+measurement can be conducted::2.0
+large portals by forklifts::2.0
+field nonuniformities inside tem::2.0
+read rangethe maximum distance::2.0
+periods of unmodulated carrier::2.0
+case of linear-to-linear polarization::2.0
+large and prohibitively expensive::2.0
+manages a small group::2.0
+design process is illustrated::2.0
+theoretical and experimental read::2.0
+antenna is usually linear::2.0
+linearly polarized both reader::2.0
+trace and the loading::2.0
+tag resonance is determined::2.0
+requirements determine the materials::2.0
+antenna to be compact::2.0
+affixed to antenna terminals::2.0
+joined antenna research associates::2.0
+pcb substrates like fr4::2.0
+fast em analysis tools::2.0
+mentioned above influence antenna::2.0
+passive radio frequency identification::2.0
+free-space transmission formula valid::2.0
+authors discuss the generic::2.0
+nearfield distances between reader::2.0
+effectively modulating the back-scattered::2.0
+design for a rfid::2.0
+network with lumped elements::2.0
+two-way broad-band trunk distribution::2.0
+design requirements for passive::2.0
+big and costly venture::2.0
+ranges for loaded meander::2.0
+unmodulated period is converted::2.0
+criteria the most important::2.0
+minimum required read range::2.0
+coupled circular patch antenna::2.0
+antenna are perfectly matched::2.0
+state university::2.0
+application specific integrated circuit::2.0
+frequency of antenna loaded::2.0
+perfectly matched chip impedance::2.0
+antenna using a c-shaped::2.0
+tolerance for tag fabrication::2.0
+polarization of the tag::2.0
+scenarios involve near-field tag::2.0
+meander trace and loading::2.0
+gain of the transmitting::2.0
+parameters of the loaded::2.0
+authors mention the problem::2.0
+tag should be easily::2.0
+easily tuned for boxes::2.0
+designed for a specific::2.0
+factor is a function::2.0
+range versus::2.0
+mhz band in free::2.0
+modulated backscatter::2.0
+tag antenna are perfectly::2.0
+polarization ratio is related::2.0
+minimum power tem cell::2.0
+reader and tag antennas::2.0
+size and tunability requirements::2.0
+box tracking in warehouses::2.0
+requirements whose relative importance::2.0
+fault of rfid system::2.0
+distance in free space::2.0
+technologies acquired from ibm::2.0
+step of the design::2.0
+slot antenna::2.0
+reader antenna and tag::2.0
+attached to the required::2.0
+antenna terminals as shown::2.0
+software had a powerful::2.0
+process involves inevitable tradeoffs::2.0
+impedance match between chip::2.0
+resistance can be controlled::2.0
+illustrates a passive rfid::2.0
+fulfill a system requirement::2.0
+effect of antenna size::2.0
+determines the tag resonance::2.0
+passive uhf radio frequency::2.0
+present in the vicinity::2.0
+determined by local country::2.0
+friis free-space::2.0
+electrical engineering from utah::2.0
+band in free space::2.0
+advanced institute of technology::2.0
+important tag performance characteristic::2.0
+free-space with a typical::2.0
+manufacturing is a big::2.0
+practical uhf rfid application::2.0
+equipment with triple crown::2.0
+optimum reactance and resistance::2.0
+mismatch between circularly polarized::2.0
+provide tolerance for tag::2.0
+cell at the cross-section::2.0
+impedance at the threshold::2.0
+free-space transmission::2.0
+tikhov for his valuable::2.0
+antenna similar to impedance::2.0
+correct subject to assumption::2.0
+practical analysis and design::2.0
+invalid at nearfield distances::2.0
+situation can frequently happen::2.0
+requirements for various box::2.0
+engineering from utah state::2.0
+antenna design is briefly::2.0
+developed on antenna terminals::2.0
+received by the tag::2.0
+carry accurate tag range::2.0
+rapidly developing::2.0
+oriented with a misalignment::2.0
+mismatch is an important::2.0
+transmitted by the reader::2.0
+antenna design is preferable::2.0
+transmitting antenna::2.0
+ph.d degree in electrical::2.0
+antenna size on gain::2.0
+tag range was computed::2.0
+gain of tag antenna::2.0
+design for passive radio::2.0
+impedance of the selected::2.0
+tagged objects like pallets::2.0
+system must be carefully::2.0
+tag offers an acceptable::2.0
+sensitive to the tag::2.0
+perpendicular to the axis::2.0
+circular patch::2.0
+range for any transmitter::2.0
+rfid example a application::2.0
+tag antenna performance strongly::2.0
+compact and to provide::2.0
+antenna and an application::2.0
+position in the field::2.0
+members with the rfid::2.0
+device that can sustain::2.0
+requirements of such designs::2.0
+minimum power of communicate::2.0
+provide a better match::2.0
+typical rfid::2.0
+tags destined to work::2.0
+presented modeling and simulation::2.0
+identification is a rapidly::2.0
+satisfy design::2.0
+patents in the area::2.0
+accurate tag::2.0
+comments and replies comments::2.0
+erp box with plastic::2.0
+behavior of antenna impedance::2.0
+interest for rfid applications::2.0
+reactance and resistance matching::2.0
+dependence and primarily determines::2.0
+antenna and tag antenna::2.0
+create an adequate cost::2.0
+tradeoff between the impedance::2.0
+cell data and anechoic::2.0
+tem cell input impedance::2.0
+frequency and the input::2.0
+circular patch antenna analysis::2.0
+rfid reader with variable::2.0
+small antenna::2.0
+tools can be benchmarked::2.0
+performance characteristic is read::2.0
+established as a popular::2.0
+computed from and impedance::2.0
+chart for tag analysis::2.0
+polarized aperture coupled circular::2.0
+obtain optimum::2.0
+thin flexible::2.0
+antenna can be easily::2.0
+range in gain-transmission coefficient::2.0
+preferable to provide tolerance::2.0
+physics from novosibirsk state::2.0
+box content are analyzed::2.0
+requirements to the tag::2.0
+degree from mcmaster university::2.0
+monitoring the tag range::2.0
+sander f lam abstractin::2.0
+antenna size and frequency::2.0
+rfid reader can read::2.0
+gain and measured values::2.0
+applications require a tag::2.0
+lead rf designer involved::2.0
+tvro and catv headend::2.0
+power to the rfid::2.0
+due partially to imperfections::2.0
+general guidelines for selecting::2.0
+design engineer with ansoft::2.0
+modified read range equation::2.0
+chart can be easily::2.0
+ieee standard::2.0
+tunable design is desirable::2.0
+joined u.s.-based auget communication::2.0
+department of electrical engineering::2.0
+accurate tag range measurement::2.0
+performance in far field::2.0
+measurement using anechoic chamber::2.0
+gain on the angles::2.0
+spacecraft as a receiver::2.0
+antenna is circularly polarized::2.0
+situations where tagged objects::2.0
+planned to ensure reliable::2.0
+nonuniformities inside tem cell::2.0
+contours of constant range::2.0
+antenna terminals during unmodulated::2.0
+depends on antenna orientation::2.0
+areas such as electronic::2.0
+fabrication process causes significant::2.0
+tag application::2.0
+offers an acceptable minimum::2.0
+antenna has several key::2.0
+analysis tools are crucial::2.0
+rfid tag antenna performance::2.0
+fixed and transmitter output::2.0
+tag performance to satisfy::2.0
+antenna overcomes the problem::2.0
+process causes significant resonant::2.0
+rameters mentioned above influence::2.0
+papers on practical analysis::2.0
+design is further modified::2.0
+nikitin was the recipient::2.0
+trace by the resonant::2.0
+results are also presented::2.0
+agreed with manufacturer specifications::2.0
+dry goods or plastics::2.0
+accounts for polarization mismatch::2.0
+authored or coauthored approximately::2.0
+designer a good understanding::2.0
+label for cardboard box::2.0
+rfid tag with loaded::2.0
+antenna given in table::2.0
+tag application are discussed::2.0
+tested in both anechoic::2.0
+sacrifice of 3-db power::2.0
+headend equipment with triple::2.0
+typical chip impedance shown::2.0
+antennas are usually analyzed::2.0
+calculated using friis free-space::2.0
+related to the antenna::2.0
+chip is of paramount::2.0
+loss of the transmitting::2.0
+range measurement using anechoic::2.0
+antenna the connecting cable::2.0
+passive uhf tag design::2.0
+offer mainly circularly polarized::2.0
+trimming x tag resonance::2.0
+u-slot microstrip patch antennas::2.0
+vicinity of the tagged::2.0
+cell range measurement setups::2.0
+characteristic is read rangethe::2.0
+sabbatical leave from iit::2.0
+sensitive to the content::2.0
+read ranges for loaded::2.0
+reader that the minimum::2.0
+transmitter eirp::2.0
+mhz as a function::2.0
+mismatch the read range::2.0
+mismatch the decay factor::2.0
+order to satisfy design::2.0
+millimeter-wave microstrip and printed::2.0
+system is a read::2.0
+calculation can be implemented::2.0
+applications in various areas::2.0
+worth mentioning that formula::2.0
+worst case application requirements::2.0
+parametrics and optimization engine::2.0
+loaded meander rfid tag::2.0
+design of log-periodic dipole::2.0
+box content in specific::2.0
+japan and some asian::2.0
+function of the variable::2.0
+engineer with the rfid::2.0
+important factor in communication::2.0
+minimum threshold::2.0
+characteristic of every uhf::2.0
+technical publications in standard::2.0
+tags while larger anechoic::2.0
+including range::2.0
+read range is determined::2.0
+qualitative behavior of antenna::2.0
+determined by the tag::2.0
+peak range is referred::2.0
+chip affixed to antenna::2.0
+mhz frequencies::2.0
+colleagues mr t miller::2.0
+measured values for chip::2.0
+moves trimming the meander::2.0
+antennas for both passive::2.0
+tolerance for tag resonant::2.0
+rfid tag antenna similar::2.0
+rfid conveyor belt application::2.0
+fabrication is not easy::2.0
+rfid tag in free-space::2.0
+mounted on antenna terminals::2.0
+determined with rfid reader::2.0
+application scenarios involve near-field::2.0
+connected to rfid reader::2.0
+reader antenna is circularly::2.0
+measured in the frequency::2.0
+plotted on gain-transmission coefficient::2.0
+article is also shown::2.0
+position can be fixed::2.0
+acceptable minimum read range::2.0
+portals by forklifts equipped::2.0
+presented by the chip::2.0
+intermec technologies corp west::2.0
+agree that polarization mismatch::2.0
+height of the tem::2.0
+lie in the planes::2.0
+antenna terminals using flip-chip::2.0
+output power as illustrated::2.0
+design looks really interesting::2.0
+tuning for various box::2.0
+raised by dr tikhov::2.0
+publications in standard journals::2.0
+projects in the area::2.0
+terminals during unmodulated period::2.0
+variations to the imaginary::2.0
+partially to electric field::2.0
+tag application scenarios involve::2.0
+paramount importance in rfid::2.0
+range depends on antenna::2.0
+frequency for different tagged::2.0
+labels and being tracked::2.0
+uhf rfid application scenario::2.0
+polarization mismatch the decay::2.0
+range over that band::2.0
+asic which has complex::2.0
+due to polarization mismatch::2.0
+polarized tag antenna overcomes::2.0
+directly in em software::2.0
+polarization issue::2.0
+prohibitive in rfid tags::2.0
+application k v seshagiri::2.0
+order to avoid overestimation::2.0
+anechoic chamber and partially::2.0
+antenna geometry is shown::2.0
+cost and fabrication issues::2.0
+technologist with the rfid::2.0
+sop integration and codesign::2.0
+antenna parameters were identified::2.0
+crucial for efficient tag::2.0
+designers and other rfid::2.0
+technologies corp west everett::2.0
+broad-band trunk distribution amplifiers::2.0
+performance in the plane::2.0
+involved with catv two-way::2.0
+simulation tools::2.0
+complex impedance::2.0
+antenna trace was made::2.0
+cardboard box and box::2.0
+optimized on a computer::2.0
+gain of the reader::2.0
+high read rate capability::2.0
+requirements several general rfid::2.0
+antenna trace::2.0
+antenna construction and asic::2.0
+electromagnetic modeling and simulation::2.0
+antenna problems in rfid::2.0
+decreases the read range::2.0
+frequency for different samples::2.0
+problems in rfid systems::2.0
+antenna was a natural::2.0
+inevitable tradeoffs between antenna::2.0
+antennas for rfid tags::2.0
+computer engineering from carnegie-mellon::2.0
+range measurement using tem::2.0
+polarization of tag antenna::2.0
+antenna using a spacecraft::2.0
+electrical engineering::2.0
+smart label for cardboard::2.0
+antenna a thin flexible::2.0
+tag chip::2.0
+agreement with measured data::2.0
+tag antenna and chip::2.0
+labeling in warehouse environment::2.0
+due to the impedance::2.0
+design process involves inevitable::2.0
+transmits a modulated signal::2.0
+packaged chip::2.0
+perpendicular to the direction::2.0
+concentrate on one practical::2.0
+reader sensitivity is typically::2.0
+illustrated on a flow::2.0
+calculated from known expressions::2.0
+range for various contents::2.0
+ph.d degree::2.0
+attainable gain and bandwidth::2.0
+iit as a research::2.0
+tag with loaded meander::2.0
+depends on the frequency-dependent::2.0
+added one loading bar::2.0
+power of the chip::2.0
+polyester and rigid pcb::2.0
+antenna gain and impedance::2.0
+zone of the anechoic::2.0
+tag is placed inside::2.0
+requirements can be translated::2.0
+frequency of the peak::2.0
+antenna length is dictated::2.0
+construction and asic packaging::2.0
+tuned to the proper::2.0
+assembly when the tag::2.0
+dbi antenna perfectly matched::2.0
+practical aspects::2.0
+dominant in frequency dependence::2.0
+chamber data are due::2.0
+antenna can be directly::2.0
+u.s.-based auget communication products::2.0
+analysis of practical application::2.0
+market for limited rfid::2.0
+transponder often called tag::2.0
+table i antenna reactance::2.0
+applied to the chip::2.0
+covered slot antenna design::2.0
+electrical and computer engineering::2.0
+tikhov in his comments::2.0
+meandering allowed the antenna::2.0
+mutually tilted major axis::2.0
+special cases of interest::2.0
+design of particular classes::2.0
+versatile loaded meander antenna::2.0
+samples due to asic::2.0
+polarization ellipses which lie::2.0
+function for our design::2.0
+polarized and the tag::2.0
+axis of the polarization::2.0
+design and an analysis::2.0
+cation fundamentals and applications::2.0
+meander antenna is designed::2.0
+complex rf input impedance::2.0
+range of most uhf::2.0
+uhf radio frequency identification::2.0
+impose limitations on maximum::2.0
+part of the packaged::2.0
+outlined the design process::2.0
+analyzer for different power::2.0
+including covered slot antenna::2.0
+lam received the b.eng::2.0
+tag form and size::2.0
+provide enough energy feeding::2.0
+impedance at a fixed::2.0
+impedance mismatch between tag::2.0
+antennas and circuits sponsored::2.0
+impedance match::2.0
+regulations of the country::2.0
+transmitter eirp of interest::2.0
+associate with the university::2.0
+technology for automatic identification::2.0
+matched can be measured::2.0
+holes through the antenna::2.0
+modulating the back-scattered signal::2.0
+sander f lam received::2.0
+fit inside a printed::2.0
+antenna perfectly matched chip::2.0
+fabrication may differ significantly::2.0
+conveyor belt as shown::2.0
+broad-band single-layer rectangular u-slot::2.0
+antennas for rfid applications::2.0
+restrictions both on antenna::2.0
+spread of the tag::2.0
+sensitivity to box content::2.0
+read range the formula::2.0
+turn can potentially lead::2.0
+electric field nonuniformities inside::2.0
+single-conversion tvro and catv::2.0
+antennas are linearly polarized::2.0
+geometry of the loaded::2.0
+tag in free space::2.0
+microstrip and printed circuit::2.0
+presentation of a circuit::2.0
+tag position::2.0
+tag antenna is first::2.0
+xianming and y ning::2.0
+eirp and threshold power::2.0
+meander step::2.0
+experimentally measured read range::2.0
+read range as functions::2.0
+implies that both reader::2.0
+range performance::2.0
+maximum allowed antenna length::2.0
+missing polarization mismatch factor::2.0
+loss due to polarization::2.0
+section was further meandered::2.0
+content like dry goods::2.0
+means of reflected power::2.0
+design and rfid tag::2.0
+due to asic packaging::2.0
+omni-like read range performance::2.0
+base station::2.0
+self-resonant meander line antennas::2.0
+published on rfid antennas::2.0
+matching network with lumped::2.0
+ensure reliable tag identification::2.0
+preferred to have omni-like::2.0
+inside tem::2.0
+frequency band of operation::2.0
+tuned for optimum performance::2.0
+conclusion radio frequency identification::2.0
+boxes with various contents::2.0
+theoretical and experimentally measured::2.0
+design is briefly described::2.0
+concentrated on one practical::2.0
+performance chart in fig::2.0
+measurement accurate tag range::2.0
+work for specific box::2.0
+technology advanced to current::2.0
+passive back-scattered rfid system::2.0
+gain is not significantly::2.0
+rao the first issue::2.0
+applied wireless identifications group::2.0
+caused by the flip-chip::2.0
+read field of rfid::2.0
+rfid intellitag::2.0
+trace at defined locations::2.0
+equipped with smart labels::2.0
+normalized range in gain-transmission::2.0
+processes as label insertion::2.0
+depends on tag application::2.0
+design must meet range::2.0
+values for tag antenna::2.0
+close agreement::2.0
+design requirements whose relative::2.0
+distance between an interrogator::2.0
+label with a bar::2.0
+presented tag design meets::2.0
+process for passive uhf::2.0
+varied by controlled rao::2.0
+varying its front end::2.0
+tag antenna performance chart::2.0
+tag antenna are oriented::2.0
+aspects of our work::2.0
+variations in asic assembly::2.0
+antenna impedance::2.0
+rectangular u-slot microstrip patch::2.0
+ratios of the reader::2.0
+end complex rf input::2.0
+degree from the indian::2.0
+operate when brought closer::2.0
+interest in this work::2.0
+antenna and the polarization::2.0
+labeled with their values::2.0
+shorter length whereas extending::2.0
+rfid tag design requirements::2.0
+issue becomes also critical::2.0
+antenna can be designed::2.0
+planar antenna was optimized::2.0
+first paper on modulated::2.0
+performance of any rfid::2.0
+parameter values for tag::2.0
+powerful parametrics and optimization::2.0
+range measurement accurate tag::2.0
+described range measurement techniques::2.0
+ieee standard test procedures::2.0
+gain of the receiving::2.0
+tags and tags operating::2.0
+out by dr tikhov::2.0
+sensitivity is typically high::2.0
+practical application yuri tikhov::2.0
+forklifts equipped with rfid::2.0
+cost and application considerations::2.0
+materials for tag antenna::2.0
+lengths of meander trace::2.0
+asic in a chosen::2.0
+outline a generic design::2.0
+chamber or transverse electromagnetic::2.0
+flexible polyester and rigid::2.0
+meandered to obtain additional::2.0
+assistant of the year::2.0
+performance of rfid tag::2.0
+similar to impedance presentation::2.0
+tag position in anechoic::2.0
+sufficient tolerance for tag::2.0
+correspond to several gain-transmission::2.0
+primarily determines the tag::2.0
+inserted into a label::2.0
+power can be varied::2.0
+operating at other frequencies::2.0
+aided design of mixed-technology::2.0
+coefficient plane as shown::2.0
+rfid transponder::2.0
+rfid finds many applications::2.0
+read range is defined::2.0
+performed until design requirements::2.0
+gain and the distance::2.0
+loading bar is shown::2.0
+factor in communication links::2.0
+tags due to cost::2.0
+application pavel v nikitin::2.0
+antenna will be matched::2.0
+meet worst case application::2.0
+realized by punching holes::2.0
+realizable combinations of tag::2.0
+parasitics and added variations::2.0
+design process for passive::2.0
+modulated signal with periods::2.0
+thin flexible polyester substrate::2.0
+data are in close::2.0
+position in anechoic chamber::2.0
+received the ph.d degree::2.0
+matched to the asic::2.0
+uhf rfid tag antennas::2.0
+substrate with a dielectric::2.0
+size of the tag::2.0
+elements is usually prohibitive::2.0
+basic considerations are focused::2.0
+easily tuned by trimming::2.0
+discuss the generic design::2.0
+design of mixed-technology systems-on-chip::2.0
+passive and active tags::2.0
+performance on different materials::2.0
+adequate power to operate::2.0
+materials for its construction::2.0
+chamber and tem cell::2.0
+antenna is linearly polarized::2.0
+found that the spread::2.0
+antenna trace at defined::2.0
+length trimming x tag::2.0
+monitored in the design::2.0
+application with a minimum::2.0
+conducted in a controlled::2.0
+give to a designer::2.0
+band of operation depends::2.0
+measured with a network::2.0
+resonant frequency of antenna::2.0
+voltage developed on antenna::2.0
+involved with computer aided::2.0
+selecting the tag position::2.0
+power loss::2.0
+design for passive uhf::2.0
+interest can be determined::2.0
+field inside tem cell::2.0
+invalid at near-field distances::2.0
+feeding for the tag::2.0
+engineering from carnegie-mellon university::2.0
+transponder design and development::2.0
+www.intermec.com reply to comments::2.0
+case of circular-to-linear polarization::2.0
+data and anechoic chamber::2.0
+affected the package parasitics::2.0
+north and south america::2.0
+presented by carnegie-mellon university::2.0
+dual polarized aperture coupled::2.0
+anechoic chamber or transverse::2.0
+significantly affected by trimming::2.0
+close agreement with measured::2.0
+tag which can operate::2.0
+fill the existing gap::2.0
+polarized with mutually tilted::2.0
+factor is the range::2.0
+anechoic chamber and tem::2.0
+selecting an rfid tag::2.0
+largely determine the criteria::2.0
+frequency and range performance::2.0
+values for chip impedance::2.0
+calculated for any case::2.0
+closer to rfid reader::2.0
+dipole antenna for rfid::2.0
+conveyor belt at speeds::2.0
+construction including the asic::2.0
+radio-frequency identi cation fundamentals::2.0
+impedance of the packaged::2.0
+include a flexible polyester::2.0
+design of broad-band single-layer::2.0
+significantly from the expected::2.0
+trimming the meander trace::2.0
+maximum distance in free::2.0
+cardboard objects erp box::2.0
+criteria for the tag::2.0
+performance on various objects::2.0
+frequently happen in practical::2.0
+package parasitics and added::2.0
+free-space performance of rfid::2.0
+design requirements several general::2.0
+powers up the chip::2.0
+design requirements are met::2.0
+line antennas for rfid::2.0
+catv two-way broad-band trunk::2.0
+simulated values for gain::2.0
+match for the chip::2.0
+variations and for optimizing::2.0
+development of single-conversion tvro::2.0
+perfectly matched::2.0
+inside a printed label::2.0
+antenna are elliptically polarized::2.0
+flexible polyester::2.0
+consists of an antenna::2.0
+frequency allocation for rfid::2.0
+fit into a standard::2.0
+applied to active tags::2.0
+advanced to current level::2.0
+range is also sensitive::2.0
+tag is also shown::2.0
+asic assembly and packaging::2.0
+theoretical curve and experimental::2.0
+limitations on maximum attainable::2.0
+convenient tool for measuring::2.0
+principle of passive rfid::2.0
+frequency-dependent complex impedance presented::2.0
+box with some content::2.0
+translated into tag requirements::2.0
+estimate the range tradeoff::2.0
+impedance which determine tag::2.0
+covers the lowest rfid::2.0
+sensitivity to chip variations::2.0
+cell is a convenient::2.0
+engineer with the microelectronics::2.0
+measurement techniques and concentrate::2.0
+outlined a generic design::2.0
+contours of constant normalized::2.0
+omnidirectional or hemispherical coverage::2.0
+dependence of antenna gain::2.0
+aspects such as sensitivity::2.0
+cross-section where rfid tag::2.0
+power transmitted::2.0
+power transmission coefficient due::2.0
+brought closer to rfid::2.0
+referred as the tag::2.0
+frequency of operation impose::2.0
+conveyor belt::2.0
+bandwidth can be defined::2.0
+antenna and the tag::2.0
+developing technology for automatic::2.0
+indian institute of technology::2.0
+meander tag::2.0
+tag in free-space eirp::2.0
+typical passive rfid transponder::2.0
+gain and their polarizations::2.0
+performance chart for tag::2.0
+varied to obtain optimum::2.0
+proposed a performance chart::2.0
+range characterization and avoid::2.0
+test procedures for antennas::2.0
+antenna design process involves::2.0
+gain-transmission coefficient::2.0
+tag can be trimmed::2.0
+variations due to temperature::2.0
+differences between tem cell::2.0
+tag antennas are designed::2.0
+trace and loading bar::2.0
+materials in different frequency::2.0
+lead even to fault::2.0
+applied to all tags::2.0
+introduction r adio frequency::2.0
+control over the antenna::2.0
+directivity pattern::2.0
+paper on modulated backscatter::2.0
+content in specific frequency::2.0
+design is a versatile::2.0
+measurement using tem cell::2.0
+field of rfid reader::2.0
+analyzed various practical aspects::2.0
+antenna and linearly polarized::2.0
+signal from the tag::2.0
+range r the maximum::2.0
+depends on the regulations::2.0
+design process rfid tag::2.0
+designers of passive uhf::2.0
+tagged object::2.0
+importance depends on tag::2.0
+pallets or boxes travel::2.0
+mismatch between tag antenna::2.0
+equipped with rfid readers::2.0
+small tags while larger::2.0
+analyzed with electromagnetic modeling::2.0
+tunable to any frequency::2.0
+significant resonant frequency deviation::2.0
+conductors used in tags::2.0
+sends back the information::2.0
+packaged chip was measured::2.0
+meets the desired range::2.0
+performance of the untrimmed::2.0
+normalized with a factor::2.0
+factor for this performance::2.0
+value of the work::2.0
+rfid tags is determined::2.0
+expressions for the field::2.0
+design a performance criteria::2.0
+tag design must meet::2.0
+circularly polarized reader antennas::2.0
+tem cell range measurement::2.0
+passive rfid system operation::2.0
+output power::2.0
+antenna is first modeled::2.0
+dielectrics include a flexible::2.0
+defined by the tag::2.0
+cell required to communicate::2.0
+transmitting antenna the connecting::2.0
+range requirements in spite::2.0
+polarization efficiency is 1=2::2.0
+asic packaging::2.0
+specific application::2.0
+shift in this case::2.0
+tradeoffs between antenna gain::2.0
+antenna design the process::2.0
+bar can be varied::2.0
+chart shown in fig::2.0
+antenna reactance and resistance::2.0
+antenna design is ready::2.0
+attachment process which affected::2.0
+measurement of a large::2.0
+box labeling in warehouse::2.0
+trimmed to a shorter::2.0
+matching and the gain::2.0
+reference frame to present::2.0
+minimum power::2.0
+dictated by the size::2.0
+packaging process variations erp::2.0
+range performance as shown::2.0
+antenna for radio frequency::2.0
+moved through large portals::2.0
+curve and experimental data::2.0
+active tags and tags::2.0
+linearly polarized tag antenna::2.0
+happen in practical uhf::2.0
+subsequently joined the faculty::2.0
+optimized using ansoft designer::2.0
+antenna in yz -plane::2.0
+include various rf communication::2.0
+rfid tag is illustrated::2.0
+accurate tag range characterization::2.0
+tracked in standard supply::2.0
+distance from the reader::2.0
+papers have been published::2.0
+general rfid tag design::2.0
+reader that read range::2.0
+tool for measuring small::2.0
+data are due partially::2.0
+near-field situation can frequently::2.0
+antenna performance strongly depends::2.0
+replies comments on antenna::2.0
+polarization mismatch between circularly::2.0
+linearly polarized and oriented::2.0
+thick metal mounted tags::2.0
+signals for automatic identification::2.0
+standard journals and conferences::2.0
+fun with the friis::2.0
+degrees in electrical engineering::2.0
+area of rfid transponder::2.0
+design process in order::2.0
+linear because of pre-required::2.0
+length after the fabrication::2.0
+domain with the network::2.0
+tem cell had parameters::2.0
+focused on the read::2.0
+rfid application is selected::2.0
+impedance of the loaded::2.0
+polarization mismatch the read::2.0
+backscattered signal is modulated::2.0
+power tem cell required::2.0
+trimming of the meander::2.0
+varying with the frequency::2.0
+antenna and the chip::2.0
+inverted-f antenna for radio::2.0
+prototype of rfid tag::2.0
+elliptically polarized with mutually::2.0
+context of a directivity::2.0
+recipient of the ece::2.0
+aperture coupled circular patch::2.0
+width as the meander::2.0
+engineer with ansoft corporation::2.0
+determined by the product::2.0
+basic principle of passive::2.0
+conventional case of circular-to-linear::2.0
+active tags::2.0
+made to obtain optimum::2.0
+hardware design and rfid::2.0
+requirements for passive uhf::2.0
+labels for other potential::2.0
+receive more than adequate::2.0
+nowadays the major vendors::2.0
+case of linearly polarized::2.0
+participated in various projects::2.0
+essential in most rfid::2.0
+designer involved with catv::2.0
+group in the area::2.0
+rfid tag antennas tend::2.0
+measurements using a gtem::2.0
+seshagiri rao::2.0
+formulate the key universal::2.0
+gain of the loaded::2.0
+involve near-field tag scanning::2.0
+reader antenna and linearly::2.0
+involved in the research::2.0
+arrived to the final::2.0
+shown on the chart::2.0
+presented a specific application::2.0
+asic packaging process variations::2.0
+assembly and packaging process::2.0
+lam abstractin this paper::2.0
+overestimation of the read::2.0
+imperfections of anechoic chamber::2.0
+performance for a tag::2.0
+reader antenna as illustrated::2.0
+manuscript received::2.0
+ohm and the antenna::2.0
+process of antenna design::2.0
+3-db power loss due::2.0
+polarization mismatch is essential::2.0
+chen and p hsu::2.0
+performance to satisfy design::2.0
+complicated for analytical solution::2.0
+axis of the meander::2.0
+space at which rfid::2.0
+standards of rfid systems::2.0
+tag antenna is linearly::2.0
+typically toggles between two::2.0
+network analyzer::2.0
+process including::2.0
+antenna design a performance::2.0
+capabilities were not sufficient::2.0
+direction of maximum gain::2.0
+box with plastic material::2.0
+single-layer rectangular u-slot microstrip::2.0
+antennas are linearly::1.58496250072
+cost and application::1.58496250072
+triple crown electronics::1.58496250072
+process causes significant::1.58496250072
+tag response threshold::1.58496250072
+catv two-way broad-band::1.58496250072
+discuss various requirements::1.58496250072
+form and size::1.58496250072
+presented tag design::1.58496250072
+due to temperature::1.58496250072
+read range formula::1.58496250072
+operation impose limitations::1.58496250072
+received the b.eng::1.58496250072
+samsung advanced institute::1.58496250072
+terminals during unmodulated::1.58496250072
+introduction r adio::1.58496250072
+proper impedance match::1.58496250072
+order to avoid::1.58496250072
+prohibitively expensive chambers::1.58496250072
+year award presented::1.58496250072
+data are due::1.58496250072
+sensitivity to chip::1.58496250072
+market for limited::1.58496250072
+smart label application::1.58496250072
+outlined a generic::1.58496250072
+ieee standard 149-1979::1.58496250072
+case of linearly::1.58496250072
+affect rfid operation::1.58496250072
+size and frequency::1.58496250072
+passive back-scattered rfid::1.58496250072
+chosen rf package::1.58496250072
+moved through large::1.58496250072
+two-way broad-band trunk::1.58496250072
+demanding high read::1.58496250072
+cross-section where rfid::1.58496250072
+asic packaging process::1.58496250072
+values for gain::1.58496250072
+polarized both reader::1.58496250072
+airline baggage strips::1.58496250072
+senior rf engineer::1.58496250072
+lead rf designer::1.58496250072
+area of antennas::1.58496250072
+design is briefly::1.58496250072
+ghz rfid tags::1.58496250072
+meander step height::1.58496250072
+characterization and avoid::1.58496250072
+mismatch between tag::1.58496250072
+processes as label::1.58496250072
+performed until design::1.58496250072
+eirp and threshold::1.58496250072
+antenna performance strongly::1.58496250072
+attempt to formulate::1.58496250072
+two different states::1.58496250072
+engineering from carnegie-mellon::1.58496250072
+antenna the connecting::1.58496250072
+corp west everett::1.58496250072
+parasitics and added::1.58496250072
+formulate the key::1.58496250072
+dbi antenna perfectly::1.58496250072
+trimming is realized::1.58496250072
+novosibirsk state university::1.58496250072
+rfid transponder design::1.58496250072
+antenna was optimized::1.58496250072
+north and south::1.58496250072
+labeling in warehouse::1.58496250072
+affected the package::1.58496250072
+receiving tag antenna::1.58496250072
+covered slot antenna::1.58496250072
+important tag performance::1.58496250072
+antenna for rfid::1.58496250072
+direction of propagation::1.58496250072
+methods tag position::1.58496250072
+field inside tem::1.58496250072
+table i parameters::1.58496250072
+impedance typically toggles::1.58496250072
+avoid using large::1.58496250072
+microstrip patch antennas::1.58496250072
+design process involves::1.58496250072
+applications the tag::1.58496250072
+obtain additional inductance::1.58496250072
+standards of rfid::1.58496250072
+modulating the back-scattered::1.58496250072
+resonate in free-space::1.58496250072
+retail item management::1.58496250072
+required to communicate::1.58496250072
+overcomes the problem::1.58496250072
+presents a comparison::1.58496250072
+rfid technologies acquired::1.58496250072
+attempted to fill::1.58496250072
+band of operation::1.58496250072
+turn can potentially::1.58496250072
+made of copper::1.58496250072
+affected by trimming::1.58496250072
+met in simulation::1.58496250072
+read the tag::1.58496250072
+variable misalignment angle::1.58496250072
+families of curves::1.58496250072
+passive rfid system::1.58496250072
+equipped with smart::1.58496250072
+case of circular-to-linear::1.58496250072
+tag will respond::1.58496250072
+parameters were identified::1.58496250072
+joined the iit::1.58496250072
+means of reflected::1.58496250072
+antennas wireless propag::1.58496250072
+reply to comments::1.58496250072
+designers of passive::1.58496250072
+journals and conferences::1.58496250072
+intermec.com ; sander.lam::1.58496250072
+sustain variations due::1.58496250072
+warehouse environment worldwide::1.58496250072
+belt at speeds::1.58496250072
+meandered dipole antenna::1.58496250072
+mhz in europe::1.58496250072
+including the asic::1.58496250072
+specific frequency band::1.58496250072
+provide omnidirectional performance::1.58496250072
+design and rfid::1.58496250072
+electrical and computer::1.58496250072
+translated into tag::1.58496250072
+mismatch the decay::1.58496250072
+crucial for efficient::1.58496250072
+presented by carnegie-mellon::1.58496250072
+papers on practical::1.58496250072
+cardboard objects erp::1.58496250072
+range is defined::1.58496250072
+frequency and range::1.58496250072
+frequency of antenna::1.58496250072
+range can correspond::1.58496250072
+published on rfid::1.58496250072
+uhf tag design::1.58496250072
+trace was made::1.58496250072
+size and form::1.58496250072
+network with lumped::1.58496250072
+equipped with rfid::1.58496250072
+larger anechoic chamber::1.58496250072
+application is described::1.58496250072
+characteristic is read::1.58496250072
+antenna polarization ratio::1.58496250072
+range is referred::1.58496250072
+allowed antenna length::1.58496250072
+received the b.s::1.58496250072
+invalid at near-field::1.58496250072
+electronic toll collection::1.58496250072
+design is desirable::1.58496250072
+signal is modulated::1.58496250072
+antenna are oriented::1.58496250072
+polyester and rigid::1.58496250072
+flow chart shown::1.58496250072
+application is selected::1.58496250072
+substantial polarization misalignment::1.58496250072
+antennas and circuits::1.58496250072
+van nostrand reinold::1.58496250072
+provide a solution::1.58496250072
+tracked in standard::1.58496250072
+partially to electric::1.58496250072
+chamber and partially::1.58496250072
+microstrip and printed::1.58496250072
+finds many applications::1.58496250072
+tag antenna construction::1.58496250072
+theoretical and experimental::1.58496250072
+tag antenna overcomes::1.58496250072
+tag design requirements::1.58496250072
+tag is illustrated::1.58496250072
+chip capacitive impedance::1.58496250072
+requirements in spite::1.58496250072
+coauthored millimeter-wave microstrip::1.58496250072
+application are discussed::1.58496250072
+efficient tag design::1.58496250072
+packaged chip impedance::1.58496250072
+tem cell required::1.58496250072
+manuscript received february::1.58496250072
+clarify some aspects::1.58496250072
+planar inverted-f antenna::1.58496250072
+frequency of operation::1.58496250072
+21 2 cos::1.58496250072
+principle of passive::1.58496250072
+involved with rfid::1.58496250072
+experimental read ranges::1.58496250072
+resonant frequency deviation::1.58496250072
+impedance which give::1.58496250072
+toggles between two::1.58496250072
+field of rfid::1.58496250072
+field should receive::1.58496250072
+nowadays the major::1.58496250072
+proposed a performance::1.58496250072
+radio frequency identication::1.58496250072
+mhz as shown::1.58496250072
+method of moments::1.58496250072
+circular-to-linear polarization mismatch::1.58496250072
+tikhov also mentions::1.58496250072
+analyzed various practical::1.58496250072
+planar inverted f-antenna::1.58496250072
+power to operate::1.58496250072
+rfid chip affixed::1.58496250072
+transmits a modulated::1.58496250072
+self-resonant meander line::1.58496250072
+maximum allowed antenna::1.58496250072
+process which affected::1.58496250072
+circular patch antenna::1.58496250072
+measured in decibels::1.58496250072
+resonance frequency shifts::1.58496250072
+involved with catv::1.58496250072
+top antenna trace::1.58496250072
+joined the department::1.58496250072
+power as illustrated::1.58496250072
+information by varying::1.58496250072
+mounted on antenna::1.58496250072
+practical application aspects::1.58496250072
+polarized and oriented::1.58496250072
+general rfid tag::1.58496250072
+typically with method::1.58496250072
+assembly and packaging::1.58496250072
+meets the desired::1.58496250072
+u-slot microstrip patch::1.58496250072
+tikhov @ sait.samsung.co.kr::1.58496250072
+metal mounted tags::1.58496250072
+developed on antenna::1.58496250072
+problems in rfid::1.58496250072
+tag antenna gain::1.58496250072
+ensure reliable tag::1.58496250072
+theirperformanceismeasuredextensively.ifdesignrequirements are satisfied::1.58496250072
+application yuri tikhov::1.58496250072
+pallets or boxes::1.58496250072
+rigid pcb substrates::1.58496250072
+university of ottawa::1.58496250072
+variations in asic::1.58496250072
+operate when brought::1.58496250072
+trace and loading::1.58496250072
+thick metal mounted::1.58496250072
+tag which implies::1.58496250072
+added one loading::1.58496250072
+varied to obtain::1.58496250072
+content are analyzed::1.58496250072
+near-field tag scanning::1.58496250072
+depends on antenna::1.58496250072
+data and anechoic::1.58496250072
+read rate capability::1.58496250072
+tag is allowed::1.58496250072
+polarized aperture coupled::1.58496250072
+extending its length::1.58496250072
+computer by monitoring::1.58496250072
+covers the lowest::1.58496250072
+design of broad-band::1.58496250072
+passive and active::1.58496250072
+plane as shown::1.58496250072
+tags is determined::1.58496250072
+design the process::1.58496250072
+tag range bandwidth::1.58496250072
+advanced to current::1.58496250072
+requirements are met::1.58496250072
+communication by means::1.58496250072
+antennas are designed::1.58496250072
+core team members::1.58496250072
+range is determined::1.58496250072
+1=2 which decreases::1.58496250072
+aperture coupled circular::1.58496250072
+c-shaped coupling slot::1.58496250072
+antenna parametric study::1.58496250072
+performance of rfid::1.58496250072
+antenna is designed::1.58496250072
+sensitivity to box::1.58496250072
+senior research assistant::1.58496250072
+boxes may travel::1.58496250072
+meander antenna optimization::1.58496250072
+measuring small tags::1.58496250072
+broad-band trunk distribution::1.58496250072
+thin planar antenna::1.58496250072
+controlled by trimming::1.58496250072
+analysis of practical::1.58496250072
+performance to satisfy::1.58496250072
+power tem cell::1.58496250072
+process of antenna::1.58496250072
+antenna as illustrated::1.58496250072
+due to cost::1.58496250072
+helps the designer::1.58496250072
+designer to estimate::1.58496250072
+final parameter values::1.58496250072
+curve and experimental::1.58496250072
+antenna perfectly matched::1.58496250072
+comparison between theoretical::1.58496250072
+provide enough energy::1.58496250072
+specific directivity pattern::1.58496250072
+typically is dominant::1.58496250072
+free-space transmission formula::1.58496250072
+linear-to-linear polarization mismatch::1.58496250072
+interest for rfid::1.58496250072
+range in gain-transmission::1.58496250072
+tag read range::1.58496250072
+versatile loaded meander::1.58496250072
+assumption that polarization::1.58496250072
+techniques and concentrate::1.58496250072
+cell had parameters::1.58496250072
+dominant in frequency::1.58496250072
+peak free-space performance::1.58496250072
+prototype of rfid::1.58496250072
+applications with mobility::1.58496250072
+microelectronics packaging handbook::1.58496250072
+power loss due::1.58496250072
+development of single-conversion::1.58496250072
+tunable antenna design::1.58496250072
+requirements largely determine::1.58496250072
+efficiency is 1=2::1.58496250072
+minimum threshold power::1.58496250072
+antenna are elliptically::1.58496250072
+maximum attainable gain::1.58496250072
+helpful for designers::1.58496250072
+tag is recorded::1.58496250072
+ellipses which lie::1.58496250072
+overcome this situation::1.58496250072
+tag prototypes similar::1.58496250072
+imperfections of anechoic::1.58496250072
+tags are copper::1.58496250072
+estimate the range::1.58496250072
+defense and aerospace::1.58496250072
+meander line antennas::1.58496250072
+chamber or transverse::1.58496250072
+paper on modulated::1.58496250072
+objects erp box::1.58496250072
+uhf rfid systems::1.58496250072
+chip to turn::1.58496250072
+tem cell data::1.58496250072
+provide sufficient tolerance::1.58496250072
+lowest rfid band::1.58496250072
+high read rate::1.58496250072
+procedures for antennas::1.58496250072
+complex polarization ratios::1.58496250072
+tag for box::1.58496250072
+comparison with tag::1.58496250072
+content in specific::1.58496250072
+design is ready::1.58496250072
+optimized until requirements::1.58496250072
+materials for tag::1.58496250072
+rfid tag development::1.58496250072
+rfid tag design::1.58496250072
+determines the tag::1.58496250072
+portals by forklifts::1.58496250072
+transmitter output power::1.58496250072
+country where tag::1.58496250072
+process rfid tag::1.58496250072
+tool for measuring::1.58496250072
+standard supply chain::1.58496250072
+determined with rfid::1.58496250072
+broad-band single-layer rectangular::1.58496250072
+ece teaching assistant::1.58496250072
+passive rfid transponder::1.58496250072
+inside a printed::1.58496250072
+design and manufacturing::1.58496250072
+local country regulations::1.58496250072
+case of linear-to-linear::1.58496250072
+modified and optimized::1.58496250072
+read range performance::1.58496250072
+computer aided design::1.58496250072
+measurement using tem::1.58496250072
+watson research center::1.58496250072
+exist many papers::1.58496250072
+varied by controlled::1.58496250072
+university of washington::1.58496250072
+cell range measurement::1.58496250072
+multipath is minimal::1.58496250072
+worst case application::1.58496250072
+relative importance depends::1.58496250072
+colloquium rfid technology::1.58496250072
+trimmed and tuned::1.58496250072
+desired range requirements::1.58496250072
+mismatch the read::1.58496250072
+belt as shown::1.58496250072
+design process rfid::1.58496250072
+omni-like read range::1.58496250072
+complicated three-dimensional designs::1.58496250072
+applied to active::1.58496250072
+design development engineer::1.58496250072
+research staff member::1.58496250072
+constant normalized range::1.58496250072
+involved with computer::1.58496250072
+objects are present::1.58496250072
+frame to present::1.58496250072
+anechoic chamber data::1.58496250072
+tags is presented::1.58496250072
+polarized tag antenna::1.58496250072
+discussed various requirements::1.58496250072
+process in order::1.58496250072
+closer to rfid::1.58496250072
+cell is connected::1.58496250072
+selecting the tag::1.58496250072
+comments and replies::1.58496250072
+severe power loss::1.58496250072
+identified by plotting::1.58496250072
+linearly polarized tag::1.58496250072
+thin flexible tags::1.58496250072
+flip-chip attachment process::1.58496250072
+involve near-field tag::1.58496250072
+fabricated and tested::1.58496250072
+antenna for radio::1.58496250072
+tag antenna similar::1.58496250072
+antenna a thin::1.58496250072
+agreement with measured::1.58496250072
+selecting an rfid::1.58496250072
+degree in physics::1.58496250072
+presented a specific::1.58496250072
+similar to impedance::1.58496250072
+differences between tem::1.58496250072
+complex rf input::1.58496250072
+meander rfid tag::1.58496250072
+codesign of antennas::1.58496250072
+abstractin this paper::1.58496250072
+direction of maximum::1.58496250072
+signals for automatic::1.58496250072
+criteria for selecting::1.58496250072
+sander.lam @ intermec.com::1.58496250072
+teaching at iit::1.58496250072
+catv headend equipment::1.58496250072
+determine the criteria::1.58496250072
+rfid reader antenna::1.58496250072
+include a flexible::1.58496250072
+optimizing antenna performance::1.58496250072
+rfid tags due::1.58496250072
+passive uhf tag::1.58496250072
+tag in free-space::1.58496250072
+lengths of meander::1.58496250072
+complex impedance varying::1.58496250072
+input power applied::1.58496250072
+omnidirectional or hemispherical::1.58496250072
+tag in free::1.58496250072
+antenna is linearly::1.58496250072
+correctly pointed out::1.58496250072
+gain-transmission coefficient combinations::1.58496250072
+loaded meander rfid::1.58496250072
+compact tem cell::1.58496250072
+tag should fit::1.58496250072
+position in anechoic::1.58496250072
+supplemented with modeling::1.58496250072
+loading bar width::1.58496250072
+degrees in electrical::1.58496250072
+choice of materials::1.58496250072
+analysis and design::1.58496250072
+boxes are equipped::1.58496250072
+object or designed::1.58496250072
+tag antenna parameters::1.58496250072
+classes of antennas::1.58496250072
+influence antenna gain::1.58496250072
+received the ph.d::1.58496250072
+tem cell range::1.58496250072
+external matching network::1.58496250072
+flexible polyester substrate::1.58496250072
+polarized reader antennas::1.58496250072
+helped to clarify::1.58496250072
+linearly polarized antennas::1.58496250072
+agreed with manufacturer::1.58496250072
+read range depends::1.58496250072
+tag range characterization::1.58496250072
+polarizations are matched::1.58496250072
+design a performance::1.58496250072
+mismatch between circularly::1.58496250072
+box with plastic::1.58496250072
+situation can frequently::1.58496250072
+meet range requirements::1.58496250072
+research and development::1.58496250072
+ieee ieee transactions::1.58496250072
+empty cardboard box::1.58496250072
+minimum threshold gain::1.58496250072
+log-periodic dipole antennas::1.58496250072
+back the information::1.58496250072
+antenna axial ratio::1.58496250072
+process variations erp::1.58496250072
+optimal realizable combinations::1.58496250072
+typical passive rfid::1.58496250072
+desired frequency band::1.58496250072
+process and box::1.58496250072
+practical application pavel::1.58496250072
+utah state university::1.58496250072
+mismatch is essential::1.58496250072
+dbi linearly polarized::1.58496250072
+requirements for passive::1.58496250072
+performance strongly depends::1.58496250072
+chip and antenna::1.58496250072
+application and analyzed::1.58496250072
+passive modulated backscatter::1.58496250072
+chip was measured::1.58496250072
+meander step width::1.58496250072
+high in comparison::1.58496250072
+single-layer rectangular u-slot::1.58496250072
+measure tag performance::1.58496250072
+survive such processes::1.58496250072
+rectangular u-slot microstrip::1.58496250072
+bar code printed::1.58496250072
+tag is inserted::1.58496250072
+acknowledgment the authors::1.58496250072
+tradeoffs between antenna::1.58496250072
+tag antenna designers::1.58496250072
+allocation for rfid::1.58496250072
+obtain optimum reactance::1.58496250072
+key universal criteria::1.58496250072
+outline a generic::1.58496250072
+provide enough power::1.58496250072
+common reference frame::1.58496250072
+majority of applications::1.58496250072
+substrates like fr4::1.58496250072
+rfid uhf bands::1.58496250072
+adequate cost function::1.58496250072
+needed to provide::1.58496250072
+mhz frequency bands::1.58496250072
+analyzed with electromagnetic::1.58496250072
+chamber and tem::1.58496250072
+small antenna measurements::1.58496250072
+eirp is determined::1.58496250072
+antennas for rfid::1.58496250072
+significant resonant frequency::1.58496250072
+affixed to antenna::1.58496250072
+equipment with triple::1.58496250072
+coupled circular patch::1.58496250072
+overview of criteria::1.58496250072
+case of eirp::1.58496250072
+tolerance for tag::1.58496250072
+benchmarked against measurements::1.58496250072
+mhz in japan::1.58496250072
+designed or tuned::1.58496250072
+cpw-fed folded-slot antenna::1.58496250072
+antenna and linearly::1.58496250072
+tag fabrication variations::1.58496250072
+software design engineer::1.58496250072
+typical design process::1.58496250072
+happen in practical::1.58496250072
+printing and lamination::1.58496250072
+provided an overview::1.58496250072
+plotting and examining::1.58496250072
+chart for tag::1.58496250072
+specific box content::1.58496250072
+printed circuit antennas::1.58496250072
+variable output power::1.58496250072
+packaging process variations::1.58496250072
+designed to resonate::1.58496250072
+present the performance::1.58496250072
+joined the faculty::1.58496250072
+made to obtain::1.58496250072
+interrogator base station::1.58496250072
+complex impedance presented::1.58496250072
+tuning is determined::1.58496250072
+intermec.com ; kvs.rao::1.58496250072
+sufficient to create::1.58496250072
+read range calculation::1.58496250072
+design of mixed-technology::1.58496250072
+frequency-dependent complex impedance::1.58496250072
+limited rfid applications::1.58496250072
+tag is measured::1.58496250072
+determine tag resonance::1.58496250072
+material the tag::1.58496250072
+tag antennas tend::1.58496250072
+cases the tag::1.58496250072
+prototyping and validation::1.58496250072
+optimization is performed::1.58496250072
+pre-required small size::1.58496250072
+engineer with ansoft::1.58496250072
+spite of variations::1.58496250072
+gain and measured::1.58496250072
+prototypes were fabricated::1.58496250072
+measured read range::1.58496250072
+spread was caused::1.58496250072
+rfid tag chip::1.58496250072
+finite-difference time-domain method::1.58496250072
+cardboard box labeling::1.58496250072
+intermec.com ; pavel.nikitin::1.58496250072
+popular low-cost technique::1.58496250072
+process including range::1.58496250072
+mhz in north::1.58496250072
+rfid asic chip::1.58496250072
+presented an overview::1.58496250072
+reviewed design requirements::1.58496250072
+examining the families::1.58496250072
+front end complex::1.58496250072
+built and theirperformanceismeasuredextensively.ifdesignrequirements::1.58496250072
+friis free-space formula::1.58496250072
+embedded or attached::1.58496250072
+maximum practical distance::1.58496250072
+prototypes are built::1.58496250072
+minimum power needed::1.58496250072
+first issue raised::1.58496250072
+research associates::1.0
+toll collection::1.0
+dbi linearly::1.0
+polarized aperture::1.0
+patents pending::1.0
+field nonuniformities::1.0
+rate capability::1.0
+antenna construction::1.0
+final assembly::1.0
+costly venture::1.0
+measured read::1.0
+optimal realizable::1.0
+antenna reactance::1.0
+aided design::1.0
+staff technologist::1.0
+correctly pointed::1.0
+airline baggage::1.0
+two-way broad-band::1.0
+frequency deviation::1.0
+important characteristic::1.0
+theoretical curve::1.0
+considerable amount::1.0
+matched chip::1.0
+system operation::1.0
+reflected power::1.0
+advanced institute::1.0
+impedance presentation::1.0
+cation fundamentals::1.0
+influence antenna::1.0
+range depends::1.0
+free-space performance::1.0
+package parasitics::1.0
+cardboard objects::1.0
+flip-chip packaging::1.0
+qualitative value::1.0
+antennas wireless::1.0
+severe power::1.0
+omnidirectional performance::1.0
+maximum practical::1.0
+meander line::1.0
+tunability requirements::1.0
+importance depends::1.0
+index termsantennas::1.0
+correct subject::1.0
+specific asic::1.0
+key parameters::1.0
+arbitrary position::1.0
+distance extends::1.0
+imposes restrictions::1.0
+microelectronics division::1.0
+analytical solution::1.0
+yuri tikhov::1.0
+strongly depends::1.0
+meandering allowed::1.0
+experimental read::1.0
+optimum tag::1.0
+typical design::1.0
+antenna problems::1.0
+presented modeling::1.0
+step height::1.0
+designer involved::1.0
+optimizing antenna::1.0
+last step::1.0
+absolute value::1.0
+standard journals::1.0
+research center::1.0
+supply chain::1.0
+fabrication details::1.0
+formula valid::1.0
+chart shown::1.0
+variable output::1.0
+connecting cable::1.0
+large portals::1.0
+system requirement::1.0
+qualitative behavior::1.0
+replies comments::1.0
+directly matched::1.0
+team members::1.0
+silver ink::1.0
+standard test::1.0
+free-space formula::1.0
+imaginary part::1.0
+application pavel::1.0
+typical passive::1.0
+sustain variations::1.0
+antenna analysis::1.0
+dielectric permittivity::1.0
+plane perpendicular::1.0
+including covered::1.0
+dipole antennas::1.0
+differ significantly::1.0
+substantial polarization::1.0
+technology advanced::1.0
+power applied::1.0
+conjugate match::1.0
+natural choice::1.0
+low-cost technique::1.0
+thick metal::1.0
+low-cost device::1.0
+first issue::1.0
+coefficient combinations::1.0
+hardware design::1.0
+decay factor::1.0
+application considerations::1.0
+catv headend::1.0
+read rate::1.0
+u.s.-based auget::1.0
+antenna measurements::1.0
+measurement accurate::1.0
+mixed-technology systems-on-chip::1.0
+objects erp::1.0
+post-processing capabilities::1.0
+symbol technologies::1.0
+small antennas::1.0
+dual polarized::1.0
+time-domain method::1.0
+experimental data::1.0
+peak free-space::1.0
+convenient tool::1.0
+variations erp::1.0
+tag form::1.0
+senior member::1.0
+application requirements::1.0
+polarization ratios::1.0
+efficient tag::1.0
+teaching assistant::1.0
+planar designs::1.0
+input power::1.0
+revised june::1.0
+interests include::1.0
+small footprint::1.0
+defined locations::1.0
+mhz range::1.0
+access control::1.0
+staff member::1.0
+antennas tend::1.0
+research staff::1.0
+manufacturer specifications::1.0
+existing gap::1.0
+antenna resistance::1.0
+range bandwidth::1.0
+significantly affected::1.0
+optimum performance::1.0
+country regulations::1.0
+electric field::1.0
+field inside::1.0
+parameter values::1.0
+tag spends::1.0
+controlled environment::1.0
+easily tunable::1.0
+operation depends::1.0
+performance criteria::1.0
+modulated signal::1.0
+obtain additional::1.0
+coefficient plane::1.0
+versatile loaded::1.0
+antenna axial::1.0
+back-scattered rfid::1.0
+step width::1.0
+interrogator base::1.0
+test procedures::1.0
+electromagnetic modeling::1.0
+fixed distance::1.0
+impedance matching::1.0
+operation impose::1.0
+implemented directly::1.0
+application scenarios::1.0
+powerful parametrics::1.0
+optimum reactance::1.0
+ibm corporation::1.0
+three-dimensional designs::1.0
+controlled rao::1.0
+basic considerations::1.0
+external matching::1.0
+frequency shifts::1.0
+automatic identification::1.0
+box tracking::1.0
+u-slot microstrip::1.0
+larger anechoic::1.0
+normalized range::1.0
+log-periodic dipole::1.0
+local country::1.0
+passive back-scattered::1.0
+voltage developed::1.0
+worst case::1.0
+erp box::1.0
+cable loss::1.0
+computer aided::1.0
+planar inverted-f::1.0
+packaging handbook::1.0
+polarized antennas::1.0
+lumped elements::1.0
+specific context::1.0
+power levels::1.0
+power tem::1.0
+antenna research::1.0
+current article::1.0
+mismatch factor::1.0
+presented tag::1.0
+passive modulated::1.0
+potential applications::1.0
+cell required::1.0
+subsequently joined::1.0
+issue raised::1.0
+antenna geometry::1.0
+rfid uhf::1.0
+corp west::1.0
+asset identification::1.0
+planes perpendicular::1.0
+far-field formula::1.0
+ieee rao::1.0
+significant resonant::1.0
+u.s patents::1.0
+plastic material::1.0
+typically toggles::1.0
+performance strongly::1.0
+antenna behavior::1.0
+circuit antennas::1.0
+described range::1.0
+lam received::1.0
+rfid antennas::1.0
+maximum allowed::1.0
+ansoft software::1.0
+largely determine::1.0
+maximum attainable::1.0
+briefly described::1.0
+allowed antenna::1.0
+transverse electromagnetic::1.0
+smart labels::1.0
+specific box::1.0
+meander rfid::1.0
+finite-element method::1.0
+dry goods::1.0
+meander tuning::1.0
+near-field situation::1.0
+covered slot::1.0
+inverted f-antenna::1.0
+adequate power::1.0
+realizable combinations::1.0
+finite-difference time-domain::1.0
+lam abstractin::1.0
+bar code::1.0
+radio-frequency identi::1.0
+front end::1.0
+gain-optimized self-resonant::1.0
+worth mentioning::1.0
+warehouse environment::1.0
+elliptically polarized::1.0
+free-space eirp::1.0
+specific integrated::1.0
+desired frequency::1.0
+circuit fig::1.0
+polarized tag::1.0
+system operates::1.0
+samsys technologies::1.0
+process rfid::1.0
+range characterization::1.0
+matching network::1.0
+chip affixed::1.0
+uhf tag::1.0
+brought closer::1.0
+due partially::1.0
+practical uhf::1.0
+identifications group::1.0
+specific directivity::1.0
+inverted-f antenna::1.0
+bureau standards::1.0
+frequency-dependent complex::1.0
+cell input::1.0
+antenna size::1.0
+untrimmed tag::1.0
+measuring small::1.0
+involves inevitable::1.0
+frequency domain::1.0
+basic principle::1.0
+performance characteristic::1.0
+distribution amplifiers::1.0
+vehicle security::1.0
+tags due::1.0
+reference frame::1.0
+joined u.s.-based::1.0
+award presented::1.0
+tag read::1.0
+circuits sponsored::1.0
+gtem cell::1.0
+auget communication::1.0
+rfid finds::1.0
+microelectronics packaging::1.0
+sends back::1.0
+scenarios involve::1.0
+reader sensitivity::1.0
+relative importance::1.0
+case application::1.0
+selected asic::1.0
+omni-like read::1.0
+empty cardboard::1.0
+key universal::1.0
+provide tolerance::1.0
+mutually tilted::1.0
+standard supply::1.0
+missing polarization::1.0
+meet worst::1.0
+frequently happen::1.0
+tag scanning::1.0
+cpw-fed folded-slot::1.0
+acceptable minimum::1.0
+threshold gain::1.0
+common reference::1.0
+required objects::1.0
+valuable comments::1.0
+construction including::1.0
+potentially lead::1.0
+tag consists::1.0
+inch labels::1.0
+easily tuned::1.0
+simulated values::1.0
+utah state::1.0
+transmission formula::1.0
+artech house::1.0
+range tradeoff::1.0
+system requirements::1.0
+animal tracking::1.0
+voltage powers::1.0
+limited rfid::1.0
+tag requirements::1.0
+coefficient due::1.0
+boxes travel::1.0
+box contents::1.0
+power needed::1.0
+communication links::1.0
+small size::1.0
+added variations::1.0
+reviewed design::1.0
+planar antenna::1.0
+end complex::1.0
+transponder design::1.0
+complex polarization::1.0
+rfid readers::1.0
+smith chart::1.0
+hemispherical coverage::1.0
+3-db power::1.0
+lowest rfid::1.0
+microstrip patch::1.0
+closely monitored::1.0
+conventional case::1.0
+reliable device::1.0
+bar width::1.0
+far-field region::1.0
+values normalized::1.0
+single-conversion tvro::1.0
+experimentally measured::1.0
+parametric study::1.0
+research assistant::1.0
+carry accurate::1.0
+maximum gain::1.0
+pre-required small::1.0
+polarization ratio::1.0
+desired range::1.0
+large antenna::1.0
+major vendors::1.0
+carnegie-mellon university::1.0
+above-mentioned inaccuracy::1.0
+avoid overestimation::1.0
+rfid band::1.0
+identi cation::1.0
+review fig::1.0
+software design::1.0
+antenna structure::1.0
+analysis presented::1.0
+length trimming::1.0
+antenna self-resonance::1.0
+rfid handbook::1.0
+complicated three-dimensional::1.0
+ensure reliable::1.0
+propagation environment::1.0
+uhf bands::1.0
+loss due::1.0
+suwon 440-600::1.0
+tag prototypes::1.0
+antenna type::1.0
+determine tag::1.0
+printed circuit::1.0
+rectangular u-slot::1.0
+fixed frequency::1.0
+headend equipment::1.0
+power transmission::1.0
+minimum lead::1.0
+pcb substrates::1.0
+identification cards::1.0
+application scenario::1.0
+typically high::1.0
+antenna parameters::1.0
+read rangethe::1.0
+doppler shift::1.0
+practical distance::1.0
+tags tuned::1.0
+range multiplier::1.0
+general case::1.0
+polarization issues::1.0
+quiet zone::1.0
+near-field tag::1.0
+inevitable tradeoffs::1.0
+antenna optimization::1.0
+rfid community::1.0
+frequency allocation::1.0
+size requirements::1.0
+coupled circular::1.0
+integrated circuit::1.0
+process involves::1.0
+popular low-cost::1.0
+lead engineer::1.0
+trunk distribution::1.0
+application fig::1.0
+log +1::1.0
+easily calculated::1.0
+printed label::1.0
+philips epc::1.0
+essex junction::1.0
+transmitter output::1.0
+complex environment::1.0
+linear-to-linear polarization::1.0
+involve near-field::1.0
+technical publications::1.0
+times shorter::1.0
+expected value::1.0
+range requirements::1.0
+frequency bands::1.0
+meandered section::1.0
+polarized reader::1.0
+reliable tag::1.0
+peak range::1.0
+planar inverted::1.0
+far-field zone::1.0
+rangethe maximum::1.0
+minimum read::1.0
+asian countries::1.0
+widely established::1.0
+cell range::1.0
+typical conductors::1.0
+single-layer rectangular::1.0
+yorktown heights::1.0
+impedance shown::1.0
+tag orientation::1.0
+misalignment angle::1.0
+normalization factor::1.0
+impedance presented::1.0
+aided::0.0
+limited::0.0
+desirable::0.0
+asian::0.0
+consists::0.0
+antenna overcomes::0.0
+feeding::0.0
+ap-23::0.0
+presents::0.0
+caused::0.0
+teaching::0.0
+worth::0.0
+eirp::0.0
+brebels::0.0
+overcomes::0.0
+experimentally::0.0
+solution::0.0
+humidity::0.0
+millimeter-wave::0.0
+miller::0.0
+post-processing::0.0
+chen::0.0
+implemented::0.0
+selected::0.0
+asic::0.0
+toll::0.0
+coefficient::0.0
+met::0.0
+active::0.0
+sop integration::0.0
+cardboard::0.0
+aug::0.0
+practical uhf rfid::0.0
+mobility::0.0
+linearly::0.0
+asset::0.0
+survive::0.0
+type::0.0
+near-field distances::0.0
+award::0.0
+broad-band::0.0
+norwood::0.0
+ratio is related::0.0
+give::0.0
+india::0.0
+involve::0.0
+absolute::0.0
+seattle::0.0
+end::0.0
+eng::0.0
+provide::0.0
+inst::0.0
+preferable::0.0
+lam::0.0
+demanding::0.0
+chambers or cells::0.0
+destined::0.0
+law::0.0
+raedt::0.0
+adio::0.0
+special cases::0.0
+beltsville::0.0
+ryckaert::0.0
+baggage::0.0
+order::0.0
+affect::0.0
+japan::0.0
+fit::0.0
+rangethe maximum distance::0.0
+complex::0.0
+overcome::0.0
+affected::0.0
+asic chip::0.0
+seshagiri::0.0
+directly::0.0
+nostrand::0.0
+strips::0.0
+typical chip impedance::0.0
+=4::0.0
+revisions::0.0
+crucial::0.0
+content::0.0
+antenna loaded::0.0
+size::0.0
+associate::0.0
+radio-frequency identi cation::0.0
+free::0.0
+estimate::0.0
+crown electronics::0.0
+iso::0.0
+expensive chambers::0.0
+sait.samsung.co.kr::0.0
+thick::0.0
+electronic::0.0
+coauthored::0.0
+tem::0.0
+top::0.0
+heights::0.0
+needed::0.0
+guidelines::0.0
+ece teaching::0.0
+distance::0.0
+problem of tag::0.0
+classes::0.0
+wheeler::0.0
+powers::0.0
+modulating::0.0
+rao::0.0
+adding an external::0.0
+contents::0.0
+range calculation::0.0
+oriented::0.0
+pittsburgh::0.0
+time-domain::0.0
+prohibitive::0.0
+extending::0.0
+acquired from ibm::0.0
+calculated::0.0
+flow::0.0
+principle::0.0
+theirperformanceismeasuredextensively.ifdesignrequirements::0.0
+reactance::0.0
+intellitag::0.0
+spite::0.0
+situations::0.0
+folded::0.0
+parasitics::0.0
+adequate::0.0
+hirvonen::0.0
+oct::0.0
+preferred::0.0
+watson::0.0
+pallets::0.0
+bar::0.0
+countries::0.0
+patch::0.0
+analytical::0.0
+automatic::0.0
+respond::0.0
+reference::0.0
+depends::0.0
+optimum::0.0
+techniques::0.0
+proper frequency::0.0
+february::0.0
+including covered slot::0.0
+tolerance::0.0
+ire::0.0
+determine the materials::0.0
+www.intermec.com reply::0.0
+packaged::0.0
+loading::0.0
+rigid pcb::0.0
+cos::0.0
+country::0.0
+eciency::0.0
+planned::0.0
+c-shaped::0.0
+polarized with mutually::0.0
+maltseff::0.0
+response threshold::0.0
+warehouses::0.0
+fulfill a system::0.0
+interest::0.0
+basic::0.0
+expected::0.0
+affixed::0.0
+input::0.0
+applied::0.0
+slot antenna design::0.0
+pursula::0.0
+fr4::0.0
+study::0.0
+make::0.0
+forklifts::0.0
+potentially::0.0
+meets::0.0
+everett::0.0
+above-mentioned::0.0
+normalization::0.0
+mil::0.0
+scenario::0.0
+materials::0.0
+simulated::0.0
+epc::0.0
+proposed::0.0
+tag offers::0.0
+bandwidth::0.0
+adding::0.0
+passive::0.0
+spread::0.0
+easy::0.0
+trimming::0.0
+bands::0.0
+boxes::0.0
+designers::0.0
+advanced::0.0
+modulated::0.0
+specific::0.0
+ph.d::0.0
+methods tag::0.0
+arbitrary::0.0
+security::0.0
+sends::0.0
+crown::0.0
+wireless::0.0
+tracked::0.0
+comments::0.0
+designer a good::0.0
+tummala::0.0
+core::0.0
+22::0.0
+21::0.0
+effectively modulating::0.0
+tvro::0.0
+carnegie-mellon::0.0
+corp::0.0
+hsu::0.0
+far-field::0.0
+ensure::0.0
+contours::0.0
+match::0.0
+considerations::0.0
+soc::0.0
+sop::0.0
+rfid tag embedded::0.0
+pavel.nikitin::0.0
+nostrand reinold::0.0
+plotted on gain-transmission::0.0
+rangethe::0.0
+lowest::0.0
+form::0.0
+offer::0.0
+attempted::0.0
+differences::0.0
+match between chip::0.0
+single-conversion::0.0
+fit inside::0.0
+radio-frequency::0.0
+attached::0.0
+maximum::0.0
+monitored::0.0
+applications require::0.0
+covers::0.0
+unmodulated period::0.0
+lumped::0.0
+exist::0.0
+circular-to-linear::0.0
+tag performance characteristic::0.0
+papers::0.0
+test::0.0
+senior::0.0
+ottawa::0.0
+construction and asic::0.0
+chain::0.0
+varying::0.0
+fabricated::0.0
+manages::0.0
+eirp of interest::0.0
+c-shaped coupling::0.0
+zone::0.0
+technique::0.0
+read field::0.0
+division::0.0
+wireless identifications group::0.0
+frequencies::0.0
+choice::0.0
+criteria for rfid::0.0
+erp::0.0
+presented::0.0
+free-space::0.0
+communication hardware::0.0
+process for passive::0.0
+leave::0.0
+item::0.0
+require a tag::0.0
+talaga::0.0
+rameters mentioned::0.0
+effect of antenna::0.0
+antenna and tag::0.0
+kvs.rao::0.0
+current::0.0
+axial::0.0
+reply::0.0
+satisfy::0.0
+meander tag antenna::0.0
+nonuniformities::0.0
+understanding::0.0
+cos2::0.0
+box::0.0
+institute::0.0
+shift::0.0
+minimum required read::0.0
+weigand::0.0
+resonance::0.0
+plotted::0.0
+engineer::0.0
+dielectrics include::0.0
+item management::0.0
+market::0.0
+frequency-dependent::0.0
+scenarios::0.0
+band in free::0.0
+reader can read::0.0
+theoretical::0.0
+gain-optimized::0.0
+acceptable::0.0
+illustrates a passive::0.0
+rigid::0.0
+bansal::0.0
+states::0.0
+application specific integrated::0.0
+ibm::0.0
+modified::0.0
+printing::0.0
+values::0.0
+portals::0.0
+december::0.0
+chip::0.0
+performed::0.0
+allowed::0.0
+requirements::0.0
+optimal::0.0
+parameter::0.0
+product::0.0
+mar::0.0
+paramount::0.0
+sacrifice::0.0
+analysis tools::0.0
+applications::0.0
+-plane::0.0
+mag::0.0
+journals::0.0
+natural::0.0
+ghz::0.0
+tagged::0.0
+fast em analysis::0.0
+received december::0.0
+pointed::0.0
+obtain optimum tag::0.0
+determined by local::0.0
+supplemented::0.0
+group::0.0
+interesting::0.0
+vicinity::0.0
+decreases::0.0
+low-cost::0.0
+offers::0.0
+dependence of antenna::0.0
+invalid at nearfield::0.0
+underneath::0.0
+process::0.0
+nov::0.0
+discuss::0.0
+matched::0.0
+fault of rfid::0.0
+design of log-periodic::0.0
+established::0.0
+significantly::0.0
+revised::0.0
+year::0.0
+wavelength::0.0
+happen::0.0
+canada::0.0
+shown::0.0
+space::0.0
+impedance typically::0.0
+formula::0.0
+receiving::0.0
+correct::0.0
+complicated::0.0
+inevitable::0.0
+gain of tag::0.0
+advance::0.0
+impose::0.0
+turn::0.0
+plane::0.0
+antenna::0.0
+read range equation::0.0
+substrates::0.0
+first::0.0
+faculty::0.0
+department of electrical::0.0
+optimization engine::0.0
+carry::0.0
+parametrics::0.0
+designer::0.0
+plastic::0.0
+participated::0.0
+rfid operation::0.0
+01::0.0
+hui::0.0
+transverse::0.0
+attempt::0.0
+range measurement setups::0.0
+trimming the meander::0.0
+require::0.0
+computer::0.0
+venture::0.0
+cards::0.0
+planned to ensure::0.0
+russia::0.0
+technologies corp west::0.0
+locations::0.0
+engineering department involved::0.0
+efficient::0.0
+equipment::0.0
+potential::0.0
+performance::0.0
+accounts for polarization::0.0
+microwaves::0.0
+detect::0.0
+printed::0.0
+america::0.0
+inserted::0.0
+operate::0.0
+pattern::0.0
+typically::0.0
+inverted-f::0.0
+threshold::0.0
+reinold::0.0
+slot::0.0
+ratio::0.0
+s.-y::0.0
+unmodulated carrier::0.0
+equipped::0.0
+assistant::0.0
+satisfied::0.0
+create an adequate::0.0
+lamination::0.0
+gen::0.0
+small group::0.0
+antenna are perfectly::0.0
+aluminum::0.0
+abstractin::0.0
+inside::0.0
+electronic toll::0.0
+minimum required::0.0
+gain-transmission::0.0
+ieee::0.0
+tem cell input::0.0
+review::0.0
+label::0.0
+bureau::0.0
+due to polarization::0.0
+analyzer::0.0
+concentrate::0.0
+online::0.0
+analyzed::0.0
+article::0.0
+concentrated::0.0
+realizable::0.0
+passive uhf radio::0.0
+region::0.0
+quiet::0.0
+propagation::0.0
+dependence and primarily::0.0
+characterization::0.0
+overview::0.0
+terminals using flip-chip::0.0
+multiplier::0.0
+period::0.0
+measurement using anechoic::0.0
+west::0.0
+modified read range::0.0
+fig::0.0
+engine::0.0
+direction::0.0
+samsung advanced::0.0
+designed::0.0
+3-db::0.0
+external::0.0
+case::0.0
+batteryless::0.0
+developing::0.0
+rfid chip::0.0
+microelectronics::0.0
+versus::0.0
+planar::0.0
+orientation::0.0
+conferences::0.0
+coupled::0.0
+good agreement::0.0
+s78m84sm91::0.0
+belt application::0.0
+author::0.0
+circularly::0.0
+shifts::0.0
+folded dipole::0.0
+nearfield::0.0
+rfid::0.0
+polarization of reader::0.0
+allocation::0.0
+footprint::0.0
+top antenna::0.0
+modified read::0.0
+summer::0.0
+transmitting::0.0
+variable misalignment::0.0
+label for cardboard::0.0
+adequate cost::0.0
+silver::0.0
+samples::0.0
+aspects::0.0
+read::0.0
+digital::0.0
+tools are crucial::0.0
+pre-required::0.0
+recipient::0.0
+sander.lam::0.0
+chamber::0.0
+output::0.0
+good understanding::0.0
+range versus frequency::0.0
+matching::0.0
+case application requirements::0.0
+provided::0.0
+antenna and chip::0.0
+recorded::0.0
+resonate::0.0
+critical::0.0
+suwon::0.0
+standard 149-1979::0.0
+simulation results::0.0
+measuring::0.0
+assembly::0.0
+power::0.0
+table i antenna::0.0
+communicate::0.0
+symp::0.0
+ratios::0.0
+manufacturer::0.0
+discussed::0.0
+practical::0.0
+mutually::0.0
+airline::0.0
+length is dictated::0.0
+antenna perfectly::0.0
+electromagnetic::0.0
+moves trimming::0.0
+communication::0.0
+essex::0.0
+meandered dipole::0.0
+variable::0.0
+accounts::0.0
+determine::0.0
+nowadays::0.0
+minimum read range::0.0
+log::0.0
+area::0.0
+offers an acceptable::0.0
+catv::0.0
+tunable design::0.0
+replies::0.0
+jun::0.0
+jul::0.0
+impedance::0.0
+technologies::0.0
+prototype::0.0
+embedded::0.0
+requirements largely::0.0
+digital object::0.0
+rfid application scenario::0.0
+power of communicate::0.0
+strongly::0.0
+fdtd::0.0
+integration and codesign::0.0
+moved::0.0
+general::0.0
+trace::0.0
+spends::0.0
+fill::0.0
+chip capacitive::0.0
+field::0.0
+matched chip impedance::0.0
+linear-to-linear::0.0
+deviation::0.0
+briefly::0.0
+backscattered::0.0
+important::0.0
+rfid system operates::0.0
+149-1979::0.0
+dielectrics::0.0
+network::0.0
+meander::0.0
+curve::0.0
+pth::0.0
+minimum power tem::0.0
+spacecraft::0.0
+expressions::0.0
+foster::0.0
+present::0.0
+presentation::0.0
+impedance which determine::0.0
+mph::0.0
+results::0.0
+worst::0.0
+optimum tag performance::0.0
+cable::0.0
+kharagpur::0.0
+joined::0.0
+large::0.0
+small::0.0
+authors discuss::0.0
+uhf radio frequency::0.0
+rate::0.0
+design::0.0
+hemispherical::0.0
+linear::0.0
+thickness::0.0
+bernhard::0.0
+study and optimization::0.0
+method::0.0
+tags::0.0
+jaakkola::0.0
+ranges::0.0
+operating::0.0
+situation::0.0
+design is preferable::0.0
+measured data::0.0
+standard::0.0
+transponder::0.0
+amount::0.0
+published::0.0
+mentions::0.0
+hogg::0.0
+process involves inevitable::0.0
+21::0.0
+environment::0.0
+conventional::0.0
+tikhov::0.0
+conclusion radio frequency::0.0
+two::0.0
+systems-on-chip::0.0
+technologies acquired::0.0
+versus frequency::0.0
+tested::0.0
+mounted::0.0
+hardware::0.0
+sacrifice of 3-db::0.0
+equation::0.0
+paragraph::0.0
+ning::0.0
+dec::0.0
+fabrication variations::0.0
+cation::0.0
+wal-mart::0.0
+minimum::0.0
+axis::0.0
+information::0.0
+tunable antenna::0.0
+fundamentals and applications::0.0
+interrogator::0.0
+two-way::0.0
+self-resonant::0.0
+wiley::0.0
+engineering from utah::0.0
+provide omnidirectional::0.0
+warehouse::0.0
+coming::0.0
+presented a loaded::0.0
+response::0.0
+speeds::0.0
+travel::0.0
+developed::0.0
+mentioning that formula::0.0
+auget communication products::0.0
+logan::0.0
+paper::0.0
+rapidly::0.0
+field nonuniformities inside::0.0
+systems::0.0
+tag embedded underneath::0.0
+pcb::0.0
+team::0.0
+misalignment::0.0
+good::0.0
+antenna polarization::0.0
+easily::0.0
+level::0.0
+labeling::0.0
+pan::0.0
+found::0.0
+impedance mismatch::0.0
+referred::0.0
+period is converted::0.0
+tilted::0.0
+publications in standard::0.0
+formulate::0.0
+energy::0.0
+fabrication issues::0.0
+measurement::0.0
+operation::0.0
+research::0.0
+attainable gain::0.0
+sustain::0.0
+issue::0.0
+plotting::0.0
+doppler::0.0
+requirements determine::0.0
+karmakar::0.0
+terminals::0.0
+base::0.0
+retail item::0.0
+chamber where multipath::0.0
++1::0.0
+log-periodic::0.0
+e.g::0.0
+conducted::0.0
+circuit::0.0
+conductors::0.0
+gain and bandwidth::0.0
+copper::0.0
+major::0.0
+reflected::0.0
+approximately::0.0
+back-scattered rfid system::0.0
+tag design meets::0.0
+prohibitively::0.0
+three-dimensional::0.0
+metal mounted::0.0
+differ::0.0
+temperature::0.0
+introduction::0.0
+joined antenna research::0.0
+provide sufficient::0.0
+assumption::0.0
+theoretical and experimentally::0.0
+carefully planned::0.0
+novosibirsk state::0.0
+amplifiers::0.0
+meander trace length::0.0
+yuri::0.0
+tracking::0.0
+authors::0.0
+passive radio frequency::0.0
+polarized::0.0
+determines::0.0
+largely::0.0
+broad-band single-layer::0.0
+cost::0.0
+varying its front::0.0
+packag::0.0
+substantial::0.0
+conjugate::0.0
+tags operating::0.0
+lie::0.0
+u.s::0.0
+additional inductance::0.0
+built::0.0
+majority::0.0
+tool::0.0
+added::0.0
+electric::0.0
+popular::0.0
+chart::0.0
+prohibitively expensive::0.0
+sponsored::0.0
+significant::0.0
+position::0.0
+64d::0.0
+big and costly::0.0
+2nd::0.0
+part::0.0
+jan.-feb::0.0
+physics::0.0
+polyester substrate::0.0
+tuned for boxes::0.0
+carefully::0.0
+access::0.0
+subject to assumption::0.0
+parameters::0.0
+capacitive::0.0
+factor::0.0
+calculated using friis::0.0
+involves inevitable tradeoffs::0.0
+embedded underneath::0.0
+dominant::0.0
+colloquium rfid::0.0
+scenarios involve near-field::0.0
+polarization of tag::0.0
+dry::0.0
+valuable::0.0
+closely::0.0
+combinations::0.0
+reliable tag identification::0.0
+corrected::0.0
+fixed and transmitter::0.0
+cost and fabrication::0.0
+demanding high::0.0
+distances between reader::0.0
+computer engineering::0.0
+common::0.0
+peak::0.0
+tvro and catv::0.0
+decreases the read::0.0
+tag fabrication::0.0
+flow chart::0.0
+transmission formula valid::0.0
+defense::0.0
+tunable::0.0
+close::0.0
+tags while larger::0.0
+meandering::0.0
+outlined the design::0.0
+dipole::0.0
+ansoft::0.0
+electric field nonuniformities::0.0
+manages a small::0.0
+mcmaster::0.0
+tuned for optimum::0.0
+van nostrand::0.0
+korea::0.0
+subject::0.0
+uhf rfid application::0.0
+last::0.0
+constant range::0.0
+tag response::0.0
+parametrics and optimization::0.0
+finite-difference::0.0
+process is illustrated::0.0
+sensitive::0.0
+connection::0.0
+periods of unmodulated::0.0
+context::0.0
+experimental::0.0
+supply::0.0
+large and prohibitively::0.0
+community::0.0
+ensures::0.0
+combinations of tag::0.0
+conveyor::0.0
+create::0.0
+read ranges::0.0
+empty::0.0
+lett::0.0
+due to asic::0.0
+compromises::0.0
+toggles::0.0
+practical analysis::0.0
+gap::0.0
+capacitive impedance::0.0
+station::0.0
+reliable::0.0
+pointed out::0.0
+technical::0.0
+optimization::0.0
+omnidirectional::0.0
+behavior::0.0
+cost function::0.0
+guidelines for selecting::0.0
+discuss the generic::0.0
+propag::0.0
+costly::0.0
+design meets::0.0
+vol::0.0
+triple::0.0
+ready::0.0
+gtem::0.0
+lengths::0.0
+omni-like::0.0
+shorter::0.0
+considerations are focused::0.0
+emphasize::0.0
+widely::0.0
+development::0.0
+attenuation::0.0
+levels::0.0
+arrived::0.0
+affect rfid::0.0
+microstrip::0.0
+identi::0.0
+b.s::0.0
+dbi antenna::0.0
+analysis::0.0
+convenient::0.0
+senior research::0.0
+parametric::0.0
+distances::0.0
+mom::0.0
+reviewed::0.0
+elect::0.0
+gain-optimized self-resonant meander::0.0
+readers::0.0
+signals::0.0
+range formula::0.0
+label insertion::0.0
+tag with loaded::0.0
+peixeiro::0.0
+required read range::0.0
+backscatter::0.0
+high read::0.0
+frequency identication::0.0
+big::0.0
+self-resonant meander::0.0
+aerospace::0.0
+forklifts equipped::0.0
+beyne::0.0
+degree in electrical::0.0
+projects::0.0
+joined u.s.-based auget::0.0
+label application::0.0
+signal::0.0
+cell data::0.0
+imposes::0.0
+partially to imperfections::0.0
+translated::0.0
+essential::0.0
+permittivity::0.0
+identication::0.0
+methods::0.0
+back::0.0
+prototyping::0.0
+self-resonance::0.0
+prohibitive in rfid::0.0
+measurements::0.0
+integration::0.0
+connecting::0.0
+proc::0.0
+minimal::0.0
+object::0.0
+agreement::0.0
+setups::0.0
+step::0.0
+first paper::0.0
+dictated::0.0
+f-antenna::0.0
+goods::0.0
+optimized::0.0
+simulation::0.0
+range::0.0
+carry accurate tag::0.0
+antenna length::0.0
+loaded meander tag::0.0
+receiving tag::0.0
+primarily::0.0
+www.awid.com::0.0
+tag application scenarios::0.0
+ontario::0.0
+measured::0.0
+fast::0.0
+vendors::0.0
+passive radio::0.0
+handbook::0.0
+tunability::0.0
+authored::0.0
+ieee standard test::0.0
+criteria::0.0
+goods or plastics::0.0
+line::0.0
+considerable::0.0
+fill the existing::0.0
+circuits::0.0
+characteristic::0.0
+transmits::0.0
+mutually tilted major::0.0
+paramount importance::0.0
+triple crown::0.0
+planes::0.0
+ranges for loaded::0.0
+similar::0.0
+headend::0.0
+constant::0.0
+defined::0.0
+metal::0.0
+general guidelines::0.0
+influence::0.0
+behavior of antenna::0.0
+globally::0.0
+patch antennas::0.0
+associates::0.0
+antenna performance chart::0.0
+work::0.0
+antenna parametric::0.0
+patents::0.0
+patch antenna analysis::0.0
+invalid::0.0
+application::0.0
+electrical::0.0
+nat::0.0
+department::0.0
+agreement with measurement::0.0
+preferable to provide::0.0
+www.samsys.com::0.0
+elements::0.0
+environment worldwide::0.0
+problems::0.0
+regulations::0.0
+sabbatical leave::0.0
+11742-1300::0.0
+rfid conveyor belt::0.0
+structure::0.0
+shorter length::0.0
+implies::0.0
+required::0.0
+holes::0.0
+tradeoff::0.0
+department involved::0.0
+inaccuracy::0.0
+code::0.0
+illustrates::0.0
+trunk distribution amplifiers::0.0
+resistance::0.0
+existing::0.0
+illustrated::0.0
+cases::0.0
+issues::0.0
+compact::0.0
+antenna research associates::0.0
+helps::0.0
+details::0.0
+include::0.0
+u.s.-based auget communication::0.0
+labels::0.0
+transponders::0.0
+tradeoffs::0.0
+electron::0.0
+sensitivity::0.0
+resonant::0.0
+tags destined::0.0
+trace at defined::0.0
+intermec.com::0.0
+transmission::0.0
+prototypes::0.0
+radio::0.0
+important factor::0.0
+west everett::0.0
+insertion::0.0
+polarization misalignment::0.0
+fabrication::0.0
+destined to work::0.0
+reader with variable::0.0
+index::0.0
+meet range::0.0
+labeled::0.0
+cell::0.0
+indian::0.0
+technology::0.0
+ghz rfid::0.0
+monitoring the tag::0.0
+publications::0.0
+degree::0.0
+mention the problem::0.0
+spacing::0.0
+tilted major axis::0.0
+desired::0.0
+identifications::0.0
+objects::0.0
+focused::0.0
+conveyor belt application::0.0
+imperfections::0.0
+receive::0.0
+involved::0.0
+larger::0.0
+products::0.0
+harrington::0.0
+important tag::0.0
+sabbatical::0.0
+involves::0.0
+content like dry::0.0
+examining::0.0
+conclusion radio::0.0
+apr::0.0
+missing polarization mismatch::0.0
+back-scattered::0.0
+rfid conveyor::0.0
+asic assembly::0.0
+tools::0.0
+usa::0.0
+tuned by trimming::0.0
+fem::0.0
+transactions::0.0
+mentioned above influence::0.0
+vehicle::0.0
+iit::0.0
+optimizing::0.0
+comparison::0.0
+prototypes similar::0.0
+mismatch::0.0
+broad-band trunk::0.0
+normalized::0.0
+antennas::0.0
+iii::0.0
+communication products::0.0
+friis free-space transmission::0.0
+fabrication may differ::0.0
+authors mention::0.0
+package::0.0
+physics from novosibirsk::0.0
+thin::0.0
+fulfill::0.0
+mounted tags::0.0
+control::0.0
+links::0.0
+calculation::0.0
+monitoring::0.0
+high::0.0
+effectively::0.0
+tag::0.0
+sufficient tolerance::0.0
+values for tag::0.0
+varied::0.0
+thin flexible polyester::0.0
+monsey::0.0
+attachment::0.0
+animal::0.0
+application scenarios involve::0.0
+specifications::0.0
+collection::0.0
+transmission coefficient due::0.0
+dual polarized aperture::0.0
+requirements several general::0.0
+rameters::0.0
+engineering::0.0
+realized::0.0
+manufacturing::0.0
+untrimmed::0.0
+correspond::0.0
+standards::0.0
+tracking in warehouse::0.0
+subsequently::0.0
+factor in communication::0.0
+standard test procedures::0.0
+nearfield distances::0.0
+cross-section::0.0
+relative::0.0
+including::0.0
+uhf::0.0
+box and box::0.0
+read rangethe maximum::0.0
+practical application yuri::0.0
+chosen::0.0
+b.eng::0.0
+frequency after fabrication::0.0
+degrees::0.0
+covered::0.0
+pending::0.0
+designs::0.0
+junction::0.0
+range equation::0.0
+outlined::0.0
+mention::0.0
+front::0.0
+baggage strips::0.0
+dielectric::0.0
+meet worst case::0.0
+variations of rfid::0.0
+university::0.0
+rfid technologies::0.0
+nonuniformities inside tem::0.0
+transmitted::0.0
+range was computed::0.0
+references::0.0
+raised::0.0
+received february::0.0
+polarization mismatch factor::0.0
+nonuniformities inside::0.0
+int::0.0
+related::0.0
+inverted::0.0
+mhz frequency::0.0
+application aspects::0.0
+frequency::0.0
+auget::0.0
+measure::0.0
+special::0.0
+out::0.0
+importance in rfid::0.0
+antenna designers::0.0
+acknowledgment::0.0
+house::0.0
+mixed-technology::0.0
+electronics::0.0
+integrated::0.0
+first modeled::0.0
+specific frequency::0.0
+fun::0.0
+ece::0.0
+cases of interest::0.0
+xianming::0.0
+clarify::0.0
+tag development::0.0
+york::0.0
+tag analysis::0.0
+realized by punching::0.0
+geometry::0.0
+times::0.0
+length::0.0
+retail::0.0
+south::0.0
+plastics::0.0
+manuscript::0.0
+scanning::0.0
+powerful::0.0
+transactions on antennas::0.0
+rao the first::0.0
+measurement accurate tag::0.0
+work for specific::0.0
+aperture::0.0
+management::0.0
+allowed the antenna::0.0
+holtsville::0.0
+data::0.0
+system::0.0
+sensitivity is typically::0.0
+pavel::0.0
+perfectly::0.0
+watson research::0.0
+final::0.0
+interests::0.0
+stress::0.0
+trimming x tag::0.0
+outline::0.0
+colleagues::0.0
+back-scattered signal::0.0
+s98m02::0.0
+decided::0.0
+rfid asic::0.0
+primarily determines::0.0
+compact tem::0.0
+friis::0.0
+3-db power loss::0.0
+curves::0.0
+chambers::0.0
+angle::0.0
+directivity::0.0
+u.s.-based::0.0
+required read::0.0
+polarization::0.0
+fundamentals::0.0
+values for chip::0.0
+worldwide::0.0
+antenna orientation::0.0
+range measurement accurate::0.0
+connected::0.0
+device::0.0
+overestimation::0.0
+size and tunability::0.0
+impose limitations::0.0
+polyester::0.0
+1=2::0.0
+coauthored millimeter-wave::0.0
+mississauga::0.0
+brought::0.0
+tag embedded::0.0
+year award::0.0
+typical::0.0
+fact::0.0
+dbi::0.0
+situations where tagged::0.0
+thin planar::0.0
+measure tag::0.0
+dbm::0.0
+chip impedance shown::0.0
+agreed::0.0
+indian institute::0.0
+meandered::0.0
+attainable::0.0
+ieee ieee::0.0
+determined::0.0
+staff::0.0
+reader::0.0
+application specific::0.0
+complicated for analytical::0.0
+local::0.0
+laukkanen::0.0
+uhf radio::0.0
+means::0.0
+punching holes::0.0
+perfectly matched chip::0.0
+geometry is shown::0.0
+www.symbol.com::0.0
+procedures::0.0
+areas::0.0
+flip-chip::0.0
+processes::0.0
+substrate::0.0
+tracking in warehouses::0.0
+measurement setups::0.0
+perpendicular::0.0
+chip variations::0.0
+tuned::0.0
+reader antennas::0.0
+joined antenna::0.0
+fixed::0.0
+europe::0.0
+requirement::0.0
+tag range versus::0.0
+computed::0.0
+acquired::0.0
+variations::0.0
+frame::0.0
+development engineer::0.0
+operates::0.0
+mentioned::0.0
+closer::0.0
+variations due::0.0
+multipath::0.0
+cell input impedance::0.0
+tend::0.0
+state::0.0
+converted::0.0
+identification::0.0
+correctly::0.0
+0018-926x::0.0
+millimeter-wave microstrip::0.0
+tagged objects::0.0
+decibels::0.0
+tuning::0.0
+importance::0.0
+missing::0.0
+efficiency::0.0
+folded-slot::0.0
+key::0.0
+distribution::0.0
+restrictions::0.0
+agree that polarization::0.0
+benchmarked::0.0
+decay::0.0
+agree::0.0
+yorktown::0.0
+section::0.0
+constant normalized::0.0
+ohm::0.0
+packaging::0.0
+identi cation fundamentals::0.0
+performance as shown::0.0
+modeling::0.0
+table::0.0
+technologist::0.0
+trunk::0.0
+small tags::0.0
+core team::0.0
+expressed::0.0
+resonance is determined::0.0
+size on gain::0.0
+applied wireless identifications::0.0
+controlled::0.0
+received::0.0
+sufficient::0.0
+chamber data::0.0
+inductance::0.0
+trace length::0.0
+stockman::0.0
+terminals as shown::0.0
+value::0.0
+rectangular::0.0
+authored or coauthored::0.0
+fault::0.0
+measurement data::0.0
+codesign::0.0
+cpw-fed::0.0
+anechoic::0.0
+helped::0.0
+design must meet::0.0
+limitations on maximum::0.0
+resistance matching::0.0
+dual::0.0
+offer mainly circularly::0.0
+nikitin::0.0
+tilted major::0.0
+moves::0.0
+generic::0.0
+member::0.0
+inch::0.0
+colloquium::0.0
+trans::0.0
+polarizations::0.0
+circular-to-linear polarization::0.0
+material::0.0
+http::0.0
+receiver::0.0
+reader that read::0.0
+effect::0.0
+meandered to obtain::0.0
+catv two-way::0.0
+frequently::0.0
+wireless identifications::0.0
+center::0.0
+applied wireless::0.0
+modeled::0.0
+finds::0.0
+connected to rfid::0.0
+hamilton::0.0
+frequency dependence::0.0
+meet::0.0
+aperture coupled::0.0
+leave from iit::0.0
+line antennas::0.0
+moments::0.0
+accurate::0.0
+rfid intellitag engineering::0.0
+requirements whose relative::0.0
+tag identification::0.0
+batteries::0.0
+voltage::0.0
+width::0.0
+adv::0.0
+samples due::0.0
+marrocco::0.0
+point::0.0
+smith::0.0
+capabilities::0.0
+impedance varying::0.0
+valid::0.0
+extends::0.0
+circular::0.0
+resonance frequency::0.0
+box labeling::0.0
+design engineer::0.0
+smart::0.0
+acceptable minimum read::0.0
+code printed::0.0
+tags and tags::0.0
+utah::0.0
+transmitter::0.0
+samsys::0.0
+sponsored by defense::0.0
+height::0.0
+wireless propag::0.0
+loss::0.0
+helpful::0.0
+universal criteria::0.0
+qualitative::0.0
+objects like pallets::0.0
+order to satisfy::0.0
+mhz::0.0
+single-layer::0.0
+conclusion::0.0
+distance in free::0.0
+range the formula::0.0
+axial ratio::0.0
+identified::0.0
+band::0.0
+loaded::0.0
+proper::0.0
+rymaszewski::0.0
+lead::0.0
+trimmed::0.0
+finite-element::0.0
+avoid::0.0
+e-mail::0.0
+south america::0.0
+expensive::0.0
+rfid technology::0.0
+capability::0.0
+belt::0.0
+symbol::0.0
+limitations::0.0
+intermec::0.0
+process variations::0.0
+selecting::0.0
+degree from mcmaster::0.0
+optimized using ansoft::0.0
+signal with periods::0.0
+440-600::0.0
+described::0.0
+imaginary::0.0
+described range measurement::0.0
+technology for automatic::0.0
+identifier::0.0
+mcmaster university::0.0
+dependence::0.0
+ansoft designer::0.0
+bar is shown::0.0
+carrier::0.0
+artech::0.0
+software::0.0
+u-slot::0.0
+angles::0.0
+coverage::0.0
+depends on tag::0.0
+washington::0.0
+domain::0.0
+due::0.0
+novosibirsk::0.0
+obtain::0.0
+length whereas extending::0.0
+sander::0.0
+van::0.0
+additional::0.0
+donnay::0.0
+coauthored approximately::0.0
+proper impedance::0.0
+function::0.0
+padhi::0.0
+north::0.0
+coupling slot::0.0
+termsantennas::0.0
+construction::0.0
+gain::0.0
+flexible::0.0
+versatile::0.0
+partially::0.0
+made::0.0
+elliptically::0.0
+cells::0.0
+typical chip::0.0
+final parameter::0.0
+design development::0.0
+major axis::0.0
+mentioning::0.0
+problem::0.0
+propagation soc::0.0
+burberry::0.0
+measured values::0.0
+universal::0.0
+aditya::0.0
+unmodulated::0.0
+periods::0.0
+ink::0.0
+current level::0.0
+families::0.0
+gain and impedance::0.0
+folded-slot antenna::0.0
+functions::0.0
+corporation::0.0
+antenna is circularly::0.0
+energy feeding::0.0
+www.intermec.com::0.0
+members::0.0
+ellipses::0.0
+experimentally measured read::0.0
+application yuri::0.0
+flip-chip attachment::0.0
+mertens::0.0
+flexible tags::0.0
+polarization ellipses::0.0
+ansoft corporation::0.0
+class::0.0
+m.s::0.0
+june::0.0
+general rfid::0.0
+finkenzeller::0.0
+punching::0.0
+philips::0.0
+severe::0.0
+coupling::0.0
+samsung::0.0
+antenna is first::0.0
+res::0.0
+reliability::0.0
+antenna similar::0.0
+validation::0.0
+specific integrated circuit::0.0
+attachment process::0.0
+near-field::0.0

@@ -1,0 +1,6434 @@
+left to appendix c.4
+readers have a read
+reject the null
+location `tc is sampled
+details see appendix c.2
+theory and application
+locations individually
+present our inference module
+strongly co-located
+noisy traces
+anomaly error rate
+varied the container capacity
+based on the tag
+parameters used for generating
+location error rates
+distributed approaches
+set of candidate
+likelihood functions
+computation cost is modest
+experimentally
+true container locations
+point evidence tt0
+university of massachusetts
+requires prior specific permission
+history by sifting
+employ the change point
+show that candidate
+employ the change
+algorithm requires
+method has the worse
+runs inference at stream
+monitoring and tracking applications
+supply chains are distributed
+sharing method
+generate the rfid
+increasing
+multiple cases
+robust system
+f-measure varies
+technology of writable tags
+belief about locations
+re-use the old values
+reported
+door and are read
+local and global
+r.container
+calculate
+employ include optimizations
+node represents
+optimal f-measure varies
+reports
+reference tags
+sensitive to the read
+specific to our model
+selection problem
+rich information including
+divide
+detected last
+mercury5
+explained
+transfer overhead by requiring
+events with rich attributes
+part by nsf grants
+informative for determining containment
+techniques to address
+single-threaded implementation running
+emulate an rfid-based
+distributed inference and querying
+university of edinburgh caozhao
+global query processing
+detect changes of containment
+hold
+item was simply
+overhead of transferring readings
+temperatures
+processing requires
+traces emulating rfidbased
+run simulates
+xtrc
+wang
+query processing to distributed
+hospithis work
+denoted by integers
+containment inference completes
+reports the f-measure
+compute is the conditional
+revisit
+compress the query states
+methodology
+suffices to localize
+details about our inference
+compute the total inference
+varied anomaly error rate
+modest
+chains are distributed
+estimates of the location
+obtained traces
+types
+item and its container
+small critical
+extended with the pattern
+containment to future work
+index of time epoch
+sites and a high
+feedback
+history truncation methods
+vary
+maximizing a lower bound
+infer that container
+describes a physical
+affect
+matures
+inference and query processing
+mercury5 readers connected
+omit the nodes
+steps until the containment
+uniformly sampled
+7,296
+quantity for inferring
+fact unknown
+co-location strengths wco
+difficult to accurately determine
+object is typically read
+reader locations
+missed by all readers
+learning techniques
+represents
+presence of missing data
+maximum heap size 1.5gb
+monitoring systems
+copy of query state
+streams of each query
+location simply
+sampling-based
+locations and rfid
+series
+temperature sensor
+solution
+laboratory
+work on rfid data
+setup we developed
+probability table
+smurf rr=0.7
+size
+environment with multiple locations
+relational stream processing
+worse because it lacks
+additional experimental
+estimate
+objects move across sites
+spatio-temporal redundancy for rfid
+object and container
+enormous
+shelves
+key to query
+encode containment relationships
+shipped
+extend our distributed inference
+based on hypothesis
+relations ; set
+naive window-based truncation
+class of queries combine
+challenges in instantiating
+xie
+service
+similarly
+rates due
+needed
+event queries
+hypothetical
+object at location
+food cases
+efficient pattern matching
+closer to a nearby
+single warehouse
+digital or hard copies
+answer monitoring queries
+consuming s is considered
+readings are inherently noisy
+collapse
+chance of reading
+reader locations true location
+critical region for inference
+cost-effective
+method for rfid
+varies with h consistently
+iteration
+10x
+readers for scanning objects
+inference algorithm usually converges
+propose a statistical
+represent both the true
+takes two streams
+higher overlap
+select tag
+implemented
+high power
+memory to hold
+edinburgh caozhao
+point detection procedure
+research has addressed rfid
+causing
+update the current estimates
+imprudent
+multiple rfid readers
+results when the containment
+employs pattern matching
+object
+sensor streams to answer
+employs multiple rfid
+metrics
+relationships to infer
+amount of on-board
+rr=0.8 h=500 rr=0.7
+environmental noise
+location information about container
+incomplete
+stores the posterior distribution
+supply-chainspecific object state
+run at stream
+single-site
+rfid data management system
+essential for working
+infer than object
+layout
+epoch and container
+states across objects
+rate=0.8
+query processing runs continuously
+probabilistic reasoning
+rate for containment
+sensor networks
+rich
+maximizing the log likelihood
+state-of-the-art readers and tags
+performs this maximization
+proven by jensens
+top-k sets
+support change point
+read one object
+altogether
+maintain computation state
+call the point
+methods for distributed
+on-board
+distributed approach natural
+modern
+raw readings
+readings strength
+sensitivity
+fail
+answering queries and high
+alternative
+aggregates the retrieved
+distributed for profit
+query q1 in section
+223,790 rr=0.8 166,746,235
+score
+communication cost across sites
+john wiley
+supply chain arranges
+evaluate the basic algorithm
+extend
+nature
+nearby location with probability
+xtrc is true
+calculate the weight
+window based truncation
+conclusions
+estimate the container
+location of container
+exploit stable
+define ytro
+ferent values
+design a graphical model
+inter-object relationships
+hotspot 64-bit server
+history of observations
+relations in rfid
+maximizing each term
+accuracy of centralized
+extraction
+plan to extend
+reader scanned the real
+graphical
+location r r binary
+agrawal
+realized in several ways
+weight wco
+limited overlap
+equipment through the hospithis
+employ
+point detection ferent values
+maximizing likelihood functions
+discretize
+3ghz cpu and running
+characterize
+high processing
+purposes of describing
+estimates of containment
+algorithm requires a recent
+migration methods
+cumulative
+exploits the inference results
+split
+arbitrarily nested
+exit points
+history severely penalizes
+rfid databases
+simulates
+fee provided
+evidence in a heuristic
+track and monitor objects
+87,000 5,273 related work
+cases per pallet
+nature of rfid
+gzip
+exploit on-board tag
+significant overlap rates
+combines location
+compare centralized and distributed
+approach querying
+queries combine
+cost-effective deployment than static
+synthetic traces
+strength of co-location
+unnecessary computation
+tracking and monitoring
+previous
+similar results
+ease
+omitting other results
+incomplete input
+noisy data
+shows the inference
+technology and rfid tracking
+orientations
+independently
+location and containment inference
+posed
+possibly
+nested containment
+unique
+differ in the query
+based on the current
+querying instantly
+steps
+reader locations true
+approach for the iterative
+right
+query aggregates
+object event stream
+counts
+bottom
+varied the read rate
+raw data is shipped
+pruning is effective
+exposition
+estimate location
+larger numbers of objects
+sliding window
+provide similar benefits
+a.4 extensions
+block uses global processing
+represent real containers
+anomalous
+point detection
+highlevel events
+inference for static readers
+sift out
+query checks
+distributed fusion
+raises
+reducing
+location and containment estimates
+support
+overhead
+location were incorrect
+chains with multiple ware
+sites while keeping
+manufacturers
+sampled independently
+automatonbased
+smurf rr=0.7 smurf
+approach to location
+e-step maximizes this bound
+location histories
+devices
+xeon 3ghz
+smoothing over containment relationships
+requires prior specific
+accuracy of centralized processing
+history helps
+extension for pattern matching
+proven
+exist
+interrogate tags
+cost to the inference
+containment relationship between items
+85,510 6,108
+geographically
+computer science
+model treats
+understand containment
+optimizations in appendix
+nearby reader
+eliminated from contention
+models
+global processing across sites
+rate but still achieves
+processing as objects
+algorithm runs
+variable
+hypothetical observation
+containment inference algorithm
+typically
+chain
+term independently
+region algorithm
+computation cost
+single-site inference we first
+container of object
+algorithms to arbitrarily nested
+two false containers
+distributed inference
+system for rfid tracking
+varied the overlap
+stays
+f-measure of query results
+labels
+scalpels
+raw rfid streams
+setup
+point detection extension
+conclude that the containment
+distributed stream processing system
+transferred weights
+object c arg maxc
+read rates reach
+current
+falling
+distributed system is illustrated
+algorithm in accuracy
+nowp qtc
+incurring significantly lower
+detection is run
+limited local
+understanding
+considers the probabilities
+address
+observations collected
+monitor objects
+readings obtained since last
+5,341
+accomplished
+main data
+standard e-step
+nfer
+posterior
+specially-generated training data
+container can not change
+detect changes in containment
+working
+information from the previous
+positive
+optimize
+large deployments
+fixing the read
+scope
+observe empirically
+likelihood ratio
+frequency of such anomalies
+monitoring zhao
+values needed for future
+appendix
+high-level query
+cql continuous query
+architecture for distributed
+cost-effective deployment
+zhao
+values
+believed
+colocated
+sampling hypothetical observation sequences
+results with the ground
+approach that performs inference
+reader detects an object
+evidently
+drugs and preventing pilfering
+goal of history truncation
+monitoring
+include a simple
+define a null hypothesis
+optimal
+parameter
+denoted x x eco
+edinburgh
+anomalies that randomly choose
+contrast to temporal
+applications
+improving
+data
+stress
+number of iterations required
+machine learning methods
+containment change interval
+processing and global
+detection ferent values
+80,248
+hybrid query
+develop a distributed approach
+nonparametric
+computational
+omitting
+pieces of medical
+conveyor belt
+naive inference
+machine
+choose the threshold
+recent epochs
+supply chain is assumed
+change point detection procedure
+challenging since inter-object relationships
+raise an alert
+instantly
+fixed values
+typically read
+tt0
+track and monitor
+arriving
+rates of containment
+incurs little extra
+history and posterior probability
+1500-second traces
+truncation method
+containment location
+estimates because readings
+fireproof
+posterior probability table
+locations and inter-object
+centralized method
+incurs both delay
+container
+containment is stable
+maximum likelihood framework
+xeon
+contained
+produced at a single
+first evaluate the basic
+graphical model that represents
+main design consideration
+reading an object
+simulation generates
+overheads
+assembled pallets are finally
+containers of items
+change locations
+entire history severely
+treated as local
+arg max
+training
+collapsing
+ways to trade
+object readings
+subject to shipping
+intuition
+objects and the state
+relations for other data
+binary variable
+nested
+ons
+due to space
+exploiting the iterative feedback
+paper rr appendix
+pharmaceuticals
+shows the error rates
+distributed inference method
+infrastructure to provide timely
+structures
+arranges n warehouses
+query block
+reader to the appendix
+computed from the readings
+current iteration
+effective
+summary
+distill
+future
+involve inter-object relationships
+easily compressed to save
+locations
+readers that scan
+adaptive window
+aggregates the retrieved temperatures
+dispatched to subsequent warehouses
+scalability challenge
+natural for object
+note
+maintain
+keeping the read
+relationships c to emphasize
+knew
+compress
+results using two
+high accuracy for lower
+metal bar
+sum of point evidence
+readers in that order
+propose a memorization technique
+inference approach
+behaves
+average
+managing
+locations in a unified
+state transferred between sites
+interrogations
+techniques that minimize
+rfid data lacks
+special readers
+equipped
+information infrastructure
+provide accurate estimates
+belt reader
+nfer algorithm including
+distinct characteristics
+data cleaning with heuristics
+nearby location
+notice that each containment
+settings
+frequency to occluding metal
+query is written
+ytc
+leaves a site
+unknown true distribution
+number of containers number
+case the container locations
+query execution
+inference state
+pallet locations
+affecting
+method performs
+data structures
+describe a probabilistic model
+minimum communication costs
+history h moves
+small amount of on-board
+guess about containment relationships
+larger recent
+methods for distributed inference
+hospital unprecedented
+streams from various readers
+read objects
+frequency of pallet injection
+relationships have not changed
+considers
+combines
+locally
+objects are observed
+combined
+prototype
+processing we next describe
+processing as object tracking
+rfid streams as objects
+vary the trace
+enable
+approach incurs both delay
+centralized warehousing
+readings
+observe
+simulates a warehouse
+work is the first
+methodology based on graphical
+developed a simulator
+define a null
+monitoring zhao cao
+small sliding window
+maximizing over appears
+estimate their locations
+size is independent
+inference with stream query
+sensor readings state migration
+containment between objects
+similar issues
+t.temp
+technology
+likelihood measures
+enabling
+inference with change point
+anomalies that randomly
+procedure incurs little extra
+research has addressed
+verifies
+223,790 rr=0.8
+containment inference results
+retrieves the temperature based
+assigns
+rfid
+guess about the containment
+precision recall
+warehouse has a reader
+object locations or location
+world comprising object
+tracking
+read at the exit
+first half
+describe two techniques
+baseline for comparison
+customized
+test our containment
+costs
+represents the probabilistic dependencies
+varying the environmental
+unique identity
+inferred location
+rest
+joint probability
+observations for inference
+large hospitals or supply
+results show
+high data
+reduce the time cost
+indicating whether container
+rates reach
+or=0.5
+requires all the data
+traces with stable containment
+e-step can be improved
+sampling
+cql-based relational stream processing
+intel
+range and immediately returns
+discarded
+deployment to evaluate
+classroom use is granted
+doraiswamy
+derive high-level information
+term of the summation
+reader has a read
+cost is modest
+conditional
+mechanism for high-level
+simply been unlucky
+explore smoothing
+synthetic traces emulating rfidbased
+single-source
+orders of magnitude reduction
+exit
+missing readings
+frequency of pallet
+chain management
+detection of abrupt
+power
+evidence tt0
+span multiple sites
+queries such as report
+container locations
+run inference
+distribution center
+reduction ratio
+sacrificing
+location with probability
+interpret both the e-step
+fisher
+laboratory setup
+randomly choose an item
+dalvi and d suciu
+overhead by requiring
+subsequent inference
+compresses other similar query
+extend our algorithm
+statistical method called change
+site or writing
+inter-object
+complete
+wiley and sons
+mentioned at the beginning
+approach natural
+achieves an error rate
+o=1 d figure
+elimination
+propose an optimization
+location information
+models and inference
+detailed
+transfers the state
+object can have dozens
+described in section
+addressed to effectively
+processing needs to maintain
+object o to change
+show that a longer
+querying given an event
+inference experiment with query
+sigmod
+costs in bold
+computation state is recognized
+shown in algorithm
+object produced
+strength of co-location computed
+verifies that squiggle
+propose to exploit
+performs inference
+environments that span multiple
+possibly different histories
+existing work has addressed
+cpu
+robust architecture
+enable more frequent inference
+recent history size
+reasoning
+entry and exit points
+object location
+intended path
+emulate an rfid-based enterprise
+c.3 alternative method
+rfid readings that occur
+shelf readings
+large
+problem lab rfid deployment
+small
+large distributed
+graphical model of locations
+past
+study such tradeoff
+cases are injected
+approach while approximating
+algorithm described in appendix
+readings are inherently
+method
+contrast
+full
+poses
+o=1
+hours
+concluding
+characteristics regarding the environmental
+rfid data archival
+provide background on rfid
+varied the read
+experience
+requires a recent history
+prior
+significant complexity
+pick
+provable
+tags in its read
+treated as local processing
+smoothing over readings
+million items per warehouse
+distributed approach processes
+gzip compression
+generating rfid
+commonalities
+enterprise supply chain
+sensors
+select
+makes these queries difficult
+call
+parameters are shown
+true with probability
+85,510 6,108 rr=0.8
+environments that require combating
+door
+tags are orientation-insensitive
+87,029 5,341
+hybrid query that combines
+foundations
+management system
+keeping
+resident objects
+science
+location for subsequent
+indicating
+paper is summarized
+tables grow
+span multiple
+warehouse and scheduled transit
+scan
+container for object
+states
+challenge to existing machine
+improves over the basic
+information
+query processing requires
+experimental setup
+fundamentals and applications
+wc0
+accuracy and efficiency
+intended
+wiley
+content to monitoring
+region whose size
+stores the co-location strengths
+query processing techniques
+weights that are computed
+isa
+simulate a small warehouse
+query block takes
+ease of exposition
+fundamental
+nature of rfid data
+hospitals or supply chains
+two competing
+change point detection ferent
+containers separately
+read rate table
+container that results
+trade
+paper
+object and the history
+warehouse and depart
+combined finally reduce
+container of each object
+body of the paper
+statistical inference in sensor
+processing parts based
+nfer uses smoothing
+generate the rfid readings
+severely
+propose
+continuously on the object
+individual objects
+prashant
+effective at inferring
+cases packed
+algorithm offers
+graphical model
+objects in each container
+accurate than the inferred
+change for this item
+reduce
+stored for containment inference
+object to minimize
+adjacent shelf readers
+working at scale
+missed
+rfid middleware for supporting
+research
+denoted
+rate increases for longer
+system using both synthetic
+belief
+find in history truncation
+makes it also difficult
+exit door
+definition
+pairs
+centralized and distributed
+iterative feedback between location
+deferred cleansing method
+murf algorithm described
+forwards
+number
+relations c change-point
+block is treated
+scalability results
+guess
+introduction
+sensitive drug
+elimination of noisy data
+speed for each warehouse
+listed
+smooth over containment relations
+relationship
+algorithm from section
+fee provided that copies
+87,029
+problem is complex
+query state and compresses
+computational complexity per iteration
+detected critical
+fixed window
+varied trace
+traces emulating rfidbased supply
+schemas for raw
+rfid tag
+infer true
+devise an inference algorithm
+generalized
+inference techniques
+supply-chainspecific object
+packaging regulations
+h=500 for both rr=0.7
+maximizing the log
+index
+translates raw
+plan
+model
+inference to complete
+inf.ed.ac.uk abstract tal
+expected to experience
+technical
+employ include
+existing machine learning methods
+impact
+added environmental noise
+report any pallet
+inference is due
+graphical model to denote
+needed to ensure
+intervals figure
+inferring containment
+geographically separate sites
+container location
+local memory
+add significant
+bytes
+objects and then combining
+processing in a single
+set
+support global
+seq
+read rate is comparable
+sec
+migration
+inferring object locations
+data is observed
+common read
+cql continuous query language
+keeping the read rate
+`tc = a|x
+heuristic
+reader at the conveyor
+recent history
+input streams is labeled
+last
+a|x
+maximizing a lower
+relations do not change
+objects
+evaluation on probabilistic databases
+probabilistic inference over rfid
+design techniques for distributed
+probability distribution
+belt
+conveyor
+`tc is sampled
+explained in section
+deal with traces
+details of change
+global processing
+method gives better accuracy
+size of query
+nrc
+representative
+readings have been discarded
+combines object
+readings state
+points is challenging
+frequency of unexpected containment
+high-level query processing
+optimization
+error
+partitioned
+site as backup
+depend on the read
+containment introduction
+readers to scan
+processing approach
+find in history
+vol
+improved by a factor
+containment error
+maximum heap size
+algorithm alternates
+final destinations
+easily improved
+wco to measure
+error on location
+distributed environments that span
+requirement without sacrificing
+chains with multiple
+inference is highly
+local rfid streams
+alert
+confirmed using both real
+including all new readings
+steps as independent
+recent
+experimental results demonstrated
+accomplished by monitoring
+rfid-based enterprise supply chain
+containment relationship
+flag a change
+pharmaceutical environments
+:523544
+describe how we infer
+large hospital that tags
+shelf reader can read
+listening
+study are left
+adoption of the epc
+values are quite small
+due to the removal
+extends the state-of-theart
+inference algorithms infer containment
+based on the full
+cases and items
+readers
+real-world data
+signals
+location
+techniques we employ
+input
+collect raw rfid
+recognized and partitioned
+centroid-based sharing technique
+involve object
+removed from the shelves
+object leaves one site
+repeatedly fail to read
+developed in an unsupervised
+yields
+initially proposed
+distributed rfid data
+methods
+object positions
+co-location computed
+methods offer
+values of temperature
+increasing scale
+accuracy and query state
+novelty
+block employs
+previous sites
+cost varies
+promising electronic
+orientations but observed
+query state of two
+container readings
+local memory to enable
+locate the objects
+output
+two extensions
+full citation
+experimental results show
+mobile readers
+rfid is a promising
+squiggle gen
+state transferred
+objects in simulation
+empirically that our inference
+areas such as supply
+servers
+locations true
+perform change point
+sketch the main data
+resulting better understanding
+observe the naive window-based
+sequences from the model
+variable xtrc is sampled
+evidence to conclude
+understanding of locations
+span
+location r reading
+bottom row
+computation of qtc
+specifically
+point evidence
+instantiating such a system
+method perform
+inference by simulating
+:265289
+suit
+articles from this volume
+approaches in the table
+return high-quality
+hospithis
+65,500 6,986
+line
+noise and overlap
+details see appendix
+posed on the rfid
+targets any distributed environment
+continuously
+storing
+defined
+system for rfid
+data poses
+experience similar
+1096-1107
+defines
+evidence than the two
+latent variables
+object o containment relations
+fixing
+preventing
+ferent
+system in real-world
+wide adoption
+retrieved temperatures
+results presented
+transferred directly
+state migration for inference
+algorithm
+transferred to a single
+rates and significant overlap
+item and place
+split into local
+results
+existing
+static readers
+overheads incurred due
+centers
+present additional
+method called change point
+data streams
+consistently co-located with object
+algorithms infer containment
+prashant shenoy
+object location and containment
+scale of rfid tracking
+containment estimates
+existing work on rfid
+improved as each object
+techniques for distributed inference
+type of generalized
+timely
+point detection ferent
+inference allows a query
+increases for longer
+model of container locations
+readers connected
+`to
+costs stay
+`tc
+combines location and containment
+antonelli
+ct0
+murf across all traces
+processing mag
+consistently
+centralized processing
+based truncation stays
+self-calibration
+32,000 items in steady
+consideration
+data cleaning
+resulting
+makes
+explain
+involves
+infer the location
+choice of threshold
+state migration for querying
+noisy rfid readings
+technology trend motivated
+warehouse while running
+approach natural for object
+benefits in distributed
+queries difficult to answer
+bound can be proven
+synthetic traces emulating
+probabilistic query processing
+offline sampling algorithm
+traces and simulations
+first using traces
+items per case
+scales inference and query
+nfer for inferring containment
+cns-0923313
+rfid data cleansing
+10x reduction in query
+c.1
+central
+measure the read
+number of objects index
+inferring containment relationships
+first varied
+integrating
+challenge
+rfid data makes
+rate for shelf
+present additional details
+sensitive drug product
+readers had overlapping read
+generate events of interest
+offline method as described
+chosen
+process
+purposes
+pieces
+high
+location from rfid
+schemas
+shows the results
+nfer for inferring
+note the different schemas
+delay
+offers provable
+processor processes this stream
+true containment
+realized
+observations are most informative
+t.loc
+state among objects
+location evidence
+radio frequency identification fundamentals
+distributed inference we highlight
+due to the effect
+containment using a statistical
+rr=0.8 smurf rr=0.7 smurf
+rfid data streams
+simulator can inject anomalies
+produces
+move
+produced
+readings state migration
+sensor network
+show that the sufficient
+removing irrelevant terms yields
+change point detection incurs
+tag id and reader
+enforcing packaging and shipping
+suit the increasing scale
+nodes represent tags
+varied anomaly
+requires prior
+copy of the state
+extend our distributed
+anywhere.1 we assume
+rfidenabled information
+locations and listening
+report results using two
+similar query
+detection incurs little extra
+candidate pruning is effective
+subsequent calls
+detection extension
+traces
+algorithm described
+data analytics
+determine
+relationships change
+compressed to save memory
+queries combine sensors
+frequency
+static
+query processing for tracking
+r.container isa
+moves across sites
+adaptive
+offers a general
+occluding
+architecture
+misplaced objects
+bound with respect
+varied the overlap rate
+provable optimality
+incurring significantly
+combating counterfeit drugs
+belongs to both top-k
+length
+assumed
+self-calibration in sensor networks
+0max
+containment relations c change-point
+outer query block consuming
+accuracy of location
+scalability of our proposed
+query processing runs
+optimum of the likelihood
+wco = t=t0
+items each to simulate
+area or patient
+system
+first exposure to room
+relationships from history
+real-world data and large
+final critical
+binary observation
+considered a critical region
+traces and ran inference
+multiple sites and numerous
+processing system for rfid
+data lacks
+algorithm can no longer
+error rate increases
+technical contributions include
+latency of detecting
+seconds achieves
+false
+objects and detect
+f-measures in bold
+warehouses with a scheduled
+hypothetical observation sequences
+offers a hospital unprecedented
+containment relations based
+computes the sum
+inference methods
+mechanism
+fundamentals
+accuracy
+migration for querying
+hifi approach
+inference and state
+informatics university of edinburgh
+reader and dozens
+device
+summarized in table
+report results
+evaluation of lab
+modest on a modern
+addison-wesley
+=tw
+fundamental tool
+fact
+perform change
+cases with contained
+exploit on-board tag memory
+centralized
+state migration local
+high accuracy
+read rate is high
+iterative feedback
+state at the current
+nonparametric belief
+methods with varied read
+introduction rfid
+calculation remains
+handle
+needed for future
+means
+streams from all readers
+written using the cql
+products considered
+two containers
+communication cost
+comprising
+depicted graphically
+robust message-passing
+true location `tc
+object includes the readings
+qtc
+global tracking
+co-located containers from recent
+packed
+assume an event stream
+missing container
+stream query
+aggregated to support global
+generating rfid streams
+roundrobin fashion
+rfid events
+exploited to store supply-chainspecific
+invited
+drug
+querying anytime anywhere.1
+streams
+conclude
+model describes
+nrnc
+degrees
+future automaton evaluation
+work to include probabilistic
+inference with simple
+rfid streams and produces
+container reduces
+update the current
+large hospitals
+incurred due
+archival
+running java hotspot
+respect to qtc
+larger containers
+accuracy when read
+distinguish these two
+true location of object
+site
+tags all pieces
+state for objects
+implementation running
+real deployments in complex
+ieee signal
+previous change point
+unluckiness of a set
+raw noisy
+distributed inference accuracy
+identity
+final values
+extra overhead
+set of containment relationships
+change point algorithm
+object o to make
+trend with all traces
+detection using dif table
+truncating history
+computes location
+food or type
+work aims to support
+limitation of rfid
+true and observed
+layout of the factory
+fireproof case
+combine
+naive inference algorithm
+exploits the inference
+reject the null hypothesis
+compressed to save
+tt0 =tw
+increases
+containment inference
+algorithm first using traces
+signals a change
+handle missed
+retrieves the temperature
+demonstrate the accuracy
+seconds error rate
+collapse the inference
+promising electronic identification technology
+murf
+site to seed
+evidence shows
+incur high transfer overhead
+streams from a single
+separate
+patient room
+truncate the readings falling
+truth
+rr=0.7 h=500 rr=0.8
+note that the likelihood
+traces from a laboratory
+complexity per iteration
+defer a detailed
+length of the shelf
+high error
+food containing peanuts
+sufficient evidence
+bounded
+transit time between two
+statistical framework
+revise
+locations or location
+runs on raw
+described in appendix c.3
+maximum heap
+tag has a unique
+alien squiggle
+quadratically with the read
+recent evidence
+ytc |`to
+processing as described
+ytro xtrc
+probabilities of each reader
+containment relations is effective
+naturally
+function
+anomaly detection queries
+overlapping
+answering queries
+work has addressed rfid
+system is illustrated
+number of bytes
+smooth
+locations are in fact
+optimizations to improve
+distribution
+future work
+inference for static
+denote
+noisy and incomplete
+ing
+traces with distinct
+chain arranges n warehouses
+objects to the nearest
+87,000 5,273
+perform state migration
+details
+real container
+large synthetic
+chance
+h=500 rr=0.7
+h=500 rr=0.8
+m-step indeed maximizes
+searches
+history severely
+signals a change point
+strengths for that container
+t.loc and t.temp
+propagation for self-calibration
+enterprise supply
+probabilistic model of container
+temporal management
+highlevel events with rich
+enable querying anytime
+contained object
+monitoring query is split
+recall to capture
+relationships
+true container
+permission to make
+two containment
+relations is effective
+containment change detection algorithm
+summarized
+score wco to measure
+f-measures
+goal of history
+read range and immediately
+times by the outer
+larger numbers
+supports distributed
+arbitrarily nested containment hierarchies
+centralized none cr rr=0.6
+29th
+m-step that is specific
+cumulative evidence of co-location
+chen
+hour period
+co-location can be computed
+revolutionize
+rate is comparable
+fact occurred
+rr=0.8 smurf
+efficient pattern
+single-source directed acyclic
+suppose
+location r typically
+obtained
+increasing scale of rfid
+hospitals with multiple
+addressed rfid data archival
+explore smoothing over object
+performed by existing
+items
+study
+approaches
+explain the data
+query processing
+changed containers
+entry and exit
+unprecedented near real-time ability
+highly
+techniques that require access
+recall from appendix
+total
+approach of smoothing
+advance before any rfid
+history of readings
+frequently co-located case
+colocated with the object
+shelves to scan
+scan medical
+centralized approaches
+special readers to scan
+passive rfid
+requirement is to optimize
+work
+sites over a long
+containment
+show that our simple
+rfid data management
+distribution qtc
+algorithm is developed
+container did not change
+system runs
+object has passed
+inferring containment and location
+tt0 =1 eco
+container c define ytro
+constraints to derive
+perform any temporal smoothing
+events of interest
+welbourne
+detection algorithm from section
+algorithm achieves a linear
+default frequency
+chance a reader
+locations and each container
+provide
+verify
+state migration
+memorization
+lab
+detected using a change
+nfer algorithm
+methods when run
+method was initially proposed
+larger sizes
+event stream with object
+employs multiple
+involve object locations
+order
+e-step requires
+decide
+present their results
+conditional distribution
+physical world comprising object
+process these streams
+model is depicted graphically
+5,156
+approach for maximizing likelihood
+key is to exploit
+current guess
+nikiforov
+sensor network is deployed
+system in large distributed
+stream speed based
+batteryless
+directly to that site
+eventually
+temporal smoothing over readings
+orders of magnitude
+basic algorithm
+safe
+accuracy and communication cost
+highvalue content
+information about container
+inference with stable
+reader observing the container
+history denoted
+understand containment correctly
+highlight the communication costs
+retrieves its state
+high-quality answers
+develop a distributed
+detection using the difference
+estimation problem
+epc tag
+independent and all containers
+history sizes
+causing the cumulative
+inherently noisy
+objects previous place
+distributed approach
+supply chains with multiple
+network
+distance to the centroid
+distributed system
+sliding
+center employs multiple rfid
+stays in the middle
+assumes cql-based
+standard
+novelty in our approach
+approach processes data
+optimize these cases
+emulating rfidbased supply
+created
+results on accuracy
+nodes in the graphical
+scan medical devices
+assume that all raw
+two steps
+observation sequences
+performs querying
+electronic
+illustrate
+competing explanationseither
+relationship has actually changed
+local maximum
+225,890 rr=0.9 187,589,810
+rates
+observations
+nfer vs s murf
+test the sensitivity
+john
+m-step with respect
+query block employs pattern
+requires additional
+scanning objects
+maximizing
+number of iterations
+streams as they emerge
+exploit sharing
+determine their locations
+test our containment change
+chains and real traces
+latency
+strength
+read rates or higher
+enabling stream query processing
+tag orientations but observed
+background on rfid
+redundancy for rfid
+inference with simple gzip
+partition by sensor
+varied read
+rfid data is observed
+queries involve inter-object relationships
+observation variable xtrc
+lab traces and simulations
+inferred
+nfer requires
+shows the inference error
+notion
+heuristics
+missing container tags
+containment error rates
+raw rfid
+top-k co-located
+tt0 =tw eco
+latent
+simply re-use
+implementation
+produced by an inference
+hrs
+two ways
+outer query block employs
+finally reduce
+inference as an enabling
+scalable
+running at stream speed
+customized m-step
+copy of latent
+recent w readings
+runs
+chains where objects
+chance to correct
+sites that an object
+state migration methods
+set of containment
+amounts to maximizing
+variables for the pallet
+observed
+analytics
+depends
+ratio statistic
+interrogations from each nonshelf
+optimum
+techniques
+environments such as hospitals
+query results is high
+terms
+simulator using csim
+modern computer
+department of computer
+change at the current
+series of tables
+dozens of candidate
+received
+essentially
+traces with varied
+candidate
+heterogeneous read rates
+local streams
+distributed processing as object
+on-board tag memory
+processing across sites
+algorithm to also detect
+pseudocode and proof
+techniques from probabilistic reasoning
+i.e
+grants iis-0746939
+frozen food
+fan-in
+return all answers
+sensor streams
+weight calculation
+dozens
+relations in rfid inference
+query state across objects
+relaxing
+binary vector
+main issue in state
+applied
+save
+aim
+queries involve
+abrupt
+equipped with rfid
+matching over event streams
+cont
+rate of containment
+irrelevant terms yields
+revealed by the readings
+storage area or patient
+lower read rates due
+yields a containment
+7,296 rr=0.7
+confirmed
+error rates
+approach may be limiting
+accuracy for read
+traveled with the object
+avoids
+hierarchies
+simple window-based truncation
+independent
+training data
+rate or at default
+computational cost
+inf.ed.ac.uk
+processing locally
+output stream
+location from rfid readings
+common types of queries
+percentage of reported
+consistently co-located
+requiring different statistical
+tags local memory
+counterfeit drugs
+epc
+unified
+translates raw noisy rfid
+takes various fixed
+reduced shelf readings
+locations true location
+=1200
+adding
+scanning objects on shelves
+passive
+belongs
+2150-8097
+moves forwards
+requiring
+querying where an object
+change points
+wco in line
+insensitive
+fusion
+depends strongly
+model that correspond
+arg maxc
+offline method
+sets of containment relationships
+understanding of object
+sparse
+class of queries
+security
+attributes about object
+require combating counterfeit
+observing the container
+likelihood containment relations
+physical world comprising
+large data bases
+periodically by using reference
+transferred across warehouses
+region and a short
+tags that were read
+relationships in noisy
+report a containment change
+illustration
+post
+data makes
+properties
+takes
+considerations
+rr=0.7 h=500 rr=0.8 smurf
+input streams
+suit the increasing
+require object locations
+compression
+conference on very large
+avoids unnecessary computation
+5,273 related
+150,000
+queries involve inter-object
+true
+high-quality
+maximum
+removing irrelevant
+requires a recent
+two possibilities
+automaton evaluation
+hold object state
+computing
+metaphysical
+abstract
+evidence
+conclusions rr=0.9
+nfer indeed maximizes
+significant overlap
+physical
+re-used to calculate
+approach can fail
+future automaton
+test
+monitoring the strength
+algorithm is highly
+3ghz
+truncate
+update
+sizes that yield
+propose a centroid-based
+rfid lab
+interval
+detection the change
+object has been removed
+global
+binary observation variable xtrc
+graph
+method called change
+container capacity
+supported
+co-location
+squiggle tags
+accuracy especially when read
+belief propagation for self-calibration
+containment inference with stream
+presented
+turns
+measure the read rates
+characterize the number
+discrete
+error rates are low
+missedwe
+message-passing for statistical
+methods with varied trace
+events with rich
+location to seed
+queries on the data
+cost
+mobile reader
+handle missed readings
+large literature in statistics
+stress test our containment
+ensure accuracy
+work has addressed
+uniform
+set of tracking
+single epoch
+relational
+absence of containment
+supporting
+noise in rfid
+derive a simple
+lacks containment and location
+garfinkel and b rosenberg
+performance evaluation
+approximating the accuracy
+appears
+immediately returns the sensed
+domain knowledge
+limitation of rfid technology
+sift
+franklin
+domains
+items transitioned
+penalizes
+csim to emulate
+inference
+extra
+obtained since last inference
+single-source directed acyclic graph
+prove
+mobile environments
+belt reader scanned
+data management
+query that combines object
+determine the containment
+unprecedented near real-time
+estimates of containment relationships
+storage areas
+technology that enables
+overlap between adjacent
+machine learning
+labeled
+cao
+makes these queries
+locations such as hospitals
+emulating rfidbased
+fail to scale
+iterative approach
+inference site
+occur
+redundancy
+fortunately
+discussion
+freezer
+write
+csutton @ inf.ed.ac.uk
+work when new applications
+related work rfid stream
+product
+highly accurate inference
+collect raw
+produce
+total amount of state
+true and observed locations
+false containers
+goal
+costs of the distributed
+readers to scan containers
+factor of or2
+world comprising
+object state
+traces while further improving
+distribution of the container
+reader can detect
+query processingevents
+inference and query
+leveraging spatio-temporal
+global proc
+queries that our work
+tagged
+data volume
+items in the container
+statistical
+probabilistic inference
+worse accuracy
+ieee
+synthetic rfid streams
+unlucky
+addressed rfid data
+helps improve accuracy
+window
+two techniques
+a.k.a
+f-measure varies across traces
+data structures and optimizations
+thermometers
+stream and other sensor
+f-measures and time costs
+keeping up with stream
+half
+discuss
+highlevel
+properties from the manufacturer
+container reduces quadratically
+implemented a prototype
+10-minute
+accurately determine their locations
+domain
+chosen by our offline
+significantly
+inference cost for long
+inference algorithm is highly
+due to the elimination
+challenges
+hierarchical containment to future
+naming
+rfid inference
+shown
+verifies that squiggle tags
+space
+rfid-based infrastructure offers
+containers outside the critical
+shipping and packaging regulations
+increase
+receiving
+shows
+model assigns
+dependencies
+objects are not observed
+query finally
+fixed
+accuracy for lower
+began with short
+pattern seq
+stored in larger containers
+e-step and m-step
+containment relationships
+omitted
+variables
+xtrc be a binary
+combines object locations
+maximum of the likelihood
+reader observing
+directly
+represents the probabilistic
+latency of detecting anomalous
+sheer
+probability or uniformly sampled
+describe two
+system targets any distributed
+explanationseither
+murf is further stored
+center collect raw
+query processing as described
+compute the error
+eliminated
+object tags
+previous change
+combined finally
+computation can be done
+transferred
+`|x
+probabilities and co-location strengths
+distributed environments
+query processing approach
+isle
+inference and change detection
+include probabilistic query
+offer
+describe our distributed query
+equipment
+optional attributes
+readings of object
+reference tags fixed
+wco
+demonstrated the accuracy
+approach to information recovery
+aggregated to support
+adds the old transferred
+yields up to 10x
+number of containers
+.temp
+epoch t algorithm
+simulation generates the belt
+steady
+magnitude reduction in communication
+mobisys
+containment and location
+satisfying certain accuracy
+random variable which takes
+fixed threshold
+eliminating
+variables in the graphical
+effectively handle
+belt and shelves
+ground
+ratio
+done in advance
+strategies mentioned
+deployments
+september
+employ several optimizations
+requires additional mechanisms
+defer a detailed study
+yields a containment relationship
+overheads incurred
+pallets are finally read
+devise an inference
+center collect
+c.4 single-site
+due to high
+highvalue
+metal objects and interference
+section we describe
+raw readings of objects
+servers of a distribution
+data bases
+66,000
+queries such as raise
+large data
+short 1500-second traces
+notice
+model and algorithms
+developed an rfid lab
+produces an object event
+inference and thus enable
+transferring readings
+objects over multiple sites
+synthetic rfid
+t=1 containers
+processes raw data streams
+center employs
+h=500 rr=0.7 h=500
+varies across traces
+traces with distinct characteristics
+extension for pattern
+nearby
+readers and process
+overview
+determining containment relationships
+complete history of objects
+exploit
+learning
+evidence of co-location
+work further supports distributed
+nfer algorithm missing container
+competing explanationseither the object
+message-passing for statistical inference
+absence
+finding change
+robust architecture for distributed
+inferring object
+scanning each shelf
+readings state migration inference
+regularities in the tag
+rfid readings are highly
+informative about true
+nonshelf reader
+processing in large
+scan each isle
+probabilistic dependencies
+co-location of a false
+reach final
+object relationships
+state can be transferred
+rfid tracking
+evaluate our inference algorithm
+develop
+querying anytime
+shenoy department
+noise in rfid readings
+epoch
+co-located with the item
+values that the query
+reading of the container
+method can significantly
+closest
+approach for maximizing
+item in the period
+change point detection
+overlapping read ranges
+5,341 references
+copies bear
+shipping the inference state
+query processor to produce
+data does not directly
+reader periodically interrogate tags
+speed
+center employs multiple
+reduction in communication
+prior specific permission
+rate is high
+detailed experimental
+store supply-chainspecific
+real
+ensure accuracy of change
+read
+detailed study
+including the change point
+tag has been missedwe
+include the s murf
+lower read
+work rfid stream
+co-located during the first
+based on the distance
+choose the best containment
+prove that the m-step
+require combating
+based on the labels
+statistical inference
+collapse the inference state
+exposed
+containment and location information
+range and immediately
+a.3 implementation
+candidates the most frequently
+duration
+arriving tuple
+epoch are treated
+returns the sensed data
+locations and inter-object relationships
+rr=0.6 125,895,500
+invited to present
+numbers for each object
+item in the supply
+reader detects
+sensed data
+rfid tags provide similar
+anomaly error
+likelihoods
+comparison
+noise factors and simulations
+rates of location
+distribution over random
+backup
+processor
+results of our study
+transferring the complete
+sampling-based approach
+loc
+observed tag
+log
+area
+denoted as qtc
+global processing based
+start
+low
+containment while not converged
+assumes
+state of objects
+cleaning with heuristics
+environment is a distributed
+true location
+geographically distributed
+index of a single
+default
+directly measured
+nonparametric belief propagation
+deployments in complex
+query evaluation
+state migration local proc
+algorithm on synthetic rfid
+describe
+moved
+scanned
+rr=0.85
+moves
+hospitals
+multiple cases packed
+query processing can return
+storage
+assembled pallets
+migration local
+massachusetts
+state of monitoring queries
+results show that distributed
+small chance
+optimizations in this section
+limited number
+speed based
+semantic
+thingmagic
+state and enable
+managing rfid events
+minimize inference
+first test the sensitivity
+algorithm has converged
+object leaves a site
+nodes
+non-shelf reader
+processing based
+represent real
+achieved the maximum
+streams is labeled
+prior knowledge
+simply omit the nodes
+central location for inference
+rfid readers that scan
+describe the model
+query block employs
+probabilistic streams
+readings are highly
+processing for an object
+rate for containment inference
+method will enable
+cleansing method
+readers and tags
+transfer one copy
+overlap between adjacent shelf
+overrule
+query states across objects
+work exploits
+work to include
+answers
+depend
+strong
+state size
+containment in our work
+pieces of medical equipment
+warehouses in a roundrobin
+history tables
+amount
+illustrated in figure
+large distributed settings
+dozens from a shelf
+lower communication
+truncation stays
+infer true values
+inference problem
+probabilities
+query raises
+tag read
+inference techniques that provide
+latent object
+due to two reasons
+perform any temporal
+readings falling
+room is equipped
+point whenever the value
+temporal smoothing approaches
+change intervals figure
+maximizing likelihood
+sensitive to the container
+accurately estimate
+recent research
+estimates of object locations
+digital or hard
+reducing the delay
+smurf
+history
+algorithm usually converges
+point is detected
+anytime anywhere querying
+repackaged
+lacks
+types of continuous
+scanned on the conveyor
+appendix the notation
+considered a critical
+characteristics of the unknown
+object locations and object
+running at stream
+reject
+answering queries and minimum
+needed because due
+basic inference
+location of object
+presented in the previous
+xtrc is sampled
+choice
+streams at each site
+history of containers
+share query
+anytime
+listening for these tags
+maximizes this bound
+missed readings
+offers provable optimality
+removed from the container
+held
+represent tags
+detect an object
+anomaly detection
+object locations and inter-object
+co-located case
+systems
+peanuts
+motivated
+food
+fail to read
+data from inference
+graphical model that correspond
+prototype of our inference
+paper assumes
+observed rfid
+case of high
+lines for location inference
+event streams
+costs stay true
+reader periodically
+unclear if object
+select rstream
+distributed rfid
+algorithm would incur high
+run simulates a warehouse
+event
+item
+location and container
+number of reader
+67,000 5,156
+ytro |`to
+xeon 3ghz cpu
+issue
+addressed rfid data cleaning
+stream with rich
+limited overlap rates
+houses
+data standard
+infer changes in containment
+pallets of cases
+minimize the computation state
+history of observations collected
+moved from one case
+geographically distributed settings
+global processing parts
+nfer and s murf
+probability
+ranges
+items that are subject
+rr=0.7 and rr=0.8
+poses a scalability
+miss
+illustrate our approach
+learning techniques that require
+repeatedly co-located
+describing object
+log space
+schema
+epc tag data standard
+sets of containment
+history helps improve accuracy
+locations of all containers
+level of packaging
+effective than smoothing
+location r r detects
+exposure to room temperature
+xtrc is sampled independently
+implies two
+randomly
+null
+readings for inference
+first two time steps
+state migration inference site
+sharing technique works
+interest of space
+liu
+rates or higher overlap
+listed in section
+streams in mobile
+nfer also computes location
+school of informatics
+overlapping read
+wco = t=t0 eco
+location for inference
+method perform close
+mobile
+store supply-chainspecific object state
+reports the frozen food
+observed rfid readings
+first step
+local tag
+first the true location
+method that we proposed
+algorithm in this section
+r.loc = t.loc
+queries relevant
+on-board tag
+copyright
+variable indicating whether container
+shipping the query
+inference method offers
+objects must be transferred
+container tags
+environments that span
+continuous query language
+technique works
+address distributed inference
+processes data streams
+querying
+developed an rfid
+data cleaning problems
+stored
+model is a joint
+simple gzip
+tags provide similar benefits
+object o containment
+technical contributions
+scanning
+reader periodically interrogate
+225,890 summary
+66,000 5,737
+close
+minimum delay
+probable
+relations based
+case that belongs
+widely for containment
+conditions
+query block takes two
+appendix c.4
+appendix c.5
+appendix c.2
+point detection algorithm
+rfid readers
+scalability
+heap size
+events used in query
+distinguish
+similarly for ytro
+pallets first arrive
+memorized
+object readings strength
+sensitive
+ing with query
+truth that are reported
+distributed approaches to inference
+contributions include
+experimental
+processor to produce
+containers or been removed
+addressed rfid
+seconds by default
+described
+object when it moves
+extend our work
+separate sites
+describes
+communication costs stay
+collected
+read ranges
+stream processing system
+enable query processing
+generating
+achieve best accuracy
+independently interrogates the tag
+severely penalizes
+memory requirement
+location and sometimes denoted
+multiple rfid
+radio frequency
+evidence tt0 =tw eco
+containment introduction rfid
+reads
+demand more evidence
+generate events
+encode containment
+uniform over the set
+alleviates the problem
+baseline
+squiggle
+rate increases
+container inferred
+reader independently
+strengths wco
+experimentally that smoothing
+finally extend our distributed
+inference system
+cleaning
+distributed environment with multiple
+database
+flammable item
+states for these objects
+synopsis
+iterations required
+query processing locally
+inventory management
+important quantity for inferring
+exploits
+isa freezer
+deployment
+20-50
+experiment with query
+noise factors combined
+guaranteed
+adding latent
+guarantees
+high read
+defining a score wco
+main issue
+evaluate
+set of top-k co-located
+rfid deployment to evaluate
+joint probability distribution
+defining a score
+treat all tags
+signal
+translates
+simply by sampling hypothetical
+heap size 1.5gb
+two containers to drop
+sketch
+involves lower
+recent history denoted
+added
+values needed
+5,273 related work rfid
+change frequency
+describing
+write the objects state
+containment relation
+queries we aim
+additional experimental results
+testing for change
+run
+two streams
+processing
+disregard the data
+step
+jensens inequality
+scanned at the exit
+computer science university
+integers
+shenoy department of computer
+stream with object
+estimate object
+automatonbased query processor
+simulation
+entry door
+block
+techniques that provide accurate
+times by its outer
+processing techniques
+32,000 items
+reaches a new site
+traces with varied read
+commercial advantage
+maximum likelihood
+truncate the history
+statistics
+accuracy and query
+measured
+likelihood containment
+point detection procedure works
+raw data streams
+registered
+location error
+distribution over random variables
+injection
+significantly lower
+readers farther
+frozen food products
+stored in larger
+two representative
+icde
+f-measure of query
+middleware
+packaging and shipping regulations
+sifting
+heterogeneous
+similar
+centroid-based sharing technique works
+sharing
+latent object locations
+large synthetic traces
+murf is much worse
+queries must also move
+tags are container tags
+processing system
+future processing
+produce high-quality answers
+simulate a small
+67,000
+department
+tag on every container
+local processing
+items were moved
+object on a shelf
+granted without fee
+principled approach to exploiting
+regulations
+warehouse with 32,000 items
+graphically
+include as candidates
+medical device equipment
+network is deployed
+propose to exploit stable
+details are shown
+correlated
+hundreds of readings
+share query states
+involve inter-object
+e-step can be easily
+requires
+main read rate
+5,589
+vldb
+wang and p liu
+compact
+point in the entire
+processing as objects move
+execution vldb
+shaded nodes represent
+containment-based sharing method
+history truncation in distributed
+highvalue content to monitoring
+packaging and shipping
+information including
+wco qtc
+processing for rfid
+read the object
+expectation step
+inferring the containment
+block uses global
+murf using real
+location at present
+compensates
+reported results on accuracy
+magnitude reduction
+algorithms infer
+equipped with rfid readers
+experiment
+approach using query
+values from the set
+sequence of temperature
+commercial
+combine location and containment
+change points is challenging
+quantify the unluckiness
+arrive
+parameters
+food or drug product
+products
+run on a single
+type of food
+truth and compute
+compressed the entire
+addresses
+algorithm is not sensitive
+addressed
+anomalies
+statistical approach
+yield the f-measures
+efficient inference
+combines inferred location
+remains
+local proc
+distinguish these two possibilities
+shown using real
+deployments in complex environments
+noisy
+query state for objects
+formally
+started
+r.container = null
+event stream
+event queries on correlated
+inferred for each object
+limited number of objects
+writing the query
+lab warehouse deployment
+items in steady
+single execution of lines
+cql-based
+rfid tags provide
+memory to enable
+methods have accuracy
+point has in fact
+million objects
+intuitions
+readings of the object
+object state and enable
+fusion in sensor
+located
+infrastructure to provide
+statistical approach based
+re-use
+propose a distributed approach
+tag memory
+window for each item
+ability to track
+tags matures for large
+reader to scan
+trend motivated
+observations collected from multiple
+score measures
+custom m-step
+rr=0.8 166,746,235
+healthcare
+representative queries
+inference system can scale
+rfid tracking and monitoring
+estimation problem is complex
+competing
+including
+mentioned
+applications requiring
+rfid data lacks containment
+method can significantly reduce
+outer
+temporal
+rfid stream processing
+locations via smoothing
+longer recent history helps
+large distributed environments
+show that candidate pruning
+consistent with the ground
+university
+detects an object
+chance of the reader
+transferred can be enormous
+smoothing over object relations
+magnitude
+single-threaded
+assume an event
+containment to future
+state is recognized
+measure
+data is shipped
+assumes cql-based relational stream
+special
+maximizes
+directed acyclic
+dynamic environments
+settings and design
+rfid data analytics
+state transferred across warehouses
+computation complexity
+ihler
+statistic for epoch
+location of the container
+reduction in query state
+eco
+query evaluation on probabilistic
+determine object locations
+algorithm missing container
+temperature sensitive drug
+determining
+frequency identification fundamentals
+times
+computes location information
+pilfering
+complexity analysis
+propose to combine location
+history truncation algorithm aims
+finally read
+candidate containers
+powerful
+recall from appendix a.1
+truncation algorithm runs
+prashant shenoy department
+cumulative evidence
+relations and a principled
+ran inference
+current automaton
+privacy
+revealed
+relations
+sheer volume
+nsf grants
+ensuring accuracy
+final
+sharing technique
+change detection algorithm
+ground truth
+distributed inference system
+place as its container
+temperature sensor readings
+natural
+items per warehouse
+targets any distributed
+factors combined
+describes a physical world
+measure accuracy
+compresses other similar
+heuristic-based threshold
+storage area
+first evaluate
+multiple sites
+calls to the change
+reduction in communication costs
+maximum likelihood containment relations
+instance
+schema are produced
+incurs little extra cost
+container readings binary
+containment and locations
+attributes describing
+connected
+states that our algorithm
+total size of query
+point detection the change
+64-bit
+object naming service
+likelihood containment relations based
+proceedings
+local and global processing
+due to two
+similar benefits in distributed
+databases
+shipped to a central
+subject of a large
+citation on the first
+simply shipping
+guess about containment
+high-level
+long traces
+based
+bases
+threshold for change point
+achieve
+typically involve object
+observations most informative
+joint
+first test
+compute
+medical equipment
+processes
+ensuring accuracy of query
+experiments
+intel xeon 3ghz
+accuracy that is close
+computed
+techniques that provide
+computes
+computer
+state to be transferred
+bound on the likelihood
+rfidbased supply
+appendix c.3
+missing
+c.3 alternative
+written
+correctly
+number of objects
+locations and containment relationships
+products for inventory
+comparable
+t=1 ar table
+amherst school
+efficiency
+derive
+pallets are finally
+key
+evaluation on probabilistic
+potentially increase
+problem
+potentially increase the latency
+considered in query
+inference we first evaluate
+estimation
+immediately returns
+enables a real-time information
+small recent history size
+containers to drop fast
+addition
+support more objects
+longer recent
+allowing more efficient
+describe additional experimental results
+truncation algorithm aims
+optionally
+co-location between container
+state while ensuring
+sensed
+containment-based sharing
+multiple sites while keeping
+seed inference
+small recent
+circularly-polarized
+based on the co-location
+current site
+generalized likelihood
+resident
+enable anytime anywhere querying
+scan containers separately
+consistently across all read
+sensitivity of radio frequency
+capture
+began
+location inference is due
+parts
+limited local tag
+counterfeit drugs and preventing
+garfinkel
+probabilistic model
+binary random
+http
+processing can return
+objects based
+effect
+passive rfid tags
+set of top-k
+shipping the inference
+rfinfer loc
+t=t0 eco
+lab experiment
+80,248 7,296
+provided that copies
+processing state
+arbitrarily
+accurate
+inference accuracy
+first page
+location for processing
+first to employ smoothing
+september 3rd
+optionally other attributes
+treats all epochs
+c.2 containment
+80,248 7,296 rr=0.7
+object is scanned
+extends
+history truncation method
+values in a range
+exploited to store
+log likelihood
+low power
+shelf readers using low
+distributed inference and query
+nfer also computes
+immediately
+truncation algorithm
+sizes
+alternatively
+memorization technique that avoids
+object that is closer
+page
+query processing requires additional
+iis-0746939
+a-c
+processes raw
+learning framework
+detect anomalies
+threshold as described
+anomaly detection queries typically
+overlap
+concluding that a change
+detection incurs
+iterates over all readers
+demonstrated
+inaccurate
+real-world
+journal
+combining such location
+enable querying
+hospital that tags
+small number
+container c to estimate
+non-shelf reader frequency
+distributed stream
+graphical modeling
+cleans
+recognized
+architecture for distributed inference
+real deployments
+results beyond the key
+state-of-theart s murf
+washington
+sufficient size
+f-measure improves
+full data
+additional
+detection procedure will signal
+sites and numerous
+container readings binary vector
+high fan-in
+method that reduces
+region in the past
+algorithm converges
+hierarchical
+frequency varies
+shelves and scanned
+truncation
+max wco
+extended both to distributed
+cells
+partitioning the query
+stream describing the location
+devise
+state migration by shipping
+understanding of containment
+object naming
+motivated us to minimize
+functions
+infer a distribution
+stream speed
+distributed inference method offers
+improving performance
+collectively called the inference
+exposed to room
+sites that this object
+stay
+addresses a different problem
+co-located containers
+reduce inference
+readings binary vector
+explain these considerations
+enforcing packaging
+reader reads
+state across objects
+recent evidence to conclude
+dynamic
+history may be needed
+reduces the inference state
+transferred between sites
+techniques for distributed
+parameter number
+point detection is run
+pallets are assumed
+temperature readings
+poses a scalability challenge
+stress test
+generates the belt readings
+peanuts is never exposed
+region method
+experience similar issues
+frequent inference
+vector
+proven by jensens inequality
+detailed study of hierarchical
+detailed experimental setup
+rfid streams in mobile
+tag on every object
+noisy traces with stable
+varied anomaly error
+java hotspot 64-bit server
+queries and high communication
+exit door and dispatched
+definition of conditional
+complexities
+returns all the temperature
+rate is due
+tag orientations
+million
+arg max wco
+stream query processor
+stream with rich information
+volume of data poses
+frozen food products considered
+interpret
+mstep
+promising electronic identification
+simply adds
+sharing yields
+informative about the true
+rosenberg
+products location
+scalability of our techniques
+assume any prior knowledge
+technique to collapse
+first two
+stores the container inferred
+full history
+schemas for raw rfid
+rfid readings and events
+epc tag data standard2
+type
+ware
+describe additional
+stream describing
+room
+radio frequency to occluding
+history size
+reduce communication costs
+defer
+complexity to the model
+shows similar
+iterative
+involve
+relationships such as containment
+log t=1 c=1
+query processing on local
+inferred containment
+readers that scan medical
+inject anomalies that randomly
+accurately estimate location
+set of objects
+answer
+traditional approach of smoothing
+systems maintain computation
+results is high
+sample object
+centralized method without compromising
+healthcare environment
+copy of query
+locations qtc
+inference in the first
+penalizes the performance
+computation of wco
+cases and pallets
+current belief about locations
+previous section
+personal
+objects for state migration
+make digital
+stores the read rates
+identification technology that enables
+running inference
+containment relations
+guess of the container
+compare the inference results
+accuracy as expected
+critical region
+recovery
+food products considered
+varied over a wide
+location of each object
+distributed settings
+query block consuming
+recent history sizes
+finding change points
+arrives
+murf method
+amherst school of informatics
+principled
+total size
+container capacities
+quantify
+self-calibration in sensor
+content
+monitoring query
+reader
+locations and containment
+global processing parts based
+propose to truncate history
+contention by the belt
+linear
+experimental results in section
+factors and simulations
+java hotspot 64-bit
+state for this object
+state-transfer
+containment hierarchies
+java hotspot
+starts
+r.container isa freezer
+held in a tags
+rfid-based enterprise supply
+simply pick
+entire history of readings
+foundations and query execution
+case is chosen
+query processing for scalability
+data in the form
+fan-in systems
+requiring so emerge
+varied trace lengths
+critical region algorithm
+processing as object
+containers that were co-located
+system runs inference
+finally extend
+object at the entry
+representative query state
+proceedings of the vldb
+technology and rfid
+correct the old estimates
+state-of-the-art readers
+likelihood ratio statistic
+distance
+presented the design
+hypothetical sequences
+enables
+optimization also for traces
+container c was read
+performance while satisfying
+product if its container
+seed
+analysis
+overlap rate for shelf
+aims to support
+containers number
+object event
+continuous
+identification technology
+presented in the main
+real lab traces
+profit or commercial
+lacks a principled approach
+iterate
+compare the inference
+co-located at the door
+observation
+cases with contained items
+heuristic-based
+medical
+grouped into containers
+points
+real-time ability to track
+custom m-step indeed maximizes
+supply chain
+due to space constraints
+tt=t0
+optimizations combined
+exposed to temperature
+co-location history
+tag is in sight
+technique that finds
+current set of containment
+model this distribution
+numerous objects
+containment change
+data to be transferred
+locations and rfid readings
+cleansing method for rfid
+inference our inference algorithm
+history and posterior
+pallets
+case the container
+bar
+queries are location queries
+relationships from rfid readings
+incur high transfer
+guaranteed to converge
+reference
+testing
+main read
+container and an object
+verify that food
+system by using larger
+subject
+intuitively by adding latent
+require object
+rfid tags
+experiments in this section
+door and dispatched
+co-location between object
+dependencies between the observed
+tracking and monitoring queries
+processing to distributed
+tables
+eliminating the factor
+involves lower read
+modeling
+sharing of query
+improve inference efficiency
+combining such location evidence
+function of the containment
+varied containment change intervals
+truncate history by sifting
+drug products for inventory
+save memory
+locations or location histories
+learning methods
+rfid-based infrastructure
+interest
+basic
+evaluation of lab rfid
+quantities
+theorem
+compute the total
+joint distribution
+difficult to accurately
+set of candidate containers
+benefits in distributed supply
+method results
+item is not packed
+accuracy of change
+nowp
+revise the old estimates
+processing parts
+inference in sensor networks
+accuracy and communication
+objects for state
+seattle
+nfer algorithm missing
+effective at inferring object
+make
+custom
+potentially
+warehouse while keeping
+capacities
+restrict the change point
+show that our distributed
+medical devices
+centroid selection problem
+object o and container
+candidate container
+suffices to prove
+inference error rates
+intervals
+87,029 5,341 references
+infer containment and locations
+likelihood of the observed
+widely for containment inference
+left
+exploit sharing of query
+compress the query
+pattern matching functionality
+bandwidth
+details of the change
+processing cost
+middleware for supporting metaphysical
+simpler graphical
+tags are container
+csutton
+candidate container based
+accuracy when read rates
+query raises an alert
+single location
+read rate
+split into local processing
+background
+environmental noise and overlap
+fall outside the window
+supports distributed inference
+efficient query evaluation
+unnecessary
+object locations via smoothing
+stored for containment
+simulator guarantees
+interestingly
+streams and produces
+deal
+inject anomalies
+statistic
+main design
+ignore
+tracked
+differs because the inter-object
+bold
+reduce communication
+background on rfid technology
+profit or commercial advantage
+reduces the inference
+include an alternative method
+data and large synthetic
+queries assume an event
+evidence of object
+intuition into a robust
+method without compromising accuracy
+shipping regulations
+applying a small
+location for query processing
+strength wco
+cost over a centralized
+form
+colocation
+reports the frozen
+inference algorithm would incur
+describe our distributed
+significant computational
+partition by sensor rows
+attached
+processing on local
+volume were invited
+tt=t0 eco
+co-located with this object
+object reaches
+permission to make digital
+definition of conditional probability
+relevant to these objects
+random variables
+size 1.5gb
+list the path
+support change
+object and the readings
+37th international conference
+number of interrogations
+co-location information
+rfid data cleaning
+inference over rfid
+digital
+warehouse
+system can scale
+naive
+raw rfid data
+alleviates
+inference procedure
+monitor objects and detect
+transfers
+attributes about object properties
+middleware for supporting
+involves lower read rates
+first evaluate our inference
+change point
+assume
+ipsn
+estimates because readings obtained
+systems grow
+w1200
+nonshelf reader and dozens
+preventing pilfering
+algorithm presented in section
+evaluate our system
+challenge is that environments
+accuracy for read rates
+point detection with varied
+technique
+editors
+finally
+checks for each product
+distributed processing of tracking
+inference cost
+natural for object tracking
+table below reports
+dif
+objects locations
+two history tables
+wide range
+weight of this item
+unexpected
+copy of latent variables
+inference over rfid streams
+tags provide
+targets
+accurate estimates of object
+adds
+suspect
+anomalies that randomly pick
+international
+naive no state-transfer
+queries typically involve object
+environment with multiple
+received readings
+single execution
+described in appendix
+nested containment hierarchies
+c.5 distributed
+smooth the readings
+method for rfid data
+simultaneous
+minimize inference and query
+error rates to rise
+supported in part
+existing work
+location inference
+anywhere.1
+periodically interrogate
+supply-chainspecific
+state of the object
+work leads
+encode
+simply removed
+hierarchical containment
+readings from epochs
+initially proposed for improving
+shown in appendix
+avoiding
+10x reduction
+reasonable to infer
+close to the centralized
+colocation history of containers
+nearest
+comparison we describe
+sensor readings
+sample
+reported results
+linear complexity
+prentice-hall
+reading container
+results and the total
+cql language
+1500-second
+denotes the container
+block takes two streams
+max
+containment change intervals
+minimum communication
+random variables that represent
+mag
+queries on correlated probabilistic
+grow
+report a containment
+describing the model
+complex environments
+incurs little extra overhead
+sensitivity of containment inference
+event stream describing
+read rates due
+impact of this factor
+states of other objects
+typically involve
+made or distributed
+differs
+monitor
+high communication costs
+describe several additional results
+processing into a single
+main
+terms yields
+state to a single
+regularities
+smoothing over the dependencies
+infer them from rfid
+temperatures for the product
+sensitivity of radio
+desirable
+probable the rfid readings
+derive a simple customized
+variables in the model
+runs continuously
+john wiley and sons
+rate of containment inference
+dramatically reduces
+or2
+shaded nodes represent tags
+algorithm missing
+rate rr and overlap
+scheduled delay
+3rd
+address these problems
+interference
+presented in figure
+inference runs
+sensor
+correct
+considerations must be addressed
+mechanisms
+determine the containment relationships
+significantly lower communication
+objects and detect anomalies
+include optimizations
+advance
+=1200 seconds
+centers are further aggregated
+insensitive to the trace
+language
+enable queries
+gzip compression of data
+million items
+change detection
+environments such as large
+principled approach
+frequent
+first
+suffices to localize objects
+derive the containment
+mobile reader to scan
+results for our inference
+fast
+alleviates the problem lab
+dalvi
+employ a technique
+change point detection algorithm
+longer recent history
+include queries
+accurately
+t=1
+t=2
+t=3
+t=4
+tags are object tags
+series of optimizations
+sampling algorithm
+query processing for rfid
+inferring
+containment-based
+processing for rfid tracking
+unsupervised learning framework
+discussion below assumes cql-based
+large number
+current site as backup
+include a simple window-based
+efficient
+identification fundamentals
+locations number
+complexity
+hotspot
+converges
+attributes describing object
+significantly reduce
+converged
+performance
+change in the previous
+memorization technique
+trace
+track
+number of warehouses
+pair
+sutton
+describe several additional
+traces emulating
+exploiting the iterative
+show
+sites
+nsf grants iis-0746939
+threshold
+accuracy for location
+set of discrete
+histories
+delay in each warehouse
+related work rfid
+cql-based relational stream
+queries and minimum communication
+create readings
+warehouses in a single-source
+traces because our simulation
+gen
+noisy rfid
+answering
+yield
+location simply adds
+occluding metal
+idea of smoothing
+rfid readings and containment
+readers using low power
+additional details
+distributed approach that performs
+constraints to derive high-level
+rfinfer below we present
+query state size
+represents the case
+emulating
+sift out the observations
+satisfying
+inference we first
+automaton
+reading
+checks
+infrastructure
+august
+employ smoothing
+detecting anomalous events
+history h moves forwards
+compute new containment set
+reduces quadratically
+obtained there will eventually
+object and container locations
+c=1 log
+including the optimizations
+top-k
+pick the best container
+grants
+binary random variable
+non-shelf
+cql
+6,986
+object properties
+lab traces
+nrc nrnc
+true locations
+object can be revealed
+object locations and containment
+steps of a quantity
+optimality
+suciu
+tags attached
+tags memory
+supply chains and real
+detection procedure
+suspect that the object
+informative about true containment
+containers as independent
+warehouse has 32,000 items
+model of container
+container has much higher
+running on a server
+drug products
+characteristics
+algorithm including the change
+middle
+probability distribution that describes
+ytro similarly
+short recent history
+single-site inference we describe
+co-located in the raw
+145,858,950
+extended
+inference with stream
+independently interrogates
+general approach for maximizing
+c.4
+vldb endowment 2150-8097
+running
+tracking queries are location
+c.2
+totally
+techniques can still accurately
+severely penalizes the performance
+intel xeon 3ghz cpu
+detect containment
+high accuracy for location
+local rfid
+space constraints
+solve
+locations as a discrete
+inference at stream speed
+relationship right
+sifting out
+observed locations
+containment relationships change
+application
+two log
+relational stream
+naive implementation
+naive window-based
+denote the true
+trace lengths
+state and enable querying
+sampled independently with probability
+previous section requires
+processing to distributed environments
+shows similar results
+scanned the real
+data standard2
+server
+sacrificing accuracy
+arasu
+techniques are general
+define ytro similarly
+memorized from the computation
+small amount
+state for each object
+working within an expectation
+write the objects
+rr=0.8 h=500
+matching
+alternates
+warehouse and scheduled
+default values
+work for personal
+circularly-polarized antennas
+illustrated
+irrelevant terms yields max
+maximization
+critical
+inject
+score wco
+directly observed
+random variable
+centralized and distributed approaches
+reasonable
+seconds
+cost across sites
+generalized likelihood ratio statistic
+systems maintain
+manufacturer
+packed into a case
+incurred due to high
+permission and a fee
+previous change point detection
+system targets
+algorithms to arbitrarily
+writable tags
+multiple storage
+co-location weight wco
+references
+considered for global
+inference method
+history of objects
+expected to experience similar
+reader closest
+nearest reader
+arrive at the entry
+history by sifting out
+model is depicted
+detection procedure works
+containment relationships based
+1500-second traces and ran
+rates of containment inference
+bandwidth overheads
+arranges
+basic algorithm presented
+quantity that we call
+noisy and incomplete input
+true object and container
+required
+design of our model
+citation
+general
+examine
+accuracy while running
+item was simply removed
+find the global
+ytro
+ytrc
+hybrid
+offline sampling
+weights
+memory is writable
+inference starts
+fundamental limitation
+specially-generated training
+query state reduction
+important
+line for location
+medical device
+relations c change-point statistic
+set of discrete epochs
+show that distributed
+proposed for history truncation
+accuracy and communication costs
+represent
+traces with varied tag
+cascadia
+containment information
+6,108 rr=0.8
+cql continuous
+objects and containers
+design consideration
+problem lab
+relationships based on co-location
+inference is to introduce
+module that translates raw
+sheer volume of data
+removing
+fall
+cql-based relational
+difference
+aim to support
+bear this notice
+site to seed inference
+inference are always low
+simple window-based truncation method
+probability or uniformly
+tracking applications
+diao
+rates for varied read
+applying the critical
+high error rate
+locations of objects believed
+shipping and packaging
+advantage and that copies
+promising
+locate the objects previous
+alien squiggle gen
+query state
+rich information
+search
+false positive
+e-step maximizes
+objects is simply
+inference with stable containment
+a.1 pseudocode
+two techniques to address
+considerations for high fan-in
+distinguish between these two
+spatio-temporal
+distribution center collect raw
+share query state
+detecting
+geographically separate
+detection with varied anomaly
+containment inference is sensitive
+two
+collect raw rfid data
+rfid readings
+rfid stream
+overlap among readers
+objects have tags
+achieving
+discussion of query
+containment change detection
+machine learning techniques
+varying
+warehouse has 32,000
+recent history helps
+deviated from its intended
+accuracy given read rates
+hour
+recall
+t=1 c=1 log
+automatonbased query
+recent history helps improve
+strategies
+compare
+quantity which we call
+share
+minimum
+numbers
+difference in sum
+results using two representative
+seconds scanning each shelf
+shows that the containment
+key results presented
+model is a probability
+management of rfid
+state of two objects
+supporting metaphysical data
+binary
+high communication
+appendix c.3 for details
+stream systems
+streams in mobile environments
+information infrastructure to provide
+method as described
+tag data
+nodes are tags
+incur both a high
+reduction in query
+outer query aggregates
+processes data
+world comprising object locations
+stores the read
+first arrive
+due to the sensitivity
+detected
+sum of the point
+science university of massachusetts
+query is registered
+algorithm is guaranteed
+discrete set
+redundancy for rfid data
+work aims
+stream systems maintain computation
+query that combines
+co-location strengths
+easily
+revisit figure
+detecting anomalous
+describing the location
+tag storage
+positions
+relationships to infer containment
+introduce the notion
+exposure to room
+hard
+idea
+query processing as objects
+science university
+150,000 items
+mechanism for high-level query
+two competing explanationseither
+state from that place
+interrogates the tag
+state of query
+event stream with rich
+hospitals with multiple storage
+copies bear this notice
+enforcing
+readings strength of co-location
+beginning
+benefits
+omit
+related work
+reduces the memory requirement
+approaches to inference
+effect of the threshold
+shows the error
+naive no state-transfer method
+requires larger
+step is to show
+done
+experimental results
+data makes these queries
+answer monitoring
+locally at each location
+assumption
+5,737
+high accuracy of location
+theorem states
+part
+key to query processing
+central location for query
+bytes that differ
+functions in the presence
+observation variable
+stable containment to share
+stream processing
+values are imputed
+distributed supply chains
+approach and three state
+readers are less accurate
+local processing and global
+change interval
+finally returns
+orders
+work has been supported
+query processing state
+stream with object location
+temperature sensitive drug product
+pallets must be tracked
+tool
+small number of locations
+processing and global processing
+rfid readings are inherently
+state-of-the-art
+effectively handle the noisy
+5,273
+significant
+procedure signals a change
+case in the warehouse
+incur
+`tc `to
+containment change frequency varies
+study the tradeoff
+combines inferred
+existing machine learning
+sensitive to the containment
+converge
+area or patient room
+relation
+optimal value
+costs or cope
+states by storing
+method was initially
+sharing technique that finds
+algorithm including
+distributed
+smoothing over containment relations
+maxc0
+computation state
+nfer algorithm converges
+notation
+permission
+communication costs or cope
+results from the joint
+null hypothesis
+resolve
+common
+measures how probable
+containers from recent epochs
+general methodology
+traces of various lengths
+turns out
+appendix b for illustration
+method without compromising
+individual
+implementation of the algorithm
+query processing in large
+queries that require object
+ieee signal processing mag
+communication costs
+products considered in query
+observe the naive
+returns the sensed
+application requirement
+combine sensors
+truncation figure
+scans the cases
+varied containment
+responses
+processing for tracking
+methods offer high accuracy
+return high-quality answers
+c=2
+c=1
+storage of the rfid
+appendix a.2
+appendix a.3
+heterogeneous read
+reader information
+including the change
+point
+simple
+state-transfer method
+execution of lines
+fashion
+simply
+difficulties in a principled
+collapsing inference
+c.3 for details
+current window is considered
+study of hierarchical containment
+consuming
+raise
+create
+shown in figure
+correlated probabilistic
+rao
+queries and high
+understand
+design techniques
+raw
+warehousing
+expectation maximization
+deferred
+detection with varied
+world behaves
+due to added
+find the global maximum
+read rates and significant
+approximates the optimal
+probabilistic query
+distributed settings and design
+find a time period
+employ smoothing over object
+cs.umass.edu
+emphasize
+unknown true
+processing can return high-quality
+takes values
+object in a container
+co-location strength wco
+event specification and extraction
+technique that avoids
+mercury5 readers
+part of this work
+two objects
+running time insensitive
+achieves a linear complexity
+computed in lines
+shaded nodes
+location of an object
+entry
+small sliding
+pick an item
+message-passing
+re-used
+world
+heuristic way to infer
+overrule the old weights
+device equipment
+real-time ability
+distributed stream processing
+source
+sites and numerous objects
+thingmagic mercury5 readers
+traces with various noise
+processing state while ensuring
+binary observation variable
+collectively
+lacks a principled
+supporting metaphysical data independence
+maxc
+point of a storage
+computational complexity
+vary the trace length
+posterior probability tables
+store supply-chainspecific object
+current estimates of containment
+considered for global processing
+simple window-based
+instantiating
+block takes two
+derive the containment relationships
+actual deployment
+scale
+a.len
+decision
+labeled as global
+causing containment
+centroid
+node represents a tag
+main data structures
+patient
+occluding metal objects
+period and the tag
+event specification
+readability
+extensions
+access to any specially-generated
+misplaced
+short recent
+experiment with query processing
+scale such inference
+inference with varied read
+nsf
+number of reader locations
+query results
+containment inference and change
+assume any prior
+set of pairs
+read rate of readers
+correctly infer that container
+redistribute to lists
+handbook
+estimate their locations individually
+informative for determining
+a.2 the fact
+rr=0.8 h=500 rr=0.7 h=500
+identity ; the tag
+provide accurate
+contained items
+directed
+approach incurs
+applying a small sliding
+maximization step
+locations and object
+accuracy while keeping
+arrive at a warehouse
+readings binary
+constant
+collected from multiple sites
+extend our model
+system combines
+single
+temperature based
+point evidence figure
+reducing the time cost
+queries are location
+history of this object
+presented in section
+results demonstrated
+illustrate the tracking
+priori
+functionality
+query processor
+objects in a container
+add significant complexity
+aggregates
+total inference
+university of edinburgh
+describe several optimizations
+aggregated
+knowledge about the layout
+location queries that require
+implies
+real-time information infrastructure
+data independence
+foundations and query
+tradeoff
+change intervals
+smooth raw
+implies two ways
+first uses s murf
+observed frequently
+query
+fixing the read rate
+o=3
+o=2
+procedure will signal
+o=4
+writing the query state
+system in real-world settings
+adding latent variables
+helps
+locations number of containers
+error rates for varied
+random
+cpu and running
+eventually overrule
+leveraging spatio-temporal redundancy
+call the point evidence
+putting
+entire
+small warehouse
+streams from different centers
+based on table
+optimize performance while satisfying
+radio
+evidence variables
+prove theorem
+move with these objects
+information about object
+sensitivity to the read
+access
+patient room is equipped
+history alleviates
+collapsing inference state
+sifting out the observations
+inference algorithm first
+hospitals or supply
+body
+assuming that the world
+h=500 rr=0.8 smurf
+leveraging
+algorithm achieves
+object tracking
+scalability of our inference
+epc tag data
+specially-generated
+adjacent shelf
+accuracy of the reported
+accuracy of change point
+existent
+volume of data
+implement
+latent and evidence
+alternative method
+explanationseither the object
+transferring the complete history
+cost also increases
+assume that each distribution
+or=0.25
+represents a tag
+proposed techniques
+rfid handbook
+simpler graphical model
+inference and change
+iii
+endowment 2150-8097
+observed little impact
+algorithm on synthetic
+inference we describe
+simply omit
+readers and considers
+describe a probabilistic
+labels of input
+effectively
+employs
+distributed inference experiment
+obtained from the manufacturers
+history ; the weight
+varied
+sampling-based approach to information
+inference module
+varies
+interval between two
+higher point evidence
+evidence in the previous
+exposed to room temperature
+examine the effect
+detected critical region
+left to appendix
+readings of its candidate
+hospital unprecedented near real-time
+temperature sensitive
+likelihood is a function
+understanding of containment relationships
+lines
+correspond
+streams to infer
+87,000
+cost without affecting
+frequency of anomalies
+reader at location
+object started
+contrast to temporal smoothing
+employs pattern
+state w share
+window method
+warehouse an object
+yield the time costs
+container c and object
+dag
+greater
+state to the local
+scale of rfid
+.time
+notice and the full
+republish
+shows the cumulative evidence
+disregard
+significantly reduce inference cost
+sensor rows
+constraints
+results at the 37th
+e-step is identical
+outer loops
+work we employ
+reported by our algorithm
+management of rfid data
+multiple storage areas
+miss reading
+m-step of our algorithm
+evaluate the accuracy
+verify experimentally that smoothing
+window-based truncation
+matching functionality
+container-object pair
+cleaning problems
+query answers
+distribution center collect
+bandwidth overheads incurred due
+variable which takes
+optimizations combined finally
+pharmaceutical
+distribution that describes
+retrieved
+perform close
+perform state
+likelihood
+retrieves
+distributed fusion in sensor
+smoothing over containment
+block employs pattern
+o=3 reader
+raw noisy rfid
+retain
+denote the query state
+specific permission
+finally reduce the complexities
+reaches
+166,746,235
+top-k co-located cases
+object has either changed
+proposed for history
+takes various fixed values
+identification fundamentals and applications
+compare centralized
+scans
+anytime anywhere.1
+assumes that the environment
+metaphysical data
+rfidbased
+environmental
+work further supports
+small region
+history lengths
+completes
+epochs
+writable tags matures
+relationships with objects
+previous place
+light
+requiring the entire history
+simply shipping the inference
+point evidence of object
+explained using the cumulative
+imprudent to restrict
+monitoring applications
+object can have hundreds
+ignore terms
+attached to all cases
+centroid selection
+derive high-level
+manufacturers database
+background in this section
+distributed supply chain
+enable more frequent
+rates periodically
+selection
+charles
+zhao cao
+locations whose values
+lab rfid
+6,108
+read range
+knowledge
+f-measures of the chosen
+trade off accuracy
+improve the performance significantly
+streams to infer object
+bear
+partitions the state
+hifi
+understanding of object locations
+location inference for static
+data poses a scalability
+streams as objects
+areas
+frequency of unexpected
+warehouse an object started
+existing stream systems
+temporal management of rfid
+assigns to the observed
+detection using dif
+received readings from epochs
+writable
+previous cr if existent
+rfinfer cont
+methods to the read
+exploited
+procedure incurs
+pattern
+likelihood measures how probable
+two time steps
+difficulties
+vector of length
+enable query
+co-location strength
+longer traces
+bandwidth overheads incurred
+hold object
+key challenge
+avoiding the overhead
+search reaches
+optional
+instantly when a tag
+server with an intel
+detection algorithm
+attributes
+relevant
+inference algorithm on synthetic
+point detection algorithm requires
+reader frequency
+inference accuracy remains
+inference algorithms
+stream systems maintain
+removing irrelevant terms
+exposure
+location probabilities and co-location
+copies
+seconds to include
+evaluate a trace
+anomaly
+increases for longer traces
+define
+large number of objects
+design of a scalable
+accuracy of location inference
+object includes
+trace length
+-measure
+true state
+value
+algorithm ; in appendix
+transitioned
+frequently with the object
+w.-s
+items while keeping
+contention
+stable containment
+inference experiment
+infer
+cost for long
+based truncation
+rfid data
+epochs as independent
+streams to return
+read rate=0.8
+reader scanned
+stable for various read
+based on a distance
+informative region
+center
+addressed to effectively handle
+cope with limited
+matching over event
+sets
+simple customized
+storing only the differences
+subsequent warehouses
+small number of items
+stores
+irrelevant terms
+notation more compact
+exploit statistical
+mobile reader reads
+localize
+global tracking and monitoring
+model that represents
+location inference is highly
+discuss shortly
+rate low
+add
+variable indicating
+point evidence tt0 =tw
+single-threaded implementation
+optimizations
+system combines location
+needed to ensure accuracy
+queries difficult
+elapses
+r.loc
+streams to answer monitoring
+inference with the default
+correspond to the readings
+distributed inference with varied
+containment to share
+sensor readings state
+c=1 ar max
+works
+weight calculation remains
+propose to combine
+inference completes
+describe the design
+rates due to added
+problem lab rfid
+processing runs continuously
+due to added environmental
+state and compresses
+assuming
+rfid technology
+chains
+distance function that counts
+noise
+significantly reduce inference
+rare given the wide
+products for inventory management
+approach processes data streams
+approximating
+iterate these two
+periodically
+outer query
+simpler
+variable indicating whether object
+actual
+sampling hypothetical
+server there can locate
+scheduled transit
+depart
+first several epochs
+first exposure
+inference not very sensitive
+exit point
+true object
+evidence about the container
+distributed query processing
+dif table
+objects on shelves
+first examine
+sketch the main
+proposed for improving
+r.tag
+common read rates
+inference state transferred
+identical to the standard
+relaxing this assumption
+created traces with varied
+priori which tags
+significant overlap between adjacent
+show that neither location
+short 1500-second
+minutes
+model describes a physical
+repeatedly fail
+antennas to implement
+highlight the communication
+co-located cases
+225,890 rr=0.7
+objects are grouped
+225,890 rr=0.9
+specification and extraction
+types of queries
+study show
+|`to
+minimum delay of answering
+accuracy due
+inference we highlight
+|`tc
+present our inference
+pharmaceutical environments that require
+scale but still offers
+extra work
+include an alternative
+converge to an optimum
+improve accuracy
+run at stream speed
+accuracy of query answers
+real-time information
+inference must run
+limited
+significant overlap between readers
+1.5gb
+directly contain this information
+model and inference techniques
+multiple locations
+ieee signal processing
+assembled
+distill such useful history
+inference with change
+maxc0 wc0
+location r r received
+pallet that has deviated
+edge a containment relation
+high communication cost
+accuracy of query
+helps improve
+incurs
+reach final destinations
+containment change frequency
+rise
+processing techniques that minimize
+containment decision
+tags responses
+steady state
+school
+takes two
+supports
+observed data
+accuracy given read
+simply based
+current p window
+runs inference
+unsupervised learning
+consistent
+block employs pattern matching
+estimates
+class of queries involve
+point evidence memorized
+difference of these two
+location queries
+warehouse setup
+specification
+inference is more sensitive
+requiring different statistical models
+accurate estimates
+received a reading
+sampling hypothetical observation
+rr=0.7
+rr=0.6
+two representative queries
+tradeoff between accuracy
+rr=0.9
+rr=0.8
+hundreds
+cpu and running java
+processing requires additional mechanisms
+detection queries typically
+path
+varied containment change
+leaves
+changed
+method offers
+literature in statistics
+reading both an item
+data cleansing
+smoothing over object
+amherst
+object leaves
+drug product
+delay of answering
+hospital
+detection ferent
+lab experiment and simulations
+technology of writable
+distributed approach processes data
+readings and containment
+location and containment
+chosen threshold always approximates
+real-time
+generalized likelihood ratio
+develop this intuition
+observed readings
+present at location
+parts based
+design considerations
+h=500 rr=0.7 h=500 rr=0.8
+inference at stream
+yanlei diao
+window based truncation stays
+two history
+recent research has addressed
+achieving high accuracy
+end
+running the algorithm
+adjacent
+simple customized m-step
+compression of data
+two false
+two log likelihoods
+data and large
+perform
+.tag
+inference methods when run
+executed
+minimize the inference state
+murf using real lab
+additional results
+object events
+`tc be the true
+results show that candidate
+tags and which tags
+writing
+cases are removed
+processor processes
+vector of all object
+187,589,810
+injected at the source
+location inference is flat
+scanned by the shelf
+leaving a copy
+state reduction
+distributed inference in sensor
+combining
+paskin
+cost for long traces
+sequence of warehouses
+moved but its tag
+high transfer overhead
+truncate the readings
+stream produced
+correctly infer
+independence
+inferred location and containment
+squiggle tags are orientation-insensitive
+traces with stable
+management
+section requires
+electronic identification technology
+region method can significantly
+history h one solution
+attributes describing object properties
+traces as takes
+algorithm alternates between two
+basseville
+first examine the effect
+assumes cql-based relational
+restrict
+work exploits the inference
+applying the critical region
+supply chains where objects
+stores the co-location
+approach that performs
+techniques that require
+percentage
+performance significantly
+inference problem differs
+product and checks
+fundamental tool in statistics
+offer high
+periodically interrogate tags
+injected
+due to the missing
+study of hierarchical
+performance metrics
+integrating data
+tracking queries
+intel xeon
+traditional approach
+rr=0.9 187,589,810
+containment relationships in noisy
+ran
+based on hypothesis testing
+work rfid stream processing
+freezer and exposed
+history of size
+stream query processing
+algorithm can achieve
+requires the entire
+limited local tag storage
+long period
+technique that avoids unnecessary
+compromising accuracy
+hybrid queries
+variables that represent
+probability tables
+explain how to sample
+localize objects
+reduce inference cost
+treats
+show that distributed inference
+partition
+metal
+enable querying anytime anywhere.1
+yang
+enterprise
+object and a container
+arbitrarily nested containment
+64-bit server
+section
+read by the reader
+answers and further exploit
+combating counterfeit
+informatics university
+read rates are low
+applications requiring so emerge
+endowment
+execution
+reader locations number
+memory to enable querying
+log likelihood measures
+letchner
+posterior probability tables grow
+important to minimize
+affect accuracy
+cetin
+interrogates
+infrastructure offers a hospital
+report
+centroid-based
+metaphysical data independence
+evaluate our inference
+225,890
+sensitive to the trace
+nfer is shown
+farther
+smoothing and co-location
+finds the most representative
+=tw eco
+detection
+considerations for high
+leaves one site
+object relations in rfid
+monitoring queries we aim
+capacity
+notion of smoothing
+approach
+make the notation
+processingevents
+precision + recall
+conveyor belt that scans
+statistical method
+centralized approach while approximating
+change-point statistic for epoch
+improve
+probabilities and co-location
+computed the error
+flag a change point
+single-site inference
+processing runs
+first the true
+lists
+alternates between two
+enormous given a large
+223,790
+communication costs stay true
+conference
+additional experiments
+two reasons
+readers using low
+warehouses
+design considerations for high
+expected
+containers
+combine location
+determining containment
+drugs
+experimental results for single-site
+high fan-in systems
+desirable to write
+distribution center employs
+history helps improve
+approach to exploiting
+inference to the read
+out that the observed
+monitoring queries
+procedure
+likelihood defined
+include all new observations
+scale to millions
+partitioned for individual
+issue in both inference
+log likelihoods
+global query
+infer a containment
+inference is more challenging
+complex
+inventory
+sharing of query state
+maximizing each term independently
+models and inference techniques
+discrete epochs
+affecting the accuracy
+maximizing with respect
+shortly
+challenging since inter-object
+query language
+location and containment introduction
+tags matures
+scan containers
+achieves an error
+proposed
+model treats all epochs
+robust message-passing for statistical
+results in the interest
+compressed the entire history
+readings useful for containment
+transit
+change frequency varies
+exploiting known constraints
+f-measure
+objects in a nearby
+distributed processing
+inference results
+sensors streams
+migration inference site
+address this issue
+specific
+informative
+detection algorithm requires
+maximum p by maximizing
+defines the query state
+performed by existing stream
+registered with every site
+recent period
+state and enable anytime
+allowing more efficient inference
+cor2
+shelf readers
+e-step
+key step
+system in large
+rich attributes
+container contains a small
+inference is sensitive
+memory requirement without sacrificing
+threshold for change
+miss reading container
+limitation
+object o we choose
+estimate object locations
+state of inference
+distinct
+ensure
+unluckiness
+readers for scanning
+method makes
+perform change point detection
+presence
+offers a general approach
+co-located with object
+reduction in communication cost
+high transfer
+rely
+migration can be realized
+results in section
+discussion below assumes
+comprising object locations
+lab warehouse
+history truncation algorithm
+queries typically involve
+warehouses while approximating
+issue in state migration
+3ghz cpu
+extra cost
+probabilistic databases
+heap
+set of possible reader
+cidr
+removed
+true distribution
+began with short 1500-second
+evaluation we have implemented
+abstract tal
+first varied the read
+single number
+inference are very close
+propose a centroid-based sharing
+simulations
+approximating its accuracy
+check
+include for any temperature
+millions of objects
+systems maintain computation state
+measure the strength
+jeffery
+fusion in sensor networks
+show only the line
+single location for processing
+challenge to existing
+raises an alert
+node
+capture the percentage
+uniformly
+obtained traces with varied
+based on the products
+longer
+alert if a frozen
+detection queries typically involve
+bold in the table
+focus
+leads
+computation
+contained items transitioned
+set of values needed
+row
+overwriting the previous
+procedure works
+approach based
+separate sites and millions
+standard2
+item and move
+matures for large deployments
+container or object
+simply by sampling
+higher overlap rates
+frequencies
+simulations with different containment
+225,890 rr=0.7 145,858,950
+true values of temperature
+history alleviates the problem
+set of readings
+partitions
+level
+block consuming
+estimate location and containment
+due to high data
+trend
+accuracy for location inference
+drugs and preventing
+high processing cost
+detection in this section
+solution to this problem
+finally extend our algorithm
+solution is simply shipping
+containment change intervals figure
+tag data standard2
+probability tables grow
+reaches the end
+default but also varied
+applied to other domains
+objects is simply based
+propose a distributed
+presence of missing
+continuous queries
+offers a hospital
+emerge
+chain is assumed
+truncation to be inaccurate
+choose the most representative
+lines for location
+query finally returns
+observed read rates
+stated
+shelves to scan resident
+memory
+cope with limited local
+containers number of objects
+locations and object relationships
+scales to millions
+estimates of object
+reader can read objects
+maxt0
+cases
+increase inference cost
+modified
+object o was read
+complete history
+model and inference
+independently with probability
+stream
+removed from container
+distributed query processing approach
+grow into many geographically
+distributed and centralized approaches
+exploit statistical regularities
+performed
+issue in state
+state reduction ratio
+longer revise
+optimization does not introduce
+techniques from probabilistic
+compute the error rate
+international conference
+previous em iteration
+roundrobin
+shown in appendix c.5
+shown in appendix c.4
+classroom
+limited to the traditional
+method will enable querying
+a.3 implementation and optimizations
+window based
+treats all time steps
+containment changes cause containment
+likelihood framework
+local servers
+significant computational cost
+state migration inference
+denote the query
+inference with varied
+objects and interference
+higher point
+focus on passive
+module as we discuss
+depends strongly on characteristics
+parameter number of warehouses
+number for each container-object
+sight
+bound
+inf.ed.ac.uk abstract
+two ways to trade
+testing for change points
+pattern matching
+out the observations
+rates or higher
+evidence tt0 =tw
+include probabilistic query processing
+5,273 related work
+methods with varied
+algorithm to the frequency
+individually
+tags local
+hospitals would be expected
+approximates
+randomly choose
+factors
+profit
+factory
+processed
+theory
+large hospital
+dispatched
+tracking and monitoring systems
+queries that require
+poses a challenge
+state-of-theart
+place
+scales inference
+pseudocode
+chains and real
+millions
+sensitivity of our algorithm
+varied the interval
+scan resident
+returns
+evidence figure
+frequency identification
+data arrives
+section requires the entire
+cope
+based on co-location
+choose an item
+rates between readers
+high read rates
+copy
+4-64
+wide
+require
+cost beyond the computation
+approach processes
+removed altogether
+readings from the container
+a.1
+translates raw noisy
+a.3
+scanned the real container
+emulating rfidbased supply chains
+locations r similarly
+numbers of objects
+probability distribution over random
+relationships would be simple
+query state among objects
+module that translates
+strengths
+differences
+multiple
+details of change point
+varied tag orientations
+supply chains
+occurred
+unexpected containment
+single container
+considered
+containment relationships with objects
+statistical models
+quantity
+enables a real-time
+spatio-temporal redundancy
+vector of all container
+food products
+m-step
+rstream
+state
+rfidenabled information infrastructure
+generates the belt
+simply the sum
+processing of tracking
+tool in statistics
+sample object locations
+expectation
+rfid technology and rfid
+seconds and compute
+demonstrated performance
+seconds scanning
+total amount
+work rfid
+common types
+key novelty
+results are confirmed
+readings arrive
+verify experimentally
+requirement without sacrificing accuracy
+complexities of the e-step
+hotspot 64-bit
+model locations
+type of problem
+detect
+large literature
+ways
+subsequent
+small recent history
+simulator can inject
+accuracy remains
+overlap rate
+multiple ware
+truncate history
+structures and optimizations
+sequence of temperature readings
+objects to estimate
+algorithm missing container tags
+distributed and centralized
+overwriting
+automaton state
+f-measure for these traces
+containers and objects
+place using the object
+csim
+type of generalized likelihood
+sensor streams to return
+region
+pattern matching over event
+propagation
+objects previous
+part by nsf
+sum of point
+results demonstrated the accuracy
+state for an object
+detection queries
+period
+reduces the memory
+require combating counterfeit drugs
+iterations
+general methodology based
+vldb journal
+semantic foundations
+period of stay
+tag data standard
+lower communication costs
+inference runs on raw
+idea is that determining
+raw noisy rfid readings
+packed in a fireproof
+rr=0.8 smurf rr=0.7
+matching on the stream
+rfid-based enterprise
+pallets first
+readers had overlapping
+irrelevant
+shenoy
+case
+unshaded
+data cleans
+observed the true
+overlap rates between readers
+describe a history truncation
+improve inference
+lower read rates
+technology trend
+propose a statistical approach
+labels of input streams
+yanlei
+pruning
+exploit on-board
+approximates the optimal value
+granted
+important to minimize inference
+created traces
+events
+supporting metaphysical
+statistical models and inference
+denote this quantity
+change detection using dif
+rr=0.7 h=500
+e-step and the m-step
+minimize
+error rate
+point detection incurs
+improve our understanding
+location for subsequent inference
+unclear
+incurring
+sampled
+infrastructure offers
+truncation is to sift
+pallet
+key results
+inference efficiency
+easily compressed
+scheduled
+32,000
+appendix a the key
+recent history h moves
+highly accurate
+depicted graphically in figure
+posterior distribution
+objects over multiple
+addition to the detected
+reduces
+based on graphical modeling
+state of monitoring
+readings obtained
+reduced
+typically true
+history truncation algorithm runs
+simulator
+resulting values
+current set
+probabilistic model describes
+table
+o=4 r figure
+provided
+history truncation figure
+depend on `tc
+runs on raw rfid
+imputed
+inference is flat
+tags are object
+chosen threshold
+co-located after the door
+state according to individual
+query processor processes
+discussed
+last inference
+existing machine
+communication
+alert if a flammable
+achieving high
+containment queries
+containers to drop
+values and our offline
+tags that were missed
+design a graphical
+traces produced
+treat
+exit of a site
+delay of answering queries
+reduce the complexities
+relations that allow object
+m-step as maximizing
+traces and ran
+applying
+accurate for various noisy
+strongly
+totaling
+detection the change point
+distribution as uniform
+describes the world
+spends
+incorrect
+data lacks containment
+center collect raw rfid
+compute new containment
+tags fixed
+includes
+queries typically
+query execution vldb
+inference algorithms infer
+calls
+acyclic
+randomly pick an item
+jensens
+candidate pruning
+global maximum
+error rate for containment
+tracking and monitoring zhao
+require information
+rates for varied
+denotes
+synthetic
+read by reader
+schiff
+basic algorithm in accuracy
+removal
+enabling stream query
+discussion of query processing
+model in this section
+sensitivity of containment
+assumed to be packed
+worse
+statistical regularities
+combine sensors streams
+sons
+overlap rates
+query states
+proposed for improving performance
+evaluation
+global stream
+list
+randomly pick
+site performs
+likelihood of the data
+knew that container
+121-142
+queries on correlated
+rate
+design
+addition to the total
+containment relationships from rfid
+sum
+block is labeled
+smooth over containment
+algorithm presented
+compresses
+tags
+truncation method that reduces
+truncation methods with varied
+greater than a threshold
+combating
+model to denote
+compressed
+observing
+minimize the computation
+shelf reader frequency
+single-source directed
+feedback between location
+anomalous events
+unshaded nodes
+shenoy @ cs.umass.edu
+bold numbers
+methods in figure
+terms yields max
+environment
+vary h to study
+search reaches the end
+main body
+weight table
+school of informatics university
+support change point detection
+speed based on table
+focus on passive rfid
+flat
+significantly lower communication costs
+shelf readers had overlapping
+compromising
+started at the entry
+flag
+latent and evidence variables
+iterate these two steps
+object relations
+equation
+personal or classroom
+challenging
+revolutionize areas
+signal processing mag
+advantage
+smooth raw readings
+algorithms
+noisy data from inference
+cleansing
+alternative method for comparison
+bounded independently
+simplicity
+emulate
+work further partitions
+outer query block
+short
+rate for shelf readers
+solve this problem
+optional attributes describing
+memory to hold object
+distributed supply
+number of items
+co-location of three candidate
+developed
+servers or to redistribute
+container c define
+graphically in figure
+maximizes the likelihood
+true location of container
+supply chain management
+information recovery
+half of the warehouse
+streams to answer
+return
+h=500 rr=0.8 smurf rr=0.7
+framework
+rfidbased supply chains
+37th
+flammable
+rates to rise
+extensions of our algorithm
+partitioning the query state
+solution is simply
+increase the latency
+offline
+processing requires additional
+inequality
+ground truth and compute
+contained objects
+food or drug
+set of values
+simple gzip compression
+weight
+migration inference
+seconds error
+deployment than static readers
+smurf cont
+loops
+sensitivity to various noise
+objects believed
+drop fast
+state into the tags
+distributed in scope
+relationships from rfid
+error rates of location
+inference error
+differ
+powerful way to determine
+trace using a single-threaded
+strongly on characteristics
+state of the world
+generate
+posterior probability
+e.g
+65,500
+thingmagic mercury5 readers connected
+alternates between two steps
+rr=0.7 smurf
+traveled
+frequently
+rate of readers
+rfinfer
+distributed environment
+temperature
+t=4 t=3
+passed
+stay true
+store
+amount of on-board memory
+10-minute history
+beginning of the section
+co-located with container
+aims
+queries assume
+containment inference is flat
+data streams to infer
+critical region method
+managing rfid
+tag memory to hold
+respect to the set
+provide similar
+observed the true locations
+noise factors
+algorithm aims to find
+information that is key
+added environmental
+empirically
+unshaded nodes are tags
+finding
+produces an object
+containment to share query
+xtrc |`tc
+treated as simultaneous
+exposed to other food
+measures
+reach
+distribution center employs multiple
+warehouse deployment
+rr=0.7 145,858,950
+effect of smoothing
+probabilistic
+acyclic graph
+unsupervised
+correlated probabilistic streams
+traditional
+raw rfid readings
+true containment relationships
+processor to produce high-quality
+provide timely
+steps of figure
+august 29th
+produce high-quality
+readings and events
+simulating
+size of query state
+migration local proc
+mobile readers for scanning
+enabling stream
+include probabilistic
+efficient query
+containment relationship right
+location nor containment
+state of query processing
+partitioned for individual objects
+region of the object
+algorithm would incur
+query state reduction ratio
+lacks containment
+achieved
+achieves
+arg
+centroid-based sharing
+sampled for each container
+metal objects
+inference over the entire
+numerous
+initially
+lab setup
+colocation history
+real-world settings
+smurf loc
+anytime anywhere.1 we assume
+overhead of transferring
+window-based truncation method
+rates of location inference
+interrogate
+state for the object
+heuristics for containment
+finds
+effective at reducing
+intuitions such as smoothing
+reasons
+differ widely for containment
+algorithm in accuracy due
+java
+enhancements
+due
+location of each container
+scale to 150,000 items
+reduction
+reduced shelf
+change
+prior specific
+details of this study
+transferring
+precision
+step and the locations
+caozhao
+case contains a limited
+demand
+pallet locations whose values
+point algorithm
+posterior distribution qtc
+address distributed
+frozen
+fundamental limitation of rfid
+last equation
+similar benefits
+read rate is due
+true values
+temporal smoothing
+infer a containment relationship
+state of two
+similar query states
+write this probability
+read rates periodically
+similarly define
+lengths
+truncation methods
+maintain computation
+exploit stable containment
+widely
+distributed rfid data management
+query block is labeled
+higher
+query is split
+literature
+belt readings
+containers from recent
+robust
+employs multiple rfid readers
+150,000 items per warehouse
+lower
+site performs inference
+co-location is eco
+inference algorithm
+quantity is the probability
+edge
+warehouse with 32,000
+containment change frequencies
+networks
+optimal f-measure
+strong evidence
+move through a sequence
+settings and design techniques
+error rates of containment
+comprising object
+require access
+block takes
+requires larger sizes
+change-point
+signal processing
+containers would incur
+nonshelf
+containment table
+deployed to measure
+a.1 pseudocode and proof
+accuracy of query results
+enable querying instantly
+separately
+collect
+function that counts
+exploiting
+essential
+computation state transferred
+object is located
+raw rfid data streams
+methods offer high
+containment relations ; set
+frequently co-located containers
+high data volume
+scale to 150,000
+method for comparison
+typically involve object locations
+change frequencies
+values without any extra
+window is considered
+difficult to characterize
+proc
+environments that require
+reader independently interrogates
+obtained since last
+adaptive rfid middleware
+informatics
+observed read
+frequently co-located
+infer containment
+distance function
+c.4 single-site inference
+results are stable
+objects to derive
+range
+includes the readings
+containment relationships to infer
+determine object
+optimizations combined finally reduce
+varying the environmental noise
+rows
+processes this stream
+treated
+frequency to occluding
+removal of noise
+long
+h=500
+running java
+log t=1
+orientation-insensitive
+repeatedly
+23:4255
+computing the container
+inference is highly accurate
+rest of this paper
+reader can read
+deployed
+partitioning
+smoothing approaches
+increase inference
+co-located case is chosen
+amounts
+highlight
+approach to information
+first to employ
+c.5 distributed inference
+shown using real lab
+deployment than static
+history truncation
+system addresses
+propose to truncate
+c.5
+region for inference
+c.3
+low across all traces
+grouped
+single architecture
+truncation in distributed
+generates
+t=1 c=1 ar max
+problems
+needed for future automaton
+meaning
+type of container
+allowing
+87,000 5,273 related
+locations of each container
+rate table
+probability that reader
+local storage
+locations of these objects
+object is typically
+optimizations that improve
+critical region whose size
+converge to a local
+similarly for each object
+belief propagation
+alien
+change-point detection
+vldb endowment
+contributions
+issues
+real traces
+stable
+include
+dramatically
+dramatically reduces the inference
+two different sets
+queries combine sensors streams
+items per container
+on-board memory
+processing on local rfid
+two warehouses
+redistribute
+exit reader
+query state for object
+minimize the inference
+small since each object
+shelf reader
+smaller
+running java hotspot 64-bit
+requires the entire history
+evaluate the basic
+intuition was explained
+cost and enable
+results for single-site
+precision to capture
+accurate inference
+125,895,500
+find
+monitoring and tracking
+describing object properties
+probable the rfid
+object c arg
+semantic foundations and query
+chose
+explore
+entire period
+work on rfid
+readings that occur
+makes use of techniques
+larger
+directed acyclic graph
+leaving
+research contributions
+rfid middleware
+shaded
+varied read rates
+speed of rfid
+state for object
+threshold always approximates
+scales
+expect
+move across sites
+summation
+rfid deployment
+charles sutton
+fee
+figure
+read rates
+container and the tag
+depicted
+smaller size
+expanding
+guestrin
+object is read
+shows the cumulative
+dozens of candidate containers
+factor
+objects index
+final critical region
+binary variable indicating
+methodology based
+antennas
+detects
+relationships based
+introduce any error
+real lab
+containment set
+performs inference and query
+processing in large distributed
+shows the f-measure
+37th international
+proof
+calculation
+raw data
+tag
+tal
+naming service
+counterfeit
+small critical region
+objects move
+amount of state
+read object
+migration methods for distributed
+point evidence of co-location
+hypothesis testing
+dispatched to subsequent
+state sharing
+maximizing over possible change
+iis-0812347
+evidence memorized
+defines the query
+interval between two containment
+computed as p eco
+defines a joint
+room temperature
+fixed to known locations
+approach based on hypothesis
+items in steady state
+lower bound
+entire history of observations
+naturally smoothing
+container and location
+containers with the object
+defines a joint probability
+local tag storage
+rfid-based
+t=1 c=1
+entire history severely penalizes
+missing data
+choose
+readings and the latent
+defining
+optimizations to improve inference
+radio frequency identification
+rfidenabled
+practice
+department of computer science
+seed the computation
+articles
+restrict the set
+tran
+copies are not made
+xtrc x y wco
+variable which takes values
+requirement is to achieve
+deviated
+related
+enabling mechanism for high-level
+chain arranges
+inference in sensor
+small chance a reader
+out
+edge a containment
+computed the error rates
+inference and querying
+query aggregates the retrieved
+performs
+suffices
+offer high accuracy
+model of locations
+query states by storing
+readings of objects
+overlap between readers
+maximum likelihood containment
+objects state
+continuous query
+move from one location
+f-m
+quadratically
+nfer algorithm runs
+query returns
+algorithm that performs
+locations of objects
+intuitively
+location probabilities
+destinations
+unknown
+algorithm have the complexity
+information about object locations
+inferring the containment relationships
+migration for inference
+state while ensuring accuracy
+entire history
+tuple
+shelf
+nodes represent
+procedure signals
+simulate
+provide background
+running cost
+object tracking and monitoring
+shown in table
+csutton @ inf.ed.ac.uk abstract
+limiting
+chose the h size
+difficult to answer
+assumed to be tagged
+granted without fee provided
+physical world
+co-location weight
+causing the cumulative evidence
+entry reader
+deferred cleansing
+experimental setup we developed
+results for single-site inference
+problem differs
+transitioned through the readers
+aims to find
+propose a memorization
+class
+case of high read
+current belief
+adaptive rfid
+make digital or hard
+distribution over the locations
+typical
+based on graphical
+improving accuracy
+numbers indicate the f-measures
+nfer the pseudocode
+minimum set
+optional attributes describing object
+belt that scans
+processing can be performed
+elimination of noisy
+depend on c expanding
+candidates
+local
+error rate of containment
+processes raw data
+data archival
+location and containment information
+integrating data cleans
+error on containment
+algorithm first
+tracking and monitoring applications
+pallets arrive
+varied tag
+monitoring query is registered
+window-based
+queries
+processing for scalability
+requirement
+location `tc
+object locations
+rfid streams
+module
+a.4
+noisy due
+central location
+truncating
+a.2
+state sharing yields
+single object
+closer
+monitoring systems grow
+wco for each object
+incurring significantly lower communication
+identification
+ability
+variable xtrc
+location for query
+experiment and simulations
+hypothesis
+yields max
+item with its candidate
+containment correctly
+implementation and optimizations
+computation above is simply
+change-point statistic
+enabling mechanism
+appendix a.1
+location nor containment inference
+pallet injection
+environments
+packaging
+truncation in distributed processing
+sequences
+respect
+stores the posterior
+appendix c by default
+rates and significant
+centralized approach
+types of continuous queries
+collected from multiple
+offers
+inference accuracy and communication
+describe the algorithm
+pick the case
+shipping the query state
+important quantity
+high-level information
+sensitive to the overlap
+sufficient
+ensuring
+varied the container
+improved
+present
+inference our inference
+accuracy for lower read
+additional mechanisms
+queries and minimum
+current automaton state
+enable anytime
+rates are low
+sample from the probability
+object event stream describing
+check is needed
+improve the m-step
+container-object
+set of locations
+error rate low
+improves
+accurately determine
+difficult
+algorithm is highly accurate
+global query processing requires
+makes inference
+introduce
+infer containment relationships
+incur high
+existing stream
+stores the container
+handle the noisy
+unpacked
+infer object
+monitoring queries relevant
+tags provide similar
+infer object location
+obtain
+techniques we employ include
+shelves and repackaged
+method makes inference
+number of locations
+accurate than s murf
+supply
+adoption
+test the scalability
+conditional probability
+describe additional experimental
+unprecedented
+`to be the true
+identical
+transfer overhead
+optimize performance
+term
+measure whether the observed
+basic inference algorithm
+ing with query processing
+intuitively by adding
+false container
+minimum set of values
+enhancements of rfinfer
+differ widely
+drop
+speed of rfid streams
+sequence
+algorithm aims
+objects are co-located
+possibilities
+hard copies
+inference algorithm presented
+change point detection extension
+general approach
+heuristics for containment inference
+locate
+system is in steady
+containment relationships from history
+scan resident objects
+migration by shipping
+rare
+extension
+shipping
+sites and millions
+flag the same change
+85,510
+avoids unnecessary
+detect various conditions
+real containers
+data management system
+t=t0
+transfer
+current window
+improve the performance
+smoothing
+restrict the change
+present the design
+minutes using a 10-minute
+lab rfid deployment
+discussed in section
+volume
+method first
+computed in our containment
+larger recent history
+inherently noisy due
+iterates
+made
+distributed query
+post on servers
+sensitivity of these methods
+inference module that translates
+indicating whether object
+thingmagic mercury5
+demonstrate
+describe a history
+murf algorithm
+matures for large
+co-located
+packed onto a pallet
+measured f-measures
+frozen food or drug
+requiring the entire
+electronic identification
+problem makes
+support global tracking
+container based
+achieves a linear
+inherently
+current estimates
+relationship between items
+finkenzeller
+incurred
+representative query
+counts the number

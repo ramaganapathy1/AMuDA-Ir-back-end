@@ -1,0 +1,607 @@
+RF Vision: RFID Receive Signal Strength Indicator (RSSI) Images for
+Sensor Fusion and Mobile Manipulation
+Travis Deyle1 , Hai Nguyen1 , Matt Reynolds2 , and Charles C. Kemp1
+1 Healthcare
+2 Department
+
+Robotics Lab, Georgia Institute of Technology, USA
+of Electrical and Computer Engineering, Duke University, USA
+
+Abstract— In this work we present a set of integrated
+methods that enable an RFID-enabled mobile manipulator to
+approach and grasp an object to which a self-adhesive passive
+(battery-free) UHF RFID tag has been affixed.
+Our primary contribution is a new mode of perception that
+produces images of the spatial distribution of received signal
+strength indication (RSSI) for each of the tagged objects in an
+environment. The intensity of each pixel in the ‘RSSI image’
+is the measured RF signal strength for a particular tag in the
+corresponding direction. We construct these RSSI images by
+panning and tilting an RFID reader antenna while measuring
+the RSSI value at each bearing. Additionally, we present a
+framework for estimating a tagged object’s 3D location using
+fused ID-specific features derived from an RSSI image, a
+camera image, and a laser range finder scan.
+We evaluate these methods using a robot with actuated,
+long-range RFID antennas and finger-mounted short-range
+antennas. The robot first scans its environment to discover
+which tagged objects are within range, creates a user interface,
+orients toward the user-selected object using RF signal strength,
+estimates the 3D location of the object using an RSSI image
+with sensor fusion, approaches and grasps the object, and uses
+its finger-mounted antennas to confirm that the desired object
+has been grasped.
+In our tests, the sensor fusion system with an RSSI image
+correctly located the requested object in 17 out of 18 trials
+(94.4%), an 11.1% improvement over the system’s performance
+when not using an RSSI image. The robot correctly oriented
+to the requested object in 8 out of 9 trials (88.9%), and in 3
+out of 3 trials the entire system successfully grasped the object
+selected by the user.
+
+I. I NTRODUCTION
+Radio frequency identification (RFID) is an umbrella
+term for a variety of transponder systems, including active
+(battery-powered) and passive (battery-free) tags of widely
+varying complexity and capabilities. In this work we concentrate on simple, low-cost passive UHF RFID tags, often
+called “smart labels,” based on the widely adopted EPC
+Global Generation 2 communication protocol [1]. Currently
+available passive UHF RFID tags are battery-free, with a read
+range exceeding 5 meters and data storage capacities ranging
+from 128 bits to over 1K-bit. They currently cost less than
+$0.10 USD in volume. To date, RFID tags have typically
+been used in a purely binary fashion, returning tag IDs for
+each tag in range, or indicating that no tag was found. Prior
+work has shown how this binary tag sensing modality can
+be used to improve robot localization, mapping, navigation,
+and unique object detection.
+
+Fig. 1. The mobile manipulator, “EL-E” with two articulated, long range
+RFID antennas (top) and short-range near-field RFID antennas on the end
+effector (bottom).
+
+Recent work has shown that there is valuable information
+present in the tag’s RF signal itself, beyond the tag ID [2].
+In our prior work, we have used estimates of received signal
+strength from passive RFID tags to inform robotic behaviors,
+both in the context of servoing an RFID-enabled robot toward
+a tagged object [3] and estimating a tag’s position relative
+to the robot via particle filtering [4]. Here we present a new
+method for RFID-based sensing that uses the receive signal
+strength indication (RSSI) to form an RSSI image that can
+
+II. R ELATED W ORK
+
+Fig. 2. Method for producing a maximum-likelihood 3D point estimate
+for the location of an RFID-tagged object
+
+be fused with 2D images from a co-located camera and 3D
+point clouds from a co-located scanning laser range finder.
+We also show that the unique ID of a tag can be associated
+with perceptual characteristics of the object to which it is
+affixed, which in turn can facilitate object detection with this
+fused image. By combining the camera image, laser range
+finder scan, RSSI image, and object-specific data associated
+with this unique tag ID, our method is able to efficiently
+produce an estimate of the 3D location of a selected tagged
+object.
+We have tested this approach in an object fetching application with EL-E, the autonomous mobile manipulator shown
+in Figure 1. In our tests, the robot first scans its environment
+to enumerate the tagged objects are in the environment.
+Based on the tag responses from the enumerated tagged
+objects, the robot then constructs a user interface from which
+the user can select an object to be fetched.
+After selection, the robot servos its orientation such that
+the tagged object of interest is visible by both its camera
+and laser scanner. The servoing process maximizes the RSSI
+obtained from two long-range, actuated antennas reading the
+selected tag. The robot then constructs an RSSI image by
+panning and tilting one of these antennas and recording
+the RSSI signal for each bearing in terms of azimuth and
+elevation. The robot also captures an optical image with
+a calibrated color camera and a range scan using a tilting
+laser range finder. Each sensor’s output is geometrically
+transformed to produce an output as a function of bearing
+in the robot’s reference frame, so it is straightforward to
+fuse these three data sets into a single data set indexed by a
+single {azimuth, elevation} bearing pair. Additional features
+associated with each tagged object that have been associated
+with the tag’s unique ID are read from a database and used
+to aid in finding the object in the fused image. This process
+results in a 3D estimate of the object’s location, which the
+robot uses to approach and grasp the object using a system
+we have previously described [5], [6].
+
+A wide variety of research has been conducted on the
+application of RFID technology to robotics. This includes
+RFID-enhanced interaction between robots and tagged people and objects, such as that described in [7], where tags
+facilitate person/object identification. There is also a great
+deal of prior work in RFID augmented indoor navigation
+[8], where tags are used as either a waypoint navigation and
+landmarking system [9], or more commonly as a component
+of a robot’s localization and mapping system. Several recent works employ long-range passive UHF (902-928MHz)
+RFID, in addition to laser rangefinders and odometry, as
+sensor inputs to a probabilistic SLAM algorithm, for example
+[10]. In these prior results, the RFID system only reports the
+tag IDs of visible RFID tags, or indicates that no tag is found.
+In contrast, our work explicitly takes advantage of RF signal
+information.
+An alternative RFID-enhanced navigation approach uses
+short-range (≈1m) magnetically coupled passive RFID tags
+[11] to detect when robots pass above tagged waypoints.
+Again, however, a binary indication of tag presence or
+absence is all that is reported by the RFID system. Recent
+work in active (battery-powered) tagging [12] demonstrates
+navigation to a relatively expensive, battery powered target
+tag in a cluttered environment. In the latter work, a mechanically rotating reader antenna with a deep null in its radiation
+pattern is used to find bearings from the reader to the active
+tag. Other complex or expensive tag-centric antenna design
+techniques have also been explored to find range and bearing
+[13].
+Numerous RFID tag localization approaches have been
+considered, including binary (read / no-read) histogram techniques [10] and RSSI techniques employing both histograms
+and sensor models, [2] and [4] respectively. While localization methods that estimate range and bearing posteriors may
+yield volumetric regions of interest, these methods tend to
+marginalize over the entire robot trajectory. We believe a
+compelling, potentially complementary, approach is to create
+2D “images” of RF signal properties at a fixed robot location
+to provide valuable insights into the otherwise invisible RF
+world. To this end, we introduce RSSI images, shown in
+Figure 3, which capture the RSSI signal characteristics as
+a function of bearing (azimuth and elevation) in a manner
+analogous to an optical camera’s visible light images.
+In the fields of computer vision and augmented reality,
+there are many examples of systems that employ identifying
+fiducials, such as optical tags, coupled with a perceptual
+database. For example, QR codes have been used for both
+identification and 6DOF estimation for a manipulation task
+[14], while RFID tags have also been used in a database
+approach to identify perception and action primitives in a
+scene [15].
+This work is differentiated in several ways: First, we
+believe this work to represent the first use of RSSI images as a distinct sensing modality. Further, we describe a
+probabilistic framework for sensor fusion, employing object-
+
+Fig. 3. Three camera images (top row) and corresponding blurred RSSI
+images (bottom row) of a tagged red bottle (marked with red box) as the
+bottle is moved from left to right across the scene. The strongest RSSI is
+depicted in red and corresponds with the location of the bottle in the images.
+
+centric features extracted from a database as indexed by the
+unique tag ID. Additionally, we demonstrate a user interface
+that allows users to select tagged objects from those present
+in the environment. Finally, we employ this framework to
+create a system capable of performing mobile manipulation
+of tagged objects.
+III. RSSI I MAGES
+Recent advances in RFID reader technology have made
+RF signal properties such as the Receive Signal Strength
+Indication (RSSI) available as metadata for each tag read
+by the reader. In its most basic form, RSSI is a scalar
+measurement of the tag’s RF signal power as received at
+the reader. For example, we employ a ThingMagic Mercury
+5e RFID reader which returns an RSSI value that is linearly
+related to received power in dBm. The raw reported RSSI
+value ranges from 70 to 100 units, though it saturates with
+very strong tag responses at a value of ≈ 105. Many system
+implementation and environmental factors affect the absolute
+value of the RSSI reported for a particular tag. We are
+primarily interested in RSSI variation with distance and
+bearing to each tag, but system implementation parameters
+such as transmit power, reader antenna characteristics, tag
+antenna characteristics also influence the absolute value of
+RSSI. In our work these system parameters are fixed, and do
+not vary with tag range and bearing. The RF properties of
+the robot’s environment including occlusion, multipath, and
+interference are difficult to model and can also be significant,
+but we have found that they need not be modeled for nearby
+tags where line-of-sight propagation is dominant.
+To construct an RSSI image, one of the robot’s two long
+range, far-field RFID antennas is positioned in front of the
+robot, placing it approximately coincident with the tilting
+laser rangefinder and camera. The antenna is panned and
+tilted through azimuth and elevation angles while recording
+RSSI readings associated with a desired tag ID. A single
+slice of the radiation pattern for the antenna we employ,
+the Cuschcraft S9028PC circularly polarized patch antenna,
+is illustrated in Figure 4. This antenna has horizontal and
+vertical half-power beamwidths of ≈ 60◦ . This antenna
+beamwidth is the limiting factor in the precision of this
+sensor; advances in digitally scanned array antennas could
+
+Fig. 4. A 2D slice of Cushcraft S9028PC antenna radiation pattern in polar
+format, with pan angle varying at a fixed tilt angle of 0◦ . Peak antenna gain
+is ≈ 6.5dBi with a half-power beamwidth of ≈ 60◦ .
+
+produce higher resolution images much faster than the pantilt mechanical scanning we are currently using. The resulting
+RSSI values are then mapped into a single image, roughly
+corresponding to a camera image. Next, the raw image is
+smoothed using a Gaussian filter with a standard deviation
+of 45 pixels, corresponding to ≈ 7◦ of pan or tilt. Lastly, the
+intensity values of the RSSI image are scaled to occupy the
+range [0.0, 1.0].
+IV. S ENSOR F USION
+The goal of our approach to sensor fusion is to combine
+the RSSI image for a particular tagged object ID with objectspecific features extracted from other sensing modalities. We
+provide a probabilistic framework for fusing these sensing
+modalities and associated features to produce a single maximum likelihood 3D location that is used by the mobile
+manipulation system to retrieve the tagged object.
+A. Registering the Sensors
+In this work, we consider the output of three approximately coincident sensors with overlapping fields of view:
+the RSSI image, a low resolution (640x480) camera image
+from a rectified camera, and a 3D point cloud from a
+tilting laser rangefinder. In order to fuse the output of these
+three sensors, we first geometrically register them with one
+another. We accomplish this by transforming both the RSSI
+image and the 3D point cloud into the camera image.
+For the 3D point cloud, we estimated the 6DOF transformation from the laser rangefinder to the camera by hand
+measurements, and then refined this estimate using visualization software that displays the transformed 3D point cloud
+on the corresponding camera image. Transforming the 3D
+point cloud results in a range image, Irange (x, y), that is
+registered with the camera image, Icam (x, y).
+For the RSSI image, we first convolve the raw RSSI
+image with a Gaussian, G(φ, θ) ∗ RSSIraw (φ, θ), and then
+scale the resulting values to occupy the range [0.0, 1.0]. We
+then transform the resulting smoothed RSSI image into the
+
+camera image with a simple linear interpolation based on
+hand measured correspondences between the RFID antenna’s
+azimuth and elevation, (φ, θ), and the camera’s pixels, (x, y).
+This results in the registered RSSI image, Irssi (x, y), as
+shown in Figure 3. Given the low spatial resolution of our
+current RSSI images and the near coincident location of
+the camera and antenna, this transformation is effective.
+However, we expect that more accurate registration would
+improve system performance.
+B. Inferring a Tag’s 2D Image Location
+The fused image I consists of a set of n feature images
+I0 ...In , where each feature image Ii represents the spatially
+varying value of feature Fi . We model each of these features
+as being generated with some probability pfi |tag (Fi , True),
+if a tag is at the bearing associated with the location. If a tag
+is not at the bearing associated with the location, we model
+the probability of a given feature value as pfi |tag (Fi , False).
+We further model these feature values as being conditionally
+independent given the presence or absence of the tag at
+the bearing associated with the location, and as independent
+from one another. Given these assumptions, we can find the
+probability that a tag is at a given location using Bayes’ rule:
+
+ptag|f0 ...fn (V, F0 ...Fn ) =
+
+Qn
+=
+
+i=1
+
+pf0 ...fn |tag (F0 ...Fn , V )ptag (V )
+pf0 ...fn (F0 ...Fn )
+(1)
+
+
+pfi |tag (Fi , V ) ptag (V )
+Qn
+i=1 pfi (Fi )
+
+= ptag (V )
+
+(2)
+
+n
+Y
+pfi |tag (Fi , V )
+i=1
+
+(3)
+
+pfi (Fi )
+
+We assume a uniform prior on the position of each tag,
+ptag (V ). Assuming independence of the feature vectors for
+each
+x, y location of the fused image I, pimage (I) =
+Q
+pf0 ...fn |tag (I(x, y), V (x, y)). And,
+pfi (Ii (x, y)) = pfi |tag (Ii (x, y), True) +
+
+(4)
+
+pfi |tag (Ii (x, y), False).
+The maximum likelihood (ML) estimate of the location of
+the tag is then
+(
+argmaxx,y
+
+n
+Y
+pfi |tag (Ii (x, y), True)
+
+i=1
+
+pfi (Ii (x, y))
+
+)
+.
+
+(5)
+
+The result of this argmax operation selects a pixel,
+(xml , yml ), in the fused image. In the subsequent section,
+we will show how this pixel may be mapped into the 3D
+point cloud produced by the tilting laser range finder to
+produce a single maximum-likelihood 3D location for the
+tagged object. This interaction is illustrated in Figure 2.
+
+C. Inferring a Tag’s 3D Location
+In order to effectively apply this method of probabilistic inference, we select discriminative feature(s) from each
+sensing modality. The selection of discriminating features
+could employ feature sets, models, and / or training data
+available from a database indexed by the tag’s ID. In
+this work, we consider three features indexed by tag ID.
+First, the feature from the RSSI image consists of the
+RSSI value from Irssi (x, y). The associated probabilities,
+prssi|tag (RSSI, True) and prssi|tag (RSSI, False), were obtained as a histogram from 60 hand-labeled ground-truth
+observations as shown in Figure 5. From the camera image, we employed color histograms as the visual feature.
+We selected color histograms for their simplicity. Other
+visual features could be integrated into this framework and
+may be more discriminative. For the color histogram, the
+object probability, pcolor|tag (Icam (x, y), True), is obtained
+from an image of the tagged object stored in the tagindexed database. Meanwhile, the non-object background
+probability, pcolor|tag (Icam (x, y), False), is generated from
+a color histogram accumulated over the set of images of the
+environment collected during navigation.
+For the laser, there are many candidate features, from spin
+images [16] to 3D segmentations as applied in our previous
+work [17]. In this work we have treated the laser as a special
+case, where point 3D (p3d) features are used to produce a
+binary mask on the image:
+
+pp3d|tag (P 3D, V )
+1.0
+P3D ∈ laser scan
+=
+0.0
+¬P 3D ∈ laser scan
+pp3d (P 3D)
+This ensures that any pixel selected by argmaxx,y produces a direct mapping to a valid 3D location based on laser
+range scans. After all three sensor images are fused, the
+maximum likelihood pixel is selected, and the corresponding
+3D location from the laser is chosen. A montage showing this
+method is shown in Figure 6.
+V. M OBILE M ANIPULATION S YSTEM
+The fused sensor image is incorporated as follows into
+the mobile manipulation system. The robot first uses the
+RFID antennas to scan the environment for tagged objects
+in the environment. The object names associated database
+images corresponding to each tag ID are presented to a
+remote user via the graphical user interface shown in Figure
+7. The user can select an object from an array of database
+photos, indexed by the observed tag ID of each tagged object.
+After the user selects a tagged object, the robot estimates
+a bearing to the tag of interest. The robot rotates to that
+bearing, placing the object within the other sensors’ field
+of view. The robot proceeds by performing sensor fusion
+as previously described, which results in a 3D estimate of
+the object’s location. The robot then uses the 3D estimate
+of the object’s location to approach and grasp the object
+using an overhead grasp with methods we have previously
+described [5], [6], [17]. Finally, after the grasp attempt is
+completed, the RFID antennas in the robot’s end effector
+(see Figure 1) are used to determine success or failure by
+
+Fig. 6. Intermediate steps to selecting a beverage bottle. From top to bottom, left to right: The desired object, the raw camera image with the bottle
+highlighted, the camera probability image, the RSSI probability image, the intermediate fusion result, the laser rangefinder “mask” probability (shown as
+white points in the image), the selected pixel in red, and the projection of this pixel back into the 3D laser rangefinder data. Note: In this example, the
+fused result is correct, while the color histogram alone is ambiguous and yields an incorrect result.
+
+Fig. 7. Dynamically generated user interface presenting a menu of tagged
+objects available to be grasped by the robot.
+
+Fig. 5.
+RSSI feature probability distributions determined from 60
+hand-labeled training examples. prssi|tag (RSSI, True) is on the top;
+prssi|tag (RSSI, False) is on the bottom.
+
+confirming the tag ID of the object being grasped. In our
+experimental work thus far, we classify experimental trials
+as successes or failures depending on whether the correct
+object is successfully grasped.
+A. Bearing Estimation
+In order to successfully fuse images from multiple sensors,
+the robot must servo its pose so that the field of view of
+all sensors includes the desired object. In previous work we
+rotated the robot toward the tagged object by maximizing
+selected-tag RSSI from an antenna mounted at a fixed pose
+on the robot [3]. In the present work the pan/tilt antennas
+mounted on the robot permit keeping the robot in a fixed
+position while scanning only the RFID antennas. The RSSI
+values from the two pan/tilt antennas are combined to form
+a dataset of RSSI versus robot bearing. We obtain the
+bearing from the robot to the tag by fitting to a secondorder exponential parameterized by [α, µ, σ, β]T using least
+squares:
+n
+o
+2
+argmaxx α · e−(x−µ) /σ + β
+(6)
+This operation is shown graphically in Figure 8. The bearing process is repeated twice to account for the uncertainty
+behind the robot where the articulated antennas cannot sense
+tags due to mechanical interference with the robot’s body.
+
+Fig. 8. RSSI readings from the two antennas (in this instance, the left
+antenna had no reads) fitted with a 2nd order exponential function. The
+argmax{θ} from this fit is the estimated bearing to the tagged object.
+
+VI. R ESULTS
+A. Evaluating 3D Location Estimation
+We performed a number of tests of the sensor fusion
+system’s accuracy when estimating tagged object locations in
+3D. For our test scenario, we chose three objects with distinct
+color histograms: a red water bottle, a blue medication box,
+and an orange disposable beverage bottle, shown in the top of
+Figure 9. We chose two cluttered but unobstructed scenes and
+three locations (shown in Figure 9) within each scene where
+each of the three objects was tested, resulting in a total of
+18 3D location estimation trials. The algorithm from Figure
+6 was executed for each trial and was deemed successful if
+the 3D point derived from the fused image belonged to the
+desired object. The 3D location estimation was successful in
+17 of the 18 trials (94.4%), with the only failure occurring
+for the orange disposable drink bottle due to a proximal
+orange distractor in the color histogram image. It is worth
+noting that the success rate without the RSSI image on the
+same dataset was 15 of 18 (83.3%); thus, incorporation of
+the RSSI image resulted in an 11.1% improvement in the
+system’s performance.
+
+Fig. 9. Three test objects: red water bottle, blue medication box, and
+orange disposable bottle (top). The two scenes and their three associated
+object placement locations are indicated. The sole failure occurred when the
+orange disposable bottle was placed in the upper-right placement location
+in the bottom scene.
+
+Fig. 10. Three different bearing estimation scenarios, with object locations
+highlighted. Bearing estimation was attempted for all three objects, each in
+the three different locations (9 total attempts). In 8 of 9 instances, the robot
+correctly achieved a bearing that placed the tagged object in the fused sensor
+image.
+
+B. Evaluating Bearing Estimation
+We tested bearing estimation in 3 different positions, for
+the same three objects used in the fused image experiments.
+The bearing estimation cases, illustrated in Figure 10 where
+successful in 8 of 9 trials (88.9%), where success was defined
+by halting with the desired object within fused image’s field
+of view.
+C. Evaluating Mobile Manipulation
+We performed three tests of the entire mobile manipulation
+system. In all three trials, the robot successfully grasped the
+correct object and verified the ID of the object post-grasp
+using the RFID antennas in the manipulator (see Figure 1).
+VII. L IMITATIONS AND F UTURE W ORK
+The methods we propose have a variety of limitations
+which may be mitigated in future work. The performance
+of RFID tags can vary considerably depending on their
+orientation, the materials composing the object, and the RF
+properties of the environment (e.g., transmission, absorption,
+
+reflection, multipath interactions, etc.). We expect that issues
+with orientation and some forms of environmental obstruction can be mitigated by affixing multiple tags to the same
+object, or by using recently-developed UHF RFID tags with
+improved omnidirectional performance. Recently developed
+UHF RFID tags have also been introduced for challenging
+object materials, including metal objects which would not
+work well with the tags we used in our experiments.
+Faster methods to acquire scanned RFID data, including
+digitally scanned antenna arrays, would have a variety of
+advantages, including the ability to handle dynamic environments and make additional estimates from different
+perspectives. We expect that flash LIDAR “range cameras”
+and digitally scanned RFID antenna arrays could achieve performance at rates that are comparable to conventional video
+camera framerates. Being able to quickly make additional
+estimates from various perspectives would be advantageous
+for overcoming environmental RF issues and could be inte-
+
+R EFERENCES
+
+Fig. 11. Two camera images (top row) and corresponding Gaussian-filtered
+RSSI images (bottom row) of a tagged bottle inside the top drawer of a
+wooden cabinet being moved from left to right. The strongest RSSI signals
+are depicted in red and correspond with the location of the bottle in the
+images.
+
+grated into 3D estimation techniques related to our previous
+work on particle filters [4].
+The choice of discriminating features for each sensing
+modality is critical to the robustness of the system. In
+this work we used color histograms as a straightforward
+example, but an unfavorable environment could easily lead to
+confusion. For future work, we plan to incorporate additional
+descriptive features from the various sensing modalities.
+Further, as shown in Figure 11, the RSSI is informative
+even when the remaining sensors cannot perceive the desired
+object. We believe this represents an interesting avenue for
+further research.
+VIII. C ONCLUSIONS
+We have presented an integrated set of methods that enable
+a mobile manipulator to grasp an object to which a selfadhesive UHF RFID tag has been affixed. Among other contributions, we have introduced the use of RSSI images to help
+detect and localize tagged objects, along with a framework
+for estimating a tagged object’s 3D location using a fused
+sensory representation and sensory features associated with
+the unique identifier obtained from the object’s RFID tag.
+We evaluated our methods using a robot that first scans
+an area to discover which tagged objects are within range,
+creates a user interface, orients to the user-selected object
+using RF signal strength, estimates the 3D location of the
+object using an RSSI image with sensor fusion, approaches
+and grasps the object, and then uses its finger-mounted
+antennas to confirm that the desired object has been grasped.
+This work demonstrates that RFID-based perception has
+the potential to become integral to all aspects of mobile
+manipulation including the discovery of what objects are
+available, the production of customized user interfaces, the
+navigation of the robot to objects, and the manipulation of
+objects.
+
+[1] EPC Global US, “Class 1 Generation 2 UHF RFID protocol for operation at 860MHz-960MHz, version 1.0.9,” Available online,
+http://www.epcglobalus.org/.
+[2] D. Joho, C. Plagemann, and W. Burgard, “Modeling RFID Signal
+Strength and Tag Detection for Localization and Mapping,” in IEEE
+international conference on robotics and automation, 2009.
+[3] T. Deyle, C. Anderson, C. C. Kemp, and M. S. Reynolds, “A
+foveated passive UHF RFID system for mobile manipulation,” Intelligent Robots and Systems, 2008. IROS 2008. IEEE/RSJ International
+Conference on, pp. 3711–3716, 2008.
+[4] T. Deyle, C. C. Kemp, and M. S. Reynolds, “Probabilistic UHF
+RFID tag pose estimation with multiple antennas and a multipath RF
+propagation model,” Intelligent Robots and Systems, 2008. IROS 2008.
+IEEE/RSJ International Conference on, pp. 1379–1384, 2008.
+[5] Y. S. Choi, C. D. Anderson, J. D. Glass, and C. C. Kemp, “Laser pointers and a touch screen: Intuitive interfaces to an autonomous mobile
+robot for the motor impaired,” in ACM SIGACCESS Conference on
+Computers and Accessibility, 2008.
+[6] H. Nguyen, C. D. Anderson, A. J. Trevor, A. Jain, Z. Xu, and C. C.
+Kemp, “El-e: An assistive robot that fetches objects from flat surfaces,”
+in Robotic Helpers, Int. Conf. on Human-Robot Interaction, 2008.
+[7] M. Shiomi, T. Kanda, H. Ishiguro, and N. Hagita, “Interactive
+humanoid robots for a science museum,” in Proceedings of ACM
+SIGCHI/SIGART Conference on Human-Robot Interaction.
+New
+York, NY, USA: ACM, 2006, pp. 305–312.
+[8] O. Kubitz, M. Berger, M. Perlick, and R. Dumoulin, “Application
+of radio frequency identification devices to support navigation of
+autonomous mobile robots,” in Proceedings of IEEE 47th Vehicular
+Technology Conference, vol. 1, 4-7 May 1997, pp. 126–130.
+[9] V. Kulyukin, C. Gharpure, J. Nicholson, and S. Pavithran, “RFID in
+robot-assisted indoor navigation for the visually impaired,” in Proceedings of IEEE/RSJ International Conference on Intelligent Robots
+and Systems, vol. 2, 28 Sept.-2 Oct. 2004, pp. 1979–1984.
+[10] D. Hahnel, W. Burgard, D. Fox, K. Fishkin, and M. Philipose,
+“Mapping and localization with RFID technology,” in Proceedings of
+IEEE International Conference on Robotics and Automation, vol. 1,
+26 April-1 May 2004, pp. 1015–1020.
+[11] V. Ziparo, A. Kleiner, B. Nebel, and D. Nardi, “RFID-based exploration for large robot teams,” in Proceedings of IEEE International
+Conference on Robotics and Automation, 10-14 April 2007, pp. 4606–
+4613.
+[12] M. Kim, H. W. Kim, and N. Y. Chong, “Automated robot docking
+using direction sensing RFID,” in Proceedings of IEEE International
+Conference on Robotics and Automation, 10-14 April 2007, pp. 4588–
+4593.
+[13] Se–gon Roh, Y. H. Lee, and H. R. Choi, “Object recognition using
+3D tag-based RFID system,” in Proceedings of IEEE/RSJ International
+Conference on Intelligent Robots and Systems, Oct. 2006, pp. 5725–
+5730.
+[14] R. Katsuki, J. Ota, Y. Tamura, T. Mizuta, T. Kito, T. Arai, T. Ueyama,
+and T. Nishiyama, “Handling of objects with marks by a robot,”
+Intelligent Robots and Systems, 2003. (IROS 2003). Proceedings. 2003
+IEEE/RSJ International Conference on, vol. 1, pp. 130–135 vol.1, Oct.
+2003.
+[15] N. Y. Chong, H. Hongu, K. Ohba, S. Hirai, and K. Tanie, “A distributed
+knowledge network for real world robot applications,” Intelligent
+Robots and Systems, 2004. (IROS 2004). Proceedings. 2004 IEEE/RSJ
+International Conference on, vol. 1, pp. 187–192 vol.1, Sept.-2 Oct.
+2004.
+[16] A. Johnson and M. Hebert, “Using spin images for efficient object
+recognition in cluttered 3d scenes,” Pattern Analysis and Machine
+Intelligence, IEEE Transactions on, vol. 21, no. 5, pp. 433–449, May
+1999.
+[17] A. Jain and C. C. Kemp, “Behavior-based door opening with equilibrium point control,” in RSS Workshop: Mobile Manipulation in Human
+Environments, 2009.
+
+

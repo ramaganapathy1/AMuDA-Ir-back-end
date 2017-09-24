@@ -1,0 +1,818 @@
+An Analysis of the Accuracy of Bluetooth Low
+Energy for Indoor Positioning Applications
+R. Faragher, University of Cambridge, UK;
+R. Harle, University of Cambridge, UK
+
+Ramsey Faragher
+Ramsey Faragher is a Senior Research Associate at the
+University of Cambridge working on GNSS-denied
+positioning, sensor fusion and machine learning. He is
+also a Fellow of the Royal Institute of Navigation, an
+Associate Editor of the institute’s journal, and a Bye
+Fellow of Queens’ College, Cambridge. Previously he
+was a Principal Scientist at the BAE Systems Advanced
+Technology Centre where he developed the NAVSOP
+opportunistic positioning suite and other GNSS-denied
+tracking technologies. In 2009 Faragher won the BAE
+Systems Early Career Engineer of the Year award for
+developing NAVSOP. Faragher has also been the
+recipient of Best Paper in Track and Best Presentation
+awards at previous ION conferences.
+Robert Harle
+Robert Harle is a Senior Lecturer at the University of
+Cambridge and Fellow of Downing College, Cambridge.
+His research interests in indoor positioning, sensor fusion,
+and wireless sensor networks. He has worked on indoor
+positioning since 2000, developing a series of
+infrastructure-based and infrastructure-free solutions.
+ABSTRACT
+This study investigated the impact of Bluetooth Low
+Energy devices in advertising/beaconing mode on
+fingerprint-based indoor positioning schemes. Early
+experimentation demonstrated that the low bandwidth of
+BLE signals compared to WiFi is the cause of significant
+measurement error when coupled with the use of three
+BLE advertising channels. The physics underlying this
+behaviour is verified in simulation. A multipath
+mitigation scheme is proposed and tested. It is determined
+that the optimal positioning performance is provided by
+10Hz beaconing and a 1 second multipath mitigation
+processing window size. It is determined that a steady
+increase in positioning performance with fingerprint size
+occurs up to 7 ±1, above this there is no clear benefit to
+extra beacon coverage.
+
+I.
+
+INTRODUCTION
+
+The introduction of low-cost, low-power Bluetooth Low
+Energy (BLE) beacons for proximity detection also
+provides a new signal of opportunity with which to
+perform more fine-grained positioning. This paper
+provides a comparison of WiFi and BLE fingerprinting
+with representative hardware in a large indoor space with
+a highly-accurate (3 cm in 3D at 95% confidence)
+ultrasonic ground truth referencing system.
+Indoor positioning systems based on WiFi fingerprinting
+schemes [1, 2, 3] are now well established due to the
+ubiquity of WiFi signals and are known to provide
+positioning accuracy of a few metres given a wellsurveyed environment and dense WiFi coverage.
+However, access points are rarely deployed with the ideal
+density and geometry for positioning, and WiFi is a
+power-hungry protocol. Bluetooth Low Energy (BLE)
+uses the same 2.4 GHz ISM radio band as WiFi, and
+addresses many of these shortcomings. It was designed
+primarily as a short range energy-efficient machine-tomachine communication protocol characterised by very
+short messages with minimal overhead. The standard
+defines many core capabilities, including simple
+proximity sensing. Targeted advertising and simple “nearme” applications are already exploiting these capabilities.
+However for most traditional indoor positioning
+applications such as asset tracking, route guidance,
+unrestricted navigation and rapid localisation, the indoor
+positioning system needs to be available at every possible
+location within the environment, not just when in close
+proximity to BLE beacons. Therefore the impact on
+unrestricted indoor positioning of introducing BLE
+beacons into an environment needs to be assessed to
+determine whether BLE can have a significant impact on
+solving the larger “indoor GPS” problem.
+Bluetooth Low Energy
+Bluetooth Low Energy [4] devices operate in the 2.4 GHz
+licence-free band, and so share the same indoor
+propagation characteristics as 2.4 GHz WiFi transceivers.
+The beaconing, or advertising mode, permitted in the
+BLE standard enables a very short, unsolicited message at
+very flexible update rates. These messages can be used to
+allow a device to detect close proximity to a specific
+location based on the Received Signal Strength (RSS). In
+
+this way, location specific triggers, adverts, vouchers and
+information can be provided to the user.
+BLE advertising beacons are particularly attractive to
+retailers because of the promise of long battery lives of
+many years, and so low maintenance requirements. Long
+battery lives are expected to require low radio power
+output and/or low beaconing rates. While this does not
+affect their use for proximity detection it does affect their
+usefulness for providing fingerprint-based positioning
+throughout an entire indoor environment.
+Fingerprinting
+Fingerprinting is currently the state-of-the-art indoor
+positioning scheme readily available on standard
+smartphones. A fingerprint refers to the pattern of radio
+signal strength measurements recorded at a given location
+in space and consists of a vector of signal identity
+information (such as cellular Cell-IDs, or WiFi MAC
+addresses) and a corresponding vector of Received Signal
+Strength (RSS) values.
+Typically WiFi signals alone provide the fingerprints, but
+cellular measurements and data from a magnetometer can
+also be used [5]. WiFi signals exhibit greater dynamic
+range and anisotropy throughout a building than the RSS
+from the external, and often very distant, signal sources
+such as the cellular network. Magnetometer data provide
+a high dynamic range on a very fine scale but can only
+provide a single contribution to the fingerprint vectors,
+which will be dominated by the many WiFi and cellular
+measurements available in a typical metropolitan indoor
+environment.
+
+of course also the case for BLE (see Figure 1) as both
+technologies operate at 2.4 GHz.
+II.
+
+BLE RANGING PRECISION
+
+One of the simplest ways to achieve metre-level accuracy
+in specific zones is by a proximity measurement. The
+measurement of distance using received signal strength is
+very accurate when within a metre or so of a transmitter
+because the signal strength decreases as the inverse square
+of the distance to the source, and there are rarely any
+signal obstructions. It is therefore easy to detect close
+proximity to a BLE device, and hence confidently trigger
+a location-based event. However the ranging performance
+rapidly drops off with range, as shown in Figure 1. If we
+were to assume a modest measurement noise such as
+3 dBm, this would result in a ranging uncertainty of the
+same order of magnitude as the distance to the source;
+within a metre of the transmitter a positioning uncertainty
+of only a few centimetres would be possible, however, at
+10 m the ranging error would be around 5 m.
+The human body also attenuates 2.4 GHz radio signals,
+further complicating the range estimation. Figure 1 shows
+the output from a short set of static tests moving away
+from a BLE beacon in an open environment. The
+experiment demonstrates that a ~10 dB reduction in RSS
+caused by this body effect will still result in a reasonable
+proximity measurement when within 10 cm of the
+transmitter (the receiver will still be estimated to be
+within a metre of the transmitter), whereas out at 1 metre
+the body effect can result in a range estimate of 5-10 m.
+
+As a receiver moves through a complex signal
+environment, such as a building full of walls and objects,
+the RSS of any non-line-of-sight signal can vary rapidly
+on a fine spatial scale (metre level) as that signal
+penetrates different media and interacts with different
+objects as it moves along different paths through the
+building. Fingerprinting relies on these RSS values
+varying rapidly on the spatial scale, but only very slowly
+over time, such that a receiver coming back to a
+fingerprint location in the future should record the same
+RSS measurements, within the limits of measurement
+noise.
+In reality fingerprints inevitably degrade over time as
+environmental changes occur – the density of people
+within the building at different times, the positions of
+furniture, even the positions of walls and partitions. This
+means that traditional fingerprinting schemes require
+regular re-surveying to ensure the accuracy of the system.
+WiFi fingerprints are also affected by the position of the
+user's body during the measurements, as the human body
+is typically a good attenuator at WiFi frequencies. This is
+
+Figure 1 shows the experimentally-derived RSS reduction with
+range from a BLE source, with and without body attenuation
+
+III.
+
+CHANNEL BANDWIDTH
+
+WiFi access points communicate on a radio channel that
+is at least 20 MHz wide, broadcasting their identifier
+(BSSID) on the same channel. BLE follows Bluetooth
+
+classic in using frequency hopping to communicate. It has
+40 channels, each of width 2 MHz. It moves between
+these channels pseudorandomly to transmit data in short
+chunks. However, BLE uses only three of these channels
+to broadcast (advertise) its identifier. This is an energy
+compromise (the receiver needs to do less work if it only
+needs to monitor three channels). The BLE advertisement
+channels are nominally labelled 37, 38, and 39 and are
+centred on 2402 MHz, 2426 MHz and 2480 MHz,
+respectively (see Figure 2). Each advertisement is
+repeated on each of the three channels in quick
+succession. The receiving device adopts a scanning
+process that cycles over the advertising channels, pausing
+to listen for advertisements. The precise time spent by the
+tuner within each channel is unspecified in the Bluetooth
+standards, but we have found that recent smartphone
+implementations switch between channels every few
+milliseconds.
+
+Figure 2 shows the 40 BLE channels within the 2.4 GHz band.
+The green channels are the advertising channels used by BLE
+beacons. Three WiFi channels are shown for comparison (red).
+
+A BLE scan continues indefinitely and each
+advertisement is reported as it is received. If a scan lasts
+longer than the beacon interval, multiple sightings of that
+beacon will be reported. Some current mobile operating
+systems report each connectable beacon only once per
+scan. In this work we used non-connectable beacons to
+avoid this issue. For micro-location (proximity)
+applications all that is required is to listen for
+advertisements and take the strongest advertisement over
+some arbitrary period as coming from the nearest beacon.
+Importantly, the BLE specification for an advertisement
+report does not include the channel on which it was
+received. This information is available when using iOS 7,
+and we exploit this here to provide extra insight into the
+behaviour of BLE signals indoors. Note that a device
+agnostic solution must not assume this channel
+information is available.
+Fast Fading Effects
+Figure 3 demonstrates BLE fading due to interference in
+the spatial domain. The iPhone was moved across a 3 m
+length, away from a BLE beacon and two WiFi access
+points using a simple conveyor belt in a small room. The
+test was performed out of working hours to give a more
+stable radio environment. The cluttered space contained
+many surfaces from which signals could reflect, including
+walls, the floor and ceiling, the conveyor belt, furniture
+and miscellaneous objects.
+
+Figure 3 shows the RSS variation over both time and distance
+for an iPhone moving on a slow conveyor belt away from a BLE
+beacon and two WiFi Access Points. The motion was so slow
+(around a millimetre per second) that velocity Doppler effects
+can be ignored.
+
+Deep multipath fades are evident in all three BLE
+channels, with 30 dB drops in power across just 10 cm of
+movement. Importantly, the different channels exhibit
+fades at different spatial positions. The exact distances
+travelled by reflected signals to cause destructive
+interference is dependent on the signal wavelengths and
+so fades occur at difference positions for different
+advertising channels, with their significantly different
+centre frequencies. The fades are notably less severe for
+WiFi.
+From a signal fingerprinting perspective, deep fades
+present a challenge since the RSS can vary so
+dramatically over a spatial range that is smaller than the
+expected positioning accuracy of the system. The problem
+is amplified if the receiver does not report the channel on
+which an advertisement is received. In that case the
+reported BLE RSS is effectively drawn randomly from
+one of the three advertising channels, resulting in an
+apparent high noise level and very rapid fluctuations in
+signal power, even for a static environment.
+Understanding and dealing with these large fluctuations is
+thus key to producing an accurate BLE fingerprinting
+system.
+To investigate this we used a ray-tracing simulator and a
+simple 3D model of the environment. Only first-bounce
+reflections were simulated. The signals were constructed
+by considering a set of monochromatic waves with
+random initial phase spread across the desired bandwidth
+and the total power in the channel was determined by
+summing up the total power of all of these individuallyinterfering carriers. An example output from this
+simulator is shown in Figure 4, comparable to the
+experimental output shown in Figure 3.
+
+calculated power, as the average is taken over many
+oscillations of the sinusoid. Narrow channels, such as the
+2 MHz BLE channel, will however report an average
+power that is highly dependent on the current locations of
+these peaks and troughs through the spectrum. The path
+length differences of interfering signals need to exceed 75
+metres before the oscillations in the radio frequency
+spectrum are shorter than 2 MHz, and the BLE bandwidth
+starts to provide a level of multipath resilience.
+Figure 4 shows a simulated conveyor belt experiment for a
+single WiFi channel and a single BLE channel
+
+The fact that signal fading at a given spatial location
+varies with frequency explains why the depth of fades in
+the overall reported signal strength reduces as the
+bandwidth increases. This is demonstrated in Figure 5,
+which shows the output of a simple simulated experiment
+where only one reflecting surface exists. An arbitrary
+point has been selected along the path that contains both
+the line of sight and the reflected signal, and the radio
+spectrum across the entire 80MHz band measured at that
+location is plotted. Some frequencies experience
+constructive interference, and some destructive. As the
+simulation is of a simple single-reflection experiment
+there is a sinusoidal transition between these states. The
+wavelengths in this band range from 12.1 cm to 12.5 cm.
+Therefore once the signal has propagated about 2 metres
+from the source the frequencies at the extreme ends of the
+spectrum are out of phase (2 metres represents 16.5
+wavelengths for 2.4 GHz and 16 wavelengths for
+2.48GHz). Therefore if two copies of the signal interfere,
+one having travelled 2 metres further, there will be
+constructive interference at one end of the spectrum and
+destructive at the other.
+
+Figure 5 shows the spectrum of the received signal amplitude
+across the 2.4 GHz ISM band for a simple multipath
+interference event (a reflection coming straight back along its
+original path). An example channel occupied by a BLE beacon
+is highlighted in blue.
+
+As we extend this idea to longer path length differences
+the number of constructive and destructive events through
+the spectrum increases, Figure 5 is based on a reflector 7
+metres from the source. As we can see from Figure 5, if
+the entire band is used to calculate the total signal power,
+then small motions will have no effect on the overall
+
+For most typical indoor environments, the path length
+differences caused by reflectors (walls, ceiling and floor)
+are usually large enough to dampen the frequency
+selective fading phenomena for the 20 MHz and 40 MHz
+WiFi channels (and future 5G WiFi will makes use of 80
+MHz and 160 MHz channels, which will improve matters
+further). However, the coherence length of the 2MHz
+BLE channels is much longer than these typical length
+scales. Hence we expect to see much larger fluctuations
+from fast fading multipath interference with BLE indoor
+positioning than WiFi, as observed above.
+Corridor test
+A BLE beacon (set to 20Hz advertising rate) and WiFi
+access point were placed at the far end of a 45 metre
+corridor (see Figure 10) and two smartphones (an iPhone
+and an Android-based Samsung S4) were mounted to a
+pedestrian who walked away from the devices at a slow
+pace, and then turned around and slowly walked back.
+BLE data were logged with both devices; WiFi could only
+be logged using the S4. The WiFi data and iPhone BLE
+data is shown below in Figure 6. As expected from the
+previous analysis, the WiFi data exhibits lower apparent
+measurement error than the BLE data as it provides great
+resilience to fast fading in environments of typical indoor
+dimensions.
+
+Figure 6 shows the WiFi RSS data (circles) and the iPhone BLE
+data separated out by channel number (triangles) as the user
+moved away from the transmitters.
+
+The S4 BLE data displayed the expected fall and
+subsequent rise in RSS for the roundtrip walk (see Figure
+7). However, we also observed a small but significant set
+of spurious measurements approximately 20 dB higher
+than expected. After some investigation we discovered
+
+that turning the simultaneous WiFi scanning off removed
+these outliers (see Figure 8).
+
+Figure 7 shows BLE data for a walk away from, then back
+towards, a beacon using the S4 handset with WiFi constantly
+scanning
+
+Figure 8 shows a repeat of the experiment shown in Figure 7 but
+this time with WiFi scanning disabled
+
+These spurious values would be highly detrimental to
+fingerprinting if not filtered from the data. The issue
+appears to stem from the use of active Wi-Fi scanning
+(rather than passive) in the latest version of Android
+(4.4.4). A conclusion that can be drawn at this point is
+that it may be useful to switch off all radios that are not
+being used while RSS fingerprint measurements on a
+particular radio band are being recorded.
+Multipath Mitigation
+To aid accurate BLE fingerprinting performance we need
+to ideally reduce the large measurement variation to the
+levels of WiFi (or better). Smoothing could be achieved
+by taking the mean or median of a batch of data, with a
+choice driven by the asymmetry of the distribution of
+samples around the true value. The batch size is also
+limited by many factors such as the beaconing rate, the
+receiver speed and the desired positioning accuracy.
+In order to assess the effect of window size on the BLE
+RSS error data from the corridor tests was examined. The
+data was segmented into batches of consecutive samples
+and the mean value calculated. The difference between
+pairs of consecutive mean values was recorded and the
+standard deviation of this new distribution calculated.
+Different window sizes were tested. As the RSS is
+
+expected to vary smoothly down a corridor in line of sight
+conditions once fast fading multipath interference has
+been mitigated, then this standard deviation should tend to
+a small value as multipath errors are removed. The result
+of this analysis is shown in Figure 9.
+
+Figure 9 shows the effect of batch window size on multipath
+mitigation performance for iPhone data
+
+The test suggests that batch smoothing exhibits noticeable
+improvement up to a batch size of around 10 samples,
+without noticeable improvement above this value. If the
+batch is allowed to become too large then the user motion
+will be appreciable during the windowing process,
+smearing the measurements across a distance larger than
+the potential accuracy of the system for static batch
+measurements. Processing data from all channels shows
+an improvement over single channel processing, this may
+due to the fact that the batch window can be populated
+three times faster if all channels are used, therefore the
+receiver moves a much shorter distance during the
+smoothing process.
+The batch size that is most appropriate in practice
+depends on the beaconing rate and the speed of the user
+(slower users can exploit lower beaconing rates to gather
+the same number of samples in unit distance travelled).
+The beaconing rate affects the battery life of the BLE
+beacon, and for most iBeacon purposes will typically be
+set to an advertising rate of a few Hertz. For positioning
+purposes it is clear that good multipath mitigation is
+highly dependent on the properties of the receiving device
+and the beaconing rate. During our experiments we
+determined that 10 Hz beaconing and 1 second batch
+processing of median or mean values produced the best
+(smooth and repeatable) RSS profiles.
+It was observed that taking the mean or median of the
+iPhone datasets to provide a single RSS metric produced
+very similar results. The highly skewed S4 data was
+filtered better by taking the median of a batch window
+than the mean.
+IV.
+
+GEOMETRY
+
+An advantage of BLE over WiFi is the flexible
+deployment options it provides. BLE beacons are very
+
+small (typically the battery dominates the volume of the
+beacon) and can be placed anywhere, unlike WiFi access
+points, which are typically located near power sources
+and are generally much bulkier than BLE beacons. Since
+WiFi access points are also usually located in order to
+maximise signal coverage for minimal infrastructure
+deployment, they are seldom located ideally for radio
+positioning. For example, given a large square open area
+such as a canteen, a WiFi Access Point may be located in
+the centre of the ceiling for best coverage, whereas
+optimal radio positioning performance would instead by
+provided by a set of transmitters distributed around the
+perimeter of the region. BLE has the flexibility and
+portability to allow good signal geometries for radio
+positioning to be provided as needed.
+V.
+
+FINGERPRINTS AND MAPS
+
+WiFi measurements are returned by smartphones at a rate
+of around 1Hz or slower as a batch of data representing
+the full scan of the whole band. BLE measurements are
+returned individually as soon as they are detected.
+Fingerprints are a batch of data that identify the region of
+space where they were recorded, and so the BLE
+measurements must be batched together intentionally to
+form an RSS fingerprint. The choice of the width depends
+on a series of factors, including movement rate, fast
+fading and beaconing rate. The desire for metre-level
+positioning suggests that the windows should not exceed
+1 second, as a pedestrian will walk further than 1 metre in
+this time. By a similar argument, the window should not
+fall below 0.1 s since fast fades occur at a spatial
+separation of around half the signal wavelength (around
+12 cm) or longer.
+If the channel information is unavailable (as per the
+official BLE specification), then we must aim to sample
+data from all three advertising channels for each beacon
+in each window. We choose a window that provides the
+handset with a chance to scan across all three channels,
+and hope that we have received samples on each. This
+requires a minimum of three samples per beacon per
+window, but of course the more samples we have the
+more likely we are to achieve a good result. This places a
+constraint on the beaconing rate correlated with the
+expected walking speed of the user being track. Since it is
+easy to remove data manually in post processing but not
+to add more, we set a high beaconing rate of 50Hz and a
+fingerprint window size of 100 ms in order to satisfy all
+of these constraints.
+Fingerprint databases are commonly constructed by
+manually visiting a series of survey sites and manually
+taking readings at each. However, because the Active Bat
+system [6] offers high-accuracy ground truth position, we
+chose to construct the maps using data collected during
+the walking experiments. It is also possible to construct
+
+fingerprint maps using Simultaneous Localisation and
+Mapping [5]. Each fingerprint was assigned a position
+using the ground truth and we used Gaussian Processes
+regression [7] to generate a continuous signal strength
+map per source. For BLE, fingerprints were formed using
+the various fast-fade and smearing mitigation techniques
+described in the previous section. Note that we selected an
+offline time window and fast-fade mitigation scheme that
+matched the online algorithm— i.e. the maps were based
+on the same fingerprint construction technique as they
+were used for.
+Positioning
+A Bayesian estimator provided the positioning solution on
+subsequent walks. The operating region was divided into
+a grid with square cells of length 1 m or smaller and the
+probability of a given fingerprint corresponding to each
+cell was determined for each epoch using the Euclidean
+distance:
+2
+∑𝑁
+𝑖=1(𝑅𝑖 −𝑀𝑖 )
+
+𝐹= √
+
+𝑁
+
+Equation 1
+
+for current fingerprint R containing RSS measures for N
+beacons and the value M extracted from the coordinate of
+interest from the signal strength map for the
+corresponding beacon.
+This fingerprint distance was then weighted using a
+Gaussian kernel to generate a probability for that cell
+which accounted for the uncertainty in both the map
+estimate and the current fingerprint measurement. The
+variance data within the Gaussian Process survey maps
+were thresholded such that map cells with moderate or
+high variance were ignored completely (not trusted)
+during these calculations. The resulting function across all
+cells was the Bayesian Likelihood function
+𝐹
+
+𝐿 = 𝑒 −2𝜎2
+
+Equation 2
+
+where 𝜎 is the standard deviation associated with the
+fingerprint measurement noise. The Gaussian kernel is
+well suited to the error distributions following the use of a
+multipath mitigation scheme.
+Two priors were tested, a uniform prior at every epoch,
+and a prior based on the previous epoch’s posterior, to
+enable a tracking mode. The uniform prior carried no
+correlations through time, and so represents the
+performance of an acquisition position estimate at every
+epoch. This is referred to as “one shot” positioning. The
+tracking mode reduces the effects of sporadic errors in the
+fingerprint measurements pulling the user far from the
+true location, as it is assumed that the new posterior
+distribution will be close to and overlap with the previous
+one. Note that this tracking mode is only appropriate for
+
+high beacon rates and good signal coverage such that it is
+a valid assumption that the user moves only a small
+fraction of the length scale of the posterior distribution
+between measurement epochs.
+Once a posterior distribution was calculated, we estimated
+the position (and hence the error) using the maximum
+value (i.e. maximum a posteriori (MAP) probability) and
+also the weighted mean of the posterior (i.e. Minimum
+Mean Square Error (MMSE)). In general the results were
+very similar, except when the posterior was multi-modal,
+or described a sickle shape.
+VI.
+
+FINGERPRINTING
+COMPARISON
+EXPERIMENTAL SET UP
+
+Figure 10 shows the locations of the BLE beacons within the test
+area
+
+-
+
+An analysis of the performance of indoor positioning
+using signal fingerprinting was conducted within the
+Computer Laboratory at the University of Cambridge.
+The experiment provided a comparison between WiFi and
+BLE fingerprinting using the Active Bat positioning
+system as a ground truth reference. Active Bat provides a
+3D positioning accuracy of around 3 centimetres and
+provides a position estimate at a 3Hz update rate.
+The experiments were carried out in the 45m by 12m
+section of the building that had Active Bat coverage. We
+made use of the established WiFi access point
+deployment, with access points positioned at the two ends
+of the experimental area, and one halfway down the
+corridor. There was also weak WiFi signal coverage from
+access points in other. We deployed 19 BLE beacons in
+the same area (Figure 10). An attempt was made to locate
+the BLE beacons in realistic locations for a typical
+commercial use case, i.e. mounted close to objects or
+items of interest, rather than being uniformly distributed
+specifically to ensure maximum signal coverage in a
+cellular fashion.
+BLE RSS measurements were collected using both an
+Apple iPhone running IOS 7 and an LG Nexus 4 handset
+running Android 4.4.2. The former also provided channel
+information for each received advert, which was not
+available in Android; the latter recorded WiFi RSS at
+approximately 1 Hz, which was not available in iOS. The
+experiments consisted of a two lengthy (5—18 minute)
+walks in the test area, along routes that were not
+predetermined. The two walks were taken approximately
+one week apart.
+
+Figure 11 shows an example BLE signal strength map using
+Gaussian Processes Regression. The training data can be seen
+as coloured circles. The black circle shows the location of the
+BLE device, that information is not needed to produce the
+coverage map. The colour bar scale is in units of dBm.
+
+The experimental approach was to deploy an overspecified set of beacons with parameters set to give good
+results without consideration of real-world issues such as
+power consumption. This allowed us to bound the
+possible performance and to look at the effects of the
+parameters by post-processing the data many times. As a
+typical desire for indoor positioning using fingerprints is
+good acquisition performance (rather than relying on
+continuous tracking) we considered the performance
+provided by “one shot” fixes, as well as by a separate
+tracking solution.
+VII.
+
+FINGERPRINTING
+RESULTS
+
+COMPARISON
+
+–
+
+We used data collected in the first walk data to generate a
+WiFi fingerprint map that was then used to estimate the
+user’s position for the data from the second walk. This
+formed a baseline to compare BLE against. For reference
+the positioning error for a WiFi tracking scheme was less
+than 8.5 m 95% of the time, this performance was limited
+by the poor signal geometry afforded by the existing WiFi
+infrastructure available in our laboratory. The advantage
+of BLE lies in the ability to freely locate beacons to
+provide good signal geometry.
+Repeating this analysis with BLE data rather than WiFi
+achieved an accuracy of less than 2.6 m 95% of the time.
+The boosted accuracy is in part due to the greater density
+of beacons, their fast beaconing rate, their high power
+output, and their better geometry. However, we argue that
+
+the density and geometry would be expected to be much
+higher than WiFi in a BLE beacon rollout. We have postprocessed the data using reduced beacon rates and
+transmission powers and found that near-optimal results
+were possible had we used 10 Hz beacons and power
+levels around -20 dBm for the 19-beacon deployment.
+Slower rates and lower power degrade the positioning
+result significantly, although rarely below the WiFi
+baseline (which we again attribute to the density and
+geometry)
+Figure 12 illustrates the value of our multipath mitigation
+when positioning with BLE signals. The left hand image
+shows a position fix without multipath mitigation, the
+right shows the same position fix with a 0.5 second
+median filter applied to the BLE input data (each batch
+processing window contained 10 measurements). It is
+clear that the multipath mitigation improves the ambiguity
+in the posterior distribution.
+
+Figure 13 shows the effect of fingerprint size on position error
+for BLE experiments. The error bars represent two standard
+deviations from the mean.
+
+VIII.
+
+BLE DEPLOYMENT DENSITY
+
+Our testing has demonstrated that smartphones reliably
+report BLE measurements with RSS values as low as
+-100 dBm. This sensitivity should be taken into account
+during a large scale beacon deployment, since it
+potentially allows for a lower density than might be
+expected. We concentrated our studies on the effects
+caused by interior walls and any associated fittings
+(shelving, cupboards, etc). Latapy [8] has previously
+proposed that one should assume 1 dB of attenuation per
+metre of an indoor office/residential environment
+(accounting for furniture and walls) for broadcasts of
+similar frequency (cellular) to BLE
+The data shown in Figure 14 were generated by placing a
+beacon in the end office of the test area and recording the
+measurements at known locations in each office along the
+corridor, increasing the number of internal walls between
+the receiver and source by one per measurement. We
+observe that each wall led to an additional loss of around
+2 – 3 dB.
+
+Figure 12 shows the benefit of multipath mitigation processing
+on BLE positioning. The left image is without multipath
+mitigation and exhibits multimodality and reduced positioning
+performance compared to the right image. The true location is
+shown by the pink circle, the pink square and pink cross show
+the Bayesian MMSE and MAP estimators respectively.
+
+The high transmission powers and dense deployment also
+allowed us to asses the effect of fingerprint size on
+positioning performance (see Figure 13) and it was
+determined that there is little benefit in having more than
+6-8 beacons available for a given fingerprint (assuming
+that they are not co-located).
+
+Figure 14 shows the experimental and predicted loss per
+interior partition wall in our office environment.
+
+We propose the following rule of thumb to determine
+BLE beacon ranges indoors:
+𝐷 = 10
+
+𝑃𝑚𝑖𝑛 +𝑃𝑇𝑥 −𝑊×𝐴𝑤𝑎𝑙𝑙
+20
+
+Equation 3
+
+ACKNOWLEDGMENTS
+The range (D) in metres depends on the minimum
+detectable power (𝑃𝑚𝑖𝑛 ), the transmission power (𝑃𝑇𝑥 ),
+the number of interior partition walls W and the loss per
+wall, 𝐴𝑤𝑎𝑙𝑙 . A value of 3dBm per wall was appropriate for
+our office building. The power and loss values are in
+base-10 logarithmic units.
+
+IX.
+
+CONCLUSIONS AND FURTHER WORK
+
+This paper has explored the use of Bluetooth Low Energy
+(BLE) beacons for fingerprint positioning. We have
+shown that significant positioning improvement over that
+available from existing WiFi infrastructure is possible
+even using a relatively sparse deployment of beacons
+once the characteristics of BLE signals are accounted for.
+1. The low bandwidth of BLE makes it is more
+susceptible to fast fading, and so large RSS fluctuations,
+than WiFi. The use of three advertising channels by a
+BLE beacon, combined with frequency-dependent fading,
+can result in RSS measurements varying across a much
+wider range than the measurement noise for very small
+changes in the signal path length. This was confirmed in
+both simulated and experimental tests.
+2. Smoothing the BLE RSS measurements by batch
+filtering multiple beacon measurements per fingerprint is
+necessary to account for the bandwidth and channel
+hopping issues. The batch window is determined by the
+user velocity, and best performance is provided by
+gathering a batch of measurements across a metre of user
+motion. Assuming typical walking pace, this leads to
+batch windows of 0.5 to 1 second in length.
+3. Positioning accuracy increases with the number of
+beacons per fingerprint, up to a threshold of around 6–8.
+Beyond this there is no further improvement in
+positioning accuracy. Combining this information with
+the desired beacon power level steers the beacon density
+required for maximum positioning performance.
+4. A rule of thumb has been provided to permit users to
+estimate their beacon ranges depending on transmit power
+and the number of interior walls.
+5. There is some evidence to suggest that active Wi-Fi
+scanning and Wi-Fi network access can cause errors in
+BLE signal strength measurements. Careful consideration
+of the use of the Wi-Fi radio in a smartphone is required
+during BLE fingerprinting.
+
+The authors would like to acknowledge the technical and
+financial support of the project sponsors, CSR Limited.
+They are also grateful to Reinoud Erhorst, who developed
+the conveyer belt apparatus and collected the associated
+data (Figure 3).
+
+REFERENCES
+
+1 Bullock, J. Blake, Chowdhary, Mahesh, Rubin, Dimitri,
+Leimer, Donald, Turetzky, Greg, Jarvis, Murray,
+"Continuous Indoor Positioning Using GNSS, Wi-Fi, and
+MEMS Dead Reckoning," Proceedings of the 25th
+International Technical Meeting of The Satellite Division
+of the Institute of Navigation (ION GNSS 2012),
+Nashville, TN, September 2012, pp. 2408-2416.
+2 Bahl, P., Padmanabhan, V. and Balachandran, A.
+(2000). Enhancements to the RADAR User Location and
+Tracking System.
+3 Youssef, M., 2004. HORUS: A WLAN-Based indoor
+location determination system, Ph.D. Dissertation,
+University of Maryland, 2004
+4 Bluetooth SIG. Bluetooth Specification Version 4.0, 06
+2010.
+5 Faragher, R.M., Harle, R.K., "SmartSLAM - An
+Efficient Smartphone Indoor Positioning System
+Exploiting Machine Learning and Opportunistic Sensing,"
+Proceedings of the 26th International Technical Meeting
+of The Satellite Division of the Institute of Navigation
+(ION GNSS+ 2013), Nashville, TN, September 2013, pp.
+1006-1019.
+6 Andy Ward, Alan Jones, Andy Hopper. A New
+Location Technique for the Active Office. IEEE Personal
+Communications, Vol. 4, No. 5, October 1997, pp. 42-47
+7 MacKay, D. J. C. Information Theory, Inference &
+Learning Algorithms. Cambridge University Press, 2002.
+New York, NY, USA.
+8 GSM mobile station locating. Master’s thesis,
+Norwegian University of Science and Technology, 1996.
+
+

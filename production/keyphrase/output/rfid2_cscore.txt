@@ -1,0 +1,1567 @@
+deployment area::7.0
+radiation pattern::7.0
+radiation patterns::6.0
+locations of the deployment::6.0
+localization error::6.0
+targets position::5.0
+antenna gains::5.0
+beam antenna::5.0
+rss values::5.0
+single anchor node::4.75488750216
+equipped with a switched-beam::4.0
+azimuth t and elevation::4.0
+anchor node::4.0
+doa estimation::4.0
+rooms or indoor open::4.0
+installed on the ceiling::4.0
+localization using a switched-beam::4.0
+large rooms or indoor::4.0
+switched-beam antenna::4.0
+average localization error equal::4.0
+simulated radiation patterns::3.16992500144
+discussed in sec::3.16992500144
+ieee communications letters::3.16992500144
+rooms or indoor::3.16992500144
+received signal strength::3.16992500144
+indoor open spaces::3.16992500144
+estimate the doa::3.16992500144
+direction of arrival::3.16992500144
+satisfactory localization results::3.16992500144
+average localization error::3.16992500144
+measured rss values::3.16992500144
+switched-beam directional antenna::3.16992500144
+single-anchor indoor localization::3.16992500144
+localization error equal::3.16992500144
+error equal::3.0
+propagation model::3.0
+indoor localization::3.0
+localization results::3.0
+grid points::3.0
+antenna faces::3.0
+base station::3.0
+localization system::3.0
+directional antenna::3.0
+signal strength information sufficient::2.0
+reduced by using antenna::2.0
+distance between the actual::2.0
+arrangement of the antenna::2.0
+radio communication using circular::2.0
+reference nodes are needed::2.0
+grid covers an area::2.0
+size of the areas::2.0
+depends on the targets::2.0
+area in a set::2.0
+estimating both the azimuth::2.0
+measurements with directional antennas::2.0
+larger than the expected::2.0
+microstrip antenna::2.0
+rss values to estimate::2.0
+message sent from locations::2.0
+solution is an incoherent::2.0
+signal proc::2.0
+doa estimation localization error::2.0
+view of the switched-beam::2.0
+single-anchor indoor::2.0
+equal to the distance::2.0
+implement localization systems based::2.0
+strength measurements with directional::2.0
+figure 1b shows two::2.0
+bijective function that describes::2.0
+solutions described in literature::2.0
+abstractwe propose an rf-based::2.0
+targets position by comparing::2.0
+cidronali and g manes::2.0
+effects in reflective environments::2.0
+antenna that is installed::2.0
+proven useful in mitigating::2.0
+normalized rss::2.0
+ash and l potter::2.0
+estimates obtained from rss::2.0
+yield the maximum spectrum::2.0
+propose three localization solutions::2.0
+doa estimation is limited::2.0
+average rss::2.0
+shows the deployment area::2.0
+error on some grid::2.0
+distance estimates::2.0
+relation can be exploited::2.0
+control how the deployment::2.0
+resolve the target position::2.0
+ray tracing approach adopted::2.0
+size and using simulated::2.0
+absolute 2d target positioning::2.0
+schemes for two reasons::2.0
+approach extends previous solutions::2.0
+approving it for publication::2.0
+localization via received signal::2.0
+position and the center::2.0
+previous case::2.0
+iii-d represents a viable::2.0
+faces against a database::2.0
+propagation model that relates::2.0
+switched-beam antenna gianni giorgetti::2.0
+pointing toward the floor::2.0
+implementation uses the popular::2.0
+evaluate is a range-free::2.0
+show that satisfactory localization::2.0
+distance from the target::2.0
+planes and radiation patterns::2.0
+top row::2.0
+ranging schemes for two::2.0
+fingerprinting scheme::2.0
+obtained from rss measurements::2.0
+set of similar measurements::2.0
+measured data to evaluate::2.0
+assumptions on the propagation::2.0
+constraints on the rss::2.0
+set of nonoverlapping regions::2.0
+obtained from the radiation::2.0
+open spaces::2.0
+assigned an error equal::2.0
+partition the deployment area::2.0
+fingerprinting the last solution::2.0
+needed when using distance::2.0
+alleviate the deployment costs::2.0
+senior member::2.0
+faces with larger ground::2.0
+face measuring the strongest::2.0
+targets distance and antenna::2.0
+devices such as wlan::2.0
+measurements on the grid::2.0
+values and the stored::2.0
+radiation patterns when faces::2.0
+application where the antenna::2.0
+reported results were obtained::2.0
+survey to collect rss::2.0
+base stations for indoor::2.0
+feasible using a low-cost::2.0
+area si that corresponds::2.0
+transceivers set to transmit::2.0
+information useful for target::2.0
+previous solutions exploiting beacons::2.0
+computing the euclidean distance::2.0
+pointing in the direction::2.0
+first approach we evaluate::2.0
+positioning techniques and systems::2.0
+beam capable of selectively::2.0
+popular multiple signal classification::2.0
+anchors is not desirable::2.0
+satisfactory localization::2.0
+network localization via received::2.0
+intended use in indoor::2.0
+antenna faces with larger::2.0
+varying the antennas height::2.0
+estimate the targets position::2.0
+decomposition to the covariance::2.0
+signatures at several locations::2.0
+ocalization we have implemented::2.0
+building the antenna prototype::2.0
+localization requires only two::2.0
+comparison with the gain::2.0
+multiplex each radiating element::2.0
+plastic substrate and fed::2.0
+set of anchor nodes::2.0
+system with a single::2.0
+arg max::2.0
+measured in an anechoic::2.0
+readings from a single::2.0
+position and its radiation::2.0
+yielded an average localization::2.0
+requires only two anchors::2.0
+radiators to the transceiver::2.0
+design that has proven::2.0
+behave as dummy loads::2.0
+antenna mounted::2.0
+improves over received signal::2.0
+movements in the plane::2.0
+niculescu and b nath::2.0
+significantly perturbing the radiation::2.0
+directional approach one step::2.0
+set of rss measurements::2.0
+based on the doa::2.0
+suspect that the large::2.0
+collects signal strength information::2.0
+beacons with directional antennas::2.0
+widely adopted log-normal shadowing::2.0
+obtained with an initial::2.0
+off-line and only depend::2.0
+received signal strength measurements::2.0
+solution that is oblivious::2.0
+switched-beam directional::2.0
+angles t are estimated::2.0
+represented in spherical coordinate::2.0
+requires a site survey::2.0
+exhibits peaks for angles::2.0
+room and collects signal::2.0
+fed by a coaxial::2.0
+readings on each face::2.0
+average localization::2.0
+matrix of the power::2.0
+applications that can tolerate::2.0
+first computing the euclidean::2.0
+prototype ; f zucchelli::2.0
+measurements from the switched-beam::2.0
+application scenarios include low-cost::2.0
+compared to the previous::2.0
+array of six adjacent::2.0
+note that the computational::2.0
+aoa of the incoming::2.0
+prototype optimized for size::2.0
+received power::2.0
+antenna position and assuming::2.0
+evaluated the localization error::2.0
+model and the antenna::2.0
+targets messages::2.0
+krim and m viberg::2.0
+locations where the statical::2.0
+average error is equal::2.0
+ceiling of any large::2.0
+regions si are computed::2.0
+approach discussed in sec::2.0
+covers an area measuring::2.0
+rangebased and a fingerprinting::2.0
+reviewers for their helpful::2.0
+rss traces::2.0
+single-pole six-through rf switch::2.0
+step further by proposing::2.0
+suited for large rooms::2.0
+bottom row of fig::2.0
+shows the localization error::2.0
+targets applications in large::2.0
+initial antenna prototype optimized::2.0
+scheme that provides coarse-grained::2.0
+exploiting beacons with directional::2.0
+system with a steerable::2.0
+zucchelli and n corsi::2.0
+site survey to collect::2.0
+active face::2.0
+single anchor can alleviate::2.0
+systems based on angle::2.0
+center of the area::2.0
+deployments and ad-hoc applications::2.0
+corresponds to the face::2.0
+resemblance to a simple::2.0
+antenna was placed approximately::2.0
+illuminating the space underneath::2.0
+imax = arg max::2.0
+comparable to other fingerprinting::2.0
+combined with distance estimates::2.0
+position and assuming targets::2.0
+serves as a base::2.0
+systems man and cybernetics::2.0
+propose an rf-based localization::2.0
+requirements of this approach::2.0
+experiments show that single-anchor::2.0
+doa of the targets::2.0
+open spaces where line::2.0
+tested is a fingerprinting::2.0
+line-of-sight indoor radio communication::2.0
+proximity and range-based approaches::2.0
+ghz with a bandwidth::2.0
+beam antenna targets position::2.0
+adopted log-normal shadowing model::2.0
+assign the targets position::2.0
+antenna gains of faces::2.0
+larger errors in cluttered::2.0
+areas si and control::2.0
+simulated using the ansoft::2.0
+face i is larger::2.0
+found an average localization::2.0
+implemented in microstrip antenna::2.0
+single wi-fi access point::2.0
+low-cost deployments and ad-hoc::2.0
+perturbing the radiation pattern::2.0
+bandwidth compatible with ieee::2.0
+accommodate for different sets::2.0
+range-based and fingerprinting schemes::2.0
+sandeep k s gupta::2.0
+target position::2.0
+face i would receive::2.0
+low-cost system that requires::2.0
+represents a viable solution::2.0
+assuming a more realistic::2.0
+location tracking using rssi::2.0
+deployment area is partitioned::2.0
+differences in received power::2.0
+decades of array signal::2.0
+traces from a real::2.0
+sections we will show::2.0
+result of the assignment::2.0
+close to the true::2.0
+unobtrusive to the users::2.0
+survey of wireless indoor::2.0
+implemented uses the measured::2.0
+measurements of the previous::2.0
+ground planes and radiation::2.0
+indoor open::2.0
+signal strength::2.0
+grid points was caused::2.0
+fingerprinting doa estimation localization::2.0
+large classroom containing rows::2.0
+review of this letter::2.0
+rss measurements::2.0
+technology on a pentagonal::2.0
+simplicity of this approach::2.0
+center of the room::2.0
+open spaces where installing::2.0
+operations let the pair::2.0
+approach improves over received::2.0
+ceiling of a room::2.0
+normalized in the range::2.0
+formulated in a statistical::2.0
+single anchor::2.0
+bluetooth and zigbee transceivers::2.0
+evaluated using rss traces::2.0
+depend on the antenna::2.0
+maddio and s maurri::2.0
+estimated by first computing::2.0
+ieee trans::2.0
+centered on the antenna::2.0
+ntenna the antenna mounted::2.0
+capable of selectively illuminating::2.0
+designed with the goal::2.0
+relying on a set::2.0
+wireless indoor positioning techniques::2.0
+show satisfactory localization results::2.0
+position to the area::2.0
+array signal processing research::2.0
+two decades of array::2.0
+implemented a proof-of-concept application::2.0
+messages between the target::2.0
+projection of the antenna::2.0
+approximately in the center::2.0
+editor coordinating the review::2.0
+costs when an infrastructure::2.0
+type of antenna mounted::2.0
+tracking using rssi readings::2.0
+collected by each face::2.0
+system that requires zero-configuration::2.0
+pattern of the active::2.0
+communication using circular polarized::2.0
+database of previously measured::2.0
+station can be ensured::2.0
+radiation patterns in fig::2.0
+approaches discussed in sec::2.0
+meters above the desks::2.0
+terminated on matched loads::2.0
+limited to the azimuth::2.0
+multipath effects in reflective::2.0
+depend on their gains::2.0
+localization system that works::2.0
+based on the previous::2.0
+rss values are centered::2.0
+perpendicular to the active::2.0
+expectation for the power::2.0
+measurements ; the anonymous::2.0
+telecommunications of the university::2.0
+proposing an indoor localization::2.0
+receive the strongest signal::2.0
+algorithm produces a spectrum::2.0
+approach offers a low-computation::2.0
+selectively illuminating the space::2.0
+publication was h.-h chen::2.0
+offers a low-computation solution::2.0
+described by the widely::2.0
+fingerprinting scheme that estimates::2.0
+extends previous solutions exploiting::2.0
+estimates the targets position::2.0
+spherical coordinate system centered::2.0
+distance between its position::2.0
+errors in cluttered environments::2.0
+localization results with range-free::2.0
+results of our experiments::2.0
+applications in large rooms::2.0
+information sufficient for absolute::2.0
+correspondence between the doa::2.0
+estimates can be obtained::2.0
+mounted on the target::2.0
+rss to the distance::2.0
+plane can be resolved::2.0
+switched-beam antenna by comparing::2.0
+scenarios include low-cost deployments::2.0
+measured rss::2.0
+works using a single::2.0
+applying a k-nearest neighbor::2.0
+distance and antenna gains::2.0
+minimal because the regions::2.0
+comments ; and nsf::2.0
+top row of fig::2.0
+form a semi dodecahedron::2.0
+adopted a circular polarization::2.0
+environments and for non::2.0
+located on the targets::2.0
+target in a large::2.0
+computed c range-based localization::2.0
+relates the rss::1.58496250072
+man and cybernetics::1.58496250072
+indoor location tracking::1.58496250072
+solutions exploiting beacons::1.58496250072
+set of anchor::1.58496250072
+non los communication::1.58496250072
+effects in reflective::1.58496250072
+maximum spectrum value::1.58496250072
+terms of accuracy::1.58496250072
+evaluate the performance::1.58496250072
+produces a spectrum::1.58496250072
+proximity and range-based::1.58496250072
+principle of operations::1.58496250072
+substrate and fed::1.58496250072
+signal strength information::1.58496250072
+spherical coordinate system::1.58496250072
+shows the localization::1.58496250072
+solution bears resemblance::1.58496250072
+propose an rf-based::1.58496250072
+set of nonoverlapping::1.58496250072
+assembled to form::1.58496250072
+single-anchor 2d localization::1.58496250072
+estimate the position::1.58496250072
+localization via received::1.58496250072
+last solution tested::1.58496250072
+form a semi::1.58496250072
+actual rss values::1.58496250072
+manuscript received september::1.58496250072
+area is partitioned::1.58496250072
+accuracy and costs::1.58496250072
+estimated by first::1.58496250072
+deployments and ad-hoc::1.58496250072
+antenna gianni giorgetti::1.58496250072
+differences in received::1.58496250072
+designing and building::1.58496250072
+describe a range-free::1.58496250072
+wireless indoor positioning::1.58496250072
+include low-cost deployments::1.58496250072
+location was estimated::1.58496250072
+behave as dummy::1.58496250072
+face i note::1.58496250072
+imax = arg::1.58496250072
+combined with distance::1.58496250072
+system can locate::1.58496250072
+wi-fi access point::1.58496250072
+beam antenna targets::1.58496250072
+runtime we assign::1.58496250072
+type of antenna::1.58496250072
+multiplex each radiating::1.58496250072
+sufficient for absolute::1.58496250072
+indoor positioning techniques::1.58496250072
+circular polarized waves::1.58496250072
+improved by computing::1.58496250072
+apply the inverse::1.58496250072
+collects signal strength::1.58496250072
+classroom containing rows::1.58496250072
+resolution is limited::1.58496250072
+requires a site::1.58496250072
+spectrum is shown::1.58496250072
+database of previously::1.58496250072
+anchor is equipped::1.58496250072
+points was caused::1.58496250072
+bluetooth and zigbee::1.58496250072
+single wi-fi access::1.58496250072
+evaluate the result::1.58496250072
+anchor can alleviate::1.58496250072
+line-of-sight indoor radio::1.58496250072
+system that requires::1.58496250072
+represented in spherical::1.58496250072
+results were achieved::1.58496250072
+system that works::1.58496250072
+exploited to estimate::1.58496250072
+perturbing the radiation::1.58496250072
+nsf for support::1.58496250072
+collected rss traces::1.58496250072
+error is equal::1.58496250072
+average rss values::1.58496250072
+signal processing research::1.58496250072
+desks and chairs::1.58496250072
+implemented in microstrip::1.58496250072
+requirements in terms::1.58496250072
+regions are computed::1.58496250072
+collect rss signatures::1.58496250072
+scheme that estimates::1.58496250072
+terminated on matched::1.58496250072
+implemented a proof-of-concept::1.58496250072
+tracking using rssi::1.58496250072
+publication was h.-h::1.58496250072
+sensor network localization::1.58496250072
+gains of faces::1.58496250072
+adjust the size::1.58496250072
+set of rss::1.58496250072
+circular polarization design::1.58496250072
+pentagonal plastic substrate::1.58496250072
+university of florence::1.58496250072
+scenarios include low-cost::1.58496250072
+directivity is typical::1.58496250072
+power on face::1.58496250072
+fingerprinting approach discussed::1.58496250072
+schemes are suited::1.58496250072
+larger ground planes::1.58496250072
+approach is attractive::1.58496250072
+round of measurements::1.58496250072
+illuminated by face::1.58496250072
+covers an area::1.58496250072
+electronics and telecommunications::1.58496250072
+cc2420 transceivers set::1.58496250072
+target by estimating::1.58496250072
+digital object identifier::1.58496250072
+pair of angles::1.58496250072
+approach are minimal::1.58496250072
+assuming targets movements::1.58496250072
+angle of arrival::1.58496250072
+doa by selecting::1.58496250072
+range-based approaches discussed::1.58496250072
+distance and antenna::1.58496250072
+small antenna dimensions::1.58496250072
+beacons with directional::1.58496250072
+goal to implement::1.58496250072
+department of electronics::1.58496250072
+range-based and fingerprinting::1.58496250072
+represents a viable::1.58496250072
+supported by placing::1.58496250072
+errors in cluttered::1.58496250072
+localization is feasible::1.58496250072
+figure 4b shows::1.58496250072
+coordinate system centered::1.58496250072
+locate a target::1.58496250072
+computationally more expensive::1.58496250072
+proposing an indoor::1.58496250072
+ieee signal proc::1.58496250072
+vor base stations::1.58496250072
+steerable beam capable::1.58496250072
+patterns in fig::1.58496250072
+rows of desks::1.58496250072
+planes and radiation::1.58496250072
+illuminating the space::1.58496250072
+survey of wireless::1.58496250072
+adopted log-normal shadowing::1.58496250072
+log-normal shadowing model::1.58496250072
+fingerprinting doa estimation::1.58496250072
+computing the euclidean::1.58496250072
+adjacent radiating elements::1.58496250072
+attractive to applications::1.58496250072
+array signal processing::1.58496250072
+area simax computed::1.58496250072
+faces with larger::1.58496250072
+implementation we created::1.58496250072
+letter and approving::1.58496250072
+localization algorithms described::1.58496250072
+directional antennas located::1.58496250072
+doa estimation localization::1.58496250072
+realistic propagation model::1.58496250072
+arizona state university::1.58496250072
+figure 4a shows::1.58496250072
+applications in large::1.58496250072
+improves over received::1.58496250072
+solution targets applications::1.58496250072
+expect larger errors::1.58496250072
+aoa-based localization requires::1.58496250072
+estimates the targets::1.58496250072
+principles and practice::1.58496250072
+indoor localization system::1.58496250072
+onclusions the proximity::1.58496250072
+point we assigned::1.58496250072
+computed c range-based::1.58496250072
+ntroduction mart antennas::1.58496250072
+angles that yield::1.58496250072
+show satisfactory localization::1.58496250072
+received power depends::1.58496250072
+iii-c are based::1.58496250072
+microstrip antenna technology::1.58496250072
+antenna targets position::1.58496250072
+fixed antenna position::1.58496250072
+line of sight::1.58496250072
+antenna by comparing::1.58496250072
+ansoft hfss software1::1.58496250072
+method is computationally::1.58496250072
+measured rss data::1.58496250072
+adopted a circular::1.58496250072
+achieved by setting::1.58496250072
+comparing the gains::1.58496250072
+sets of requirements::1.58496250072
+deployment area partitioned::1.58496250072
+decades of array::1.58496250072
+infrastructure of anchors::1.58496250072
+fingerprinting localization approach::1.58496250072
+computing the regions::1.58496250072
+network of anchors::1.58496250072
+shown in fig::1.58496250072
+tolerate approximate positions::1.58496250072
+associate editor coordinating::1.58496250072
+installing a network::1.58496250072
+communication using circular::1.58496250072
+created the database::1.58496250072
+normalized rss measurements::1.58496250072
+index termsdirectional antenna::1.58496250072
+selecting the angles::1.58496250072
+iii-b and iii-c::1.58496250072
+receive the strongest::1.58496250072
+offers a low-computation::1.58496250072
+element is implemented::1.58496250072
+ieee 802.15.x devices::1.58496250072
+results are comparable::1.58496250072
+simple proximity-based scheme::1.58496250072
+fingerprinting solutions described::1.58496250072
+obtained without assumptions::1.58496250072
+desirable or feasible::1.58496250072
+radiation patterns simulated::1.58496250072
+radiation patterns measured::1.58496250072
+music algorithm produces::1.58496250072
+describes the mapping::1.58496250072
+signal is described::1.58496250072
+define the direction::1.58496250072
+implement our solution::1.58496250072
+mitigating multipath effects::1.58496250072
+main lobe pointing::1.58496250072
+comparing the rss::1.58496250072
+results with range-free::1.58496250072
+applying a k-nearest::1.58496250072
+previously measured values::1.58496250072
+row of fig::1.58496250072
+implement a compact::1.58496250072
+distance estimates obtained::1.58496250072
+applies spectral decomposition::1.58496250072
+large indoor space::1.58496250072
+elevation t aoa::1.58496250072
+rf-based localization system::1.58496250072
+h.-h chen::1.0
+normal distribution::1.0
+true doa::1.0
+range-free localization::1.0
+targets plane::1.0
+targets distance::1.0
+estimates obtained::1.0
+two meters::1.0
+include low-cost::1.0
+array signal::1.0
+radio communication::1.0
+editor coordinating::1.0
+incoming messages::1.0
+power readings::1.0
+object identifier::1.0
+localization systems::1.0
+regression algorithm::1.0
+ieee 802.15.x::1.0
+solution targets::1.0
+ray tracing::1.0
+extends previous::1.0
+circular polarized::1.0
+polarized waves::1.0
+multiple signal::1.0
+power depends::1.0
+state university::1.0
+rss data::1.0
+large error::1.0
+indoor space::1.0
+ad-hoc applications::1.0
+strength information::1.0
+actual rss::1.0
+position unobtrusive::1.0
+spectral decomposition::1.0
+patterns simulated::1.0
+sufficient height::1.0
+target positioning::1.0
+area measuring::1.0
+additional information::1.0
+beam capable::1.0
+tracing approach::1.0
+low-cost deployments::1.0
+ideal environment::1.0
+localization requires::1.0
+two reasons::1.0
+localization approach::1.0
+sophisticated models::1.0
+computed off-line::1.0
+measured values::1.0
+face measuring::1.0
+coordinate system::1.0
+localization algorithms::1.0
+emergency response::1.0
+information sufficient::1.0
+two faces::1.0
+semi dodecahedron::1.0
+approach discussed::1.0
+first approach::1.0
+positioning techniques::1.0
+target positions::1.0
+log-normal shadowing::1.0
+hfss software1::1.0
+estimation localization::1.0
+large indoor::1.0
+direction perpendicular::1.0
+multipath effects::1.0
+antenna technology::1.0
+systems based::1.0
+experiments show::1.0
+low-computation solution::1.0
+previous solutions::1.0
+statistical sense::1.0
+collected rss::1.0
+zigbee transceivers::1.0
+main lobe::1.0
+proof-of-concept application::1.0
+parametric approach::1.0
+aoa estimates::1.0
+fine-grained localization::1.0
+real deployment::1.0
+k-nearest neighbor::1.0
+indoor applications::1.0
+measurement grid::1.0
+wireless networks::1.0
+antenna dimensions::1.0
+fingerprinting doa::1.0
+collecting information::1.0
+mobile target::1.0
+viable solution::1.0
+systems man::1.0
+lobe pointing::1.0
+plastic substrate::1.0
+average error::1.0
+proposed solution::1.0
+approximate positions::1.0
+application scenarios::1.0
+collect rss::1.0
+adjacent radiating::1.0
+helpful comments::1.0
+fingerprinting localization::1.0
+mitigating multipath::1.0
+range-based localization::1.0
+fingerprinting schemes::1.0
+adopted log-normal::1.0
+aoa-based localization::1.0
+fingerprinting approach::1.0
+antenna avg::1.0
+pentagonal plastic::1.0
+initial antenna::1.0
+area simax::1.0
+applies spectral::1.0
+prentice hall::1.0
+proximity-based classification::1.0
+allerton conf::1.0
+one-to-one correspondence::1.0
+widely adopted::1.0
+single-pole six-through::1.0
+anonymous reviewers::1.0
+expect larger::1.0
+active patch::1.0
+wireless communications::1.0
+indoor positioning::1.0
+single-anchor localization::1.0
+inactive faces::1.0
+cc2420 transceivers::1.0
+anechoic chamber::1.0
+fingerprinting solutions::1.0
+ansoft hfss::1.0
+proximity-based scheme::1.0
+larger errors::1.0
+statical expectation::1.0
+show satisfactory::1.0
+los communication::1.0
+euclidean distance::1.0
+elevation angles::1.0
+steerable beam::1.0
+spherical coordinate::1.0
+rf-based localization::1.0
+previously measured::1.0
+range-based approaches::1.0
+transceivers set::1.0
+line-of-sight indoor::1.0
+cluttered environments::1.0
+approaches discussed::1.0
+tolerate approximate::1.0
+antennas located::1.0
+switch connects::1.0
+stored measurements::1.0
+antenna targets::1.0
+proposed schemes::1.0
+simple proximity-based::1.0
+gain values::1.0
+requires zero-configuration::1.0
+face1 directivity::1.0
+scenarios include::1.0
+mart antennas::1.0
+small antenna::1.0
+approach offers::1.0
+impact lab::1.0
+realistic propagation::1.0
+bandwidth compatible::1.0
+antenna gianni::1.0
+friis equation::1.0
+indoor measurements::1.0
+received signal::1.0
+system centered::1.0
+music spectrum::1.0
+prototype optimized::1.0
+azimuth angle::1.0
+radiating element::1.0
+strongest signal::1.0
+alessandro cidronali::1.0
+ground planes::1.0
+indoor radio::1.0
+signal processing::1.0
+target localization::1.0
+bottom row::1.0
+previous observations::1.0
+solutions described::1.0
+termsdirectional antenna::1.0
+classification results::1.0
+solutions exploiting::1.0
+proximity classication::1.0
+selectively illuminating::1.0
+matched loads::1.0
+index termsdirectional::1.0
+wireless indoor::1.0
+large rooms::1.0
+directional antennas::1.0
+associate editor::1.0
+bottom-up view::1.0
+covariance matrix::1.0
+target device::1.0
+ieee 1089-7798::1.0
+solution implemented::1.0
+802.15.x devices::1.0
+exchanging bursts::1.0
+incoherent array::1.0
+targets movements::1.0
+facilitate comparison::1.0
+antenna position::1.0
+expected values::1.0
+coarse-grained localization::1.0
+antennas faces::1.0
+low-cost system::1.0
+music algorithm::1.0
+computational requirements::1.0
+outdoor localization::1.0
+incoming pack::1.0
+wi-fi access::1.0
+gianfranco manes::1.0
+operating frequency::1.0
+antenna prototype::1.0
+coaxial probe::1.0
+range-free scheme::1.0
+limited::0.0
+1,6::0.0
+assembled::0.0
+fine-grained::0.0
+low-computation::0.0
+connects::0.0
+sensor::0.0
+solution::0.0
+estimates::0.0
+chen::0.0
+implemented::0.0
+errors::0.0
+designing::0.0
+reported::0.0
+active::0.0
+obtained::0.0
+projection::0.0
+classification::0.0
+music::0.0
+type::0.0
+room::0.0
+err::0.0
+rssi::0.0
+hfss::0.0
+absolute::0.0
+iii-d::0.0
+iii-c::0.0
+iii-b::0.0
+lab::0.0
+algorithms::0.0
+operations::0.0
+directional::0.0
+exhibits::0.0
+fig::0.0
+effects::0.0
+represents::0.0
+one-to-one::0.0
+schemes::0.0
+log-normal::0.0
+principles::0.0
+message::0.0
+network::0.0
+network localization::0.0
+arizona::0.0
+associate::0.0
+abstractwe propose::0.0
+estimate::0.0
+created::0.0
+messages::0.0
+ntenna::0.0
+downside::0.0
+bottom-up::0.0
+top::0.0
+approximately::0.0
+needed::0.0
+observations::0.0
+ranging::0.0
+ceiling::0.0
+centered::0.0
+ocalization::0.0
+distance::0.0
+target::0.0
+mitigating::0.0
+kajiwara::0.0
+spectrum::0.0
+ray::0.0
+transmit::0.0
+coarse-grained::0.0
+measurements with directional::0.0
+optimized::0.0
+dummy::0.0
+partition::0.0
+points::0.0
+principle::0.0
+signatures::0.0
+probe::0.0
+nodes are needed::0.0
+solutions::0.0
+resemblance::0.0
+implementation::0.0
+assignment::0.0
+solution tested::0.0
+figure 1b shows::0.0
+yielded::0.0
+implement localization systems::0.0
+reference::0.0
+depends::0.0
+result::0.0
+techniques::0.0
+face1::0.0
+face2::0.0
+approach::0.0
+terms::0.0
+received::0.0
+faces::0.0
+collecting::0.0
+height::0.0
+represented::0.0
+oblivious::0.0
+telecommunications::0.0
+anchors::0.0
+yield the maximum::0.0
+manes::0.0
+euclidean::0.0
+applies::0.0
+anchor::0.0
+spaces where installing::0.0
+conf::0.0
+gianni::0.0
+peaks::0.0
+spectrum value::0.0
+simulated::0.0
+aoa-based::0.0
+assigned::0.0
+bandwidth::0.0
+previous::0.0
+eferences::0.0
+elevation::0.0
+accuracy::0.0
+results were obtained::0.0
+meters::0.0
+gianni.giorgetti::0.0
+bottom::0.0
+comments::0.0
+h.-h::0.0
+ieee communications::0.0
+runtime::0.0
+accommodate::0.0
+assuming targets::0.0
+support::0.0
+initial::0.0
+approximate::0.0
+editor::0.0
+tracing approach adopted::0.0
+reflective environments::0.0
+form::0.0
+differences::0.0
+wireless::0.0
+illuminating::0.0
+true::0.0
+gianni giorgetti::0.0
+maximum::0.0
+devices::0.0
+proven::0.0
+floor::0.0
+setting::0.0
+digital::0.0
+node::0.0
+models::0.0
+fingerprinting::0.0
+technol::0.0
+asu.edu::0.0
+proposed::0.0
+row::0.0
+inverse::0.0
+depend::0.0
+pentagonal::0.0
+veh::0.0
+iii-d represents::0.0
+indoor::0.0
+anonymous::0.0
+measuring the strongest::0.0
+loads::0.0
+round::0.0
+zucchelli::0.0
+rappaport::0.0
+targets::0.0
+spectral::0.0
+classication::0.0
+suspect::0.0
+termsdirectional::0.0
+position by comparing::0.0
+incoming::0.0
+scenarios::0.0
+equipped::0.0
+approving::0.0
+arg::0.0
+values::0.0
+trans::0.0
+figure::0.0
+reported results::0.0
+requirements::0.0
+max::0.0
+unobtrusive::0.0
+patterns when faces::0.0
+applications::0.0
+designed::0.0
+mag::0.0
+data::0.0
+man::0.0
+classroom::0.0
+sandeep::0.0
+ghz::0.0
+switch::0.0
+estimation is limited::0.0
+typical::0.0
+experiments::0.0
+statistical::0.0
+multipath::0.0
+ieee::0.0
+low-cost::0.0
+offers::0.0
+main::0.0
+decades::0.0
+correspondence::0.0
+non::0.0
+cidronali::0.0
+underneath::0.0
+hall::0.0
+matched::0.0
+january::0.0
+realistic::0.0
+bursts::0.0
+assigned an error::0.0
+significantly::0.0
+deployment costs::0.0
+shown::0.0
+shadowing::0.0
+space::0.0
+multiple signal classification::0.0
+viable::0.0
+shows::0.0
+rf-based::0.0
+wi-fi::0.0
+solution bears::0.0
+first::0.0
+wlan::0.0
+potter::0.0
+localization systems based::0.0
+cybernetics::0.0
+array::0.0
+open::0.0
+size::0.0
+plastic::0.0
+locations::0.0
+alleviate the deployment::0.0
+exchanging::0.0
+computationally::0.0
+note::0.0
+ideal::0.0
+performance::0.0
+set to transmit::0.0
+multiple::0.0
+normal::0.0
+pair::0.0
+zaruba::0.0
+average::0.0
+dodecahedron::0.0
+senior::0.0
+show::0.0
+spaces::0.0
+ground::0.0
+deployments::0.0
+single-pole::0.0
+expectation::0.0
+ad-hoc::0.0
+bears resemblance::0.0
+yield::0.0
+bijective function::0.0
+collects::0.0
+1089-7798::0.0
+statical::0.0
+review::0.0
+prentice::0.0
+arrival::0.0
+infrastructure::0.0
+propagation::0.0
+switched-beam::0.0
+capable::0.0
+computing::0.0
+mart::0.0
+combined::0.0
+reflective::0.0
+prototype::0.0
+show that satisfactory::0.0
+direction::0.0
+readings::0.0
+covers::0.0
+case::0.0
+fingerprinting the last::0.0
+directional approach::0.0
+technology::0.0
+movements::0.0
+transceiver::0.0
+function that describes::0.0
+tracking::0.0
+802.15.x::0.0
+costs::0.0
+alleviate::0.0
+communications::0.0
+coordinate::0.0
+model::0.0
+ray tracing approach::0.0
+outdoor::0.0
+multiplex::0.0
+maurri::0.0
+dummy loads::0.0
+nonoverlapping::0.0
+grid::0.0
+coaxial::0.0
+serves::0.0
+chamber::0.0
+reduced::0.0
+satisfactory::0.0
+zigbee::0.0
+dimensions::0.0
+decomposition::0.0
+measuring::0.0
+power::0.0
+mobicom04::0.0
+comparison::0.0
+stations::0.0
+discussed::0.0
+neighbor::0.0
+beacons::0.0
+communication::0.0
+off-line::0.0
+bijective::0.0
+area::0.0
+los::0.0
+gianfranco.manes::0.0
+illuminated::0.0
+sophisticated::0.0
+corsi::0.0
+applying::0.0
+improved::0.0
+single-anchor::0.0
+antenna::0.0
+acknowledgments::0.0
+suited::0.0
+range-free::0.0
+building::0.0
+partitioned::0.0
+resolution::0.0
+pointing::0.0
+approach extends previous::0.0
+gupta::0.0
+caused::0.0
+range-based::0.0
+reviewers::0.0
+nodes::0.0
+large::0.0
+adjust::0.0
+suited for large::0.0
+small::0.0
+niculescu::0.0
+method::0.0
+two anchors::0.0
+operating::0.0
+measured data::0.0
+abstractwe::0.0
+optimized for size::0.0
+florence::0.0
+environment::0.0
+two::0.0
+comparing::0.0
+signal strength measurements::0.0
+obtained from rss::0.0
+tested::0.0
+varying::0.0
+mounted::0.0
+approach we evaluate::0.0
+equation::0.0
+installing::0.0
+approach one step::0.0
+sense::0.0
+onclusions::0.0
+information::0.0
+goal::0.0
+simplicity::0.0
+intended::0.0
+mapping::0.0
+plane::0.0
+waves::0.0
+reference nodes::0.0
+response::0.0
+extends previous solutions::0.0
+maximum spectrum::0.0
+september::0.0
+installed::0.0
+radiators::0.0
+systems::0.0
+propose::0.0
+adjacent::0.0
+found::0.0
+digital object::0.0
+expect::0.0
+measurement::0.0
+unifi.it::0.0
+patterns measured::0.0
+research::0.0
+varying the antennas::0.0
+giorgetti::0.0
+localization::0.0
+base::0.0
+polarization design::0.0
+ash::0.0
+e.g::0.0
+positioning::0.0
+shows the deployment::0.0
+assign::0.0
+station::0.0
+scheme::0.0
+strength information sufficient::0.0
+approach adopted::0.0
+shows two::0.0
+initial antenna prototype::0.0
+polarized::0.0
+software1::0.0
+liu::0.0
+simax::0.0
+building the antenna::0.0
+measured::0.0
+popular multiple signal::0.0
+mobile::0.0
+azimuth::0.0
+relation::0.0
+rangebased::0.0
+networks::0.0
+impact::0.0
+gains::0.0
+line-of-sight::0.0
+peaks for angles::0.0
+krim::0.0
+resolve::0.0
+transceivers::0.0
+set::0.0
+achieved::0.0
+sec::0.0
+show that single-anchor::0.0
+close::0.0
+ansoft::0.0
+selectively::0.0
+localization solutions::0.0
+relying::0.0
+last::0.0
+yielded an average::0.0
+improves::0.0
+point::0.0
+simple::0.0
+corresponds::0.0
+expensive::0.0
+spaces where line::0.0
+described::0.0
+widely adopted log-normal::0.0
+describes::0.0
+ensured::0.0
+collected::0.0
+attractive::0.0
+antenna prototype optimized::0.0
+covariance::0.0
+imax::0.0
+tolerate::0.0
+evaluated::0.0
+error::0.0
+radio::0.0
+pack::0.0
+real::0.0
+vol::0.0
+based on angle::0.0
+vor::0.0
+italy::0.0
+model that relates::0.0
+widely::0.0
+literature::0.0
+desks::0.0
+strength::0.0
+microstrip::0.0
+knn::0.0
+cc2420::0.0
+database::0.0
+location tracking::0.0
+parametric::0.0
+inactive::0.0
+exploiting beacons::0.0
+alessandro.cidronali::0.0
+location::0.0
+emergency::0.0
+evaluate::0.0
+values to estimate::0.0
+semi::0.0
+signal::0.0
+collect::0.0
+popular::0.0
+strongest::0.0
+sight::0.0
+measurements::0.0
+six-through rf switch::0.0
+desirable::0.0
+behave::0.0
+proc::0.0
+minimal::0.0
+object::0.0
+processing::0.0
+perpendicular::0.0
+step::0.0
+radiating elements::0.0
+tracing::0.0
+shadowing model::0.0
+range::0.0
+computational::0.0
+letter::0.0
+nsf::0.0
+perturbing::0.0
+rows::0.0
+placing::0.0
+simulated radiation::0.0
+sections::0.0
+line::0.0
+planes::0.0
+resolve the target::0.0
+targets applications::0.0
+similar::0.0
+doa::0.0
+single::0.0
+collects signal::0.0
+application::0.0
+access point::0.0
+department::0.0
+elements::0.0
+users::0.0
+algorithm::0.0
+requires::0.0
+results::0.0
+compact::0.0
+space underneath::0.0
+maddio::0.0
+cluttered::0.0
+include::0.0
+incoherent::0.0
+positions::0.0
+anechoic::0.0
+index::0.0
+access::0.0
+communications letters::0.0
+design::0.0
+receive::0.0
+larger::0.0
+indoor location::0.0
+survey::0.0
+implement::0.0
+anchor nodes::0.0
+formulated::0.0
+apply::0.0
+fed::0.0
+usa::0.0
+estimated::0.0
+zero-configuration::0.0
+normalized::0.0
+antennas::0.0
+iii::0.0
+control::0.0
+single wi-fi::0.0
+assumptions::0.0
+proof-of-concept::0.0
+signal classification::0.0
+arrangement::0.0
+regions::0.0
+located::0.0
+circular::0.0
+simax computed::0.0
+large classroom::0.0
+produces::0.0
+sensor network::0.0
+significantly perturbing::0.0
+estimating::0.0
+grid covers::0.0
+area partitioned::0.0
+practice::0.0
+university::0.0
+antennas height::0.0
+identifier::0.0
+traces::0.0
+constraints::0.0
+gianfranco::0.0
+viberg::0.0
+frequency::0.0
+relates::0.0
+patch::0.0
+popular multiple::0.0
+aoa::0.0
+exhibits peaks::0.0
+coordinating the review::0.0
+electronics::0.0
+partition the deployment::0.0
+tempe::0.0
+approaches::0.0
+application scenarios include::0.0
+steerable::0.0
+feasible::0.0
+facilitate::0.0
+ntroduction::0.0
+manuscript::0.0
+proposing::0.0
+publication::0.0
+techniques and systems::0.0
+bears::0.0
+system::0.0
+adopted::0.0
+data to evaluate::0.0
+estimate the targets::0.0
+rss::0.0
+position and assuming::0.0
+friis::0.0
+rss signatures::0.0
+element::0.0
+angle::0.0
+directivity::0.0
+requires only two::0.0
+polarization::0.0
+allerton::0.0
+device::0.0
+radiating::0.0
+face::0.0
+dbm::0.0
+supported::0.0
+six-through::0.0
+ntenna the antenna::0.0
+based::0.0
+survey to collect::0.0
+rssi readings::0.0
+lobe::0.0
+room and collects::0.0
+beam::0.0
+coordinating::0.0
+areas::0.0
+substrate::0.0
+indoor radio communication::0.0
+fixed::0.0
+view::0.0
+computed::0.0
+alessandro::0.0
+exploited::0.0
+pattern::0.0
+state::0.0
+comparable::0.0
+algorithms described::0.0
+compatible with ieee::0.0
+ets::0.0
+schemes for two::0.0
+equal::0.0
+estimation::0.0
+evaluated using rss::0.0
+environments::0.0
+nonoverlapping regions::0.0
+first computing::0.0
+fixed antenna::0.0
+define::0.0
+describe::0.0
+sufficient::0.0
+proximity-based::0.0
+angles::0.0
+last solution::0.0
+value::0.0
+received september::0.0
+site::0.0
+similar measurements::0.0
+avg::0.0
+regression::0.0
+radiation::0.0
+ieee signal::0.0
+member::0.0
+http::0.0
+described in literature::0.0
+evaluated the localization::0.0
+set of similar::0.0
+center::0.0
+patterns::0.0
+site survey::0.0
+sets::0.0
+position::0.0
+spherical::0.0
+ranging schemes::0.0
+proximity::0.0
+capable of selectively::0.0
+vor base::0.0
+stored::0.0
+rooms::0.0
+reasons::0.0
+nath::0.0
+extends::0.0
+sandeep.gupta::0.0
+resolved::0.0
+deployment::0.0
+processing research::0.0
+helpful::0.0
+chairs::0.0
+exploiting::0.0
+works::0.0
+values are centered::0.0
+strength measurements::0.0
+e-mail::0.0
+assuming::0.0
+locate::0.0
+selecting::0.0
+two decades::0.0
+circular polarization::0.0
+actual::0.0
+manuscript received::0.0
+compatible::0.0
+estimation localization error::0.0
+letters::0.0
+previously::0.0
+ntroduction mart::0.0
+k-nearest::0.0
+terminated::0.0
+assign the targets::0.0
+stations for indoor::0.0
+additional::0.0
+approach extends::0.0
+function::0.0
+expected::0.0
+base stations::0.0
+non los::0.0
+gain::0.0
+approach improves::0.0
+propose three localization::0.0
+bluetooth::0.0
+implement localization::0.0
+arizona state::0.0
+switched-beam antenna gianni::0.0
+distribution::0.0
+absolute 2d target::0.0
+algorithm produces::0.0
+compared::0.0
+larger ground::0.0
+impact.asu.edu::0.0
+matrix::0.0
+found an average::0.0
+previous solutions exploiting::0.0

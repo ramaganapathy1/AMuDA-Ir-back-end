@@ -1,0 +1,1051 @@
+FACTA UNIVERSITATIS
+Series: Automatic Control and Robotics Vol. 13, No 1, 2014, pp. 57 - 72
+
+Survey paper
+
+INDOOR LOCALIZATION AND TRACKING: METHODS,
+TECHNOLOGIES AND RESEARCH CHALLENGES
+UDC (004.722.45:004.93’1)
+
+Dragan H. Stojanović, Natalija M. Stojanović
+University of Niš, Faculty of Electronic Engineering, Department of Computer Science,
+Niš, Republic of Serbia
+Abstract. The paper presents a comprehensive survey of contemporary methods,
+technologies and systems for localization and tracking of moving objects in an indoor
+environment and gives their comparison according to various criteria, such as
+accuracy, privacy, scalability and type of location data. Some representative examples
+of indoor LBS applications available on the market are presented based on the
+reviewed localization technologies. Prominent research directions in this domain are
+categorized and discussed.
+Key words: location sensing, indoor localization, indoor positioning, triangulation,
+fingerprinting, location-based services, accuracy
+
+1. INTRODUCTION
+The proliferation of wireless communication and mobile devices with sensing
+capabilities has given rise to mobile and pervasive systems and services that offer novel
+opportunities for users behaving and acting in the environment. The range of services,
+often referred as location-based (LBS) and context-aware services, have emerged in many
+different domains, such as personal navigation, mobile tourist guides, vehicle tracking,
+traffic monitoring, pervasive healthcare, emergency management, environment protection,
+analysis of animal behavior, etc. [1][2]. At the heart of these services lies the ability to
+Received April 2, 2014
+Corresponding author: Dragan H. Stojanović
+University of Niš, Faculty of Electronic Engineering, Department of Computer Science, Niš, Republic of Serbia
+E-mail: dragan.stojanovic@elfak.ni.ac.rs
+Acknowledgement: This paper was realized as a part of the projects "Studying climate change and its
+influence on the environment: impacts, adaptation and mitigation" (III 43007), financed by the Ministry of
+Education and Science of the Republic of Serbia within the framework of integrated and interdisciplinary
+research for the period 2011-2014, and "Semantic Location-Based Services for Indoor Environments" (PHC
+Pavle Savic – 2012-2013).
+
+
+58
+
+D.H. STOJANOVIĆ, N.M. STOJANOVIĆ
+
+sense and determine in real-time the location of mobile users [3]. In open space
+(outdoors), mobile devices/users are most commonly and accurately positioned by GPS
+technology and satellite-based infrastructure that provide location as a point in a
+geographic reference system. The current satellite positioning systems are: NAVSTAR
+Global Positioning System1, GLONASS2 and Galileo3, which is expected to be fully
+operational in 2020. The main disadvantage of GPS-based positioning is its dependency
+on a direct line-of-sight with the satellites and thus unavailability in indoor spaces, as well
+as in natural/urban canyons. Also, the accuracy of positioning methods based on cellular
+networks (e.g. Cell-ID or TOA – Time of Arrival) is not sufficient for use indoors.
+Nevertheless, people spend most of their time indoors (80-90% ), in offices, shopping
+malls, hospitals, metros, museums, etc., hence the possibility to determine locations and
+trajectories of people and objects inside buildings and other closed structures becomes
+increasingly important. For advanced indoor LBSs supporting museum/fair guides, fire
+rescues, emergency management, or simply ordinary businesses, quality and effectiveness
+of services demand knowing immediately where people and resources are inside buildings
+and other complexes and how to navigate to certain locations [4]. It is of great importance
+to provide seamless integration and handover of different localization technologies while
+users move from open space to various closed environments and vice-versa, and efficient
+adaptation of indoor LBSs to changing environments, contexts and situations.
+With advances in sensor technologies and wireless communications, various indoor
+localization methods and systems have been developed over the past years. In indoor
+environments, positioning is mainly achieved through the use of radio technologies, such
+as Wireless Local Area Networks (WLAN, Wi-Fi), Bluetooth, Zigbee, Ultra-wideband
+(UWB), and Radio-frequency identification (RFID), or infrared (IR) and ultrasound
+technologies [5][6]. In 2011, twenty-two international companies formed the In-Location
+Alliance [7] to standardize and commercialize the indoor localization technologies and
+systems. The alliance currently includes large multi-national companies such as Nokia,
+Samsung, Qualcomm and Sony, and more than a hundred other high tech companies,
+showing the importance of indoor LBS research and development domain.
+This paper presents a survey of the state-of-the-art methods, technologies and systems for
+indoor localization and tracking and reviews of some advanced indoor LBS applications
+based on these methods and technologies. The paper is organized as follows. Section 2
+describes methods and algorithms for pervasive positioning. Section 3 presents indoor
+localization systems and technologies, gives their comparative classification, and presents
+representative examples of indoor LBS applications. The prominent research directions are
+categorized and discussed in Section 4. Finally, Section 5 gives a conclusion.
+
+2. METHODS AND TECHNIQUES FOR INDOOR LOCALIZATION
+The core of any localization method relies on the real-time measurement of one to
+several parameters, such as angles, distances, or distance differences [8]. Measurement
+parameters reflect the location of a target object relative to a single point or several fixed
+1
+
+http://www.gps.gov/
+http://www.glonass-ianc.rsa.ru/en/
+3
+http://www.esa.int/esaNA/galileo.html
+2
+
+Indoor Localization and Tracking: Methods, Technologies and Research Challenges
+
+59
+
+points in the environment with the known locations. Such parameters are measured using
+physical characteristics of electromagnetic radio and infrared signals, as well as
+ultrasound signals, such as their travel time, velocity or attenuation. After the determination
+of the required parameters, the target object’s location can be calculated using the
+measurement results and the known locations of the fixed points.
+There are four principal techniques and methods for location calculation and estimation:
+ The proximity technique (see Fig. 1a) derives the location of a target object with
+respect to its vicinity to the location of the known object(s). A target object receives
+the signal from a given node, so the location of the node or the symbolic cell
+identification defines the location of a target.
+ The triangulation technique uses the triangle geometry to compute locations of a target
+object. It is applied via lateration (actually trilateration) (see Fig. 1b), that uses distance
+measurements to points with the known locations, or via angulation (sometimes also
+referred as triangulation) (see Fig. 1c), which measures angles relative to points with the
+known arrangement. Since electromagnetic/ultrasound signals move with the known and
+nearly constant speed, the determination of the time difference between sending and
+receiving a signal enables computation of the spatial distance between a transmitter and a
+receiver. Known distances from three or more transmitters provide accurate positioning
+of the target object. For the angulation technique, antennas with direction capabilities are
+used. Given two or more directions from fixed locations to the same object, the location
+of the target object can be computed.
+ Scene analysis techniques involve examination and matching a video/image or
+electromagnetic characteristics viewed/sensed from a target object. The analysis of
+electromagnetic “scene” sensed by a target object defined by electromagnetic signals
+and their strengths from different transmitters, provides the determination of location
+using a pattern matching, radio map technique. Using video cameras, a positioning
+system can detect significant patterns in a video data stream to determine the user’s
+location. If users wear badges with certain labels, they can be detected in video images
+and thus localized and tracked in indoor environment covered by a camera. At the
+other extreme are techniques involving the matching of perspective video images of
+the environment captured by a camera, worn by a person or mounted on a mobile
+robot platform, to 3D models stored in an image/video database of the mobile device.
+ Dead reckoning techniques provide estimation of the location of a target object based
+on the last known location, assuming that the direction of motion and either the
+velocity of the target object or the traveled distance are known.
+N
+
+a)
+
+b)
+
+c)
+
+Fig. 1 Location sensing techniques a) proximity b) trilateration c) angulation
+
+60
+
+D.H. STOJANOVIĆ, N.M. STOJANOVIĆ
+
+Indoor localization technologies, based on one or more positioning techniques and
+methods, possess different characteristics that determine their suitability for specific
+indoor LBS and context-aware applications.
+Indoor localization and tracking technologies can be based on either an existing
+communication network, or a dedicated network/infrastructure that is solely used to
+receive/transmit positioning signals. Mobile devices worn by a person or mounted on a
+robot can be active when transmitting a signal themselves, or passive when just receiving
+a signal. The location can be determined in the mobile device itself, in the wireless
+network, or within the dedicated positioning infrastructure.
+Indoor localization systems differ in accuracy, precision, scope, the type of determined
+location: geometric or symbolic, and the cost. An estimated location is considered accurate if
+it corresponds, as much as possible, to the true location of the target object. Precision refers
+to the repeatability of the measurement and indicates how sharply a location can be
+defined for the sequence of location determinations. The accuracy of a localization system
+could be defined by an uncertainty area, i.e. the location is actually defined as an ellipse
+(ellipsoid) around the determined location.
+An indoor localization system delivers the target object’s location with regard to a
+spatial reference system or to a defined symbolic space. Geometric location is determined
+in the defined geographic/geometric reference system, such as WGS-84 or a local
+coordinate system, and can be either absolute or relative to a reference point. The
+localization and tracking of moving indoor objects can be either in 2-D, 3-D, if the object
+can be localized in the entire volume of 3-D space, or in 2.5-D, when the object location
+is tracked at discrete levels, e.g. floors, of the 3rd spatial dimension. For the purpose of
+indoor navigation and tracking the symbolic location is more appropriate. Thus, indoor
+localization systems mainly determine symbolic locations in terms of cell identifiers,
+buildings, room numbers, objects in the room, etc. Indoor localization systems differ also
+in scope of location determination. Since the majority of localization methods depend on
+the propagation properties of electromagnetic signals their effectiveness and efficiency
+depend on the environment. While satellite-based (GPS) and cellular network-based
+positioning systems are intended for outdoor space with the scope that may be the whole
+Earth, a certain region or a metropolitan area, indoor localization systems are characterized
+by a much narrow scope, such as a university campus, a building or a room. There exist a
+variety of indoor localization technologies and solutions intended for indoor spaces that
+require some kind of infrastructure that is usually not available in open space. An indoor
+localization system determines also the cost needed for a system to be fully operative,
+such as the time and space for installation and maintenance of the required infrastructure,
+as well as the price of equipment that is required. For example, the need for specialized
+hardware and/or network installations, leads to higher deployment and maintenance costs
+and poor scalability.
+Indoor localization methods and technologies can be classified according to the scope
+of infrastructure needed for localization, the type of such infrastructure if any and their
+suitability for indoor or limited outdoor spaces. Also, according to the part of the system
+where the location is calculated/estimated, i.e., whether a mobile device locates itself or is
+tracked, indoor localization systems can be centralized or distributed. All mentioned
+characteristics significantly determine the usability of particular indoor localization
+technologies for specific indoor LBS applications.
+
+Indoor Localization and Tracking: Methods, Technologies and Research Challenges
+
+61
+
+Thus, according to the wireless communication and sensing technologies employed,
+indoor localization technologies can be classified as:
+ Wireless communication-based localization technologies (Wi-Fi, Bluetooth, UWB,
+Zigbee, RFID, IR, ultrasound, etc.) are based on wireless communication or standalone infrastructure (WLAN and WPAN) constrained to indoor and limited outdoor
+spaces, providing determination of location either at the mobile device or in the
+infrastructure.
+ Dead reckoning localization technologies use motion sensors (accelerometer, digital
+compass, gyroscope, etc.) and odometers to determine location at the device without
+the need for infrastructure, with the scope limited by the accumulated error.
+ Video scene analysis represents localization technologies based on the processing of
+video signals to detect specific tags in the scene (barcodes) or match the scene with
+prerecorded images/video to determine the location at either the mobile device itself,
+or to track target objects moving in the scene.
+
+3. INDOOR LOCALIZATION AND TRACKING TECHNOLOGIES AND SYSTEMS
+Over the last twenty years, many indoor localization technologies have been proposed,
+developed and experimentally evaluated by both academia and industry that provide
+appropriate location data to tracking and navigation capabilities of indoor location-based
+and context-aware services. But there is still a lack of wide acceptance and large scale
+deployments of indoor localization systems.
+The most popular indoor localization systems use Wi-Fi technology, because of wide
+availability of Wi-Fi network infrastructure [9]. Wi-Fi positioning systems use a radio
+propagation model to determine the distance to the various access points and then
+triangulation techniques (TOA, TDOA) to estimate location of a mobile device. Multipath
+distortion and variability of Wi-Fi signal strength in time limit the accuracy of such
+techniques. Most currently available Wi-Fi positioning solutions are based on the scene
+analysis technique, called the fingerprinting technique. The method uses the Received
+Signal Strength Indication (RSSI) to measure the strength of signals received from the
+surrounding access points at discrete locations in space. Such a radio map has to be built
+before the system is operational. The calculation of the location consists of measuring the
+RSSI from several access points (AP) and then attempting to match these measurements
+with the RSSI values of the previously calibrated location points stored in a radio map
+database. Depending on the pre-built radio map and the density of calibration points, the
+accuracy of the fingerprinting technique is expected to be in the range of 1 to 10 m [6][9].
+The major limitation of the Wi-Fi based fingerprinting localization systems is the
+construction of the RSSI radio map that needs to be generated in advance and updated
+after furniture reallocation, removal/reallocation of the existing access points and
+installation of new ones, or algorithmically adapted, as proposed in [10]. The fundamental
+problem in Wi-Fi fingerprinting is that heterogeneous mobile devices measure radio
+signal strength differently. In that case, either a calibration for each new wireless device is
+needed or specialized methods, such as hyperbolic location fingerprinting, presented in
+[11], need to be implemented.
+
+62
+
+D.H. STOJANOVIĆ, N.M. STOJANOVIĆ
+
+One of the first Wi-Fi localization systems was RADAR [12]. Recently many Wi-Fi
+based localization systems emerged. Hensen at al. in [13] describe SmartCampusAAU as
+a platform that enables indoor positioning and navigation based on Wi-Fi fingerprinting
+technique and supports both device- and infrastructure-based positioning. The localization
+platform is available on all major mobile platforms (Android, iPhone and Windows
+Phone). The work of Laoudias et al. in [14] presents the localization approach based on
+signal strength differences, that is more robust to device variations and maintains the
+localization accuracy regardless of the number and type of contributing devices. Besides
+research works, several commercial localization systems are also available on the market,
+such as Ekahau Real-Time Location System [15], Skyhook Wireless [16] and Navizon
+indoor location solutions [17].
+On the other hand, UWB communication technology has emerged, providing better
+positioning accuracy than Wi-Fi. It is suitable for high-precision real-time positioning
+using TOA, TDOA, AOA and fingerprinting. UWB signals are less sensitive to multipath
+distortion and environment than conventional RF-based positioning systems, so they can
+achieve higher accuracy. At bandwidths of at least 500MHz and high time resolution in
+the order of nanoseconds, it is possible to obtain accuracy of ranging and localization at
+cm‐level [18]. A MUSIC-based method proposed in [19] can achieve high localization
+accuracy, in the order of 1 cm, by using spatially distributed antennas that transmit the
+same UWB impulse sequence used for self-localization of IR UWB nodes [20]. However,
+the high cost of UWB equipment and infrastructure deployment results in its limited
+availability for positioning [21]. To date, several UWB positioning systems have been
+implemented and deployed, such as the Ubisense system [22] and PulsON [23] system
+developed by Time Domain.
+Bluetooth is a wireless technology that can be used for localization and tracking,
+mainly indoors. Bluetooth positioning systems have similar working principles as the selflocalization schemes of sensor networks. The operation principle of both types of systems
+is based on obtaining the range information to anchor devices or access points and
+exploring unknown device locations using various algorithms. The majority of the
+available research and commercial systems are based on trilateration using the RSSI for
+calculating distances between Bluetooth devices, although several reported systems have
+explored proximity, cell-based approach. A comprehensive evaluation of all Bluetooth
+signal parameters and their suitability for localization purposes is provided in [24].
+Bluetooth localization methods are primarily based on RSSI and Link Quality (LQ)
+measurements. Cell-based methods rely on the proximity (visibility) of Bluetooth beacons
+for determining the location of a device and are gaining popularity with the
+implementation of Bluetooth LE (Low Energy) standard. The localization accuracy of the
+system is 1 - 5 m (< 0.3 m for Bluetooth LE) and depends on the positioning technique used
+and the characteristics (density, layout, etc.) of the deployed infrastructure of Bluetooth
+devices and beacons [6][25]. Current examples of Bluetooth positioning systems are
+ZONITH Indoor Positioning System [26], TOPAZ [27] and Apple iBeacon [28].
+In general, RFID systems are designed so that the reader detects the vicinity of a tag
+and retrieves the data stored in that tag. Therefore, the absolute location of the tag is not
+known but the RFID system is aware that a tag is placed at a certain range that depends on
+the type of the system used, either active or passive RFID [29]. Besides the proximity
+technique that provides symbolic location of the tag according to a reader location, there
+
+Indoor Localization and Tracking: Methods, Technologies and Research Challenges
+
+63
+
+are several methods for performing accurate positioning using active RFID technology.
+These methods employ techniques such as AOA, TDOA and RSSI that achieves accuracy
+in the range of 1-5 m, or even bellow 1m, depending on the density of tag deployment and
+RFID reading ranges [30]. The examples of location sensing systems using the RFID
+technology are SpotON [31] and LANDMARC [32].
+The ZigBee technology is an emerging wireless communication standard for PAN/LAN
+intended for applications which do not need significant data throughput, but require lowpower consumption. As such, ZigBee is widely used in smart home environments. The
+localization is usually performed using proximity and TOA methods based on distances from
+the surrounding ZigBee nodes calculated using RSSI. Several recent research papers
+propose and evaluate localization algorithms and systems based on ZigBee achieving the
+accuracy of 1-10 m [5]. Larranaga et al. in [33] present a flexible indoor localization
+system based on ZigBee Wireless Sensor Networks based on RSSI level measurements.
+The localization system consists of two phases: calibration phase, which is performed
+whenever a blind ZigBee node needs to be located and actual localization phase with
+accuracy 3m on average. Hu et al. in [34] propose an algorithm based on signal
+preprocessing and calibration to correct multipath propagation and improve ZigBee based
+indoor localization. Bras et al. in [35] describe a ZigBee location protocol, implemented
+by reducing end nodes communication intervals and developing a proper router and
+coordinator firmware. This protocol provides two localization methods based on proximity
+and multi-RSSI reference nodes location that provides support for triangulation and
+fingerprinting.
+Dedicated positioning methods, commonly based on infrared and ultrasound technologies,
+provide a high degree of accuracy, but require expensive equipment limited to a small scale
+that usually have high installation and maintenance costs [5]. In infrared (IR)-based systems,
+each tracked person is wearing a small infrared device that emits a unique pulse signal
+representing its unique identifier. The signals are detected by at least one particular IR
+sensor in the vicinity. A location server estimates IR device location by aggregating data
+obtained from fixed IR sensors deployed within the indoor environment. The Active
+Badge system [36], as the first IR positioning system, works this way and provides
+symbolic location information at the room or smaller level depending on deployed IR
+sensor infrastructure. Ultrasound-based systems use an ultrasound time-of-flight lateration
+technique to provide more accurate physical positioning than by using infrared signals
+and sensors. The existence of NLoS (Non Line of Sight) conditions and multipath
+propagation in indoor environments are the main problems in the development of reliable
+ultrasound-based indoor localization system, achieving accuracy in the range of 1 cm –
+1m [37]. The prominent examples are Active Bat system and the Cricket indoor location
+system [5].
+Many existing indoor localization approaches reviewed so far require infrastructure
+(e.g., Bluetooth beacons) to achieve reliable accuracy. There are also passive positioning
+systems that do not require specialized infrastructure. Such systems sense naturally
+occurring signals or physical phenomena and are based on, for example, magnetic
+compasses sensing the Earth’s magnetic field, inertial sensors measuring acceleration and
+the heading of an object in motion, and vision systems sensing a scene and its features or
+recognizing specific visual patterns (barcodes). In order to be functional they require indoor
+map information. Dead reckoning is the process of estimating the current location of a
+
+64
+
+D.H. STOJANOVIĆ, N.M. STOJANOVIĆ
+
+moving device using the location calculated at some previous time instant, and the velocity,
+speed or heading estimate till the current time instant. The dead reckoning-based localization
+systems, also known as Inertial Navigation Systems (INS), can be used for both indoor and
+outdoor positioning. In indoor environment such systems use accelerometers to obtain
+human velocity rate information through step detection and step length estimation. Also,
+digital compass and gyroscope measurements are used for direction and angular rate
+information. All measured data is processed to continuously calculate the location,
+direction (bearing), and velocity of a moving object without the need for external references,
+but taking into account the known indoor map constraints. On the other hand, the velocity of
+indoor vehicles or robots is calculated by appropriate odometers. However, even very small
+errors in the rate information provided by inertial sensors cause an unbounded growth in the
+error of the integrated measurements, usually referred as the “drift error”.
+Dead reckoning based systems have been implemented in various indoor tracking
+domains, such as for pedestrian navigation [38] and mobile robot localization [39] [40].
+Hardegger et al. in [41] present Smart ActionSLAM, an Android smartphone application
+that performs location tracking in home and office environments that uses the integrated
+motion sensors of the smartphone and an optional foot-mounted inertial measurement unit to
+perform personal localization and tracking. A mobile robot localization system that
+combines INS and odometry, and use Kalman filters to estimate the orientation and velocity
+of mobile robots to calculate their more accurate positions, is presented in [39]. Localization
+systems that do not require pre-deployed infrastructure, or with which such an infrastructure
+could be deployed fast by e.g. ultrasound bacons, are particularly suitable for use by
+emergency responders such as firefighters. The conditions they work in are significantly
+more demanding, caused by darkness, smoke, fire, power outages, etc., so special efforts
+have been put to the research and development of appropriate localization and navigation
+systems based on dead reckoning, but also ultrasound and RFID [42].
+Visual positioning systems use low cost 2D tags (e.g., barcodes) with the encoded
+information that can be recorded and processed by a mobile device with a built-in camera,
+as in the system proposed in [43]. The symbolic location of a device is estimated by
+finding the tag’s identifier and associated location in a deployment database, or by
+decoding the location information embedded in the tag itself [44]. Positioning systems
+based on video scene analysis are based on computer vision technology to recognize
+tracked objects in video data. Easy Living by Microsoft Research provides one example
+of this approach [45] where a video surveillance system tracks moving objects recognized
+in the video scenes. Also, the mobile device can use video scene analysis to estimate its
+location by comparing a snapshot of a scene generated by itself with a number of preobserved simplified images of the scene taken from different positions and perspectives.
+An improved performance and sub-meter (1 cm – 1 m) accuracy of camera-based
+localization systems has promoted them as promising positioning solutions for
+applications in industry, as well as robot and pedestrian localization and navigation [46].
+Murillo et al. in [47] present a wearable omnidirectional vision system and a novel twophase localization approach running on it for personal localization and guidance. It is
+based on real time visual odometry SLAM (Simultaneous Localization and Mapping)
+method adapted to catadioptric images augmented with topological-semantic information.
+The important characteristics of indoor localization systems and related technologies
+are reviewed in Table 1.
+
+Indoor Localization and Tracking: Methods, Technologies and Research Challenges
+
+65
+
+Indoor LBSs deliver local spatially-referenced information and spatial–processing
+power to mobile users in accordance with their past, current and predicted location, or to
+the locations of the moving/stationary objects of their interest. Depending on services’
+requirements and the context of their usage, different indoor localization technologies and
+systems are used at the heart of such services. There are a lot of classifications and
+taxonomies of location-based services presented in the literature so far [1][48], while new
+services continue to emerge. This is an attempt to make a classification of indoor LBSs,
+the localization technologies and systems they are based on, and to present some
+prominent examples of such applications.
+Table 1 A review of indoor localization technologies and systems
+System
+
+Technique
+
+Methods
+
+Cell-ID
+TOA
+TDOA
+AOA
+RSSI
+
+Accuracy
+
+Calculated at
+
+10-100 m
+(Prox.)
+1-10 m
+
+Mobile Infrastrdevice ucture
+
+
+RSSI
+TOA
+TDOA
+AOA
+Prox.
+
+Wi-Fi
+
+Proximity
+Trilateration
+Angulation
+Scene anal.
+
+UWB
+
+Trilateration RSSI
+1cm-1 m
+Angulation TOA,TD
+OA, AOA
+
+Bluetooth
+
+Proximity
+Cell-ID
+Scene anal. RSSI
+Trilateration TOA
+
+1-5 m
+
+
+TOA
+RSSI
+
+ Prox.
+
+RFID
+
+Proximity
+Cell-ID
+Trilateration RSSI
+Scene anal.
+
+1-5 m
+
+
+
+
+
+Zigbee
+
+Proximity
+Cell-ID
+Trilateration RSSI
+
+1-10 m
+
+ RSSI  Prox.
+
+Infrared
+
+Proximity
+Cell-ID
+Trilateration TOA
+
+1cm-5m
+
+ TOA  Prox.
+
+Ultrasound Trilateration TOA,
+TDOA
+
+1cm-1m
+
+Geo
+metric
+
+
+ Prox.
+
+
+
+
+
+Cost
+
+high
+
+low
+
+low
+
+high
+
+Sym
+bolic
+
+
+
+
+
+Scalability
+
+ Prox.
+
+
+
+high
+
+medium
+
+low
+
+low
+
+low
+
+medium
+
+low
+
+medium
+
+
+
+
+
+low
+
+high
+
+low
+
+high
+
+medium
+
+high
+
+Computer 1cm-1m
+vision
+
+
+
+
+
+
+
+Pattern
+1-10 m
+recognitin
+
+
+
+
+
+
+
+
+
+
+
+medium
+
+medium
+
+
+
+high
+
+low
+
+Video
+scene
+analysis
+
+Scene anal.
+
+Barcodes
+
+Proximity
+Angulation
+
+Sensor
+networks
+
+Proximity
+Cell-ID
+Trilateration RSSI
+
+10 cm-1 m
+
+INS, PNS
+
+Dead
+reckoning
+
+1-10 m
+
+Angulation
+
+
+
+Location type
+
+
+
+
+
+D.H. STOJANOVIĆ, N.M. STOJANOVIĆ
+
+66
+
+The location-based service requirements and applications of localization technologies
+and methods in various indoor LBSs available on the market are reviewed in Table 2
+along with the accuracy required by a particular service (Very high, from 0-1m; High,
+from 1-5m; Medium, from 5-15m; and Low, greater than 15m).
+Table 2 Applications of localization technologies and systems in indoor LBSs.
+Application domains
+
+Indoor localization
+technologies
+
+Accuracy
+
+Indoor LBS and system examples
+
+Asset tracking
+
+RFID, Infrared (IR), Very high MultiLUX
+Barcode Scanning
+http://www.multilux.eu/
+
+Location-based
+advertising
+
+Bluetooth beacons
+(iBeacon)
+
+Low
+
+Mobile to Mortar™ - inMarket
+http://www.inmarket.com/
+
+Shopping assistance
+system
+
+Bluetooth, WiFi
+
+High
+
+StoreMode - PointInside
+http://www.pointinside.com/
+aisle411 - Walgreen stores
+http://aisle411.com/
+
+Museum, fairs, airports, Wi-Fi fingerprinting, Medium
+guided tours
+Bluetooth LE
+
+awiloc® – Fraunhofer IIS
+http://www.iis.fraunhofer.de/en/bf/ln/
+technologie/rssi/mf.html
+
+School, university
+campus
+
+Wi-Fi fingerprinting, Medium
+Wi-Fi TOA/TDOA
+
+SmartCampusAUU
+http://smartcampus.cs.aau.dk/
+Campus Guide (MazeMap)
+https://use.mazemap.com/
+
+Hospitals, healthcare,
+Ambient Assistant
+Living (AAL)
+
+Wi-Fi fingerprinting, High
+RFID, IR
+
+Radiance skyView
+http://www.radianse.com/
+Versus Advantages
+www.versustech.com/
+
+Emergency response and Ultrasound,
+rescue management
+dead reckoning
+
+Medium
+
+Pathfinder- SummitSafety
+http://www.summitsafetyinc.com
+
+Robotics
+
+Dead reckoning,
+infrared, UWB,
+vision sensors
+
+Very high Adept MobileRobots
+http://www.mobilerobots.com
+
+Indoor sports
+
+Bluetooth LE
+
+Very high SportIQ - http://www.sportiq.fi/
+using HAIP – http://quuppa.com/
+
+Smart home
+
+ZigBee
+
+High
+
+CC2431 - Texas Instruments
+www.ti.com/corp/docs/landing/cc2431/
+
+Augmented reality
+
+LLA Markers
+(barcodes), INS
+
+High
+
+Junaio
+http://www.junaio.com/
+
+Indoor Localization and Tracking: Methods, Technologies and Research Challenges
+
+67
+
+5. RESEARCH CHALLENGES
+Localization technologies and location data collection systems provide many
+resources for the development of mobile and pervasive computing and applications. Still,
+a lot of open issues and future research directions should be explored for the development
+of the next generation of location-based applications and services.
+5.1. Seamless integration of localization methods and systems
+When considering the accuracy, availability and scope of a localization system while
+reducing its power consumption and cost, the integration of several localization
+technologies and systems is an option that might be relevant in many contexts. The goal
+of such integration is to improve the accuracy, availability and scale of single indoor
+localization systems while reducing cost. Moreover, the integration should also provide
+seamless handover of integrated localization systems that selects the most suitable
+positioning method with appropriate accuracy, granularity and resource consumption
+according to the user’s context and situation and application requirements. Khider et al. in
+[49] present the indoor localization system based on Particle Filter approach and sensor
+fusion that combines GNSS, foot mounted inertial sensors, electronic compasses, baroaltimeters, indoor maps and active RFID tags to improve the accuracy and availability of
+the determined location. Other examples of integrated indoor localization systems are the
+integration of GPS and Wi-Fi based positioning [50], Bluetooth-based positioning and
+IR-based positioning technique in Topaz system [27] and a combination of IR and RFID
+localization to achieve higher accuracy in healthcare in Versus RTLS [51] .
+5.2. Handling massive location data sets
+With the rapid advances in mobile positioning technologies, a huge volume of location
+data is acquired wirelessly transmitted in the form of continuous data streams that need to
+be processed both off-line and online, so called Big Mobility Data. Such data with high
+arrival rate must be continuously monitored, processed and analyzed at the server side.
+Continuous location data streams define trajectories of moving objects that provide
+unprecedented information to understand their mobility and behavior [52]. Within this
+research direction, methods and algorithms of mobility data stream management are
+investigated, as well as application of high-performance and data-intensive computing
+techniques and systems for handling massive trajectory data collections, both on-line and
+offline, such as cloud computing techniques (MapReduce), GPGPU (OpenCL, CUDA)
+and cluster/grid (MPI) [53].
+5.3. Participatory location-based sensing
+With the proliferation of mobile phones with increasing sensing capabilities in
+everyday use, an important source of sensor data has become the users with their mobile
+devices [54]. Thanks to an increasing number of built-in sensors: ambient light,
+orientation, accelerometer, sound, camera, velocity, GPS, but also user-generated content
+(video, photo, sound, text, etc.), each mobile device can continuously capture, process,
+analyze and transmit spatially and temporally referenced data describing the context and
+the situation of the user [55]. We need efficient methods, techniques, algorithms and
+
+68
+
+D.H. STOJANOVIĆ, N.M. STOJANOVIĆ
+
+systems that provide collection, monitoring, processing and analyzing of large volumes of
+moving sensor data that define the context and situation in an indoor environment relevant
+to a particular application domain [56].
+5.4. Semantic location and trajectory data
+Once the location of an indoor moving object is known, in either geometric or
+symbolic form, many other pieces of information can be inferred to enrich such location
+information. The research aims to develop methods and software tools to provide
+collection, processing and analysis of indoor location and trajectory semantics. Semantic
+locations and trajectories enable development of advanced indoor LBSs which can
+provide more intelligent, proactive and valuable services to users navigating in indoor,
+but also in outdoor environments [57]. Processing, analysis and mining of semantic
+indoor locations/trajectories provide insights in semantics of movement and recognition
+of user activities, behavior and prediction of a future movement [52].
+5.5. Privacy in indoor location-based services
+Although indoor location determination provides many valuable location-based
+applications and services to mobile users, revealing people’s locations to potentially
+untrusted service providers poses significant privacy concerns. There is a trade-off
+between the quality of services offered by an indoor LBS provider and the privacy of a
+user’s location. The research in this direction focuses on the protection of sensitive
+locations against LBS providers and untrusted members of collaborative geo-social
+networks [58]. As such, it is highly related to all other research directions. Releasing
+locations and trajectories to the public or a third party could pose serious privacy
+concerns, so privacy protection in a LBS and location/trajectory data collection has
+increasingly drawn attention from the research community and industry [59].
+
+6. CONCLUSIONS
+This paper gives an overview of the methods, technologies and systems involved in
+the development of indoor location-based services for mobile users and moving objects
+navigated and tracked in the indoor environment. As no localization system is equally
+accessible and available everywhere, compromises between accuracy, scope, latency,
+privacy and costs may result in a system that seamlessly integrate two or more localization
+technologies and systems with regard to the corresponding application domain. For
+example, depending on the application requirements, the indoor LBS can employ Wi-Fi
+fingerprinting, Bluetooth beacons, and/or dead reckoning technologies to achieve
+medium/low accuracy, high availability and coverage, as well as minimal costs for indoor
+installations. If the indoor LBS requires higher accuracy within small coverage, there is a
+need for extensive node (RFID, infrared, ultrasound, UWB, optical tags, etc.) deployment
+and maintenance of a costly infrastructure. Thus, depending on indoor LBS application
+requirements the appropriate trade-off between indoor localization characteristics should
+be made and integration of localization technologies and systems should be developed.
+Research challenges in pervasive localization and tracking cover not only data
+collection methods which are reaching a relatively mature level, but also semantic and
+
+Indoor Localization and Tracking: Methods, Technologies and Research Challenges
+
+69
+
+technical research avenues where the objective will be to make the best possible use of
+the data. This is why location-based and context-aware services and systems are the
+object of several exciting research efforts, from semantic to participatory sensing and
+privacy, and where several international projects are performed, such as the EU projects
+MOVE4 (Knowledge Discovery from Moving Objects) and MODAP 5 (Mobility, Data
+Mining, and Privacy) [60]. No doubts that other research projects will soon emerge at the
+international level as opportunities cover many different location-based application
+domains that can be successfully applied to indoor and outdoor environments.
+
+REFERENCES
+[1] S. A. Ahson and M. Ilyas, Eds., Location-Based Services Handbook: Applications, Technologies, and
+Security. CRC Press, 2010.
+[2] A. Küpper, Location-Based Services : Fundamentals and Operation. John Wiley & Sons, 2005.
+[3] R. Mannings, Ubiquitous Positioning. Artech House, 2008.
+[4] K. W. Kolodziej and J. Hjelm, Local Positioning Systems: LBS Applications and Services. CRC Press,
+2006.
+[5] Y. Gu, A. Lo, and I. Niemegeers, “A survey of indoor positioning systems for wireless personal
+networks,” IEEE Communications Surveys & Tutorials, vol. 11, no. 1, pp. 13–32, 2009. [Online].
+Available: http://dx.doi.org/10.1109/SURV.2009.090103
+[6] H. Liu, H. Darabi, P. Banerjee, and J. Liu, “Survey of wireless indoor positioning techniques and
+systems,” IEEE Transaction of Systems, Man and Cybernetics, Part C: Applications and Reviews, vol.
+37, no. 6, pp. 1067–1080, 2007. [Online]. Available: http://dx.doi.org/10.1109/TSMCC.2007.905750
+[7] In-Location Alliance. [Online]. Available: http://www.in-location-alliance.com/ [Accessed on May
+2014].
+[8] J. Hightower and G. Borriello, “Location systems for ubiquitous computing,” IEEE Computer, vol. 34,
+no. 8, pp. 57–66, 2001. [Online]. Available: http://dx.doi.org/10.1109/2.940014
+[9] A. Kushki, K. N. Plataniotis, and A. N. Venetsanopoulos, WLAN Positioning Systems Principles and
+Applications in Location Based Services. Cambridge University Press, 2012.
+[10] R. Hansen, R. Wind, C. S. Jensen, and B. Thomsen, “Algorithmic strategies for adapting to
+environmental changes in 802.11 location fingerprinting,” in Proceedings of International Conference
+on Indoor Positioning and Indoor Navigation, Zurich, Switzerland, pp. 1–10, 2010. [Online]. Available:
+http://dx.doi.org/10.1109/IPIN.2010.5648270
+[11] M. B. Kjærgaard, “Indoor location fingerprinting with heterogeneous clients,” Pervasive and Mobile
+Computing, vol. 7, no. 1, pp. 31–43, 2011. [Online]. Available: http://dx.doi.org/10.1016/j.pmcj.2010.04.005
+[12] P. Bahl and V. N. Padmanabhan, “RADAR: an in-building RF-based user location and tracking system,”
+in Proceedings of IEEE INFOCOM, Tel Aviv, Israel, pp. 775–784, 2000. [Online]. Available:
+http://dx.doi.org/10.1109/INFCOM.2000.832252
+[13] R. Hansen, B. Thomsen, L. L. Thomsen, and F. S. Adamsen, “SmartCampusAAU - an open platform
+enabling indoor positioning and navigation,” in Proceedings of 14th IEEE International Conference on
+Mobile Data Management, vol. 2, Milan, Italy, pp. 33–38, 2013. [Online]. Available: http://dx.doi.org/
+10.1109/MDM.2013.62
+[14] C. Laoudias, D. Zeinalipour-yazti, and C. G. Panayiotou, “Crowdsourced indoor localization for diverse
+devices through radiomap fusion,” in Proceedings of 4th Intl. Conference on Indoor Positioning and
+Indoor Navigation (IPIN ’13), Montbéliard, France, 2013.
+[15] Ekahau - Real-Time Location System. [Online]. Available: http://www.ekahau.com/real-time-locationsystem/technology/ [Accessed on May 2014].
+[16] Skyhook Wireless. [Online]. Available: http://www.skyhookwireless.com/ [Accessed on May 2014].
+[17] Navizon indoor location solutions. [Online]. Available: http://www.navizon.com/indoors-solutions
+[Accessed on May 2014].
+
+4
+5
+
+http://www.move-cost.info/
+http://www.modap.org/
+
+70
+
+D.H. STOJANOVIĆ, N.M. STOJANOVIĆ
+
+[18] S. Gezici and H. V. Poor, “Position estimation via ultra-wide-band signals,” Proceeding of the IEEE, vol.
+97, no. 2, pp. 386–403, 2009. [Online]. Available: http://dx.doi.org/10.1109/JPROC.2008.2008840
+[19] M. Eric, M. Dukic, and D. Vucic, “Method for direct self-localization of IR UWB node(s) in indoor
+scenario,” in Proceedings of IEEE International Conference on Ultra-Wideband (ICUWB), Bologna,
+Italy, pp. 570–574, 2011. [Online]. Available: http://dx.doi.org/10.1109/ICUWB.2011.6058911
+[20] M. Eric, R. Zetik, and D. Vucic, “An approach for determination of antenna positions in distributed
+antenna system used for UWB indoor self-localization: Experimental results,” in Proceedings of 21st
+Telecommunications Forum Telfor (TELFOR), Belgrade, Serbia, pp. 204–207, 2013. [Online].
+Available: http://dx.doi.org/10.1109/TELFOR.2013.6716208
+[21] Z. Sahinoglu, S. Gezici, and I. Güvenc, Ultra Wideband Positioning Systems Theoretical Limits
+Ranging Algorithms And Protocols. Cambridge University Press, 2011.
+[22] Ubisense Real-time Location System. [Online]. Available: http://www.ubisense.net/en/ [Accessed on
+May 2014].
+[23] Time Domain’s PulsON® module. [Online]. Available: http://www.timedomain.com/ [Accessed on May
+2014].
+[24] A. K. M. M. Hossain and W.-S. Soh, “A comprehensive study of Bluetooth signal parameters for
+localization,” in Proceedings of IEEE 18th International Symposium on Personal, Indoor and Mobile
+Radio Communications, Athens, Greece, pp. 1–5, 2007. [Online]. Available: http://dx.doi.org/
+10.1109/PIMRC.2007.4394215
+[25] C. Frost, C. S. Jensen, K. S. Luckow, B. Thomsen, and R. Hansen, “Bluetooth indoor positioning system
+using fingerprinting,” in Mobile Lightweight Wireless Systems, vol. 81, J. Ser, E. A. Jorswieck, J.
+Miguez, M. Matinmikko, D. P. Palomar, S. Salcedo-Sanz, and S. Gil-Lopez, Eds., Springer Berlin
+Heidelberg, 2012, pp. 136–150. [Online]. Available: http://dx.doi.org/ 10.1007/978-3-642-29479-2_11
+[26] ZONITH Indoor Positioning System. [Online]. Available: http://www.zonith.com/products/ips/
+[Accessed on May 2014].
+[27] Topaz location system. [Online]. Available: http://www.tadlys.co.il/pages/Product_content.asp?
+iGlobalId=2 [Accessed on May 2014].
+[28] A. Cavallini (Gaia-Matrix), “iBeacons Bible 1.0.” [Online]. Available: http://meetingofideas.files.
+wordpress.com/2013/12/ibeacons-bible-1-0.pdf [Accessed on May 2014].
+[29] H. Koyuncu and S. H. Yang, “A survey of Indoor positioning and object locating systems,” International
+Journal of Computer Science and Network Security, vol. 10, no. 5, pp. 121–128, 2010.
+[30] F. Seco, C. Plagemann, A. R. Jimenez, and W. Burgard, “Improving RFID-based indoor positioning
+accuracy using Gaussian processes,” in Proceedings of International Conference on Indoor Positioning
+and Indoor Navigation, Zurich, Switzerland, pp. 1–8, 2010. [Online]. Available: http://dx.doi.org/
+10.1109/IPIN.2010.5647095
+[31] J. Hightower and G. Borriello, “SpotON : An indoor 3D location sensing technology based on RF signal
+strength,” UW CSE 00-02-02, University of Washington, Department of Computer Science and
+Engineering, Seattle, WA, 2000.
+[32] L. M. Ni, Y. Liu, Y. C. Lau, and A. P. Patil, “LANDMARC: Indoor location sensing using active RFID,”
+Wireless Networks, vol. 10, no. 6, pp. 701–710, 2004. [Online]. Available: http://dx.doi.org/10.1023/
+B:WINE.0000044029.06344.dd
+[33] J. Larranaga, L. Muguira, J.-M. Lopez-Garde, and J.-I. Vazquez, “An environment adaptive ZigBeebased indoor positioning algorithm,” in Proceedings of International Conference on Indoor Positioning
+and Indoor Navigation, Zurich, Switzerland, pp. 1–8, 2010. [Online]. Available: http://dx.doi.org/
+10.1109/IPIN.2010.5647828
+[34] Xin Hu, Lianglun Cheng, and Guangchi Zhang, “A Zigbee-based localization algorithm for indoor
+environments,” in Proceedings of International Conference on Computer Science and Network
+Technology, Harbin, China, vol. 3, pp. 1776–1781, 2011. [Online]. Available: http://dx.doi.org/ 10.
+1109/ICCSNT.2011.6182313
+[35] L. Bras, M. Oliveira, N. Borges de Carvalho, and P. Pinho, “Low power location protocol based on
+ZigBee Wireless Sensor Networks,” in Proceedings of International Conference on Indoor Positioning
+and Indoor Navigation, Zurich, Switzerland, pp. 1–7, 2010. [Online]. Available: http://dx.doi.org/
+10.1109/IPIN.2010.5647869
+[36] R. Want, A. Hopper, V. Falcão, and J. Gibbons, “The active badge location system,” ACM Transactions
+of Information Systems, vol. 10, no. 1, pp. 91–102, 1992. [Online]. Available: http://dx.doi.org/
+10.1145/128756.128759
+
+Indoor Localization and Tracking: Methods, Technologies and Research Challenges
+
+71
+
+[37] T. Ito, T. Sato, K. Tulathimutte, M. Sugimoto, and H. Hashizume, “A Scalable Ultrasonic-Based
+Localization System Using the Phase Accordance Method,” in Recent Advances in Sensing Technology,
+vol. 49, S. C. Mukhopadhyay, G. Sen Gupta, and R. Y.-M. Huang, Eds., Springer Berlin Heidelberg, pp.
+35–54, 2009. [Online]. Available: http://dx.doi.org/10.1007/978-3-642-00578-7_3
+[38] J. A. B. Link, P. Smith, N. Viol, and K. Wehrle, “FootPath: accurate map-based indoor navigation using
+smartphones,” in Proceedings of International Conference on Indoor Positioning and Indoor
+Navigation, Guimaraes, Portugal, pp. 1–8, 2011. [Online]. Available: http://dx.doi.org/10.1109/
+IPIN.2011.6071934
+[39] B.-S. Cho, W. Moon, W.-J. Seo, and K.-R. Baek, “A dead reckoning localization system for mobile
+robots using inertial sensors and wheel revolution encoding,” Journal of Mechanical Science and
+Technology, vol. 25, no. 11, pp. 2907–2917, 2011. [Online]. Available: http://dx.doi.org/10.1007/
+s12206-011-0805-1
+[40] B. Barshan and H. F. Durrant-Whyte, “Inertial navigation systems for mobile robots,” IEEE Transactions
+on Robotics and Automation, vol. 11, no. 3, pp. 328–342, 1995. [Online]. Available: http://dx.doi.org/
+10.1109/70.388775
+[41] M. Hardegger, S. Mazilu, D. Caraci, F. Hess, D. Roggen, and G. Troster, “ActionSLAM on a
+smartphone: at-home tracking with a fully wearable system,” in Proceedings of International
+Conference on Indoor Positioning and Indoor Navigation, Montbéliard, France, 2013.
+[42] C. Fischer and H. Gellersen, “Location and navigation support for emergency responders: a survey,”
+IEEE Pervasive Computing, vol. 9, no. 1, pp. 38–47, 2010. [Online]. Available: http://dx.doi.org/
+10.1109/MPRV.2009.91
+[43] A. Mulloni, D. Wagner, I. Barakonyi, and D. Schmalstieg, “Indoor positioning and navigation with
+camera phones,” IEEE Pervasive Computing, vol. 8, no. 2, pp. 22–31, 2009. [Online]. Available:
+http://dx.doi.org/10.1109/MPRV.2009.30
+[44] O. Van Laere, M. Strobbe, P. Leroux, B. Dhoedt, F. De Turck, and P. Demeester, “Enabling platform for
+mobile content generation based on 2D barcodes,” in Proceedings of the International Conference on
+Internet Computing (ICOMP 2008), Las Vegas, Nevada, USA, pp. 209–214, 2008.
+[45] B. Brumitt, B. Meyers, J. Krumm, A. Kern, and S. A. Shafer, “EasyLiving: technologies for intelligent
+environments,” in Proceedings of Second International Symposium Handheld and Ubiquitous Computing,
+Bristol, UK, pp. 12–29, 2000. [Online]. Available: http://dx.doi.org/10.1007/3-540-39959-3_2
+[46] R. Mautz and S. Tilch, “Survey of optical indoor positioning systems,” in Proceedings of International
+Conference on Indoor Positioning and Indoor Navigation, Guimaraes, Portugal, pp. 1–7, 2011.
+[Online]. Available: http://dx.doi.org/10.1109/IPIN.2011.6071925
+[47] A. C. Murillo, D. Gutierrez-Gomez, A. Rituerto, L. Puig, and J. J. Guerrero, “Wearable omnidirectional
+vision system for personal localization and guidance,” in Proceedings of IEEE Computer Society
+Conference on Computer Vision and Pattern Recognition Workshops, Providence, RI, USA, pp. 8–14,
+2012. [Online]. Available: http://dx.doi.org/10.1109/CVPRW.2012.6239189
+[48] J. Figueiras and S. Frattasi, Mobile Positioning and Tracking: From Conventional to Cooperative
+Techniques. John Wiley & Sons, Ltd., 2010.
+[49] M. Khider, T. Jost, E. Abdo Sanchez, P. Robertson, and M. Angermann, “Bayesian multisensor
+navigation incorporating pseudoranges and multipath model,” in Proceedings of IEEE/ION Position,
+Location and Navigation Symposium, Indian Wells, CA, USA, pp. 816–825, 2010. [Online]. Available:
+http://dx.doi.org/10.1109/PLANS.2010.5507321
+[50] R. Hansen, R. Wind, C. S. Jensen, and B. Thomsen, “Seamless indoor/outdoor positioning handover for
+location-based services in Streamspin,” in Proceedings of Tenth Int. Conference on Mobile Data
+Management: Systems, Services and Middleware, Taipei, China, pp. 267–272, 2009. [Online].
+Available: http://dx.doi.org/10.1109/MDM.2009.39
+[51] Versus Real-time Locating System. [Online]. Available: http://www.versustech.com/rtls-technology/
+[Accessed on May 2014].
+[52] N. Pelekis and Y. Theodoridis, Eds., Mobility Data Management and Exploration. Springer, 2014.
+[53] S. Shekhar, “High performance computing with spatial datasets,” in Proceedings of ACM SIGSPATIAL
+International Workshop on High Performance and Distributed Geographic Information Systems HPDGIS ’10, San Jose, California, USA, pp. 1–2, 2010. [Online]. Available: http://dx.doi.org/10.1145/
+1869692.1869693
+[54] N. Lane, E. Miluzzo, H. Lu, D. Peebles, T. Choudhury, and A. Campbell, “A survey of mobile phone
+sensing,” IEEE Communication Magazine, vol. 48, no. 9, pp. 140–150, 2010. [Online]. Available:
+http://dx.doi.org/10.1109/MCOM.2010.5560598
+
+72
+
+D.H. STOJANOVIĆ, N.M. STOJANOVIĆ
+
+[55] R. Ganti, F. Ye, and H. Lei, “Mobile crowdsensing: current state and future challenges,” IEEE
+Communication Magazine, vol. 49, no. 11, pp. 32–39, 2011. [Online]. Available: http://dx.doi.org/
+10.1109/MCOM.2011.6069707
+[56] B. Predic, Z. Yan, J. Eberle, D. Stojanovic, and K. Aberer, “ExposureSense: integrating daily activities
+with air quality using mobile participatory sensing,” in Proceedings of IEEE International Conference
+on Pervasive Computing and Communications Workshops (PERCOM Workshops), San Diego, CA,
+USA, pp. 303–305, 2013. [Online]. Available: http://dx.doi.org/10.1109/PerComW.2013.6529500
+[57] C. Parent, S. Spaccapietra, C. Renso, G. Andrienko, N. Andrienko, V. Bogorny, M. L. Damiani, A.
+Gkoulalas-Divanis, J. Macedo, N. Pelekis, Y. Theodoridis, and Z. Yan, “Semantic trajectories modeling
+and analysis,” ACM Computing Survey, vol. 45, no. 4, pp. 42:1-42:32, 2013. [Online]. Available:
+http://dx.doi.org/10.1145/2501654.2501656
+[58] A. Khoshgozaran and C. Shahabi, “A taxonomy of approaches to preserve location privacy in locationbased services,” International Journal of Computational Science and Engineering, vol. 5, no. 2, pp. 8696, 2010. [Online]. Available: http://dx.doi.org/10.1504/IJCSE.2010.036819
+[59] M. L. Damiani, C. Silvestri, and E. Bertino, “Fine-grained cloaking of sensitive positions in locationsharing applications,” IEEE Pervasive Computing, vol. 10, no. 4, pp. 64–72, 2011. [Online]. Available:
+http://dx.doi.org/10.1109/MPRV.2011.18
+[60] F. Giannotti and D. Pedreschi, Eds., Mobility, Data Mining and Privacy. Springer Berlin Heidelberg,
+2008.
+
+

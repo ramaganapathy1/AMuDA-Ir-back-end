@@ -1,0 +1,5264 @@
+survey of rfid deployment::22.0
+rfid deployment and security::22.0
+deployment and security issues::22.0
+amit grover and hal::18.0
+grover and hal berghel::18.0
+survey of rfid::17.4345875079
+rfid tag::16.0
+rfid system::14.0
+rfid implementation::14.0
+security issues::14.0
+parameters for air interface::12.0
+rfid for dummies::11.094737505
+hal berghel::11.0
+air interface::10.0
+air interface communications::9.50977500433
+parameters for air::9.50977500433
+deployment and security::9.50977500433
+rfid tags::8.0
+journal of information processing::8.0
+simon and beth rosenberg::8.0
+rfid deployment::8.0
+grover and hal::7.92481250361
+product code::7.0
+jerry banks::7.0
+rfid systems::7.0
+amit grover::7.0
+rfid application::7.0
+rfid chip::7.0
+manuel pachano::7.0
+les thompson::7.0
+wiley publishing::7.0
+david hanny::7.0
+rfid applied::7.0
+electronic product code::6.33985000288
+information processing systems::6.33985000288
+rfid standards::6.0
+typical rfid::6.0
+smart card::6.0
+rfid security::6.0
+john wiley & sons::6.0
+components of a typical::6.0
+financial transaction::5.0
+rfid chips::5.0
+construction format::5.0
+credit card::5.0
+kill command::5.0
+electromagnetic field::5.0
+radio frequency::5.0
+rfid reader::5.0
+glue code::5.0
+rfid applications::5.0
+rfid transponder::5.0
+glue code attacks::4.75488750216
+west sussex england::4.75488750216
+summarized in table::4.75488750216
+tag construction formats::4.75488750216
+point of sale::4.75488750216
+supply chain management::4.75488750216
+enterprise application framework::4.75488750216
+shown in figure::4.75488750216
+smart home environment::4.75488750216
+rfid security issues::4.75488750216
+smart cards::4.0
+standard for high fids::4.0
+framework for rfid-based applications::4.0
+transmitted by the reader::4.0
+processing systems::4.0
+high value::4.0
+tracking for defense applications::4.0
+transmission range::4.0
+access control::4.0
+home environment::4.0
+rfid standards and protocols::4.0
+sql injection::4.0
+director of the school::4.0
+asset tracking for defense::4.0
+international journal of information::4.0
+bill and himanshu bhatt::4.0
+security framework for rfid-based::4.0
+fraud research and operations::4.0
+rfid virus::4.0
+animal tracking::4.0
+rfid-based applications in smart::4.0
+supply chain::4.0
+research and operations center::4.0
+high value asset tracking::4.0
+rfid tag construction formats::4.0
+enterprise application framework based::4.0
+access code or pin::4.0
+identity theft and financial::4.0
+smart home::4.0
+applications in smart home::4.0
+theft and financial fraud::4.0
+purpose or application area::4.0
+wide variety of applications::4.0
+smart home environments::3.16992500144
+application framework based::3.16992500144
+hal berghel fig::3.16992500144
+variety of applications::3.16992500144
+amount of data::3.16992500144
+card shielding sleeve::3.16992500144
+typical rfid implementation::3.16992500144
+glass or plas::3.16992500144
+value asset tracking::3.16992500144
+research and operations::3.16992500144
+product life cycle::3.16992500144
+air interface protocol::3.16992500144
+reader or interrogator::3.16992500144
+passport shielding case::3.16992500144
+security issues table::3.16992500144
+universal product code::3.16992500144
+law is represented::3.16992500144
+threats and vulnerabilities::3.16992500144
+toll-gate payment systems::3.16992500144
+applications in smart::3.16992500144
+readers electromagnetic field::3.16992500144
+rfid systems rely::3.16992500144
+radio frequency communication::3.16992500144
+typical rfid infrastructure::3.16992500144
+journal of information::3.16992500144
+rfid tag construction::3.16992500144
+contact memory buttons::3.16992500144
+financial fraud research::3.16992500144
+privacy issues::3.0
+radio waves::3.0
+interface communications::3.0
+john wiley::3.0
+serial number::3.0
+popular rfid::3.0
+rfid worm::3.0
+code attacks::3.0
+financial transactions::3.0
+epcglobal network::3.0
+patient tracking::3.0
+power source::3.0
+enterprise application::3.0
+value asset::3.0
+tag data::3.0
+rfid infrastructure::3.0
+clipped tag::3.0
+rfid readers::3.0
+tag information::3.0
+construction formats::3.0
+rfid handbook::3.0
+clipped tags::3.0
+rfid implementations::3.0
+backend database::3.0
+epc structure::3.0
+end-user application::3.0
+security framework::3.0
+buffer overflow::3.0
+designed for space domain::2.0
+security issues ing code::2.0
+database using malicious sql::2.0
+integral data storage system::2.0
+key immobilizers or door::2.0
+framework based on abstract::2.0
+secure digital input output::2.0
+inventory and shelf management::2.0
+rfid spoofing the process::2.0
+barcodes to be processed::2.0
+auto-id center::2.0
+issues table::2.0
+smart payment and credit::2.0
+smart cards contactless smart::2.0
+systems are also equipped::2.0
+facilitated by the antenna::2.0
+confidence in the extent::2.0
+automobile security::2.0
+inherent in rfid systems::2.0
+anti-collision methods::2.0
+rfids containing customer ids::2.0
+number to a reader::2.0
+incident where a manufacturer::2.0
+universal product code symbol::2.0
+defense related it applicationsand::2.0
+efficient supply chain management::2.0
+sum of coil losses::2.0
+vulnerabilities of the ubiquitous::2.0
+security for ubiquitous computing::2.0
+school of computer science::2.0
+articleid=1564 & zoneid=24 http::2.0
+flux through the closed::2.0
+ways to make rfid::2.0
+firewall that controls access::2.0
+data to the middleware::2.0
+type lf near inductive::2.0
+built into the rfid::2.0
+faraday cages::2.0
+concept of automatic identification::2.0
+part of the ubiquitous::2.0
+supply the tags unique::2.0
+semi-passive or battery assisted::2.0
+affected by the antennas::2.0
+waves with audio information::2.0
+read-only uses symbols proprietary::2.0
+easy solution to prevent::2.0
+systems allow simultaneous manual::2.0
+nuclear and hazardous material::2.0
+middleware server then unwittingly::2.0
+memory buttons::2.0
+kill command the kill::2.0
+secure enough to deal::2.0
+characteristics of the antenna::2.0
+attacks such as sql::2.0
+point of sale management::2.0
+ratio between its radiation::2.0
+implementations employ time domain::2.0
+add-on interface to conventional::2.0
+information from a victims::2.0
+processed simultaneously ; limited::2.0
+backend database management system::2.0
+format where the tag::2.0
+similar vulnerabilities and susceptibility::2.0
+radio waves behave differently::2.0
+meaningful information without access::2.0
+plays a critical role::2.0
+longer required for supply::2.0
+uniquely identify a company::2.0
+system that is designed::2.0
+important issue when phantom-reads::2.0
+effectively prevents multiple barcodes::2.0
+increase the common mans::2.0
+framework based::2.0
+extent to which rfid::2.0
+proposed enterprise application framework::2.0
+requester is a url::2.0
+input power::2.0
+systems on board warships::2.0
+move into the range::2.0
+computing environment::2.0
+automatic vehicle identification iii::2.0
+system with secure service::2.0
+enhance security in dynamic::2.0
+mechanism that is similar::2.0
+sleep command::2.0
+improving both the speed::2.0
+optimal when the electric::2.0
+agile and flexible manufacturing::2.0
+96-bit epc can support::2.0
+unrestricted universal read capability::2.0
+gain eantenna =antenna efficiency::2.0
+command is a feature::2.0
+antenna transforms input power::2.0
+design of the antenna::2.0
+memory buttons are robust::2.0
+information can include additional::2.0
+rfid components are chosen::2.0
+wide range of automatic::2.0
+care i patient tracking::2.0
+channel attacks rouge rfid::2.0
+manufacturing industry i supply::2.0
+part of an rfid::2.0
+ids such as edl::2.0
+cross -site scripting xss::2.0
+master of science degree::2.0
+full faraday cycle analysis::2.0
+command unlike the kill::2.0
+associations as a distinguished::2.0
+rfid smart card shielding::2.0
+rfid worm or rfid::2.0
+hal berghel v customer::2.0
+rfid to track underwear::2.0
+middleware code that doesnt::2.0
+field communications rely completely::2.0
+communication with the tags::2.0
+differently at different frequencies::2.0
+played an instrumental role::2.0
+primarily used to glue::2.0
+implies that the amount::2.0
+glue code attacks focus::2.0
+applications of rf transponders::2.0
+done by tic housing::2.0
+readers electromagnetic::2.0
+environment that is created::2.0
+tag classes class description::2.0
+science at the university::2.0
+rfid systems that support::2.0
+control but some people::2.0
+enjoy industry-wide acceptance include::2.0
+killings from large distances::2.0
+los alamos national laboratory::2.0
+suited for rfid system::2.0
+users with relatively low::2.0
+coil uhf far radiative::2.0
+virus infected rfid chip::2.0
+maximum number of transponders::2.0
+limitations and support features::2.0
+infected rfid::2.0
+rfid is an integral::2.0
+vulnerabilities common rfid vulnerabilities::2.0
+collection related to tag-events::2.0
+unlike the kill command::2.0
+compromise the systems security::2.0
+direction-specific coupling on flat::2.0
+-site scripting::2.0
+passport card and electronic::2.0
+aspects of a typical::2.0
+antennas are best suited::2.0
+antennas reflect the power::2.0
+yeun and byoungcheon lee::2.0
+contact memory::2.0
+swiping the magnetic stripe::2.0
+documented hacks::2.0
+electric flux::2.0
+interrogators rfid readers interrogate::2.0
+ensure that appropriate rfid::2.0
+retransmitted incident radio waves::2.0
+uhf far radiative linear::2.0
+seo and im-yeong lee::2.0
+common rfid vulnerabilities include::2.0
+vegas and another m.s::2.0
+standard for electronic seals::2.0
+vulnerability of database security::2.0
+text would not reveal::2.0
+mapping of this number::2.0
+credit-card sized plastic cards::2.0
+noise in the environment::2.0
+server then unwittingly propagates::2.0
+created by other gadgets::2.0
+injecting a client-side script::2.0
+attacks the epcglobal network::2.0
+angles are best served::2.0
+network for getting tag::2.0
+number for each item::2.0
+performance of the rfid::2.0
+range that the tag::2.0
+computer and network forensics::2.0
+coupling on flat surfaces::2.0
+equipped with suitable antennas::2.0
+interrogation zones::2.0
+supports a memory-locking feature::2.0
+access code::2.0
+operation i container tracking::2.0
+command the kill command::2.0
+glass or plastic housing::2.0
+number for the product::2.0
+marking of high value::2.0
+access to the underlying::2.0
+individual piece of item::2.0
+consists of an integrated::2.0
+capture the information stored::2.0
+friis free space formula::2.0
+management iii::2.0
+formats different applications require::2.0
+tags as they move::2.0
+number identifies the company::2.0
+articles to the professional::2.0
+auto-id system called radio::2.0
+derived from the readers::2.0
+rfid server is tricked::2.0
+gausss law or flux::2.0
+readers interrogate the tags::2.0
+readers for different applications::2.0
+products leave the point::2.0
+transmitting an access code::2.0
+attack technique that exploits::2.0
+transceivers that are equipped::2.0
+framework that is based::2.0
+locking and other strategies::2.0
+interface protocol is responsible::2.0
+relies on the electronic::2.0
+reflect the power back::2.0
+carrying out financial transactions::2.0
+study on rfid system::2.0
+auto-id center further classified::2.0
+security and cause malicious::2.0
+envisage network and rfid::2.0
+systems rely on middleware::2.0
+system and tag-based security::2.0
+embedded in a plastic::2.0
+tag density::2.0
+form input with malicious::2.0
+damage to the rfid::2.0
+information over non-secure communication::2.0
+basis of an epc::2.0
+transmission range an easy::2.0
+disadvantages such as limited::2.0
+logistics and inventory control::2.0
+replacing legitimate tag data::2.0
+manages the radio frequency::2.0
+common tag construction formats::2.0
+vulnerabilities of rfid systems::2.0
+network to dos attacks::2.0
+limit the transmission range::2.0
+transmission coefficient = minimum::2.0
+communicate with business applications::2.0
+implementationconsiderations an rfid implementation::2.0
+rfid vulnerabilities::2.0
+main characteristics are summarized::2.0
+chip is also responsible::2.0
+epc code is shown::2.0
+tag killing rfid systems::2.0
+remotely without the users::2.0
+glue together different parts::2.0
+power and read class::2.0
+household gadgets are leaving::2.0
+support of his research::2.0
+receiver tag = power::2.0
+signals are also read::2.0
+glue code a glue::2.0
+flux through any closed::2.0
+auto-ids that are capable::2.0
+data that a upc::2.0
+grover* and hal berghel*::2.0
+integrity of the database::2.0
+epc data to follow::2.0
+paper journal of information::2.0
+systems rely::2.0
+make the tag unreadable::2.0
+executing a malicious code::2.0
+malware attacks by hackers::2.0
+locations when these infected::2.0
+home environments futuristic smart::2.0
+framework based on kerberos::2.0
+replying with the tags::2.0
+area rfid for item::2.0
+manufacturer was using hidden::2.0
+rfid for item management::2.0
+strength of the transmitted::2.0
+espionage or other illegal::2.0
+access to the backend::2.0
+memory card or microprocessor::2.0
+selecting the appropriate technologies::2.0
+large distances using specially::2.0
+rfid shielding flipside wallet::2.0
+susceptibility to a dos::2.0
+part of the number::2.0
+solution to prevent unauthorized::2.0
+standard purpose or application::2.0
+mifare classic rfid chip::2.0
+drives the chips circuitry::2.0
+dot product::2.0
+ability to write data::2.0
+container tracking and handling::2.0
+solutions for carrying out::2.0
+wise to completely rely::2.0
+system called radio frequency::2.0
+rfid-based enterprise application framework::2.0
+dynamic rfid application environments::2.0
+directivity and electrical efficiency::2.0
+tag information over non-secure::2.0
+high frequency::2.0
+dont require full administrator::2.0
+demodulating the radiofrequency signal::2.0
+realm of science fiction::2.0
+script into web pages::2.0
+folded dipole cct tag::2.0
+ratio between its input::2.0
+real world rfid implementations::2.0
+security issues ronmental constraints::2.0
+embedded with rfid chips::2.0
+degree in mechanical engineering.he::2.0
+popular rfid standards standard::2.0
+good way to secure::2.0
+security issues hal berghel::2.0
+conclusion while the list::2.0
+dont allow rf waves::2.0
+tag-specific unique serial number::2.0
+types of rfid transponder::2.0
+make financial transactions secure::2.0
+epc information::2.0
+tag construction formats include::2.0
+out of the total::2.0
+common rfid::2.0
+industry i vehicle immobilizers::2.0
+antenna plays a critical::2.0
+code is a code::2.0
+embedded in merchandize remain::2.0
+characteristics such as directivity::2.0
+buttons are robust auto-ids::2.0
+tags and manages modulation::2.0
+actual communication is facilitated::2.0
+industrial processes by drastically::2.0
+secret keys in mere::2.0
+provide very strong security::2.0
+backend system::2.0
+cards with an integral::2.0
+gs1s gtin-12 and consists::2.0
+similar to a stock-keeping::2.0
+strategies to provide authentication::2.0
+authentication and data confidentiality::2.0
+rfid-enabled passports under icao::2.0
+content without the owners::2.0
+classified as an rfid::2.0
+tags on the basis::2.0
+summary of rfid standards::2.0
+probability for introducing data::2.0
+power from the reader::2.0
+churn out infected tags::2.0
+middleware and end-user applications::2.0
+eavesdropping is to limit::2.0
+containers that are coated::2.0
+eavesdrops on the communication::2.0
+read from adjoining interrogation::2.0
+animal tracking and identification::2.0
+texas instruments rfid digital::2.0
+contents of the data::2.0
+data redundancy and error::2.0
+optimized using rfid implementations::2.0
+virus is a self-replicating::2.0
+documented hacks for spoofing::2.0
+infrastructure components ward link::2.0
+tags the clipped tag::2.0
+symbology used for tracking::2.0
+includes a standard communication::2.0
+ubiquitous computing environments rfid::2.0
+typical rfid infrastructure include::2.0
+damage to the backend::2.0
+require full administrator access::2.0
+mechanism with the dns::2.0
+straight and long tags::2.0
+type of epc data::2.0
+requirement for conmanuscript received::2.0
+tags can be classified::2.0
+fundamental components::2.0
+glue code to interface::2.0
+communication between the transponders::2.0
+coming from a legitimate::2.0
+frequency field tag type::2.0
+upc barcode can accommodate::2.0
+worms since rfid systems::2.0
+tag with a specially::2.0
+examined thoroughly before executing::2.0
+transponders and the interrogators::2.0
+hal berghel * identity::2.0
+frequency or amplitude modulation::2.0
+transponders that a reader::2.0
+characters that uniquely identify::2.0
+meaningful information::2.0
+covers the air interface::2.0
+closed surface is proportional::2.0
+limitation can be overcome::2.0
+provide an enhanced conductive::2.0
+obtained from the database::2.0
+manage nuclear and hazardous::2.0
+types of interfacing codes::2.0
+rfid enabled::2.0
+communication of the signal::2.0
+kerberos and abstract business::2.0
+cookies only from trusted::2.0
+data regarding the movement::2.0
+credit card or merchant::2.0
+record and interpret tag::2.0
+errors and thus crash::2.0
+highlights different rfid standards::2.0
+systems including magnetic stripes::2.0
+identification can be done::2.0
+surreptitiously grabbing personal information::2.0
+network and rfid enabled::2.0
+errors because rf signals::2.0
+checking for boundary condition::2.0
+privacy issues as rfid::2.0
+context of an rfid::2.0
+communication of an rfid::2.0
+eavesdropped on by unauthorized::2.0
+application of the gausss::2.0
+greater probability for introducing::2.0
+generated by the radio::2.0
+obtained for carrying out::2.0
+vector representing an infinitesimal::2.0
+issues ing code schemes::2.0
+integral of this dot::2.0
+method does not provide::2.0
+memory card::2.0
+replicating the original form::2.0
+numeric characters that uniquely::2.0
+security threats other security::2.0
+cost-effective way for managing::2.0
+communications from the transponders::2.0
+components for the rfid::2.0
+transponders a typical rfid::2.0
+capacity ; a strict::2.0
+secure communications than generation::2.0
+bachelors degree in mechanical::2.0
+issue when phantom-reads introduce::2.0
+reader using a 16-bit::2.0
+proper planning to ensure::2.0
+employ time domain anti-collision::2.0
+manufacturer and product code::2.0
+sharing broadcast channel access::2.0
+acts as an interface::2.0
+detail of a upc::2.0
+card and electronic drivers::2.0
+code symbol::2.0
+classified different rfid tags::2.0
+variations in the type::2.0
+encryption on an american::2.0
+chain management::2.0
+high data storage capacity::2.0
+input power into radio::2.0
+gain combines its directivity::2.0
+signal from the rfid::2.0
+berghel v customer loyalty::2.0
+helps in increasing consumer::2.0
+access to the software::2.0
+ocr systems allow simultaneous::2.0
+correctly record and interpret::2.0
+code that is primarily::2.0
+phases of the supply::2.0
+himanshu bhatt::2.0
+futuristic smart home environments::2.0
+information such as data::2.0
+technologies such as pcmcia::2.0
+specific code to gain::2.0
+tear off a portion::2.0
+network connection for propagation::2.0
+interface between the basic::2.0
+keys and key immobilizers::2.0
+reduction of the transmission::2.0
+power its own communication::2.0
+faraday cages faraday cages::2.0
+strict line of sight::2.0
+victims financial transaction card::2.0
+card or microprocessor card::2.0
+onboard battery that drives::2.0
+activated by rfid chips::2.0
+recognition are all considered::2.0
+susceptible to glue code::2.0
+epc information can include::2.0
+power of the reader::2.0
+fact to the customers::2.0
+part is the items::2.0
+communication between the reader::2.0
+cracking of the rfid::2.0
+avoidance for the transmitted::2.0
+object class::2.0
+smart home environment deals::2.0
+susceptible to unauthorized tag::2.0
+implementation of an rfid-based::2.0
+96-bit number that consists::2.0
+efficacy of the coupling::2.0
+implants with the owners::2.0
+item has been purchased::2.0
+sql injection sql injection::2.0
+ip-address that is obtained::2.0
+locking applications for high::2.0
+interfaces for globally accepted::2.0
+scanned by the system::2.0
+middleware for the specific::2.0
+acting in the opposite::2.0
+human implants::2.0
+introducing a blocker tag::2.0
+customer bought the product::2.0
+high cost of maintenance::2.0
+rfid viruses and worms::2.0
+long tags that provide::2.0
+sufficiently large random number::2.0
+overview of the concept::2.0
+code indicates a match::2.0
+security services the ons::2.0
+immobilizers or door locking::2.0
+command de-activates the rfid::2.0
+relationship with the range::2.0
+credit cards::2.0
+responsibilities deal with digital::2.0
+redundancy and error correction::2.0
+implementation requires proper planning::2.0
+documented hacks documented hacks::2.0
+tags unique::2.0
+tag to the reader::2.0
+smart cards facilitate transactions::2.0
+casino management::2.0
+access to the middleware::2.0
+network manages dynamic information::2.0
+transmits the rf wave::2.0
+ubiquitous mifare classic rfid::2.0
+application tasked with data::2.0
+poorly written middleware code::2.0
+rely completely on magnetic::2.0
+size and design characteristics::2.0
+gadget that retransmitted incident::2.0
+acceptance include the alien::2.0
+domain anti-collision methods support::2.0
+employing the following countermeasures::2.0
+efficacy of different business::2.0
+inventory-management and other industrial::2.0
+random number as communicated::2.0
+amount of power absorbed::2.0
+phenomenal proliferation of rfid::2.0
+human intervention in inventory-management::2.0
+antenna efficiency::2.0
+contactless smart cards facilitate::2.0
+features such as high::2.0
+header and three sets::2.0
+described in greater detail::2.0
+denial of service attacks::2.0
+backscatter tag with one-time::2.0
+attacks can be minimized::2.0
+coupling between the transponder::2.0
+propagates using network connections::2.0
+deal with digital security::2.0
+gadgets that can interfere::2.0
+denotes the electric flux::2.0
+implemented by the baja::2.0
+identification solutions in automatic::2.0
+communication between the tags::2.0
+alter the tag memory::2.0
+good software design iii::2.0
+threats and vulnerabilities inherent::2.0
+based solutions for carrying::2.0
+database security by injecting::2.0
+suitable reader can capture::2.0
+systems or using roll::2.0
+barcode can accommodate implies::2.0
+capable of withstanding adverse::2.0
+side channel attacks rouge::2.0
+rfid implementations indicate substantial::2.0
+reader or an add-on::2.0
+directivity is an important::2.0
+card or merchant loyalty::2.0
+worm an rfid worm::2.0
+power into radio waves::2.0
+high value pharmaceuticals iii::2.0
+construction formats are summarized::2.0
+rfid tag was demonstrated::2.0
+defines contents and encodings::2.0
+coupled with an increase::2.0
+describes the basic components::2.0
+done given the right::2.0
+rfid of animals advanced::2.0
+generic parameters for air::2.0
+dns implies similar vulnerabilities::2.0
+practical usefulness of low-priced::2.0
+payment systems::2.0
+accommodate it by selecting::2.0
+university of nevada las::2.0
+authorized tags and readers::2.0
+epc or the electronic::2.0
+dae-hee seo and im-yeong::2.0
+executing any widespread rfid::2.0
+retail inventory in stores::2.0
+scanning an infected rfid::2.0
+environments that envisage network::2.0
+process known as backscatter::2.0
+payment for preferred customers::2.0
+implemented to ensure foolproof::2.0
+discovery of object information::2.0
+frequency antenna relationship frequency::2.0
+parameters such as data::2.0
+faraday cages or meshes::2.0
+personal computer memory card::2.0
+applications for high security::2.0
+center for cybersecurity research::2.0
+suitable for only limited::2.0
+rsa security annual conference::2.0
+passive no inbuilt power::2.0
+based on the aen::2.0
+rfid shields rfid smart::2.0
+car parking and access::2.0
+tag type antenna type::2.0
+easily available on ebay::2.0
+enemy and allied aircraft::2.0
+suited for ultra high::2.0
+information unless the key::2.0
+law in the context::2.0
+transportation i electronic toll::2.0
+transmitted by the tag::2.0
+passport shielding::2.0
+payload can be designed::2.0
+introduction a wide range::2.0
+alter the antennas impedance::2.0
+security against determined eavesdroppers::2.0
+process of mapping out::2.0
+tag construction formats disks::2.0
+rfid essentials::2.0
+embedding of form input::2.0
+top communicate with business::2.0
+rfid implementationconsiderations an rfid::2.0
+business processes that includes::2.0
+read is reduced drastically::2.0
+rfid standards standard iso::2.0
+tag construction::2.0
+ranching and animal tracking::2.0
+role in selecting readers::2.0
+auto-identification of any object::2.0
+management throughout the supply::2.0
+unique identifier that facilitates::2.0
+system limitations and support::2.0
+beach nightclub in barcelona::2.0
+reader system and tag-based::2.0
+collaborative effort by ibm::2.0
+memory card international association::2.0
+loyalty cards without disclosing::2.0
+numerous grants in support::2.0
+affect various performance parameters::2.0
+simultaneous manual and auto-identification::2.0
+machinery and the institute::2.0
+rfid implementation and relies::2.0
+access among a number::2.0
+attackers can bypass client-side::2.0
+newsreports documenting various security::2.0
+commissioning of a variety::2.0
+modules or components compatible::2.0
+based on application-specific requirements::2.0
+plastic or mylar substrate::2.0
+attack on a generation::2.0
+issues as rfid proliferation::2.0
+oreilly media::2.0
+applications and backend databases::2.0
+completely rely on rfid::2.0
+protocols affect various performance::2.0
+interface protocol::2.0
+developed by the auto-id::2.0
+biggest vulnerabilities of rfid::2.0
+identifies the epc version::2.0
+reader and the button::2.0
+consumers against supermarket privacy::2.0
+yeob yeun and byoungcheon::2.0
+characterized by multiple turns::2.0
+grover holds a master::2.0
+signals over great distances::2.0
+include disks or coins::2.0
+encryption is a good::2.0
+rfid vulnerabilities common rfid::2.0
+security in dynamic rfid::2.0
+tag and the mapping::2.0
+rfid spoofing::2.0
+relationship frequency field tag::2.0
+epcglobal network to dos::2.0
+channel as the secure::2.0
+upc symbol is shown::2.0
+crash the rfid system::2.0
+construction formats different applications::2.0
+environments is the proposed::2.0
+data to the reader::2.0
+rfid transponder only temporarily::2.0
+epc discovery services epc::2.0
+carrying out industrial espionage::2.0
+shielding sleeves or passport::2.0
+lack of inbuilt data-security::2.0
+gain of transmitter antenna::2.0
+consists of a header::2.0
+attacker can cause real::2.0
+recipient of numerous grants::2.0
+limited applications ; coupled::2.0
+handled by a secure::2.0
+services the ons service::2.0
+information systems on board::2.0
+rfid enterprise application framework::2.0
+done to deter shoplifting::2.0
+high fids for rfid-enabled::2.0
+information that was obtained::2.0
+worked on interfacing information::2.0
+equipped with an onboard::2.0
+tags can be increased::2.0
+health care i patient::2.0
+code a glue code::2.0
+avery dennison strip tag::2.0
+responsible for the real-time::2.0
+cons and has specific::2.0
+smart card shielding sleeve::2.0
+respect to the electromagnetic::2.0
+embedded in smart cards::2.0
+rfid communication more secure::2.0
+infrastructure and include components::2.0
+product life::2.0
+data that is transmitted::2.0
+data collection and dissemination::2.0
+systems that support read::2.0
+susceptibility to similar threats::2.0
+maintenance of their readers::2.0
+minimized to a great::2.0
+backscatter tag::2.0
+rafsec folded dipole cct::2.0
+based on gs1s gtin-12::2.0
+check the data capacity::2.0
+identifying all the spots::2.0
+industry i supply change::2.0
+rfid implementation requires proper::2.0
+specifications of rfid transponders::2.0
+based on the power::2.0
+data transmitted using frequency::2.0
+network connections by exploiting::2.0
+crucial role in selecting::2.0
+amit grover* and hal::2.0
+law or flux theorem::2.0
+made a positive improvement::2.0
+rfid infrastructure components ward::2.0
+backend system v auditing::2.0
+housing injecting these transponders::2.0
+availability for ubiquitous computing::2.0
+rfid security for ubiquitous::2.0
+predecessor of the rfid::2.0
+rfid concept is believed::2.0
+exploiting online rfid services::2.0
+greater is the range::2.0
+contribute towards a specific::2.0
+middleware or other end-user::2.0
+backscattering is a diffuse::2.0
+dos attack::2.0
+mifare classic::2.0
+client-side access control mechanisms::2.0
+applications where rfid systems::2.0
+believing that the data::2.0
+aen is the ambient::2.0
+cost-effective increase in efficiency::2.0
+reader application programming interface::2.0
+efficiency is either expressed::2.0
+rfid chip by reverseengineering::2.0
+signals due to scattering::2.0
+severely restricted their market::2.0
+transponders and rfid interrogators::2.0
+input is not filtered::2.0
+transponder and the readers::2.0
+information to a reader::2.0
+widely used for non-contact::2.0
+tags to send irregular::2.0
+overcome by using epc::2.0
+limitations and to reduce::2.0
+protocol and the network::2.0
+customer ids were embedded::2.0
+types of rfid tags::2.0
+data security using encryption::2.0
+epc can support sufficient::2.0
+protocol for sharing broadcast::2.0
+object throughout the product::2.0
+incident ray is reflected::2.0
+network connection::2.0
+security issues suitable reader::2.0
+modulated backscatter rfid tags::2.0
+wavelength = transmitted power::2.0
+computer memory card international::2.0
+typical universal product code::2.0
+derivatives such as memory::2.0
+identifiable and financial information::2.0
+provide authentication and data::2.0
+readers with the middleware::2.0
+xss is a web::2.0
+concerns can be handled::2.0
+home environments::2.0
+cloning have highlighted vulnerabilities::2.0
+irregular amounts of data::2.0
+code that doesnt dynamically::2.0
+injection is an attack::2.0
+rfid applications the phenomenal::2.0
+seals or `` e-seals::2.0
+testimony to the fact::2.0
+compromise the rfid backend::2.0
+standard used with epc::2.0
+technologies obtrusive thereby limiting::2.0
+transponders was the friend-or-foe::2.0
+business processes::2.0
+factor classification for mobile::2.0
+code to gain access::2.0
+communication protocols for class::2.0
+environment deals with tag::2.0
+include rfid data skimming::2.0
+rfid chips a personal::2.0
+rfid air interface protocol::2.0
+rfid vulnerabilities include rfid::2.0
+variety of defense related::2.0
+epc gen::2.0
+spots that are susceptible::2.0
+rfid system with secure::2.0
+ohmic and capacitive losses::2.0
+rfid readers can sniff::2.0
+interpret tag read events::2.0
+fids that are widely::2.0
+formats disks or coins::2.0
+computer and information science::2.0
+transmitter in the reader-to-tag::2.0
+dos attacks the epcglobal::2.0
+refers to the orientation::2.0
+tangible and cost-effective increase::2.0
+communications between authorized tags::2.0
+line of sight requirement::2.0
+environments futuristic smart home::2.0
+susceptibility of the epcglobal::2.0
+access control v electronic::2.0
+tags embedded in merchandize::2.0
+epc structure is defined::2.0
+dynamically check the data::2.0
+exploit poorly written middleware::2.0
+cattle ranching and animal::2.0
+play a crucial role::2.0
+rfid transponders::2.0
+detailed aen analysis includes::2.0
+multiple turns and branches::2.0
+modified slotted aloha protocol::2.0
+structure format to handle::2.0
+capacity of the tags::2.0
+privacy issues is bound::2.0
+minutes on an average::2.0
+reflected at multiple angles::2.0
+recent teaching and research::2.0
+extending the tag data::2.0
+radio frequency and supply::2.0
+rfid transponders a typical::2.0
+strong security against determined::2.0
+founded the identity theft::2.0
+business applications and backend::2.0
+role in the development::2.0
+demonstration at the 24th::2.0
+increase in newsreports documenting::2.0
+epcglobal tag data standard::2.0
+hal berghel* abstractthis paper::2.0
+chosen to deliver optimum::2.0
+mobile rfid-enabled smart phones::2.0
+proliferation of rfid chips::2.0
+facilitates contact-less access control::2.0
+provided by encoding data::2.0
+instruments rfid digital signature::2.0
+coated with certain metals::2.0
+universal product::2.0
+_action=detail & id=150 http::2.0
+command has been executed::2.0
+infinitesimal element of area::2.0
+attacks rouge rfid readers::2.0
+scanner and the barcode::2.0
+implementation assumes that strength::2.0
+application to correctly record::2.0
+rfid spoofing is done::2.0
+radio waves with audio::2.0
+worm or rfid virus::2.0
+strength of the coupling::2.0
+tag-to-reader communication is referred::2.0
+supposedly done to deter::2.0
+concern about the privacy::2.0
+spoofing is done coupled::2.0
+channel security and secure::2.0
+refers to the maximum::2.0
+demonstrated at the los::2.0
+stage is the process::2.0
+automatic identification and compares::2.0
+payment and credit cards::2.0
+including its unique tag::2.0
+restricted their market share::2.0
+uhf and microwave spectrum::2.0
+solutions use standard credit-card::2.0
+greatly affect the efficacy::2.0
+shields rfid smart card::2.0
+aen or to find::2.0
+out the rf path::2.0
+sections in greater detail::2.0
+solutions in automatic access::2.0
+requirement between the scanner::2.0
+management propelled the industry::2.0
+unauthorized capturing of rfid::2.0
+proportional to the enclosed::2.0
+construction formats include disks::2.0
+number of barcode system::2.0
+introduced in employee access::2.0
+transmit a tag-specific unique::2.0
+produced as a collaborative::2.0
+security threats and vulnerabilities::2.0
+store much more information::2.0
+product and is functionally::2.0
+usefulness of low-priced rfid::2.0
+automotive industry i vehicle::2.0
+enhanced capability to power::2.0
+berghel g = eantenna::2.0
+rfid passport shielding case::2.0
+ability to handle data::2.0
+east tennessee state university::2.0
+portion of the tag::2.0
+based on the propagation::2.0
+spreads to different application-area::2.0
+embedded in customer loyalty::2.0
+systems is the fact::2.0
+turn have the capacity::2.0
+problem of rf signal::2.0
+radiative linear near field::2.0
+clipped tags the clipped::2.0
+vulnerabilities include rfid data::2.0
+typical rfid transponder consists::2.0
+sql injection to disrupt::2.0
+data collection::2.0
+handle a privacy bit::2.0
+popular applications of rfid::2.0
+process of unauthorized capturing::2.0
+rfid transponders and rfid::2.0
+scripts on the backend::2.0
+implementations indicate substantial variations::2.0
+antennas are better suited::2.0
+epcglobal network manages dynamic::2.0
+glass or plas animal::2.0
+deals with tag locking::2.0
+careen printing or etching::2.0
+exact type of product::2.0
+tag data structure format::2.0
+doesnt reveal any meaningful::2.0
+revive the tags usability::2.0
+directivity the power gain::2.0
+coefficient = minimum threshold::2.0
+produced by careen printing::2.0
+stakeholders in the rfid::2.0
+24th chaos communications congress::2.0
+electrical efficiency and describes::2.0
+blocker tag and extending::2.0
+implementations keeps on growing::2.0
+enumerates the wide variety::2.0
+back to the direction::2.0
+american express credit card::2.0
+great extent by employing::2.0
+kiosk and customer service::2.0
+interface the rfid readers::2.0
+interfere with any existing::2.0
+surreptitious and unauthorized tracking::2.0
+interfere with the radio::2.0
+sleeves or passport shielding::2.0
+interface protocol the air::2.0
+defined in the epcglobal::2.0
+circuit and an antenna::2.0
+financial fraud::2.0
+form factor::2.0
+information between different stakeholders::2.0
+responding to the signals::2.0
+fids for rfid-enabled passports::2.0
+credit card shielding sleeves::2.0
+documenting various security vulnerabilities::2.0
+de-activates the rfid transponder::2.0
+rfid database using malicious::2.0
+size of the antenna::2.0
+bounds and thoroughly checking::2.0
+readers prevented the widespread::2.0
+deals with privacy issues::2.0
+number as the tag::2.0
+variety of rfid security::2.0
+tag is an rfid::2.0
+tag killings from large::2.0
+generation contactless auto-id system::2.0
+equipment that uses electromagnetic::2.0
+spy gadget that retransmitted::2.0
+suited for handing low::2.0
+rfid frequency antenna relationship::2.0
+information science from east::2.0
+power and its radiated::2.0
+customer loyalty::2.0
+susceptible to malware attacks::2.0
+classification for mobile interrogators::2.0
+data transmitted::2.0
+chip that controls data::2.0
+reverseengineering the underlying crypto-1::2.0
+tags and the reader::2.0
+rfid digital signature transponder::2.0
+inventory management::2.0
+rules on the perimeter::2.0
+infection by replacing legitimate::2.0
+strength of the backscattered::2.0
+backscattered signal as transmitted::2.0
+facilitate transactions without swiping::2.0
+similar to the domain::2.0
+detailed specifications of rfid::2.0
+location and are scanned::2.0
+unauthorized tracking of individuals::2.0
+rely on middleware top::2.0
+center and the center::2.0
+clothing items and handbags::2.0
+completely on magnetic waves::2.0
+activated by a reader::2.0
+focus on different chip::2.0
+perimeter firewall that controls::2.0
+surfaces are better served::2.0
+contributed hundreds of articles::2.0
+product code the universal::2.0
+threats such as denial::2.0
+slightly more secure communications::2.0
+range of automatic identification::2.0
+representing an infinitesimal element::2.0
+teaching and research responsibilities::2.0
+cloning when rfid spoofing::2.0
+served by orientation insensitive::2.0
+communication with the reader::2.0
+transmitter antenna = gain::2.0
+case of passive tags::2.0
+tag communicates by acting::2.0
+similarity in a mechanism::2.0
+applications other than banking::2.0
+formats that enjoy industry-wide::2.0
+people find these technologies::2.0
+tact to take place::2.0
+rfid worm an rfid::2.0
+injecting a specific code::2.0
+center as a global::2.0
+equipped with an optional::2.0
+identifier for all physical::2.0
+differential form of gauss::2.0
+factor of the tag::2.0
+vulnerabilities in rfid systems::2.0
+cameras activated by rfid::2.0
+previously served as director::2.0
+tags and to read::2.0
+science degree in informatics::2.0
+rfid system implementations include::2.0
+keys in mere minutes::2.0
+keys and key fobs::2.0
+deviation from a straight::2.0
+absorbed energy to activate::2.0
+client-side script into web::2.0
+active air interface communications::2.0
+communicated by the tag::2.0
+basic rfid hardware components::2.0
+western hemisphere travel initiative::2.0
+reach a new location::2.0
+place between the reader::2.0
+depends on the antenna::2.0
+security issues amit grover*::2.0
+adverse environments that overcome::2.0
+electrical and electronics engineers::2.0
+system has been compromised::2.0
+information kiosk and customer::2.0
+cloning of the western::2.0
+product denotes the electric::2.0
+implies that the design::2.0
+retransmitting of this information::2.0
+required for supply chain::2.0
+assumption does not hold::2.0
+tag with a unique::2.0
+individuals seems well founded::2.0
+worm is a malware::2.0
+applications the phenomenal proliferation::2.0
+deal with the detailed::2.0
+distances using specially configured::2.0
+management throughout the entire::2.0
+processes by drastically improving::2.0
+tasked with data collection::2.0
+receiver in the tag-to-reader::2.0
+tags can be read::2.0
+invent a new generation::2.0
+war ii to distinguish::2.0
+rfid chips to track::2.0
+absorbed by the transponder::2.0
+transponders with different physical::2.0
+depending on the application::2.0
+aircraft detection v reconnaissance::2.0
+security threats::2.0
+supply chain management propelled::2.0
+write data multiple times::2.0
+security and secure statusacquisition::2.0
+cards contactless smart cards::2.0
+cost of the readers::2.0
+personally identifiable and financial::2.0
+rfid tag classes class::2.0
+merchandise ; the concern::2.0
+rfid infrastructure and include::2.0
+wide variety::2.0
+header identifies the epc::2.0
+antenna relationship frequency field::2.0
+security framework for smart::2.0
+range an easy solution::2.0
+middleware server gets compromised::2.0
+store a sufficiently large::2.0
+home networks are susceptible::2.0
+chips a personal security::2.0
+consists of twelve numeric::2.0
+movements of the customer::2.0
+privacy advocates from consumers::2.0
+conjunction with challenge-response authentication::2.0
+tion of the memory::2.0
+movement of each individual::2.0
+ubiquitous network computing environment::2.0
+malware can be classified::2.0
+transmit secret tag information::2.0
+security vulnerabilities in rfid::2.0
+protocols is the modified::2.0
+rely on rfid based::2.0
+services epc information services::2.0
+transponders under the animals::2.0
+1960s to manage nuclear::2.0
+software in different geographic::2.0
+protocol and diverse security::2.0
+rfid interrogators rfid readers::2.0
+standard credit-card sized plastic::2.0
+berghel* abstractthis paper describes::2.0
+path loss contour mapping::2.0
+air interfaces for globally::2.0
+resistance and its total::2.0
+middleware or reader interface::2.0
+identifier that facilitates auto-identification::2.0
+rely on radio frequency::2.0
+reader and the tags::2.0
+considered to be strong::2.0
+pin at the point::2.0
+unwittingly propagates the infection::2.0
+refers to the exact::2.0
+access protocol for sharing::2.0
+capability of the tags::2.0
+cryptographic protocols in conjunction::2.0
+account privileges for users::2.0
+ffca has two primary::2.0
+item of the inventory::2.0
+reader creates an electromagnetic::2.0
+numbers in each class::2.0
+chain management is achieved::2.0
+end-user application to correctly::2.0
+common rfid system vulnerabilities::2.0
+smart home environments futuristic::2.0
+tracking of high value::2.0
+tag = power transmission::2.0
+force during world war::2.0
+documents embedded with rfid::2.0
+coupling at different angles::2.0
+information on the basis::2.0
+card or any rfid::2.0
+paper describes different aspects::2.0
+berghel * identity theft::2.0
+unique identifier::2.0
+science from east tennessee::2.0
+field tag type antenna::2.0
+control v electronic vehicle::2.0
+linear near field communications::2.0
+compromised when a legitimate::2.0
+discovery services epc information::2.0
+infect the backend software::2.0
+challenges is the general::2.0
+act of surreptitiously grabbing::2.0
+parking and access control::2.0
+accuracy of data collection::2.0
+antennas that are characterized::2.0
+radio frequency to transmit::2.0
+newer exploits keep demonstrating::2.0
+electric field::2.0
+methods support both synchronous::2.0
+home environments that envisage::2.0
+expressed as the ratio::2.0
+capturing of rfid tag::2.0
+asset tracking::2.0
+deployment does not interfere::2.0
+serve as a unique::2.0
+implementation uses a glue::2.0
+air force during world::2.0
+components will vary greatly::2.0
+associate dean of engineering::2.0
+data storage::2.0
+involving sensitive personally identifiable::2.0
+rfid virus an rfid::2.0
+terminal operation i container::2.0
+based on the application::2.0
+bypass client-side access control::2.0
+association for computing machinery::2.0
+parameters for active air::2.0
+connections by exploiting online::2.0
+professor of computer science::2.0
+density play a crucial::2.0
+application framework::2.0
+hacking of the texas::2.0
+safely with transactions involving::2.0
+service availability for ubiquitous::2.0
+transactions involving sensitive personally::2.0
+require a network connection::2.0
+acts as a transmitter::2.0
+attacks focus on targeting::2.0
+wristband this facilitates contact-less::2.0
+information should be handled::2.0
+introducing data format errors::2.0
+including ohmic and capacitive::2.0
+done coupled with replicating::2.0
+range of the tag::2.0
+coupled with the fact::2.0
+number of serious security::2.0
+antenna design and reflects::2.0
+users that dont require::2.0
+chips to track merchandise::2.0
+utilizes the absorbed energy::2.0
+protocol the air interface::2.0
+integral form of gauss::2.0
+conventional computers using technologies::2.0
+chips unless better safeguards::2.0
+cloning is also referred::2.0
+parameters for air interfaces::2.0
+automatic identification::2.0
+electromagnetic field that powers::2.0
+interrogator meets the tags::2.0
+tag killing::2.0
+technologies has their pros::2.0
+represents the dot product::2.0
+deal safely with transactions::2.0
+input with malicious scripts::2.0
+transponders along with coupling::2.0
+detailed listing of countermeasures::2.0
+coil hf near inductive::2.0
+vulnerabilities inherent in rfid::2.0
+susceptible to password breaking::2.0
+range of the electromagnetic::2.0
+tags unique identification data::2.0
+orientation of the antenna::2.0
+deal with the high::2.0
+general lack of awareness::2.0
+security concerns::2.0
+standards in various symbologies::2.0
+designed to make financial::2.0
+supply chain management activities::2.0
+solution is to store::2.0
+chips circuitry but power::2.0
+instances when these spychips::2.0
+fooling it into believing::2.0
+federal personal identityverification cards::2.0
+basis of their functionality::2.0
+broadcast signals over great::2.0
+power source that drives::2.0
+handled by using existing::2.0
+framework for smart home::2.0
+standards using the epcglobal::2.0
+devices such as refrigerators::2.0
+product code symbol out::2.0
+created by the interrogator::2.0
+tag by the reader::2.0
+tic housing::2.0
+aen analysis includes identifying::2.0
+human implants using verichip::2.0
+code the universal product::2.0
+tag after an item::2.0
+focus on an rfid::2.0
+methods may be designed::2.0
+numerous demonstrations that show::2.0
+interface to conventional computers::2.0
+creates an electromagnetic field::2.0
+form of the fundamental::2.0
+divergence of the electric::2.0
+virus an rfid virus::2.0
+identity theft::2.0
+database of an rfid::2.0
+including chris pagets cloning::2.0
+communication requires the transmission::2.0
+data structure::2.0
+simultaneously ; limited data::2.0
+global and open standard::2.0
+security service::2.0
+gain of receiver tag::2.0
+blocking a possible solution::2.0
+abstract bp and kerberos::2.0
+manufacturer of the item::2.0
+proposed security::2.0
+threats other security threats::2.0
+rfid system or compromise::2.0
+tag is not sufficient::2.0
+memory and encryption support::2.0
+privacy invasion and numbering::2.0
+data with a malicious::2.0
+tag cloning when rfid::2.0
+infect the middleware layers::2.0
+tags at a perpendicular::2.0
+secure data::2.0
+reveal any meaningful information::2.0
+years and have helped::2.0
+communication protocol and diverse::2.0
+mechanical engineering.he has played::2.0
+give an identical product::2.0
+facilitates the end-user application::2.0
+limited amount of data::2.0
+describes common rfid system::2.0
+random number::2.0
+barcelona for the ease::2.0
+non-uniformities in the transmission::2.0
+true that newer exploits::2.0
+card ; the cracking::2.0
+systems rely on radio::2.0
+overhead in the backend::2.0
+system v auditing buffer::2.0
+built-in battery to power::2.0
+find these technologies obtrusive::2.0
+product life cycle management::2.0
+transponder formats that enjoy::2.0
+rfid in its current::2.0
+home environment deals::1.58496250072
+semi-passive backscatter tag::1.58496250072
+nevada las vegas::1.58496250072
+redundancy and error::1.58496250072
+printing or etching::1.58496250072
+identifies the type::1.58496250072
+play a crucial::1.58496250072
+enclosed electric charge::1.58496250072
+issues as rfid::1.58496250072
+rfid enabled devices::1.58496250072
+read is reduced::1.58496250072
+reverseengineering the underlying::1.58496250072
+epc version number::1.58496250072
+rfid of animals::1.58496250072
+injecting a specific::1.58496250072
+shields rfid smart::1.58496250072
+optical character recognition::1.58496250072
+number of users::1.58496250072
+enhanced conductive area::1.58496250072
+randomization one solution::1.58496250072
+signals over great::1.58496250072
+tag read events::1.58496250072
+variety of rfid::1.58496250072
+rfid smart card::1.58496250072
+parts of code::1.58496250072
+protocols and section::1.58496250072
+documenting various security::1.58496250072
+software application tasked::1.58496250072
+malware that propagates::1.58496250072
+software based solution::1.58496250072
+sleep command unlike::1.58496250072
+coupling on flat::1.58496250072
+type of epc::1.58496250072
+facilitates the end-user::1.58496250072
+making them suitable::1.58496250072
+recover secret keys::1.58496250072
+typical rfid transponder::1.58496250072
+environments that envisage::1.58496250072
+energy to activate::1.58496250072
+battery that drives::1.58496250072
+password breaking attacks::1.58496250072
+edl and passports::1.58496250072
+formats include disks::1.58496250072
+proper filtering rules::1.58496250072
+precise location identification::1.58496250072
+database using malicious::1.58496250072
+national drivers licenses::1.58496250072
+write-once readonly tag::1.58496250072
+killing rfid systems::1.58496250072
+ubiquitous mifare classic::1.58496250072
+crash the system::1.58496250072
+western hemisphere travel::1.58496250072
+industry to invent::1.58496250072
+directivity and electrical::1.58496250072
+detection v reconnaissance::1.58496250072
+secret tag information::1.58496250072
+epc security services::1.58496250072
+out industrial espionage::1.58496250072
+mifare classic card::1.58496250072
+slightly more secure::1.58496250072
+invited paper journal::1.58496250072
+symbol is shown::1.58496250072
+monitor the movements::1.58496250072
+antenna with respect::1.58496250072
+invasion and numbering::1.58496250072
+unlike specular reflection::1.58496250072
+iff aircraft detection::1.58496250072
+epc discovery services::1.58496250072
+rfid shielding flipside::1.58496250072
+rfid systems described::1.58496250072
+include patient tracking::1.58496250072
+embedded in customer::1.58496250072
+based on gs1s::1.58496250072
+interrogation zones based::1.58496250072
+communicate with business::1.58496250072
+rfid environment depending::1.58496250072
+increasing the efficiency::1.58496250072
+construction formats disks::1.58496250072
+system called radio::1.58496250072
+suited for ultra::1.58496250072
+formats are summarized::1.58496250072
+equipped with suitable::1.58496250072
+network manages dynamic::1.58496250072
+bypass client-side access::1.58496250072
+sleeves or passport::1.58496250072
+doesnt dynamically check::1.58496250072
+field that powers::1.58496250072
+royal air force::1.58496250072
+caspian also highlighted::1.58496250072
+including chris pagets::1.58496250072
+tangible and cost-effective::1.58496250072
+store a sufficiently::1.58496250072
+tags that provide::1.58496250072
+plas animal tracking::1.58496250072
+backscatter rfid tags::1.58496250072
+infect the middleware::1.58496250072
+size and design::1.58496250072
+surface is proportional::1.58496250072
+killings from large::1.58496250072
+reader interface layer::1.58496250072
+carrying out financial::1.58496250072
+write-once using class::1.58496250072
+communications than generation::1.58496250072
+interface the rfid::1.58496250072
+electronic toll collection::1.58496250072
+deals with privacy::1.58496250072
+share product information::1.58496250072
+deliver optimum performance::1.58496250072
+abstract business processes::1.58496250072
+computer and information::1.58496250072
+carrying more information::1.58496250072
+due to scattering::1.58496250072
+handle data collision::1.58496250072
+essence rf transceivers::1.58496250072
+susceptible to aen::1.58496250072
+rfid for item::1.58496250072
+wal-mart uses rfid::1.58496250072
+upc is based::1.58496250072
+issues ing code::1.58496250072
+tag-specific unique serial::1.58496250072
+growing every day::1.58496250072
+strong identification solutions::1.58496250072
+precautions the threats::1.58496250072
+sniff rf communications::1.58496250072
+reduce human intervention::1.58496250072
+common rfid system::1.58496250072
+unmanned aerial vehicles::1.58496250072
+underlying crypto-1 cipher::1.58496250072
+amounts of data::1.58496250072
+implementation and commissioning::1.58496250072
+symbols proprietary protocol::1.58496250072
+affect various performance::1.58496250072
+widespread rfid deployment::1.58496250072
+standard credit-card sized::1.58496250072
+poorly written middleware::1.58496250072
+passive no inbuilt::1.58496250072
+infected tags reach::1.58496250072
+prevents unauthorized altera::1.58496250072
+paper thin format::1.58496250072
+tag identifier information::1.58496250072
+rely on middleware::1.58496250072
+de-activates the rfid::1.58496250072
+epc structure header::1.58496250072
+rely on rfid::1.58496250072
+solutions use standard::1.58496250072
+automatic access control::1.58496250072
+force during world::1.58496250072
+overcome a number::1.58496250072
+tags and manages::1.58496250072
+smart home networks::1.58496250072
+information without access::1.58496250072
+cards without disclosing::1.58496250072
+limited data redundancy::1.58496250072
+antenna that absorbs::1.58496250072
+obtained for carrying::1.58496250072
+shielding flipside wallet::1.58496250072
+power conversion efficiency::1.58496250072
+frequency or amplitude::1.58496250072
+original form factor::1.58496250072
+technologies while section::1.58496250072
+digital signal processor::1.58496250072
+highlighted an incident::1.58496250072
+hal berghel tion::1.58496250072
+texas instruments rfid::1.58496250072
+antenna relationship frequency::1.58496250072
+requires proper planning::1.58496250072
+facilitates contact-less access::1.58496250072
+high security areas::1.58496250072
+tag classes class::1.58496250072
+berghel * identity::1.58496250072
+introduced in employee::1.58496250072
+systems allow simultaneous::1.58496250072
+carrying out industrial::1.58496250072
+security issues fig::1.58496250072
+introduction a wide::1.58496250072
+specially configured readers::1.58496250072
+proliferation of rfid::1.58496250072
+streamline different processes::1.58496250072
+done to deter::1.58496250072
+cost of maintenance::1.58496250072
+tag was demonstrated::1.58496250072
+ensure foolproof security::1.58496250072
+distances using specially::1.58496250072
+tag classifications based::1.58496250072
+rfid card skimming::1.58496250072
+system implementations include::1.58496250072
+class iv rewriteable::1.58496250072
+processes by drastically::1.58496250072
+ambient electromagnetic noise::1.58496250072
+standard communication protocol::1.58496250072
+power transmission coefficient::1.58496250072
+focus on targeting::1.58496250072
+malicious pre-programmed damage::1.58496250072
+privileges for users::1.58496250072
+ubiquitous computing environments::1.58496250072
+folded dipole cct::1.58496250072
+limiting account privileges::1.58496250072
+relationship frequency field::1.58496250072
+input with malicious::1.58496250072
+legitimate rfid server::1.58496250072
+dennison strip tag::1.58496250072
+chan yeob yeun::1.58496250072
+upc symbol structure::1.58496250072
+barcodes have proved::1.58496250072
+distinguish between enemy::1.58496250072
+code a glue::1.58496250072
+bigger the size::1.58496250072
+framework for smart::1.58496250072
+boundary condition errors::1.58496250072
+rfid passport shielding::1.58496250072
+epc information services::1.58496250072
+transmitted using frequency::1.58496250072
+wristband this facilitates::1.58496250072
+frequency to transmit::1.58496250072
+responsible for managing::1.58496250072
+fobs smart labels::1.58496250072
+tag density refers::1.58496250072
+tic housing injecting::1.58496250072
+kerberos another implementation::1.58496250072
+support sufficient capacity::1.58496250072
+popular rfid implementations::1.58496250072
+deal with digital::1.58496250072
+turns and branches::1.58496250072
+battery to power::1.58496250072
+solution to prevent::1.58496250072
+implementation requires proper::1.58496250072
+signal is derived::1.58496250072
+eliminate the aen::1.58496250072
+based on kerberos::1.58496250072
+capability to power::1.58496250072
+rfid vulnerabilities common::1.58496250072
+barcode can accommodate::1.58496250072
+systems including magnetic::1.58496250072
+requires the transmission::1.58496250072
+discovery services epc::1.58496250072
+cloning vs spoofing::1.58496250072
+merchandize remain functional::1.58496250072
+date of manufacture::1.58496250072
+tag with one-time::1.58496250072
+institute for electrical::1.58496250072
+strong input validation::1.58496250072
+rfid privacy issues::1.58496250072
+similar to class::1.58496250072
+communications between authorized::1.58496250072
+producing a tangible::1.58496250072
+server gets compromised::1.58496250072
+sleep command de-activates::1.58496250072
+tags the clipped::1.58496250072
+gadget that retransmitted::1.58496250072
+uhf and microwave::1.58496250072
+secure service availability::1.58496250072
+frequency and supply::1.58496250072
+domain name system::1.58496250072
+capturing of rfid::1.58496250072
+modulating and demodulating::1.58496250072
+structure is defined::1.58496250072
+merchant loyalty card::1.58496250072
+ranching and animal::1.58496250072
+kiosk and customer::1.58496250072
+assumes that strength::1.58496250072
+field tag type::1.58496250072
+streamlined or optimized::1.58496250072
+protocol and diverse::1.58496250072
+entire supply chain::1.58496250072
+epcglobal uhf class::1.58496250072
+launching other attacks::1.58496250072
+withstand higher temperatures::1.58496250072
+inherent in rfid::1.58496250072
+propelled the industry::1.58496250072
+passport shielding cases::1.58496250072
+side channel attacks::1.58496250072
+chip by reverseengineering::1.58496250072
+consumers against supermarket::1.58496250072
+personal clothing items::1.58496250072
+denotes the electric::1.58496250072
+memory are susceptible::1.58496250072
+association for computing::1.58496250072
+interfaces for globally::1.58496250072
+lack of inbuilt::1.58496250072
+formats that enjoy::1.58496250072
+conjunction with challenge-response::1.58496250072
+yeun and byoungcheon::1.58496250072
+infected rfid tag::1.58496250072
+embedded with rfid::1.58496250072
+elevation and azimuth::1.58496250072
+inductive coil uhf::1.58496250072
+secure the contents::1.58496250072
+rfid data skimming::1.58496250072
+limiting their exposure::1.58496250072
+system for resolving::1.58496250072
+customer loyalty programs::1.58496250072
+secure statusacquisition technology::1.58496250072
+transmit secret tag::1.58496250072
+rfid transponder antennas::1.58496250072
+traditional radio antennas::1.58496250072
+federal personal identityverification::1.58496250072
+spoofing is done::1.58496250072
+billion serial numbers::1.58496250072
+modulated backscatter rfid::1.58496250072
+legitimate tag data::1.58496250072
+infrastructure and include::1.58496250072
+hacks for spoofing::1.58496250072
+resolving ip addresses::1.58496250072
+designed to spread::1.58496250072
+limitations and support::1.58496250072
+common threats include::1.58496250072
+research responsibilities deal::1.58496250072
+manufacturer to support::1.58496250072
+variations are described::1.58496250072
+reader and replying::1.58496250072
+gauss % 27s_law::1.58496250072
+adjoining interrogation zones::1.58496250072
+element of area::1.58496250072
+parking and access::1.58496250072
+networks are susceptible::1.58496250072
+completely on magnetic::1.58496250072
+security issues amit::1.58496250072
+variety of defense::1.58496250072
+services the ons::1.58496250072
+generation auto-id technology::1.58496250072
+epc was developed::1.58496250072
+_room=3 & _action=detail::1.58496250072
+overcome these limitations::1.58496250072
+rtotal = rradiation::1.58496250072
+epc manager number::1.58496250072
+memory card international::1.58496250072
+slotted aloha protocol::1.58496250072
+increase in efficiency::1.58496250072
+adds an overhead::1.58496250072
+number as communicated::1.58496250072
+keys and key::1.58496250072
+readers can sniff::1.58496250072
+identification and compares::1.58496250072
+door locking applications::1.58496250072
+inbuilt power source::1.58496250072
+systems on board::1.58496250072
+make rfid communication::1.58496250072
+type antenna type::1.58496250072
+proposed enterprise application::1.58496250072
+transportation i electronic::1.58496250072
+designed for space::1.58496250072
+include rfid data::1.58496250072
+handing low frequency::1.58496250072
+wavelength = transmitted::1.58496250072
+command the kill::1.58496250072
+16-bit random number::1.58496250072
+electronic drivers license::1.58496250072
+implementations indicate substantial::1.58496250072
+implemented to ensure::1.58496250072
+limited information-storing capacity::1.58496250072
+grover* and hal::1.58496250072
+modules or components::1.58496250072
+interrogator that manages::1.58496250072
+serves both associations::1.58496250072
+usefulness of low-priced::1.58496250072
+construction formats include::1.58496250072
+transponders a typical::1.58496250072
+safeguards are implemented::1.58496250072
+worked on interfacing::1.58496250072
+data is coming::1.58496250072
+embedded in merchandize::1.58496250072
+protocols for class::1.58496250072
+attackers can compromise::1.58496250072
+interpret tag read::1.58496250072
+withstanding adverse environments::1.58496250072
+coefficient = minimum::1.58496250072
+barcode system limitations::1.58496250072
+injection to disrupt::1.58496250072
+size and capable::1.58496250072
+rfid infrastructure components::1.58496250072
+availability for ubiquitous::1.58496250072
+hal berghel* abstractthis::1.58496250072
+server then unwittingly::1.58496250072
+hemisphere travel initiative::1.58496250072
+unauthorized person eavesdrops::1.58496250072
+linear or circular::1.58496250072
+rfid reader system::1.58496250072
+write data multiple::1.58496250072
+.passive transponder formats::1.58496250072
+tag = power::1.58496250072
+eantenna =antenna efficiency::1.58496250072
+applications where rfid::1.58496250072
+epc also covers::1.58496250072
+applications require transponders::1.58496250072
+tracking for defense::1.58496250072
+two primary components::1.58496250072
+shapes and sizes::1.58496250072
+tag memory content::1.58496250072
+non-secure communication channels::1.58496250072
+grants in support::1.58496250072
+communication is facilitated::1.58496250072
+widely used today::1.58496250072
+linear near field::1.58496250072
+classes of transponders::1.58496250072
+large random number::1.58496250072
+rfid implementation implies::1.58496250072
+minimum threshold power::1.58496250072
+rradiation + rcoil::1.58496250072
+aen and plcm::1.58496250072
+represents the dot::1.58496250072
+communication more secure::1.58496250072
+tag to give::1.58496250072
+rfid transponder consists::1.58496250072
+based on application-specific::1.58496250072
+incident radio waves::1.58496250072
+tracking retail inventory::1.58496250072
+make the tag::1.58496250072
+ray is reflected::1.58496250072
+communication is referred::1.58496250072
+meshes or shields::1.58496250072
+type of product::1.58496250072
+worm or rfid::1.58496250072
+class ii passive::1.58496250072
+consumer to tear::1.58496250072
+chips to track::1.58496250072
+compromise the rfid::1.58496250072
+rfid tag classes::1.58496250072
+ffca has two::1.58496250072
+restricted their market::1.58496250072
+low throughput demand::1.58496250072
+shown that technologically::1.58496250072
+require direction-specific coupling::1.58496250072
+fids for rfid-enabled::1.58496250072
+authentication and data::1.58496250072
+bigger in size::1.58496250072
+random access protocol::1.58496250072
+tasked with data::1.58496250072
+tag density play::1.58496250072
+read-only backscatter tag::1.58496250072
+rfid system vulnerabilities::1.58496250072
+technology has matured::1.58496250072
+baja beach nightclub::1.58496250072
+financial transaction systems::1.58496250072
+power for communication::1.58496250072
+application to correctly::1.58496250072
+controls data transmitted::1.58496250072
+interface to conventional::1.58496250072
+digital signature transponder::1.58496250072
+data multiple times::1.58496250072
+concept is believed::1.58496250072
+chain management activities::1.58496250072
+high value asset::1.58496250072
+extent by employing::1.58496250072
+online rfid services::1.58496250072
+encoding data transmitted::1.58496250072
+hidden cameras activated::1.58496250072
+berghel* abstractthis paper::1.58496250072
+contactless auto-id system::1.58496250072
+security annual conference::1.58496250072
+propagates the infection::1.58496250072
+exxonmobil speedpass systems::1.58496250072
+personal security risk::1.58496250072
+tricked into downloading::1.58496250072
+tag type antenna::1.58496250072
+type or form::1.58496250072
+futuristic smart home::1.58496250072
+security issues tact::1.58496250072
+items unique identifier::1.58496250072
+demodulating the radiofrequency::1.58496250072
+sale management iii::1.58496250072
+source that drives::1.58496250072
+dot product denotes::1.58496250072
+encryption using encryption::1.58496250072
+application area rfid::1.58496250072
+transactions without swiping::1.58496250072
+rfid backend system::1.58496250072
+channel attacks rouge::1.58496250072
+tracking of individuals::1.58496250072
+compromise some part::1.58496250072
+rfids and section::1.58496250072
+inventory management iii::1.58496250072
+clipped the distance::1.58496250072
+representing an infinitesimal::1.58496250072
+absorbs the incoming::1.58496250072
+damage by infecting::1.58496250072
+variables are described::1.58496250072
+read other class::1.58496250072
+vulnerabilities common rfid::1.58496250072
+ohmic and capacitive::1.58496250072
+classified as active::1.58496250072
+code attacks focus::1.58496250072
+smart card shielding::1.58496250072
+responsible for communication::1.58496250072
+logistics and inventory::1.58496250072
+hal berghel application::1.58496250072
+mifare classic rfid::1.58496250072
+invasion of privacy::1.58496250072
+frequency antenna relationship::1.58496250072
+data collection related::1.58496250072
+tracking cargo containers::1.58496250072
+waves to pass::1.58496250072
+rise of e-commerce::1.58496250072
+submarines and uavs::1.58496250072
+code to gain::1.58496250072
+electrical and electronics::1.58496250072
+classification for mobile::1.58496250072
+rfid tag information::1.58496250072
+contactless smart cards::1.58496250072
+rfid proliferation spreads::1.58496250072
+covers a variety::1.58496250072
+solves the problem::1.58496250072
+capable of carrying::1.58496250072
+worm an rfid::1.58496250072
+circuitry but power::1.58496250072
+attacks rouge rfid::1.58496250072
+ease of payment::1.58496250072
+shields use containers::1.58496250072
+supply change management::1.58496250072
+involving sensitive personally::1.58496250072
+information can include::1.58496250072
+applications of rfid::1.58496250072
+meets the tags::1.58496250072
+sought to overcome::1.58496250072
+rendering it susceptible::1.58496250072
+card or merchant::1.58496250072
+tracking of pharmaceuticals::1.58496250072
+concept of automatic::1.58496250072
+patient tracking systems::1.58496250072
+essentially a type::1.58496250072
+optional infrared-capable transmitter::1.58496250072
+rely on radio::1.58496250072
+real-time data communication::1.58496250072
+susceptible to password::1.58496250072
+1960s to manage::1.58496250072
+antenna greatly affect::1.58496250072
+demonstrations that show::1.58496250072
+rouge rfid readers::1.58496250072
+types of rfid::1.58496250072
+express credit card::1.58496250072
+reader application programming::1.58496250072
+processes thereby producing::1.58496250072
+field combat iii::1.58496250072
+spychips or rfids::1.58496250072
+obtrusive thereby limiting::1.58496250072
+abstractthis paper describes::1.58496250072
+sale to make::1.58496250072
+metals that dont::1.58496250072
+reflects the strength::1.58496250072
+classic rfid chip::1.58496250072
+9.4.1 rfid worm::1.58496250072
+care i patient::1.58496250072
+class i passive::1.58496250072
+transponder is optimal::1.58496250072
+capacity to infect::1.58496250072
+unique identification data::1.58496250072
+radio frequency identification::1.58496250072
+chain management propelled::1.58496250072
+reception of data::1.58496250072
+american express credit::1.58496250072
+services epc information::1.58496250072
+personal computer memory::1.58496250072
+client-side access control::1.58496250072
+parameters for active::1.58496250072
+leaving the realm::1.58496250072
+attacks by hackers::1.58496250072
+ultra high frequency::1.58496250072
+protocols in conjunction::1.58496250072
+reveal meaningful information::1.58496250072
+countermeasures and precautions::1.58496250072
+typical rfid system::1.58496250072
+solutions for carrying::1.58496250072
+battery assisted passive::1.58496250072
+credit card shielding::1.58496250072
+rfid tags active::1.58496250072
+marine terminal operation::1.58496250072
+reveal any meaningful::1.58496250072
+components ward link::1.58496250072
+applications the phenomenal::1.58496250072
+school of informatics::1.58496250072
+tag is attached::1.58496250072
+class v similar::1.58496250072
+personal identityverification cards::1.58496250072
+system or compromise::1.58496250072
+list of applications::1.58496250072
+globally accepted frequencies::1.58496250072
+script into web::1.58496250072
+high value assets::1.58496250072
+security is provided::1.58496250072
+accuracy of data::1.58496250072
+describes different aspects::1.58496250072
+infrastructure components ward::1.58496250072
+attacker to alter::1.58496250072
+middleware or reader::1.58496250072
+employee access cards::1.58496250072
+require a network::1.58496250072
+make different modules::1.58496250072
+disclosing the fact::1.58496250072
+number of transponders::1.58496250072
+minimized or eliminated::1.58496250072
+code symbol out::1.58496250072
+form of gauss::1.58496250072
+applications that require::1.58496250072
+management is achieved::1.58496250072
+germany highlighted vulnerabilities::1.58496250072
+aircraft identification system::1.58496250072
+url or ip-address::1.58496250072
+unique global identifier::1.58496250072
+designed to serve::1.58496250072
+helped in increasing::1.58496250072
+nightclub in barcelona::1.58496250072
+disks or coins::1.58496250072
+compact flash cards::1.58496250072
+drives the communication::1.58496250072
+template.aspx ? articleid=1564::1.58496250072
+tags remained readable::1.58496250072
+active air interface::1.58496250072
+system and tag-based::1.58496250072
+cloning when rfid::1.58496250072
+standard provides slightly::1.58496250072
+rfid middleware server::1.58496250072
+soviet spy gadget::1.58496250072
+tag killing rfid::1.58496250072
+center further classified::1.58496250072
+increasing consumer privacy::1.58496250072
+types of interfacing::1.58496250072
+non-contact smart payment::1.58496250072
+out infected tags::1.58496250072
+industry i vehicle::1.58496250072
+amit grover holds::1.58496250072
+degree in informatics::1.58496250072
+friend or foe::1.58496250072
+tags unique identifier::1.58496250072
+control v electronic::1.58496250072
+path loss contour::1.58496250072
+activated by rfid::1.58496250072
+managing the communication::1.58496250072
+solution is introducing::1.58496250072
+rfid based solutions::1.58496250072
+waves and utilizes::1.58496250072
+issues suitable reader::1.58496250072
+aen analysis includes::1.58496250072
+precautions in section::1.58496250072
+connections by exploiting::1.58496250072
+diverse security functions::1.58496250072
+computer memory card::1.58496250072
+proposed security service::1.58496250072
+law or flux::1.58496250072
+middleware top communicate::1.58496250072
+class iii rewriteable::1.58496250072
+rfid implementations employ::1.58496250072
+operation i container::1.58496250072
+consists of twelve::1.58496250072
+electronic vehicle registration::1.58496250072
+frequency field tag::1.58496250072
+range is typically::1.58496250072
+transactions involving sensitive::1.58496250072
+form factor classification::1.58496250072
+challenge-response authentication systems::1.58496250072
+coupling is affected::1.58496250072
+powers the tag::1.58496250072
+rcoil + rground::1.58496250072
+rfid hacking underground::1.58496250072
+disrupt the integrity::1.58496250072
+line of sight::1.58496250072
+enemy and allied::1.58496250072
+reader thereby fooling::1.58496250072
+prevent unauthorized eavesdropping::1.58496250072
+exploits keep demonstrating::1.58496250072
+retailing i inventory::1.58496250072
+supermarket privacy invasion::1.58496250072
+reader can register::1.58496250072
+phantom-reads introduce errors::1.58496250072
+card or microprocessor::1.58496250072
+envi567 a survey::1.58496250072
+devices are responsible::1.58496250072
+inbuilt data-security standards::1.58496250072
+listed in table::1.58496250072
+spread the damage::1.58496250072
+efficiency and describes::1.58496250072
+web application vulnerability::1.58496250072
+rground + rother::1.58496250072
+twelve numeric characters::1.58496250072
+conmanuscript received november::1.58496250072
+university of nevada::1.58496250072
+orientation insensitive antennas::1.58496250072
+applicationsand has worked::1.58496250072
+credit-card sized plastic::1.58496250072
+served by straight::1.58496250072
+hundreds of articles::1.58496250072
+maximum transmission range::1.58496250072
+transponders are varied::1.58496250072
+include additional information::1.58496250072
+common mans confidence::1.58496250072
+proposed security framework::1.58496250072
+require rf coupling::1.58496250072
+antenna is clipped::1.58496250072
+applications to streamline::1.58496250072
+antenna that transmits::1.58496250072
+animals advanced transponders::1.58496250072
+unique identification number::1.58496250072
+technology in applications::1.58496250072
+pros and cons::1.58496250072
+coil shaped antennas::1.58496250072
+transponder or tag::1.58496250072
+degree in computer::1.58496250072
+electric field created::1.58496250072
+rfid implementation requires::1.58496250072
+lack of awareness::1.58496250072
+creates an electromagnetic::1.58496250072
+9.4.2 rfid virus::1.58496250072
+employ time domain::1.58496250072
+system v auditing::1.58496250072
+computers using technologies::1.58496250072
+gain of receiver::1.58496250072
+type of software::1.58496250072
+digits long fig::1.58496250072
+inverse sixth power::1.58496250072
+replicating the original::1.58496250072
+replacing legitimate tag::1.58496250072
+shown in table::1.58496250072
+class 0+ passive::1.58496250072
+data format errors::1.58496250072
+antennas gain combines::1.58496250072
+effort by ibm::1.58496250072
+victims financial transaction::1.58496250072
+class iv tags::1.58496250072
+give an identical::1.58496250072
+tag can support::1.58496250072
+auditing buffer bounds::1.58496250072
+network to dos::1.58496250072
+object naming service::1.58496250072
+epoxy resin molding::1.58496250072
+class i transponders::1.58496250072
+code to make::1.58496250072
+simultaneously ; limited::1.58496250072
+casino chip tracking::1.58496250072
+cross -site scripting::1.58496250072
+card international association::1.58496250072
+product code symbol::1.58496250072
+good examples include::1.58496250072
+applications are listed::1.58496250072
+unauthorized tag killings::1.58496250072
+targeting various types::1.58496250072
+specially crafted code::1.58496250072
+ibm and marnlenrfid::1.58496250072
+interfacing information systems::1.58496250072
+design and implementation::1.58496250072
+globalization of businesses::1.58496250072
+compromising the verichip::1.58496250072
+find these technologies::1.58496250072
+global and open::1.58496250072
+malicious sql commands::1.58496250072
+trusted sites vii::1.58496250072
+alien squiggle tag::1.58496250072
+support both synchronous::1.58496250072
+typical epc code::1.58496250072
+banking and production::1.58496250072
+cards contactless smart::1.58496250072
+specifications of rfid::1.58496250072
+popular rfid standards::1.58496250072
+cloning have highlighted::1.58496250072
+components will vary::1.58496250072
+incoming rf waves::1.58496250072
+rfids being introduced::1.58496250072
+button thus making::1.58496250072
+chris pagets cloning::1.58496250072
+analysis includes identifying::1.58496250072
+directivity the power::1.58496250072
+sensitive personally identifiable::1.58496250072
+forward channel security::1.58496250072
+implants using verichip::1.58496250072
+memory and encryption::1.58496250072
+make matters worse::1.58496250072
+rfid tags embedded::1.58496250072
+ing code schemes::1.58496250072
+software that acts::1.58496250072
+divyan m konidala::1.58496250072
+company or manufacturer::1.58496250072
+reader by transmitting::1.58496250072
+environments that overcome::1.58496250072
+served as director::1.58496250072
+downloading and executing::1.58496250072
+rfid security framework::1.58496250072
+infecting other tags::1.58496250072
+rfid reader creates::1.58496250072
+issues amit grover*::1.58496250072
+send irregular amounts::1.58496250072
+specific functional requirement::1.58496250072
+compromised middleware server::1.58496250072
+ability to alter::1.58496250072
+responsible for responding::1.58496250072
+vulnerabilities are described::1.58496250072
+information is compromised::1.58496250072
+true that newer::1.58496250072
+low-priced rfid tags::1.58496250072
+recognized by epcglobal::1.58496250072
+allowing each manufacturer::1.58496250072
+exploits the vulnerability::1.58496250072
+application-area ; coupled::1.58496250072
+data transmission range::1.58496250072
+tag is produced::1.58496250072
+concern about surreptitious::1.58496250072
+million object classes::1.58496250072
+sets of data::1.58496250072
+common construction format::1.58496250072
+purpose or application::1.58496250072
+show the ease::1.58496250072
+engineering.he has played::1.58496250072
+application programming interface::1.58496250072
+reader = gain::1.58496250072
+value pharmaceuticals iii::1.58496250072
+increase in newsreports::1.58496250072
+transponder only temporarily::1.58496250072
+customer loyalty cards::1.58496250072
+defense i logistics::1.58496250072
+radiation efficiency depends::1.58496250072
+kitchen appliances::1.0
+oyster card::1.0
+ghz frequencies::1.0
+radiation efficiency::1.0
+research responsibilities::1.0
+personal clothing::1.0
+ocr systems::1.0
+storage capacity::1.0
+proprietary protocol::1.0
+database management::1.0
+upc barcode::1.0
+data-security standards::1.0
+dedicated reader::1.0
+yeob yeun::1.0
+electronic drivers::1.0
+transactions secure::1.0
+optical character::1.0
+digital signal::1.0
+radio communication::1.0
+antenna embedded::1.0
+incorrect input::1.0
+authentication systems::1.0
+formats include::1.0
+symbol out::1.0
+adjoining interrogation::1.0
+alamos national::1.0
+ubiquitous mifare::1.0
+dynamic rfid::1.0
+vary greatly::1.0
+auto-id technology::1.0
+cybersecurity research::1.0
+make matters::1.0
+acceptance include::1.0
+configured readers::1.0
+efficient supply::1.0
+multiple barcodes::1.0
+forward channel::1.0
+irregular amounts::1.0
+conmanuscript received::1.0
+field communications::1.0
+digital input::1.0
+filtered properly::1.0
+electronic pick-pocketing::1.0
+interfacing codes::1.0
+facilitates auto-identification::1.0
+resin molding::1.0
+orientation insensitive::1.0
+life span::1.0
+suitable antennas::1.0
+person eavesdrops::1.0
+specially configured::1.0
+automatic vehicle::1.0
+proprietary systems::1.0
+standard credit-card::1.0
+signals due::1.0
+sized plastic::1.0
+cycle management::1.0
+standard communication::1.0
+dennison strip::1.0
+threshold power::1.0
+including magnetic::1.0
+common construction::1.0
+epcglobal tag::1.0
+state university::1.0
+facilitate transactions::1.0
+infrared-capable transmitter::1.0
+systems security::1.0
+communications rely::1.0
+shields rfid::1.0
+epc class::1.0
+management propelled::1.0
+locking applications::1.0
+vector representing::1.0
+information science::1.0
+hardware components::1.0
+cargo containers::1.0
+information kiosk::1.0
+multiple turns::1.0
+security vulnerabilities::1.0
+passport card::1.0
+full administrator::1.0
+rfid interrogators::1.0
+strong identification::1.0
+professional literature::1.0
+manager number::1.0
+components ward::1.0
+input validation::1.0
+performance parameters::1.0
+modulated backscatter::1.0
+tag classes::1.0
+security feature::1.0
+contributed hundreds::1.0
+newer exploits::1.0
+drivers license::1.0
+send irregular::1.0
+animals skin::1.0
+previously served::1.0
+owners information::1.0
+privacy advocates::1.0
+industrial espionage::1.0
+random access::1.0
+gain access::1.0
+dynamically check::1.0
+reader acts::1.0
+antennas capacitance::1.0
+chips circuitry::1.0
+ensure foolproof::1.0
+link directions::1.0
+accommodate implies::1.0
+proposed enterprise::1.0
+payment transactions::1.0
+specifically contribute::1.0
+low-priced rfid::1.0
+flipside wallet::1.0
+reveal meaningful::1.0
+baja beach::1.0
+additional information::1.0
+users knowledge::1.0
+tag-specific unique::1.0
+responsibilities deal::1.0
+exxonmobil speedpass::1.0
+rfid server::1.0
+readers interrogate::1.0
+backend software::1.0
+customer service::1.0
+security risk::1.0
+transponder formats::1.0
+information-storing capacity::1.0
+travel initiative::1.0
+fractional communications::1.0
+shielding cases::1.0
+facilitates contact-less::1.0
+personal security::1.0
+individual object::1.0
+bert moore::1.0
+explained rfid::1.0
+market share::1.0
+owners knowledge::1.0
+supermarket privacy::1.0
+sufficiently large::1.0
+enclosed electric::1.0
+credit-card sized::1.0
+character recognition::1.0
+processed simultaneously::1.0
+air interfaces::1.0
+victims financial::1.0
+rouge rfid::1.0
+microwave spectrum::1.0
+physical objects::1.0
+inverse sixth::1.0
+vehicle immobilizers::1.0
+transmitted power::1.0
+long fig::1.0
+propagation vector::1.0
+include components::1.0
+clothing items::1.0
+average desktop::1.0
+grabbing personal::1.0
+secure database::1.0
+dns implies::1.0
+real damage::1.0
+door locking::1.0
+structural detail::1.0
+unauthorized eavesdropping::1.0
+people find::1.0
+format errors::1.0
+rfid-based applications::1.0
+abstract business::1.0
+unrestricted universal::1.0
+out financial::1.0
+tag cloning::1.0
+iii rewriteable::1.0
+deal safely::1.0
+dont require::1.0
+software application::1.0
+strict line::1.0
+infected tags::1.0
+envisage network::1.0
+generation auto-id::1.0
+9.4.2 rfid::1.0
+enjoy industry-wide::1.0
+aircraft identification::1.0
+cards facilitate::1.0
+human intervention::1.0
+density play::1.0
+positive improvement::1.0
+traditional focus::1.0
+class iii::1.0
+news articles::1.0
+unmanned aerial::1.0
+non-contact smart::1.0
+type antenna::1.0
+malware attacks::1.0
+applications require::1.0
+pet-tracking implants::1.0
+aen analysis::1.0
+track merchandise::1.0
+malicious sql::1.0
+computer science::1.0
+online rfid::1.0
+retina scans::1.0
+nevada las::1.0
+gausss law::1.0
+strip tag::1.0
+strong input::1.0
+large distances::1.0
+deliver optimum::1.0
+information services::1.0
+drastically improving::1.0
+electric constant::1.0
+smart payment::1.0
+mokdong chung::1.0
+database security::1.0
+rfid shielding::1.0
+software component::1.0
+chris pagets::1.0
+waves behave::1.0
+radiation resistance::1.0
+documents embedded::1.0
+ground losses::1.0
+non-volatile memory::1.0
+standards standard::1.0
+detailed listing::1.0
+exact type::1.0
+collaborative effort::1.0
+cameras activated::1.0
+antenna relationship::1.0
+infinitesimal element::1.0
+sql commands::1.0
+secret tag::1.0
+electronics engineers::1.0
+secure digital::1.0
+closed surface::1.0
+digits encoded::1.0
+absorbed energy::1.0
+aloha protocol::1.0
+diverse security::1.0
+cards contactless::1.0
+interfacing information::1.0
+done coupled::1.0
+make financial::1.0
+dipole cct::1.0
+minimum threshold::1.0
+web application::1.0
+integral part::1.0
+general lack::1.0
+widespread rfid::1.0
+inbuilt data-security::1.0
+attacks rouge::1.0
+top communicate::1.0
+geographic locations::1.0
+reader interface::1.0
+open standard::1.0
+implementation implies::1.0
+air force::1.0
+direction-specific coupling::1.0
+faraday cycle::1.0
+transmission coefficient::1.0
+uniquely identify::1.0
+ward link::1.0
+loss prevention::1.0
+rfid classification::1.0
+active tag::1.0
+mapping out::1.0
+communication requires::1.0
+data security::1.0
+components compatible::1.0
+contour mapping::1.0
+selecting readers::1.0
+technologies obtrusive::1.0
+digital signature::1.0
+frequency identification::1.0
+rely completely::1.0
+frequency field::1.0
+newsreports documenting::1.0
+prevent unauthorized::1.0
+unauthorized entities::1.0
+multiple angles::1.0
+tag unreadable::1.0
+pp.279 garfinkel::1.0
+signal bleeding::1.0
+field tag::1.0
+implementations employ::1.0
+tags remained::1.0
+rfid encryption::1.0
+wide range::1.0
+hold true::1.0
+differential form::1.0
+basic rfid::1.0
+blocker tag::1.0
+rafsec folded::1.0
+personal computer::1.0
+inbuilt power::1.0
+issn 1976-913x::1.0
+application area::1.0
+cross -site::1.0
+effectively prevents::1.0
+privacy invasion::1.0
+industrial processes::1.0
+middleware code::1.0
+daeyoung kim::1.0
+phenomenal proliferation::1.0
+tags active::1.0
+recent teaching::1.0
+shielding sleeve::1.0
+strong security::1.0
+impedance characteristics::1.0
+underlying database::1.0
+ensures availability::1.0
+identityverification cards::1.0
+communication protocols::1.0
+capacitive losses::1.0
+numerous demonstrations::1.0
+rfid hardware::1.0
+air-conditioning systems::1.0
+channel security::1.0
+rfid-based enterprise::1.0
+key fobs::1.0
+data transmission::1.0
+increasing consumer::1.0
+security functions::1.0
+current form::1.0
+amit grover*::1.0
+polarization refers::1.0
+similar vulnerabilities::1.0
+folded dipole::1.0
+mere minutes::1.0
+efficiency depends::1.0
+two primary::1.0
+smart labels::1.0
+includes identifying::1.0
+transmission medium::1.0
+doesnt reveal::1.0
+high data::1.0
+change management::1.0
+built-in battery::1.0
+broadcast signals::1.0
+personal identityverification::1.0
+infrastructure include::1.0
+careen printing::1.0
+life cycle::1.0
+illegal activities::1.0
+software design::1.0
+common tag::1.0
+challenge-response authentication::1.0
+rfid passport::1.0
+data format::1.0
+passport cards::1.0
+business applications::1.0
+issues fig::1.0
+personal information::1.0
+reading distance::1.0
+transponder consists::1.0
+charge density::1.0
+aen measurements::1.0
+instruments rfid::1.0
+middleware top::1.0
+sight requirement::1.0
+magnetic stripes::1.0
+rfid enterprise::1.0
+transmit secret::1.0
+retransmitted incident::1.0
+cattle ranching::1.0
+epc code::1.0
+ronmental constraints::1.0
+adverse environments::1.0
+prohibitive cost::1.0
+speedpass systems::1.0
+access cards::1.0
+signal gain::1.0
+injection sql::1.0
+implementation assumes::1.0
+receiver tag::1.0
+channel access::1.0
+contactless smart::1.0
+management activities::1.0
+based solutions::1.0
+identification system::1.0
+application vulnerability::1.0
+supposedly done::1.0
+maximum number::1.0
+middleware layers::1.0
+asynchronous schemes::1.0
+highlighted vulnerabilities::1.0
+combat iii::1.0
+rfid communication::1.0
+introduce errors::1.0
+surreptitiously grabbing::1.0
+compromised middleware::1.0
+pagets cloning::1.0
+space domain::1.0
+rfid smart::1.0
+part refers::1.0
+include additional::1.0
+exploiting online::1.0
+generic parameters::1.0
+tags embedded::1.0
+issues hal::1.0
+factor classification::1.0
+hidden cameras::1.0
+dsp chip::1.0
+frequency domain::1.0
+east tennessee::1.0
+system vulnerabilities::1.0
+correctly record::1.0
+identification iii::1.0
+customer bought::1.0
+automatic access::1.0
+issues ronmental::1.0
+western hemisphere::1.0
+out infected::1.0
+insensitive antennas::1.0
+ing code::1.0
+unwittingly propagates::1.0
+signal directivity::1.0
+signals transmitted::1.0
+implementations include::1.0
+tag read::1.0
+system frequencies::1.0
+remain functional::1.0
+similar threats::1.0
+smart phones::1.0
+transmitted signal::1.0
+sites vii::1.0
+rfid-enabled smart::1.0
+company prefix::1.0
+manage nuclear::1.0
+globally accepted::1.0
+multiple times::1.0
+key immobilizers::1.0
+earliest predecessor::1.0
+limited amount::1.0
+prevents multiple::1.0
+end-user applications::1.0
+unique global::1.0
+electronic toll::1.0
+hal berghel*::1.0
+identification number::1.0
+auditing buffer::1.0
+sale management::1.0
+environments futuristic::1.0
+spy gadget::1.0
+interrogator meets::1.0
+paper describes::1.0
+items unique::1.0
+crucial role::1.0
+rfid protocols::1.0
+legitimate transponder::1.0
+id=2672576 http::1.0
+communication protocol::1.0
+data standard::1.0
+rfid shields::1.0
+typical universal::1.0
+memory capacity::1.0
+employee access::1.0
+loyalty cards::1.0
+field created::1.0
+passive tags::1.0
+power gain::1.0
+germany highlighted::1.0
+rfid malware::1.0
+million object::1.0
+statusacquisition technology::1.0
+application environments::1.0
+incident radio::1.0
+physical characteristics::1.0
+accepted november::1.0
+aircraft detection::1.0
+automotive industry::1.0
+distinguished visitor::1.0
+numeric characters::1.0
+cipher text::1.0
+based solution::1.0
+communications congress::1.0
+pp.25,132 rfid::1.0
+path loss::1.0
+soviet spy::1.0
+rfid digital::1.0
+structure format::1.0
+managing inventory::1.0
+eantenna =antenna::1.0
+v=nw3rgbqtlhe http::1.0
+radiated power::1.0
+re-activated remotely::1.0
+written middleware::1.0
+semi-passive tags::1.0
+specially crafted::1.0
+bypass client-side::1.0
+tag killings::1.0
+housing injecting::1.0
+reader-to-tag communication::1.0
+severely restricted::1.0
+client-side access::1.0
+resources management::1.0
+friis free::1.0
+battery assisted::1.0
+primary components::1.0
+object classes::1.0
+vulnerabilities include::1.0
+computing environments::1.0
+value pharmaceuticals::1.0
+magnetic stripe::1.0
+including chris::1.0
+rfid based::1.0
+activated physically::1.0
+relay attack::1.0
+cages faraday::1.0
+phantom-reads introduce::1.0
+easy solution::1.0
+data collision::1.0
+sensitive personally::1.0
+kiyeal lee::1.0
+involving sensitive::1.0
+power transmission::1.0
+transmitted data::1.0
+matters worse::1.0
+high fids::1.0
+include rfid::1.0
+suitable reader::1.0
+information systems::1.0
+unauthorized capturing::1.0
+issues amit::1.0
+virus infected::1.0
+total charge::1.0
+library management::1.0
+describes common::1.0
+short amount::1.0
+chaos communications::1.0
+individual product::1.0
+greatly affect::1.0
+barcode symbology::1.0
+directive gain::1.0
+conventional computers::1.0
+free space::1.0
+malicious scripts::1.0
+contact-less access::1.0
+v=vmajlkjlt3u http::1.0
+system limitations::1.0
+popular applications::1.0
+relationship frequency::1.0
+futuristic smart::1.0
+storage system::1.0
+transaction card::1.0
+defense related::1.0
+data multiple::1.0
+tag variables::1.0
+reader system::1.0
+radiofrequency signal::1.0
+class description::1.0
+require full::1.0
+electronic vehicle::1.0
+inventory control::1.0
+disabling scripts::1.0
+warehousing iii::1.0
+rfid cloning::1.0
+chip characteristics::1.0
+limited data::1.0
+advanced transponders::1.0
+rfid air::1.0
+practical usefulness::1.0
+common applications::1.0
+transponder antennas::1.0
+exposed instances::1.0
+reader creates::1.0
+assisted passive::1.0
+24th chaos::1.0
+vehicle registration::1.0
+biggest challenges::1.0
+design iii::1.0
+cyber warfare::1.0
+inductive coil::1.0
+functionally similar::1.0
+account privileges::1.0
+applications focus::1.0
+interrogators rfid::1.0
+existing technology::1.0
+right equipment::1.0
+asset management::1.0
+support read::1.0
+ubiquitous network::1.0
+computing machinery::1.0
+trusted sites::1.0
+specific target-applications::1.0
+world war::1.0
+environments rfid::1.0
+aerial vehicles::1.0
+cryptographic protocols::1.0
+niche markets::1.0
+issues suitable::1.0
+typical epc::1.0
+classic rfid::1.0
+mans confidence::1.0
+personally identifiable::1.0
+infrastructure components::1.0
+product information::1.0
+programming interface::1.0
+localized non-uniformities::1.0
+9.4.1 rfid::1.0
+low throughput::1.0
+vulnerabilities common::1.0
+self-replicating malware::1.0
+electromagnetic radiation::1.0
+epc generation::1.0
+auto-id system::1.0
+founding director::1.0
+analysis includes::1.0
+ubiquitous computing::1.0
+inherent disadvantages::1.0
+implies similar::1.0
+fourth part::1.0
+rfid solution::1.0
+attacks focus::1.0
+network computing::1.0
+antenna design::1.0
+area rfid::1.0
+integrated circuit::1.0
+wired magazine::1.0
+broadcast channel::1.0
+completely rely::1.0
+music systems::1.0
+card shielding::1.0
+carrying out::1.0
+merchandize remain::1.0
+specific application::1.0
+actual communication::1.0
+network manages::1.0
+iris scans::1.0
+loyalty card::1.0
+identification data::1.0
+malwares payload::1.0
+loss contour::1.0
+identical product::1.0
+crafted code::1.0
+accepting cookies::1.0
+legitimate tag::1.0
+million companies::1.0
+existing equipment::1.0
+perpendicular plane::1.0
+unauthorized tag::1.0
+naming service::1.0
+tag-to-reader communication::1.0
+compliant documents::1.0
+withstanding adverse::1.0
+electrical efficiency::1.0
+shielding sleeves::1.0
+shielding case::1.0
+large random::1.0
+digits long::1.0
+world rfid::1.0
+encoding data::1.0
+mechanical engineering.he::1.0
+handing low::1.0
+earliest applications::1.0
+underlying crypto-1::1.0
+value assets::1.0
+usd reader::1.0
+replacing legitimate::1.0
+home networks::1.0
+rfid privacy::1.0
+include disks::1.0
+federal personal::1.0
+introducing data::1.0
+low frequency::1.0
+opposite mode::1.0
+exploit poorly::1.0
+fleet management::1.0
+radiative linear::1.0
+las vegas::1.0
+avery dennison::1.0
+good examples::1.0
+gain eantenna::1.0
+rfid data::1.0
+computer memory::1.0
+symbols proprietary::1.0
+confidential information::1.0
+total resistance::1.0
+hemisphere travel::1.0
+stock-keeping unit::1.0
+back link::1.0
+diffuse reflection::1.0
+detailed aen::1.0
+actual characteristics::1.0
+fully secure::1.0
+collision avoidance::1.0
+middleware server::1.0
+substantial variations::1.0
+security annual::1.0
+surface integral::1.0
+unique tag::1.0
+feature built::1.0
+science degree::1.0
+rsa security::1.0
+greater detail::1.0
+unique identification::1.0
+malicious code::1.0
+shipment destination::1.0
+tag type::1.0
+voice recognition::1.0
+upc symbol::1.0
+straight trajectory::1.0
+domain anti-collision::1.0
+magnetic::0.0
+prefix::0.0
+circuitry::0.0
+sleep::0.0
+consists::0.0
+integrity::0.0
+worked::0.0
+pp.5::0.0
+tag-to-reader::0.0
+read-only uses symbols::0.0
+similarity::0.0
+amount of power::0.0
+merchant::0.0
+applied::0.0
+lack::0.0
+shielding::0.0
+malwares::0.0
+summarized::0.0
+affect::0.0
+seals::0.0
+school::0.0
+companies::0.0
+solution::0.0
+paper thin::0.0
+no.1::0.0
+applications and backend::0.0
+re-activated::0.0
+enjoy::0.0
+web pages::0.0
+implemented::0.0
+functional requirement::0.0
+contributed::0.0
+gain eantenna =antenna::0.0
+localized::0.0
+toll::0.0
+coefficient::0.0
+auto-identification::0.0
+simultaneously::0.0
+avery::0.0
+divergence::0.0
+error::0.0
+represented::0.0
+interpret::0.0
+digits::0.0
+access protocol::0.0
+items::0.0
+credit::0.0
+electromagnetic noise::0.0
+suitable::0.0
+classification::0.0
+access control mechanisms::0.0
+modulated::0.0
+cons::0.0
+unit::0.0
+derivatives::0.0
+coins::0.0
+overhead::0.0
+asset::0.0
+type::0.0
+los::0.0
+coupled::0.0
+relay::0.0
+radio waves behave::0.0
+glass::0.0
+epoxy resin::0.0
+real-time::0.0
+ward::0.0
+hold::0.0
+blocking::0.0
+pp.72::0.0
+pp.73::0.0
+symbology::0.0
+write data::0.0
+optimum performance::0.0
+barcelona::0.0
+grover::0.0
+temperatures::0.0
+scripting::0.0
+rfid database::0.0
+programming::0.0
+household::0.0
+unreadable::0.0
+implementations::0.0
+gadgets::0.0
+vulnerability::0.0
+act of surreptitiously::0.0
+requires proper::0.0
+turn::0.0
+provide::0.0
+globalization::0.0
+waves with audio::0.0
+widespread::0.0
+vulnerability of database::0.0
+replacing::0.0
+loyalty::0.0
+animals advanced::0.0
+law::0.0
+meaningful::0.0
+idsh1003-001 http::0.0
+pp.25,132::0.0
+amit::0.0
+make::0.0
+operations::0.0
+executed::0.0
+digital input output::0.0
+design and reflects::0.0
+frequency::0.0
+efficient supply chain::0.0
+personal::0.0
+version number::0.0
+hidden::0.0
+16-bit::0.0
+overcome::0.0
+inventory::0.0
+ability to write::0.0
+affected::0.0
+hacks documented hacks::0.0
+prevented::0.0
+fig::0.0
+provided by encoding::0.0
+structural::0.0
+specular reflection::0.0
+theft and financial::0.0
+classified::0.0
+perimeter::0.0
+financial::0.0
+initiative::0.0
+antenna = gain::0.0
+frequency communication::0.0
+victims::0.0
+restricted::0.0
+dst::0.0
+cameras::0.0
+crucial::0.0
+content::0.0
+no.4::0.0
+reader::0.0
+stock-keeping::0.0
+numeric::0.0
+industry-wide::0.0
+enhance::0.0
+good software design::0.0
+creates::0.0
+iso::0.0
+swiping::0.0
+flexible manufacturing::0.0
+pp.297363::0.0
+primary::0.0
+meshes::0.0
+force::0.0
+plastic::0.0
+payload::0.0
+specially::0.0
+congress::0.0
+service::0.0
+top::0.0
+-site scripting xss::0.0
+fiction::0.0
+compromise::0.0
+listed::0.0
+phones::0.0
+john::0.0
+instruments rfid digital::0.0
+environment depending::0.0
+western::0.0
+industry-wide acceptance include::0.0
+control mechanisms::0.0
+character::0.0
+distance::0.0
+enabled::0.0
+ebay::0.0
+read memory are susceptible::0.0
+powers::0.0
+modulating::0.0
+vector::0.0
+iii::0.0
+life cycle management::0.0
+churn::0.0
+contents::0.0
+ray::0.0
+strength::0.0
+absorbed::0.0
+transmit::0.0
+transactions::0.0
+object::0.0
+optimized::0.0
+errors::0.0
+scripts::0.0
+antenna transforms input::0.0
+professor::0.0
+wiley & sons::0.0
+virus an rfid::0.0
+enterprise::0.0
+section::0.0
+dot::0.0
+hanny::0.0
+visitor::0.0
+labels::0.0
+royal air::0.0
+solutions::0.0
+sql injection sql::0.0
+nevada::0.0
+proposed::0.0
+covers the air::0.0
+implementation::0.0
+folded::0.0
+spoofing the process::0.0
+security issues ing::0.0
+ocr::0.0
+predecessor::0.0
+bap::0.0
+refers::0.0
+mobile interrogators::0.0
+automatic::0.0
+backscattering::0.0
+niche::0.0
+1960s::0.0
+depends::0.0
+cattle::0.0
+limiting::0.0
+free space formula::0.0
+capacity::0.0
+addison-wesley::0.0
+shelf management::0.0
+conductive::0.0
+system implementations::0.0
+shields::0.0
+direction-specific::0.0
+news::0.0
+hundreds::0.0
+breaking attacks::0.0
+received::0.0
+middleware::0.0
+irregular::0.0
+drivers licenses::0.0
+credit-card::0.0
+flat surfaces::0.0
+based on abstract::0.0
+receiver::0.0
+royal::0.0
+identifies the company::0.0
+newitz::0.0
+conference::0.0
+passive::0.0
+targeting::0.0
+alamos national laboratory::0.0
+friend-or-foe::0.0
+basic::0.0
+containers::0.0
+board::0.0
+life::0.0
+easy::0.0
+theorem::0.0
+pp.4::0.0
+rfid-enabled::0.0
+.passive::0.0
+air::0.0
+employ::0.0
+beth rosenberg::0.0
+reconnaissance::0.0
+simultaneous manual::0.0
+commissioning::0.0
+tags and readers::0.0
+leave the point::0.0
+faraday::0.0
+trusted::0.0
+wise to completely::0.0
+jerry::0.0
+filtered::0.0
+database management system::0.0
+meets::0.0
+doesnt dynamically::0.0
+range of automatic::0.0
+alien squiggle::0.0
+characters::0.0
+field communications rely::0.0
+cycle::0.0
+field-programmable::0.0
+programs::0.0
+write-once::0.0
+los alamos national::0.0
+contact::0.0
+slotted aloha::0.0
+epc::0.0
+protocol::0.0
+identify::0.0
+human::0.0
+power conversion::0.0
+scattering::0.0
+functionally::0.0
+secure::0.0
+unique::0.0
+hal::0.0
+engineering.he::0.0
+ease::0.0
+east::0.0
+explained::0.0
+abstractthis::0.0
+sussex::0.0
+injecting a client-side::0.0
+phenomenal::0.0
+advanced::0.0
+chip that controls::0.0
+scan::0.0
+company s individual::0.0
+manual::0.0
+epc can support::0.0
+specific::0.0
+steps::0.0
+security::0.0
+instrumental role::0.0
+demonstrated::0.0
+dean::0.0
+statusacquisition::0.0
+buttons are robust::0.0
+people::0.0
+cybersecurity::0.0
+describes the basic::0.0
+electronic product::0.0
+multiple::0.0
+precautions::0.0
+vulnerabilities in rfid::0.0
+fingerprinting::0.0
+auditing::0.0
+microprocessor card::0.0
+secure digital input::0.0
+electromagnetic::0.0
+microwave::0.0
+foe::0.0
+espionage::0.0
+toll-gate::0.0
+end-user::0.0
+limitation::0.0
+rfid readers interrogate::0.0
+ensure::0.0
+capture the information::0.0
+transaction systems::0.0
+agile::0.0
+pp.343::0.0
+accommodate::0.0
+antenna plays::0.0
+right::0.0
+antenna transforms::0.0
+retransmitted::0.0
+cages or meshes::0.0
+class::0.0
+played an instrumental::0.0
+war::0.0
+incident ray::0.0
+bert::0.0
+medium::0.0
+passport::0.0
+epcglobal network manages::0.0
+differences::0.0
+standard purpose::0.0
+hemisphere::0.0
+tracking and identification::0.0
+critical role::0.0
+responding::0.0
+attached::0.0
+maximum::0.0
+executing a malicious::0.0
+analysis::0.0
+hazardous material::0.0
+security using encryption::0.0
+issue when phantom-reads::0.0
+basic components::0.0
+characteristics are summarized::0.0
+moore::0.0
+computing::0.0
+covers::0.0
+rfid shields rfid::0.0
+marking of high::0.0
+check::0.0
+physical::0.0
+marking::0.0
+reality::0.0
+role::0.0
+roll::0.0
+tic::0.0
+real world rfid::0.0
+billion::0.0
+faster::0.0
+modules::0.0
+reception::0.0
+retransmitting::0.0
+concept::0.0
+global::0.0
+activated::0.0
+focus::0.0
+sufficient capacity::0.0
+layers::0.0
+supposedly::0.0
+inverse::0.0
+essentials::0.0
+flash::0.0
+environment::0.0
+charge::0.0
+pp.81::0.0
+downloading::0.0
+frequencies::0.0
+vegas::0.0
+manufacturer and product::0.0
+study on rfid::0.0
+solves::0.0
+tear::0.0
+turns::0.0
+system with secure::0.0
+item::0.0
+inventory and shelf::0.0
+symbologies::0.0
+cyber::0.0
+cost::0.0
+targets::0.0
+adds::0.0
+synchronous::0.0
+current::0.0
+international::0.0
+service availability::0.0
+transportation::0.0
+prevents multiple barcodes::0.0
+enhanced conductive::0.0
+generic::0.0
+standard iso::0.0
+change::0.0
+incoming::0.0
+merchandize::0.0
+semi-passive or battery::0.0
+teaching::0.0
+command unlike::0.0
+simultaneous::0.0
+full faraday cycle::0.0
+confidentiality::0.0
+dennison::0.0
+handle a privacy::0.0
+market::0.0
+buttons::0.0
+handled::0.0
+handbags::0.0
+unrestricted universal read::0.0
+chip tracking::0.0
+memory::0.0
+today::0.0
+introducing::0.0
+sharing::0.0
+equipped::0.0
+radio antennas::0.0
+capturing::0.0
+dipole cct tag::0.0
+process of unauthorized::0.0
+articleid=1564 & zoneid=24::0.0
+churn out infected::0.0
+car::0.0
+challenge-response::0.0
+communications rely completely::0.0
+anti-collision::0.0
+believed::0.0
+making::0.0
+usability::0.0
+dedicated::0.0
+code schemes::0.0
+figure::0.0
+december::0.0
+chip::0.0
+friis free space::0.0
+clothing::0.0
+redundancy::0.0
+container tracking::0.0
+_room=3::0.0
+spreads::0.0
+defense applications::0.0
+write::0.0
+fourth::0.0
+susceptible to unauthorized::0.0
+rfid to track::0.0
+rfid frequency antenna::0.0
+product::0.0
+standard for electronic::0.0
+management::0.0
+loyalty programs::0.0
+sweeney::0.0
+rmax::0.0
+demodulating::0.0
+applications::0.0
+designed::0.0
+improving::0.0
+legitimate rfid::0.0
+churn out::0.0
+branches::0.0
+slightly::0.0
+ghz::0.0
+typical::0.0
+acts::0.0
+tag communicates::0.0
+blocker::0.0
+find::0.0
+board warships::0.0
+november::0.0
+collection and dissemination::0.0
+chips::0.0
+environments::0.0
+pp.342::0.0
+main::0.0
+texas::0.0
+secure service::0.0
+feature::0.0
+interrogator::0.0
+withstand higher::0.0
+times::0.0
+professor of computer::0.0
+serial numbers::0.0
+communicates by acting::0.0
+domain::0.0
+pp.99::0.0
+backend database management::0.0
+pp.91::0.0
+challenges::0.0
+wavelength::0.0
+naming::0.0
+description::0.0
+shown::0.0
+container::0.0
+space::0.0
+components are chosen::0.0
+security areas::0.0
+keys in mere::0.0
+increase::0.0
+record and interpret::0.0
+formula::0.0
+framework for rfid-based::0.0
+waves behave differently::0.0
+mechanisms::0.0
+minimized::0.0
+protocol is responsible::0.0
+advantages::0.0
+interrogate the tags::0.0
+company s individual product::0.0
+himanshu::0.0
+inductive::0.0
+care::0.0
+piece of item::0.0
+modulation::0.0
+fellow::0.0
+place::0.0
+support::0.0
+origin::0.0
+variables::0.0
+client-side::0.0
+one-time::0.0
+ons::0.0
+ways::0.0
+open::0.0
+size::0.0
+structure header::0.0
+increase the common::0.0
+limited::0.0
+coil losses::0.0
+pharmaceuticals::0.0
+fobs::0.0
+includes a standard::0.0
+service attacks::0.0
+remotely::0.0
+household gadgets::0.0
+individual piece::0.0
+types::0.0
+cost-effective::0.0
+configured::0.0
+friend::0.0
+authorized::0.0
+safely with transactions::0.0
+sebastopol::0.0
+gtin-12 and consists::0.0
+contact-less access control::0.0
+baja::0.0
+absorbs::0.0
+eliminated::0.0
+representing::0.0
+faraday cycle analysis::0.0
+wide::0.0
+holds::0.0
+require::0.0
+v=vmajlkjlt3u::0.0
+industry-wide acceptance::0.0
+cards::0.0
+accessed::0.0
+register::0.0
+mobile rfid-enabled::0.0
+uhf class::0.0
+remained::0.0
+correction::0.0
+turned::0.0
+locations::0.0
+dynamically::0.0
+realm::0.0
+tags unique identification::0.0
+coil-on-chips::0.0
+=antenna::0.0
+conversion::0.0
+software design iii::0.0
+form::0.0
+e-commerce::0.0
+efficient::0.0
+equipment::0.0
+grover*::0.0
+online::0.0
+performance::0.0
+channel::0.0
+handing::0.0
+ronmental::0.0
+rafsec::0.0
+opposite::0.0
+buffer::0.0
+require full administrator::0.0
+beth::0.0
+pages::0.0
+supports a memory-locking::0.0
+generation_auto_id_technology glover::0.0
+checking for boundary::0.0
+considered::0.0
+average::0.0
+sale::0.0
+streamline::0.0
+eantenna::0.0
+hoboken::0.0
+professional::0.0
+typically::0.0
+location identification::0.0
+classifications based::0.0
+precise::0.0
+drastically::0.0
+show::0.0
+header identifies::0.0
+ip-address::0.0
+encoded::0.0
+threshold::0.0
+biometrics::0.0
+line::0.0
+ground::0.0
+ratio::0.0
+customer ids::0.0
+true::0.0
+state::0.0
+essence::0.0
+thompson::0.0
+epc data::0.0
+rsa security annual::0.0
+awareness::0.0
+tricked::0.0
+marnlenrfid::0.0
+plastic housing::0.0
+conjunction::0.0
+gen::0.0
+reveal::0.0
+generation contactless auto-id::0.0
+communicates::0.0
+summary::0.0
+prevents::0.0
+transmitting an access::0.0
+communicated::0.0
+bounds::0.0
+digital security::0.0
+devices::0.0
+parking::0.0
+threats include::0.0
+concern::0.0
+surfaces::0.0
+federal::0.0
+unique serial number::0.0
+sites::0.0
+suited for rfid::0.0
+radiated::0.0
+infrastructure::0.0
+auto-id::0.0
+listing::0.0
+supermarket::0.0
+killing::0.0
+propagation::0.0
+rground::0.0
+product s origin::0.0
+embedding::0.0
+highlights::0.0
+firewall::0.0
+overview::0.0
+semi-passive::0.0
+khz::0.0
+newsreports::0.0
+proved::0.0
+combines::0.0
+gadgets are leaving::0.0
+classic::0.0
+ing::0.0
+insensitive::0.0
+production::0.0
+requirement for conmanuscript::0.0
+differently::0.0
+direction::0.0
+96-bit epc::0.0
+mans::0.0
+ultra::0.0
+protocols::0.0
+case::0.0
+klaus::0.0
+make financial transactions::0.0
+envi567::0.0
+standards standard iso::0.0
+conductive area::0.0
+mechanical::0.0
+invited::0.0
+rfid enterprise application::0.0
+orientation::0.0
+described in greater::0.0
+ambient::0.0
+movements::0.0
+entire supply::0.0
+media::0.0
+locking::0.0
+reader-to-tag::0.0
+loss contour mapping::0.0
+speedpass::0.0
+handbook::0.0
+intervention in inventory-management::0.0
+non-contact::0.0
+broadcast::0.0
+safe::0.0
+disadvantages::0.0
+prevented the widespread::0.0
+wired::0.0
+relies::0.0
+cct::0.0
+card skimming::0.0
+transmitting::0.0
+characterized by multiple::0.0
+limited information-storing::0.0
+physically::0.0
+filtering::0.0
+kill::0.0
+compromise the systems::0.0
+berghel fig::0.0
+readonly::0.0
+application-specific requirements::0.0
+utilizes the absorbed::0.0
+functionality::0.0
+real world::0.0
+full administrator access::0.0
+disrupt::0.0
+format to handle::0.0
+rfid environment::0.0
+rcoil::0.0
+aspects::0.0
+represents::0.0
+read::0.0
+tid::0.0
+whti::0.0
+recipient::0.0
+network forensics::0.0
+listing of countermeasures::0.0
+identifying::0.0
+patrick::0.0
+exploit::0.0
+serves::0.0
+server::0.0
+gain combines::0.0
+grants::0.0
+served::0.0
+injection sql injection::0.0
+manages dynamic information::0.0
+alter the antennas::0.0
+center for cybersecurity::0.0
+code that doesnt::0.0
+car parking::0.0
+classes class description::0.0
+pp.112::0.0
+controls access::0.0
+bigger::0.0
+users::0.0
+higher temperatures::0.0
+uhf far radiative::0.0
+wristband::0.0
+poorly::0.0
+signal as transmitted::0.0
+cards facilitate transactions::0.0
+critical::0.0
+swiping the magnetic::0.0
+bleeding::0.0
+process::0.0
+viruses and worms::0.0
+power::0.0
+generation_auto_id_technology::0.0
+sixth::0.0
+impedance::0.0
+communicate::0.0
+longer required::0.0
+kiyeal::0.0
+interrogators::0.0
+security issues ronmental::0.0
+greater probability::0.0
+behave differently::0.0
+industry::0.0
+capable::0.0
+greater::0.0
+side::0.0
+practical::0.0
+items and handbags::0.0
+cyber-security::0.0
+sized plastic cards::0.0
+shoplifting::0.0
+interfacing::0.0
+sql::0.0
+verichip::0.0
+references::0.0
+strip::0.0
+universal read capability::0.0
+compliant::0.0
+low::0.0
+strong::0.0
+strict::0.0
+passports::0.0
+effectively prevents multiple::0.0
+konidala::0.0
+cloned::0.0
+documented hacks documented::0.0
+technologies::0.0
+card::0.0
+worms since rfid::0.0
+fraud::0.0
+embedded::0.0
+phantom-reads::0.0
+manuel::0.0
+controls data::0.0
+detailed::0.0
+world rfid implementations::0.0
+required::0.0
+general::0.0
+health care::0.0
+scanned::0.0
+asynchronous::0.0
+laboratory::0.0
+strategies to provide::0.0
+incorrect::0.0
+no.3::0.0
+extending::0.0
+managing::0.0
+antenna::0.0
+drivers::0.0
+storage::0.0
+tags reach::0.0
+berghel::0.0
+deviation::0.0
+backscattered::0.0
+symbol::0.0
+important::0.0
+track::0.0
+suited::0.0
+requester::0.0
+chris::0.0
+network::0.0
+surreptitiously::0.0
+assets::0.0
+consumer privacy::0.0
+foolproof::0.0
+proper planning::0.0
+original::0.0
+angles::0.0
+worms::0.0
+founded::0.0
+executing::0.0
+dsp::0.0
+im-yeong lee::0.0
+follow::0.0
+particles::0.0
+biggest vulnerabilities::0.0
+chain::0.0
+mokdong::0.0
+unique serial::0.0
+activities::0.0
+pp.279::0.0
+worse::0.0
+confidential::0.0
+im-yeong::0.0
+pp.276::0.0
+icao::0.0
+merchant loyalty::0.0
+sons::0.0
+bhatt::0.0
+exxonmobil::0.0
+24th::0.0
+kerberos and abstract::0.0
+berghel tion::0.0
+list::0.0
+manager::0.0
+manages::0.0
+epc manager::0.0
+information over non-secure::0.0
+electronic seals::0.0
+cookies::0.0
+titled::0.0
+code or pin::0.0
+antenna greatly::0.0
+los alamos::0.0
+built-in::0.0
+design::0.0
+pass::0.0
+rfids containing customer::0.0
+linear::0.0
+template.aspx::0.0
+transforms::0.0
+version::0.0
+method::0.0
+movement::0.0
+full::0.0
+security by injecting::0.0
+tags::0.0
+proper::0.0
+component::0.0
+density refers::0.0
+server is tricked::0.0
+perimeter firewall::0.0
+i.e::0.0
+shows::0.0
+produced by careen::0.0
+rfid digital signature::0.0
+identifiable::0.0
+losses::0.0
+killing rfid::0.0
+transponder::0.0
+instrumental::0.0
+amount::0.0
+alamos::0.0
+real::0.0
+uniquely::0.0
+technique::0.0
+vii::0.0
+tracking::0.0
+pick-pocketing::0.0
+inventory-management::0.0
+appliances::0.0
+add-on::0.0
+information stored::0.0
+read-only::0.0
+conventional::0.0
+destination::0.0
+two::0.0
+.passive transponder::0.0
+characteristics::0.0
+markets::0.0
+flat::0.0
+door::0.0
+grabbing::0.0
+signpost::0.0
+company::0.0
+infinitesimal::0.0
+combines its directivity::0.0
+boundary condition::0.0
+tag-based::0.0
+16-bit random::0.0
+rfid backend::0.0
+producing::0.0
+management system::0.0
+conversion efficiency::0.0
+precise location::0.0
+science::0.0
+created::0.0
+remain::0.0
+strategies::0.0
+vary::0.0
+believing::0.0
+launching::0.0
+processing::0.0
+share::0.0
+epcis::0.0
+collision::0.0
+wal-mart::0.0
+numbers::0.0
+purchased::0.0
+information::0.0
+immobilizers::0.0
+breaking::0.0
+manages modulation::0.0
+pachano::0.0
+non-secure communication::0.0
+centimeters::0.0
+casino chip::0.0
+foolproof security::0.0
+ubiquitous::0.0
+power back::0.0
+wiley::0.0
+derived::0.0
+mapping::0.0
+reflect::0.0
+24c3::0.0
+plane::0.0
+coming::0.0
+invasion::0.0
+national drivers::0.0
+response::0.0
+cct tag::0.0
+short::0.0
+author::0.0
+rtotal::0.0
+rfid interrogators rfid::0.0
+fundamental::0.0
+glass or plastic::0.0
+banks::0.0
+geographic::0.0
+travel::0.0
+design characteristics::0.0
+played::0.0
+infrared-capable::0.0
+developed::0.0
+self-replicating::0.0
+magnetic waves::0.0
+space formula::0.0
+paper::0.0
+data-security::0.0
+features::0.0
+gs1s gtin-12::0.0
+recover::0.0
+susceptible::0.0
+e-seals  for tracking::0.0
+encoding::0.0
+authentication::0.0
+systems::0.0
+bypass::0.0
+cross::0.0
+contents and encodings::0.0
+uhf::0.0
+good::0.0
+exploit poorly written::0.0
+hacking underground::0.0
+gadget::0.0
+framework::0.0
+data communication::0.0
+cycle analysis::0.0
+association::0.0
+easily::0.0
+tracking and handling::0.0
+fully::0.0
+kyuhee::0.0
+attacks::0.0
+capability::0.0
+iff::0.0
+technique that exploits::0.0
+inherent::0.0
+characterized::0.0
+referred::0.0
+tracking retail::0.0
+backend databases::0.0
+generation::0.0
+energy::0.0
+directions::0.0
+card and electronic::0.0
+faraday cages faraday::0.0
+rfid concept::0.0
+operation::0.0
+standards::0.0
+standard::0.0
+iff aircraft::0.0
+enhance security::0.0
+acting::0.0
+health::0.0
+shipment::0.0
+issue::0.0
+planning to ensure::0.0
+rfid::0.0
+plastic cards::0.0
+upc::0.0
+tag locking::0.0
+signal processor::0.0
+earliest::0.0
+read events::0.0
+national laboratory::0.0
+director::0.0
+owners::0.0
+employing::0.0
+submarines::0.0
+rfid-enabled smart phones::0.0
+attack technique::0.0
+american::0.0
+specular::0.0
+memory content::0.0
+circuit::0.0
+unmanned::0.0
+dont::0.0
+probability::0.0
+reduced drastically::0.0
+non-volatile::0.0
+contour::0.0
+instances::0.0
+done::0.0
+kips::0.0
+conmanuscript::0.0
+marine::0.0
+script::0.0
+introduction::0.0
+automobile::0.0
+epc security::0.0
+revive::0.0
+assumption::0.0
+allied aircraft::0.0
+implementation and relies::0.0
+store::0.0
+_action=detail::0.0
+international journal::0.0
+contact-less::0.0
+agile and flexible::0.0
+vulnerabilities inherent::0.0
+tags usability::0.0
+pcmcia::0.0
+byoungcheon lee::0.0
+characters that uniquely::0.0
+express::0.0
+pharmaceuticals iii::0.0
+issues tact::0.0
+mobile rfid-enabled smart::0.0
+dos attacks::0.0
+memory-locking feature::0.0
+forensics::0.0
+manufacturing industry::0.0
+refrigerators::0.0
+substantial::0.0
+events::0.0
+daeyoung::0.0
+globally::0.0
+pp.13-20::0.0
+relationship::0.0
+depending::0.0
+vulnerabilities::0.0
+integral data storage::0.0
+basic rfid hardware::0.0
+components::0.0
+cargo::0.0
+plas::0.0
+serve::0.0
+original form::0.0
+virus::0.0
+dynamic::0.0
+services::0.0
+accepting::0.0
+preferred customers::0.0
+deter shoplifting::0.0
+demand::0.0
+audio::0.0
+give::0.0
+minimum::0.0
+mobile::0.0
+traditional::0.0
+part::0.0
+mifare::0.0
+azimuth::0.0
+backscattered signal::0.0
+diverse::0.0
+flux theorem::0.0
+eavesdropped::0.0
+germany::0.0
+coil shaped::0.0
+detection::0.0
+large::0.0
+businesses::0.0
+amplitude modulation::0.0
+rfid infrastructure include::0.0
+make rfid::0.0
+parameters::0.0
+music::0.0
+security and secure::0.0
+elevation::0.0
+antennas impedance::0.0
+shielding flipside::0.0
+high data storage::0.0
+england::0.0
+security against determined::0.0
+founding::0.0
+systems that support::0.0
+tag memory::0.0
+full faraday::0.0
+cheaper::0.0
+reading::0.0
+theft::0.0
+safeguards::0.0
+virus infected rfid::0.0
+enemy::0.0
+sleeve::0.0
+ohmic::0.0
+determined eavesdroppers::0.0
+inbuilt::0.0
+transceivers::0.0
+stored::0.0
+schemes::0.0
+common::0.0
+epcglobal uhf::0.0
+connections::0.0
+scanning::0.0
+achieved::0.0
+defense::0.0
+injecting::0.0
+common threats::0.0
+enhanced capability::0.0
+wired sweeney::0.0
+unrestricted::0.0
+speed::0.0
+annual conference::0.0
+dipole::0.0
+common tag construction::0.0
+determined::0.0
+defines contents::0.0
+data confidentiality::0.0
+spoofing::0.0
+numerous::0.0
+application-area::0.0
+sku::0.0
+processes::0.0
+altera::0.0
+incident::0.0
+distinguish::0.0
+reflect the power::0.0
+printing::0.0
+modified slotted aloha::0.0
+cost-effective increase::0.0
+tangible::0.0
+license::0.0
+limit the transmission::0.0
+annual::0.0
+divyan::0.0
+sensitive::0.0
+modified slotted::0.0
+reduce::0.0
+drives the chips::0.0
+hackers::0.0
+supply::0.0
+battery::0.0
+attackers can bypass::0.0
+west sussex::0.0
+yeob::0.0
+header::0.0
+anti-collision methods support::0.0
+pet-tracking::0.0
+adjoining::0.0
+payment and credit::0.0
+improvement::0.0
+supply change::0.0
+reduce human::0.0
+ensures::0.0
+described::0.0
+publishing::0.0
+deployment::0.0
+specific functional::0.0
+due::0.0
+reduction::0.0
+describes::0.0
+optical::0.0
+id=2672576::0.0
+transactions involving::0.0
+rendering::0.0
+supply the tags::0.0
+radiofrequency::0.0
+low-priced::0.0
+security issues hal::0.0
+issues ronmental constraints::0.0
+high value pharmaceuticals::0.0
+sleeves::0.0
+compromised::0.0
+unauthorized person::0.0
+www.itffroc.org::0.0
+surreptitious::0.0
+administrator access::0.0
+classifications::0.0
+leave::0.0
+straight::0.0
+bill::0.0
+hacking::0.0
+bachelors::0.0
+smart::0.0
+formats::0.0
+fleet::0.0
+cages::0.0
+engineers::0.0
+underground::0.0
+reverseengineering::0.0
+non-secure::0.0
+infection by replacing::0.0
+obtrusive::0.0
+track underwear::0.0
+filtering rules::0.0
+identityverification::0.0
+data structure format::0.0
+manual and auto-identification::0.0
+squiggle::0.0
+randomization::0.0
+widely::0.0
+throughput::0.0
+higher::0.0
+development::0.0
+articleid=1564::0.0
+process of mapping::0.0
+literature::0.0
+keys::0.0
+eavesdroppers::0.0
+air-conditioning::0.0
+purpose::0.0
+robust::0.0
+recent::0.0
+database::0.0
+rules::0.0
+underwear::0.0
+machinery::0.0
+classic card::0.0
+high security::0.0
+including its unique::0.0
+prevention::0.0
+distances::0.0
+responsible::0.0
+exploits::0.0
+degree in mechanical::0.0
+prevents unauthorized::0.0
+matured::0.0
+plays a critical::0.0
+world::0.0
+accepted::0.0
+readers::0.0
+byoungcheon::0.0
+tracking systems::0.0
+aloha::0.0
+signals::0.0
+source::0.0
+middleware and end-user::0.0
+location::0.0
+power and read::0.0
+input::0.0
+maintenance::0.0
+backscatter::0.0
+associations::0.0
+march::0.0
+executing any widespread::0.0
+xss::0.0
+include the alien::0.0
+matters::0.0
+interfaces::0.0
+damage::0.0
+epc discovery::0.0
+squiggle tag::0.0
+revive the tags::0.0
+shaped::0.0
+signal::0.0
+disks::0.0
+associate::0.0
+crypto-1::0.0
+shapes::0.0
+communications::0.0
+individuals::0.0
+related it applicationsand::0.0
+exploiting::0.0
+popular::0.0
+de-activates::0.0
+caspian::0.0
+methods::0.0
+numerous grants::0.0
+infecting::0.0
+instruments::0.0
+back::0.0
+code is shown::0.0
+examples::0.0
+sight::0.0
+classes::0.0
+poorly written::0.0
+electric::0.0
+rfid viruses::0.0
+mylar substrate::0.0
+alter::0.0
+flux::0.0
+measurements::0.0
+pros::0.0
+card shielding sleeves::0.0
+behave::0.0
+eliminate::0.0
+integral data::0.0
+number of barcode::0.0
+chosen to deliver::0.0
+patient::0.0
+form input::0.0
+reach::0.0
+remained readable::0.0
+perpendicular::0.0
+usd::0.0
+prohibitive::0.0
+informatics::0.0
+robust auto-ids::0.0
+security services::0.0
+traditional radio::0.0
+classified different rfid::0.0
+ids::0.0
+application programming::0.0
+reduced::0.0
+unauthorized altera::0.0
+field combat::0.0
+range::0.0
+involving::0.0
+collaborative::0.0
+positive::0.0
+eavesdrops::0.0
+ranching::0.0
+fraud research::0.0
+denotes::0.0
+flash cards::0.0
+twelve::0.0
+integral::0.0
+industry i supply::0.0
+master::0.0
+primarily::0.0
+coil::0.0
+number identifies::0.0
+proportional::0.0
+tag-events::0.0
+risk::0.0
+span::0.0
+enabled devices::0.0
+exposed::0.0
+crypto-1 cipher::0.0
+specifically::0.0
+fobs smart::0.0
+capacitance::0.0
+rradiation::0.0
+infected::0.0
+identifies the epc::0.0
+forward::0.0
+sections::0.0
+discovery of object::0.0
+manufacture::0.0
+inches::0.0
+retina::0.0
+science from east::0.0
+simon and beth::0.0
+gauss::0.0
+provide an enhanced::0.0
+smart cards contactless::0.0
+properly::0.0
+link::0.0
+library::0.0
+newer::0.0
+injection::0.0
+hacks::0.0
+active::0.0
+ambient electromagnetic::0.0
+transmits::0.0
+memory-locking::0.0
+antennas gain::0.0
+rfid hacking::0.0
+oreilly::0.0
+rfid card::0.0
+users that dont::0.0
+customers::0.0
+capacitive::0.0
+identify a company::0.0
+sum::0.0
+protocols affect::0.0
+similar::0.0
+designed to make::0.0
+constant::0.0
+defined::0.0
+chan::0.0
+metals::0.0
+magazine::0.0
+engineering::0.0
+v=nw3rgbqtlhe::0.0
+pre-programmed::0.0
+research::0.0
+marine terminal::0.0
+done by tic::0.0
+fractional::0.0
+defines::0.0
+enjoy industry-wide acceptance::0.0
+amounts::0.0
+malicious::0.0
+formats different applications::0.0
+vulnerabilities of rfid::0.0
+application::0.0
+electrical::0.0
+helps in increasing::0.0
+highlights different rfid::0.0
+provided::0.0
+generated::0.0
+surreptitious and unauthorized::0.0
+allowing::0.0
+worm::0.0
+structure::0.0
+cryptographic::0.0
+applications for high::0.0
+enumerates the wide::0.0
+consumer::0.0
+vehicles::0.0
+resolving::0.0
+susceptible to glue::0.0
+require transponders::0.0
+pp.89::0.0
+requires::0.0
+limiting account::0.0
+code::0.0
+channel attacks::0.0
+sufficiently large random::0.0
+resistance::0.0
+existing::0.0
+alien::0.0
+helped::0.0
+27s_law::0.0
+compact::0.0
+identifier information::0.0
+frequency antenna::0.0
+effort::0.0
+plcm::0.0
+attackers::0.0
+formats disks::0.0
+helps::0.0
+include::0.0
+share product::0.0
+resources::0.0
+random::0.0
+written middleware code::0.0
+automotive::0.0
+contactless auto-id::0.0
+transponders::0.0
+wave::0.0
+specific code::0.0
+berghel*::0.0
+advocates from consumers::0.0
+continued::0.0
+implants::0.0
+severely::0.0
+efficacy::0.0
+onboard battery::0.0
+antenna type::0.0
+transmission::0.0
+stripe::0.0
+important issue::0.0
+deals::0.0
+reader can capture::0.0
+chaos communications congress::0.0
+yeun::0.0
+radio::0.0
+gain of transmitter::0.0
+pp.100::0.0
+sixth power::0.0
+obtained::0.0
+tag classifications::0.0
+application-specific::0.0
+demonstrations::0.0
+readonly tag::0.0
+enclosed::0.0
+scanning an infected::0.0
+reflected::0.0
+licenses::0.0
+tracking cargo::0.0
+dynamic information::0.0
+hacks documented::0.0
+plays::0.0
+directive::0.0
+wallet::0.0
+eavesdropping::0.0
+signature::0.0
+expressed::0.0
+networks::0.0
+access::0.0
+malicious pre-programmed::0.0
+optional infrared-capable::0.0
+microprocessor::0.0
+susceptibility::0.0
+utilizes::0.0
+technology::0.0
+scripting xss::0.0
+dae-hee seo::0.0
+proper filtering::0.0
+proliferation::0.0
+classes class::0.0
+lee::0.0
+degree::0.0
+embedding of form::0.0
+coil uhf::0.0
+growing::0.0
+objects::0.0
+security in dynamic::0.0
+made a positive::0.0
+case of passive::0.0
+las::0.0
+rely::0.0
+great::0.0
+west::0.0
+warehousing::0.0
+automatic vehicle identification::0.0
+casino::0.0
+unwittingly::0.0
+product denotes::0.0
+leaving::0.0
+communication channels::0.0
+products::0.0
+auto-ids::0.0
+gausss::0.0
+rfid middleware::0.0
+sections in greater::0.0
+control::0.0
+=antenna efficiency::0.0
+semi-passive backscatter::0.0
+addresses::0.0
+spy::0.0
+manage::0.0
+network and rfid::0.0
+api::0.0
+antennas reflect::0.0
+unauthorized tracking::0.0
+support read memory::0.0
+retransmitted incident radio::0.0
+cite_note-4::0.0
+confidence::0.0
+encryption::0.0
+pagets::0.0
+illegal::0.0
+readable::0.0
+examples include::0.0
+rfid components::0.0
+keywordsrfid::0.0
+availability::0.0
+vehicle::0.0
+computer and network::0.0
+stage::0.0
+reflects::0.0
+kim::0.0
+texas instruments::0.0
+transforms input::0.0
+kiosk::0.0
+infection::0.0
+industrial::0.0
+carrying::0.0
+antennas::0.0
+disabling::0.0
+issues ing::0.0
+customer::0.0
+account::0.0
+animals::0.0
+issues is bound::0.0
+computing environments rfid::0.0
+information processing::0.0
+unlike specular::0.0
+thin::0.0
+crash the rfid::0.0
+issues hal berghel::0.0
+institute::0.0
+point::0.0
+proprietary::0.0
+enumerates::0.0
+electronic::0.0
+served by orientation::0.0
+high::0.0
+effectively::0.0
+tag-based security::0.0
+tag::0.0
+documenting::0.0
+sought::0.0
+serial::0.0
+voice::0.0
+cages faraday cages::0.0
+malware::0.0
+varied::0.0
+pre-programmed damage::0.0
+interrogators rfid readers::0.0
+prevent::0.0
+buffer bounds::0.0
+responsibilities::0.0
+copyright::0.0
+animal::0.0
+received november::0.0
+data capacity::0.0
+annalee::0.0
+personally::0.0
+rfid vulnerabilities include::0.0
+greatly::0.0
+administrator::0.0
+secret keys::0.0
+attacks the epcglobal::0.0
+encryption support::0.0
+card international::0.0
+avery dennison strip::0.0
+act::0.0
+tact::0.0
+collection::0.0
+exploiting online rfid::0.0
+preferred::0.0
+demonstrating::0.0
+requirements::0.0
+epcglobal tag data::0.0
+security issues suitable::0.0
+introduced::0.0
+manufacturing::0.0
+alter the tag::0.0
+issues::0.0
+issn::0.0
+dns::0.0
+sdio::0.0
+propagates using network::0.0
+advocates::0.0
+methods support::0.0
+increasing::0.0
+rfid system implementations::0.0
+read from adjoining::0.0
+straight and long::0.0
+number that consists::0.0
+long tags::0.0
+facilitated::0.0
+pp.297::0.0
+including::0.0
+modified::0.0
+facilitates::0.0
+rfid frequency::0.0
+bill and himanshu::0.0
+onboard::0.0
+envisage::0.0
+protocol the air::0.0
+susceptible to malware::0.0
+authorized tags::0.0
+chosen::0.0
+rfid-based enterprise application::0.0
+rfid-based::0.0
+countermeasures::0.0
+security for ubiquitous::0.0
+button::0.0
+communication::0.0
+interpret tag::0.0
+spychips::0.0
+replicating::0.0
+crash::0.0
+rfid application environments::0.0
+diffuse::0.0
+optimal::0.0
+standard for high::0.0
+implies::0.0
+day::0.0
+optimized using rfid::0.0
+articles::0.0
+transmitter::0.0
+universal read::0.0
+object information::0.0
+university::0.0
+financial transactions secure::0.0
+symbol structure::0.0
+transmitted::0.0
+generation contactless::0.0
+detailed specifications::0.0
+identifies::0.0
+identifier::0.0
+constraints::0.0
+person::0.0
+activate::0.0
+side channel::0.0
+chung::0.0
+readers prevented::0.0
+related::0.0
+common rfid vulnerabilities::0.0
+encodings::0.0
+streamlined::0.0
+plastic or mylar::0.0
+banking::0.0
+spectrum::0.0
+processes that includes::0.0
+master of science::0.0
+chaos::0.0
+role in selecting::0.0
+rise::0.0
+injecting these transponders::0.0
+produced::0.0
+electronics::0.0
+intervention::0.0
+supports::0.0
+integrated::0.0
+glover::0.0
+main characteristics::0.0
+compact flash::0.0
+deals with tag::0.0
+ibm::0.0
+unlike the kill::0.0
+completely::0.0
+business::0.0
+ubiquitous network computing::0.0
+vehicle identification::0.0
+area::0.0
+add-on interface::0.0
+david::0.0
+coupled with replicating::0.0
+allied::0.0
+retail::0.0
+facilitate::0.0
+housing::0.0
+disclosing::0.0
+specifications::0.0
+tag identifier::0.0
+exact::0.0
+date::0.0
+number::0.0
+spots::0.0
+rother::0.0
+warships::0.0
+extending the tag::0.0
+long::0.0
+privacy::0.0
+data::0.0
+transmitter antenna::0.0
+system::0.0
+support features::0.0
+attack::0.0
+smart cards facilitate::0.0
+firewall that controls::0.0
+scans::0.0
+24th chaos communications::0.0
+provide authentication::0.0
+affect the efficacy::0.0
+great extent::0.0
+shelf::0.0
+home environments futuristic::0.0
+rsa::0.0
+inventory in stores::0.0
+teaching and research::0.0
+rfids::0.0
+condition errors::0.0
+boundary::0.0
+operations center::0.0
+warfare::0.0
+code to interface::0.0
+berghel v customer::0.0
+global identifier::0.0
+science fiction::0.0
+individual::0.0
+electric charge::0.0
+assumes::0.0
+amplitude::0.0
+reflected at multiple::0.0
+express credit::0.0
+cloning::0.0
+friis::0.0
+include patient::0.0
+dns implies similar::0.0
+seo::0.0
+integral form::0.0
+rfid-enabled passports::0.0
+element::0.0
+demonstration::0.0
+check the data::0.0
+ons service::0.0
+_action=detail & id=150::0.0
+documents::0.0
+directivity::0.0
+protocol for sharing::0.0
+input output::0.0
+optimum::0.0
+mechanism::0.0
+polarization::0.0
+concerns::0.0
+signature transponder::0.0
+bachelors degree::0.0
+sum of coil::0.0
+read memory::0.0
+accuracy::0.0
+associate dean::0.0
+range an easy::0.0
+symbols::0.0
+tennessee state university::0.0
+flipside::0.0
+data redundancy::0.0
+power into radio::0.0
+cipher::0.0
+cracking::0.0
+slotted::0.0
+cases::0.0
+payment::0.0
+million::0.0
+sharing broadcast channel::0.0
+vehicle identification iii::0.0
+epc version::0.0
+url::0.0
+solutions in automatic::0.0
+recipient of numerous::0.0
+factor::0.0
+databases::0.0
+built::0.0
+fact::0.0
+services epc::0.0
+sharing broadcast::0.0
+barcode::0.0
+text::0.0
+oyster::0.0
+manages the radio::0.0
+applicationsand::0.0
+planning::0.0
+propagates::0.0
+rouge::0.0
+longer::0.0
+broadcast channel access::0.0
+based::0.0
+knowledge::0.0
+96-bit::0.0
+read capability::0.0
+backscatter rfid::0.0
+controls::0.0
+item management::0.0
+terminal::0.0
+entities::0.0
+write-once readonly::0.0
+invited paper::0.0
+employee::0.0
+high cost::0.0
+epcglobal::0.0
+probability for introducing::0.0
+move::0.0
+handle::0.0
+manages dynamic::0.0
+reader application::0.0
+stripes::0.0
+threats other security::0.0
+legitimate::0.0
+years::0.0
+command de-activates::0.0
+areas::0.0
+founded the identity::0.0
+avoidance::0.0
+substrate::0.0
+unauthorized::0.0
+differential::0.0
+power absorbed::0.0
+zones based::0.0
+processed::0.0
+ffca::0.0
+discovery::0.0
+futuristic::0.0
+aen::0.0
+withstand::0.0
+requirement::0.0
+temporarily::0.0
+products leave::0.0
+network connections::0.0
+limited applications::0.0
+respect::0.0
+application tasked::0.0
+holds a master::0.0
+computer::0.0
+usefulness::0.0
+enhanced::0.0
+manufacturer::0.0
+tag-specific::0.0
+phases::0.0
+ids were embedded::0.0
+channels::0.0
+nuclear::0.0
+1976-913x::0.0
+written::0.0
+identification::0.0
+correctly::0.0
+read-only backscatter::0.0
+zoneid=24::0.0
+bought::0.0
+retailing::0.0
+provide very strong::0.0
+bound::0.0
+ability::0.0
+including magnetic stripes::0.0
+deliver::0.0
+passports under icao::0.0
+interfere::0.0
+efficiency::0.0
+-site::0.0
+transponders and rfid::0.0
+key::0.0
+id=150::0.0
+optional::0.0
+etching::0.0
+monitor::0.0
+commands::0.0
+output::0.0
+sniff::0.0
+pp.12::0.0
+collection related::0.0
+9.4.1::0.0
+9.4.2::0.0
+aircraft::0.0
+implies similar vulnerabilities::0.0
+tag data standard::0.0
+careen::0.0
+e-seals::0.0
+logistics::0.0
+safely::0.0
+data storage system::0.0
+rosenberg::0.0
+compromising::0.0
+extent::0.0
+deal::0.0
+real-time data::0.0
+grabbing personal information::0.0
+interface::0.0
+crafted::0.0
+table::0.0
+scanner::0.0
+read class::0.0
+free::0.0
+trajectory::0.0
+identification solutions::0.0
+skin::0.0
+applications ; coupled::0.0
+center::0.0
+96-bit number::0.0
+combat::0.0
+dummies::0.0
+thin format::0.0
+kitchen::0.0
+closed::0.0
+field::0.0
+rfid hardware components::0.0
+bit::0.0
+technologically::0.0
+infect the backend::0.0
+sufficient::0.0
+essentially::0.0
+inductance::0.0
+non-uniformities::0.0
+killings::0.0
+ways to make::0.0
+unlike::0.0
+consumers::0.0
+standards and protocols::0.0
+edl::0.0
+network computing environment::0.0
+value::0.0
+american express::0.0
+capable of withstanding::0.0
+implementationconsiderations::0.0
+toll collection::0.0
+layer::0.0
+rfid air interface::0.0
+les::0.0
+connection for propagation::0.0
+surface::0.0
+interrogate::0.0
+hardware::0.0
+twelve numeric::0.0
+examined::0.0
+id=150 http::0.0
+toll-gate payment::0.0
+rafsec folded dipole::0.0
+beach nightclub::0.0
+vol.1::0.0
+vol.2::0.0
+vol.7::0.0
+data storage capacity::0.0
+capture::0.0
+denial::0.0
+fids::0.0
+privileges::0.0
+radiation::0.0
+connection::0.0
+highlighted::0.0
+adverse::0.0
+parts::0.0
+rfid services::0.0
+digital::0.0
+dae-hee::0.0
+garfinkel::0.0
+contactless::0.0
+domain anti-collision methods::0.0
+material::0.0
+http::0.0
+context::0.0
+rfid implementationconsiderations::0.0
+phd::0.0
+introducing a blocker::0.0
+introduce::0.0
+describes common rfid::0.0
+require direction-specific::0.0
+dos::0.0
+identity::0.0
+transaction::0.0
+reflection::0.0
+secure statusacquisition::0.0
+east tennessee state::0.0
+suited for handing::0.0
+command::0.0
+sets::0.0
+format::0.0
+soviet::0.0
+send::0.0
+international association::0.0
+zoneid=24 http::0.0
+stores::0.0
+shaped antennas::0.0
+numbering::0.0
+vulnerabilities and susceptibility::0.0
+audio information::0.0
+underlying::0.0
+implementation requires::0.0
+bought the product::0.0
+software based::0.0
+identifier that facilitates::0.0
+glue::0.0
+documented::0.0
+accepted frequencies::0.0
+withstanding::0.0
+web::0.0
+transforms input power::0.0
+density::0.0
+chips a personal::0.0
+active air::0.0
+circular::0.0
+clipped::0.0
+introducing data format::0.0
+compares::0.0
+aerial::0.0
+match::0.0
+stakeholders::0.0
+identical::0.0
+surreptitiously grabbing personal::0.0
+great distances::0.0
+increased::0.0
+out financial transactions::0.0
+molding::0.0
+checking::0.0
+propelled::0.0
+interrogation::0.0
+berghel application::0.0
+tracking of high::0.0
+password::0.0
+recover secret::0.0
+including ohmic::0.0
+loss::0.0
+sizes::0.0
+good software::0.0
+maximum transmission::0.0
+resin::0.0
+testimony::0.0
+sized::0.0
+tennessee::0.0
+mhz::0.0
+epoxy::0.0
+implementationconsiderations an rfid::0.0
+viruses::0.0
+tags to send::0.0
+survey::0.0
+denial of service::0.0
+common mans::0.0
+gauss s law::0.0
+dean of engineering::0.0
+privacy bit::0.0
+code the universal::0.0
+interface layer::0.0
+computers::0.0
+home::0.0
+recognition::0.0
+summary of rfid::0.0
+rewriteable::0.0
+identifiable and financial::0.0
+chichester::0.0
+sufficiently::0.0
+transmit a tag-specific::0.0
+grover holds::0.0
+plas animal::0.0
+backend::0.0
+mode::0.0
+limitations::0.0
+noise::0.0
+coated::0.0
+selecting::0.0
+journal::0.0
+error correction::0.0
+billion serial::0.0
+beach::0.0
+ability to handle::0.0
+related to tag-events::0.0
+immobilizers or door::0.0
+vulnerabilities include rfid::0.0
+includes::0.0
+handling::0.0
+drives::0.0
+retail inventory::0.0
+iris::0.0
+zones::0.0
+threats::0.0
+actual::0.0
+abstractthis paper::0.0
+susceptibility to similar::0.0
+basis::0.0
+recognized::0.0
+nightclub::0.0
+compatible::0.0
+target-applications::0.0
+realm of science::0.0
+spread::0.0
+desktop::0.0
+software::0.0
+acceptance::0.0
+detailed aen analysis::0.0
+previously::0.0
+radiative::0.0
+systems including::0.0
+study::0.0
+functional::0.0
+data skimming::0.0
+doesnt::0.0
+pp.37::0.0
+embedded in smart::0.0
+national::0.0
+registration::0.0
+barcode system::0.0
+mere::0.0
+barcodes::0.0
+sussex england::0.0
+pp.63::0.0
+processor::0.0
+additional::0.0
+rfid standards standard::0.0
+pp.69::0.0
+assisted::0.0
+secret::0.0
+fooling::0.0
+dont require full::0.0
+merchandise::0.0
+gs1s::0.0
+biggest::0.0
+data to follow::0.0
+ultra high::0.0
+invent::0.0
+throughput demand::0.0
+password breaking::0.0
+support sufficient::0.0
+hazardous::0.0
+discovery services::0.0
+tag data structure::0.0
+total::0.0
+tasked::0.0
+construction::0.0
+gain::0.0
+systems described::0.0
+flexible::0.0
+overflow::0.0
+rfid proliferation::0.0
+chan yeob::0.0
+mylar::0.0
+nuclear and hazardous::0.0
+made::0.0
+wise::0.0
+paper journal::0.0
+variations::0.0
+abstract::0.0
+idsh1003-001::0.0
+record::0.0
+proliferation spreads::0.0
+limit::0.0
+codes::0.0
+problem::0.0
+piece::0.0
+minutes::0.0
+handle data::0.0
+website::0.0
+replying::0.0
+play::0.0
+pin::0.0
+financial information::0.0
+universal::0.0
+contribute::0.0
+condition::0.0
+dissemination::0.0
+entire::0.0
+distinguished::0.0
+object naming::0.0
+required for supply::0.0
+path::0.0
+functions::0.0
+variety::0.0
+environments futuristic smart::0.0
+detail::0.0
+environment deals::0.0
+school of computer::0.0
+financial transaction card::0.0
+typical universal product::0.0
+infect::0.0
+out::0.0
+dynamic rfid application::0.0
+out industrial::0.0
+tennessee state::0.0
+conclusion::0.0
+kerberos::0.0
+information-storing::0.0
+tag and extending::0.0
+waves::0.0
+gtin-12::0.0
+berghel* abstractthis::0.0
+m.s::0.0
+tion::0.0
+uavs::0.0
+seo and im-yeong::0.0
+terminal operation::0.0
+deter::0.0
+finkenzeller::0.0
+exposure::0.0
+simon::0.0
+coupling::0.0
+attacker::0.0
+client-side script::0.0
+portion::0.0
+secure communications::0.0
+infected rfid chip::0.0
+validation::0.0
+skimming::0.0
+payment for preferred::0.0

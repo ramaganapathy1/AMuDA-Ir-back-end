@@ -1,0 +1,877 @@
+SERVICE-CENTRIC NETWORKING - SEMINAR WS2011/2012
+
+1
+
+Current approches of Wifi Positioning
+Robin Henniges, TU-Berlin, 2012
+
+Abstract—WiFi positioning plays an increasingly important
+role in improving performance because good positioning can
+improve performance in indoor environments without additional
+devices. It will make use of existing WiFi infrastructure, although
+this was never designed to do so. Methods that were used for
+other positioning technologies can be adopted for WiFi. Whether
+or not these other methods work with WiFi will be explained and
+examined. This paper also discusses the accuracy of the methods
+and the optimal area of application.
+Index Terms—Wifi, WLAN, Positioning, Location, Position
+determination, localization, Fingerprinting
+
+I
+
+I. I NTRODUCTION
+
+N 1978 the first GPS satellite was launched14 and in 1995
+GPS worked with its full capability for the first time.1
+Unfortunately, the satellite signals were not strong enough to
+work indoors. In 1997 IEEE Standard 802.11 was set and the
+first version of Wireless LAN was born.
+Nowadays Wireless Local Area Network technology can be
+found in almost every building. This widespread infrastructure
+offers the possibility to locate mobile devices in an economical
+way. Position determination using WiFi technology has the
+advantage that it can perform indoors and outdoors, in a
+different way to GPS. And, although WiFi was never made
+for positioning, it is more accurate than a GSM indoor
+positioning20 and, in some cases, it is also more accurate in
+regards to outdoors. By using WiFi Positioning Systems it is
+possible to locate the position of almost every WiFi compatible
+device without installing extra software or manipulating the
+hardware. In the course of time many methods that were
+initially used with other positioning technologies were applied
+to WiFi positioning. WiFi Positioning also allows the use of
+location-based services (LBS) indoors, which is interesting for
+the industry. Useful applications of this technology are, for
+example, for indoor navigation at shopping malls or for finding
+a lost child in an indoor area. Lost devices or items can also
+be found with this technology. Additionally, this technology
+is especially interesting for hospitals because sometimes when
+staff move certain pieces of equipment it can be hard to
+find them again straight away. Big corporate companies like
+Google have already seen the potential of this system called
+WiFi Positioning. As we all know, Google captures photos,
+GPS positions and WiFi measurements, while collecting data
+for the Google Street View project4 .5 This data was the basis
+for the hybrid outdoors positioning system that they use today.
+If a smartphone user turns on WiFi and Google Maps, he also
+collects new WiFi positioning data for Google. The device
+scans for stations (in this case access points) and, at the
+same time, it determines the position with GPS, GSM or
+known WiFi stations. In November 2011, Google published
+Google Indoors which enables navigation in buildings. It is
+
+Fig. 1. Illustration of Indoorpositioning Use Cases
+(source: http://www.gpsworld.com/wireless/indoor-positioning/)
+
+also based on WiFi technology.16 Even in large train stations
+or airports, a WiFi positioning system could help people to find
+out when their next train or plane leaves. The programming
+of autonomous robots often has the problem that the robot
+does not always know where they are. WiFi positioning
+could support the mechanisms that are already in place. The
+second chapter is about the basic Theory of WiFi Technology.
+802.11 is introduced and physical problems are discussed.
+The third chapter is about the Positioning Theory. The three
+topologies are explained and the different environment of
+Indoors and Outdoors are discussed in terms of positioning.
+The fourth chapter deals with the methods that are available
+for positioning. Each method is examined to find out whether
+it advertises itself to the topologies and whether it is suitable
+for indoor WiFi positioning systems. This paper is about the
+methods that can be used to build a WiFi Positioning System.
+II. W IFI T ECHNOLOGY
+A. WLAN, Wi-Fi and IEEE 802.11
+WLAN, WiFi and IEEE 802.11 all mean the same: they determine the industrial standard for wireless data transmission.
+The latter is the most used expression.
+WiFi uses electromagnetic waves to transmit data over the
+airwaves. In figure 2 (p. 2) the whole frequency spectrum is
+shown, starting with radio signals and ending with gammarays. Looking at the illustration one can see that it operates
+in broadband, on about 2,4 GHz and 5 GHz.10 Other longer
+distance technologies also use frequencies in between these
+figures. The frequency is the number of wave occurrences per
+unit of time.
+In the best case, the radio waves spread out evenly and lose
+more and more of their signal strength with increasing radius.
+
+SERVICE-CENTRIC NETWORKING - SEMINAR WS2011/2012
+
+2
+
+A WiFi connection gives us information about signal
+strength and interference.
+For example: signal strength: -52 dBm ( 0,00001 mW )
+interference: -90 dBm
+Because of the path loss, the signal becomes weaker and
+weaker the farther it is away from its origin. Barriers may
+attenuate the signal (more about that later). The property to
+the path loss can be used to determine the distance.
+B. Problems and disruptive factors
+
+Fig. 2.
+
+frequency overview - A Wifi wave matches into a baseball.
+
+This loss of signal strength is due to the energy transformation
+because, in physics, energy is never lost, but instead converted.
+Consequently the amplitude of the signal becomes smaller and
+smaller. In an outdoor station the radius ratio of distance to
+signal strength is inversely proportional, because the decrease
+of the signal is log-normal.12 In conclusion, if the distance to
+the station is increased in any direction, the signal strength will
+decrease steadily. However, indoors we encounter a different
+problem, because the waves bump into walls, windows, doors
+and so on. If a wave bumps into a different material, it converts
+more energy than in the air. During this process, the signal
+strength is decreased more strongly, because the energy is
+transferred to the material (e.g.: in heat). Furthermore the
+signal is also reflected from the material. More about this
+problem is following in the section entitled Problems and
+interferences.22
+1) Fundamentals for Wifi measuring: the distance between
+the transmitter and the receiver has an important role in
+determining the position. In contrast to GPS, WiFi, at a time
+measurement method, does not come into question, since such
+an exact time is difficult to achieve synchronization. Finally,
+the path from space to the ground is much farther than from
+one access point to a mobile device. The received signal
+strength (RSS) and the signal noise ratio (SNR) are the most
+suitable. These values can be calculated from the incoming
+signals.
+2) Signal Strength: the signal strength is measured in dBm
+(decibel in milliwatt). A Wifi station has a EIRP (Equivalent
+isotropically radiated power) of 100mW - 1000mW (20dBm
+- 30dBm). This is how to calculate:
+P
+1mW
+
+(1)
+
+100mW
+= 20dBm
+1mW
+
+(2)
+
+Lp(dBm) = 10 ∗ log
+For Example:
+Lp(dBm) = 10 ∗ log
+
+In general, wireless radio transmission is subject to many
+confounding factors. Even the sun or rain drops have an effect
+on the signal strength, actually even if this disruptive factor
+is very low, it would still be measured. Another problem is
+the electromagnetic radiation inside buildings. Additionally,
+many walls, doors and floors have to be penetrated. The result
+of this is attenuation. An additional problem is the wireless
+overlay. In an office or apartment building, there are several
+dozen wireless stations that provide much interference.
+1) Signal attenuation of static environment: usually hits an
+electromagnetic wave on a wall or another barrier it passes
+through. However, the wave becomes weaker, due to reflection
+that originates while striking the barrier. Another part is
+absorbed and converted into heat, the factor of which is so
+small that it would not be noticeable for a human. The size
+of the loss is related to the material, specifically its thickness.
+For example, glass has a higher attenuation effect than brick
+walls.21 These factors are critical, especially with methods
+which determine a distance by the measuring of the signal
+strength.
+2) Signal attenuation by user: As we can see in the experiment,13 the presence of a user changes the signal strength. This
+is especially important for the Fingerprinting-based location
+method, because the mean values would be influenced by the
+presence of a user. ”When the positioning system is supposed
+to cater to real users, it is essential to have the user present
+while collecting the RSS values for the fingerprint and to
+take into account the effect of the humans body.13 As already
+mentioned, WiFi uses the frequencies of about 2,4 GHz, just
+like microwaves. The effect that is used to heat up food with
+a microwave is a disruptive effect with WiFi. This is because
+the radiation is partially absorbed by the water in the human
+body and the signal is attenuated.
+III. P OSITIONING T HEORY
+A. Topologien
+There are three topologies that can be used for positioning.18
+This first one is called network-based, here the position is
+determined by the stations (which build a network) and a
+central server. The next is called terminal-based and identifies
+the position over the terminal (or mobile device). The last
+topology is a hybrid form of the two. An illustration can be
+seen in figure 3
+
+SERVICE-CENTRIC NETWORKING - SEMINAR WS2011/2012
+
+3
+
+urban surroundings is a WiFi infrastructure guaranteed. In
+rural surroundings the chance for an outdoor WiFi positioning
+system are not as good.
+IV. M EASUREMENT THEORY
+
+Fig. 3.
+
+network-based, terminal-based and terminal-assisted topologie
+
+1) network-based: The network-based approach works on
+WiFi, only when the station software is modified because the
+station must be able to redirect its measurement data (mostly
+RSS and IDs) beside the normal network data. The sequence
+looks like this: beacons of the mobile devices are received
+by the stations and are redirected to a central server. This
+server has a database and can use it to calculate the position.
+For almost all of the positioning methods, preparations must
+be made, for example: the positions of all stations with their
+BSSIDs must be stored.
+The mobile devices do not need any software installed,
+instead they must just send beacons. Indeed, the mobile
+devices do not take note of if they are located.
+2) terminal-based: The terminal-based approach functions
+exactly in the opposite way to the network-based approach.
+The mobile devices receive the beacons of the stations. With
+this, and with the information from the database, the position
+can be calculated. A WiFi device is able, in a so-called
+passive mode, to wait in the background for beacons from
+WiFi stations, and can even be connected to a station. The
+interval for sending beacons from a station lies at less than
+10m. Another possibility is the active mode, and for this the
+WiFi device sends out beacons, and with it the station sends
+a reply back to the beacon. An important feature is that the
+mobile device (or terminal) carries the database with it.
+3) terminal-assisted: The terminal-assisted approach is a
+mix of both of the above. The beacons are received by the
+mobile device and the information is transferred to the central
+server so the database can calculate the position.
+B. Indoor and Outdoor Positioning
+The indoors and outdoors have different requirements for
+a WiFi positioning system. The indoor environment has man
+disruptive factors like walls, windows, doors, and so on. A
+positioning system must be able to handle these problems and
+deliver good results. A higher accuracy is also required for the
+indoors because it is important to locate a user at least in the
+right room. A few meters can make a big difference. WiFi is
+especially interesting for indoors because there are no other
+positioning services running. Outdoor positioning has fewer
+requirements. The accuracy is not as important outdoors as it is
+indoors, but there are fewer environmental barriers. Coverage
+is another problem in outdoor positioning because only in
+
+There are many different approaches for locating a mobile
+device using WiFi technology. In the following, the method
+to estimate the sought position is described. In general, the
+methods need to know the position of the WiFi stations
+(=access points) as a reference point that are used for the
+approximate position of the mobile device.7 A prerequisite
+for a good-working WiFi positioning system is an adequate
+coverage of the access points. This coverage is called Basic
+Service Area (BSA). The expression of the BSA determines
+which positioning method is the most suitable. The methods
+differ in the minimum required number of stations and its
+accuracy. This varies between building part accuracy and room
+accuracy to an accuracy of a few meters difference.
+A. Based on Proximity sensing
+Methods based on proximity sensing are among the simplest
+and fastest, but they are also imprecise. A position calculation
+can be done with just a single station. It is hardly possible,
+for example, to perform an indoor positioning that delivers
+the right floors in a multi-storey building. As result, one gets
+only the part of the building in which the mobile device is
+located. On the other hand, this kind of positioning is popular
+for outdoor positioning.
+1) Cell Identity: A relatively simple method is called ”Cell
+of Origin or ”Cell Identity and is based on ideas coming from
+a GSM positioning method. To run a positioning system using
+this method, some preparations must be made. A database of
+station IDs and the geolocation is necessary. The position is
+determined by measuring the signal strength. It is assumed
+that the closest station is the station from which the strongest
+incoming signal on the device is received. Depending on which
+topology is used, a request to the database is performed for
+the ID of the station with the strongest received signal. The
+database returns the position of the desired station and thus the
+position of the device. This is because a device within range
+of the station has the approximate location of the station. So
+this method is good for short-range technologies like WiFi.
+If this method is used with WiFi as ID, the BSSID (basic
+service set identification) is used, which is a unique hardware
+address given to every WiFi device. In this case, the MAC address is used as BSSID, as explained in IEEE 802.11 BSSID.3
+By using a network-based topology, the station collects tuple
+from the mobile device IDs and its received signal strength,
+and commits this information to a server that has access to
+the database of station locations. The server now chooses
+the station with the strongest signal as the position for the
+mobile device. By using a terminal-based or terminal-assisted
+topology, the mobile device can use the ”passive mode to scan
+for active WiFi stations. After choosing the station with the
+strongest signal, a simple search in the database will return the
+position coordinates. However, unfortunately this information
+is very inaccurate.
+
+SERVICE-CENTRIC NETWORKING - SEMINAR WS2011/2012
+
+Fig. 4.
+
+4
+
+Cell of Origin illustration (source: cisco.com)
+
+The disadvantage of this measuring method it that the size of
+range is variable between 25 and 200 Meters, depending on the
+measuring occurs indoors or outdoors.2 That makes indoor positioning with this method not very attractive. Indeed one could
+run the stations with low power, so the radius is smaller and
+the positioning would therefore be accurate. However, it also
+negatively affects the data transmission and possibly the WiFi
+coverage. It is also an important requirement, as with many
+positioning methods, that the stations are fixed. If changes are
+made to the location of the station, the database entry needs to
+be corrected. This is a big problem for companies that use CI
+in their positioning system, because they themselves must find
+out if a stations location has been changed. The advantage of
+the method is that it is very simple and therefore a position
+determination is very fast. It works with at least one station
+Summary:
+• Positioning is based on the position of the station with
+the stongest signal that can be received.
+• (+) Can utilize existing wifi infrastructure without modifications
+• (+) Allows network- and terminal-based positioning
+• (-) Positioning is inaccurate
+• (+) Allows real-time positioning
+• Better for outdoor positioning.
+B. Based on Trilateration
+Lateration or trilateration is the determination of absolute
+or relative locations of points by measurement of distances,
+using geometry. The ”tri in trilateration reveals that at least
+three fixed points are necessary to determine a position.
+The idea behind the geometry is that all trilateration methods start with calculating the distance from a station to a
+device. The distance then is used as the radius from the station.
+Somewhere on the edge of the resulting circuit, the position
+of the device is assumed. To lessen the possibilities, a second
+group of results is also used from the measurements of another
+station. Of course the second station has to be in the range of
+the device.
+With the radius of the second station one receives two
+points. If one imagines this in a geometrical way, one keeps
+two circles and two intersection points. One of the two points
+is the position of the devices. To find out which point is
+the right point a third station is used. An illustration of this
+
+Fig. 5.
+
+Trilateration (source: wikipedia.org)
+
+geometry can be seen in figure 5. In the following the methods
+of distance determination are explained.
+Should the localisation deliver three dimensional results
+which make sense, e.g., in multi-storey buildings, the additional fourth station is required to receive an unequivocal
+position.
+Because the distance measurements are not very accurate
+it is recommended to use an ”Error range in the circles. This
+compensates the measuring errors otherwise it is possible that
+one does not get any intersection points.
+The challenge for a Trilateration method lies in the best
+possible determination of the distance between the station and
+the device. Methods that are based on time measurements
+have to guarantee a good synchronisation on the stations or
+mobile devices. On the other hand, methods that are based
+on the signal strength have problems with interferences and
+reflection. Therefore, they are probably better suitable for
+outdoors than for indoors.
+1) Time of Arrival (ToA): With this method time is measured, which needs a signal from a station to mobile device
+and back again, and in this instance it is called the ”Round trip
+time (RTT). A requirement for this method is synchronically
+running clocks. According to which topology is used, only the
+clocks of the stations or also the clocks of the mobile devices
+must run synchronically. With the measured data of the station
+and the given speed of the signal, it can be calculated how far
+away the mobile device is. Indeed, no time may pass with the
+receiving and sending back of the signal because this would
+influence the measured data. As this is not possible without
+modification in mobile devices, this method does not function
+with WiFi.
+•
+•
+•
+
+Positioning is based ontrilateration with measurements of
+time
+(-) At least three station in range of the device are
+necessary.
+(-) Position coordinates of station must be exact.
+
+SERVICE-CENTRIC NETWORKING - SEMINAR WS2011/2012
+
+(-) Does not work with Wifi
+2) Time Difference of Arrival (TDoA): Like ToA, TDoA
+also needs exact clock synchronisation. Indeed according to,6
+TDoA is more popular with commercial detection systems
+than ToA. With this method, the difference is used between the
+arrival times of the signals to determine the position. Because
+WiFi was never planned, nevertheless, to make such exact time
+measurements, is also not possible to use TDoA on WiFi.
+• Positioning is based ontrilateration with measurements of
+time difference
+• (-) At least three station in range of the device are
+necessary.
+• (-) Position coordinates of station must be exact.
+• (-) Does not work with Wifi
+3) Received Signal Strength (RSS): This method uses
+propagation-loss of the WiFi signals to compute the distance.8
+The decibel version of free space path loss equation is
+s
+) (s is the signal strength in watts). By using
+10 log( 0.001
+these measurements, which distance matches which signal
+power can be found out. This method functions relatively well
+outdoors, but in buildings it can come to strong divergences,
+because the walls reflect and attenuate the WiFi signals. These
+methods work with the WiFi technology and can be used for
+the localisation. One can even use all three topologies with this
+method, however, software must be modified with the routers
+network-based topology.
+• Positioning is based ontrilateration with measurements of
+signal strength
+• (-) At least three stations in range of the device are
+necessary.
+• (-) Position coordinates of station must be exact.
+• (+) Does work with Wifi
+• (+) Works well outdoors
+• (-) Works indoors but doesnt deliver accurate values
+• (+) supports all topologies
+The method Signal to Noise Ratio (SNR) is neglected here
+because it usually provides poorer results than RSS. Only
+the fact that it exists should be mentioned. It works on the
+same principle, but instead of transmitting power, the measured
+interference is used.
+
+5
+
+•
+
+C. Based on Triangulation
+1) Angle of Arrival - AoA: In this method, the angle of
+the arriving signals is determined and, using geometry, the
+position can be determined. At least two stations in reach of
+the mobile devices are a requirement for AoA. It is suitable
+for indoor and outdoor positioning and it can measure in real
+time. The estimation of the angle has an inaccuracy of only 2
+degrees.17
+AoA is not applicable without modification of the hardware,
+but it returns good results. Special antennas are mandatory for
+the determination of the location with the ”Angle of Arrival
+method. These antennas must be able to measure the phaseshift of incoming signals. Therefore it is best to use directional
+antennas or a multiple antenna array. The direction can be
+determined with the TDoA (Time Difference of Arrival.) This
+refers to the array antennas. When a signal hits the antenna at
+
+Fig. 6.
+
+Illustation of a single Array Antenna that receives a signal.
+
+Fig. 7. A special directional Wifi antenna determine the position with AoA.
+
+the right angle, the TDoA is equal to zero. In all other cases
+the signal hits the part of the antenna first that has the smallest
+distance to the source of the signal. The time difference of the
+receiving on the next part of the antenna is measured, and thus
+the angle can be calculated.
+With the triangulation technique it is possible to calculate
+the position of the mobile device, due to the determination of
+the incident angle on the receiving sensor of the station. From
+the geometrical view, a line goes out in the calculated angle
+from the antenna. If this is made with all the stations standing
+at possession, an intersection originates. This is shown in
+figure 8. As a reference value, the position, like with all
+methods, must be confessed2 . This approach works well with
+WiFi, but, as already mentioned, the hardware must be modified. As it would be extremely complicated to equip mobile
+devices afterwards with an array of antennas, unfortunately
+one cannot measure from which direction the signal from the
+station comes. Therefore two topologies are omitted: terminalassisted and terminal based. Now the network-based topology
+is the only one remaining. In practice it would be in such a
+way that the stations tuple with mobile device ID, and that the
+angle (or the TDoA data) is sent to a central server and this
+calculates the positions.
+Summary:
+• Position determination with the intersection point of two
+
+SERVICE-CENTRIC NETWORKING - SEMINAR WS2011/2012
+
+6
+
+TABLE I
+E XAMPLE OF A RADIO MAP ( SOURCE : 18 )
+Position
+
+Fig. 8.
+
+•
+•
+•
+•
+
+Illustation of Fingerprint Positioning
+
+lines.
+(-) needs hardware modifications / special antennas
+(+) Allows Real-Time positioning
+(+) indoor + outdoor
+(-) only network-based
+
+Direction
+
+BSSID 1
+
+BSSID 2
+
+BSSID 3
+
+p1
+
+0
+
+-59 dBm
+
+-75 dBm
+
+-71 dBm
+
+p1
+
+90
+
+-54 dBm
+
+-73 dBm
+
+-67 dBm
+
+p1
+
+180
+
+-49 dBm
+
+-72 dBm
+
+-69 dBm
+
+p1
+
+270
+
+-55 dBm
+
+-74 dBm
+
+-65 dBm
+
+p2
+
+0
+
+-35 dBm
+
+-64 dBm
+
+-50 dBm
+
+p2
+
+90
+
+-27 dBm
+
+-64 dBm
+
+-43 dBm
+
+p2
+
+180
+
+-40 dBm
+
+-65 dBm
+
+-52 dBm
+
+p2
+
+270
+
+-30 dBm
+
+-60 dBm
+
+-46 dBm
+
+p3
+
+0
+
+-69 dBm
+
+-66 dBm
+
+-73 dBm
+
+p3
+
+90
+
+-65 dBm
+
+-60 dBm
+
+-68 dBm
+
+p3
+
+180
+
+-63 dBm
+
+-66 dBm
+
+-70 dBm
+
+p3
+
+270
+
+-68 dBm
+
+-62 dBm
+
+-76 dBm
+
+D. Based on Pattern recognition
+1) Fingerprint Positioning: Fingerprinting, also called Location Patterning, uses a previously created database of signal
+patterns, which need to be matched for positioning only.
+Fingerprinting doesnt need modification of the hardware like,
+for example, AoA. Furthermore, no time synchronisation is
+necessary between the stations. Before a position can be determined, the entire area in which the positioning is supposed
+to work must be recorded. This happens in Phase 1, the socalled calibration-phase, offline-phase or training-phase: The
+area in which the positioning should later run, must be covered
+with a pattern of recording points, called fingerprints. Step
+by step, for every fingerprint there must be a measurement,
+that includes the information about all stations and their
+Received Signal Strength (RSS). Each fingerprint is a vector
+R , associated with each element of a station.
+The number of stations must be known and may be changed
+only if the measurement is repeated from phase 1. The
+collected data is stored in a database, called a radio map, so
+that it can be retrieved later in phase 2.
+That is the actual position determination phase. If a mobile
+device should be located in the recorded area, then it measures
+the signal strengths of all the current stations in range. It is the
+actual position determination phase. If a mobile device should
+be located in the recorded area, then it measures the RSS of
+all the current stations in range. This data will be stored in
+the comparative vector P. Now the euclidean distance between
+P and the Rs on the radio map is calculated. The chance to
+have chosen the right place is greatest where the Euclidean
+distance is smallest. The disadvantage of this method is that
+there must be a lot of complex preparation before the system
+works.15
+As we read in18 RSS strongly depends on line-of- sight,
+so to improve the system every measurement should add
+additional information about the direction. This takes longer
+in phase 1 but delivers better results in phase 2. The table
+shows an example of such a radio map.
+Fingerprinting can be used with all three topologies. With
+a network-based system every position is sent to the station
+with mobile device beacons. As usual, with network-based
+attempts, the software of the station must be customised, so
+that the signal information can be extracted. If the information
+
+is in the central server this can calculate the position. The
+advantage with this topology is that devices that dont usually
+have WiFi can also be located, for example: a wheelchair.
+When a WiFi badge or a WiFi tag device, without any real
+function except sending beacons, can be attached to this
+device, this enables it to be found in the building anytime.
+Later we will to talk about a company, called ekahau, that
+uses this strategy. On the terminal-based approaches, there are
+no great characteristics, so this topic is not taken up here again.
+The functionality has already been explained in the preceding
+chapter.
+It is also interesting that the position of the station does not
+need to be known. Only the position of the fingerprints must
+be known, so that the type of coordinates used can be chosen.
+It would, for example, be possible to use the geographic
+coordinate system or our own coordinates of the building area.
+Finger printing can be used indoors as well as outdoors like
+this experiment shows.19
+•
+•
+•
+•
+•
+•
+
+Position determination with RSS Pattern.
+(+) needs no hardware modifications
+(+) indoor and outdoor
+(-) only network-based
+(+) very good accuracy
+(-) creating a radio map is consuming
+V. I MPROVING OF P OSITIONING D ETERMINATION
+
+A. Hidden Markov Model
+The hidden Markov model is a statistical model in which a
+system can be modelled. It allows the system to integrate the
+likelihood of a movement or positional change. To integrate
+a hidden Markov model in a positioning system, a pattern
+of nodes must be laid over the area, just like in fingerprinting. A node corresponds to a position and is connected bidirectionally to the edges of other nodes. At each of these
+edges the likelihood for the transition to the next node is
+attached. Mistakes like jumping through walls or floors can
+therefore be reduced. We can see this used in a patent of
+Ekahau.
+
+SERVICE-CENTRIC NETWORKING - SEMINAR WS2011/2012
+
+7
+
+Fig. 10.
+
+Use Case hierarchy of WiFi Positioning
+
+C. Navizon
+Fig. 9. Bages and Tags that use Ekahau for positioning (source: applywifi.com)
+
+B. Dead Reckoning
+Dead Reckoning is the process of calculating the current
+position through a predetermined position based on estimated
+speeds and the direction.
+VI. C OMMERCIAL SOLUIONS
+A. Skyhook Wireless
+Skyhook Wireless is a Company from Boston (USA) that
+collect WiFi and Location Data. Their most famous customer
+is Apple, who use the WiFi Location data to determine
+positions without real GPS on the iPhone. They also offer
+a SDK for WiFi Positioning that is available for free and
+is especially valuable for mobile software developers. Like
+Google, Skyhook Wireless has a collection of WiFi Stations
+and positions them by using cars that go through the cities
+and streets, which is called WarDrivering.9 Skyhook give an
+accuracy of 10-20 meters, according to their website. To
+get the best results they use XPS, the Hybrid Positioning
+System. It uses GPS-, Cell Towers- and WiFi-measurements
+for position determination. Due to this architecture, they are
+able to provide a time to fix under 1 second. The database of
+Skyhook Wireless includes the locations of over 250 million
+WiFi access points and cellular towers.
+B. Ekahau
+2000 Ekahau was founded in Helsinki as a spin-off from
+the University of Helsinki. Now the headquarters is in the
+USA. Ekahau offers real time WiFi positioning systems for
+companies, especially for hospitals. The system works both
+indoors and outdoors. A whole range of WiFi enabled devices
+are available. For example, small WiFi devices, like a watch,
+for locating patients or others to send a help signal or to call
+a nurse. The advantage of this WiFi positioning system is
+that it can use the existing infrastructure of 802.11 a/b/g/n
+stations. The Tracking algorithms is patented with 7 patents for
+positioning. It uses the hidden markov model, signal strength
+and signal value bit error rate.11 That allows Ekahau to offer
+a good working positioning solution.
+
+In January 2005, Navizon was founded. Just like Skyhook,
+they collect data of WiFi access points, GSM Cells and the
+associated GPS positions.
+D. Others
+Nokia Indoor Positioning, WIPS, Nokia Indoor Positioning, Walkbase, RADAR, Horus, Nibble, WhereMops, LIV,
+AeroScout
+VII. C ONCLUSION
+WiFi has become a widespreading technology, a technology
+that has never been designed for localization. Nevertheless,
+WiFi positioning performs well in comparison to other positioning technologies, and has the favourable advantage that it
+is based on an existing infrastructure. First, it can be said that
+all WiFi agreed methods are based on signal strength (except
+AoA). Methods that are based on timing can not be realized
+with WiFi. So the techniques ToA and TDoA were not agreed
+by WiFi.
+The technique best suited for each individual WiFi positioning is dependant on the environment. When indoors,
+positioning fingerprinting delivers the best results. However,
+it is also associated with a lot of effort. With a hidden
+markov model the accuracy can be increased even further. The
+Angle of Arrival is also a good opportunity. Unfortunately,
+this requires special hardware and the localizations can only
+be network-based. For indoor positioning CI or RSS gives
+inaccurate values.
+Outdoor WiFi has a smaller benefit, mostly because GPS
+provides better results. However, there are outdoors areas,
+where GPS can not perform. Then WiFi Positioning is a good
+alternative. A further advantage is that WiFi is faster than GPS
+at the beginning with finding the position. The GPS module
+used in mobile devices usually needs a lot of power, and
+by switching onto WiFi positioning it can use the already
+switched on WiFi to determine its position. A system based
+on CI is fast and easy to build up. RSS is also well suited
+for outdoors and delivers even better results. AoA systems are
+probably not profitable for larger areas, but they do give good
+results. Fingerprinting can also be used outdoors. In this case,
+the use of directional data will improve the accuracy of the
+results.
+
+SERVICE-CENTRIC NETWORKING - SEMINAR WS2011/2012
+
+R EFERENCES
+[1] Elliott D. Kaplan, Christopher J. Hegarty Understanding GPS: principles
+and applications, 3rd ed. London, England: Artech House, 2006.
+[2] Cisco Systems, Inc., Wi-Fi Location-Based Services 4.1 Design
+Guide
+San Jose, USA: Cisco Systems, Inc. 2008. Online:
+http://www.cisco.com/en/US/docs/solutions/Enterprise/Mobility/wifich2.html
+[3] IEEE Std 802.11, 1999 Edition (R2003) Part 11:Wireless LAN Medium
+Access Control (MAC) and Physical Layer (PHY) Specifications Piscataway Township, New Jersey, USA: IEEE, 1999.
+[4] STROZ FRIEDBERG Source Code Analysis of gstumbler USA: STROZ
+FRIEDBERG, 2010.
+[5] Raphael Leiteritz Copy of Google’s submission today to several national
+data protection authorities on vehicle-based collection of wifi data for use
+in Google Location based services USA: Google, 2010.
+[6] Jami, I. and Ali, M. and Ormondroyd, R.F. Comparison of methods of
+locating and tracking cellular mobiles London, UK: 1999.
+[7] Jami, I.; Ali, M.; Ormondroyd, R.F.; Comparision of Methods of Locating
+and Tracking Cellular USA: Dept. of Aerosp. Power & Sensors, Cranfield
+Univ., Swindon, 2010.
+[8] Martin Vossiek, Leif, Wiebking, Peter Gulden, Jan Wieghardt and
+Clemens Hoffmann Wireless Location Positioning - Concepts, Solutions,
+Applications Munich, Germany: Siemens Corporate Technology, 2003.
+[9] Skyhook Wireless Inc. http://www.skyhookwireless.com/ Bosten, USA:
+Skyhook Inc., 2011.
+[10] IEEE IEEE 802.11
+Online: http://www.ieee802.org/11/index.shtml,
+last access: 01/01/2012.
+[11] Pauli Misikangas and Petri Myllymaki Sequence-based positioning
+technique (US-Patent No. 7,349,683) Helsinki, Finland: Ekahau., 2008.
+[12] B. Sklar, Rayleigh fading channels in mobile digital communication
+systems: I. Characterization, IEEE Communications Magazine, vol. 35,
+pp. 90-100, Jul. 1997.
+[13] K. Kaemarungsi and P. Krishnamurthy Properties of Indoor Received
+Signal Strength for WLAN Location Fingerprinting
+University of
+Pittsburgh
+[14] Wilfried Ley, Klaus Wittmann and Willi Hallmann Handbook of space
+technology 2009 John Wiley and Sons, Ltd
+[15] K. Pahlavan and P. Krishnamurthy Properties of Indoor Received Signal
+Strength for Wifi Location Fingerprinting University of Pittsburgh
+[16] Google Website Google Maps Indoors Online: http://www.google.com
+/hostednews/ap/article/ALeqM5j8G0w0GStlrzNxFYD0kbi7E6IdUg?
+docId=23e2d91de68f47d482524fb8a4f34a41
+[17] Dipl.-Wirtsch.-Ing. Rene Dnkler AoA - Angle of Arrival
+Online: http://www.iis.fraunhofer.de/bf/ln/technologie/aoa/
+last access:
+01/18/2012
+[18] Axel Küpper Location-Based Services, 1st ed. West Sussex, England:
+Wiley , 2005.
+[19] Ishrat J. Quade, Binghao L , Wendi (Patrick) Peng, Andrew G. Dempster
+Use of Fingerprinting in Wi-Fi Based Outdoor Positioning, 1rd ed. The
+University of New South Wales, Sydney, Australia , 2007.
+[20] Heikki Laitinen, Jaakko Lahteenmäki, Tero Nordström Database Correlation Method for GSM Location , . VTT, FINLAN , 2001.
+[21] John C. Stein Indoor Radio WLAN Performance, PART II. Harris
+Semiconductor, 2401 Palm Bay, Florida 32905.
+[22] K. Pahlavan and P. Krishnamurthy Principles of Wireless Networks
+Prentice Hall PTR, Upper Saddle River, New Jersey, 2002.
+
+8
+
+

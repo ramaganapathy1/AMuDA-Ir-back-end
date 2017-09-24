@@ -1,0 +1,7105 @@
+naturally models
+noisy and redundant
+read by the sensors
+four
+formulated as pattern
+follow the proper
+depends upon the application
+suciently
+ezpass
+auto-id center
+online cleaning of sensor
+library have already tagged
+cidr conference
+collision occurs
+drer model are expressive
+eliminated and consolidated
+made to inadvertently
+uncertain
+tutoral
+missing tuples or correct
+acceptance in a variety
+integrating automatic data
+predicates for correlating
+basic rfid technology
+beliefs about such tuples
+conicting tuples
+order to process
+event by concatenating attributes
+tree of size
+temporal aggregation
+product identication
+technique determines
+behavior depending
+stream-oriented query processing
+determine product
+global integrity
+deferred
+power source
+process of reading
+increasing privacy concerns
+designing
+replaced
+increasing
+purpose of tracking rfid
+reported
+level event probabilities
+granularity
+clean such data
+performed on the number
+mining sensor data locations
+rfid-enabled
+framework for online
+context of rfid data
+problem of event mining
+layer on top
+segments
+traditional warehousing
+pallet
+events by dierent
+unit
+means that all rfids
+constructed at the university
+engine for event
+avoid writing low
+suitable for event processing
+library by patrons
+privacy protection during data
+relax
+brings
+unique location tag
+issues and technical challenges
+underlying data analytics
+locked
+query processing engine
+privacy concerns
+maintained in the case
+set of facts
+familiar with sql-like
+transmitting real-time information
+wang
+critical to design
+kinds of entities
+streams are essentially dropped
+aggregate the item ows
+percom workshop
+core idea of rfid
+warehousing and analyzing
+low energy
+context of a variety
+tag reader to systematically
+krishnaprasad
+recursive traversal nally
+limited life
+abstraction
+range of dierent
+events are aggregated
+interesting challenges
+based on smoothing windows
+intended reader
+types
+considered equivalent
+kind of rfid data
+undesirable situation
+reader signals
+baggage
+dierent input
+updates
+inherently noisy and redundant
+high-level declarative queries
+items in the gid
+attribute known as timestamp
+information in the tag
+data stream processing
+transformation of primitive
+incorrectly assigned
+hierarchy of gids
+exit reading
+resulting in tremendous redundancy
+prevent privacy
+type falls
+rfid technology for enabling
+identiability in a cost
+distinguishing
+entities such as location
+related to commercial entities
+window size
+typical retail application
+correcting rfid anamolies
+represents
+data blocker tags
+eective window size automatically
+people without their knowledge
+note that a polite
+timeout
+operator converts each event
+interesting abstraction
+bridging physical and virtual
+financial
+temperature sensor
+control of the underlying
+singulation
+events from rfid data
+track aquatic animals
+smoothing for unreliable rfid
+high level semantic tables
+urbana
+physical access control
+interesting abstraction levels
+mining massive rfid
+smart
+conventional sensor technology
+incomplete and redundant
+assures
+make the function
+enhance
+sensors
+shelves
+sensors that generate data
+properties that are true
+eavesdroppers
+introduced in mobil stations
+area of concern
+tag is subsequently dead
+carrying tagged
+order to track people
+events could be observed
+subtlety
+malicious purposes
+events for active
+object moving
+service
+similarly
+needed
+event queries
+items which are present
+model is the addition
+operations much more ecient
+signal over a tag
+rfid transponder
+removed from the representation
+tree
+normal function
+sensor data locations
+cleaning method to remove
+readings which are signicant
+records in the table
+real-time connectivity
+employees and workers
+spectrum
+flexible blocker
+redundant because of cross-reads
+two basic categories
+tag is subsequently
+middleware systems
+access the tags
+movements and stays occurring
+concrete
+category and support
+probabilistic data
+sensor data challenges
+mining sensor
+representative sample
+transactions
+object
+errors
+ability to detect
+modied to block
+garnkel
+cleaning may incur
+clean both single-tag
+specied ssc
+tech
+process of rfid
+snapshot by making
+method for event
+incomplete
+incorporate
+formulate containment or observation
+autoid
+probabilistic representations for event
+querying the rfid data
+adaikkalavan
+items with specic identiability
+process rfid data
+responses to location
+goal of tracking
+cryptographic protocols
+cleansing process
+systems using aes
+privacy issues in data
+advantage of this property
+ssc sub-sequence type
+rfid data brings numerous
+move around with tagged
+queried with this approach
+tags also serve
+probabilistic event extractor
+sun java system
+items can be tracked
+sensing using active rfid
+data for the purposes
+objects in a similar
+moved from one location
+release
+additional information
+respond
+mining sensor data international
+livny
+feature values
+result
+fail
+order to transform
+sensors vary from conventional
+ieee security and privacy
+detector continuously monitors
+multiple levels
+order to make key
+tag protocol
+mining and analysis
+algorithms over data streams
+extend
+nature
+dierent product codes
+multiple-tag readings
+receivers and transmitters
+sophisticated tags
+determine the unique
+methods have been designed
+designed for privacy protection
+triggers
+ability to uniquely identify
+conclusions
+privacy issues relate
+logic
+management of data
+arise as a result
+order to respond
+query processing approach
+combinations form the core
+user congured
+unprotected
+form of three dierent
+transmit very long range
+tag at check-out
+sensor location
+extraction
+correct location
+stages traversed
+life
+number of privacy-protection mechanisms
+agrawal
+rfid data is prone
+proposed for resolving
+reading an epc
+active database
+exit sensors
+missed tag
+privacy and security aspects
+embed dynamic encryption
+order to make
+horvitz-thompson
+query the blocker
+security and privacy
+unit cost
+sensor data
+order to transmit signals
+relevant information
+easily queried
+triggers actions which generate
+number of readers
+hong
+ecient warehousing of rfid
+things
+capacity of a room
+split
+fairly
+minimalist cryptography
+inadvertently
+rules which can relax
+cleaned rfid representation
+tags are extremely inexpensive
+read-history
+maximizing
+dynamic relationships occur
+makes them widely
+nature of rfid
+technology also has security
+corporate
+event extraction and data
+location of the tag
+unique match of specied
+primitive rfid
+mining compressed
+approach for detecting
+kinds of semantic
+aspects of rfid technology
+previous
+lowest level of representation
+han
+advancement
+important observation about rfid
+noisy data
+easy
+long range
+typically the anti-collision
+tag or the reader
+rfid chips
+groups of conicting tuples
+radio signals
+approach is designed
+clustered
+unique
+dierent tradeos
+occurring
+cryptographically enabled rfid device
+specic
+scan
+modication
+food items
+rfid sensors
+rfid data management applications
+mis-classication
+source or antenna
+right
+people
+readers which attempt
+jauhari
+trac data sets
+money from the consumers
+return only the epc
+identier for the customer
+data in order
+individuals
+debit the money
+items and individuals
+dierent applications may dene
+querying or analytical
+active set of rfid
+yorks
+queries into the required
+unveils smallest rfid
+sliding window
+delity
+longer updated
+falls
+make rfid tags smarter
+emits
+naturally models the boundaries
+enhance accuracy
+discuss the privacy issues
+tells them the portions
+methods for privacy-preservation
+size is xed
+slightly
+proceedings of workshop
+relational data streams
+implications
+epc becomes a unique
+data ing picked
+things using rfid
+aected by the blocker
+abstractions
+group-wise movements
+support
+handles the negative components
+protected zone
+warehouse of commodity
+threat to privacy
+link between two activities
+product availability
+incorporation
+tradeo between reader
+programmers avoid writing
+full
+radio-frequency
+devices
+considered
+programmers avoid writing low
+kinds of inputs
+unable to access
+khoussainova
+epc readings
+personal privacy during data
+function of an automobile
+false positives
+slightly softer solution
+hanj @ cs.uiuc.edu abstract
+protested
+counts of the individual
+temporal compression
+computer science
+corresponds to temporal data
+approach transform the data
+privacy policies using authorization
+tagged items move
+models
+moved from one place
+read from a distance
+dierent kinds of developments
+additional background
+extremely tiny rfid
+automate the transformation
+similar to olap
+movement and locations
+emit a unique
+order to order
+quantity
+number of accesses
+chain
+entities corresponding to sensor
+absence of additional
+dynamically adjusts the probability
+level event
+reader with a virtual
+level nodes
+query contains the seq
+unveils smallest rfid chip
+level interaction
+tags represents
+choice of window size
+supermarket in a grocery
+representation of the workow
+detect sequential combinations
+choice
+decision support systems
+order of occurrence
+stays
+entity type
+data naturally
+discovered
+underlying application
+database management approach
+kind of temporal data
+tracking point
+saps auto-id
+prevent
+santa clara
+data international acm workshop
+trails
+resulting in tremendous
+labeled with locations
+application containing thousands
+tracking the patterns
+key enabling
+unreliability and tag dynamics
+data with other kinds
+application-independent
+links between dierent data
+current
+bornhovd
+eective window
+axed
+sensor epc
+aggregate the item
+single readings
+represents a string
+low-cost cryptography for privacy
+form a representative sample
+specication and detection
+immobilizer vulnerable
+commonly
+single-tag
+physical and virtual worlds
+high fan in sensor
+last observation
+tasks
+information about a wide
+manufacturer benetton for planning
+tags have larger
+ips
+size of the representation
+multiple-tag
+naturally leads
+positive
+correctness is assigned
+explicitly
+attached to the luggage
+issues which arise
+static or current
+organized
+last location is updated
+oregon
+law enforcement
+virtue
+data processing
+rfid transmission
+tracking of patient
+calmels
+traversal nally
+traditional dare
+values
+kinoshita
+expressive and user-friendly language
+path-independent
+idea of rfid
+curtails the useful insights
+monitoring
+active rfid tags
+parameter
+outperform or complement methods
+concept hierarchy
+mining sensor data user-stated
+applications
+explored
+date
+coupling of basic
+data
+compromising privacy
+natural
+rule-based framework
+tags is exemplied
+aggregated views greatly
+truck
+identify specic information
+likelihood of monitoring peoples
+importance to recent readings
+kernel-based function
+privacy arises
+carries a survey
+years
+design a query processing
+relevant information is represented
+eavesdropper from uniquely
+functionality of rfid tags
+note that the map
+covertly
+ssc
+query can be performed
+extremely noisy
+underlying device
+sequence by applying dierent
+tagged products
+variable costs
+smarter
+records
+higher level semantic event
+assumed that single readings
+objects at that location
+sorted
+tag readings
+maintaining
+multiple scans
+generates state
+tags do not require
+jiawei han
+imein
+re-writable
+properties in order
+percom
+extraction from rfid
+collisions
+avoid writing
+internet
+product type
+shenitzer
+uniquely identify
+possibility
+complicated
+dierent records
+dierent sensor
+issues related
+collection and management
+order to trace
+order to track
+massive
+misused
+window size is increased
+intuition
+location observations and temporal
+saving
+reasonable assumption to make
+clause
+complex event extraction
+higher level nodes
+open
+handled by this pair
+dynamic entity-relation model
+incorrectly assigned location
+event probabilities
+data engineering bulletin
+implementation of the approach
+signicant event
+higher level event probabilities
+event language
+attempt
+nding the relevant paths
+management for pervasive computing
+applications of rfid technology
+impractical
+item present
+healthcare equipments
+addressing
+xed window
+locations
+make it easy
+prexes which correspond
+detection from rfid
+objectlocation
+note
+determine a probability assignment
+sensors transmitting
+low-cost radio
+interesting movements and activities
+data this technique determines
+compress
+ubiquitous manner
+attack
+inserted
+performed on the basis
+discuss the processes
+dead and no longer
+sale
+split into dierent destinations
+managing
+electronic baggage tag
+solution for making
+data aggregation
+two rfid tags transmit
+processing charu c aggarwal
+stream interpolates for lost
+scan the data
+counter-reading
+inconsistent
+passed through a location
+mining compressed commodity workows
+area conditions
+proliferated in recent
+peexl for dening
+basic rfid
+equipped
+relational database
+vary
+tags at dierent
+data warehousing operations
+identify the tags
+data a related
+generate the corresponding data
+developed for preserving
+borriello
+mapping relationships are modeled
+probability assignment
+security and privacy implications
+query execution
+carrying a tag attached
+probability assignment that maximizes
+receivers
+privacy and security issues
+random sample
+event processing ? acm
+mcmanus
+data at the corporate
+order to minimize
+tags on the items
+reader transmits
+order to represent business
+query language in order
+tag is transmitted
+healthcare asset
+personal
+statistical manner
+large amount
+expression
+true about the data
+designed to handle
+data mining
+user-friendly language is required
+solutions using sun java
+designed in order
+sheth
+combined
+aggregated views greatly improve
+higher level semantic
+approach to privacy-friendly tags
+persist
+readings
+complex events
+acquiring
+arises from the eavesdropping
+unique serial
+tag in the form
+tag may incorporate
+engineering
+protection in rfidenabled
+enemy aircrafts
+tag population is cleaned
+situation
+edgepro-053107-wp.pdf
+declarative pattern matching
+expressive and user-friendly
+raw rfid records
+sensor data user-stated
+parameterized predicates for correlating
+handle this issue
+ambient
+kill command
+technology
+binary
+complicated in an application
+encrypt the signals
+fan in sensor
+information can be misused
+incomplete and probabilistic
+two main
+locations for that objects
+rfid
+higher level event
+processing engine for probabilistic
+underlying probability
+tracking
+naturally modeled
+costs
+tag from the unprotected
+end of lost luggage
+approach provides each tag
+movement of wild life
+rfid slowly
+events are also referred
+problems and proposed solutions
+sql-based query
+inventory tracking
+network limitations
+tags transmit distinct signals
+low-cost radio frequency
+method uses a non-linear
+transform the noisy
+automobile immobilizers
+high fan-in architecture
+radio-frequency identication systems
+objects and ambient
+entities which interact
+aspects
+cayuga
+optimization method
+lead to inaccurate
+period
+correlating events via value-bed
+individual to dierent
+basic categories of data
+ambient sound
+world
+event in multiple
+dare
+intel
+processing operations
+exploit
+discarded
+combines a nite automaton
+dynamic relationships
+kind of rfid
+processing over rfid
+actual process of cleaning
+scans correspond
+brings numerous challenges
+combining active databases
+users only have access
+larger window
+dimensions
+developing auto-id
+ssc is to transform
+exit
+records of the fact
+antenna energy analysis
+semantically
+equipped with an onboard
+rfid data one challenge
+technology to such large
+computing as a paradigm
+power
+singulation protocols
+number of methods
+insert missing tuples
+easily be constructed
+handle the detection
+acm
+cross-reads in rfid
+traversal nally reaches
+rfids which start
+absence of a counter
+unique location
+physical access
+assumption to make
+meta-id provided
+analytical methods
+articleview
+rfid middleware design
+carefully assigning prexes
+key real time inferences
+dynamic encryption ability
+tracking of patient medical
+determine the history
+sensed are not done
+content of the tag
+data conclusions and summary
+information about the product
+create query
+complete
+auto-id infrastructure
+based on the last
+terms of aggregated gids
+order to resolve
+cross-reads within a sliding
+underlying tag
+x.id = z.id
+unreliable
+technologies
+set of static
+writing low level interaction
+consumers back account
+algorithm
+unveils
+terms of deciphering
+location information
+traditional data warehousing operations
+memory in the rfid
+techniques may fail
+vehicles
+note that the event
+enabled rfid device
+dierent at dierent times
+facilitate the repairs
+considerations of high
+authorization views
+additional ambiguities
+explored in a principled
+safety in addition
+spatial
+blessing
+sigmod
+international conference on security
+tags to their products
+recorded uniquely
+event specication and detection
+dierent tradeos between false
+absence of stated constraints
+mask
+note that even sensor
+original
+detecting interesting semantic events
+interesting solution
+design a query
+security of rfid
+mhz semi-passive
+services for allowing
+reasoning
+imposing temporal constraints
+window parameter
+white
+object location
+m.-t
+rfid tags also serve
+single generalized
+spatial links
+smaller and cheaper
+corresponds to ship
+management and logistics
+privacy preservation
+table can provide
+overwhelming amount
+multiple sensor readers
+preserving personal
+identifying the tag
+redundancy causes inconsistent readings
+large
+softer
+mitautoidwh014
+small
+low level interaction code
+detect sequential
+lead to slower queries
+level semantic event
+amount of energy
+section
+issues and technical
+sql-based query language
+stubbleeld
+method
+blocker tags exploit
+privacy in the electronic
+installations
+flowcube
+data ticular choice
+sase was proposed
+hours
+information about the type
+pseudonyms
+sensing using active
+prevent privacy attacks
+prior
+dierent individuals
+traditional data warehousing
+social
+system failure
+streamclean approach
+accuracy of rfid data
+epc contains a serial
+journal on selected
+car models have keys
+main drawback of blocker
+archived
+equipments are rfid-tagged
+uniqueness
+automate
+satisfying the integrity
+nonredundant
+rfid objects
+framework for online cleaning
+small number of sensor
+management system
+tags represents a string
+malicious or illegal purposes
+detection can be extremely
+system failures
+correspond to the left
+stated constraints
+formulation of these queries
+rules-based framework
+object participates
+depending upon the problem
+specication are handled
+appliances use the tags
+expression matching
+items are loaded
+applications of rfid
+micro-cluster with the largest
+sense
+experimental trials of tags
+cleaning and compression
+information
+immobilizers
+kohno
+construct in the language
+dierent methods for privacy
+intended
+mapping
+reader is an extremely
+energy analysis
+bought by another customer
+recent readings
+cleaning of massive rfid
+corresponds to an item
+privacy threats
+parameterized
+inactive set of data
+transforms constraints
+nature of rfid data
+patil
+providing privacy
+seemingly inconsistent readings
+radio signal that reads
+locking
+window over the readers
+non-occurrence of primitive rfid
+paper
+powerful antenna
+querying probabilistic
+locking and unlocking mechanism
+speedpass
+categories
+work on temporal
+focussed
+dierent nodes
+baggage tag
+buys
+return information
+matching arbitrary patterns
+apparel manufacturer benetton
+recent years
+designed for event processing
+key trend
+processes experiences with saps
+path stages
+background information in order
+found
+represent these merges
+han university of illinois
+swedberg
+reduce
+survey of rfid
+tags an interesting solution
+streams the discussion
+deterministically
+individual epcs
+operation
+provide a broad
+model for temporal
+variety of rfid data
+activities of a business
+rfid middleware for supporting
+research
+denial of service
+existing work in active
+data user-stated
+correcting rfid
+occurs
+tradeos between false positives
+epc values
+treated as cross-reads
+signal is transmitted
+gids of items
+deferred cleansing method
+sensor data user-stated properties
+floerkemeier
+kind of temporal
+major
+experts
+number
+preservation
+regular sensors
+commonly used operator
+converts each event
+introduction
+object from the rfid
+live and archived
+mining sensor data challenges
+personal choice and exibility
+middleware approach to rfid
+system for integrated
+suitable for event
+technology across dierent domains
+tags can become usable
+relationship
+internet-enabled
+makes the system data
+databases and sensor
+inaccurate inferences
+individual rfid
+stations in the mid-nineties
+referred to as ssc
+xed sensor reader
+determines
+applications has proliferated
+temporally in order
+quantity of the item
+wheelchairs or other medical
+dare warehousing
+code on its tag
+sigmod conference
+rfid tag
+variety of its products
+xed cost
+core of event
+resolving the semantic
+ieee security
+data locations
+singles
+dynamic entity-relation
+location can be specied
+table contains path-independent dimensions
+granularity of one hour
+plan
+spam unauthorized
+model
+found acceptance
+computer and communication security
+deviations
+unequal
+infer which information
+shoes or clothing
+proliferated
+detection of arbitrary
+exhibit a considerable amount
+cleaned data records
+bulletin
+ambiguities
+variety of other methods
+readers at multiple instants
+eventbased dynamic
+comprises cuboids
+security issues
+set of tag
+semantic events based
+activities occurred immediately
+asset management
+branches of the tree
+newer car
+underlying data
+explicit assumption
+variety of other abstractions
+distance
+dependent
+chapter will discuss
+mhz semi-passive tag
+essential in the rfid
+enemy
+sampling methods
+aggregate inferences
+objects or readings
+rfid technology across dierent
+solution is to password-protect
+events via value-bed
+tags to cycle
+set
+seq
+ibm t j watson
+project
+helping programmers avoid
+adaptive rfid
+methods is to reduce
+corresponds to an activity
+exible in dierent scenarios
+radio-frequency identication
+made to inadvertently stall
+captured
+two scans correspond
+variety of data management
+leveraging
+negation operator
+location transformation
+prevents readers from performing
+selectively
+collect and process
+scan and construction
+widely credited with greatly
+kernel density-based probability cleaning
+last
+peoples memory
+important goal of tracking
+acquisition
+evaluation on probabilistic databases
+order to insert
+previous research on complex
+full signal
+order to increase
+requirements and and rfid
+corresponds
+widely credited
+tag from dierent readers
+ambient intelligence
+acceptance
+focussed on querying
+emergency room
+data ltering
+generally formulated as pattern
+seemingly inconsistent
+damage to a product
+representative
+knowledge about tagged objects
+lead to increasing
+infrastructure threats
+resulting
+power source or antenna
+prevents readers
+optimization
+error
+sensors scanning
+levels of path stages
+rfid activity
+cards with rfid chips
+processing approach
+vol
+redundancy because of scans
+indoor location
+aggregation of streams
+middleware layer
+tracking very large
+performed on an epc
+greater threat
+rules
+survey
+augments peoples memory
+levels
+solution which has recently
+recent
+compared to unauthorized readers
+makes
+person
+dynamic bayesian
+tag can be fairly
+explore the full
+perform event detection
+ieee percom workshop
+readers
+enhancing rfid privacy
+active databases and sensor
+maintains the history
+signals
+causing
+location
+input
+back account
+reader at multiple times
+frequency identication
+emergency
+attributes tstart
+emits them sequentially
+track all the dierent
+emergence
+tree-size is too large
+imeout variables are similar
+challenges from the perspective
+internet-enabled web
+methods a number
+flexible blocker tags
+communications
+imposes
+knowledge about tagged
+reduces
+tags are recorded uniquely
+methods
+privacy approaches
+probabilities of dierent input
+track only interesting
+computations at the reader
+dierent objects by formulating
+eavesdropper is dierent
+events which occurred
+closer distance
+abdelzaher
+real-time responses
+behave
+conclusions and summary
+people have access
+rfid data sets
+performed
+create query evaluation plans
+readings which are received
+support this class
+santa
+make higher level query
+control for captured rfid
+commodity workows
+traditional warehousing methods
+logic data
+incomplete and probabilistic information
+level of personal choice
+archived streams of events
+system called probabilistic event
+physical presence
+objects and readers
+declarative sequence-based rules
+primarily
+major healthcare
+observation streams
+span
+spam
+bridging physical
+events by dierent participants
+managing and mining
+irstr03012
+opens
+matching algorithms
+order to mask
+link
+specic cleaning method
+key trend in recent
+line
+social sensing
+considerable
+entry
+readings in rfid streams
+control for captured
+continuously
+link between two
+aboard the ship
+proposes a bayesian inference
+storing
+specication
+static data is related
+dierent method
+addition to the personal
+interesting probabilistic
+rule can be dened
+codes
+rfid systems using aes
+publish systems
+uniquely identifying the tag
+active database management systems
+cryptographic solutions
+events by combining
+selective blocking
+congured rules
+species a set
+radio frequency identication systems
+occurred
+locating a lost
+fishkin
+two rfid tags
+authorized readers to behave
+implies that gid points
+streamclean has been proposed
+consumer
+denition
+data streams in order
+whitepaper
+concerns about the large-scale
+credit-card like payment tokens
+leads to dierent tradeos
+consumer privacy
+application uses declarative sequence-based
+segments with low frequency
+code
+partial
+data monitoring
+considered a kind
+results
+existing
+aquatic
+case of an rfid
+important semantic
+inferences
+rfid data is essentially
+defeat these anti-collision
+relational database management
+send
+dierent data records
+density-based probability
+data streams
+sens
+individual epc values
+java system rd software
+designed to work
+pseudonyms and emits
+embedded sensor
+internet-enabled web services
+mining sensor data conclusions
+viewed at multiple
+transponder directly
+transmission
+enabled rfid
+computer science and engineering
+algorithms require a large
+fewer
+form of a binary
+condence of the dierent
+logistics
+boycott of those products
+rfid infrastructure
+lower levels
+event occurred
+video
+dynamics
+2nd cidr
+group-based
+locations of large volumes
+item was rst moved
+eectively represent
+location static static static
+lee
+dierent operators
+adma
+sequence of occurrence
+including error costs
+location transformation rule
+drawback of blocker
+data cleaning
+involved
+proposes a method
+actual process
+semantic tables
+sensor data for competitors
+allowing the authorized
+defeat
+strong authentication for rfid
+approach then transforms
+maker
+probabilistic events from rfid
+included with the kill
+extremely large
+epc-tagged objects
+section on data
+density will be regarded
+rfid deployments lead
+streamclean requires
+objects and ambient intelligence
+illegal
+interval-based event
+duplicate
+full signal is transmitted
+routinely gather
+containment or observation queries
+stream of event
+privacy challenges
+zimmer
+hard constraint
+infrastructure is embedded
+rfid data cleansing
+carrying
+stream event detection algorithms
+customer
+high
+tags have been designed
+animals
+edge processing
+integrating
+challenge
+rfid constraints
+drill
+ubiquitous sensing
+cs.uiuc.edu
+checks if the temporal
+tags being completely dropped
+process
+business logic
+cycles through a set
+purposes
+window operator imposes
+requires careful
+previous subsections
+massive redundancy
+signal from satellites
+tag cycles
+negation
+passive jamming
+resolve the queries
+animal
+rfid readers typically
+akdere
+cayuga system
+monitoring peoples location
+entity type table attributes
+discusses
+entropy maximization
+addition to time saving
+redundant
+impractical solution in cases
+transmitted by the sensor
+recent systems
+higher level
+move
+missing from the database
+activity are discussed
+specied ssc sub-sequence
+terms of the aggregated
+slightly softer
+similar position
+multiple instants
+communication
+specied window
+ship
+raw rfid data cleaning
+string correspond
+developed a print engine
+captured through epc tag
+minimalist
+background information
+entire tree-size
+enabling ubiquitous
+actions which generate
+data analytics
+subset
+remain silent
+gyllstrom
+event specication in active
+relationships change
+locations are linked
+society
+frequency
+static
+requires careful modication
+ieee internet
+tags smarter
+correcting input data
+integrity constraint
+high-level semantic event
+number of tags
+intended function
+traversed
+event-based dynamic relationships
+identify the tag
+adaptive
+real-time inventory tracking
+interactions
+attach rfid tags
+needed for formulating
+collection
+eavesdropping of reader
+steering
+end of lost
+bai
+detecting important
+obtain competitive
+selective blocking of rfid
+readings are lost
+traverse
+dynamic relationship
+mining in rfid processing
+event detection across distributed
+redundancy in the underlying
+dierent tables
+smaller
+leaves of the tree
+system
+sensors that generate
+web and internet services
+high-performance complex
+composite event
+pervasive
+enforcement
+rivest
+rfid-based infrastructures
+pac policy by designing
+removed from the library
+assumes
+suciently powerful
+counter
+false
+transacted items
+imposing temporal
+collision properties
+usenix
+sensor data this technique
+drer model
+lead to scanned readings
+mechanism
+cleaned rfid
+decisions about access
+accuracy
+readers detection
+prevent undesired scanning
+rst moved
+device
+operator in relational query
+form gigantic
+rfid data streams
+event-based
+fact
+komuro
+entity containment relationships
+dbn
+price-point
+longer period
+fact table
+propagates
+groups of items
+updated frequently
+event detection
+entities
+tape
+product level
+assigned to tuples
+handle
+means
+familiar
+non-linear optimization
+negative components
+applying
+reusable
+acm conference
+aes
+interpolates for lost
+constraints on the underlying
+data ing
+provide a unique
+corresponds to items
+uniquely identiable tags
+middleware design
+sensor network
+emergency room safety
+overwhelming amount of data
+continuously tracked
+analyzing massive rfid data
+intel research
+stream query
+active shelves
+data management and event
+rfid events
+proposed solutions
+follow the proper protocol
+command can be triggered
+asset in real-time
+ecient warehousing
+tag dynamics
+beliefs
+tags are recorded
+streams
+processing with rfid
+rfid-enabled healthcare asset
+pseudonyms rather than emit
+adjusted
+personal choice
+workshop on pervasive rfid
+liabilities with law enforcement
+develops a dynamic
+dierently
+kernel density-based probability
+locking and unlocking
+powered
+trajectory
+smart refrigerator
+consolidated into a single
+everyday life
+single-tag and multiple-tag
+aggregate form as gids
+mobil stations
+event sequence by applying
+larger window size
+ways to make
+middleware layer on top
+rfid processing is related
+dierent products
+scanned
+cleaning for rfid
+widely applicable
+identify a large
+resolve interesting
+hardware
+performing their normal function
+desirable goal
+stay table which essentially
+denial
+unreliability and tag
+typically move
+generalized identiers
+cryptographically enabled rfid
+database management system
+cryptographic protocols for privacy
+semantically cleaner representations
+general goal
+two kinds
+represents a unique
+unreliable rfid data
+operations signicantly
+patterns
+command
+leveraging spatiotemporal
+condence in the entered-room
+set of k pseudonyms
+xed
+correct relevant anamolies
+widespread acceptance
+physical and virtual
+timein and timeout
+items with protected
+scenario arises
+transform business logic
+high-level semantic event discussed
+access control to commercial
+web
+object is included
+wen
+critical ones in rfid
+flowcubes for multi-dimensional analysis
+proposed in a system
+middleware architectures
+increased
+tagged objects and readers
+causing the reader
+processing charu
+password
+tag-presence is continuously
+warehouses can be represented
+pappu
+epc tags
+pseudonyms of the tags
+context of the flowcube
+correlated on the basis
+cryptographic computations
+purposes of privacy protection
+warehousing of rfid
+mhz
+han university
+introduction to rfid technology
+ability to modify
+require an onboard battery
+missed tag readings
+movement trails of rfid
+errors probabilistically using integrity
+shift in how objects
+smoothing window parameter
+journal on selected areas
+memory of objects
+map table links
+merge
+data may be interpreted
+avoid
+selected areas
+security of rfid technology
+cost-conscious cleaning
+rfid sensor
+rfid of the items
+smart technology makes
+hawthorne
+pressure
+transmitters
+group-wise movements for compressing
+adversary
+smoothing lter
+uniform stream-oriented query processing
+basis
+evaluation model
+detection in complex
+software
+compressed probabilistic
+coupling of basic rfid
+conducting experimental
+tuples in a data
+semantic events
+specic order
+peexl language
+event of groups
+signicant
+solutions a possible solution
+edbt conference
+troubling
+introduction rfid technology
+naturally
+function
+rfid data form
+needed for formulating rfid
+vehicle operation
+construction
+semantic event detection
+query processing operations
+sensor computing
+peexl for dening probabilistic
+problem
+implies a hierarchical
+criticized tesco for conducting
+management of rfid data
+collection of rfid
+organization of the underlying
+approach discusses the design
+rfid ecosystem constructed
+primary xed cost
+data is essentially
+levels of the hierarchy
+complement methods
+seq specication are handled
+compared
+variety
+trials
+information and internet-enabled web
+details
+dierent destinations
+research on complex
+commodity owgraphs
+krishnamurthy
+zhou
+small read
+loaded with cases
+rule
+support for rfid data
+privacy and security
+cleaned data
+increase emergency
+consolidated
+scan and construction operators
+desirable
+identier of a xed
+rfid tag readings
+readers to explore
+required low level
+data sets
+absence of prior
+object in the current
+applicable to the data
+integrity
+relationships
+case of data
+order to materialize
+data errors
+tradeos
+lead to additional
+arbitrary event patterns
+perishable
+life span
+summarized
+unlike regular sensors
+tradeos between false
+database management
+survey of rfid data
+variables proposed
+seq construct
+las vegas library
+ches
+global integrity constraints
+follow
+chen
+rfid streams are essentially
+detecting interesting
+measure could correspond
+toll
+tags for consumer privacy
+simultaneously
+auto-id solutions using sun
+considered a prex
+ianywhere
+protection
+tags are active
+obtained
+items
+employees
+security of rfid data
+discuss the process
+wireless and mobile access
+aspects of low-cost radio
+recursively traverse
+principle of maximum entropy
+highly
+information about the activities
+match buer
+negative
+perform the cryptographic computations
+storing the times
+signal which is read
+representations for event extraction
+selected areas in communication
+aware
+interaction
+blocking
+springer
+passive rfid
+work
+two basic
+processing for rfid data
+applicable to dierent problem
+block only those tags
+containment
+accumulation of large
+tags with certain prexes
+rfid data management
+note that privacy issues
+existing work
+activities
+volume of rfid
+typically have very large
+individuals in corporate information
+process of cleaning
+welbourne
+event detection in active
+reduced to two
+provide
+case of data management
+focussed on low level
+cs.uiuc.edu abstract radio frequency
+item being carried
+considerable amount
+vegas library
+interesting challenges for privacy
+multiple readers at multiple
+system are epc-tagged objects
+avoid writing low level
+essentially to determine dierent
+michelakis
+lau
+law
+limited life span
+location sensing
+readers will be treated
+work with extensions
+needed to identify
+readers to behave
+features are added
+green
+presence of an object
+item is loaded
+order
+consent
+control to commercial
+stream interpolates
+x.id
+consent of people
+carrying tagged products
+databases and timing constraints
+multiple tag case
+products can be tracked
+scale applications
+active tags come equipped
+advantages in dierent scenarios
+relationships correspond to sensor
+approach is generally
+information is typically
+medical equipments
+privacy-friendly
+system data
+powered by a sensor
+save space
+cleaning methods
+widely applicable to dierent
+reasonable
+rfid label maker
+schemes
+rfid has been identied
+rfid privacy protection
+epc tag
+owner
+generate data
+inherently noisy
+formal query evaluation
+klabjan
+network
+automated tracking of patient
+slower queries
+protected prexes
+change its behavior depending
+sliding
+lead to challenges
+gidk could correspond
+arises in the context
+reduced to two scans
+micro-cluster
+detecting
+tags have larger ranges
+created
+proposed recently
+encrypted
+four primary
+technology and readers
+generally tried to work
+declarative sequence-based
+electronic
+static entity tables
+critical parameter
+observations
+rfid journal
+associations are typically
+privacy-protection
+commodity workows from massive
+determine events
+alonso
+fan-in and hierarchical
+probabilistic events
+uniform stream-oriented
+soner
+rfid transponder directly
+design
+advances in manufacturing
+item aboard
+level operations
+manner
+stream query language
+variety of rfid queries
+eectively represent these merges
+strength
+processing ? acm pods
+guiasu
+assures complete privacy
+capability to re-encrypt
+forces
+transmit
+correlating
+denition of radio
+readers data stream
+ramachandran
+involving
+consumers
+inferred
+accounted
+data brings numerous
+problems and proposed
+supermarket privacy invasion
+values are assigned
+raw rfid
+keywords
+implementation
+serial information
+jiawei
+rfid queries
+low-cost rfid privacy
+cryptography
+individuals move
+approach is proposed
+protection during data collection
+watson
+captured using rfid technology
+interval-based event specication
+onboard
+store the resulting
+typically active
+recursive traversal
+re-writable memory
+methods should be applied
+relax or restrict
+probabilistically using integrity
+computing requires the coupling
+general methods
+make higher level
+location observation containment
+tags are encrypted
+observed
+analytics
+depends
+discussions
+techniques
+data set
+goal of the cost-sensitive
+automaton execution
+explored by the tree-walking
+equipped with gps receivers
+specic identiability
+terms
+tesco for conducting
+department of computer
+cycle through a set
+order to collect
+tasks such as payment
+liabilities
+privacy aspects of low-cost
+essentially
+credited with greatly
+epc in order
+space
+las vegas
+tagged items
+us.ibm.com jiawei han university
+referred to as complex
+data stream query language
+level query processing operations
+points to gid1
+switch from one pseudonym
+important in the stream
+large number of tags
+generated by a sensor
+data form
+sensing with rfid
+based on smoothing
+flexible
+rfid warehouse in terms
+imein and t imeout
+pattern mining over event
+dierent sensors scanning
+large amount of energy
+relevant to the rfid
+path segments with low
+eective for regular
+attacker
+sorted temporally
+eective methods
+proper protocol
+applied
+bayesian network
+save
+static static static dyn
+protection of library
+usa charu
+listening to the signals
+absence of additional knowledge
+property
+tags are equipped
+storage sharing
+sequence-based rules in order
+major movements and trends
+entity-relation
+dicult
+event < event
+built on top
+impractical for consumers
+type table attributes
+minimize the costs
+perform
+right branch
+tags an interesting
+approach to rfid
+maximizes entropy
+event seq
+viewed
+case of rfid
+incorrectly
+widom
+hanj
+readers placed in multiple
+cross-reads
+hand
+96-bit
+purposes of tracking
+developments suggest the continuing
+transformation of simpler events
+scenario
+attempt to surreptitiously scan
+rules correspond
+construct turns
+storage and querying
+engineering bulletin
+easily
+hierarchy works
+epc
+typically powered
+sensor reader
+recent method
+stripped down version
+poses
+security-protection methods a number
+cost-conscious
+policy provides a database
+passive
+usable
+consumers knowledge
+tag can be modied
+successfully with rfid
+abstraction levels
+cards with rfid
+rfid privacy workshop
+temporally
+management in previous
+data cleaning and compression
+defeat these anti-collision protocols
+class of queries
+security
+sends
+supported by the drer
+rfid data stream
+relational query
+closer readers
+maximizes entropy while satisfying
+cryptographic hardware and embedded
+radio frequency identication
+extend an sql-based
+picked up by satellite
+passing through that point
+opt-out mechanisms
+predicates for correlating events
+tag reader
+workshop on data
+ambiguity in the cleaning
+peex
+binomial
+data makes
+authentication for rfid systems
+levels by changing
+obj
+cleaning and determination
+hipac project
+technologies towards this trend
+considerations
+containment or observation
+multiple readers
+z.id
+proposes a formal
+models and algorithms
+rfid object tracking
+store the resulting information
+items may split
+rarely occurring cells
+compression
+middleware design addressing application
+rfid implementation challenges persist
+privacypreservation
+approach at all levels
+condence tables in order
+ubiquitous sensing with rfid
+war
+lowest
+observations and temporal
+kinds of liabilities
+reasoning rules
+encoded
+technology is highly
+true
+reset
+maximum
+construction are technically dierent
+information week
+locate any asset
+8-bit
+emit
+detection of arbitrary event
+provide a broad overview
+metaphysical
+abstract
+choice of window
+dierent kind of rfid
+active database management
+physical
+encrypt
+assignment that maximizes entropy
+interested
+processing is related
+wide range of sql
+high fan
+locating a lost pet
+input tuples
+range of sql queries
+polite
+streamclean
+privacy issues for rfid
+locations can be sorted
+system can translate
+active by default
+concept
+allowed
+global
+explicit probability
+scan dierent pseudonyms
+urbana-champaign urbana
+integrated management
+event processing over rfid
+challenges persist
+zone
+readers vulnerable to partial
+relationships are dynamic
+brown
+supported
+seemingly
+fraction of the readings
+sensing into rfid technology
+addressed the privacy
+turns
+primitive rfid events
+occurred immediately
+suitable to the rfid
+tag depends
+designed to increase
+vulnerable to attack
+cost
+key is to identify
+data between the dierent
+readings and stored data
+curse
+order to enhance
+uniform
+sequential
+dierent readers
+relational
+raymer
+supporting
+method to construct
+epc tags interact
+maintaining the object location
+method to remove cross-reads
+nally reaches the leaves
+cleaning process
+nodes of the network
+change
+incoming
+discusses the smart refrigerator
+franklin
+interesting solution for making
+dierent kinds of liabilities
+single generalized identier
+poses numerous
+inference
+composite events for active
+dierence between the rst
+management applications
+language is a declarative
+process of rfid data
+rarely
+mobil
+manufacturing
+association of people
+rfid data contains two
+live
+lter each event sequence
+cryptographically
+data management
+tag at the point
+items bought
+consumer on their person
+introduction rfid
+ibm
+kdd conference
+car
+eavesdropper
+y.id x.id
+protects
+data errors probabilistically
+entry is created
+chip
+incorporate sensing
+uniqueness of identication code
+international workshop
+clothing
+occur
+redundancy
+consumers to manage
+nature of such applications
+discussion
+categories of data
+write
+warehousing techniques may fail
+readability of the signal
+semantic subtlety of negation
+work in active
+product
+management and event
+unobtrusive
+full tree of size
+user-stated
+produce
+recursive
+sensor reading
+tags for event processing
+explicit
+sets has been proposed
+discuss the privacy
+species
+balazinska
+aggregated gids of items
+typical
+garofalakis
+tagged
+shelf reading
+ended
+table attributes sensor
+low level
+statistical
+texas instrumentss speedpass
+streamclean approach transform
+ieee
+data acquisition with business
+gids in the data
+vicinity
+window
+ieee journal on selected
+implanted with rfid tags
+earliest discussions
+embed dynamic
+table carries a survey
+discuss
+techniques are quite eective
+making it dicult
+lineage
+dierent kinds of semantic
+table which form
+volume of rfid tags
+domain
+tuples are independent
+langheinrich
+simplicity
+tesco for conducting experimental
+rfid items
+volumes of data
+static static dyn
+owgraph
+automobile immobilizer vulnerable
+monitors
+random sample of tags
+shown
+reducing
+order to save
+increase
+purposes of mining
+luggage ? rfid
+shows
+database view which augments
+advantages
+event specication
+dbn-based cleaning
+tuples into constraints
+tree is explored
+location tables
+emit a unique serial
+rfid location
+experts can locate
+occurring cells
+perspective of mining
+makes the observation
+mechanism for the tags
+containment relationships
+variables
+incorporate a temperature
+processing with rfid data
+vary from conventional
+cryptographically enabled
+directly
+comprises
+tables supported
+makes the process
+size
+rfid activity are discussed
+checked
+silent
+aggregate queries
+traverse the entire tree
+level interaction code
+authorized
+location independent information
+probability cleaning method
+eliminated
+semantics
+store without being checked
+removed from the bag
+broad overview
+accesses
+prexes to dierent products
+virtual worlds
+soft constraints
+competitive information about customer
+softer solution
+dynamically
+systematically explore
+pervasive computing
+yorks ezpass
+simple privacy concerns
+advantages in dierent
+reaches the leaves
+purposes in order
+pipelined framework for online
+improve the eciency
+online
+objective
+handles the negative
+object locations change
+fewer opportunities
+approach to privacy-friendly
+reduce the redundancy
+inactive set
+protected or blocked
+traditional database
+successive
+tstart and tend attributes
+arise both during data
+workers is often managed
+timein and timeout information
+lead to increasing privacy
+life spans
+typically
+automated tracking
+formal
+explored by the reader
+found widespread
+system starts from pac
+technological advances
+streams of events
+numerous challenges
+algorithms over data
+key enabling technologies
+deployments
+essence
+data engineering for wireless
+event language peexl
+method for matching
+data international acm
+aggregate these probabilities
+trend in recent
+mapping table can provide
+constructed for large scale
+designed the kill command
+data associated with rfid
+physically
+directly relate
+conventional sensor
+problem domains
+technology makes
+actively
+k-anonymity
+knowledge or consent
+concern
+traditional data warehousing techniques
+integrity constraint provided
+car parked
+sensor systems
+explicitly disables
+uniquely identiable
+axed to a tracked
+data one challenge
+auto-id
+rst corresponds
+wolkerstorfer
+set of cleaning
+returns for the underlying
+natural access control policy
+enabling
+unique identier
+addition to location
+sensor readings are lost
+overview
+deferred approach for detecting
+privacy aspects
+tag at dierent times
+pallet may be loaded
+jiawei han university
+routinely gather information
+carey
+event extractor
+covert
+technical
+combines ltering
+discuss in some detail
+modication of the underlying
+system known as lahar
+privacy during data
+language
+aected
+enabling ubiquitous sensing
+buer
+developing
+method for cost-conscious cleaning
+signicantly reduce
+cost-eective way with rfid
+prevents the eavesdropper
+health-care
+processing in uncertain
+relevant position
+mathematical intelligence
+methods for event detection
+dening
+oregon public library
+chapter will provide
+data also makes
+associations are often built
+idea is that blocker
+document
+hellerstein
+lter for raw rfid
+protocols for privacy
+real-time connectivity and tracking
+exhibit a considerable
+attributes
+arise from the data
+positives and false negatives
+java system
+location independent
+tags are uniquely
+ccs
+identifying rfid-embedded
+paths of items
+query the blocker tags
+technology is a recent
+emit a signal
+transmitting
+tag to detect
+perform event
+streamclean requires the specication
+energy consumption perspective
+issues related to privacy
+interesting probabilistic event processing
+relevant
+methods for event
+rfid data naturally
+kinds of sensor
+euros
+hardware and software
+management in previous subsections
+objectlocation and observation
+real
+manage meta-identiers
+aipperspach
+read
+out of the store
+bayesian inference
+massive nature
+value constraints
+identiable by readers
+listening
+detector continuously
+emit the same identication
+execution
+product and carries
+data denial of service
+xed sensor
+group-wise
+observed by that user
+split or merge
+unlocked
+recorded
+utility beyond the point
+makes the tag
+edbt
+cleansed
+device-independent
+business
+transmit very long
+equivalent
+relationship between a set
+computing requires
+world war
+rfid data arise
+rdbms
+operations can be performed
+greatly
+signicant deviations
+information to release
+inferred and aggregated
+precise formulation
+mechanisms rely
+operator
+formulating rfid location tracking
+real-time information and internet-enabled
+objects being tracked
+area
+assumed
+technique maintains
+data management for pervasive
+start
+unreliability
+low
+liang
+report mitautoidwh014
+polite blocking protocol
+placing sensor readers
+decision support
+introduction to rfid
+databases and timing
+similarly criticized tesco
+based on application-specic criteria
+control to commercial buildings
+level query processing
+fraud
+embedded
+default
+legitimate readers
+addition temporal
+mobile or stationary
+extremely tiny fraction
+query evaluation
+careful modication
+moved
+process rfid
+provide a very ecient
+methods do not properly
+pay-at-pump
+antenna
+middleware approach
+storage
+rfid tag may incorporate
+entity tables
+system to a variety
+plan-based
+conference on computer
+smoothing lter for raw
+purpose of blocking
+containment tables
+watson research center
+command for the purposes
+probability random sample
+idea of rfid technology
+modication of the reader-tag
+building
+acm workshop on data
+dbn-based
+level cleaning
+represents the percentage
+deployments lead
+dierent participants
+university of washington
+semantic
+meeting events
+lter each event
+compared to the number
+recognized in sensor computing
+event processing for rfid
+scans the rst bit
+aggarwal ibm
+table which contains location
+scan the tag
+prior beliefs
+scheme provides additional
+nodes
+mid-nineties
+acm sigmod conference
+prior knowledge
+observation about rfid
+rfid representation
+large volumes of items
+preserving personal privacy
+warehousing has been discussed
+probabilistic streams
+characteristic of this approach
+sql-based
+enhancement
+research survey
+redundancy for rfid
+individuals carrying tagged
+expressive publish
+makes the approach
+cleansing method
+typically have a limited
+system starts
+communication security
+archived streams
+modify
+business processes
+i.e
+fan-in
+expected cleaning
+lead to scanned
+rst and last
+readers detection range
+deferred approach
+amount
+issues in data management
+major movements
+map table
+work develops
+uniquely
+ecosystem constructed
+number of privacy
+analyzing
+data furnace project
+information needed
+dates back to world
+conventional
+takes
+fujimura
+probabilities
+occurrence or non-occurrence
+preferences without their knowledge
+data introduction
+authorization
+protection or for malicious
+electronic baggage
+model for temporal management
+host of other advances
+paradigm shift
+recent approach
+mounted
+event processing with rfid
+edakkunni
+ship can be reduced
+rfid technology and readers
+smurf
+mining over event
+extraction from rfid data
+specied
+boycott
+analysis
+lacks
+attributes of the objectlocation
+data introduction rfid
+aspects of low-cost
+variables are similar
+centimeters
+location for items
+sequentially
+threat
+workshop on pervasive
+security in pervasive
+considerations of high fan-in
+derived
+method which dynamically
+invasion
+language for event
+payment system
+relationships occur
+measure of each cell
+kinds of semantic events
+loaded on the ship
+missed readings
+hierarchy
+computing applications
+document tracking
+path segments
+declarative methods
+levels of the tree
+expressive publish systems
+security aspects
+principles of the pac
+removed from the vicinity
+protect their privacy
+pair of constructs
+absence
+rfid device
+systems
+attacker is aware
+accepted principle
+food
+burkhart
+security in communication networks
+developing auto-id solutions
+corporate information
+protection of library rfid
+tags for scanning
+condence tables
+attacks
+infer
+capability
+han_mmrfid
+event streams
+number of cryptographic
+information about the constraints
+referred
+unique product identication
+ifip
+consent of people carrying
+order to perform
+event
+perform the cryptographic
+publish
+ecommerce
+auto-id solutions
+safety
+usa hanj @ cs.uiuc.edu
+issue
+original specication
+existing languages
+declarative support
+pods conference
+earliest
+architectures
+probability
+technical challenges
+rfid records
+rfid scenario
+tags being scanned
+data collection and management
+occurrence
+greatly reducing auto
+sensor stream event
+aggregation of paths
+customer preferences
+respond to queries
+pet owner information
+scheme
+rfid processing
+implies a hierarchical relationship
+transmitters which are mounted
+technique maintains the history
+business logic data
+grocery
+probabilistic event extraction
+store
+discuss the processes involved
+requires the coupling
+event processing
+immerman
+subtree
+meta-id
+tags are typically
+designing a rule-based system
+ship from one port
+vulnerable
+privacy attacks
+lin
+rfid has increasingly
+liu
+bayesian inference framework
+identied as a key
+recursively
+end of the electromagnetic
+blessing and a curse
+application domain
+object in cases
+determines the most eective
+experiences
+position
+mobile
+tag-presence based
+clear
+process application-independent
+information needed for formulating
+clean
+planning to attach rfid
+single movement
+items were read
+users are often interested
+approach is also designed
+gigantic commodity owgraphs
+per-tuple mis-classication
+access the counts
+soft blocking
+low level operations
+sequence-based rules
+scan for tags
+cryptography for rfid
+disables the tag
+tags smaller
+colby
+subsection
+recent sensor
+proximity
+view which augments peoples
+wagner
+streamclean method
+remove cross-reads in rfid
+caspian similarly
+combinations
+data within a sliding
+querying
+ubiquitous computing
+reader unreliability
+entire purpose
+choice and exibility
+underlying
+scanning
+analyzing massive rfid
+rfid tags for consumer
+data with traditional
+cryptographic approach to privacy-friendly
+sensor data blocker tags
+increase the privacy
+tolls
+low level cleaning
+conditions
+declarative pattern
+data can arise
+rfid readers
+engine for probabilistic event
+probability cleaning
+aggregated gids
+compressed records
+embed dynamic encryption ability
+items which move
+lost readings
+level information
+identify specic
+sensitive
+method for matching arbitrary
+experimental
+amount of background
+large-scale
+probabilistic workow are provided
+ending time-stamp
+managing rfid
+data querying or analytical
+proliferated in recent years
+stamp
+sequential combinations form
+achieved by performing
+declarative queries over relational
+collected
+read ranges
+focussed on querying probabilistic
+challenges in data
+levels of path
+strategic locations
+density-based probability cleaning
+conjunction with a battery
+engine for event extraction
+assigning
+components of the seq
+parts of the information
+counts the algorithm
+radio frequency
+benetton for planning
+international acm
+match
+updated to the current
+design of an inference
+sensor object location
+canard
+variety of infrastructure
+reads
+management and event processing
+springer verlag
+occurrence of a higher
+made more dicult
+tag from dierent
+reiss
+signicantly
+pertec07
+privacy and security-protection methods
+carried by a consumer
+amount of data
+cleaning
+choice of the tag
+rarely occurring
+meta-tag
+information systems
+control policy
+database
+readers placed at dierent
+data form gigantic commodity
+location tracking
+inventory management
+constructing rfid flowcubes
+powering
+leads to a number
+objects uniquely
+cleaning method
+sequence by applying
+data streams the discussion
+captured through epc
+correlation and transformation
+meta-identiers
+formulating queries which examine
+typically more expensive
+path stages traversed
+useless
+march
+complex rfid scenarios
+number of objects uniquely
+damage
+control have been developed
+signal
+events of rfid
+important observation
+history
+static and dynamic
+tagged every book
+popular
+tag powered
+two
+mathematical
+caspian
+aggregate form
+trends
+items which passed
+spam unauthorized readers
+sequence of cleaning
+rfid data cleaning
+two activities
+recursively traverse the portion
+model are expressive
+garage
+web services
+maximize the accuracy
+j.-g
+transactions between dierent individuals
+tags could be locked
+constraints in order
+processing
+step
+negatives
+hierarchically
+friendly and enemy
+hardware and embedded systems
+privacy via antenna energy
+ids
+block
+building the internet
+pervasive computing applications
+aggarwal
+rfid system
+research on complex event
+room safety
+minimum time granularity
+entity containment relationships change
+observation that the legitimate
+data is inherently noisy
+protested against apparel manufacturer
+manufacture
+generates state history
+specic measures
+longer updated frequently
+properly
+ecient pattern
+newer
+normal function by jamming
+tags to be read
+icde
+cikm
+entire process
+change in the encrypted
+readwriteweb
+smoothing for unreliable
+similar
+auto theft
+stream-oriented query
+design addressing
+network to a remote
+design of the tag
+number of sensor readers
+processing system
+application
+department
+minimalist cryptography for rfid
+access of the vehicle
+method estimates the density
+input data errors
+event sequence
+found widespread acceptance
+line of sight
+items in a cost
+long range signals
+identiability
+cryptographic
+correlated
+false positives and false
+detecting important semantic
+resolving
+depth
+form gigantic commodity
+translate the queries
+requires
+low-cost radio frequency identication
+tremendous costs
+horvitz-thompson estimators
+unique meta-information
+vldb
+patient medical
+bit of the tags
+streams from dierent nodes
+applications is a desirable
+transacted
+amount of redundancy
+dierent types
+reader fails
+addressed by enhancement
+tree-size
+friendly
+detects a shelf
+subtlety of negation
+event by concatenating
+typically stolen through eavesdropping
+unique product
+onboard battery
+processing for rfid
+dierent objects
+olap
+conference on smart objects
+readings such as ambient
+anti-collision
+y.id
+picked
+increasingly found
+tree which is explored
+reader end
+technology in a variety
+polite to the reader
+outperform or complement
+cell
+collision properties of rfid
+collins
+binary tree
+correct conicting tuples
+make rfid
+discusses the smart
+data contains two
+commercial
+transform a stream
+mayjune
+scheme provides additional protection
+delity of the captured
+note that this approach
+technology and applications
+timing constraints
+manage
+clara
+gehani
+tags are uniquely identiable
+object location tables
+introduced in mobil
+distributed sources
+data management of rfid
+consignments
+zaniolo
+warehousing and analyzing massive
+detecting interesting semantic
+meeting event
+vehicle
+item in the form
+developments suggest
+discusses a high
+path database
+started
+comparing the objects
+icde conference
+event queries on correlated
+dierent key
+encoded tag
+failures can also lead
+ecient cleaning
+combinations of basic events
+links
+treating the binary
+uniqueness of identication
+algorithms require
+underlying sensor network
+support aggregate queries
+portions of the tree
+including error
+location sensing using active
+essentially a dynamic bayesian
+redundancy of dierent types
+kernel density-based
+real-time streaming scenarios
+represents a unique match
+event processing system
+introduced
+computations
+cleaning performs
+healthcare
+data has been captured
+require a large
+health-care experts can locate
+stored in terms
+two readings
+obtain competitive information
+temporal
+form in order
+handled by the sequence
+auto
+constructing rfid
+battery for tracking
+relational data
+privacy attacks by eavesdropping
+tree-walking protocol
+cs.uiuc.edu abstract
+university
+formal query
+cleaning of rfid data
+developed an extremely tiny
+passive force sensor
+extremely tiny
+model comprises
+map
+system rd software
+system for integrated management
+activities on the item
+workshop on data engineering
+sequence scan
+unveils rfid label
+maximizes
+aspects of rfid
+inference engine for event
+movements and trends
+rfid data analytics
+performing simultaneous aggregation
+high-performance
+query evaluation on probabilistic
+reader-tag
+perform its intended
+center designed
+reader fails to perform
+completely
+high-level semantic
+likelihood of monitoring
+arbitrary patterns in data
+times
+rfidenabled banknotes
+process is also designed
+require an onboard
+number of sensor
+data management and warehousing
+objects are tracked
+queries for event
+databases as discussed
+recently been proposed
+management
+privacy
+force in this direction
+data becomes inactive
+security threat
+attach
+library rfid activity
+dynamic tables
+areas in communication
+prone
+generates events
+state-based
+state-based dynamic relationships
+rst
+multi-level database
+traditional er model
+querying probabilistic representations
+low energy requirements
+movement of products
+proceedings of ifip carids
+personal and ubiquitous computing
+data engineering
+tags being completely
+readers from performing
+providing
+tags to remain silent
+distinguished
+cost-eectiveness of the tag
+exhibit
+cleaning of sensor data
+rst and last moment
+make careful decisions
+number of reasoning rules
+obtained from the objectlocation
+events to be discovered
+denial of service attack
+variable
+queries over relational data
+data storage and querying
+readers and millions
+commodity flows
+instance
+order to eectively represent
+detector
+event extraction from rfid
+basic constructs
+expired
+plan-based complex
+children of the epc
+consequences
+methods proposed
+tag-presence is continuously adjusted
+arbitrary event
+proceedings
+level events of rfid
+detect the strength
+databases
+meta-information in the tag
+spatiotemporal
+covert readers
+data brings numerous challenges
+matching arbitrary
+indoor
+rfid privacy approaches
+parked
+telling
+high-level
+based
+correspond to sensor
+set of epc
+operator in relational
+slower queries and updates
+kind of meta-tag
+developments also suggest
+joint
+legitimate
+joins
+entity
+manufacturer information
+portion
+processes
+formulating rfid location
+places
+tiny fraction
+mobide06
+ecosystem
+process which is referred
+malicious or illegal
+reusable electronic
+sequence scan and construction
+locations and durations
+rfid middleware systems
+underlying device fails
+computer
+tracked by sensor
+pattern matches
+undesired scanning
+missing
+tend
+state
+referred to as physical
+number of objects
+relationships correspond
+importance
+items such as shoes
+increase emergency room safety
+key
+evaluation on probabilistic
+photocopier paper
+database management systems
+components of a seq
+intended reader fails
+rfid privacy
+mining sensor data ticular
+principled and statistical
+maximize
+szydlo
+blocker tags an interesting
+item corresponds to ship
+re-encrypt
+mining massive
+troubling aspect
+typically have a small
+pin
+semantics of complex
+addition
+liabilities with law
+sensor readings and stored
+information about the items
+slowly
+majority of the data
+data management applications
+sensor infrastructure
+diversity
+leveraging spatiotemporal redundancy
+blockers in order
+tag over a longer
+policy
+sensed
+covertly track people
+representations of the underlying
+contexts
+tag population
+readers at particular locations
+experimental trials
+readers typically use anti-collision
+inexpensive tags is exemplied
+haller
+order to improve accuracy
+unreliable rfid
+kinds of compression
+product category and support
+cleaning of rfid
+reader in order
+item was removed
+aggregated in order
+ing
+buildings and installations
+inference framework
+matches
+parts
+work in active databases
+sun java
+lead to additional ambiguities
+continuously adjusted
+level of granularity
+passive rfid tags
+changing the abstraction
+privacy-preserving data
+frequently
+transaction
+tend variables proposed
+modeled
+user-friendly language
+dening probabilistic
+system poses numerous
+user-friendly
+interesting semantic
+increasingly
+order to improve
+sase language
+sources
+sub-sequence type
+dierent kinds of inputs
+dierent times
+querying the rfid
+lead to missed readings
+density
+equipped with gps
+work proposes a formal
+battery
+passive force
+university of illinois
+replaced by a single
+privacy issues which arise
+number of cryptographic protocols
+addressed the privacy issues
+language is required
+idea in streamclean
+detection across distributed
+access to data
+survey of rfid privacy
+kinds of dynamic data
+immediately
+illegal purposes
+real-time streaming
+lost
+sizes
+alternatively
+pervasive healthcare applications
+static dyn
+shen
+miniaturization of rfid
+library
+challenges for privacy
+eventbased dynamic relationship
+broad
+hardware or software
+cross-reads from multiple sensor
+ability to query dierent
+limitations
+inaccurate
+journal
+rfid mining
+small number
+construct detects a shelf
+section on data management
+recognized
+lead to a number
+queries on this category
+lahar
+sensor data ticular choice
+previously
+analysis of commodity flows
+tracking of information
+washington
+location static
+video of tutoral lecture
+formulate containment
+utility
+operator imposes the constraint
+items which moved
+additional
+traversed by each item
+noticed
+large to be explored
+luggage management
+data into user
+normal operation
+high fan-in
+rizvi
+node in the tree
+hierarchical
+gain
+cells
+concrete probabilistic
+represent the rfid warehouse
+operators for stream processing
+containment obj
+variety of ways
+objects is continuously tracked
+kind of passive
+unique match
+queries are required
+number of rules
+requires the specication
+specic information
+composite events
+jamming
+entered-room events
+track items
+gonzalez
+queries is provided
+context of rfid
+error costs
+acm pods
+reducing lost
+stay
+high-level declarative
+m.-t sun
+kinds of developments
+referred to as selective
+system poses
+natural access
+tag may respond
+number and the date
+security and privacy aspects
+determination
+lead to a overwhelming
+takes advantage
+dynamic
+deviations from the trend
+exemplied
+minimize the expected cleaning
+formal query evaluation model
+riedewald
+locations may change
+cost-sensitive approach
+real time nature
+goal of tracking rfid
+detection for active databases
+four primary kinds
+corresponds to temporal
+updated
+library rfid
+leads to a high
+large number of items
+objects is continuously
+implementation challenges persist
+scanning signal
+track only interesting movements
+make rfid tags
+temporal management
+energy requirements
+branch of the tree
+window size automatically
+x.id = y.id x.id
+solution
+system is built
+entropy
+cleansed and compressed records
+transform the noisy rfid
+force
+challenge from an energy
+movements and activities
+incoming tag
+implemented
+product category
+preferences
+privacy in rfid systems
+information in the tags
+nding
+public library
+objects by formulating
+drer
+active
+unlike regular
+involved in the storage
+links together the dierent
+blocker tag takes
+high level
+data querying
+takes for the tag
+active acquisition
+suitable
+state-based dynamic
+extremely challenging
+clara city
+event detection from rfid
+undesirable
+approach can outperform
+discusses the design
+rfid ecosystem
+massive streams
+discusses issues related
+redundancy causes inconsistent
+blocked from scanning
+onboard sensors that generate
+type
+rfid object tracking queries
+addressing application
+subsequence of the original
+composite
+expose
+acquisition with business
+blocking of rfid
+thousands of readers
+table attributes sensor object
+entity-relation model
+room
+cost-sensitive
+combining active
+root
+higher level query
+tags in order
+relationships such as containment
+assigning prexes to dierent
+match of specied ssc
+sensor readers
+epc of the truck
+tree which is relevant
+molnar
+compressing the data
+set of objects
+method to remove
+aboard
+purposes of corporate
+szydylo
+method for cost-conscious
+rfid data also makes
+level of personal
+performing simultaneous
+rfid location tracking queries
+overlap between their tstart
+underlying sensor
+costs of this system
+tags interact
+additional background information
+operate
+opt-out
+low-cost cryptography
+operations
+declarative language
+technological advances in manufacturing
+possibility of soft
+typically not broken
+dicult to read tags
+eavesdropping
+advances in embedded sensor
+extracting probabilistic events
+key and write
+limitations of the underlying
+authenticated by the steering
+tag has fewer
+kriplean
+combination
+attributes sensor object
+process of warehousing
+modeling the dynamic
+moved out
+incorporate a temperature sensor
+bono
+data ltering rule
+dierent parts
+ecient
+generalized identier
+principles
+modify the data
+data at the server
+principled
+entered-room
+support a wide range
+personal privacy
+smarter for the purposes
+small read range
+content
+problem domain
+reader
+lead to a boycott
+specic cleaning
+aware of the method
+costs are specied
+rfid event processing
+exibility in the functionality
+formulating queries
+entered-room events by dierent
+starts
+rfid anamolies
+paths to all interesting
+eciency of data
+gigantic commodity
+user
+features
+hoshino
+rfid-tagged
+data can lead
+order to handle
+perishable goods
+schaper
+design addressing application
+work eectively
+fan-in systems
+occurring in a single
+declarative support for rfid
+starting time stamp
+control the access
+curtails
+context of a wide
+events in active
+tokens
+payment tokens
+variety of data
+sequential combinations of basic
+variety of sql
+goal of these methods
+data collection
+order to learn
+enabled
+trend in recent years
+represent business transactions
+olap operations
+discusses methods for event
+extracting
+function by jamming
+individuals carrying
+leads to massive
+events on the edge
+commercial buildings and installations
+operator handles
+extremely tiny rfid tag
+jerey
+true for items
+tells
+satisfying the integrity constraints
+expressive
+method for event processing
+detecting and correcting
+large fraction
+memo
+regular
+gain access
+redundancy of the representation
+executed at the point
+broadcast
+observation
+challenge with managing
+medical
+competitors
+points
+principle
+tatbul
+expressing privacy policies
+research center
+product identication code
+supply chain
+detection in active databases
+ending
+unique product identication code
+expired food
+nevada
+kernel-based
+unnecessarily curtails
+active data
+temporal joins
+sensor data ing picked
+dierent sensors
+cleansing method for rfid
+probabilistic event processing
+anti-collision protocols
+data into an active
+back to world
+competitive
+pallets
+flowcubes
+equipped with a suciently
+rfid readings as unequal
+per-tuple cleaning costs
+items which typically
+bag
+inactive
+architecture
+partitions the data
+event detection in complex
+workshop on cryptographic hardware
+zones
+set of cleaning methods
+tags smaller and cheaper
+tree-walking algorithm
+item corresponds
+rfid tags
+reusable electronic baggage tag
+back to world war
+medical equipments are rfid-tagged
+regular expression matching
+upfront
+modeling
+eective cleaning
+specied in the rfid
+vulnerable to partial
+privacy of a user
+uncertainty
+introduces a deferred
+warehousing operations
+views rfid
+readers data stream interpolates
+note that in order
+events based
+path
+cuboids
+loaded
+leads to dierent
+process complex events
+xed sensor readers
+tiny
+basic
+exhibits a considerable amount
+survey from the data-centric
+ips journal
+virtual location
+inferred merely by listening
+entropy while satisfying
+shoplifting event
+single tag case
+transformation
+ieee internet computing
+conducting experimental trials
+attributes sensor
+propagates as events
+main kinds
+system are not random
+seattle
+x.id = y.id
+data was proposed
+event discussed
+types of products
+make
+real-time responses to location
+approach makes
+query processing
+data upfront
+zebra unveils rfid label
+declarative
+kim
+potentials
+events and state
+illinois at urbana-champaign urbana
+percom workshop on pervasive
+treating the binary code
+practices
+charu @ us.ibm.com
+paradigm
+simple privacy
+left
+set of rfid data
+protocol
+perform such an encryption
+assigned
+data and knowledge
+identify
+transforms
+engine for probabilistic
+facts
+middleware for supporting metaphysical
+unauthorized readers
+allowing ubiquitous tracking
+rst corresponds to instance
+regarded
+longer emits the epc
+tuples
+observation queries
+missing objects
+processes experiences
+prior knowledge about tagged
+active databases
+background
+dierent kind
+support aggregate
+acm cikm
+generated
+thakkar
+number of threats
+performing
+recognized in sensor
+performing their normal
+added by the work
+attributes are summarized
+mining over event streams
+dead
+started and ended
+semantic tables discussed
+mining and processing techniques
+preservation both during data
+large volume of rfid
+tracked
+electromagnetic
+designed towards modeling
+semantic event
+imeout
+make in the absence
+information is stored
+hierarchy on which olap
+technology is highly dependent
+compress and clean
+starts at the root
+automatically
+acm sigmod
+enabling such ubiquitous computing
+distinguished from a similar
+presence of the tstart
+cikm conference
+events from rfid
+shmueli
+scan items
+fraction
+dynamic bayesian network
+rfid into the high
+condence in the meeting
+object location observation containment
+containment of objects
+form
+large volumes of data
+fact that the eavesdroppers
+event mining
+failure
+levels contain the cleansed
+observation patterns
+inadvertently stall
+detecting and correcting rfid
+streaming
+prevents
+attached
+ifip carids
+gould
+stages
+santa clara city library
+privacy protection in rfidenabled
+low level interaction
+issues of the collected
+work develops a dynamic
+application requirements
+generally
+sample of tags
+warehouse
+raw rfid data
+rfid implementation
+generate data dynamically
+determine product availability
+vicinity of the blocker
+context of an rfid
+carefully assigning
+unlocking
+made the tags
+middleware for supporting
+rfid-embedded
+dierent at dierent
+level semantic tables
+daily
+security in pervasive computing
+sequence to a composite
+code from the tag
+abstraction level
+greatly improve the eciency
+managed
+tracking specic measures
+manager
+make the process
+acm kdd
+technique
+larger number
+detection range
+ability to simultaneously
+methods have been proposed
+string
+tag on an item
+owgraphs
+event processing algorithms
+expose the smoothing
+security analysis
+complete system failures
+consumers against supermarket
+materialize
+track the condence
+observation containment
+things thing
+item
+positive components
+size is increased
+carried by a person
+entire purpose of blocking
+surreptitiously scan
+principled and statistical manner
+maximization
+suggest the continuing
+sale would make
+multi-tag
+level semantic event detection
+data furnace
+deciphering either response
+rfid data typically
+tags which are lost
+international
+sliding windows
+system data and device-independent
+explicitly specied
+transformation of primitive events
+data records
+rfid privacy protection scheme
+implanted
+dierent portions
+cryptographic hardware
+generally accepted principle
+shift
+charu @ us.ibm.com jiawei
+method for rfid data
+simultaneous
+tag attached
+eectively
+data stream interpolates
+fact is deterministically
+rule-based
+processing engine
+hitachi unveils
+object is dened
+maximizing entropy
+wireless networks
+tracked by sensor readers
+subtree of the root
+experiences with saps auto-id
+scenarios
+discovered are high
+lead to slower
+massive streams of noisy
+sharing
+rules correspond to data
+acceptable
+design addressing application requirements
+high level semantic events
+dierent data
+characteristics of the dierent
+correspond to an observation
+location is updated
+rfid tags passing
+support a wide
+making
+feature
+applied to rfid data
+dierence
+assigned location
+management and warehousing
+form gigantic commodity owgraphs
+sample
+products for the purposes
+friendly and enemy aircrafts
+library in california
+generally formulated
+enhancement and modication
+pins
+cleansed and compressed
+inputs
+reasoning rules in order
+move from one individual
+designed
+complex events in active
+streams of noisy data
+gid1
+processing algorithms
+rfid flowcubes for multi-dimensional
+switch
+results in more ecient
+shoes
+position of the tagged
+helping programmers avoid writing
+rfid event
+solutions inc whitepaper
+argued
+real-time inventory
+smoothing window
+natural to rfid applications
+form as gids
+payment system is texas
+interesting
+done by an adversary
+suggest the continuing miniaturization
+number of privacy challenges
+y.id x.id = z.id
+main
+texas
+processing techniques
+views
+location observation
+information for the dierent
+cryptography for privacy
+inconsistent readings
+rfid tags smarter
+starts from pac
+developments
+passive tags are typically
+density of each tag
+tags passing
+cleaning of sensor
+objects in the supply
+bridging
+acm conference on computer
+recently found
+tree is considered
+number of privacy concerns
+value-bed
+order to insert missing
+probabilities into higher
+data locations may change
+discovered are high level
+sensor
+correct
+detection for active
+constructed for large
+mechanisms
+explicitly disables the tag
+live and archived streams
+california
+caspian similarly criticized
+operations signicantly reduce
+active tag
+patterns in data streams
+engineering for wireless
+advantage of dbn-based
+designed for event
+events by combining rfid
+thing
+data conclusions
+first
+placing
+traditional dare warehousing
+directly into a product
+feldhofer
+rfid data collection
+event pattern
+small will lead
+data-centric perspective
+specication in active databases
+room or shelf
+two attributes tstart
+command the auto-id
+rfid has increasingly found
+dalvi
+participates
+kinds of tags
+proceedings of ifip
+product label
+las
+tiny rfid tag
+mining
+reader signal
+dening probabilistic events
+people in everyday life
+purposes of providing privacy
+war ii for distinguishing
+events into semantically
+explicit probability values
+process complex
+protected
+streams are essentially
+query dierent
+tracking of items
+deciphering
+piramuthu
+simultaneous aggregation of paths
+large number
+order to prevent privacy
+trac data
+mining sensor data ing
+starting and ending
+modeling the dynamic relationships
+primary kinds
+privacy and security-protection
+ecient way to perform
+continuously monitors the observation
+captures the major movements
+trace
+normal
+track
+correlation
+pervasive rfid-based
+satisfying
+pair
+authorized to debit
+probability of tag-presence based
+solution in cases
+events from the underlying
+precise
+objectlocation and observation queries
+show
+events in the data
+tag much more expensive
+wide range
+threshold
+label
+covertly track
+tag for that person
+blocker tag
+approach transform
+entity type table
+restrict the access
+info
+sensor readings
+chawathe
+rfid tags transmit distinct
+increase security
+tags of items
+item aboard the ship
+traverse the entire
+frequency and rarely occurring
+tags are typically powered
+conjunction
+smart appliances
+designed for tracking
+large scale applications
+noisy rfid
+summary
+transmits
+commercial buildings
+kernel
+low frequency
+brainard
+left subtree
+electronic product identication code
+primary xed
+rfid data stream processing
+key real
+boundaries
+designed for tracking specic
+data are captured
+reading
+checks
+infrastructure
+parent
+location with such tags
+sensor data denial
+killing
+probability of correctness
+simultaneously identify
+dates
+suciu
+mining in rfid
+distinct signals
+price-point for the tag
+modeled somewhat dierently
+produce these matches
+patrons
+stream-oriented
+tradeo
+protection because of repeated
+volume of the data
+ltering
+primary disadvantages
+maintained
+identifying rfid-embedded objects
+spans
+financial cryptography
+corresponds to events
+explore the full tree
+pipelined framework
+encryption
+workshop
+objects in daily life
+framework is proposed
+tags can be scanned
+traversal
+left branch
+table links
+newer car models
+separation of the middleware
+bayesian
+successive hierarchical
+access control policy
+sound
+note that many relationship
+distinct tags being present
+discusses a high fan-in
+compared to unauthorized
+plan in the sase
+ohkubo
+tags on the cheap
+method in many data
+rfid chip
+warehousing and mining massive
+rfid scenarios
+move together in groups
+algorithm starts
+purpose of sensitive
+shows how to extend
+characteristics
+type of product
+everyday
+movements
+par
+meta-information
+event detector
+collection and during data
+authentication
+pac
+executed over event
+introduces a deferred approach
+helping programmers
+tracking specic
+airline luggage management
+result of eavesdropping
+developed for preserving personal
+principle of maximum
+complex event processing
+important to note
+automatic data acquisition
+table by comparing
+malicious
+non-linear optimization method
+rules in order
+money
+proposes a cleaning
+sold to the customer
+aspect
+rfid chips are attached
+collision will occur
+ability to simultaneously identify
+containment relationships change
+tag in that application
+main drawback
+eectively in terms
+pervasive rfid-based infrastructures
+specied ssc sub-sequence type
+integrating automatic
+photocopier
+identifying
+large scale
+complex rfid event
+aspect of the tags
+server
+dierent problem domains
+data warehousing
+rfid data is inherently
+earliest work on temporal
+user can gain access
+sensor data introduction rfid
+kinds of dynamic relationships
+seq and negation
+matching
+queries can be supported
+data and knowledge engineering
+individuals can be tracked
+information about their read-history
+critical
+expressing
+corporate espionage
+combines
+broken
+capability to scan
+higher level of granularity
+attacker to identify
+manufacturer
+set of tag readings
+medical applications
+table contains the hierarchy
+check out
+relate to the user
+airline
+state started
+data is not explicitly
+reader unreliability and tag
+rfid data processing
+allowing
+multi-tag case
+individuals in corporate
+immobilizers typically
+shoplifting
+advantage in many scenarios
+set of epc readings
+references
+represented in the form
+suzuki
+set of movements
+tags exploit
+hardware or software solutions
+cleaning of massive
+tag at dierent
+specication in active
+maximization results
+mining sensor data
+evaluation plans
+sophisticated
+bought in a store
+technically dierent
+communications of the acm
+arranged
+science and engineering
+views greatly improve
+queries and updates
+ship and all scans
+data aggregation rule
+implanted with rfid
+views of rfid items
+managing and mining sensor
+number of distinct
+embed
+moving from one location
+basic events
+required
+related to previous
+videos
+data international
+general
+examine
+brings numerous
+view to privacy
+links between dierent
+event < event pattern
+determine dierent kinds
+proceedings of financial cryptography
+make key
+durations
+state-based dynamic relationships correspond
+important
+function of the ssc
+made the tags smaller
+work with the code
+remote
+discussed in depth
+probabilistic workow
+combined with more sophisticated
+starting
+watson research center hawthorne
+represent
+simultaneously identify a large
+prex of the binary
+duplicates
+lacks a power source
+reader at multiple
+manufacture a tag
+charu c aggarwal ibm
+reset the prex
+liao
+children
+blocker tag always sends
+pattern matching algorithms
+regarded as the relevant
+order to protect
+demers
+multiple levels by changing
+concatenating attributes
+concatenating
+logic data into user
+major healthcare equipments
+attach rfid
+stays occurring
+print engine
+ssc sub-sequence
+event detector continuously monitors
+applicable
+changed if the underlying
+characteristic of eective cleaning
+independence
+data management in previous
+non-occurrence
+eectively handle
+unique code
+hitachi
+perspective
+animals and other wild
+sensors vary
+diao
+rfid sensors vary
+items between shelves
+public
+movement
+kinds of tables
+policies
+purposes of providing
+component
+objects in pervasive healthcare
+ranges
+data much more challenging
+urbana-champaign
+modied in order
+rfid items which typically
+hanj @ cs.uiuc.edu
+containment implies
+cross-reads from multiple
+singles out
+purpose of blocker tags
+online cleaning
+broad idea
+attacker by increasing
+resolve interesting aspects
+antenna energy
+transmit distinct signals
+track aquatic
+languages
+constructs such as seq
+distinct
+read by multiple
+mis-classication cost is specied
+comparing
+rfid readings
+code on each tag
+rfid stream
+data stream system
+solutions have been proposed
+constructs
+developed an extremely
+data such as serial
+transmitting real-time
+vicinity of the reader
+approach proposed
+done so actively
+semantic event extraction
+binomial sampling
+auto-id center designed
+hour
+objects in pervasive
+fact being correct
+remain
+additional troubling
+represented by probabilistic
+discusses issues
+inexpensive
+checked out
+reducing lost luggage
+mapping table
+collision
+purposes of privacy
+order to save space
+language peexl for dening
+location can be compressed
+last events
+management of rfid
+retail applications
+supporting metaphysical data
+sensor data international acm
+application at hand
+connectivity
+make it suitable
+coming
+response
+queries on correlated probabilistic
+window operator
+type table attributes sensor
+declarative queries
+rfid technology is highly
+interpolates
+signals to a reader
+security in communication
+event corresponds
+collected data
+per-tuple
+triggers actions
+reduces the number
+compressed commodity workows
+protocols for privacy protection
+detected
+buys the product
+larger read
+identiable
+redundancy for rfid data
+movements for compressing
+proposes smurf
+formulating
+window-based method
+ids being read
+provided by a supermarket
+entry is set
+string for event processing
+conjunction with a variety
+large volumes
+credited with greatly reducing
+smoothing is performed
+static static
+people and objects
+solutions using sun
+energy
+sql-like languages
+idea
+data successfully
+entropy maximization results
+table which essentially
+automaton with a match
+greatly reducing auto theft
+pac policy
+squealing euros
+order to determine product
+level events
+participants
+seq construct turns
+print
+evaluation
+importance to recent
+event patterns
+password can be included
+two primary
+combining rfid
+survey of a variety
+natural solution
+aggregated into higher
+omit
+sub-sequence
+transform the data
+trails of rfid
+composite event specication
+generated in the interactions
+restrictive view to privacy
+based on the observation
+operators in order
+tags interact with readers
+done
+people in everyday
+luggage_rfid.php
+mining sensor data introduction
+statistical smoothing for unreliable
+extraction in pervasive computing
+construct
+collisions are in fact
+assumption
+issues with rfid
+events are also generated
+examples of such domains
+variety of methods
+size automatically
+privacy in rfid
+millions of tags
+order to determine events
+percentage
+cleaning plan
+sensor readers at strategic
+enabling such ubiquitous
+treated
+aggregation rule
+onboard sensors
+debit
+ing picked
+spatial overlap
+loaded at ports
+paths
+time-stamp
+built
+depending
+tag reading and incorrectly
+majority
+rfid chips embedded
+items which are frequently
+writing low level
+library tracking
+tree it is blocking
+cleansing process application-independent
+programmers
+charu
+note that the middleware
+occur at the higher
+extremely
+physically present
+refrigerator
+constructed
+dimension
+2nd
+sensorlocation
+poses numerous challenges
+carefully
+watson research
+eective for pattern matching
+rfid-based
+track when the number
+merges
+distributed
+captured rfid data
+correspond to data ltering
+estimates the density
+correspond to data
+items which are checked
+responses to location queries
+recent systems for event
+autoid center
+order to represent
+cheaper
+rfid data monitoring
+distinct tags
+theft
+including observations
+resolve
+make key real
+massive redundancy of dierent
+remove
+typical in a data
+wpes
+saps
+massive nature of rfid
+cole
+prex in a tag
+method has the ability
+turns out
+objectlocation table by comparing
+additional knowledge
+history of events
+compressed probabilistic workow
+tag-presence
+movement trails
+gps receivers
+event extraction in pervasive
+deciphering the importance
+problem of complex
+open the system
+responses
+recent sensor technology
+complement
+mining massive rfid data
+unlocked with a meta-id
+kill command the auto-id
+event processing in uncertain
+broadcast by the reader
+expected cleaning costs
+upgraded
+point
+simple
+medical history
+instants
+cleaning may incur tremendous
+tag takes
+expensive
+closer to rfid tags
+create
+correlated probabilistic
+restrictive view
+required for vehicle
+high volume
+transform business
+meeting
+sarma
+order to eectively
+order to resolve interesting
+tag more opportunities
+entity containment
+reader in telling
+instance data
+unnecessarily
+data exhibits
+raw
+cs.uiuc.edu abstract radio
+transformation rule
+tags in the physical
+sensitive tasks
+mounted on vehicles emit
+cents
+stations
+aquatic animals
+powered by the radio
+boundaries of people
+meta-identiers and pins
+data blocker
+intuition behind maximizing
+errors probabilistically
+portion of the tree
+cost-eective
+statistical smoothing
+keys
+assignment
+ubiquitous computing requires
+moment
+bought by a consumer
+ubicomp
+purpose
+wheelchairs
+intended to be executed
+last moment
+tags on a variety
+readers at multiple
+landmarc
+location of an object
+signicant are the rst
+organization
+ieee data engineering bulletin
+develops a dynamic relationship
+acm pods conference
+ianywhere solutions inc whitepaper
+mining sensor data denial
+data is prone
+retail application
+number of interesting challenges
+workows from massive rfid
+exibility in the privacypreservation
+expose the individual
+data arise
+source
+tag always sends
+us.ibm.com
+info table contains path-independent
+based on application-specic
+methods with associated per-tuple
+set of pseudonyms
+supporting metaphysical data independence
+full tree
+bit
+kind of passive jamming
+dropped readings
+peexl
+addressed
+key is authenticated
+banknotes
+application-specic
+order to increase security
+typically the anti-collision protocols
+identication
+doraiswamy
+back
+examples
+construct detects
+pet owner
+tracked item
+privacy protection of library
+slowly coming
+scale
+characteristic of eective
+pet
+decision
+two primary disadvantages
+dierent events
+readings in rfid
+patient
+considerable amount of spatial
+variety of sql queries
+restrictive
+prexes
+amount of spatial redundancy
+readability
+two main kinds
+goods
+wireless and mobile
+nodes in the tree
+constraint
+stationary
+operators for stream
+extensions
+identiable tags
+general methods for privacy-preservation
+rfid data form gigantic
+binomial sampling methods
+continuing miniaturization
+aggregated views
+counts
+low-cost rfid privacy protection
+executed over event streams
+identiers
+uncertainty propagates
+translate
+tag has moved out
+level semantic tables discussed
+data contains two basic
+durations of the path
+objects at a location
+included in the table
+miniaturization
+aes algorithm
+constant
+stripped
+single
+system are epc-tagged
+natural that such data
+provide an opt-out mechanism
+reader to systematically
+ecient cleaning method
+extraction and data
+functionality
+dynamic data
+massive rfid data
+underlying readings
+out in the store
+data when a set
+proceedings of financial
+items can be replaced
+allowing the authorized readers
+luggage tags
+aggregated
+implements the broad principles
+redundancy of dierent
+obtain from such data
+implies
+data independence
+miniaturization of rfid technology
+increasingly found acceptance
+failures
+uniquely identifying
+detection process
+fan in sensor systems
+false negatives
+number of interesting
+query
+dierent locations
+range of dierent sensor
+data user-stated properties
+maximum entropy
+models for incomplete
+signal that reads
+abstract radio frequency identication
+materialize the measures
+similar product bought
+tags at dierent times
+databases and high
+us.ibm.com jiawei han
+make this functionality
+peoples memory of objects
+entire
+automobile immobilizer
+data naturally leads
+lter
+product bought
+services for allowing ubiquitous
+tables discussed
+gather information
+grocery bag
+tutoral lecture
+reducing auto theft
+high-performance complex event
+recent tag
+selectively block
+implies that gid
+security issues with rfid
+recently found widespread acceptance
+language in order
+sensors at the tolls
+correspond to sensor location
+tag takes advantage
+access
+privacy implications
+mis-classication cost
+converts each event sequence
+non-linear
+occurred involving
+variety of pervasive
+location of the item
+objects
+object tracking
+data ticular
+wide variety
+rfid-enabled healthcare
+volume of data
+individual gid
+control
+formulated
+sequence of entered-room
+trace their movement
+query evaluation plans
+broadcast collision
+language called sase
+password-protect the memory
+minimize the expected
+issues for rfid data
+advancement of rfid
+incorporation of smart
+properties of rfid transmission
+jeery
+conducting
+privacy-preserving data mining
+attributes tstart and tend
+fan
+account
+arranged hierarchically
+combinations of basic
+sql queries
+table contains the timein
+successive hierarchical aggregation
+noise and errors
+command the auto-id center
+position as this object
+eective cleaning methods
+fan-in and hierarchical organization
+implanted on the rfid
+traditional database operators
+performed between dierent
+privacy-friendly tags
+fairly exible
+approach in streamclean requires
+furnace
+temporal data are captured
+combines a nite
+buildings
+challenges for pervasive
+hour can be consolidated
+core of event detection
+international acm workshop
+viewed at multiple levels
+rules-based
+correspond
+ianywhere solutions
+objective is to determine
+subsequently
+methods for physical access
+basis of the readings
+security aspects of rfid
+set of rfid
+embedded into photocopier
+concern is the tracking
+landt
+groups
+tstart
+signals which are easily
+correct for dropped
+tend variables
+approach then transforms constraints
+greater
+determination of high level
+item was loaded
+sensors transmitting real-time
+make careful
+resolving the semantic subtlety
+airports
+warehousing of rfid data
+information about customer preferences
+store manager
+constraints
+places and people
+force sensor
+dicult to read
+tracking of rfid
+repeated change
+approach makes the system
+mounted on vehicles
+sensor technology
+occurred at times
+dindhar
+lecture
+technically
+supply chain make
+lost pet
+overview and survey
+corporate level
+aggregate signal
+tags for event
+analytical
+approaches
+acm cikm conference
+likelihood
+conference on security
+inherent ambiguity
+readings as unequal probability
+stamp for the last
+qualification
+pervasive rfid technology
+variety of infrastructure threats
+retail
+facilitate
+authentication for rfid
+ticular choice
+learn a cleaning plan
+reaches
+strategic
+algorithms can be generally
+readings as unequal
+data storage
+approach uses a framework
+tags being present
+unveils rfid
+scans
+events into semantically cleaner
+rfid anywhere edge
+version of the tag
+metaphysical data
+tags are extremely
+greatly reducing
+results in the explicit
+adjusts
+loaded onto a track
+privacy arise
+rapid advancement of rfid
+inserted as the children
+privacy-preservation
+subsequence
+language that combines ltering
+rfid privacy via antenna
+cells are removed
+typically active rfid
+reusable electronic baggage
+analysis of commodity
+commodity ows
+juels
+middleware design addressing
+issues relate
+conventional sensors
+competitive information
+concerns
+information in order
+mit
+ambiguities during the event
+inventory management and logistics
+composite event by concatenating
+patterns in data
+cloned
+payment
+competitors to routinely
+semi-passive tag
+providing privacy protection
+event mining in rfid
+scanning of the items
+gather
+solution is to embed
+challenges in data processing
+data typically
+sensor object location observation
+embedded in the hardware
+location tag
+relationship tables
+streams in order
+selection
+query dierent readers
+protection during data
+privacy protection
+tags transmit
+subsequently dead
+applications such as high
+detects a shelf reading
+read range
+knowledge
+probabilities into higher level
+middleware
+move the tag
+unable
+methods have recently
+ambiguity
+october
+timing
+data form gigantic
+interpreted
+areas
+unauthorized
+temporal management of rfid
+including
+smallest rfid
+rfid location tracking
+luggage ? rfid slowly
+constructing
+shelf-reading
+applying dierent
+window size is xed
+data is related
+information is typically stolen
+pattern
+detecting important semantic events
+eective window size
+pervasive healthcare
+acm workshop
+zebra has developed
+readers vulnerable
+events in active database
+reading and incorrectly
+users
+robust and reduce
+technical report
+relationships are modeled
+patient medical history
+instant
+advantage of the duplicate
+representation of the tag
+provide the history
+passing
+assures complete
+readers at strategic locations
+readers to query
+blocking protocol
+illinois at urbana-champaign
+order to maximize
+opt-out mechanism
+complexity of an rfid
+sql language for event
+health-care experts
+required low
+tremendous
+rfid tags for event
+designed the kill
+cleaning for rfid data
+rfid warehouse
+improve
+arises
+large number of objects
+received
+threat to privacy arises
+relational query processing
+splits
+value
+unveils rfid label maker
+probability values
+complex rfid event processing
+streams from dierent
+first international conference
+scanning the same object
+removed from the ship
+formulation
+daily life
+w.-s
+strong authentication
+encryption computation
+uncertain rfid data streams
+track of the number
+dierent
+privacy-protection mechanisms rely
+vehicles emit
+rfid data
+type table
+blockers
+privacy issues
+remote computer
+virtue of their physical
+center
+rfid-embedded objects in pervasive
+addressing application requirements
+sets
+data dynamically
+objects are inserted
+numbering
+represent the rfid
+sensor data ticular
+correspond to a value
+interact with readers
+queries which examine
+aggregated views of rfid
+cost-conscious cleaning of massive
+traditional dare warehousing techniques
+errors in the underlying
+probabilities of dierent
+hierarchical relationship
+privacy protection scheme
+recently been demonstrated
+lacks a power
+people carrying
+string for event
+approach has two primary
+insert
+aspects about the rfid
+corporate information systems
+opens the system
+partial or complete
+texas instrumentss
+works
+soft
+accessible
+learn all the pseudonyms
+eective for pattern
+proper
+possession of certain people
+animal movement
+serve as security
+healthcare applications
+decisions about access control
+rfid technology
+knowledge engineering
+conference
+noise
+applied to rfid
+location sens
+host
+scanned readings
+noisy
+actual
+introduces
+capability has been recognized
+construct turns out
+hitachi unveils smallest rfid
+extend an sql-based query
+limited condence
+workow are provided
+built up between tagged
+ability to query
+rfid can be extremely
+broadcast collision occurs
+tstart and tend variables
+prexes to dierent
+opportunities to be scanned
+interval-based
+transmit their bit
+readers for data
+merges and splits
+buy
+extended
+repeated
+inexpensive tags
+rfid middleware design addressing
+core idea
+discussion here for simplicity
+relevant web and internet
+ieee percom
+nally
+access control for captured
+rfid anywhere edge processing
+level semantic events
+work eectively in terms
+manage data successfully
+installations for employees
+dynamically adjusts
+usenix security
+issues in data
+application uses declarative
+underlying readers
+detail
+virtual
+dierent kinds
+greatly improve
+dierent pseudonyms
+code as another tag
+advancement of rfid technology
+method or a sequence
+plan-based complex event
+improve accuracy
+addition temporal joins
+hierarchical aggregation of streams
+segments with low
+real-time information
+sensor object
+object tracking queries
+underlying solutions
+limited
+relevant web
+oregon public
+interesting probabilistic event
+encrypted representation
+application of rfid technology
+times when the item
+order to perform event
+timeout information
+password-protect
+representation are the raw
+wild life
+rapid advancement
+technical report mitautoidwh014
+explicit containment
+room safety in addition
+center designed the kill
+modify rfid tags
+higher abstraction
+communication networks
+reasonable assumption
+higher level events
+integrated
+multiple tag
+data with traditional data
+data introduction rfid technology
+consistent
+flowcubes for multi-dimensional
+estimates
+dynamics can be explored
+user congured rules
+estimated
+hours we note
+location queries
+volumes of items
+variety of rfid
+selected
+driving force
+tracked by a single
+contextual information
+consumers to manage meta-identiers
+exploit the collision properties
+examine the overlap
+incoming tag readings
+represented
+table carries
+number of privacy-protection
+two scans
+luggage
+leaves
+changed
+epc tag readings
+increase emergency room
+cryptographic algorithms
+acceptable price-point
+events and then aggregate
+continuing miniaturization of rfid
+simpler events
+order to facilitate
+dicult for an attacker
+augments
+single reader
+sensor data blocker
+order to provide
+data cleansing
+concept which is introduced
+data denial
+underlying data can lead
+purpose of sensitive tasks
+animals can be implanted
+smart objects and ambient
+vary from conventional sensor
+embed an rfid transponder
+database operators for stream
+equipments
+correspondingly
+real-time
+captured rfid
+policy is also referred
+design considerations
+readings which are sensed
+expressive and can support
+process can be made
+databases and sensor stream
+preserving
+anamolies
+data at the higher
+importance of using probabilistic
+events into a stream
+end
+leads to massive streams
+technically dierent operators
+positives and false
+widespread
+kind of relationship
+multi-level
+description
+srivasatava
+dare warehousing techniques
+pallets are loaded
+predicates
+d.w engels
+invasion and numbering
+undesired
+gidr
+gids
+uniquely in a cost-eective
+complexity
+algorithms
+indoor location sensing
+kinds of dynamic
+gidk
+executed
+incorporation of smart technology
+problem of event
+possibility of soft constraints
+readers data
+zebra unveils rfid
+handle the massive
+systems have been widely
+ime
+set in a dierent
+ieee potentials
+exhibits
+writing
+commercial entities
+abstract radio frequency
+drawback
+achieved by performing simultaneous
+eugene
+approach to rfid data
+chakravarthy
+relevant anamolies
+powerful
+changing the abstraction levels
+sase event
+sequence of cleaning methods
+correspond to dierent
+popular such system
+intuition behind maximizing entropy
+ability to perform
+uniquely identiable by readers
+independent
+data for competitors
+combining
+constraint provided
+user was physically
+sensor reading an epc
+driving
+recursive containment
+query plan
+lost luggage ? rfid
+nite
+systems for event
+clustered path database
+out all the tags
+electronic baggage tag powered
+sensor stream event detection
+provided by the consumer
+scanned for a payment
+accumulation of large volumes
+eective
+processes involved
+tags are typically active
+eavesdropping on the tag
+correctness
+sophisticated sensors transmitting real-time
+summary while rfid
+form the core
+corrections
+multiple zones
+operate in the low
+primary
+restrict
+application-specic criteria
+data which is captured
+positives
+warehouse in terms
+density-based probability cleaning method
+ozal
+top
+cleaning costs are specied
+approach much more exible
+uncertain rfid
+probabilistic event language peexl
+asset
+serve
+tracking of a large
+location can be obtained
+incur
+captures the major
+rfid items often move
+explore all the tags
+tracking of rfid data
+group-based compression
+tracking queries
+protection scheme
+objectlocation table carries
+rfid slowly coming
+items which typically move
+data exhibits a considerable
+create query evaluation
+processing can not eectively
+web and internet
+adaptive cleaning for rfid
+rao
+pattern matching over live
+previous research
+queries at the high
+developed a print
+proposes a probabilistic event
+static and dynamic tables
+middleware from the applications
+reader to systematically explore
+sensor data streams
+ability to uniquely
+matching over live
+inferred from a sequence
+carrying a tag
+memory
+primitive events
+handle the massive redundancy
+variety of objects
+challenges for pervasive rfid-based
+first international
+sophisticated sensors
+level semantic
+approach in streamclean
+incur tremendous costs
+cleaning method which dynamically
+8-bit password
+analysis of a cryptographically
+steering column
+prevent undesired
+random
+databases and high fan
+solution of course requires
+radio
+solutions
+modify rfid
+rector
+block only certain kinds
+code embedded
+cleaning much more challenging
+availability
+practices and architectures
+construction are technically
+overwhelming
+reading from an rfid
+observation containment obj
+letchner
+directly embedded into photocopier
+aggregation can be performed
+gids instead of epcs
+criticized
+reader to stall
+facts in the form
+seq specication
+report
+disadvantage
+w.m
+rfid data a related
+metaphysical data independence
+size will cause false
+methods are also proposed
+tuples or correct
+automatic
+lead to missed
+query those portions
+compression a variety
+detection
+modeled as a compressed
+variety of middleware architectures
+wide variety of objects
+sensing into rfid
+capacity
+rfid technology and applications
+dene the anamolies
+exibility
+approach
+times and places
+enhancing rfid
+moved to the vicinity
+ieee pervasive
+protect
+credit-card
+reads which are derived
+eciency
+views greatly
+tag reading
+sullivan
+mining and processing
+essentially a dynamic
+privacy-preserving
+correspond to dierent parts
+semantic event discussed
+rst bit
+similarly criticized
+chain make
+warehouses
+ability to manufacture
+wide variety of rfid
+expected
+interesting semantic events
+out from the library
+supermarket privacy
+pattern mining
+high fan-in systems
+low frequency and rarely
+sensor data conclusions
+rfid data was proposed
+transmit signals
+operator handles the negative
+collection of rfid data
+tuples or correct conicting
+monitoring queries
+temporal constraints
+-diversity
+occur during the normal
+location observation containment obj
+careful decisions
+exit-reading
+semantically cleaner
+dominikus
+level of representation
+exible in dierent
+suggest
+linked
+complex
+inventory
+policies using authorization
+satellite
+density-based
+workshop on privacy
+transmits the number
+dierent input tuples
+read by multiple readers
+data successfully with rfid
+collect and process rfid
+hipac
+cycle
+properly consider the spatial
+combining rfid data
+kinds of products
+query language
+chapter is organized
+approach is to learn
+cross-reads in rfid data
+aggregate
+proposed
+trails of rfid data
+inference engine
+rfid tags transmit
+dened
+proposes
+seq construct turns out
+embed an rfid
+directly embedded
+monitors the observation streams
+queries in order
+technological
+dynamic encryption
+makes the system
+city
+recent approach proposed
+work with re-writable
+tag identiers
+advances
+items with specic
+parent epc
+state history
+approach discusses
+object to move
+missing a survey
+data has been proposed
+faster queries
+importance of dierent portions
+security in library
+tag powered by rfid
+amount of background information
+arbitrary
+sensors transmitting real-time information
+pervasive rfid
+successfully
+requirements for these cryptographic
+meters
+smallest rfid chip
+tutorial
+eventbased
+cooper
+reading an epc tag
+important goal
+last location
+exible
+rst and last events
+views of rfid
+espionage
+core
+lampe
+determine the occurrence
+performed between dierent objects
+make the cleansing process
+accuracy of rfid
+chapter
+ship stay
+means that both branches
+ubiquitous tracking
+international conference
+objects are tagged
+events via value-bed constraints
+constraints in the underlying
+presence
+location for an object
+earliest work
+augments peoples
+coming to airports
+property and forces
+created in the objectlocation
+commonly used method
+powered by rfid
+rely
+blocker tag may respond
+airline luggage
+gid
+apparel manufacturer
+population is cleaned
+events in the sequence
+probability of a fact
+probabilistic databases
+blocker tags
+multi-dimensional analysis
+2nd cidr conference
+tables in the drer
+removed
+tag case
+dened to scan
+tracking rfid data
+portions
+track people
+event sequences
+eectively handle the detection
+video of tutoral
+typical reading
+stream-oriented query processing approach
+trio
+ieee data engineering
+detection in active
+trip
+observation about rfid data
+spatial redundancy
+items are discarded
+transformation of simpler
+mining sensor data blocker
+dierent predicates
+pseudonym
+node
+items which are loaded
+event detection algorithms
+require a large amount
+privacy-protection mechanisms
+viewed as a multi-level
+number of distinct tags
+items move
+internet computing
+ashish
+higher level query processing
+underlying products
+memory in the tags
+longer
+eavesdropping of signals
+plan that identies
+customer buys the product
+sibert
+tags to remain
+clara city library
+complex rfid
+real time inferences
+timein
+participates in a transaction
+embedded sensor technology
+input data
+access control
+rfid-embedded objects
+usa charu @ us.ibm.com
+value-bed constraints
+lead to inaccurate inferences
+concrete probabilistic workow
+computation
+-chip
+kinds of developments suggest
+order to make careful
+determine the number
+items often move
+functionality useless
+makes it more dicult
+complex event detection
+rfid warehouses
+security devices
+blocking of rfid tags
+cleaning systems
+advantage
+dierent key and write
+allowing ubiquitous
+security-protection
+set of readings
+partitions
+extended in a variety
+ubicomp07
+level
+captured data
+compressed commodity
+planning
+science
+accumulation
+slower
+larger read ranges
+trend
+expensive than passive
+rfid sensor technology
+processing ? acm
+gehrke
+automatic data
+event extraction
+sliding window in order
+information and internet-enabled
+learn
+provide an opt-out
+support for rfid
+killing of a tag
+two kinds of dynamic
+semantic subtlety
+traverse the portion
+tag has fewer opportunities
+work on temporal management
+frequency identication systems
+stream scenario
+credited
+designed for privacy
+handled
+consistent and nonredundant
+stated
+properties
+stored
+handles
+prex
+criteria
+hardware and embedded
+cases
+insights
+assumed that single
+tag before transmission
+eavesdropper from uniquely identifying
+rfid data processing charu
+minimum
+aircrafts
+combinations form
+point of sale
+corresponds to instance
+workows from massive
+enablement
+discusses methods
+rfid data exhibits
+purposes of corporate espionage
+necessarily be true
+verlag
+requirements
+rfid data warehouse
+locations of large
+serial number
+rubin
+personal privacy threats
+adaptive cleaning
+integrity constraints
+function of the tag
+chips embedded
+representations
+order to not query
+groups or consignments
+branches
+commodity
+drawback of blocker tags
+compressing
+rfid systems
+order to determine
+extractor
+tag to switch
+environment may contain legitimate
+blocker
+primitive
+advantage of dbn-based cleaning
+query evaluation model
+suggest that the applications
+easily jammed
+blocked
+non-occurrence of primitive
+dierent methods
+containment implies a hierarchical
+order to obtain competitive
+low-cost
+history of rfid
+familiar with sql-like languages
+separate epcs
+approach can be considered
+broad principles
+sight
+blocker tag takes advantage
+recently found widespread
+pattern matching
+healthcare asset management
+abstraction levels of path
+sql language
+massive rfid
+acm kdd conference
+change its behavior
+probabilistic representation
+scan dierent
+zebra
+purpose of tracking
+car models
+plans
+continuing
+t-closeness
+tags is to emit
+protested against apparel
+range of sql
+frequently updated
+expose the smoothing window
+anwar
+reading the tag
+electronic society
+portions of the string
+multi-dimensional analysis of commodity
+tstart and tend
+rfid flowcubes
+transform business logic data
+transactions between dierent
+turn
+place
+static static static
+cycles
+recursive traversal nally reaches
+extensions of the sql
+transform
+discuss issues
+object location observation
+millions
+necessarily
+uncertain rfid data
+network can lead
+lifecycle
+returns
+referred to as singulation
+uniform stream-oriented query
+method for rfid
+database operators
+nding the relevant
+constraints on the tuples
+ability to detect sequential
+population
+wide
+cryptographic schemes
+require
+technology and readers vulnerable
+mapping relationships
+cards
+interesting movements
+measure
+dierent static entities
+privacy in ubicomp
+loaded onto the ship
+input data errors probabilistically
+event can be inferred
+set of static entity
+tags for other purposes
+event clause
+encrypt the code
+furnace project
+leads to much faster
+remove cross-reads
+loaded on an ship
+multiple
+tend attributes
+payment systems
+instrumentss
+contexts and detection
+wireless
+broad exibility
+warehousing and querying
+queries over relational
+applications has been discussed
+energy consumption
+cheap
+dierent problem
+identies the conditions
+integrated management of data
+immobilizer vulnerable to attack
+cidr
+larger unit cost
+small compared
+per-tuple mis-classication cost
+tables in order
+condence
+product level information
+tag is scanned
+depending upon the underlying
+brunette
+usa hanj
+dyn
+eavesdropping of reader signals
+signicantly reduce the size
+maximum capacity
+technology across dierent
+outperform
+expensive than passive tags
+privacy invasion
+implementation challenges
+cost-eectiveness
+imposing
+events for active databases
+probabilistic information
+true in all solutions
+extremely inexpensive
+continuously monitors
+table attributes
+fails
+detect
+movement of items
+ways
+unique serial number
+us.ibm.com jiawei
+entities and relationships
+single-tag and multiple-tag readings
+enabling the readability
+items which have traveled
+reader from deciphering
+careful decisions about access
+information is represented
+relevant paths of items
+temporal smoothing lter
+tag readings also exhibit
+semi-passive
+epcs
+sampling
+jammed
+tag attached to clothing
+vldb journal
+frequency and rarely
+internet of things thing
+model and implementation
+event processing over streams
+santa clara city
+readers typically
+full advantage
+computing
+cryptography for rfid tags
+individual epc
+redundant because of missed
+event of an object
+engine
+direction
+decrypt
+sensor stream
+surreptitiously
+interpolates for lost readings
+stream event detection
+careful
+protocols
+dierent sensor readers
+case
+privacy during data management
+tags have a utility
+identication purposes
+planning to attach
+stolen through eavesdropping
+lost luggage
+joins can be performed
+converts
+single hour
+security consequences
+spatiotemporal redundancy for rfid
+sequence of entered-room events
+measures such as counts
+entities are static
+girault
+parked in the garage
+check
+movement of luggage
+consumers against supermarket privacy
+acquiring blockers in order
+per-tuple cleaning
+read within the smoothing
+events
+week
+supporting metaphysical
+disadvantages
+order to prevent
+level query
+changing
+internet services for allowing
+implements
+lahar has been proposed
+minimize
+rfid data can arise
+components
+scanned by the reader
+operator converts
+captures
+actions
+kill
+tags transmit distinct
+workshop on cryptographic
+methods in the cleaning
+method estimates
+association
+interaction code
+programmers avoid
+data warehouse
+protocol can be implemented
+accepted
+correcting
+fails to perform
+bought by the consumer
+computer and communication
+shelf
+signal for an eavesdropper
+reduced
+typically stolen
+operation of the rfid
+static data
+order to obtain
+dierent kinds of tables
+window in order
+cleaner representations
+provided
+proposes a formal query
+gigantic
+pallet and the cases
+make higher
+objects by formulating queries
+cell is a commodity
+identiers can be arranged
+readers at strategic
+mobile access
+tags in an unauthorized
+scans a survey
+typical retail
+discussed
+ports
+duplicate readings
+high level semantic event
+queries of the active
+sql
+independent information
+determine
+achieved by treating
+product item
+tags for consumer
+business processes experiences
+ecient query execution
+designed to compress
+strong
+hard
+active tags
+key idea
+clean the data
+insert missing
+determine the unique meta-information
+faster
+tradeo between reader unreliability
+issues for rfid
+readers without the knowledge
+sequential combinations
+unprotected zone
+privacy issues and technical
+data stream query
+functionality of rfid
+manufacturer benetton
+items with protected prexes
+gid points to gid1
+system poses numerous challenges
+required low level operations
+processing on the data
+integrating automatic data acquisition
+info table
+privacy policies
+adjusts the probability
+access to the captured
+separate
+required to support
+arbitrary patterns
+state-based dynamic relationship
+reader-tag protocols
+included
+missed
+tracking rfid
+product epc
+tannen
+apparel
+proposes a bayesian
+limited life spans
+gupta
+prevents the reader
+levels of the gid
+suciently powerful antenna
+table contains path-independent
+decisions
+related to previous research
+competitors to routinely gather
+opportunities
+management systems
+core idea in streamclean
+event detector continuously
+method which dynamically adjusts
+view which augments
+probabilistic event
+stored data
+containment can be easily
+occurred in the proximity
+treating
+leads
+methods for privacy preservation
+underlying probability values
+applied in order
+tags come equipped
+assignment that maximizes
+order to transmit
+snapshot
+order to automate
+readers use the proper
+completely dropped
+queries on correlated
+regular expression
+battle
+data to a probabilistic
+mask the tag
+missing tuples
+tags should be implemented
+sun
+protocol can be inferred
+set of data
+version
+streams of noisy
+tags
+compressed
+proposes a cleaning method
+user can gain
+higher levels
+software solutions
+processing in the context
+information about objects
+transponder
+d.w
+scanning in a specic
+aggregated into higher level
+tags exploit the collision
+entire tree
+exited
+kinds of sensor readings
+declarative language that combines
+appliances
+movements and stays
+reported by the dierent
+nally reaches
+determine dierent
+environment
+event detection process
+closer to rfid
+anamolies or corrections
+compromising
+relevant paths
+operators
+data brings
+means that the reader
+consumption perspective
+dates back
+research center hawthorne
+determination of high
+complete privacy
+sequence-based
+implements the broad
+methods which are based
+dierent applications
+directly applied
+locations reported
+applications may be found
+challenging
+proposes a probabilistic
+history of locations
+analyzing massive
+similar product
+active databases and high
+sensor data introduction
+arise
+make the cleansing
+construct a warehouse
+goal
+identication purposes in order
+cleansing
+multiple times
+adaptive smoothing
+activities occurred
+spatial links between dierent
+natural access control
+application of rfid
+sensor data international
+purpose of blocker
+protection in rfidenabled banknotes
+ubiquitous
+cryptographic approach
+considerable amount of background
+single attribute
+applicable to dierent
+opportunities to be read
+formulated as pattern matching
+arise from the design
+short
+order to clean
+vegas
+rfid data monitoring queries
+privacy issues with rfid
+conicting
+multiple readings
+embedded systems
+interpreted as the absence
+monitors the observation
+number of items
+disables
+september
+developed
+readings from each tag
+data acquisition
+emits the epc
+city library
+items in the rfid
+epc tags represents
+typically be read
+correspond to an individual
+retail tracking
+work with re-writable memory
+cloned to emit
+reading and incorrectly assigned
+identication code
+rfid tags in order
+guc
+return
+unequal probability random
+data during its lifecycle
+framework
+systems using aes algorithm
+uniquely by the reader
+imeout variables
+kleap
+smart technology
+products
+identication systems
+joint conference on smart
+inherent
+locations change
+technology for enabling
+formulate
+negation operator handles
+binary code
+modied
+chain make it easy
+groups of conicting
+http
+partial or complete system
+workows
+personal and ubiquitous
+probability random
+manage meta-identiers and pins
+data which concerns
+root of the tree
+rule-based system
+generate
+language that combines
+static and dynamic data
+warehouse of commodity ows
+polite blocking
+shoplifting event pattern
+management issues
+data is best represented
+relate
+traveled
+dynamic relationships correspond
+dejavu
+product is transmitted
+instance of the product
+temperature
+automobile
+interact
+reader transmits the number
+unveils smallest
+passed
+similar to the cayuga
+gps
+simultaneous tracking
+gid points
+pipelined
+probabilistically using integrity constraints
+connectivity and tracking
+rfid data brings
+kind
+required for vehicle operation
+note that privacy
+specied at a higher
+reduce the size
+construction operators
+stall
+important semantic events
+cleaner
+detection from rfid data
+detection algorithms
+tagged object
+charu c aggarwal
+determine a probability
+cleaned
+internet of things
+hierarchical organization
+provide a unique identier
+port
+related to privacy
+rely on the fact
+naturally have a starting
+note that the complexity
+maintaining the object
+added
+measures
+code in a tag
+emit signals
+activities has a probability
+input tuples are independent
+infrastructures
+probabilistic
+diversity of the applications
+centintemel
+windows
+probabilistic event language
+correlated probabilistic streams
+focussed on low
+rfid label
+traditional
+recent method for event
+relational database management system
+opposed to the primitive
+data management issues
+unland
+rfid data with traditional
+larger unit
+natural to rfid
+essentially dropped
+processing with a data
+stream of event sequences
+ieee journal
+peoples location
+blocked at certain times
+user by virtue
+repairs or returns
+criticized tesco
+information about the location
+contextual
+active set
+activity
+opposed
+achieved
+intelligence
+order to identify expired
+warehousing methods
+distinguishing between friendly
+stream processing
+threats
+issues in the data
+libraries
+location observations
+numerous
+concerns arise
+stream of events
+recently
+perform its intended function
+sold
+set of pallets
+rfid implementation challenges
+problem of complex event
+entities interact
+received within this xed
+item was rst
+path-independent dimensions
+context
+unlocking mechanism
+eliminated or consolidated
+data in the rfid
+rfid security
+technology with the relevant
+recursively traverse the entire
+simpler
+static entities
+security in library rfid
+java
+language uses a subset
+rfid tags to cycle
+nite automaton
+correct for dropped readings
+data challenges
+depending upon the distance
+locations for any object
+read many times
+stolen
+inherent in this technology
+longer emits
+properties of rfid
+behavior
+typically use anti-collision
+temporal smoothing
+detection in complex rfid
+probabilistically
+step of acquiring blockers
+eciency of data storage
+rfid data naturally leads
+basic categories
+methods for physical
+reducing auto
+views rfid readings
+authenticated
+identify a large number
+lter for raw
+widely
+peoples
+triggered by a signal
+higher
+learn a cleaning
+flows
+domains
+mining compressed commodity
+moving
+robust
+lower
+automaton
+smart objects
+directly applied to rfid
+makes them widely applicable
+edge
+massive rfid data sets
+overlap in the range
+split into dierent
+people with tags
+data stream
+cleaning costs
+tag signal
+managing rfid data
+tables
+workers
+hitachi unveils smallest
+represent the locations
+warehousing techniques
+unauthorized readers which attempt
+tag using a kernel-based
+generalized
+associations
+caspian similarly criticized tesco
+higher abstraction levels
+aggregation
+queries for event processing
+containment table
+pay-at-pump system
+rfid security and privacy
+scale applications has proliferated
+trend in each cell
+maintained by the mapping
+systematically
+location static static
+read by the tree-walking
+electronic product
+system to fraud
+collect
+essential
+represent the item
+models the boundaries
+raw rfid data streams
+technology makes the tag
+broad overview and survey
+tag may be read
+management for pervasive
+trials of tags
+weis
+scans the rst
+operator imposes
+carids
+adaptive rfid middleware
+user-stated properties
+systems for event processing
+vldb conference
+extraction in pervasive
+policies using authorization views
+movement of wild
+variety of middleware
+privacy concerns arise
+probability values are assigned
+range
+tags can be cloned
+idea is that uncertainty
+event-based dynamic relationships occur
+services
+main kinds of compression
+data-centric
+relevant reader
+models have keys
+tremendous redundancy
+long
+user was physically present
+accesses through the toll
+tancau
+consumption
+complete system
+processing over streams
+enhancing
+denition of radio frequency
+additional protection
+misused in a variety
+attribute
+expressing privacy
+serve as security devices
+characteristic
+method called streamclean
+electronic product identication
+correct relevant
+read tags
+spatiotemporal redundancy
+semantics of complex events
+order to enhance accuracy
+correcting input data errors
+tesco
+integrity constraints in order
+queries at much higher
+tiny rfid
+frequency end
+incur tremendous
+generates
+problems
+helping
+develops
+rfid deployments
+abstract radio
+workow
+temporal data
+data into user congured
+rfid tags being scanned
+sigmod record
+complex events by combining
+high level semantic
+privacy workshop
+rule-based framework is proposed
+sophisticated sensors transmitting
+data is inherently
+privacy invasion and numbering
+ashton
+rfid is a technology
+static entity
+support systems
+overlap
+location queries are required
+designing a rule-based
+issues
+ports from different sources
+commodity owgraph
+server is aggregated
+encryption ability
+issues with rfid data
+stream system
+conference on smart
+hitachi has developed
+tracking very large volumes
+placing sensor
+redundancy because of multiple
+entity called transaction
+related to commercial
+model comprises cuboids
+demonstrated
+item ows
+memo irstr03012
+addition to the traditional
+privacy via antenna
+protects the content
+pattern can be captured
+readings and stored
+variety of pervasive healthcare
+labeled
+rastogi
+networks
+rfid object
+importance of dierent
+respond to the reader
+hour is required
+university of nevada
+desired
+explore
+separation
+related to the movement
+transmit distinct
+warehousing
+order to identify
+ieee data
+larger
+streaming scenarios
+supermarket
+event in multiple readers
+rfid middleware
+rst tagged
+allowed their widespread
+embedded in the rfid
+event-based dynamic
+real scenarios
+takes full
+tag has moved
+gps receivers and transmitters
+feb
+stream
+usa
+plan-based complex event detection
+label maker
+adjusted by the incoming
+possession
+larger number of objects
+sql-like
+design considerations of high
+data such as location
+step of acquiring
+corresponds to instance data
+assigning prexes
+sorted temporally in order
+detects
+compressed signicantly
+high level events
+active rfid
+cleaning stages
+rfid data cleaning performs
+represent business
+manage data
+dropped
+framework which is similar
+perform the queries
+engels
+captured using rfid
+tag
+component is referred
+serial
+made
+experiences with saps
+roy
+incorporate sensing into rfid
+probabilistic data management
+number of new features
+correct conicting
+ending time stamp
+terms of aggregated
+light
+generally accepted
+attempt to surreptitiously
+passive tags
+epc-tagged
+highly dependent
+center hawthorne
+advances in embedded
+typically use anti-collision protocols
+multi-dimensional
+location tracking queries
+match of specied
+radio signal
+probabilistic databases as discussed
+ticular
+missing data
+customer buys
+location corresponds
+correcting input
+out of the readers
+rfidenabled
+practice
+department of computer science
+attributes sensor object location
+data makes the process
+satellites
+system called probabilistic
+worlds
+trac
+uniquely identify the tag
+high-performance complex event processing
+product codes
+transmitted
+exhibits a considerable
+detection across distributed sources
+dierent product
+related
+tree-walking
+joint conference
+out
+category
+epc also contains manufacturer
+performs
+individuals carrying tagged products
+cost is specied
+number of reasoning
+probabilistic representations
+maintains
+work proposes
+information about customer
+policy by designing
+impractical solution
+essentially to determine
+move from one location
+attached to clothing
+absence of prior beliefs
+locating
+consumers back
+primitive events into semantically
+order to process complex
+lead to accumulation
+generally referred
+chips are attached
+architecture for a sensor
+destinations
+absence of stated
+timestamp
+stream event
+query by the reader
+tuple
+authorized readers
+interested in queries
+july
+rfids
+misclassication
+distance from the tag
+matching algorithms over data
+relationships are static
+challenge with managing rfid
+form a path
+individual
+squealing
+security-protection methods
+physical world
+typically active rfid tags
+individual to dierent kinds
+approach has two
+cleaning plan that identies
+short 8-bit password
+cost eective
+deferred cleansing
+ecient query
+re-encrypt the tag
+larger ranges
+selective
+methods for privacy
+assigned to each tuple
+events of rfid data
+repairs
+strength of the scanning
+representation
+class
+largest density
+date of manufacture
+hierarchical aggregation
+events based on application-specic
+rfid applications
+extraction and data management
+traditional data
+recent tag readings
+dene
+rfid-enabled healthcare asset management
+patterns of movement
+solution is to encrypt
+congured
+subsections
+number over a network
+uncertainty propagates as events
+volume of the stream
+massive volume
+smallest
+occurring cells are removed
+thousands
+language peexl
+category and support aggregate
+tagged items and individuals
+exploit the collision
+querying or analytical methods
+chips
+queried
+basic level
+low frequency end
+ltering rule
+prone to errors
+window-based
+queries
+data monitoring queries
+international workshop on privacy
+view
+cryptographic algorithms require
+object locations
+objects in daily
+rfid streams
+considerable amount of redundancy
+underlying data streams
+closer
+tracked in a ubiquitous
+city library in california
+resulting information
+assumes that three dierent
+easure
+tagged objects
+bought
+ecient pattern mining
+ability
+adaptive smoothing lter
+range signals
+challenges for privacy arise
+parameterized predicates
+slowly coming to airports
+writing low
+imposes the constraint
+service attack
+system is texas
+similar to the tstart
+signals being broadcast
+instrumentss speedpass
+fan-in architecture
+sequences
+table
+specication is handled
+embedded into photocopier paper
+management and cleaning
+eective for regular expression
+system is texas instrumentss
+sql queries in order
+device fails
+complex queries
+dierent static and dynamic
+readings also exhibit
+automaton execution to produce
+increasing privacy
+original specication is handled
+baggage tag powered
+database view
+present
+unlike
+clustered path
+identify expired
+item in their collection
+wild
+supply
+layer
+complex event
+active databases and timing
+top of a relational
+probability of tag-presence
+attacks by eavesdropping
+blocking approach
+counter reading
+reading more robust
+extracting probabilistic
+high fan-in and hierarchical
+largest
+interesting aspects
+applying dierent predicates
+explicitly accounted
+smoothing windows
+data this technique
+96-bit class
+acquisition with business processes
+additional troubling aspect
+dierent static
+ability within the tag
+multiple sensor
+sensing
+routinely
+designed towards nding
+obtain
+stay table
+sku
+rapid
+ieee pervasive computing
+business transactions
+dierent readers for data
+zebra unveils
+reader has the capability
+represented by probabilistic databases
+tag with a dierent
+automate the tracking
+primitive event
+volume of the rfid
+processing in uncertain rfid
+track the movement
+order to correct
+reduce the delity
+check-out
+applications may dene
+requires the chip
+management approach
+lowest level
+data cleaning systems
+unequal probability random sample
+sequence
+kdd
+primary kinds of entities
+data processing charu
+two rfid
+data warehousing techniques
+zone to the protected
+snoopib
+lead
+saps auto-id infrastructure
+recently been designed
+privacypreservation process
+locate
+accessible to the user
+data and device-independent
+objectlocation table
+relate to the access
+acquiring blockers
+owner information
+short 8-bit
+large volume
+carried
+extension
+column
+items are removed
+takes full advantage
+carries
+two attributes
+vehicle through the toll
+simultaneous aggregation
+data cleaning performs
+vehicles emit a signal
+warehousing and mining
+greater threat to privacy
+estimators
+state started and ended
+sensor data ing
+ows
+correlating events
+dierent domains
+current window
+smoothing
+surreptitiously scan items
+active tags have larger
+probabilistic event processing system
+triggered
+tag is being polite
+sase event language
+case of data collection
+representations for event
+volume
+language for event processing
+formulating rfid
+automated
+internet services
+temporal dierence
+credit-card like payment
+identify expired food
+challenges
+electromagnetic spectrum
+amount of spatial
+record
+benetton
+wireless transmission
+execution to produce
+monitoring peoples
+overview of problems
+correct is specied
+sase
+make this functionality useless
+single tag
+illinois
+book
+branch
+immobilizer
+kinds
+event may have occurred
+object epc
+inferences for events
+inherently
+jagadish
+sizes and the types
+unequal probability
+string correspond to dierent
+rfid privacy issues
+j.-g lee
+low-cost rfid
+performs all the processing
+coupling
+identier
+identies
+processing over rfid data
+enabling technologies
+form a representative
+identied
+dierent scenarios
+volumes
+pods
+warehouse can be viewed

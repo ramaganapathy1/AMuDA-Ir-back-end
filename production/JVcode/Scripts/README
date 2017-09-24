@@ -1,0 +1,8 @@
+split.py - splits the .tab files in a folder into four files (4-grams,3-grams etc), speeds up metric calculation
+
+AllScores.py - calculates all the three scores for documents, saves in files called <filename>tab.scores in format:
+doc1<space> doc2<space> app_score<space> cont_score<space> elab_score
+
+continuityScore.py - module imported by AllScores
+elaborationScore.py - module imported by AllScores
+applicationScore.py - module imported by AllScores

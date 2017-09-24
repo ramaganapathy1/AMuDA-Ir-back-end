@@ -1,0 +1,4126 @@
+assume all tags::0.0000000000
+ntroduction rfid::0.0000000000
+full 3d tag localization::0.0000000000
+pile of objects::0.0000000000
+marker tags::0.2631578947
+locates the maximum::0.0000000000
+localizes::0.0000000000
+pr2s::0.0000000000
+object clustered::0.0000000000
+shelf with known heights::0.0000000000
+unstructured multi-path environments::0.0000000000
+resolution 1.3mm::0.0000000000
+plane and the position::0.0000000000
+rotated around the vertical::0.0000000000
+strength fluctuation::0.0000000000
+resulting depth images::0.0000000000
+images is the led::0.0000000000
+consists::0.0000000000
+lee::0.0000000000
+quantified in table::0.0000000000
+localized::0.0000000000
+population of tags::0.0000000000
+calculate::0.0000000000
+instantaneous rf power::0.0000000000
+combination of rf power::0.0000000000
+paradigm a mobile rfid::0.0000000000
+arker::0.0000000000
+reader singulates::0.0000000000
+harvest additional::0.0000000000
+individual tags object::0.0000000000
+scenarios that involve::0.0000000000
+indoor location tracking::0.0000000000
+environments is limited::0.0000000000
+fail to find::0.0000000000
+flashed when commanded::0.0000000000
+maximum precision error::0.0000000000
+approximately 1.5-2 meters::0.0000000000
+performs::0.0000000000
+based localization and optical::0.0000000000
+truth measurements::0.0000000000
+camera systems::0.0000000000
+signal strength to estimate::0.0000000000
+detection method::0.0000000000
+exception::0.0000000000
+camera was simply moved::0.0000000000
+personal robotics::0.0000000000
+resolution if out::0.0000000000
+hospital supply::0.0000000000
+information the pr2::0.0000000000
+affect::0.0000000000
+liang-ting jiang::0.0000000000
+camera exposure time window::0.0000000000
+squares::0.0000000000
+camera approach::0.0000000000
+imtable::0.0000000000
+triggers the camera capture::0.0000000000
+takes two::0.0000000000
+cmd::0.0000000000
+solution::0.5434782609
+vector::0.3530166881
+capacitor could easily::0.0000000000
+special command::0.0000000000
+guiding::0.0000000000
+enhance::0.0000000000
+tag with integrated::0.0000000000
+results of this approach::0.0000000000
+point cloud obtained::0.0000000000
+indoor location tracking techniques::0.0000000000
+computing the tag location::0.0000000000
+pixel map detection::0.0000000000
+rfid localization applications::0.0000000000
+presents the estimated plane::0.0000000000
+tag read events::0.0000000000
+consistent::0.0000000000
+radius was approximately 1.5-2::0.0000000000
+quickly and easily accessed::0.0000000000
+successful object::0.0000000000
+pulse::0.0000000000
+led flash and compute::0.0000000000
+checkerboard grid::0.0000000000
+explored more sophisticated::0.0000000000
+portals is not feasible::0.0000000000
+3-d point cloud::0.0000000000
+estimated::0.5555555556
+input::0.0000000000
+blue::0.4364089776
+prototypes on a bookshelf::0.0000000000
+sniffer wisp listens::0.0000000000
+errors::0.4273504274
+vectors to ros::0.0000000000
+identify the correct::0.0000000000
+first sets of columns::0.0000000000
+fact::0.0000000000
+issues a command::0.0000000000
+selected::0.0000000000
+illuminated led::0.0000000000
+stores a small amount::0.0000000000
+functionality and utility::0.0000000000
+required::0.0000000000
+represent an led flash::0.0000000000
+larger errors in tag::0.0000000000
+consisting::0.0000000000
+finding the centroid::0.0000000000
+simultaneously::0.0000000000
+reliably::0.0000000000
+ground truth information::0.0000000000
+precise direction::0.0000000000
+human::0.0000000000
+vector emanating::0.0000000000
+right stereo camera images::0.0000000000
+enhanced rfid::0.5434782609
+multi-path propagation::0.0000000000
+represented::0.4273504274
+isual::0.0000000000
+shelf to the camera::0.0000000000
+trigger flash::0.0000000000
+obtained::0.0000000000
+evaluate the performance::0.0000000000
+left and right stereo::0.0000000000
+wired to the cameras::0.0000000000
+flash a single camera::0.0000000000
+items::0.3623188406
+block diagram::0.0000000000
+scale-invariant features transform::0.0000000000
+received instantaneous rf power::0.0000000000
+issue of locating::0.0000000000
+led wisp::0.4777070064
+york::0.0000000000
+joshua::0.0000000000
+data uhf::0.0000000000
+rf-based tag::0.0000000000
+pr2 robot from willow::0.0000000000
+marker tags which provide::0.0000000000
+nhanced passive rfid tag::0.0000000000
+willow::0.0000000000
+strap::0.0000000000
+visible::0.0000000000
+modulated::0.0000000000
+rgbd type::0.0000000000
+increase in complexity::0.0000000000
+proposes augmenting passive rfid::0.0000000000
+ull 3d tag localization::0.0000000000
+total::0.0000000000
+led wisp repeatedly::0.0000000000
+non-linear kalman::0.0000000000
+addressable led enhanced rfid::0.0000000000
+modulation properties::0.0000000000
+section will focus::0.0000000000
+individually commanded::0.0000000000
+detection technique described::0.0000000000
+location of the tagged::0.0000000000
+traditional rfid location::0.0000000000
+found::0.0000000000
+anechoic chambers and well-structured::0.0000000000
+hospital::0.0000000000
+negative::0.0000000000
+sophisticated methods of computerized::0.0000000000
+right camera is computed::0.0000000000
+asset::0.0000000000
+power control::0.0000000000
+scenario two marker tags::0.0000000000
+type::0.0000000000
+tag location estimation::0.0000000000
+centroids and the fig::0.0000000000
+modification::0.0000000000
+optics has shown promising::0.0000000000
+three-component::0.0000000000
+successful::0.0000000000
+retrieval of tagged items::0.0000000000
+naive::0.0000000000
+faced by traditional::0.0000000000
+camera images of tagged::0.0000000000
+rfid readers ability::0.0000000000
+pixel from the difference::0.0000000000
+resolution of rf based::0.0000000000
+rfid enabled asset management::0.0000000000
+store the ground::0.0000000000
+localization method the target::0.0000000000
+tagged inventory on shelves::0.0000000000
+coarse location information::0.0000000000
+tag can be powered::0.0000000000
+indicator is very effective::0.0000000000
+passive rfid::0.5351681957
+eferences fig::0.0000000000
+depletion layer profiling::0.0000000000
+setup::0.0000000000
+work::0.4587155963
+strong and consistent led::0.0000000000
+image shows::0.0000000000
+write command is issued::0.0000000000
+llrp protocol::0.0000000000
+lanar 3d rfid tag::0.0000000000
+cameras frame trigger::0.0000000000
+optical distortion of fig::0.0000000000
+interaction::0.0000000000
+rssi::0.0000000000
+phase based spatial::0.0000000000
+delay as the led::0.0000000000
+individually addressable led enhanced::0.0000000000
+rfid reader and led::0.0000000000
+location assurance::0.0000000000
+clusters with colors::0.0000000000
+marked with red::0.0000000000
+wang::0.0000000000
+rchitecture::0.0000000000
+rfid reader singulates::0.0000000000
+rfid location::0.0000000000
+shipping application::0.0000000000
+tag stores::0.0000000000
+object detection::0.0000000000
+rfid enabled asset::0.0000000000
+university of washington seattle::0.0000000000
+computational platform::0.0000000000
+feedback to the user::0.0000000000
+function of depletion layer::0.0000000000
+ieee transactions::0.0000000000
+rf-based tag localization::0.0000000000
+complete and signal::0.0000000000
+provide::0.4777070064
+smith department::0.0000000000
+important to remember::0.0000000000
+perceived by the robot::0.0000000000
+multi-path::0.4777070064
+vector for the unknown::0.0000000000
+easured results::0.0000000000
+represent an led::0.0000000000
+strength to estimate::0.0000000000
+place::0.0000000000
+difficult to locate::0.0000000000
+locating passive rfid::0.0000000000
+single camera captures two::0.0000000000
+modulation::0.0000000000
+earlier::0.0000000000
+operating correctly::0.0000000000
+lab::0.0000000000
+ability to accurately localize::0.0000000000
+millimeter::0.0000000000
+efficient and highly::0.0000000000
+noise ratio::0.0000000000
+reliably capture the 1ms::0.0000000000
+sarkka::0.0000000000
+monolithic cmos-compatible algainp visible::0.0000000000
+involve individual item identification::0.0000000000
+rfid ics::0.0000000000
+waits a fixed::0.0000000000
+map detection technique::0.0000000000
+effective::0.4273504274
+1ms pulse::0.0000000000
+multi-path issue::0.0000000000
+autonomously grasp tagged::0.0000000000
+methods previously::0.0000000000
+multi-path issue faced::0.0000000000
+flash their leds::0.0000000000
+ultimately::0.0000000000
+camera to monitor::0.0000000000
+camera as the system::0.0000000000
+complexity::0.0000000000
+checkerboard::0.0000000000
+green::0.3846153846
+substrates::0.0000000000
+tag flash::0.0000000000
+ethernet::0.0000000000
+methods and provides greater::0.0000000000
+order::0.5198487713
+rfid reader and single::0.0000000000
+important to insure::0.0000000000
+feedback::0.0000000000
+pr2s head::0.0000000000
+camera and a rfid::0.0000000000
+two marker tags::0.0000000000
+vary::0.0000000000
+reader issues::0.5434782609
+sensing capabilities::0.0000000000
+led-enhanced rfid tag::0.0000000000
+individual tags with millimeter::0.0000000000
+segmented objects::0.0000000000
+method to precisely locate::0.0000000000
+error occurred::0.0000000000
+previous section::0.0000000000
+soles::0.0000000000
+accurately localize passive::0.0000000000
+effective at aiding personnel::0.0000000000
+order to quickly build::0.0000000000
+personal::0.0000000000
+tag acquisition::0.0000000000
+target object::0.0000000000
+fixed time delay::0.0000000000
+developed cmos::0.0000000000
+fig::0.5794701987
+shows a block diagram::0.0000000000
+robotic grasping::0.0000000000
+reflection and multipath effects::0.0000000000
+16-bit::0.0000000000
+overcome::0.0000000000
+inventory::0.0000000000
+versus::0.0000000000
+charge storage::0.0000000000
+emulate the epc gen2::0.0000000000
+combination::0.0000000000
+necessarily in the plane::0.0000000000
+tags one common::0.0000000000
+effects::0.0000000000
+occurred when determining::0.0000000000
+image processing techniques::0.0000000000
+vertical reference::0.0000000000
+tag positions::0.0000000000
+robot-mounted::0.0000000000
+represents::0.3363228700
+rfid industry::0.0000000000
+corners of the shelf::0.0000000000
+ystem a rchitecture::0.0000000000
+application is the retrieval::0.0000000000
+simple range estimation::0.0000000000
+led flash::0.4364089776
+quickly locating tagged objects::0.0000000000
+widely used in computer::0.0000000000
+tasks for personal robots::0.0000000000
+reasonable::0.0000000000
+sophisticated methods::0.0000000000
+sophisticated rf-based tag localization::0.0000000000
+side::0.0000000000
+humans perspective the tag::0.0000000000
+humans to readily identify::0.0000000000
+truth as blue::0.0000000000
+location corresponds the direction::0.0000000000
+tag direction vectors::0.0000000000
+out to a range::0.0000000000
+transform the 3-d point::0.0000000000
+individually addressed::0.0000000000
+wireless symposium::0.0000000000
+find the target::0.0000000000
+receives a write command::0.0000000000
+low power state::0.0000000000
+identify unique objects::0.0000000000
+issues a write::0.0000000000
+aids::0.0000000000
+unstructured metal objects make::0.0000000000
+surface mount::0.0000000000
+images with extremely high::0.0000000000
+rfid reader and triggered::0.0000000000
+difficult for the robot::0.0000000000
+uhf rfid transponders::0.0000000000
+cameras::0.3846153846
+capacitor and discharges::0.0000000000
+semiconductor::0.0000000000
+separate binary::0.0000000000
+tags is between 1-3::0.0000000000
+tags is between 1-6::0.0000000000
+reader::0.4837187353
+noticeable difference::0.0000000000
+smith::0.0000000000
+cloud is segmented::0.0000000000
+world scenarios::0.0000000000
+robust enough that mobile::0.0000000000
+change between the images::0.0000000000
+commanded to the led::0.0000000000
+operation of the led-enhanced::0.0000000000
+task of identifying::0.0000000000
+free::0.0000000000
+standard::0.0000000000
+commanded to flash::0.0000000000
+rows of books::0.0000000000
+read the led wisp::0.0000000000
+data uhf rfid reader::0.0000000000
+tag in order::0.0000000000
+estimate::0.5434782609
+publication::0.0000000000
+robot has navigated::0.0000000000
+tags with millimeter::0.0000000000
+storage issues::0.0000000000
+packaging and charge::0.0000000000
+silicon::0.0000000000
+depth images tend::0.0000000000
+percent error::0.0000000000
+assuming that all tag::0.0000000000
+structured the tags::0.0000000000
+localizes the led enhanced::0.0000000000
+tracking techniques::0.0000000000
+speeds::0.0000000000
+proposes a more precise::0.0000000000
+increase the spatial::0.0000000000
+optical localization system based::0.0000000000
+structured::0.0000000000
+features::0.0000000000
+leds to enabled::0.0000000000
+guiding people::0.0000000000
+locate tagged::0.0000000000
+centroid of each object::0.0000000000
+reader is augmented::0.0000000000
+table at human-like::0.0000000000
+architecture the system architecture::0.0000000000
+propose to use externally::0.0000000000
+measured ground::0.0000000000
+presented here can flash::0.0000000000
+trials where successful::0.0000000000
+issue a write::0.0000000000
+binary method::0.0000000000
+position accuracy then previously::0.0000000000
+object searching::0.0000000000
+methods of computerized::0.0000000000
+pixel map detection technique::0.0000000000
+addressed and commanded::0.0000000000
+estimate the position::0.0000000000
+installed on the infrastructure::0.0000000000
+similarly::0.0000000000
+form of received::0.0000000000
+show that individual tags::0.0000000000
+protocol sniffer passive::0.0000000000
+heights::0.0000000000
+range versus::0.0000000000
+localization methods can provide::0.0000000000
+3-d location::0.0000000000
+tag and confidence::0.0000000000
+create a 3-d::0.0000000000
+shows books tagged::0.0000000000
+produce a strong::0.0000000000
+estimation and stereo::0.0000000000
+tool::0.0000000000
+flash range::0.0000000000
+designed to explore sensor-enhanced::0.0000000000
+greater position accuracy::0.0000000000
+substantial increase::0.0000000000
+output line::0.0000000000
+design and performance::0.0000000000
+synchronization problem::0.0000000000
+distance::0.4573170732
+thin pcb::0.0000000000
+view of the led::0.0000000000
+rfid tag with integrated::0.0000000000
+target::0.4161331626
+represented by the black::0.0000000000
+shows that the relative::0.0000000000
+bookshelves::0.0000000000
+table i m easured::0.0000000000
+enabled::0.0000000000
+out of band sensing::0.0000000000
+classes::0.0000000000
+right stereo camera locations::0.0000000000
+design::0.0000000000
+kalman filtering::0.0000000000
+table v clearly shows::0.0000000000
+waiting for write::0.0000000000
+marker tags can store::0.0000000000
+acquisition::0.0000000000
+form the led enhanced::0.0000000000
+quickly and easily::0.0000000000
+creates several unique benefits::0.0000000000
+localizing the led::0.0000000000
+tagged items with millimeter::0.0000000000
+address with an rfid::0.0000000000
+desired object::0.0000000000
+proposes augmenting::0.0000000000
+reader then issues::0.0000000000
+determine range information::0.0000000000
+box interface::0.0000000000
+manner::0.0000000000
+additional packaging::0.0000000000
+create rf reflections::0.0000000000
+enabled asset::0.0000000000
+locating passive::0.0000000000
+latency::0.0000000000
+approach are quantified::0.0000000000
+refinements and imtable::0.0000000000
+camera location::0.0000000000
+observes a write command::0.0000000000
+create a 3-d point::0.0000000000
+edge::0.0000000000
+sets of columns::0.0000000000
+camera systems can reliably::0.0000000000
+effectiveness::0.0000000000
+completed::0.0000000000
+circles::0.3846153846
+state mirrors::0.0000000000
+optical localization::0.5434782609
+including the sniffer::0.0000000000
+rssi and power modulated::0.0000000000
+unstructured environments by augmenting::0.0000000000
+proving::0.0000000000
+object::0.1793868232
+tag in millimeters::0.0000000000
+accurately::0.0000000000
+camera has been developed::0.0000000000
+radio and wireless symposium::0.0000000000
+abstractthe::0.0000000000
+wisp whose state::0.0000000000
+ability to measure::0.0000000000
+intersection of the tag::0.0000000000
+object by optically localizing::0.0000000000
+camera captures two::0.0000000000
+center top::0.0000000000
+two antennae::0.0000000000
+tags can me localized::0.0000000000
+reliably capture::0.0000000000
+waits for a fixed::0.0000000000
+methods use an external::0.0000000000
+calculated::0.4120879121
+metal::0.2994011976
+enabled the fast::0.0000000000
+proposed to facilitate object::0.0000000000
+sources::0.0000000000
+inaccuracies::0.0000000000
+require full::0.0000000000
+triggered by the sniffer::0.0000000000
+resolution only 2.6mm::0.0000000000
+proving the functionality::0.0000000000
+plan a feasible::0.0000000000
+diagram of a passive::0.0000000000
+boxes on a metal::0.0000000000
+rasping robot grasping::0.0000000000
+minus an offset::0.0000000000
+manipulation::0.0000000000
+out cause larger errors::0.0000000000
+distance estimation::0.0000000000
+resulting depth::0.0000000000
+tagged item::0.4273504274
+requested write commands::0.0000000000
+tags creates::0.0000000000
+channel and tag::0.0000000000
+error from the camera::0.0000000000
+shown promising::0.0000000000
+externally triggered stereo cameras::0.0000000000
+events to localize::0.0000000000
+injection-avalanche cmos::0.0000000000
+proposed::0.3521126761
+provide a vertical::0.0000000000
+implementation::0.0000000000
+localizing the led enhanced::0.0000000000
+synchronization method and pixel::0.0000000000
+version::0.0000000000
+accurately find the desired::0.0000000000
+detection with confidence scores::0.0000000000
+visualized by rviz::0.0000000000
+diagram of the process::0.0000000000
+wisp listens::0.0000000000
+localizing::0.0000000000
+battery-free programmable sensing platform::0.0000000000
+rotated::0.0000000000
+depth sensor::0.0000000000
+problem with this method::0.0000000000
+provide an effective solution::0.0000000000
+capability is shown::0.0000000000
+scenario for rfid localization::0.0000000000
+tracking of moving objects::0.0000000000
+techniques is desired::0.0000000000
+query and locate::0.0000000000
+camera will simultaneously::0.0000000000
+confidence score::0.0000000000
+requested write::0.0000000000
+increasing::0.0000000000
+perspective the tag::0.0000000000
+done for two::0.0000000000
+facing surface::0.0000000000
+easy find::0.0000000000
+repeatedly pick up objects::0.0000000000
+distance and pose::0.0000000000
+alanson @ u.washington.edu::0.0000000000
+architecture::0.3846153846
+items by personnel::0.0000000000
+identified and located::0.0000000000
+identify::0.4985754986
+macomber::0.0000000000
+camera takes::0.0000000000
+predominate sources of error::0.0000000000
+fluctuation can cause problem::0.0000000000
+precision is limited::0.0000000000
+observes::0.0000000000
+reported::0.0000000000
+tags object::0.0000000000
+wisps led::0.0000000000
+single camera captures::0.0000000000
+depends::0.0000000000
+errors in measurement consistency::0.0000000000
+radius::0.0000000000
+flashed::0.0000000000
+liang-ting::0.0000000000
+calculates a direction::0.0000000000
+fail::0.0000000000
+wisp uses a 16-bit::0.0000000000
+line on the plane::0.0000000000
+triggers a camera::0.0000000000
+reading a conventional rfid::0.0000000000
+rasping robot::0.0000000000
+human-like speeds::0.0000000000
+trial an error occurred::0.0000000000
+explore sensor-enhanced rfid applications::0.0000000000
+radio and wireless::0.0000000000
+score::0.0000000000
+tag and multiple reader::0.0000000000
+ethernet with the rfid::0.0000000000
+plane of the bookshelf::0.0000000000
+approach::0.5681818182
+implementing effective::0.0000000000
+data epc id passive::0.0000000000
+extend::0.0000000000
+consistently chooses::0.0000000000
+department of computer::0.0000000000
+manipulation of objects::0.0000000000
+rfid-enabled localization techniques::0.0000000000
+readily identify::0.0000000000
+items lie::0.0000000000
+due to the wirelessly::0.0000000000
+flash the tags::0.0000000000
+robot will find::0.0000000000
+previous::0.0000000000
+faced::0.0000000000
+received::0.5555555556
+detection is found::0.0000000000
+triggers::0.4273504274
+shown promising results::0.0000000000
+dots are the calculated::0.0000000000
+scene and determine::0.0000000000
+fluctuation::0.0000000000
+work we enhance passive::0.0000000000
+tagged items::0.2994011976
+planned::0.0000000000
+receives::0.0000000000
+flash the tags led::0.0000000000
+fast and reliable::0.0000000000
+power and insure::0.0000000000
+images in pairs::0.0000000000
+robot initializes the rfid::0.0000000000
+location tracking techniques::0.0000000000
+coarse information::0.0000000000
+height::0.0000000000
+active::0.0000000000
+semiconductor science and technology::0.0000000000
+washington seattle::0.0000000000
+exclusively::0.0000000000
+moves the reader antenna::0.0000000000
+shows an image::0.0000000000
+issues a write command::0.0000000000
+tag response to estimate::0.0000000000
+show that individual::0.0000000000
+conference::0.0000000000
+cmos-compatible algainp visible::0.0000000000
+phase-based uhf::0.0000000000
+triggered stereo::0.0000000000
+battery-free::0.0000000000
+traditional rfid::0.0000000000
+basis::0.0000000000
+target tag has sufficient::0.0000000000
+ieee international conference::0.0000000000
+packet sniffer::0.0000000000
+command to repeatedly flash::0.0000000000
+method is to control::0.0000000000
+semiconductor optics has shown::0.0000000000
+trigger::0.4777070064
+locating passive rfid tags::0.0000000000
+craig::0.0000000000
+system on the robot::0.0000000000
+rfid localization techniques::0.0000000000
+calibrated for optical::0.0000000000
+dots::0.4777070064
+first sets::0.0000000000
+servoing for the peak::0.0000000000
+tags as red dots::0.0000000000
+un-synchronize video camera::0.0000000000
+precise location information::0.0000000000
+vectors represents the 3-d::0.0000000000
+items with millimeter::0.0000000000
+shown pointing::0.0000000000
+service node::0.0000000000
+amera s ynchronization::0.0000000000
+top of the shelf::0.0000000000
+washington seattle washington::0.0000000000
+detection with confidence::0.0000000000
+technique combined a video::0.0000000000
+rfid tags are represented::0.0000000000
+user tasked with locating::0.0000000000
+sniffer wisp tag::0.0000000000
+camera locates the tag::0.0000000000
+dependent on range::0.0000000000
+issue faced by traditional::0.0000000000
+books can be determined::0.0000000000
+wisp sends a pair::0.0000000000
+features from one frame::0.0000000000
+computation on board::0.0000000000
+viii::0.0000000000
+tagged books::0.0000000000
+operating exclusively::0.0000000000
+conventional stereo techniques::0.0000000000
+reference point::0.0000000000
+commands as requested::0.0000000000
+pick up objects::0.0000000000
+uniquely tagged object::0.0000000000
+smart camera::0.5681818182
+chooses the same pixel::0.0000000000
+shelf in a lab::0.0000000000
+location is returned::0.0000000000
+center of the stereo::0.0000000000
+passive rfid tags enhanced::0.0000000000
+work compared::0.0000000000
+rgb-d type::0.0000000000
+objects can be automatically::0.0000000000
+ground truth position::0.0000000000
+localization utilized the digital::0.0000000000
+existing depth::0.0000000000
+seattle::0.0000000000
+location because the baseline::0.0000000000
+listens to the communication::0.0000000000
+3-d locations::0.0000000000
+tagged items by personnel::0.0000000000
+prior::0.0000000000
+perform::0.0000000000
+make::0.0000000000
+initial work::0.0000000000
+enhanced passive rfid tag::0.0000000000
+experiment was done::0.0000000000
+tags with a rfid::0.0000000000
+cmd flash led::0.0000000000
+rely on the planar::0.0000000000
+shown using the pr2::0.0000000000
+circles are the measured::0.0000000000
+fairly::0.0000000000
+instrumentation::0.0000000000
+significant time to complete::0.0000000000
+paper proposes::0.0000000000
+tag localization::0.2237591538
+locations of the tags::0.0000000000
+tag localization efforts::0.0000000000
+system for locating tags::0.0000000000
+surface mount led::0.0000000000
+meter distance::0.0000000000
+distance of the marker::0.0000000000
+photosensing wireless::0.0000000000
+vector from the left::0.0000000000
+technique described earlier::0.0000000000
+rasping::0.0000000000
+hospital supply rooms::0.0000000000
+tag modulation::0.0000000000
+shows the 3-d environment::0.0000000000
+square and the position::0.0000000000
+tag today provides coarse::0.0000000000
+scenario::0.3333333333
+sophisticated cameras::0.0000000000
+tag uhf rfid reader::0.0000000000
+wisps::0.4587155963
+error in computing::0.0000000000
+robot using kinect sensor::0.0000000000
+cs.washington.edu abstractthe::0.0000000000
+client::0.0000000000
+overcomes the multi-path::0.0000000000
+extremely high::0.0000000000
+layered approach::0.0000000000
+paradigm::0.0000000000
+epc::0.2960172228
+left::0.2544529262
+tag l ocalization::0.0000000000
+0.5-1.0 meters of spatial::0.0000000000
+protocol::0.4545454545
+tag power level::0.0000000000
+recent work::0.0000000000
+mapping and localization::0.0000000000
+position vectors measured::0.0000000000
+manufacturing process::0.0000000000
+photonic::0.0000000000
+effective computer vision::0.0000000000
+proposes::0.0000000000
+utilized the digital nature::0.0000000000
+mode the tag::0.0000000000
+reliable technique::0.0000000000
+phase based::0.0000000000
+operated::0.0000000000
+publication two::0.0000000000
+electronically::0.0000000000
+rssi and power::0.0000000000
+visualization::0.0000000000
+epc id epc protocol::0.0000000000
+robot plan::0.0000000000
+distance between the left::0.0000000000
+approximately 1.5-2::0.0000000000
+np+::0.0000000000
+eferences::0.0000000000
+passive::0.4838709677
+purposes of presentation::0.0000000000
+making the maximum::0.0000000000
+ultra-low-power microcontroller to emulate::0.0000000000
+shown emanating::0.0000000000
+board::0.0000000000
+easy::0.0000000000
+gen2 protocol::0.0000000000
+reader issues a query::0.0000000000
+objects on a table::0.0000000000
+microcontroller::0.0000000000
+camera frames::0.0000000000
+located in unstructured::0.0000000000
+analysis of low::0.0000000000
+tasks while operating::0.0000000000
+clustered::0.0000000000
+tags presented::0.0000000000
+microcontroller to emulate::0.0000000000
+power & data::0.0000000000
+passive uhf rfid transponders::0.0000000000
+advanced::0.0000000000
+robot to quickly::0.0000000000
+camera capture::0.0000000000
+two known marker::0.0000000000
+specific::0.0000000000
+steps::0.0000000000
+metal bookshelves::0.0000000000
+1.5-2::0.0000000000
+passive rfid tags presented::0.0000000000
+response::0.0000000000
+led is not depended::0.0000000000
+control and received::0.0000000000
+inaccuracies in estimating::0.0000000000
+computerized tag localization::0.0000000000
+vectors are shown::0.0000000000
+right::0.2544529262
+maximum brightness change::0.0000000000
+point correspondences::0.0000000000
+enhanced with leds::0.0000000000
+provide 0.5-1.0::0.0000000000
+sends::0.0000000000
+refinement::0.0000000000
+first with the led::0.0000000000
+individually address::0.0000000000
+fixed amount of energy::0.0000000000
+self-describing world via photosensing::0.0000000000
+coarsely located::0.0000000000
+trigger flash led fig::0.0000000000
+onclusion this paper addresses::0.0000000000
+located at coordinates::0.0000000000
+repeated::0.0000000000
+represents a substantial::0.0000000000
+library::0.0000000000
+computing the individual::0.0000000000
+calibrated::0.0000000000
+low range::0.0000000000
+images and calculates::0.0000000000
+system on the standardized::0.0000000000
+case scenarios::0.0000000000
+fox::0.0000000000
+human or computer::0.0000000000
+camera synchronization fig::0.0000000000
+3-d space::0.0000000000
+light pulse::0.0000000000
+unstructured multi-path::0.0000000000
+ics::0.0000000000
+highly effective::0.0000000000
+calibrated to correct::0.0000000000
+vector towards the tag::0.0000000000
+location is identified::0.0000000000
+position of the rfid::0.0000000000
+successful grasp result::0.0000000000
+show the localization::0.0000000000
+localization system to locate::0.0000000000
+tags enhanced with leds::0.0000000000
+pose::0.0000000000
+tag to flash::0.0000000000
+tags which provide::0.0000000000
+rfid reader issues::0.0000000000
+lamps::0.0000000000
+precent::0.0000000000
+video projector::0.0000000000
+manufacturing::0.0000000000
+signal strength and phase::0.0000000000
+shelf as shown::0.0000000000
+kinect overlayed::0.0000000000
+external frame trigger::0.0000000000
+scenarios that involve individual::0.0000000000
+waits for a response::0.0000000000
+sensor-enhanced rfid::0.0000000000
+workbenches that create::0.0000000000
+flashing the book::0.0000000000
+tag estimation::0.0000000000
+moved onto the task::0.0000000000
+ensure::0.0000000000
+international conference::0.0000000000
+rfid tags with greater::0.0000000000
+previous tag::0.0000000000
+slightly::0.0000000000
+automatically::0.0000000000
+avarge precent::0.0000000000
+system setup::0.0000000000
+naive approach::0.0000000000
+wireless identification::0.0000000000
+synchronization method::0.0000000000
+stereo techniques::0.0000000000
+method to precisely::0.0000000000
+developed cmos compatible leds::0.0000000000
+requested by the host::0.0000000000
+uncontrolled::0.4273504274
+ultra-low-power::0.0000000000
+pair::0.0000000000
+aids in calculating::0.0000000000
+planned grasp::0.0000000000
+maximum brightness::0.0000000000
+paper used a large::0.0000000000
+rfid tag flashing::0.0000000000
+method for guiding::0.0000000000
+rely::0.0000000000
+experiment our goal::0.0000000000
+done for two camera::0.0000000000
+tag localization method::0.0000000000
+strength measured::0.0000000000
+people::0.0000000000
+head provide::0.0000000000
+range indoor::0.0000000000
+grasping::0.5681818182
+lens distortion::0.0000000000
+system networking diagram showing::0.0000000000
+tag read::0.0000000000
+scenario the combination::0.0000000000
+head::0.0000000000
+battery free::0.0000000000
+dietz::0.0000000000
+form::0.0000000000
+applications we propose::0.0000000000
+programmable sensing platform::0.0000000000
+shelving scenario::0.0000000000
+identifying an illuminated::0.0000000000
+image plane::0.0000000000
+points can be identified::0.0000000000
+tag charges::0.0000000000
+reader and single::0.0000000000
+multipath effects::0.0000000000
+right camera::0.0000000000
+prototyping::0.0000000000
+tag and returns::0.0000000000
+makes the resolution 1.3mm::0.0000000000
+sufficient power to flash::0.0000000000
+arrays::0.0000000000
+resolution is limited::0.0000000000
+inside::0.0000000000
+maximum::0.0000000000
+augmenting the tags::0.0000000000
+equipped with an epc::0.0000000000
+angle from the horizon::0.0000000000
+meters::0.4587155963
+navigation based::0.0000000000
+average::0.0000000000
+tag to localize objects::0.0000000000
+promises::0.0000000000
+images of each led::0.0000000000
+computing::0.0000000000
+rfid enabled::0.0000000000
+enhanced passive tag::0.0000000000
+antennae::0.0000000000
+readers ability::0.0000000000
+metal fire::0.0000000000
+out of band::0.0000000000
+shelves::0.0000000000
+find the required point::0.0000000000
+versus the wisps led::0.0000000000
+selected object::0.0000000000
+autonomously grasp::0.0000000000
+smart cameras frame::0.0000000000
+locating tagged::0.0000000000
+resolution and lens::0.0000000000
+tracking with non-linear::0.0000000000
+200mm::0.0000000000
+fitzgerald::0.0000000000
+proceedings::0.0000000000
+issues a special command::0.0000000000
+gen2 rfid reader::0.0000000000
+system architecture::0.3846153846
+setting::0.0000000000
+computer science::0.0000000000
+digital::0.0000000000
+reconstructed 3-d::0.0000000000
+hahnel::0.0000000000
+rfid communication channel::0.0000000000
+receives a write::0.0000000000
+optically::0.0000000000
+picture::0.0000000000
+detection was completed::0.0000000000
+passive rfid tag flashing::0.0000000000
+represents a reasonable::0.0000000000
+red dots::0.4777070064
+order to show::0.0000000000
+flash led::0.0000000000
+rgb-d type sensor::0.0000000000
+scores::0.0000000000
+shown by the blue::0.0000000000
+books tagged::0.0000000000
+measures a static tags::0.0000000000
+proposes augmenting passive::0.0000000000
+nov::0.0000000000
+humans and camera systems::0.0000000000
+green square represents::0.0000000000
+extremely high reliability::0.0000000000
+assume::0.0000000000
+epc write command::0.0000000000
+estimate the distance::0.0000000000
+location in our lab::0.0000000000
+methods can provide::0.0000000000
+led-wisp::0.0000000000
+fairly straightforward::0.0000000000
+line-of-sight from the human::0.0000000000
+estimate tag range::0.0000000000
+object detected::0.0000000000
+precise::0.4545454545
+spiess::0.0000000000
+conventional rfid::0.0000000000
+focus::0.0000000000
+cameras moved from position::0.0000000000
+form the led::0.0000000000
+recognize and locate::0.0000000000
+tag flashes its led::0.0000000000
+computation::0.0000000000
+consists of tagged books::0.0000000000
+ros::0.2994011976
+require full 3d position::0.0000000000
+captured during the localization::0.0000000000
+object cluster::0.0000000000
+mounted::0.0000000000
+columns show::0.0000000000
+sniffer passive::0.0000000000
+zone::0.0000000000
+limited by multi-path propagation::0.0000000000
+results present here represents::0.0000000000
+willwacher::0.0000000000
+technique::0.4545454545
+automatically identified::0.0000000000
+environment::0.5000000000
+confidence scores::0.0000000000
+finally::0.0000000000
+science & engineering::0.0000000000
+first the tagged::0.0000000000
+generally implicit::0.0000000000
+radius was approximately::0.0000000000
+locate and autonomously grasp::0.0000000000
+fact the image shows::0.0000000000
+today if so desired::0.0000000000
+individual tags::0.0000000000
+cameras resolution::0.0000000000
+advantage::0.0000000000
+nhanced passive rfid::0.0000000000
+exception was demonstrated::0.0000000000
+software of the willow::0.0000000000
+spatial resolution is limited::0.0000000000
+repeatedly measures::0.0000000000
+humans and computer::0.0000000000
+overcomes::0.0000000000
+task that frequently fails::0.0000000000
+cmos-compatible algainp visible led::0.0000000000
+stores a small::0.0000000000
+perceived::0.0000000000
+carefully synchronized::0.0000000000
+method and pixel::0.0000000000
+multi-path environments::0.0000000000
+presented::0.5434782609
+planer tag localization method::0.0000000000
+shows a detailed view::0.0000000000
+target tag charges::0.0000000000
+desired object by optically::0.0000000000
+camera captures two table::0.0000000000
+targeted is clearly identifiable::0.0000000000
+item::0.3634894992
+item identification::0.0000000000
+two camera positions::0.0000000000
+sniffer passive rfid tag::0.0000000000
+believed that the predominate::0.0000000000
+wisps read::0.0000000000
+implicit tag localization::0.0000000000
+world via photosensing::0.0000000000
+distance and bearing::0.0000000000
+leds the wireless::0.0000000000
+power & data uhf::0.0000000000
+metal objects make::0.0000000000
+augmenting passive rfid::0.0000000000
+triggers to the camera::0.0000000000
+trades accuracy for acquisition::0.0000000000
+communicate the tag power::0.0000000000
+cost::0.0000000000
+frequently fails::0.0000000000
+object by optically::0.0000000000
+meters in unstructured::0.0000000000
+capturing and computing::0.0000000000
+objects are located::0.0000000000
+epc gen2::0.4545454545
+distortion in the lens::0.0000000000
+results show our system::0.0000000000
+current::0.0000000000
+focused on proving::0.0000000000
+effects in uncontrolled environments::0.0000000000
+international::0.0000000000
+wirelessly power::0.0000000000
+rfid tag localization::0.0000000000
+real world scenarios::0.0000000000
+red and green squares::0.0000000000
+takes two images::0.0000000000
+correctly selected::0.0000000000
+represented as a green::0.0000000000
+unique benefits::0.0000000000
+localize passive uhf::0.0000000000
+faced by traditional rfid::0.0000000000
+challenges to implementing effective::0.0000000000
+trigger input::0.0000000000
+solution described::0.0000000000
+address::0.0000000000
+errors for each tag::0.0000000000
+information is ambiguous due::0.0000000000
+change::0.0000000000
+brightness of the led::0.0000000000
+box::0.0000000000
+noticeable::0.0000000000
+grasping manipulation::0.0000000000
+synchronization and data processing::0.0000000000
+20ms::0.0000000000
+vectors::0.2960172228
+sift::0.0000000000
+commonly::0.0000000000
+led when commanded::0.0000000000
+select the desired object::0.0000000000
+helps with tag::0.0000000000
+instantaneous after write command::0.0000000000
+computer vision applications::0.0000000000
+calibrate the poses::0.0000000000
+cs.washington.edu abstractthe ability::0.0000000000
+objects the intersection::0.0000000000
+bounds on location performance::0.0000000000
+tags with millimeter resolution::0.0000000000
+3-d pointcloud::0.0000000000
+tool in ros::0.0000000000
+sample::0.0000000000
+marked::0.0000000000
+individually addressable::0.0000000000
+ensure that the brightness::0.0000000000
+underneath the objects::0.0000000000
+implemented as a robot::0.0000000000
+marker::0.2631578947
+camera can be computed::0.0000000000
+interacting with a self-describing::0.0000000000
+localization combines::0.0000000000
+projector::0.0000000000
+pcb for mounting::0.0000000000
+advantage of the shelving::0.0000000000
+scan::0.0000000000
+tags as red::0.0000000000
+scenarios::0.0000000000
+readers::0.0000000000
+people to tagged::0.0000000000
+memory::0.0000000000
+rgbd type sensor::0.0000000000
+distance from the camera::0.0000000000
+selects::0.0000000000
+synchronization and data::0.0000000000
+frame trigger::0.0000000000
+identifiable world::0.0000000000
+instructs the tag::0.0000000000
+surface of the item::0.0000000000
+visualization tool in ros::0.0000000000
+unique objects::0.0000000000
+ground truth that helps::0.0000000000
+power & data epc::0.0000000000
+visual::0.0000000000
+protocols and hardware::0.0000000000
+amera::0.0000000000
+position and the green::0.0000000000
+implemented today::0.0000000000
+capturing::0.0000000000
+localization techniques::0.4273504274
+traditional rf based::0.0000000000
+provide more precise tag::0.0000000000
+line for this system::0.0000000000
+rfid tag uhf::0.0000000000
+discharges that fixed::0.0000000000
+library situation::0.0000000000
+integrated leds alanson::0.0000000000
+standard epc::0.0000000000
+ull::0.0000000000
+power modulation::0.0000000000
+believed::0.0000000000
+communicate the tag::0.0000000000
+led passive rfid::0.0000000000
+meters of spatial resolution::0.0000000000
+portals::0.0000000000
+pixel map::0.0000000000
+un-synchronize video::0.0000000000
+figure::0.4950495050
+jrs @ cs.washington.edu abstractthe::0.0000000000
+methods for manufacturing::0.0000000000
+highly precise::0.0000000000
+segmentation of individual objects::0.0000000000
+image acquired::0.0000000000
+performed::0.0000000000
+rfid ic mounting strap::0.0000000000
+checkerboard grid underneath::0.0000000000
+setup we integrated::0.0000000000
+notable exception::0.0000000000
+range information several techniques::0.0000000000
+wireless tags::0.0000000000
+standard epc gen2 tag::0.0000000000
+high volume manner::0.0000000000
+proposed work compared::0.0000000000
+means::0.0000000000
+tags environment::0.0000000000
+augmenting passive rfid tags::0.0000000000
+harvest::0.0000000000
+write::0.2791068581
+computer vision::0.4545454545
+trades accuracy::0.0000000000
+ros service node::0.0000000000
+actual::0.0000000000
+quantum electronics::0.0000000000
+wisps used operated::0.0000000000
+epc protocol sniffer::0.0000000000
+beardsley::0.0000000000
+map::0.0000000000
+aiding personnel::0.0000000000
+represents a lower::0.0000000000
+horizon::0.0000000000
+extinguisher::0.0000000000
+position of an led::0.0000000000
+quantified::0.0000000000
+issue a write command::0.0000000000
+respective::0.0000000000
+item retrieval::0.0000000000
+enhanced with an led::0.0000000000
+applications::0.4545454545
+experiment no marker tags::0.0000000000
+explored::0.0000000000
+designed::0.0000000000
+noise::0.0000000000
+identified by the camera::0.0000000000
+measured between the tag::0.0000000000
+data::0.4335260116
+efforts::0.0000000000
+goal::0.0000000000
+show the localization error::0.0000000000
+techniques show::0.0000000000
+natural::0.0000000000
+remember::0.0000000000
+tag can be estimated::0.0000000000
+june::0.0000000000
+led illuminated::0.0000000000
+lattice-engineered substrates::0.0000000000
+guiding people to tagged::0.0000000000
+lanar::0.0000000000
+verify::0.0000000000
+blink their leds::0.0000000000
+unstructured and uncontrolled environments::0.0000000000
+reader and led::0.0000000000
+correctly::0.0000000000
+imtable ii m easured::0.0000000000
+power state::0.0000000000
+capture to ensure::0.0000000000
+process the rfid reader::0.0000000000
+tagged::0.4046446165
+shelf are side-by-side::0.0000000000
+power nature::0.0000000000
+kinects::0.0000000000
+precise localization::0.0000000000
+sing m arker tags::0.0000000000
+manufacturing a low cost::0.0000000000
+packet sniffer wisp tag::0.0000000000
+vossiek::0.0000000000
+ultra thin pcb::0.0000000000
+aiding::0.0000000000
+cmos power::0.0000000000
+consisting of metal::0.0000000000
+quickly and easy find::0.0000000000
+uhf rfid reader::0.0000000000
+two images::0.0000000000
+multipath::0.0000000000
+ieee::0.1479289941
+modulation and received::0.0000000000
+estimate tag::0.0000000000
+camera not being level::0.0000000000
+locate books::0.0000000000
+monitor::0.0000000000
+pose and distance::0.0000000000
+methods previously reported::0.0000000000
+find the tagged::0.0000000000
+vicinity::0.0000000000
+target led::0.0000000000
+platform::0.4777070064
+broadcasts::0.0000000000
+rfid tags is identified::0.0000000000
+colors showing different segmented::0.0000000000
+range of the reader::0.0000000000
+table are individually::0.0000000000
+calibration is commonly::0.0000000000
+nature of the tag::0.0000000000
+tag position vectors::0.0000000000
+item is coarsely located::0.0000000000
+ambiguous due to reflection::0.0000000000
+views::0.0000000000
+projector and light::0.0000000000
+demonstration of the utility::0.0000000000
+right images may vary::0.0000000000
+charge on a capacitor::0.0000000000
+underneath::0.0000000000
+capture the 1ms::0.0000000000
+captures two table::0.0000000000
+three-component solution consisting::0.0000000000
+unstructured metal::0.0000000000
+video camera::0.0000000000
+coarse location::0.0000000000
+leds::0.5000000000
+holographic::0.0000000000
+presents the estimated::0.0000000000
+corners::0.0000000000
+arrows::0.0000000000
+tag localization utilized::0.0000000000
+desirable::0.0000000000
+band sensing mechanisms::0.0000000000
+camera is operating correctly::0.0000000000
+synchronize::0.0000000000
+truth that helps::0.0000000000
+system consistently::0.0000000000
+items from a table::0.0000000000
+computed in 3-d::0.0000000000
+cluttered environment::0.0000000000
+individually::0.4273504274
+antenna can provide 0.5-1.0::0.0000000000
+square::0.3521126761
+retrieve::0.0000000000
+wisp tag::0.0000000000
+drastically affect rf-based::0.0000000000
+identify the correct pixel::0.0000000000
+overcomes the multi-path issue::0.0000000000
+challenges::0.0000000000
+enhanced passive rfid tags::0.0000000000
+simply attempting::0.0000000000
+record the stereo data::0.0000000000
+object detection was completed::0.0000000000
+capture to ensure synchronization::0.0000000000
+readers ability to measure::0.0000000000
+shown::0.4166666667
+inventories::0.0000000000
+space::0.0000000000
+humans perspective::0.0000000000
+kinect sensor::0.0000000000
+increase::0.0000000000
+technique combined::0.0000000000
+extrapolate::0.0000000000
+vision tests::0.0000000000
+addressable led::0.0000000000
+corresponds the direction vector::0.0000000000
+stereo camera locations::0.0000000000
+side-by-side::0.0000000000
+epc id and calculates::0.0000000000
+occurs with every read::0.0000000000
+receiving::0.0000000000
+sensor::0.3521126761
+correct::0.4273504274
+assurance::0.0000000000
+shows::0.5150554675
+classes of rfid localization::0.0000000000
+quickly locating tagged::0.0000000000
+localization method::0.5434782609
+image from a single::0.0000000000
+include the tracking::0.0000000000
+mechanisms::0.0000000000
+possibility::0.0000000000
+control the output::0.0000000000
+volume version are discussed::0.0000000000
+function of depletion::0.0000000000
+stage the camera::0.0000000000
+high resolution::0.0000000000
+existing depth sensor::0.0000000000
+led enhanced passive uhf::0.0000000000
+remainder::0.0000000000
+represents the camera::0.0000000000
+diagram::0.0000000000
+poses::0.0000000000
+write command to write::0.0000000000
+marked with red dots::0.0000000000
+combination of both traditional::0.0000000000
+waits::0.4273504274
+flashes of light::0.0000000000
+vary slightly::0.0000000000
+require line-of-sight::0.0000000000
+conventional stereo::0.0000000000
+vector by finding::0.0000000000
+ambiguous due::0.0000000000
+silicon p+ np+ injection-avalanche::0.0000000000
+first::0.5434782609
+square represents the camera::0.0000000000
+initial::0.0000000000
+issue of locating passive::0.0000000000
+direction vectors to ros::0.0000000000
+square represents the right::0.0000000000
+discharges::0.0000000000
+planer tag::0.0000000000
+negative pixel::0.0000000000
+rfid beacons::0.0000000000
+blink::0.4777070064
+led flash range::0.0000000000
+efficiently and repeatedly pick::0.0000000000
+represented as angles::0.0000000000
+explored more sophisticated rf-based::0.0000000000
+open::0.0000000000
+majority of usage::0.0000000000
+properties::0.0000000000
+compared to prior work::0.0000000000
+limited::0.0000000000
+individual direction vectors::0.0000000000
+table and compute::0.0000000000
+computerized tag::0.0000000000
+grasp a particular object::0.0000000000
+processing blocks::0.0000000000
+design of rfid::0.0000000000
+difficult tasks for personal::0.0000000000
+find the desired object::0.0000000000
+instantaneous::0.0000000000
+returns::0.0000000000
+calculates the position::0.0000000000
+combined many separate binary::0.0000000000
+order of several centimeters::0.0000000000
+order to determine range::0.0000000000
+order to examine::0.0000000000
+tags was not necessarily::0.0000000000
+rfid tags are marked::0.0000000000
+identification and sensing::0.0000000000
+gen2 protocol and performs::0.0000000000
+system architecture for tag::0.0000000000
+location corresponds::0.0000000000
+precisely locate::0.0000000000
+world via photosensing wireless::0.0000000000
+robot sensors::0.0000000000
+returns a direction vectors::0.0000000000
+standardized hardware::0.0000000000
+raising an output line::0.0000000000
+system complexity::0.0000000000
+command is issued::0.0000000000
+centroids::0.0000000000
+broadcast::0.0000000000
+resulted::0.0000000000
+images that are captured::0.0000000000
+packet::0.0000000000
+relative position::0.0000000000
+manipulating and sorting::0.0000000000
+localization process::0.0000000000
+space assume all tags::0.0000000000
+population::0.0000000000
+integrated our localizing system::0.0000000000
+data is not applicable::0.0000000000
+cmos compatible leds::0.0000000000
+sets of columns show::0.0000000000
+image of tagged objects::0.0000000000
+require::0.0000000000
+quickly build and evaluate::0.0000000000
+identification of corresponding points::0.0000000000
+green square::0.0000000000
+led-wisp prototypes::0.0000000000
+accessed::0.0000000000
+valid detection is found::0.0000000000
+proposed technique combined::0.0000000000
+battery-free programmable sensing::0.0000000000
+tags and projectors::0.0000000000
+books on the shelf::0.0000000000
+drastically affect::0.0000000000
+vision applications::0.0000000000
+showing different segmented::0.0000000000
+select the desired::0.0000000000
+locations::0.2184769039
+present here represents::0.0000000000
+medical::0.0000000000
+calculates the position vectors::0.0000000000
+right stereo camera positions::0.0000000000
+collects::0.0000000000
+reader issues a command::0.0000000000
+basis of robot perception::0.0000000000
+reader to the tags::0.0000000000
+people to tagged objects::0.0000000000
+correct for the optical::0.0000000000
+reading a conventional::0.0000000000
+computationally::0.0000000000
+simply query the scene::0.0000000000
+planar 3d solution described::0.0000000000
+efficient::0.0000000000
+systems is the identification::0.0000000000
+algainp visible led arrays::0.0000000000
+note::0.0000000000
+equipment::0.0000000000
+phase-based uhf rfid tracking::0.0000000000
+techniques such as rssi::0.0000000000
+performance::0.0000000000
+coincide::0.0000000000
+on-board processing::0.0000000000
+measure the ground truth::0.0000000000
+channel::0.0000000000
+directional antenna can provide::0.0000000000
+ameras::0.0000000000
+begin::0.0000000000
+multiple::0.0000000000
+epc id epc::0.0000000000
+point cloud::0.4273504274
+task of grasping::0.0000000000
+epc protocol sniffer passive::0.0000000000
+method along with directional::0.0000000000
+led passive::0.0000000000
+position to position::0.0000000000
+moves the reader::0.0000000000
+shows the reconstructed::0.0000000000
+power level::0.0000000000
+garage pr2::0.0000000000
+represents a uniquely tagged::0.0000000000
+pr2::0.4120879121
+robot using kinect::0.0000000000
+shelf rfid::0.0000000000
+epc id passive rfid::0.0000000000
+wireless::0.4273504274
+easily accessed::0.0000000000
+driven the design::0.0000000000
+vectors for a population::0.0000000000
+node to control::0.0000000000
+positions of the corners::0.0000000000
+common application scenario::0.0000000000
+attempting::0.0000000000
+repeatedly flash::0.0000000000
+metal shelf::0.0000000000
+retrieval::0.0000000000
+reader and triggered::0.0000000000
+reconstructed 3-d locations::0.0000000000
+represents the right::0.0000000000
+additional power::0.0000000000
+incorporation::0.0000000000
+typically::0.0000000000
+identifying an illuminated led::0.0000000000
+kinects view::0.0000000000
+vectors represents::0.0000000000
+drastically::0.0000000000
+scenario is that line-of-sight::0.0000000000
+robots is to locate::0.0000000000
+handheld readers::0.0000000000
+level and lens::0.0000000000
+reference point that aids::0.0000000000
+vicinity of the passive::0.0000000000
+lens and image::0.0000000000
+standardized hardware and software::0.0000000000
+range indoor location tracking::0.0000000000
+vertical reference point::0.0000000000
+threshold::0.0000000000
+green squares::0.0000000000
+identification and localization::0.0000000000
+effective method::0.0000000000
+ground::0.3363228700
+ratio::0.0000000000
+classes of rfid::0.0000000000
+enhanced tag::0.0000000000
+actual 3d location::0.0000000000
+state::0.0000000000
+custom rfid::0.0000000000
+kinect sensor visualized::0.0000000000
+black::0.0000000000
+siggraph::0.0000000000
+snyman::0.0000000000
+responds to the reader::0.0000000000
+tag id 410*::0.0000000000
+employed::0.0000000000
+command the wisp::0.0000000000
+cmos leds as function::0.0000000000
+world perceived::0.0000000000
+precisely locate and autonomously::0.0000000000
+grasp tagged::0.0000000000
+hardware is item::0.0000000000
+humanborne or robot-mounted::0.0000000000
+tags to the camera::0.0000000000
+electronically identifiable::0.0000000000
+space assume::0.0000000000
+applications that require full::0.0000000000
+include the additional::0.0000000000
+tag estimation and stereo::0.0000000000
+event::0.0000000000
+sensing mechanisms::0.0000000000
+binary tag read events::0.0000000000
+rfid tag power::0.0000000000
+reader and back::0.0000000000
+represents a lower bounds::0.0000000000
+communicates::0.0000000000
+protocol sniffer passive rfid::0.0000000000
+programmable battery-free sensing::0.0000000000
+capacitor is sufficiently::0.0000000000
+variant is location::0.0000000000
+rationale::0.0000000000
+complexity and increasing accuracy::0.0000000000
+stereo camera positions::0.0000000000
+vision::0.4545454545
+visual indicator::0.0000000000
+previously reported methods::0.0000000000
+cmos::0.0000000000
+helps with tag localization::0.0000000000
+tag localization method tag::0.0000000000
+triggers a second frame::0.0000000000
+addressable led enhanced::0.0000000000
+bounds::0.0000000000
+relative::0.0000000000
+captures an image::0.0000000000
+infrastructure::0.0000000000
+tag is flashing::0.0000000000
+rfid location methods::0.0000000000
+strap could be bonded::0.0000000000
+images it is difficult::0.0000000000
+passive tag::0.5434782609
+tag is augmented::0.0000000000
+fails::0.0000000000
+safety equipment::0.0000000000
+review::0.0000000000
+stereo cameras for full::0.0000000000
+navigated::0.0000000000
+uncontrolled environments::0.0000000000
+ics is not readily::0.0000000000
+reading::0.0000000000
+architecture the system::0.0000000000
+desired object cluster::0.0000000000
+enhanced wisp::0.0000000000
+window should coincide::0.0000000000
+vertical::0.0000000000
+precent error::0.0000000000
+object identification::0.0000000000
+rfid tags enhanced::0.0000000000
+rfid manufacturing::0.0000000000
+implemented::0.0000000000
+predominate sources::0.0000000000
+measured by a single::0.0000000000
+raising an output::0.0000000000
+pixels::0.0000000000
+robot is equipped::0.0000000000
+led wisps used operated::0.0000000000
+two externally triggered::0.0000000000
+microsoft kinect overlayed::0.0000000000
+implementing::0.0000000000
+sniffer passive rfid::0.0000000000
+power control and received::0.0000000000
+required projector represents::0.0000000000
+technique does require line-of-sight::0.0000000000
+location method::0.0000000000
+propagation::0.0000000000
+basic task of identifying::0.0000000000
+light detector::0.0000000000
+intersection of these vectors::0.0000000000
+environment perceived::0.0000000000
+nearby::0.0000000000
+low range indoor::0.0000000000
+filtering::0.0000000000
+tag from a pile::0.0000000000
+led-enhanced passive::0.0000000000
+distortion of fig::0.0000000000
+overview::0.0000000000
+basis of robot::0.0000000000
+robotics::0.0000000000
+pop::0.0000000000
+objects and the human::0.0000000000
+localizing the passive::0.0000000000
+line-of-site between the tagged::0.0000000000
+locate and autonomously::0.0000000000
+abstractthe ability::0.0000000000
+visible led::0.0000000000
+error for each tag::0.0000000000
+tag today::0.0000000000
+semiconductor science::0.0000000000
+epc gen2 rfid::0.0000000000
+automation::0.0000000000
+object clusters::0.0000000000
+default mode the tag::0.0000000000
+localization of passive::0.0000000000
+human is implicit::0.0000000000
+optically locate the item::0.0000000000
+nhanced passive::0.0000000000
+locate the tags::0.0000000000
+icra::0.0000000000
+combined::0.0000000000
+precision error::0.0000000000
+prototype::0.0000000000
+cs.washington.edu::0.0000000000
+robotic grasping manipulation::0.0000000000
+direction::0.3061224490
+enable::0.0000000000
+tag direction::0.0000000000
+find corresponding features::0.0000000000
+1ms::0.0000000000
+brightness change::0.0000000000
+light detector tag::0.0000000000
+pcb::0.0000000000
+external::0.0000000000
+complete and signal strength::0.0000000000
+ultra::0.0000000000
+protocols::0.0000000000
+case::0.0000000000
+optical location::0.0000000000
+amount of charge::0.0000000000
+led in a camera::0.0000000000
+results for the stereo::0.0000000000
+410* 416*::0.0000000000
+mount::0.0000000000
+environment is unstructured::0.0000000000
+engineering::0.0000000000
+dispersion not being calibrated::0.0000000000
+retrieval of tagged::0.0000000000
+promising::0.0000000000
+situation::0.0000000000
+control the output power::0.0000000000
+passive rfid tag enhanced::0.0000000000
+fact the image::0.0000000000
+planar::0.0000000000
+described in the previous::0.0000000000
+represents the left::0.0000000000
+dots and the ground::0.0000000000
+1.3mm::0.0000000000
+chattopadhyay::0.0000000000
+additional packaging and charge::0.0000000000
+work in semiconductor optics::0.0000000000
+integrated our localizing::0.0000000000
+commanded::0.5681818182
+read the led::0.0000000000
+address these applications::0.0000000000
+garage pr2 robot equipped::0.0000000000
+binary::0.4273504274
+tags direction::0.0000000000
+verified::0.0000000000
+image processing::0.0000000000
+april::0.0000000000
+individual tag it sends::0.0000000000
+write commands as requested::0.0000000000
+demonstration of an enhanced::0.0000000000
+coarsely::0.5434782609
+basic task::0.0000000000
+locate led passive::0.0000000000
+shifts::0.0000000000
+localization efforts::0.0000000000
+van baar::0.0000000000
+blue circles::0.3846153846
+smart camera was simply::0.0000000000
+onclusion this paper::0.0000000000
+reader using the llrp::0.0000000000
+intersection of the plane::0.0000000000
+events::0.0000000000
+robot attempts to perform::0.0000000000
+personnel in quickly locating::0.0000000000
+willow garage pr2::0.0000000000
+directional antenna::0.0000000000
+closest::0.0000000000
+left camera::0.0000000000
+rfig::0.0000000000
+enable an electronically::0.0000000000
+rfid::0.3463236413
+control and received signal::0.0000000000
+approach consider the rows::0.0000000000
+led-wisp by its epc::0.0000000000
+driven::0.0000000000
+surface mount capacitor::0.0000000000
+individual tag::0.0000000000
+wired::0.0000000000
+robustness to multi-path::0.0000000000
+highly::0.0000000000
+individual objects::0.0000000000
+reference::0.0000000000
+estimation and stereo cameras::0.0000000000
+uhf rfid tags::0.3493013972
+locate a tagged::0.0000000000
+tracking::0.0000000000
+localization applications that require::0.0000000000
+item precisely::0.0000000000
+initializes the rfid::0.0000000000
+charges::0.0000000000
+two externally triggered cameras::0.0000000000
+cameras for full::0.0000000000
+interface for the client::0.0000000000
+tag with integrated leds::0.0000000000
+solve::0.0000000000
+important to note::0.0000000000
+reader singulates an individual::0.0000000000
+first the tagged item::0.0000000000
+estimated that the accuracy::0.0000000000
+camera that is carefully::0.0000000000
+leds as function::0.0000000000
+multiple reader::0.0000000000
+camera precision::0.0000000000
+layer profiling::0.0000000000
+generally::0.0000000000
+collects images::0.0000000000
+phase information::0.0000000000
+performs the difference::0.0000000000
+results show::0.4273504274
+rgb-d::0.0000000000
+order to ensure::0.0000000000
+epc write::0.0000000000
+full discussion::0.0000000000
+grid underneath::0.0000000000
+uhf rfid tracking::0.0000000000
+compute their respective::0.0000000000
+result in some error::0.0000000000
+packet sniffer wisp::0.0000000000
+fixed location::0.0000000000
+hardware and software::0.0000000000
+cameras latency::0.0000000000
+stereo data::0.0000000000
+object localization::0.0000000000
+depended on the distance::0.0000000000
+pile::0.0000000000
+architecture for tag::0.0000000000
+flashing::0.2994011976
+technology promises to enable::0.0000000000
+common tasks in rfid::0.0000000000
+real::0.0000000000
+methods we propose::0.0000000000
+shelf are side-by-side books::0.0000000000
+facilitate object::0.0000000000
+grasp pose::0.0000000000
+read::0.4985754986
+papers::0.0000000000
+average deviation::0.0000000000
+hears a write command::0.0000000000
+grid::0.0000000000
+makes::0.0000000000
+calculated using two::0.0000000000
+initializes the rfid localization::0.0000000000
+infrastructure once and provide::0.0000000000
+world::0.5434782609
+localization methods::0.0000000000
+packaging::0.0000000000
+effective solution::0.0000000000
+paper addresses the issue::0.0000000000
+order to record::0.0000000000
+wisp repeatedly::0.0000000000
+tend::0.0000000000
+shown as vectors emanating::0.0000000000
+issues a query command::0.0000000000
+wireless identification and sensing::0.0000000000
+redo the detection::0.0000000000
+spatial resolution::0.0000000000
+locate a tagged item::0.0000000000
+believed that the accuracy::0.0000000000
+output::0.0000000000
+involve individual item::0.0000000000
+resolution under most circumstance::0.0000000000
+verify that merchandise::0.0000000000
+node::0.0000000000
+inventory application::0.0000000000
+craig macomber::0.0000000000
+edge of detection zone::0.0000000000
+algainp::0.0000000000
+isual f eedback::0.0000000000
+peak signal::0.0000000000
+effective at aiding::0.0000000000
+mobile rfid reader::0.0000000000
+small amount::0.0000000000
+passive uhf rfid tags::0.3623188406
+images::0.3488372093
+stereo camera images::0.0000000000
+greatly improved::0.0000000000
+rfid reader and back::0.0000000000
+visualization tool::0.0000000000
+automated system for locating::0.0000000000
+tags are represented::0.0000000000
+additional sensing capabilities::0.0000000000
+technical burden::0.0000000000
+functionality of the rfid::0.0000000000
+write command the wisp::0.0000000000
+completed the robot moved::0.0000000000
+power::0.3122703894
+engineering university::0.0000000000
+communicate::0.0000000000
+combines::0.0000000000
+capture the brief led::0.0000000000
+trials::0.0000000000
+estimated plane::0.0000000000
+find the target object::0.0000000000
+host software is implemented::0.0000000000
+vision systems::0.0000000000
+strap would consist::0.0000000000
+represents a uniquely::0.0000000000
+led enhanced rfid tag::0.0000000000
+left and right images::0.0000000000
+ros service::0.0000000000
+taking a picture::0.0000000000
+injection-avalanche::0.0000000000
+rfid technology promises::0.0000000000
+accurately the location::0.0000000000
+issue faced::0.0000000000
+discussed::0.0000000000
+acm::0.0000000000
+straightforward to calculate::0.0000000000
+errors in tag::0.0000000000
+greatly::0.0000000000
+mounting::0.0000000000
+compatible leds operating::0.0000000000
+application that has driven::0.0000000000
+ynchronization and s ystem::0.0000000000
+tags enhanced::0.0000000000
+integrated leds to enabled::0.0000000000
+black box interface::0.0000000000
+techniques use the rfid::0.0000000000
+beacons::0.0000000000
+communication::0.0000000000
+image::0.5593803787
+singulates an individual tag::0.0000000000
+willow garage::0.0000000000
+majority of images::0.0000000000
+paper addresses::0.0000000000
+data processing blocks::0.0000000000
+modulated distance::0.0000000000
+record the stereo::0.0000000000
+easy find the tagged::0.0000000000
+wisp flashes::0.0000000000
+tag power::0.0000000000
+command to that tag::0.0000000000
+location represents a reasonable::0.0000000000
+image of the reconstructed::0.0000000000
+precisely enough to retrieve::0.0000000000
+design of an rfid-based::0.0000000000
+shows the 3-d::0.0000000000
+system based::0.0000000000
+estimating::0.0000000000
+refinements::0.0000000000
+human to the tag::0.0000000000
+determine range::0.0000000000
+variant is location assurance::0.0000000000
+insure that the capacitor::0.0000000000
+position estimation::0.0000000000
+possibility is to extend::0.0000000000
+rfid localization::0.4545454545
+energy::0.0000000000
+system architecture the system::0.0000000000
+metal fire extinguisher::0.0000000000
+signal strength measured::0.0000000000
+illuminated::0.0000000000
+traditional rf based localization::0.0000000000
+recognize and locate individual::0.0000000000
+write to a specific::0.0000000000
+reduce::0.0000000000
+tag is either inside::0.0000000000
+sophisticated::0.5434782609
+sensing platform::0.0000000000
+wireless tags and projectors::0.0000000000
+prototype of a passive::0.0000000000
+show the effectiveness::0.0000000000
+acts as a standard::0.0000000000
+lens and image plane::0.0000000000
+performs sensing and computation::0.0000000000
+optical location method::0.0000000000
+pixel location corresponds::0.0000000000
+alanson::0.0000000000
+default::0.0000000000
+objects on the table::0.4273504274
+smith department of computer::0.0000000000
+robustness::0.0000000000
+un-synchronize::0.0000000000
+identify and coarsely locate::0.0000000000
+scale-invariant::0.0000000000
+location information::0.0000000000
+object in the cluttered::0.0000000000
+natural extension::0.0000000000
+order to quickly::0.0000000000
+grasp::0.4120879121
+command was issued::0.0000000000
+respective direction::0.0000000000
+detailed::0.0000000000
+architecture for tag acquisition::0.0000000000
+detector tag::0.0000000000
+architecture developed::0.0000000000
+depicted in figure::0.0000000000
+rate of the flashing::0.0000000000
+measurement::0.0000000000
+location of a tag::0.0000000000
+channel and tag modulation::0.0000000000
+general::0.0000000000
+lower bounds::0.0000000000
+point cloud is segmented::0.0000000000
+positions in order::0.0000000000
+tags it is difficult::0.0000000000
+controlled::0.0000000000
+function and interaction::0.0000000000
+success of these techniques::0.0000000000
+locating tagged objects::0.0000000000
+common tasks::0.0000000000
+rfid manufacturing process::0.0000000000
+synchronization fig::0.0000000000
+antenna::0.4545454545
+chambers and well-structured portals::0.0000000000
+computer science & engineering::0.0000000000
+personnel::0.0000000000
+accuracy of this object::0.0000000000
+rfid tag uhf rfid::0.0000000000
+rationale for the marker::0.0000000000
+field::0.0000000000
+valid::0.0000000000
+work we enhance::0.0000000000
+position vectors::0.0000000000
+spatial::0.5434782609
+rfid led flash::0.0000000000
+difference computation::0.0000000000
+3-d::0.3954305800
+flashing is dependent::0.0000000000
+eedback a ided::0.0000000000
+requested::0.0000000000
+strength to estimate tag::0.0000000000
+moved to the left::0.0000000000
+reconstructed 3d tag::0.0000000000
+separate::0.0000000000
+supply rooms::0.0000000000
+attempting to read::0.0000000000
+computerized::0.0000000000
+important::0.5434782609
+track::0.0000000000
+reliable object searching::0.0000000000
+pplication::0.0000000000
+sniffer::0.3968253968
+rviz::0.0000000000
+left camera position::0.0000000000
+camera frames and transform::0.0000000000
+singulates::0.0000000000
+information the pr2 robot::0.0000000000
+issues a special::0.0000000000
+optically localizing::0.0000000000
+charge storage issues::0.0000000000
+sophisticated cameras and image::0.0000000000
+difference image::0.0000000000
+resolution::0.4115226337
+represent::0.0000000000
+externally::0.0000000000
+university of washington::0.0000000000
+volume manner as typically::0.0000000000
+pointing::0.0000000000
+range versus the wisps::0.0000000000
+caused::0.0000000000
+localizing the passive uhf::0.0000000000
+optically locate tagged::0.0000000000
+location errors::0.0000000000
+localizes the led::0.0000000000
+rfid protocols::0.0000000000
+locate the individual tags::0.0000000000
+seattle washington::0.0000000000
+interrogation field::0.0000000000
+arker tags::0.0000000000
+optically locate tagged items::0.0000000000
+commonly used in computer::0.0000000000
+metal bookshelves and workbenches::0.0000000000
+system to locate::0.0000000000
+leds when commanded::0.0000000000
+system setup we integrated::0.0000000000
+map detection::0.0000000000
+level to the reader::0.0000000000
+show our system enables::0.0000000000
+presentation::0.0000000000
+protocol and performs sensing::0.0000000000
+two table::0.0000000000
+mamishev::0.0000000000
+programmable sensing::0.0000000000
+aiding personnel in quickly::0.0000000000
+returned::0.0000000000
+repeatedly flash the tags::0.0000000000
+rfid communication::0.0000000000
+results present::0.0000000000
+represented by red dots::0.0000000000
+programmable battery-free::0.0000000000
+intersection of each tags::0.0000000000
+localization and optical::0.0000000000
+ultra thin::0.0000000000
+simply attempting to read::0.0000000000
+scenario two::0.0000000000
+rfid localization system::0.0000000000
+difference::0.3521126761
+camera precision the system::0.0000000000
+accuracy then previously::0.0000000000
+image captured::0.0000000000
+strong and consistent::0.0000000000
+specific location::0.0000000000
+bonded to the rfid::0.0000000000
+applicable::0.0000000000
+occurs::0.0000000000
+large::0.0000000000
+method the target object::0.0000000000
+black grid presents::0.0000000000
+small::0.0000000000
+application scenario for rfid::0.0000000000
+consist of an ultra::0.0000000000
+results in order::0.0000000000
+full 3d position estimation::0.0000000000
+avarge::0.0000000000
+meisen::0.0000000000
+means the precision::0.0000000000
+methods such as rssi::0.0000000000
+tag is straightforward::0.0000000000
+shelf which is calculated::0.0000000000
+uncontrolled and unstructured environments::0.0000000000
+rate::0.0000000000
+perception::0.0000000000
+additional components::0.0000000000
+displays::0.0000000000
+light with the camera::0.0000000000
+plane of the shelf::0.0000000000
+utility of this approach::0.0000000000
+udp::0.0000000000
+object on the table::0.0000000000
+required projector::0.0000000000
+small surface mount::0.0000000000
+localize objects::0.0000000000
+automatically identified and located::0.0000000000
+amount of energy::0.0000000000
+section::0.4545454545
+circumstance::0.0000000000
+vicinity of the rfid::0.0000000000
+commands the individual wisps::0.0000000000
+rgbd::0.0000000000
+basic form the led::0.0000000000
+processing is depicted::0.0000000000
+method::0.4838709677
+contrast::0.0000000000
+employed as described::0.0000000000
+object with the passive::0.0000000000
+full::0.0000000000
+calibrated out cause larger::0.0000000000
+millimeter resolution::0.0000000000
+tags::0.3349093775
+jaakkola::0.0000000000
+offset for the cameras::0.0000000000
+antenna are mounted::0.0000000000
+locate led::0.0000000000
+usage scenarios::0.0000000000
+operating::0.5434782609
+capacitor::0.4273504274
+led enhanced passive rfid::0.0000000000
+i.e::0.5434782609
+strong::0.0000000000
+planned grasp pose::0.0000000000
+rfid led::0.0000000000
+cameras reader::0.0000000000
+work on rfid tag::0.0000000000
+identifiable::0.0000000000
+combination of precision::0.0000000000
+based on passive rfid::0.0000000000
+robot initializes::0.0000000000
+well-structured::0.0000000000
+system to localize::0.0000000000
+amount::0.0000000000
+target tag waits::0.0000000000
+pick::0.0000000000
+wisps design::0.0000000000
+rfid tag is presented::0.0000000000
+uniquely::0.0000000000
+flash::0.4005655042
+chambers and well-structured::0.0000000000
+broadcast over ethernet::0.0000000000
+provements in location accuracy::0.0000000000
+vii::0.0000000000
+issue for our human::0.0000000000
+phase-based uhf rfid::0.0000000000
+sniffer to trigger::0.0000000000
+rfid tracking::0.0000000000
+jrs::0.0000000000
+theoretical camera::0.0000000000
+recent work in semiconductor::0.0000000000
+stereo camera::0.4545454545
+multi-path effects in uncontrolled::0.0000000000
+creates several unique::0.0000000000
+readily::0.0000000000
+shelf and tags::0.0000000000
+intensive::0.0000000000
+conventional::0.0000000000
+takes::0.0000000000
+advanced camera calibration::0.0000000000
+challenge for computer::0.0000000000
+two::0.4545454545
+two camera frames::0.0000000000
+bottleneck::0.0000000000
+mori::0.0000000000
+sends a pair::0.0000000000
+rfid tag in order::0.0000000000
+objects make::0.0000000000
+precision and robustness::0.0000000000
+led arrays on silicon::0.0000000000
+object closest::0.0000000000
+extend the functionality::0.0000000000
+estimated position::0.0000000000
+showing the camera synchronization::0.0000000000
+camera locates::0.0000000000
+tags with leds::0.0000000000
+greater accuracy::0.0000000000
+location of the shelf::0.0000000000
+book being targeted::0.0000000000
+experiment the checkerboard::0.0000000000
+pairs::0.0000000000
+shows the estimated position::0.0000000000
+accurately find::0.0000000000
+rfid reader and user::0.0000000000
+cluttered::0.0000000000
+architecture developed for capturing::0.0000000000
+general vicinity::0.0000000000
+majority of usage scenarios::0.0000000000
+height and angle::0.0000000000
+precise location::0.0000000000
+science::0.0000000000
+red and green::0.0000000000
+shows books::0.0000000000
+fast::0.0000000000
+interaction of these blocks::0.0000000000
+identify the pixel location::0.0000000000
+issues a query::0.0000000000
+led enhanced passive::0.4777070064
+methods of computerized tag::0.0000000000
+sufficiently charge::0.0000000000
+asset management and shipping::0.0000000000
+rchitecture using the led-wisp::0.0000000000
+tasks while operating exclusively::0.0000000000
+tracking with non-linear kalman::0.0000000000
+cmos compatible::0.0000000000
+synchronized::0.0000000000
+controlled the rf environment::0.0000000000
+416*::0.0000000000
+response from the camera::0.0000000000
+projector represents::0.0000000000
+camera captures::0.0000000000
+sense::0.0000000000
+research topic::0.0000000000
+bonded::0.0000000000
+axis::0.0000000000
+information::0.4364089776
+chattopadhyay and a harish::0.0000000000
+utility of led enhanced::0.0000000000
+location estimation::0.0000000000
+find the desired::0.0000000000
+green squares represents::0.0000000000
+robustness to multi-path effects::0.0000000000
+identify and coarsely::0.0000000000
+include the additional components::0.0000000000
+centimeters::0.0000000000
+repeatedly measures a static::0.0000000000
+greatly improved by camera::0.0000000000
+right camera position::0.0000000000
+position of these two::0.0000000000
+harvest additional power::0.0000000000
+difficult tasks::0.0000000000
+output power level::0.0000000000
+tags with integrated::0.0000000000
+unique::0.0000000000
+listens for data::0.0000000000
+variant::0.0000000000
+mapping::0.0000000000
+plane::0.2911813644
+rssi map::0.0000000000
+engineering university of washington::0.0000000000
+camera image::0.0000000000
+pre-specified locations::0.0000000000
+power & blink::0.0000000000
+enhanced wisps::0.0000000000
+increasing accuracy::0.0000000000
+jiang::0.0000000000
+square represents::0.0000000000
+rfid tags creates::0.0000000000
+profiling and defect::0.0000000000
+leds operating::0.0000000000
+power for the target::0.0000000000
+camera calibration is commonly::0.0000000000
+method as described::0.0000000000
+localization applications::0.0000000000
+compatible leds::0.0000000000
+rfid transponders::0.0000000000
+automated system::0.0000000000
+operated out::0.0000000000
+localization of tagged inventory::0.0000000000
+location performance::0.0000000000
+position of the tags::0.0000000000
+signal strength fluctuation::0.0000000000
+limited by multi-path::0.0000000000
+challenges to implementing::0.0000000000
+led-enhanced::0.0000000000
+distortion::0.0000000000
+scaled for the purposes::0.0000000000
+paper::0.4273504274
+create a difference map::0.0000000000
+reader inventories the tags::0.0000000000
+meter to the target::0.0000000000
+represents the 3-d::0.0000000000
+based localization::0.0000000000
+pop out shows::0.0000000000
+april-1::0.0000000000
+tag is presented::0.0000000000
+camera system::0.0000000000
+baar::0.0000000000
+handheld::0.0000000000
+center of the camera::0.0000000000
+detected::0.0000000000
+objects make it difficult::0.0000000000
+systems::0.4545454545
+van::0.0000000000
+query a database::0.0000000000
+pointcloud::0.0000000000
+epc protocol::0.0000000000
+uhf::0.3311258278
+optical distortion::0.0000000000
+enhance passive::0.0000000000
+response is received::0.0000000000
+effective method for guiding::0.0000000000
+out shows::0.0000000000
+pop out::0.0000000000
+prior work on rfid::0.0000000000
+location method to precisely::0.0000000000
+sensing and computational::0.0000000000
+computer systems::0.0000000000
+similarly an un-synchronize::0.0000000000
+waits a fixed delay::0.0000000000
+reader issues write::0.0000000000
+individually commanded to blink::0.0000000000
+scenarios position::0.0000000000
+easily::0.0000000000
+rfid tag today::0.0000000000
+on-board processing capability::0.0000000000
+overlayed with the direction::0.0000000000
+augmented with an led::0.0000000000
+level::0.5434782609
+rfid tag localization initial::0.0000000000
+capability::0.0000000000
+commanded to blink::0.0000000000
+robot needs to find::0.0000000000
+inherent::0.0000000000
+previous tag localization::0.0000000000
+solution consisting::0.0000000000
+host gets a request::0.0000000000
+task that frequently::0.0000000000
+transform::0.0000000000
+read event::0.0000000000
+autonomously::0.0000000000
+transform the 3-d::0.0000000000
+led-enhanced passive rfid::0.0000000000
+ided::0.0000000000
+rfig lamps::0.0000000000
+positioned::0.0000000000
+development of personal robotics::0.0000000000
+automated identification and localization::0.0000000000
+addition of individually::0.0000000000
+perspective::0.0000000000
+grasping in the unstructured::0.0000000000
+quantum::0.0000000000
+represented by red::0.0000000000
+operation::0.0000000000
+power for the mobile::0.0000000000
+shown as vectors::0.0000000000
+viikari::0.0000000000
+robot plan a feasible::0.0000000000
+signal to noise::0.0000000000
+two books::0.0000000000
+philipose::0.0000000000
+tag position::0.0000000000
+limited by the cameras::0.0000000000
+research::0.0000000000
+modulation and received signal::0.0000000000
+capture the rfid::0.0000000000
+addressable::0.0000000000
+safety::0.0000000000
+tags with known heights::0.0000000000
+20ms in order::0.0000000000
+point in space::0.0000000000
+issue::0.4273504274
+power & blink cmd::0.0000000000
+sophisticated rf-based tag::0.0000000000
+grasp result::0.0000000000
+wirelessly power nature::0.0000000000
+computational platform designed::0.0000000000
+joshua r smith department::0.0000000000
+localization::0.4032258065
+pose of the bookshelf::0.0000000000
+differencemap::0.0000000000
+camera synchronization and data::0.0000000000
+vector to the led::0.0000000000
+difference between the wisps::0.0000000000
+coarsely locate tagged::0.0000000000
+base::0.0000000000
+brightest::0.0000000000
+simply moved::0.0000000000
+equipped::0.0000000000
+two pixels::0.0000000000
+object is correctly::0.0000000000
+read events::0.0000000000
+kalman filtering and smoothing::0.0000000000
+calculates a direction vector::0.0000000000
+prior work::0.0000000000
+wisp whose state mirrors::0.0000000000
+benefits::0.0000000000
+service::0.0000000000
+noted::0.0000000000
+inherent tradeoff::0.0000000000
+enhance passive uhf rfid::0.0000000000
+represents a substantial increase::0.0000000000
+solution overcomes::0.0000000000
+localization method as described::0.0000000000
+top::0.0000000000
+small surface mount capacitor::0.0000000000
+shows an image captured::0.0000000000
+camera was simply::0.0000000000
+major::0.0000000000
+video projector and light::0.0000000000
+based on rfid beacons::0.0000000000
+effects in uncontrolled::0.0000000000
+results consist::0.0000000000
+enables the robot::0.0000000000
+write command was issued::0.0000000000
+enhanced passive rfid::0.5434782609
+utilized::0.0000000000
+information is desirable::0.0000000000
+done::0.0000000000
+approximately::0.0000000000
+ystem::0.0000000000
+ntroduction rfid technology promises::0.0000000000
+database for the ground::0.0000000000
+out shows a detailed::0.0000000000
+silicon on lattice-engineered substrates::0.0000000000
+phenomena can drastically affect::0.0000000000
+enable the robot::0.0000000000
+today provides coarse location::0.0000000000
+state for 20ms::0.0000000000
+locating a tagged::0.0000000000
+robot-mounted reader with two::0.0000000000
+rfid tracking with non-linear::0.0000000000
+sufficient power::0.0000000000
+diagram showing the camera::0.0000000000
+led enhanced tag::0.0000000000
+show::0.4335260116
+scheme::0.0000000000
+store::0.0000000000
+cmd flash::0.0000000000
+vectors emanating::0.0000000000
+reported methods::0.0000000000
+valid detection::0.0000000000
+line-of-sight from the rfid::0.0000000000
+methods and system::0.0000000000
+shelving::0.0000000000
+localization process the rfid::0.0000000000
+ieee international::0.0000000000
+strength and phase information::0.0000000000
+visible to spectators::0.0000000000
+rfid tag localization utilized::0.0000000000
+optical::0.4985754986
+received signal strength::0.0000000000
+injection-avalanche cmos leds::0.0000000000
+publication two externally triggered::0.0000000000
+3-d environment::0.0000000000
+reflection::0.0000000000
+reader to issue::0.0000000000
+lower bounds on location::0.0000000000
+camera calibration::0.0000000000
+vectors for each tag::0.0000000000
+scenario for rfid::0.0000000000
+tagged with the led-wisp::0.0000000000
+determined::0.0000000000
+workbenches::0.0000000000
+reader with two::0.0000000000
+represents a reasonable distance::0.0000000000
+system enables::0.0000000000
+battery-free sensing and computational::0.0000000000
+external protocol sniffer::0.0000000000
+localization of tagged::0.0000000000
+successful object detection::0.0000000000
+build and evaluate::0.0000000000
+system must verify::0.0000000000
+cameras resolution and lens::0.0000000000
+enhanced rfid tag::0.0000000000
+defect::0.0000000000
+detection technique described earlier::0.0000000000
+substantial::0.0000000000
+manipulating::0.0000000000
+tag has sufficient::0.0000000000
+common application::0.0000000000
+lie::0.0000000000
+rfid tag::0.4545454545
+multi-path phenomena can drastically::0.0000000000
+work this paper::0.0000000000
+repeated for three camera::0.0000000000
+ull 3d tag::0.0000000000
+methods are robust::0.0000000000
+photosensing::0.0000000000
+tag direction vector::0.0000000000
+build::0.0000000000
+finding::0.0000000000
+camera position::0.2925877763
+diagram showing::0.0000000000
+holographic localization::0.0000000000
+tagged objects nearby::0.0000000000
+epc gen2 rfid reader::0.0000000000
+components::0.0000000000
+system for locating::0.0000000000
+signal strength::0.5555555556
+detection until a valid::0.0000000000
+highly effective method::0.0000000000
+measures::0.0000000000
+experiment no marker::0.0000000000
+tags is identified::0.0000000000
+capture the blink::0.0000000000
+consistency::0.0000000000
+plan::0.0000000000
+significant::0.0000000000
+retail displays::0.0000000000
+magnitude and phase::0.0000000000
+measured::0.3846153846
+tag flashing::0.0000000000
+dispersion::0.0000000000
+wisp tag is wired::0.0000000000
+battery-free sensing::0.0000000000
+mobile::0.0000000000
+type sensor::0.0000000000
+request to locate::0.0000000000
+phenomena can drastically::0.0000000000
+dimension::0.0000000000
+traditional::0.0000000000
+receiving the write::0.0000000000
+accurately localize passive uhf::0.0000000000
+reflections::0.0000000000
+onclusion::0.0000000000
+humans to readily::0.0000000000
+reduce the total::0.0000000000
+microsoft::0.0000000000
+rfid tag enhanced::0.0000000000
+conventional rfid tag today::0.0000000000
+standard epc gen2::0.0000000000
+tasks in rfid::0.0000000000
+camera collects::0.0000000000
+brightness::0.0000000000
+acquired using the microsoft::0.0000000000
+robot operating system::0.0000000000
+data uhf rfid::0.0000000000
+locate individual::0.0000000000
+software is implemented::0.0000000000
+place on the corners::0.0000000000
+full 3d tag::0.0000000000
+enhanced passive uhf rfid::0.0000000000
+images of tagged::0.0000000000
+computer vision systems::0.0000000000
+easily be implemented::0.0000000000
+find::0.5681818182
+computed in 3-d space::0.0000000000
+ground truth is shown::0.0000000000
+indicator::0.0000000000
+0.5-1.0 meters::0.0000000000
+depended::0.0000000000
+rfid-based battery-free programmable sensing::0.0000000000
+images with extremely::0.0000000000
+consisting of metal bookshelves::0.0000000000
+blink cmd event trigger::0.0000000000
+received signal::0.0000000000
+developed cmos compatible::0.0000000000
+captures::0.0000000000
+small surface::0.0000000000
+columns::0.0000000000
+harvested::0.0000000000
+capture the 1ms pulse::0.0000000000
+localization are demonstrated::0.0000000000
+exposure time window::0.0000000000
+dependent::0.0000000000
+clusters and the direction::0.0000000000
+unstructured and uncontrolled::0.0000000000
+ided l ocalization::0.0000000000
+tag uhf::0.0000000000
+yeager::0.0000000000
+synchronization::0.4120879121
+performance is presented::0.0000000000
+1ms pulse of light::0.0000000000
+sniffer wisp::0.3634894992
+enhanced rfid tags creates::0.0000000000
+cameras trigger input::0.0000000000
+harvested rf energy::0.0000000000
+merchandise::0.0000000000
+promising results::0.0000000000
+scheme can be greatly::0.0000000000
+identify the pixel::0.0000000000
+tag stores a small::0.0000000000
+networking diagram::0.0000000000
+assuming::0.0000000000
+localize passive uhf rfid::0.0000000000
+selects the object::0.0000000000
+1.3mm per meter::0.0000000000
+range indoor location::0.0000000000
+common::0.0000000000
+filtering and smoothing::0.0000000000
+pr2 robot equipped::0.0000000000
+creates::0.0000000000
+easy to identify::0.0000000000
+tags in uncontrolled::0.0000000000
+robot grasping::0.0000000000
+locating::0.5434782609
+pointing towards the tags::0.0000000000
+correspondences::0.0000000000
+achieved::0.0000000000
+efficient and highly precise::0.0000000000
+substantial increase in complexity::0.0000000000
+passive rfid tag power::0.0000000000
+humanborne::0.0000000000
+tags are marked::0.0000000000
+ability to accurately::0.0000000000
+individual::0.5369928401
+chambers::0.0000000000
+locate a tag::0.0000000000
+acts::0.0000000000
+fast and reliable object::0.0000000000
+explore sensor-enhanced::0.0000000000
+metal objects::0.0000000000
+shelf and tags relative::0.0000000000
+ynchronization::0.0000000000
+directional::0.0000000000
+user::0.0000000000
+capture the rfid led::0.0000000000
+asset management::0.0000000000
+ensure synchronization::0.0000000000
+joshua r smith::0.0000000000
+humans and computer systems::0.0000000000
+10-20::0.0000000000
+field of the rfid::0.0000000000
+tag provides a highly::0.0000000000
+triggered cameras::0.0000000000
+integrated leds::0.0000000000
+camera positions::0.0000000000
+profiling::0.0000000000
+rfid readers::0.0000000000
+targeted::0.0000000000
+enhanced passive::0.4985754986
+tag in a fixed::0.0000000000
+platform designed::0.0000000000
+fire extinguisher::0.0000000000
+monolithic cmos-compatible::0.0000000000
+order to harvest additional::0.0000000000
+uncontrolled and unstructured::0.0000000000
+percent::0.0000000000
+interface::0.0000000000
+camera has only computed::0.0000000000
+block indicates the planned::0.0000000000
+captured::0.0000000000
+out by the camera::0.0000000000
+enables::0.0000000000
+technique described::0.0000000000
+make it difficult::0.0000000000
+led flashes::0.0000000000
+level of ground::0.0000000000
+tag response::0.0000000000
+chosen for prototyping::0.0000000000
+objects in the images::0.0000000000
+pr2 robot::0.4545454545
+minus::0.0000000000
+personnel in quickly::0.0000000000
+wisps read range versus::0.0000000000
+trials resulted::0.0000000000
+unstructured metal objects::0.0000000000
+reliable object::0.0000000000
+drastically affect rf-based methods::0.0000000000
+simultaneously capture::0.0000000000
+locate passive tags::0.0000000000
+arbitrarily::0.0000000000
+kirsch::0.0000000000
+respond to the query::0.0000000000
+100ms::0.0000000000
+point::0.4985754986
+order to increase::0.0000000000
+ethernet via udp::0.0000000000
+microsoft kinect::0.0000000000
+robot attempts::0.0000000000
+corresponds::0.0000000000
+instance the strap::0.0000000000
+well-structured portals::0.0000000000
+rfid tags in uncontrolled::0.0000000000
+simply::0.0000000000
+capabilities::0.0000000000
+image is a fairly::0.0000000000
+communicates over ethernet::0.0000000000
+sing::0.0000000000
+distance of the shelf::0.0000000000
+information in memory::0.0000000000
+autonomously grasp tagged items::0.0000000000
+described::0.4545454545
+localizing system::0.0000000000
+similarly an un-synchronize video::0.0000000000
+create::0.0000000000
+shown in figure::0.0000000000
+pulse of light::0.0000000000
+due::0.0000000000
+cameras frame::0.0000000000
+implicit::0.0000000000
+performs sensing::0.0000000000
+determine the 3-d::0.0000000000
+coarse::0.0000000000
+easily be implemented today::0.0000000000
+rao::0.0000000000
+high volume::0.0000000000
+reflection and multipath::0.0000000000
+human or computer vision::0.0000000000
+order to determine::0.0000000000
+chilukuri::0.0000000000
+increase the spatial resolution::0.0000000000
+kalman::0.0000000000
+fire::0.0000000000
+location information is desirable::0.0000000000
+leigh::0.0000000000
+provide an effective::0.0000000000
+precision::0.4545454545
+computation tasks::0.0000000000
+greater position::0.0000000000
+rf-based methods::0.0000000000
+cameras are widely::0.0000000000
+locate and grasp::0.0000000000
+reader and camera::0.0000000000
+sniffer wisp sends::0.0000000000
+calculating the 3d location::0.0000000000
+version are discussed::0.0000000000
+robotics and automation::0.0000000000
+low cost::0.0000000000
+object localization method::0.0000000000
+augmenting passive::0.0000000000
+propose::0.0000000000
+paradigm a mobile::0.0000000000
+passive uhf rfid::0.3731343284
+reliable::0.0000000000
+detection zone::0.0000000000
+default mode::0.0000000000
+cluster::0.0000000000
+warehouse::0.0000000000
+tag power & blink::0.0000000000
+camera was not calibrated::0.0000000000
+capability for localizing::0.0000000000
+unstructured human environment::0.0000000000
+error::0.3910950662
+compute the distance::0.0000000000
+application scenario::0.0000000000
+moved from position::0.0000000000
+arker tags one common::0.0000000000
+larger::0.0000000000
+columns show the localization::0.0000000000
+vol::0.3424657534
+camera to tag::0.0000000000
+rfid tags with integrated::0.0000000000
+indoor location::0.0000000000
+precision the system::0.0000000000
+location and magnitude::0.0000000000
+tags with greater::0.0000000000
+wisps to blink::0.0000000000
+regions with no depth::0.0000000000
+camera whenever is observes::0.0000000000
+techniques depends::0.0000000000
+data epc::0.0000000000
+result::0.0000000000
+position accuracy::0.0000000000
+overlayed::0.0000000000
+localization initial work::0.0000000000
+baseline::0.0000000000
+rfid-based battery-free::0.0000000000
+trial::0.0000000000
+lengths::0.0000000000
+completed the robot::0.0000000000
+estimate distance::0.0000000000
+individual item identification::0.0000000000
+usage scenarios that involve::0.0000000000
+reconstructed::0.0000000000
+externally triggered::0.0000000000
+widely::0.0000000000
+enhance passive uhf::0.0000000000
+trigger flash led::0.0000000000
+augmented with a camera::0.0000000000
+cmos-compatible::0.0000000000
+compared to prior::0.0000000000
+3-d visualization tool::0.0000000000
+table at human-like speeds::0.0000000000
+sends a command::0.0000000000
+locate led passive rfid::0.0000000000
+individual direction::0.0000000000
+correct pixel::0.0000000000
+willow garage pr2 robot::0.0000000000
+monolithic::0.0000000000
+arbitrarily scaled::0.0000000000
+precise localization techniques::0.0000000000
+camera is operating::0.0000000000
+strength::0.5555555556
+moving::0.0000000000
+tags fig::0.0000000000
+camera synchronization::0.0000000000
+detection technique::0.0000000000
+involve individual::0.0000000000
+additional power and insure::0.0000000000
+lanar 3d rfid::0.0000000000
+recent::0.0000000000
+mobile rfid::0.0000000000
+task::0.0000000000
+plessis::0.0000000000
+database::0.0000000000
+algainp visible led::0.0000000000
+navigation::0.0000000000
+utility of led::0.0000000000
+accurately localize::0.0000000000
+represents the 3-d location::0.0000000000
+vector to that tag::0.0000000000
+analysis::0.0000000000
+segmented::0.0000000000
+computer vision tests::0.0000000000
+instantaneous after write::0.0000000000
+location tracking::0.0000000000
+resulted in successful::0.0000000000
+paper proposes augmenting passive::0.0000000000
+cmos compatible leds operating::0.0000000000
+point that aids::0.0000000000
+equipped with the rfid::0.0000000000
+green block::0.0000000000
+developed for capturing::0.0000000000
+high reliability::0.0000000000
+robot from willow garage::0.0000000000
+tasks::0.0000000000
+moving objects::0.0000000000
+create a difference::0.0000000000
+immediately::0.0000000000
+camera calibration these results::0.0000000000
+traditional rfid location methods::0.0000000000
+addresses::0.0000000000
+strength and phase::0.0000000000
+coarsely locate tagged items::0.0000000000
+rfid localization method::0.0000000000
+tags are place::0.0000000000
+majority::0.0000000000
+focus on the methods::0.0000000000
+rfid antenna::0.0000000000
+pixels that represent::0.0000000000
+guaranteed::0.0000000000
+multiple reader antennae::0.0000000000
+identify unique::0.0000000000
+kinect::0.3412969283
+method tag::0.0000000000
+singulates an individual::0.0000000000
+location::0.5170316302
+scale-invariant features::0.0000000000
+combined many separate::0.0000000000
+instructs::0.0000000000
+garage pr2 robot::0.0000000000
+tasks in rfid enabled::0.0000000000
+calibrated for optical distortion::0.0000000000
+optics has shown::0.0000000000
+leds the wireless identification::0.0000000000
+complexity and power::0.0000000000
+evaluate::0.0000000000
+showing::0.0000000000
+efficiently and repeatedly::0.0000000000
+emanating::0.0000000000
+projector represents a substantial::0.0000000000
+location of the tag::0.0000000000
+cmd flash led fig::0.0000000000
+wirelessly::0.0000000000
+direction vector::0.3333333333
+addresses the issue::0.0000000000
+sorting::0.0000000000
+images may vary::0.0000000000
+small amount of charge::0.0000000000
+signal::0.4985754986
+identifying::0.0000000000
+ramamurthy::0.0000000000
+direction vector emanating::0.0000000000
+computationally intensive::0.0000000000
+segmented into different blobs::0.0000000000
+identification of uhf rfid::0.0000000000
+translated::0.0000000000
+robot moved::0.0000000000
+difficult for humans::0.0000000000
+review previous::0.0000000000
+low range indoor location::0.0000000000
+black box::0.0000000000
+methods::0.4249291785
+distance from the shelf::0.0000000000
+lattice-engineered::0.0000000000
+phase::0.0000000000
+tag localization initial work::0.0000000000
+back::0.0000000000
+pings::0.0000000000
+tasked with locating::0.0000000000
+error occurred when determining::0.0000000000
+red square::0.0000000000
+rfid industry to include::0.0000000000
+examples::0.0000000000
+computed the 2d location::0.0000000000
+command the tag::0.0000000000
+represents the right camera::0.0000000000
+epc gen2 protocol::0.0000000000
+3-d visualization::0.0000000000
+tereo::0.0000000000
+self-describing world::0.0000000000
+abstractthe ability to accurately::0.0000000000
+difficult to synchronize::0.0000000000
+transactions::0.0000000000
+square represents the left::0.0000000000
+camera locations::0.0000000000
+centroid::0.0000000000
+performs the difference computation::0.0000000000
+magnitude of the brightest::0.0000000000
+gen2 rfid::0.0000000000
+flashing its led::0.0000000000
+straightforward::0.0000000000
+augmenting::0.0000000000
+experiment the rfid::0.0000000000
+0.5-1.0::0.0000000000
+target tag while waiting::0.0000000000
+read range versus::0.0000000000
+locate individual tags object::0.0000000000
+calculated tag positions::0.0000000000
+precise tag localization::0.0000000000
+processing::0.4545454545
+images tend::0.0000000000
+head provide the capability::0.0000000000
+results show that individual::0.0000000000
+boxes::0.0000000000
+bookshelves and workbenches::0.0000000000
+broadcasts its results::0.0000000000
+techniques using passive::0.0000000000
+today provides coarse::0.0000000000
+volume version::0.0000000000
+robotic g rasping robot::0.0000000000
+showing the camera::0.0000000000
+books that are tagged::0.0000000000
+pair of triggers::0.0000000000
+versus the wisps::0.0000000000
+reader and user::0.0000000000
+wisp is a programmable::0.0000000000
+shows the system architecture::0.0000000000
+1-2 meters::0.0000000000
+initializes::0.0000000000
+range::0.4335260116
+experiment was repeated::0.0000000000
+separate binary tag read::0.0000000000
+affect rf-based methods::0.0000000000
+tag id 410* 416*::0.0000000000
+selects the object closest::0.0000000000
+band sensing::0.0000000000
+inventories the tags::0.0000000000
+stereo cameras are widely::0.0000000000
+block::0.0000000000
+standardized::0.0000000000
+sensor visualized by rviz::0.0000000000
+location represents::0.0000000000
+tagged item is coarsely::0.0000000000
+multi-path effects are eliminated::0.0000000000
+human-like::0.0000000000
+rfid system::0.0000000000
+sources of error::0.0000000000
+examples include::0.0000000000
+martinez::0.0000000000
+consistent led flash::0.0000000000
+find the required::0.0000000000
+combined a video projector::0.0000000000
+approach of simply attempting::0.0000000000
+scenario two marker::0.0000000000
+computational::0.0000000000
+cmos leds::0.0000000000
+determining the intersection::0.0000000000
+observes a write::0.0000000000
+management and shipping application::0.0000000000
+blink cmd::0.0000000000
+robust::0.0000000000
+rows::0.0000000000
+store the ground truth::0.0000000000
+tags with integrated leds::0.0000000000
+confidence::0.0000000000
+extremely::0.0000000000
+previous tag localization efforts::0.0000000000
+informs the host::0.0000000000
+analysis of low range::0.0000000000
+long::0.0000000000
+custom::0.0000000000
+fixed delay::0.0000000000
+blink cmd flash::0.0000000000
+examine the accuracy::0.0000000000
+truth as blue circles::0.0000000000
+individual wisps to blink::0.0000000000
+resolution 1.3mm per meter::0.0000000000
+reasonable distance::0.0000000000
+record::0.0000000000
+camera height and angle::0.0000000000
+showing different segmented objects::0.0000000000
+attempts::0.0000000000
+coarsely locate books::0.0000000000
+event trigger flash::0.0000000000
+fixed amount::0.0000000000
+points in the left::0.0000000000
+multi-path effects::0.0000000000
+depth data::0.0000000000
+camera on the head::0.0000000000
+locate a given led-wisp::0.0000000000
+repeatedly::0.5434782609
+scope::0.0000000000
+line::0.5555555556
+real world::0.0000000000
+cmos power & data::0.0000000000
+raising::0.0000000000
+digital nature::0.0000000000
+trials resulted in successful::0.0000000000
+standard rf localization techniques::0.0000000000
+computation tasks while operating::0.0000000000
+consist::0.0000000000
+effects are eliminated::0.0000000000
+read events to localize::0.0000000000
+optical localization of passive::0.0000000000
+required point::0.0000000000
+truth information in memory::0.0000000000
+quickly build::0.0000000000
+planer::0.0000000000
+heights and separation::0.0000000000
+camera images::0.0000000000
+proposed technique::0.0000000000
+tags and commands::0.0000000000
+powered::0.0000000000
+line that is wired::0.0000000000
+tag localization that occurs::0.0000000000
+stereo techniques often fail::0.0000000000
+defined::0.0000000000
+robot equipped::0.0000000000
+tend to be noisy::0.0000000000
+tags can store::0.0000000000
+provements::0.0000000000
+promises to enable::0.0000000000
+single::0.3880266075
+shows the reconstructed 3-d::0.0000000000
+flashes its led::0.0000000000
+cmd event::0.0000000000
+meters in unstructured multi-path::0.0000000000
+critical bottleneck::0.0000000000
+returns a direction::0.0000000000
+discussion of the wisps::0.0000000000
+complexity and increasing::0.0000000000
+burgard::0.0000000000
+proposed system to localize::0.0000000000
+calibrated out::0.0000000000
+target tag::0.2911813644
+leds in to rfid::0.0000000000
+identified in the two::0.0000000000
+1.5-2 meters::0.0000000000
+application::0.4273504274
+points::0.0000000000
+functionality::0.0000000000
+camera is computed::0.0000000000
+department::0.0000000000
+results over udp::0.0000000000
+tag on the bookshelf::0.0000000000
+quickly and accurately find::0.0000000000
+side-by-side books::0.0000000000
+spectators::0.0000000000
+calculating::0.0000000000
+trades::0.0000000000
+flash its led::0.0000000000
+robots::0.0000000000
+provide a vertical reference::0.0000000000
+lens::0.5434782609
+based on passive::0.0000000000
+allowing::0.0000000000
+fishkin::0.0000000000
+rfid antenna are mounted::0.0000000000
+nhanced::0.0000000000
+conventional rfid localization::0.0000000000
+humans and camera::0.0000000000
+cameras trigger::0.0000000000
+applications that require::0.0000000000
+photosensing wireless tags::0.0000000000
+camera images with extremely::0.0000000000
+table v the first::0.0000000000
+power to flash::0.0000000000
+sensing and computation tasks::0.0000000000
+led e nhanced passive::0.0000000000
+blinks::0.0000000000
+calculates::0.0000000000
+smart cameras::0.0000000000
+tradeoff::0.0000000000
+depth::0.0000000000
+precise tag::0.0000000000
+target led wisp::0.0000000000
+recognize::0.0000000000
+reconstructed 3d tag locations::0.0000000000
+error is caused::0.0000000000
+external frame::0.0000000000
+depth images::0.0000000000
+truth is shown::0.0000000000
+data processing::0.0000000000
+grid underneath the objects::0.0000000000
+issued::0.0000000000
+inventory on shelves::0.0000000000
+theoretical::0.0000000000
+results::0.4249291785
+existing::0.0000000000
+acm siggraph::0.0000000000
+researchers have explored::0.0000000000
+objects for later comparison::0.0000000000
+triggered stereo cameras::0.0000000000
+query::0.5555555556
+robot operating::0.0000000000
+robot will redo::0.0000000000
+issues::0.4777070064
+implicit tag::0.0000000000
+determine the 3-d location::0.0000000000
+effort::0.0000000000
+locates the tag::0.0000000000
+synchronize the brief flashes::0.0000000000
+demonstrate::0.0000000000
+robot identify unique objects::0.0000000000
+lower::0.0000000000
+topic::0.0000000000
+critical::0.0000000000
+measure the rf channel::0.0000000000
+helps::0.0000000000
+computing the tag::0.0000000000
+tag locations::0.0000000000
+robot identify::0.0000000000
+include::0.0000000000
+tag modulation properties::0.0000000000
+system localizes the led::0.0000000000
+colors showing::0.0000000000
+llrp::0.0000000000
+consisting of a custom::0.0000000000
+locating a tagged item::0.0000000000
+form of warehouse storage::0.0000000000
+enable an electronically identifiable::0.0000000000
+single camera::0.3623188406
+transponders::0.0000000000
+localization methods we propose::0.0000000000
+unstructured::0.3731343284
+led enhanced wisps::0.0000000000
+chooses::0.0000000000
+tag it sends::0.0000000000
+warehouse storage::0.0000000000
+user tasked::0.0000000000
+resulted in successful object::0.0000000000
+tag flashes::0.0000000000
+locate tagged items::0.0000000000
+positions::0.4777070064
+target object detected::0.0000000000
+colors::0.0000000000
+right stereo::0.0000000000
+prototypes::0.0000000000
+track of pings::0.0000000000
+uhf rfid::0.3311258278
+described earlier::0.0000000000
+radio::0.0000000000
+estimating the distance::0.0000000000
+optics::0.0000000000
+frames and transform::0.0000000000
+anechoic::0.0000000000
+measured ground truth::0.0000000000
+difference computation on board::0.0000000000
+object with the led::0.0000000000
+localize an object::0.0000000000
+represents the left camera::0.0000000000
+coarsely locate a tagged::0.0000000000
+carefully::0.0000000000
+location methods::0.0000000000
+video::0.0000000000
+large majority of images::0.0000000000
+system architecture developed::0.0000000000
+rfid tag l ocalization::0.0000000000
+uniquely tagged::0.0000000000
+developed::0.0000000000
+blobs::0.0000000000
+power modulated distance estimation::0.0000000000
+spectators at distances::0.0000000000
+camera positions in order::0.0000000000
+gen2::0.4545454545
+passive uhf rfid tag::0.0000000000
+consistently::0.0000000000
+waiting::0.0000000000
+experiment::0.4985754986
+tags led::0.0000000000
+wisps used operated out::0.0000000000
+system based on passive::0.0000000000
+technology::0.0000000000
+tag waits::0.0000000000
+reasonable distance and bearing::0.0000000000
+non-linear::0.0000000000
+led::0.3580966254
+simple range::0.0000000000
+technology promises::0.0000000000
+frame capture::0.0000000000
+approximately 100ms::0.0000000000
+edge of detection::0.0000000000
+led enhanced rfid::0.5434782609
+attempts to perform::0.0000000000
+researchers::0.0000000000
+depletion layer::0.0000000000
+desired::0.4545454545
+explore::0.0000000000
+objects::0.2380952381
+focused::0.0000000000
+cmos-compatible algainp::0.0000000000
+separation::0.0000000000
+making::0.0000000000
+conventional rfid tag::0.0000000000
+separate binary tag::0.0000000000
+feasible::0.0000000000
+tagged objects the intersection::0.0000000000
+work on rfid::0.0000000000
+rfid reader::0.5555555556
+defect engineering::0.0000000000
+reader with two antennae::0.0000000000
+technical::0.0000000000
+led enhanced::0.4545454545
+calibration these results::0.0000000000
+addition of individually addressable::0.0000000000
+externally triggered stereo::0.0000000000
+resulting::0.0000000000
+ieee journal::0.0000000000
+trigger the camera::0.0000000000
+planer tag localization::0.0000000000
+led arrays::0.0000000000
+examining::0.0000000000
+triggered the led::0.0000000000
+system enables the robot::0.0000000000
+assume all tags line::0.0000000000
+charge::0.0000000000
+410*::0.0000000000
+stereo cameras::0.2994011976
+scaled::0.0000000000
+addressed::0.0000000000
+major challenges::0.0000000000
+cameras and image::0.0000000000
+theoretical camera precision::0.0000000000
+localization with rfid technology::0.0000000000
+redo::0.0000000000
+cloud::0.4273504274
+led is guaranteed::0.0000000000
+poses of the two::0.0000000000
+extrapolate the 3d position::0.0000000000
+usa::0.0000000000
+mirrors::0.0000000000
+find the tagged item::0.0000000000
+previously reported::0.0000000000
+depicted::0.0000000000
+camera::0.3076923077
+issues write commands::0.0000000000
+blink cmd flash led::0.0000000000
+affect rf-based::0.0000000000
+noisy::0.0000000000
+rfid-enabled::0.0000000000
+localization system based::0.0000000000
+subsection::0.0000000000
+successful grasp::0.0000000000
+resolution and lens distortion::0.0000000000
+development of personal::0.0000000000
+rfid-based battery-free programmable::0.0000000000
+occurred::0.0000000000
+10-20 mm accuracy::0.0000000000
+books and boxes::0.0000000000
+optical localization methods::0.0000000000
+iii::0.0000000000
+trigger the cameras::0.0000000000
+wisps led flash range::0.0000000000
+led-enhanced rfid::0.0000000000
+calculated position::0.0000000000
+long as the tag::0.0000000000
+cameras and image processing::0.0000000000
+steps are described::0.0000000000
+challenge::0.0000000000
+unstructured environment::0.0000000000
+perspective the tag flash::0.0000000000
+enhanced passive uhf::0.0000000000
+individual tags object clustered::0.0000000000
+thin::0.0000000000
+position vectors are shown::0.0000000000
+localization method tag::0.0000000000
+response to estimate distance::0.0000000000
+issued to the target::0.0000000000
+challenge for computer vision::0.0000000000
+control::0.0000000000
+vectors measured::0.0000000000
+examining signal strength::0.0000000000
+host provides the black::0.0000000000
+process::0.3846153846
+total system::0.0000000000
+purposes::0.0000000000
+high::0.5434782609
+tag::0.3600000000
+planar 3d solution::0.0000000000
+accuracy of the ground::0.0000000000
+camera exposure::0.0000000000
+open research topic::0.0000000000
+separation distance::0.0000000000
+method shifts::0.0000000000
+rfid ic mounting::0.0000000000
+compatible::0.0000000000
+three-component solution::0.0000000000
+locates::0.0000000000
+reduce the total system::0.0000000000
+sensors::0.0000000000
+brightest pixel::0.0000000000
+tag localization are demonstrated::0.0000000000
+provide more precise::0.0000000000
+control the camera::0.0000000000
+delay::0.0000000000
+located::0.5434782609
+back to the tag::0.0000000000
+implementing effective computer::0.0000000000
+wisps read range::0.0000000000
+command that instructs::0.0000000000
+query command::0.0000000000
+listens::0.0000000000
+home setting::0.0000000000
+blocks::0.0000000000
+two marker::0.0000000000
+layer profiling and defect::0.0000000000
+approach of simply::0.0000000000
+blink and there location::0.0000000000
+data from the camera::0.0000000000
+power modulated::0.0000000000
+distances::0.0000000000
+lens dispersion::0.0000000000
+caused by inaccuracies::0.0000000000
+power to blink::0.0000000000
+flash and compute::0.0000000000
+bounds on location::0.0000000000
+vectors are shown pointing::0.0000000000
+platform designed to explore::0.0000000000
+line-of-sight::0.0000000000
+light::0.3521126761
+localize a moving::0.0000000000
+robot::0.2324598478
+non-linear kalman filtering::0.0000000000
+operating exclusively from harvested::0.0000000000
+obtained by the kinect::0.0000000000
+ensure that the books::0.0000000000
+passive tags::0.0000000000
+software::0.0000000000
+multi-path phenomena::0.0000000000
+discussion::0.0000000000
+tag items::0.0000000000
+remainder of this section::0.0000000000
+robot perception::0.0000000000
+personal robots::0.0000000000
+method or a combination::0.0000000000
+grasp for the selected::0.0000000000
+volts::0.0000000000
+tagged object::0.0000000000
+optically localizing the passive::0.0000000000
+meter::0.0000000000
+static tags::0.0000000000
+power modulation and received::0.0000000000
+standard rf localization::0.0000000000
+dohrman::0.0000000000
+estimation when the tag::0.0000000000
+calculated tag::0.0000000000
+searching and grasping::0.0000000000
+regions::0.0000000000
+depletion::0.0000000000
+chosen::0.0000000000
+binary detection::0.0000000000
+rfid-based::0.0000000000
+closest to the direction::0.0000000000
+objects is a metal::0.0000000000
+due to reflection::0.0000000000
+degrees::0.0000000000
+map detection technique described::0.0000000000
+processing techniques::0.0000000000
+items with millimeter accuracy::0.0000000000
+signal in rssi::0.0000000000
+leland::0.0000000000
+tracking techniques using passive::0.0000000000
+locate passive::0.0000000000
+based localization methods::0.0000000000
+pixel::0.3493013972
+resulting grasping::0.0000000000
+synchronized to the tag::0.0000000000
+greater::0.0000000000
+base line::0.0000000000
+washington::0.0000000000
+rfid protocols and hardware::0.0000000000
+accuracy for acquisition::0.0000000000
+department of computer science::0.0000000000
+2.6mm::0.0000000000
+human or robot::0.0000000000
+tags with greater accuracy::0.0000000000
+clustered on table::0.0000000000
+leds alanson p sample::0.0000000000
+trade::0.0000000000
+on-board::0.0000000000
+two known marker tags::0.0000000000
+silicon on lattice-engineered::0.0000000000
+localize passive::0.0000000000
+worlds::0.0000000000
+notable::0.0000000000
+university::0.0000000000
+objects nearby::0.0000000000
+identified::0.5434782609
+two cameras::0.0000000000
+segmentation of individual::0.0000000000
+sufficiently::0.0000000000
+magnitude::0.0000000000
+mode::0.0000000000
+truth::0.3731343284
+tag acts::0.0000000000
+goal was to enable::0.0000000000
+relative to the camera::0.0000000000
+unstructured human::0.0000000000
+quickly and accurately::0.0000000000
+mounting strap::0.0000000000
+sophisticated rf-based::0.0000000000
+flash a single::0.0000000000
+determine::0.0000000000
+desired object is correctly::0.0000000000
+alanson p sample::0.0000000000
+books::0.2184769039
+current system::0.0000000000
+localization of passive uhf::0.0000000000
+calibrate::0.0000000000
+measure::0.0000000000
+binary detection method::0.0000000000
+command to write::0.0000000000
+robotic g rasping::0.0000000000
+special::0.0000000000
+out::0.4985754986
+location accuracy::0.0000000000
+range information::0.0000000000
+wisps design and performance::0.0000000000
+rfid-enabled localization::0.0000000000
+emulate the epc::0.0000000000
+configures the reader::0.0000000000
+sing s tereo::0.0000000000
+command from the reader::0.0000000000
+shelf is represented::0.0000000000
+range estimation::0.0000000000
+vector and the point::0.0000000000
+verified that a write::0.0000000000
+energy into the led::0.0000000000
+electronics::0.0000000000
+integrated::0.4273504274
+red::0.3363228700
+cameras and the rfid::0.0000000000
+red square represents::0.0000000000
+tag uhf rfid::0.0000000000
+optical localization combines::0.0000000000
+lengths of the vectors::0.0000000000
+reader and single camera::0.0000000000
+protocol sniffer to trigger::0.0000000000
+facing the shelf::0.0000000000
+tag is wired::0.0000000000
+unstructured environments::0.0000000000
+positions and the blue::0.0000000000
+region::0.0000000000
+information is ambiguous::0.0000000000
+commands the individual::0.0000000000
+instrumentation and measurement::0.0000000000
+locate the item::0.0000000000
+peak signal in rssi::0.0000000000
+tag id represents::0.0000000000
+effort to provide::0.0000000000
+external protocol::0.0000000000
+collects images in pairs::0.0000000000
+determining::0.0000000000
+calculated distances::0.0000000000
+tereo c ameras::0.0000000000
+object searching and grasping::0.0000000000
+produce::0.0000000000
+millimeters::0.0000000000
+antenna can provide::0.0000000000
+timed::0.0000000000
+output power::0.0000000000
+today::0.0000000000
+retail::0.0000000000
+facilitate::0.0000000000
+table are individually commanded::0.0000000000
+predominate::0.0000000000
+sing m arker::0.0000000000
+tags creates several unique::0.0000000000
+vectors are arbitrarily scaled::0.0000000000
+ntroduction::0.0000000000
+power state for 20ms::0.0000000000
+ocalization::0.0000000000
+work this paper proposes::0.0000000000
+scene::0.0000000000
+led flashing::0.0000000000
+reader issues a special::0.0000000000
+date::0.0000000000
+special command the tag::0.0000000000
+precisely::0.0000000000
+ser::0.0000000000
+compute their respective direction::0.0000000000
+optical localization system::0.0000000000
+tag enhanced::0.0000000000
+management::0.0000000000
+sensor on the pr2s::0.0000000000
+unknown::0.0000000000
+respond::0.0000000000
+processing capability::0.0000000000
+system::0.4331683168
+powledge::0.0000000000
+represents the camera location::0.0000000000
+examining signal strength measured::0.0000000000
+method for guiding people::0.0000000000
+axis of the table::0.0000000000
+tags one common application::0.0000000000
+presented using the wisp::0.0000000000
+programmable::0.0000000000
+efficiently::0.0000000000
+final::0.0000000000
+scenarios position accuracy::0.0000000000
+low::0.0000000000
+ground truth::0.3731343284
+consist of the location::0.0000000000
+order to harvest::0.0000000000
+ambiguous::0.0000000000
+shelf::0.2537080406
+show a successful grasp::0.0000000000
+sniffer is a wisp::0.0000000000
+mount capacitor could easily::0.0000000000
+baseline distance::0.0000000000
+automated identification::0.0000000000
+tags object clustered::0.0000000000
+method and pixel map::0.0000000000
+features transform::0.0000000000
+localization system::0.0000000000
+shown in table::0.0000000000
+detection::0.3412969283
+camera towards the rfid::0.0000000000
+errors in tag location::0.0000000000
+location of the item::0.0000000000
+1-2 meters in unstructured::0.0000000000
+technical burden of localization::0.0000000000
+small errors::0.0000000000
+camera is represented::0.0000000000
+battery-free programmable::0.0000000000
+flashes::0.5434782609
+located within 10-20::0.0000000000
+flashes from the rfid::0.0000000000
+mount led::0.0000000000
+wisp flashes its led::0.0000000000
+image of tagged::0.0000000000
+sensing and computational platform::0.0000000000
+camera capture to ensure::0.0000000000
+mounted on the pr2s::0.0000000000
+distance between the centroids::0.0000000000
+shelf rfid reader::0.0000000000
+improved by camera::0.0000000000
+item is coarsely::0.0000000000
+facing::0.0000000000
+manufacturing a low::0.0000000000
+demonstration::0.0000000000
+flash the led::0.0000000000
+intensive task::0.0000000000
+complete::0.0000000000
+tag location::0.0000000000
+examples include the tracking::0.0000000000
+angle::0.0000000000
+mode the tag acts::0.0000000000
+shows the image::0.0000000000
+tracking of moving::0.0000000000
+insure that items::0.0000000000
+out cause larger::0.0000000000
+silicon p+ np+::0.0000000000
+instance::0.0000000000
+height of these tags::0.0000000000
+sense this method::0.0000000000
+detector::0.0000000000
+object is correctly selected::0.0000000000
+finally it is important::0.0000000000
+accuracy::0.4372019078
+including the sniffer wisp::0.0000000000
+usage::0.0000000000
+individually addressable led::0.0000000000
+items in an unstructured::0.0000000000
+work compared to prior::0.0000000000
+techniques::0.4950495050
+incorporation of a leds::0.0000000000
+resulting depth images tend::0.0000000000
+quickly and easy::0.0000000000
+tag to localize::0.0000000000
+commanded by an rfid::0.0000000000
+comparison::0.0000000000
+tags can be located::0.0000000000
+robot identify unique::0.0000000000
+represent the actual::0.0000000000
+precision navigation based::0.0000000000
+stereo::0.2672497570
+3-d environment perceived::0.0000000000
+grasping on the object::0.0000000000
+pre-specified::0.0000000000
+request::0.0000000000
+rfid applications::0.0000000000
+camera separation::0.0000000000
+tags in 3d space::0.0000000000
+shows a detailed::0.0000000000
+object clustered on table::0.0000000000
+wisp platform::0.0000000000
+difference map::0.0000000000
+implementing effective computer vision::0.0000000000
+spatial identification::0.0000000000
+photonic transitions::0.0000000000
+methods and system architecture::0.0000000000
+identification of uhf::0.0000000000
+discharges that fixed amount::0.0000000000
+led enhanced wisp::0.0000000000
+huusko::0.0000000000
+nature of the led::0.0000000000
+single camera approach::0.0000000000
+presents::0.0000000000
+enhanced wisps are marked::0.0000000000
+indoor::0.0000000000
+combine them with additional::0.0000000000
+host software::0.0000000000
+blue line::0.0000000000
+miesen::0.0000000000
+static::0.0000000000
+localization scheme::0.0000000000
+phase-based::0.0000000000
+case scenarios position::0.0000000000
+grasping in the cluttered::0.0000000000
+read range::0.0000000000
+theta and phi::0.0000000000
+based::0.5555555556
+tag is in range::0.0000000000
+slightly when the cameras::0.0000000000
+jan::0.0000000000
+tag are shown::0.0000000000
+squares represents::0.0000000000
+command to repeatedly::0.0000000000
+truth position::0.0000000000
+position of the tagged::0.0000000000
+led fig::0.0000000000
+np+ injection-avalanche::0.0000000000
+system networking::0.0000000000
+distance from the reader::0.0000000000
+epc id passive::0.0000000000
+individual item::0.0000000000
+rfid tags::0.4716981132
+find the location::0.0000000000
+localization is the automated::0.0000000000
+led e nhanced::0.0000000000
+visible led arrays::0.0000000000
+results for the single::0.0000000000
+accuracy of this localization::0.0000000000
+protocol and performs::0.0000000000
+led can be individually::0.0000000000
+millimeter resolution if out::0.0000000000
+tag has sufficient power::0.0000000000
+medical equipment::0.0000000000
+shows the estimated::0.0000000000
+techniques have been employed::0.0000000000
+rfid tag is straightforward::0.0000000000
+system complexity and increasing::0.0000000000
+process the rfid::0.0000000000
+experiment the checkerboard grid::0.0000000000
+correct order::0.0000000000
+reader antennae::0.0000000000
+objects from the table::0.0000000000
+enhanced rfid tags::0.0000000000
+including::0.0000000000
+fixed::0.4273504274
+clusters with colors showing::0.0000000000
+left and right camera::0.0000000000
+view::0.0000000000
+tagged books and boxes::0.0000000000
+computed::0.0000000000
+precision navigation::0.0000000000
+notable exception was demonstrated::0.0000000000
+acquired::0.0000000000
+frame::0.4545454545
+humans::0.4545454545
+detailed view::0.0000000000
+computes::0.0000000000
+computer::0.4587155963
+effectiveness of this approach::0.0000000000
+power modulated distance::0.0000000000
+enhanced::0.5058572950
+corresponds the direction::0.0000000000
+robot-mounted reader::0.0000000000
+system localizes::0.0000000000
+stereo camera position::0.0000000000
+configures::0.0000000000
+battery::0.0000000000
+tasks for personal::0.0000000000
+burden of localization::0.0000000000
+feasible grasp::0.0000000000
+interacting::0.0000000000
+holographic localization of passive::0.0000000000
+individual wisps::0.0000000000
+nature::0.0000000000
+exclusively from harvested::0.0000000000
+pr2 robot is equipped::0.0000000000
+direction vector by finding::0.0000000000
+sets::0.0000000000
+led rfid::0.0000000000
+identification::0.5813953488
+query the scene::0.0000000000
+standard off the shelf::0.0000000000
+theta::0.0000000000
+calculate the intersection::0.0000000000
+ultra-low-power microcontroller::0.0000000000
+email::0.0000000000
+tagged objects::0.4166666667
+show our system::0.0000000000
+ability::0.0000000000
+based spatial identification::0.0000000000
+spatial identification of uhf::0.0000000000
+online::0.0000000000
+major challenges to implementing::0.0000000000
+total system complexity::0.0000000000
+identified using standard::0.0000000000
+marker tags can easily::0.0000000000
+u.washington.edu::0.0000000000
+tag and confidence score::0.0000000000
+larger errors::0.0000000000
+provements in location::0.0000000000
+tag position vectors measured::0.0000000000
+errors in measurement::0.0000000000
+leds alanson::0.0000000000
+computing the individual direction::0.0000000000
+commands::0.4273504274
+camera height::0.0000000000
+lie on the plane::0.0000000000
+taking::0.0000000000
+localization utilized::0.0000000000
+harish::0.0000000000
+involve::0.0000000000
+right images::0.0000000000
+enabled asset management::0.0000000000
+locate the individual::0.0000000000
+visualized::0.0000000000
+estimation::0.4545454545
+black grid::0.0000000000
+wisp sends::0.0000000000
+technique does require::0.0000000000
+tag items lie::0.0000000000
+emulate::0.0000000000
+emanating from the center::0.0000000000
+uhf rfid tag::0.0000000000
+bearing::0.0000000000
+communication channel::0.0000000000
+3-d point cloud obtained::0.0000000000
+tags relative::0.0000000000
+prior work this paper::0.0000000000
+environments::0.4545454545
+tagged inventory::0.0000000000
+based spatial::0.0000000000
+anechoic chambers::0.0000000000
+coordinates::0.0000000000
+table::0.4422476587
+proposed system::0.0000000000
+degrees as rotated::0.0000000000
+led rfid tag::0.0000000000
+additional sensing::0.0000000000
+trial an error::0.0000000000
+addition::0.0000000000
+trajectory::0.0000000000
+window::0.0000000000
+responds::0.0000000000
+reader issues write commands::0.0000000000
+required point correspondences::0.0000000000
+informs::0.0000000000
+waiting for write commands::0.0000000000
+intensive task that frequently::0.0000000000
+rfid reader and camera::0.0000000000
+captures two::0.0000000000
+localization techniques is desired::0.0000000000
+grasping manipulation of objects::0.0000000000
+sophisticated techniques::0.0000000000
+moved::0.0000000000
+sufficient::0.0000000000
+proposed to facilitate::0.0000000000
+response to estimate::0.0000000000
+bottleneck during the development::0.0000000000
+show a successful::0.0000000000
+tags line::0.0000000000
+overview of c amera::0.0000000000
+vicinity of the led-enhanced::0.0000000000
+angles::0.0000000000
+clusters::0.0000000000
+tag to within approximately::0.0000000000
+improved::0.0000000000
+tag are shown emanating::0.0000000000
+design of rfid protocols::0.0000000000
+present::0.0000000000
+compatible process::0.0000000000
+approach for 3d planer::0.0000000000
+long as the tags::0.0000000000
+lab environment::0.0000000000
+specific location in memory::0.0000000000
+kinect to the smart::0.0000000000
+robot from willow::0.0000000000
+examine::0.0000000000
+camera takes two images::0.0000000000
+identify the same led::0.0000000000
+localization that occurs::0.0000000000
+described in section::0.0000000000
+improved by camera calibration::0.0000000000
+passive rfid tag::0.4777070064
+consistent led::0.0000000000
+raskar::0.0000000000
+method tag id 410*::0.0000000000
+review previous tag localization::0.0000000000
+supply::0.0000000000
+initial work on rfid::0.0000000000
+layer::0.0000000000
+maximum precision::0.0000000000
+ocalization u sing::0.0000000000
+3-d point::0.0000000000
+paper proposes augmenting::0.0000000000
+gen2 tag::0.0000000000
+led-enhanced passive rfid tags::0.0000000000
+surface::0.0000000000
+hardware::0.0000000000
+making the maximum precision::0.0000000000
+camera is triggered::0.0000000000
+triggers the camera::0.0000000000
+measurement consistency::0.0000000000
+level of ground truth::0.0000000000
+vol.1::0.0000000000
+respective direction vectors::0.0000000000
+nikitin::0.0000000000
+highly precise localization::0.0000000000
+cameras moved::0.0000000000
+capture::0.4985754986
+reader antenna::0.0000000000
+moves::0.0000000000
+computes the differencemap::0.0000000000
+detected by the system::0.0000000000
+command to the target::0.0000000000
+systems is the segmentation::0.0000000000
+reader inventories::0.0000000000
+sensor-enhanced rfid applications::0.0000000000
+red arrows::0.0000000000
+large majority::0.0000000000
+system consistently chooses::0.0000000000
+experiment the rfid reader::0.0000000000
+layered::0.0000000000
+performed the requested write::0.0000000000
+event trigger flash led::0.0000000000
+shows a block::0.0000000000
+final demonstration::0.0000000000
+structured the tags environment::0.0000000000
+locate individual tags::0.0000000000
+flash led fig::0.0000000000
+localization with rfid::0.0000000000
+difficult::0.5555555556
+enhanced wisp flashes::0.0000000000
+phi::0.0000000000
+consists of tagged::0.0000000000
+examining signal::0.0000000000
+cloud obtained::0.0000000000
+measures a static::0.0000000000
+1-3::0.0000000000
+1-2::0.0000000000
+robot to recognize::0.0000000000
+level and lens dispersion::0.0000000000
+1-6::0.0000000000
+passive rfid tags::0.5181347150
+mobile system::0.0000000000
+authors::0.0000000000
+compared::0.0000000000
+combined a video::0.0000000000
+epc gen2 tag::0.0000000000
+robotic::0.0000000000
+facilitate object searching::0.0000000000
+frequently::0.0000000000
+rfid reader inventories::0.0000000000
+insure::0.0000000000
+monitor that the camera::0.0000000000
+unknown tags::0.0000000000
+center::0.0000000000
+sensors journal::0.0000000000
+allowing him to quickly::0.0000000000
+camera system is generally::0.0000000000
+comparison to the calculated::0.0000000000
+projector and light detector::0.0000000000
+kinect cameras::0.0000000000
+squares represents the left::0.0000000000
+science and technology::0.0000000000
+command::0.3191489362
+optically locate::0.0000000000
+position::0.2922661871
+monolithic cmos-compatible algainp::0.0000000000
+sensing::0.3493013972
+demonstrated by meisen::0.0000000000
+modification to the binary::0.0000000000
+stores::0.0000000000
+planer tag estimation::0.0000000000
+eliminated::0.0000000000
+storage::0.0000000000
+avarge precent error::0.0000000000
+environments by augmenting::0.0000000000
+identification and sensing platform::0.0000000000
+select::0.0000000000
+emanating from the camera::0.0000000000
+measure the ground::0.0000000000
+rooms::0.0000000000
+packaging and charge storage::0.0000000000
+right stereo camera::0.0000000000
+localize::0.5434782609
+coarsely locate::0.0000000000
+system is generally implicit::0.0000000000
+passive tag is augmented::0.0000000000
+profiling and defect engineering::0.0000000000
+provide a level::0.0000000000
+highly precise localization techniques::0.0000000000
+networking diagram showing::0.0000000000
+tags can easily::0.0000000000
+error from the resolution::0.0000000000
+manner as typically::0.0000000000
+grid presents the estimated::0.0000000000
+publication two externally::0.0000000000
+simple::0.0000000000
+performance of an optical::0.0000000000
+individually addressed and commanded::0.0000000000
+millimeter accuracy::0.0000000000
+basic form::0.0000000000
+form of received signal::0.0000000000
+necessarily::0.0000000000
+smart::0.4985754986
+method presented::0.0000000000
+tests::0.0000000000
+camera takes two::0.0000000000
+low power::0.0000000000
+compute::0.0000000000
+segmentation::0.0000000000
+blink cmd event::0.0000000000
+np+ injection-avalanche cmos::0.0000000000
+term::0.0000000000
+tag flashing its led::0.0000000000
+interrogation::0.0000000000
+techniques often fail::0.0000000000
+burden::0.0000000000
+command the tag flashes::0.0000000000
+installed::0.0000000000
+noted that the actual::0.0000000000
+intersection::0.5434782609
+phase based spatial identification::0.0000000000
+reader and user tasked::0.0000000000
+scope of this work::0.0000000000
+hardware is item retrieval::0.0000000000
+grid presents::0.0000000000
+success::0.0000000000
+grasp tagged items::0.0000000000
+location of the tags::0.4985754986
+alternatively::0.0000000000
+binary tag::0.0000000000
+industry to include::0.0000000000
+pointcloud as the basis::0.0000000000
+grasping the object::0.0000000000
+garage::0.0000000000
+led enhanced wisp flashes::0.0000000000
+tag localization initial::0.0000000000
+pings sent out::0.0000000000
+differencemap to identify::0.0000000000
+passive uhf::0.3731343284
+propose to combine::0.0000000000
+deviation::0.0000000000
+pixel location::0.0000000000
+ground truth as blue::0.0000000000
+navigation based on rfid::0.0000000000
+localization error::0.0000000000
+phenomena::0.0000000000
+searching::0.0000000000
+two camera images::0.0000000000
+cameras to capture::0.0000000000
+rotated and translated::0.0000000000
+band::0.0000000000
+home::0.0000000000
+wisp ; it triggers::0.0000000000
+tagged with led enhanced::0.0000000000
+camera will simultaneously capture::0.0000000000
+properties in the form::0.0000000000
+show that the tags::0.0000000000
+wisps led flash::0.0000000000
+localization and optical localization::0.0000000000
+images of tagged objects::0.0000000000
+advanced camera::0.0000000000
+led wisps::0.0000000000
+ntroduction rfid technology::0.0000000000
+views of the kinect::0.0000000000
+enhanced strap::0.0000000000
+localization initial::0.0000000000
+received instantaneous::0.0000000000
+proposed work::0.0000000000
+np+ injection-avalanche cmos leds::0.0000000000
+rfid technology::0.0000000000
+protocol sniffer::0.0000000000
+camera collects images::0.0000000000
+demonstrated::0.0000000000
+locate::0.4641909814
+management and shipping::0.0000000000
+meters of spatial::0.0000000000
+shows the system::0.0000000000
+two pixels that represent::0.0000000000
+journal::0.0000000000
+explore sensor-enhanced rfid::0.0000000000
+data processing is depicted::0.0000000000
+location in memory::0.0000000000
+self-describing::0.0000000000
+calibration these results show::0.0000000000
+issues write::0.0000000000
+host::0.3232758621
+two camera::0.0000000000
+offset::0.0000000000
+high volume version::0.0000000000
+level of the reader::0.0000000000
+industry::0.0000000000
+stage::0.0000000000
+measured location::0.0000000000
+two externally::0.0000000000
+led passive rfid tags::0.0000000000
+extension::0.0000000000
+plan a feasible grasp::0.0000000000
+mount capacitor::0.0000000000
+http::0.0000000000
+shipping::0.0000000000
+position vector::0.0000000000
+unstructured environments is limited::0.0000000000
+flash is nearly instantaneous::0.0000000000
+designed to explore::0.0000000000
+system is generally::0.0000000000
+tags with an led::0.0000000000
+map have been proposed::0.0000000000
+projectors::0.0000000000
+position to the location::0.0000000000
+peak::0.0000000000
+line-of-site::0.0000000000
+effective computer::0.0000000000
+reader and led enhanced::0.0000000000
+marked with red arrows::0.0000000000
+wisps are marked::0.0000000000
+led enhanced rfid tags::0.0000000000
+previously::0.0000000000
+volume manner::0.0000000000
+vertical axis::0.0000000000
+locates the maximum brightness::0.0000000000
+computationally intensive task::0.0000000000
+arrays on silicon::0.0000000000
+easured::0.0000000000
+based on rfid::0.0000000000
+accuracy then previously reported::0.0000000000
+thin pcb for mounting::0.0000000000
+quickly::0.5555555556
+utility::0.0000000000
+jrs @ cs.washington.edu::0.0000000000
+electronically identifiable world::0.0000000000
+heights from the ground::0.0000000000
+networking::0.0000000000
+additional::0.4273504274
+information several techniques::0.0000000000
+tag while waiting::0.0000000000
+conventional rfid localization techniques::0.0000000000
+direction vectors::0.4545454545
+correct location::0.0000000000
+development::0.0000000000
+effective computer vision systems::0.0000000000
+form of warehouse::0.0000000000
+receiving the write command::0.0000000000
+exposure::0.0000000000
+tagged with led::0.0000000000
+signal to noise ratio::0.0000000000
+quickly locating::0.0000000000
+function::0.0000000000
+captured by the fig::0.0000000000
+triggered::0.4545454545
+basic::0.0000000000
+solution overcomes the multi-path::0.0000000000
+tag range::0.0000000000
+externally triggered cameras::0.0000000000
+volume::0.0000000000
+pose which the robot::0.0000000000
+tasked::0.0000000000
+cmd event trigger flash::0.0000000000
+automated::0.0000000000
+bookshelf::0.3623188406
+smoothing::0.0000000000
+sensor visualized::0.0000000000
+tag is determined::0.0000000000
+extension of the inventory::0.0000000000
+makes the resolution::0.0000000000
+write commands::0.0000000000
+operating system::0.0000000000
+passive rfid tag uhf::0.0000000000
+easily be calculated::0.0000000000
+equipment are in pre-specified::0.0000000000
+techniques using passive uhf::0.0000000000
+objects in the home::0.0000000000
+capacitor is sufficiently charge::0.0000000000
+wisp::0.3382187148
+write command::0.3571428571
+marker tags are place::0.0000000000
+algainp visible::0.0000000000
+work in semiconductor::0.0000000000
+problem::0.0000000000
+led flash a single::0.0000000000
+sensor-enhanced::0.0000000000
+modulated distance estimation::0.0000000000
+provide the capability::0.0000000000
+servoing::0.0000000000
+simply query::0.0000000000
+led enhanced passive tag::0.0000000000
+semiconductor optics::0.0000000000
+provide 0.5-1.0 meters::0.0000000000
+frames::0.0000000000
+combine::0.0000000000
+cmd event trigger::0.0000000000
+visual feedback::0.0000000000
+blobs of points::0.0000000000
+review previous tag::0.0000000000
+navigated to the vicinity::0.0000000000
+battery-powered::0.0000000000
+usa email::0.0000000000
+performed the requested::0.0000000000
+solve the synchronization problem::0.0000000000
+full 3d position::0.0000000000
+transitions::0.0000000000
+calibration::0.0000000000
+eedback::0.0000000000
+images may vary slightly::0.0000000000
+tags direction vector::0.0000000000
+triggers a camera capture::0.0000000000
+event trigger::0.0000000000
+open research::0.0000000000
+book::0.0000000000
+vectors are arbitrarily::0.0000000000
+precise direction vector::0.0000000000
+electronically ensure::0.0000000000
+case scenarios position accuracy::0.0000000000
+locating tags::0.0000000000
+solve the synchronization::0.0000000000
+symposium::0.0000000000
+location of the target::0.0000000000
+left and right::0.2911813644
+systems can reliably::0.0000000000
+method the target::0.0000000000
+naive approach of simply::0.0000000000
+camera to capture::0.0000000000
+error analysis::0.0000000000
+sensing and computation::0.0000000000
+ground truth measurements::0.0000000000
+rf-based::0.0000000000
+positions on the table::0.0000000000
+hears a write::0.0000000000
+binary tag read::0.0000000000
+simultaneously capture the rfid::0.0000000000
+repeatedly pick::0.0000000000
+detector tag to localize::0.0000000000
+system networking diagram::0.0000000000
+coarse information is ambiguous::0.0000000000
+hears::0.0000000000
+measurements::0.0000000000
+rfid tags with leds::0.0000000000
+tag and multiple::0.0000000000
+actual position::0.0000000000
+utilized the digital::0.0000000000
+bellotti::0.0000000000
+truth information::0.0000000000
+error from the center::0.0000000000
+science & engineering university::0.0000000000
+reliability::0.0000000000
+show the utility::0.0000000000
+rfid tags presented::0.0000000000
+human environment::0.0000000000
+augmented::0.0000000000

@@ -1,0 +1,4003 @@
+node and a mobile
+infrastructure-free and infrastructure
+multiple components
+expertise to efficiently set
+rfbased
+wide range of interested
+limited
+testbeds
+execution of an experiment
+option
+execution ieee communications
+facilities
+consists
+illustrates inherent
+localized
+papers evaluate
+observed by comparing multiple
+calculate
+upinlbs14
+configuration set
+plugins for executing
+created
+supported
+investigation
+performance metrics has proven
+moerman abstract tom
+worth
+localization solution under controlled
+~7000 ~500
+serve the data
+visualization tool step
+distance between fixed nodes
+14,282 ~105 ~105
+localization hardware
+necessarily hide a number
+universitet
+ebp and the data
+summarized
+main contributions
+systems.2 current drafts include
+collected rf data
+calculation performance metrics score
+receive acceptable
+experimenters the possibility
+run on local
+important feature
+executing
+skills
+~7000
+solution
+solution using software
+storing performance results
+measuring the propagation
+interference specification step
+spatial behavior
+two types of datasets
+localization solutions is growing
+experimental validation of multiple
+standardized performance
+activities in the areas
+controlled interference
+solution was evaluated
+testbed-independent definition
+environments using multiple evaluation
+specific environment
+stored in a standardized
+influence on the accuracy
+estimates
+direct
+distance between two nodes
+indoor ieee communications magazine
+feasibility
+depending on adjustable
+~7000 ~500 hybrid solution
+optimizing
+evaluation of their solution
+interference monitoring predeployed sut
+including specifications
+estimated
+established
+solutions based
+errors
+hide
+comparing localization solutions
+olisz received
+samples per evaluation point
+specification
+cumulative distribution
+definition evaluation points experiment
+offered to future
+services research group
+typically used for training
+integrating and simplifying
+usability metrics
+technische universitt dresden
+nes
+metadata
+agreement
+integrated
+temporal or spatial behavior
+range of evaluation
+ground truth information
+user acceptance
+software system under test
+rssi
+equals
+reported
+platform evarilos engine evarilos
+experiment setup
+granularity
+testing the performance
+directly from the evarilos
+ieee communications magazine september
+information technology
+systems with low
+time-offlight information
+indoor localization and indoor
+twist testbed
+hardware at the experimentation
+traces environmental rf data
+anchor
+execution raw rf data
+characterizing
+rf-based indoor localization
+leads the research
+advantages
+interference specification
+control the exper 0163-6804
+~35,000
+types of indoor
+translated into testbed-dependent
+probability tings
+laser distance
+explained
+engineering
+objectively
+networking and system
+ground truths
+visualization
+multiple future internet research
+deployment of the ebp
+institute for telecommunication systems
+fixed particle
+experimentation
+metrics are important
+nonaccuracy-related
+open source
+data is captured
+existing wireless testbed
+response delays
+hospital
+faculty of electrical engineering
+process of obtaining relevant
+compare and calibrate
+overview of evaluated solutions
+uppsala
+type
+postdoctoral
+m.sc
+standardized
+calculation scores secondary
+advance
+parametrization of a sut
+open data
+experimentation experiment
+phase the training
+real-time
+provide
+aligned
+autonomous and repeatable
+springer
+evarilos database standardized
+testbed framework
+interface evarilos visualization tool
+setup experiment
+setup
+work
+specification experiment
+interface provides location
+interference scenarios
+metric calculation performance metrics
+exact conditions
+drafts include
+deficiencies
+ieee 802.15.4
+install
+interaction
+ebp is integrated
+multimodal localization system
+testbed nodes
+open source principles
+objective comparisons
+serving as interim professor
+characteristics including
+representative location
+evarilos benchmarking
+usability metrics are defined
+real-time or using precollected
+benchmarking of quantile based
+organized
+environment using proprietary
+measure the distance
+tu-berlin
+describe a generic
+repeatable interference
+point
+evarilos visualization
+points experiment setup experiment
+sut w-ilab.t database
+indoor localization competitions
+inherent
+sut w-ilab.t
+particle-filter-based
+end
+phase the experimentation
+evaluation point
+metrics figure
+experimental validation
+feature
+lemic and vlado handziski
+machine
+estimates vided
+choose among different utilization
+open-space environment
+low
+calculation scores
+precollected raw data traces
+types
+set of ground truths
+grown
+abstraction
+article tries to address
+mobile node
+infrastructure ieee communications magazine
+transforming
+resulted in more objective
+systematically address the effect
+wrong
+trade-offs that are present
+infrastructure leverages
+implying that optimizing
+computation
+validation of multiple
+interference conditions
+support the full
+benchmarking of indoor
+data evarilos web interface
+consideration a wide range
+perform
+platform implements
+describing the exact conditions
+experience with experimental research
+performance evaluation of step
+evaluation of step
+lowest average error
+make
+run on local hardware
+fixed nodes
+executed
+setup experiment execution
+testbed-independent information
+office
+papers at flagship sensor
+ing that the full
+metadata describes characteristics including
+executing experiments and storing
+chair for embedded
+processing the received data
+ebp presented
+hospital environment
+evaluated using the ebp
+frequency
+introduction this article
+performance of each sut
+shadowed the official evaluation
+expensive process
+thiemo
+precollected rf data
+performance information
+professor in telecommunication networks
+dedicated metrics computation engine
+positioning software location update
+makes available the measured
+single metric
+infrastructure ieee communications
+evarilos application programming
+testbeds mobility interference
+systems with low efforts
+traces environmental
+communication networks
+repeatable interference conditions
+collected by a sut
+performance of multiple
+performance metrics of indoor
+biographies tom van haute
+done objectively
+combination
+evaluate their localization
+interference monitoring predeployed
+management framework
+offers researchers
+possibility to train
+department of electrical
+metrics such as ease
+phase offers experimenters
+effects
+matching method
+learning techniques
+download environment-specific
+platform were extensively
+electrotechnical
+represents
+magazine september
+calibrating
+resource constrained systems
+leading
+dataset using a matching
+transmission powers
+algorithm mean error
+last few years
+adequately evaluate
+fully automated step
+ingrid
+annotated with metadata describing
+ebh includes
+side
+exchange service
+automation of this process
+metrics
+twist database testbed framework
+independent
+applied in order
+environment with plywood walls
+principles
+evaluation data web service
+calculate the position
+martin
+quantile
+describes characteristics
+solution using multiple
+changing configuration
+range-based
+networks and executive director
+networked
+network
+estimated locations
+truth
+postdoctoral fellow
+including functional metrics
+adjust
+weighted
+enable
+infrastructure-free
+part of the experiment
+single technology
+evaluation criteria
+environmental data
+experimentation experiment specification experiment
+vided in the correct
+extensively
+inclined researchers
+testbeds,7 the infrastructure leverages
+complex and expensive
+descriptions to testbed-dependent scripts
+transforming the over-dimensioned dataset
+standard
+traces location estimates
+streamline
+experimenters can install
+industrial-like openspace
+joined iminds
+options for indoor
+node can only receive
+first localization
+secondary metrics data structure
+architecture consists
+over-dimensioned
+localization solutions by testing
+messages
+filter
+author filip lemic
+iso
+leading to these results
+benchmarking
+ieee ipsn and ewsn
+predefined data
+evarilos project and iso
+systems.2 current drafts
+generation of experiment configurations
+feature of the ebp
+researcher
+environments using multiple
+obtained
+account the associated costs
+sparse
+rank
+range of non-rf-based
+clear
+received his masters degree
+existing wireless testbed facilities
+deploymentsite
+previously collected rf data
+respect to deployment
+solutions in new environments
+service
+related work
+wireless test
+top
+information about the performance
+precise indoor
+solutions depends
+estimates evarilos benchmarking
+measurements of rf features
+tom
+working in the internet
+recent
+tof
+ranging
+parameters influences the performance
+~500 hybrid
+received his degrees
+evaluation points
+serve
+radio testbeds,7 the infrastructure
+post-processing
+data interference specification step
+statistical information
+interdisciplinary research
+power is too high
+strongly depends
+fully automated web service
+distance
+evarilos visualizers
+data collection
+solutions with respect
+scenario
+representative for other environments
+out of range
+localization system for stationary
+initiating node measures
+proliferation of rf-based
+multiple values
+precollected raw data
+project
+components of the evarilos
+university through a ph.d
+enables
+powers
+points experiment setup
+standard test and evaluation
+interests
+processed in a dedicated
+abstract tom van haute
+utilization options
+defined objective
+dam w olisz
+~7000 ~500 hybrid
+fingerprinting methods for indoor
+raw
+analysis
+seltzer
+crew
+student at uppsala universitet
+niklas wirstrm and thiemo
+latency
+strength
+secondary performance
+open software solution
+source
+existing fire facilities
+data collection or full
+experiment results are pro
+tracking systems.2
+estimates and ground
+provided in the correct
+testbeds,6
+flags
+multiple solutions table
+installed on a server
+executables are created
+web-based
+deploying physical devices
+ghent university
+accurately
+architectural framework
+simplify
+openspace
+analyze the performance datasets
+operational point of view
+phase
+secondary performance metrics
+applied to location estimates
+evaluated under individual
+performing a manual evaluation
+localization and indoor navigation
+distributed
+cdf
+component
+evaluation process
+german academic
+execution ieee
+wide range of localization
+points
+issue a request
+professor at uppsala university
+scholarship from the institute
+monitoring predeployed
+evaluation methods
+shadowed
+european unions seventh
+analyze
+presented in fig
+distances
+data types
+rest interfaces
+indoor fingerprinting
+unnecessary information
+implying
+attempts
+radio
+solutions
+availability
+attempts at direct
+lessons
+layout
+mobility interference generating
+error when the transmission
+present the evarilos
+weighted rssi
+hides many intrinsic trade-offs
+enables automated
+sensor networks
+sut through the first
+rich
+networking
+expensive process of obtaining
+deploy custom hardware raw
+data for the evaluation
+filter solution
+represents three experimentation
+fixed particle filter solution
+scenarios or different parametrization
+functional and non-functional
+multiple transmission
+two rest interfaces
+data interference
+infrastructure leverages a robotic
+evaluation method using precollected
+scalable
+partially the result
+systems and services
+leads the nes group
+removing any unnecessary
+scripts
+analyzing and improving
+prefer to download
+procedure for evaluating
+considerably
+development area
+comply
+ebp by considering multiple
+filter solution using rssi
+fields
+positioning systems
+distributed wireless
+current scientific papers
+metrics score calculation
+evaluation method by showing
+performance indicators necessarily hide
+facilities.1 finally
+data from multiple
+computer science engineering
+evaluation of a localization
+automatic
+nodes that then reply
+indoor navigation
+plug-ins
+request for the location
+scalable and reconfigurable
+reference
+wireless communication
+office environment with brick
+observed
+experiments to observe
+depends
+full
+result
+simple evaluation of indoor
+drafts include evaluation methodologies
+activities
+notions
+collected samples
+on-demand
+transmission power equals
+datasets from public repositories
+hybrid solution tx power
+artificial
+datasets include
+wireless indoor positioning
+method by showing
+address the problem
+features
+project3
+setup experiment execution raw
+common components
+approach
+workflow which represents
+testbeds mobility
+format training data evarilos
+data from a sut
+deployed
+omf
+full performance evaluation cycle
+request the real-time
+modify
+function as weight
+solution in the twist
+technical committee
+handziski
+participated in the evarilos
+measured manually
+eli
+localization and indoor
+accessed
+data for offline
+lemic and v handziski
+typically lack
+multiple evaluation criteria
+improve
+received
+standard test
+addresses this issue
+traces contain significantly
+realman06
+performance of end
+leverages a robotic mobility
+tings
+16th intl
+easily compare
+w-ilab.t database twist database
+802.15.4 beacon information
+functional and non-functional properties
+solutions using standardized evaluation
+similarities
+article addresses
+acceptable
+generally divided
+update web
+propose a testbed-independent benchmarking
+facilitate testbed-independent definition
+information is also stored
+berkeley
+experimenters as an open
+samples per evaluation
+mobile fixed particle
+wireless test facility
+experiment results metric calculation
+wider
+information relevant
+ieee wireless on-demand
+fwo postdoctoral research grant
+conference
+offline evaluation method
+comparing multiple
+quality of the radiomap
+quickly
+commission
+ieee imental
+scans of the environment
+output metrics using standardized
+interest
+results metric calculation
+expected
+topics
+internet-based
+facilities.1
+case for application-specific
+~500 hybrid solution
+scope of the fp7
+indoor ieee communications
+manually using a handheld
+wireless sensor
+benchmarking rfbased indoor localization
+position
+access points
+evaluation of full localization
+technologies such as motion
+framework program
+vlado
+applied
+evaluate indoor localization solutions
+described in the ebh
+publicly
+mobile and wireless
+set of adjustable parameters
+reuse previously collected
+standardized evaluation approaches
+wksp
+suppose
+access previously measured
+scores secondary
+times for different signal
+procedure
+evaluating aal
+localization benchmarking
+supported by daad
+summa cum laude
+precise indoor localization
+fingerprinting
+correct data
+infrastructure to generate
+experience
+conf
+solutions is growing
+annotated
+ewsn
+capability to reuse previously
+~105 ~105 fingerprinting
+ph.d candidate
+localization algorithms
+methodology proposed
+measured environmental information relevant
+electrical engineering and computer
+things
+bottom layer
+cumulative
+stores the raw
+location update
+pro deploy
+lqi
+pre-experimentation
+university of technology
+devices in the environment
+hybrid indoor
+european
+masters degree in computer
+training data
+edition of the competition
+represent raw data
+based on weighted
+hand
+organized in two
+hard task
+received awards
+performance of the hybrid
+cycle
+mentioning
+set ieee communications magazine
+performance metrics
+determine the final position
+office environments with brick
+point depending on adjustable
+sut at different locations
+include both annotated localization
+academic
+indoor localization benchmarking
+degree in computer science
+presence of trade-offs
+easily
+users can use data
+additional performance
+learning
+proposed
+ieee ipsn
+testbed-specific tools are installed
+automatically executed
+parameters influences
+assigned
+signal strength
+illustrated in fig
+~47.4
+obtained raw data
+research group
+specification step
+cyril
+wide range of measurement
+point of view
+full localization experiments
+candidate
+industriallike open-space
+traces location
+ease
+cumulative distribution function
+computing and networking
+source principles
+number of low-level
+localization solutions tom
+benchmarking platform this section
+download the data
+distribution function
+describing the exact
+architectures and protocols
+give a distorted
+reuse
+multiple metrics to identify
+visualizers
+changing configuration settings
+running on an existing
+comparisons
+additional metadata
+automatized benchmarking
+postdoctoral researcher at ghent
+objective
+ibcn
+ebh includes a wide
+hybrid combination range-based
+preconfigured
+environment data
+thiemo voigt
+variety of different technologies
+moerman received
+cognitive
+analyze the setup
+accessible environment
+training phase
+standardization
+engineering and computer
+motivated by these circumstances
+training or offline phase
+unnecessary
+comparability
+specific
+experimentation facilities
+ph.d
+localization solutions with respect
+custom modifications
+represent raw
+acceptable results
+interference generating interference monitoring
+platform this section
+ebp is its capability
+research interests
+response time and energy
+performing
+describe a generic benchmarking
+value can be matched
+constrained systems
+annotated localization data
+post-processing raw rf data
+over-dimensioned dataset
+behavior of different solutions
+complex and expensive process
+sub-sampling
+platform implements the standardized
+communications
+icc
+management services for evaluation
+ebp makes
+benchmarking platform evarilos engine
+room accuracy
+training dataset
+group at sics
+lowest average
+linearly
+solutions tom van haute
+demonstrated through the evarilos
+steps
+tools are installed
+data directly
+ict
+project3 uses a set
+wider accessibility of experimental
+efficiently set
+5:43 pm page
+evarilos database
+services research
+link quality
+relevant metric
+developers the possibility
+niklas
+indoor positioning techniques
+experimental facilities
+architectural
+single solution an important
+experiments can be combined
+properties
+lemic and vlado
+shown using a cumulative
+telecommunication networks and executive
+faculty of electrical
+~35,000 ~7000
+ebp includes
+presented in this article
+aal systems
+magazine
+approaches for indoor
+ieee communications
+experimental data
+iminds
+efforts
+removing any unnecessary information
+automatically
+industrial-like openspace environment
+datasets are then discussed
+viability and the benefits
+research leading
+facility
+location technologies
+candidate in the telecommunication
+stored on a localization
+fingerprinting solution
+experiment configuration settings
+recognize
+received signal strength indicator
+providing tools for evaluating
+raises
+rf-based localization solutions
+wirstrom
+department of information technology
+represent data
+control the exper
+significant number
+method using precollected data
+comparing
+robustness
+support
+evaluating the temporal
+fwo postdoctoral
+wireless testbed facilities
+engineering from ghent
+public repositories
+service it is worth
+resulted
+manual evaluation
+presented article
+based indoor fingerprinting algorithm
+deployment options for indoor
+facilities the ebp
+database twist database
+wireless
+repeatable manner
+benchmarking experiments
+case for application-specific benchmarking
+localization algorithm
+electrical engineering and computing
+significantly
+open datasets
+evaluation is not representative
+maximum
+devices
+existing fire
+tpc cochair for ieee
+obtained training fingerprints
+electrical engineering
+average
+correspond
+features of the ebp
+tools can be testbeds
+computing
+request
+multiple solutions
+researcher in the networked
+motion sensors
+proven
+insight on the evaluated
+solutions in terms
+expertise
+considerations
+methods to support
+802.15.4 beacon
+physical
+depending on the requirements
+software components are independent
+partially supported
+generally
+datasets contain data measured
+default settings
+captured in an area
+joint technical committee
+developed software components
+computer science
+ebp is to provide
+papers
+test
+localization area
+department of electrical engineering
+described in the evarilos
+upper
+research focus
+evaluation of indoor localization
+non-rf-based technologies
+models
+imental environment
+experimental testbed
+localization using smartphones
+scores
+experiment behavior
+interests are networking
+easily be done
+multiple localization solutions
+statistical
+filip lemic
+systematically address
+berlin
+calculate the output metrics
+estimate the distance
+relevant for their localization
+full postprocessing phase
+experiment results from multiple
+solution that implements user
+w-ilab
+experiments can be executed
+number of low-level statistics
+objective methodology
+hot
+focus
+environments with brick
+established standardized
+data interference specification
+electrotechnical commission
+previously collected
+~30.9 ~47.4 tx power
+offers developers the possibility
+chair
+ebp can easily compare
+rectangles
+calculation performance
+numerous experimental testbed facilities
+seventh framework program
+area is divided
+brick office
+options has been demonstrated
+stores
+collection or full
+finally
+localization solutions depends strongly
+comparison between multiple
+evarilos visualization tool step
+step is discussed
+circumstances
+efficiency and ease
+benchmarking platform evarilos
+training data evarilos
+specific environment and necessarily
+annotated localization
+industrial-like
+training phase offers
+solution they propose
+services that facilitate
+tools with the control
+requires the following input
+system issues
+evaluation methodologies
+exact
+performance of localization solutions
+solutions tom
+information technology at ghent
+multiple experiments
+benchmarking platform has proven
+engineering and computing
+offline evaluation
+algorithm using precollected raw
+moerman received her degree
+captured data
+postprocessing phase can evaluation
+platform on multiple future
+technology at ghent university
+acknowledgment the research leading
+validation of multiple rf-based
+doctoral degree in electrical
+platform that allows simple
+environment-specific
+scientific papers
+ebp architecture is shown
+provide the location
+ebp also offers
+handbook describes a set
+requirements
+received signal strength
+serves as a reference
+creation component
+testbed-independent
+ebp is the capability
+detailed analysis
+interference generating
+wireless experimentation facilities
+evaluation of rfbased indoor
+~500
+repository
+comparable
+experiment results are provided
+received his ph.d degree
+hybrid combination
+localization competition
+custom hardware
+feature addresses
+international
+web-based platform for evaluation
+address these deficiencies
+supporting
+processing
+include nonaccuracy-related
+industriallike open-space environment
+downloaded
+score calculation experiment results
+performance evaluation
+address
+microsoft indoor
+estimates evarilos
+data struc
+framework for sparse
+phase offers
+numerous experimental
+area of the authors
+institute
+set of metrics characterizing
+performance analysis is required
+step
+engine
+localization in wsns
+wireless communication networks
+evaluated is a hybrid
+address the effect
+methodology for processing
+combined with indoor
+ieee 802.15.4 beacon information
+creating propagation
+adjustable
+metrics that are important
+conditions using standardized
+set of parameters
+important
+chaired
+prefer
+upcoming international
+analysis of a single
+solution under controlled
+testbed-dependent plugins for executing
+experimentation phase
+outcome of the performed
+estimates can be produced
+university of zagreb
+infrastructure for benchmarking
+system for stationary sensor
+fast and efficient identification
+implements user friendly
+iec established
+working
+industrial-like environment
+standardization electrotechnical
+describe plug-ins
+expected to be present
+scenarios
+data can be collected
+estimator based on weighted
+descriptions of the table
+metadata describing the exact
+staff
+criteria
+scope
+estimates from non-ebp-compliant
+data management
+positioning techniques and systems
+methodius university
+wksps
+data traces
+data is fed
+emphasis on indoor
+laser distance meter
+internet based communication
+solutions evaluated
+challenges for the indoor
+effort
+mobile and wireless communication
+experimentation facility or testbed
+organizations
+voigt is a professor
+anchor points
+output metrics
+required infrastructure
+fingerprint is compared
+assist with this process
+system issues in wireless
+strongly on its parametrization
+modified
+machine learning
+reviews
+values
+papers at flagship
+growing
+proposed algorithm
+usability
+encapsulates the data
+dedicated
+standardized methods
+performance of the solution
+feasibility of these options
+monitoring predeployed sut w-ilab.t
+processing in sensor
+update web service
+localization under controlled interference
+hides
+set of ground
+software location update
+open datasets are provided
+deployment metrics
+hide a number
+correspond to the data
+predefined data processing methodology
+14,282 ~105 ~105 fingerprinting
+infrastructure-free and infrastructure ieee
+mentioninteraction with testbed
+precollected measurements
+order to receive acceptable
+range
+indoor localization
+easily accessible environment
+criteria in different environments
+wireless sensor networks
+parameter
+components can be identified
+phase the training phase
+microsoft indoor localization competition
+max
+evaluation of indoor
+architecture allows experimenters
+present the evarilos benchmarking
+explored
+mobile sensor
+improving
+information processing in sensor
+point depending
+data
+full annotated
+solutions using input datasets
+runtime
+simplifying the complex
+post-processing phase
+localization data
+objectively compare
+combined with a range-free
+~105 ~105
+efficiently and accurately
+14,285 ~105
+fp7
+possibility to download
+leads the nes
+evaluated solutions
+performance metrics score calculation
+wifi or ieee
+calibrating indoor positioning systems
+networks and communities
+offers researchers a database
+serving
+subsections
+simplify the evaluation
+generate typical
+haute
+wide range of metrics
+install custom hardware
+performance indicators
+experiments
+focused on proposing
+features from multiple environments
+engine evarilos visualizers
+friendly methods to support
+collected raw data
+ieee
+robotic mobility platform
+group
+average error
+zagreb
+experiment results are stored
+indoor ieee
+vanhaute_layout.qxp_author layout
+german academic exchange
+measured environmental information
+offers
+generate typical interference scenarios
+definition evaluation
+intl
+motivated m ficco
+section describes
+environment-specific training
+result of the complexity
+time-offlight
+full performance evaluation
+improves benchmarking of indoor
+reply with a hardware
+experiments from earlier experiments
+indoor localization solutions tom
+olisz received his degrees
+moerman abstract tom van
+introduce
+range-based and range-free algorithm
+integration of ebp
+benchmarking of indoor localization
+offered represent
+network systems and services
+error cdf
+order to develop
+environment data is annotated
+parallelograms
+illustrate the benefits
+accommodate
+calculation experiment results metric
+significant number of localization
+tof ranging
+evarilos open challenge
+experiences and lessons
+realistic
+leveraging the presented
+testing
+experiments from earlier
+unions seventh
+software location update web
+benchmarking of rf-based indoor
+fingerprints
+location estimates evarilos benchmarking
+includes a wide range
+participated
+trade-offs
+initiating
+terms of used performance
+open data set
+official evaluation process
+challenges
+experimental evaluation
+wirstrm is a researcher
+summary
+~105 ~105 fingerprinting solution
+simple evaluation
+methods for indoor ieee
+predefined
+first phase
+shown
+unions seventh framework
+node could be out
+optimizing this set
+table with multiple metrics
+e.g
+optimize our platform
+indoor fingerprinting algorithm
+internet
+current
+objective evaluation methods
+sensor
+offered to future experimenters
+cost should be included
+postdoctoral researcher
+filip lemic was partially
+moerman are with ghent
+shortcomings by providing
+researchers to download
+nes group at sics
+download full annotated
+possibility
+technische universitt
+created to address
+localization are generally
+complicated
+steps efficiently
+training the localization solution
+environmental information relevant
+coordinates the activities
+benchmarking and evaluation
+training
+silesian university
+testbeds,6 and are automatically
+users can download environment-specific
+sensor networking
+locations
+analysis is required
+showing that the performance
+programming
+power equals
+degrees
+motion
+received funding
+flanders
+experimentation steps
+interference monitoring
+promotion
+senior researcher
+first
+abstract tom van
+note
+values to measure
+overview of the ebp
+consists of a set
+omitted
+7th wksp
+evarilos web interface
+evaluation points experiment setup
+process of benchmarking
+raw rf traces location
+cybernetics
+iec established a joint
+directly
+independent of any experimental
+custom
+open
+enable objective evaluation
+implements user
+evarilos visualization tool
+necessarily
+estimation could be made
+end users
+long as the experiment
+evaluation of rf-based
+remotely
+approaches for indoor localization
+open challenge
+deploy
+calibrating indoor
+situation is partially
+collection or full localization
+standardized data format
+researcher at ghent
+grant
+training purposes are captured
+ebh
+strength indicator
+performance of a sut
+effects of changing
+research community
+benchmarking of quantile
+power is well configured
+web interface evarilos
+generic architectural framework
+two categories
+0163-6804
+layer represents a sut
+wide
+datasets are provided
+run locally
+benchmarking platform that implements
+temporal
+limited experience
+structured
+future
+solutions based on measurements
+ebp
+outcome
+experiments and storing performance
+range of interested researchers
+initiating node
+requires technical expertise
+deploy custom hardware
+framework used to analyze
+matched
+wider accessibility
+author filip
+conclude the work
+pro
+errors are measured manually
+annotated datasets
+organization for standardization
+organization
+optimal operating point
+organized by microsoft
+distorted
+online phase
+experiment definition
+offered represent raw
+misra
+conversion
+results can give
+downloaded for custom modifications
+efficient
+two rest
+complexity
+systems at technische universitt
+metrics computation
+emphasis
+multiple rf-based indoor
+utilizes precollected
+online
+richness of the dataset
+testing systems that enable
+networks and services research
+projects
+settings to adjust
+crew cognitive
+ebp can also request
+select among different preconfigured
+communication networks and services
+ebp addresses
+performing a manual
+runtime or online
+localization solutions are evaluated
+data was captured
+develop comprehensive standardized evaluation
+net
+order to receive
+step utilizes precollected input
+experiments are executed
+considered
+analyze the effects
+multiple localization
+internet-based communication networks
+enables automated evaluation
+networked embedded systems
+order
+facility and the public
+systems that enable objective
+net wik
+link
+senior
+typically
+basic idea
+precise
+energy consumption
+hard to objectively compare
+show
+german
+issues in wireless
+basis for either training
+rssi values
+wide range
+wireless experimentation facility
+competitions has been organized
+created using testbed-specific
+present
+ground
+specifically
+accessed remotely
+richness
+technical expertise
+fixed and mobile
+solutions raises
+stored together with additional
+networks group
+implemented
+cognitive radio
+particle filter
+mobility platform
+room acc
+ebp gives a ranked
+components run
+awareness
+info
+effort is more general
+crew cognitive radio testbeds,7
+range-based location estimator based
+set of evaluation
+tracking systems.2 current
+distributed wireless sensor
+openspace environment
+installed
+proprietary evaluation metrics
+secondary
+upper layer
+evaluation data web
+settings
+creating propagation models
+evarilos engine evarilos
+estimator based
+dedicated metrics
+accuracy is considered
+obtaining relevant
+rank the outcome
+jtc
+include both annotated
+official evaluation
+automatized benchmarking of rf-based
+evarilos engine
+phases
+evaluation cycle
+16th
+experiment execution component illustrated
+experiments in fire
+localization server
+localization research community
+sparse distributed wireless sensor
+sut in a specific
+accessed remotely or downloaded
+robotic mobility
+infrastructure
+technical expertise to efficiently
+localization are generally divided
+temporal or spatial
+experiences and lessons learned
+fails
+applied to location
+network testing
+involves deploying physical
+processing the received
+iwt-vlaanderen
+network systems
+interference patterns
+sites
+chaired professor in telecommunication
+receive acceptable results
+protocols of communication
+direct comparison
+moerman abstract
+based indoor fingerprinting
+reproducible
+simplifying
+simplifying the process
+arrival
+basis
+experiment creation
+datasets for research purposes
+location estimates
+evarilos database standardized data
+includes a wide
+data structures
+evaluation metrics
+benefits of leveraging
+executive director
+navigation
+manual
+article
+experiment specification experiment
+preconfigured options
+facilities and use open
+fwo postdoctoral research
+position of the person
+two nodes
+stationary
+sensor time-offlight
+solutions table
+propagation
+obtained training
+platform and plug-ins
+scores secondary performance
+awards
+details about the structure
+captured using devices
+wirstrm
+indoor positioning
+automatic conversion
+overview
+european unions
+localization benchmarking are presented
+junior researcher
+information between the components
+performance analysis
+handheld
+inclined researchers typically lack
+writing
+experience with experimental
+metrics characterizing
+operating point depending
+obtaining better insight
+execution raw
+configuration settings
+multiple future
+combined
+metric calculation performance
+platform that implements
+abstract
+acknowledgment the research
+platform improve
+datasets are rich
+sut w-ilab.t database twist
+http upon request
+traces can be fed
+infrastructure obtains
+includes services that facilitate
+uppsala universitet
+influence
+offered
+address these shortcomings
+capability to streamline
+accessibility
+technology at ghent
+observe
+external
+science engineering from ghent
+localization solutions were indoor
+professor at uppsala
+data evarilos
+encapsulates
+protocols
+inherent trade-offs
+case
+summa
+structures
+training an algorithm
+group on internet-based
+localization benchmarking experiments
+group at sics swedish
+sparse distributed wireless
+pro deploy custom hardware
+experiment creation component
+processed using spray
+involves deploying
+biographies tom
+power is an important
+assigned to the performance
+haute is a doctoral
+important criteria
+precollected data
+basic concept
+performance information the ebp
+solutions were evaluated
+hardware raw
+predeployed sut w-ilab.t
+costs in response
+metric
+interference on indoor localization
+middle
+conferences
+full localization
+identify trade-offs
+location estimates vided
+providing a platform
+microsoft indoor localization
+multiple rf-based indoor localization
+technology
+indoor localization competition
+binary
+represents a wireless experimentation
+develop
+evaluating the performance
+platform for benchmarking
+author
+802.15.4
+scientific papers evaluate
+first rest interface
+values of a single
+typical operational environment
+usage of access
+ebp addresses this issue
+published papers at flagship
+wireless on-demand network systems
+fixed node
+ebp offers a wide
+events
+data is collected
+focus is on machine
+~105 using toa
+compared to the training
+assist
+ebp architecture
+point accuracy
+datasets contain data
+adjustable parameters
+average localization
+usage of the ebp
+fwo
+sics and a ph.d
+platform offers developers
+compare the same solution
+implements
+telecommunication networks
+metrics characterizing the performance
+objectively by considering multiple
+training database
+testbed-dependent plugins
+experiment configuration
+walls
+depending on adjustable parameters
+costs
+ficco
+evaluation of full
+institute for telecommunication
+components required
+diploma
+estimates from the sut
+researchers
+scholarship
+imental
+testbeds and research
+existing localization
+hybrid
+rest
+algorithm using precollected
+relevant
+solutions by testing
+utilizes precollected input
+engine evarilos
+testing platform for benchmarking
+captured
+platform evarilos
+platform has proven
+doctoral
+test and evaluation
+hardware and software
+parametrization
+wireless indoor experiments
+interested
+samples
+transmission of the packet
+role
+solutions are evaluated
+hardware software
+real
+researcher and ph.d
+aspects
+seventh framework
+researcher and ph.d candidate
+comply with the ebp
+implements the standardized
+european unions seventh framework
+set up large-scale experiments
+voigt
+platform uses the capabilities
+evarilos benchmarking platform evarilos
+part
+execution
+metrics to identify trade-offs
+flagship sensor networking conferences
+metrics are defined
+particle
+experiments with sensor network
+range of measurement points
+intec
+infrastructure obtains location
+serves
+server
+sensor networks combined
+consideration a wide
+view
+output
+offers a wide
+layer represents a wireless
+testbed for wireless
+node
+acm sensys
+data sut evaluation experiment
+additional performance metrics
+truths
+ebp in a wireless
+competition
+metric calculation scores
+evaluation of a sut
+standardized data
+matching
+precollected data traces
+users
+visualization tool
+lemic was partially
+obtaining
+range-free algorithm
+users can download
+emphasis on indoor localization
+messages if the mobile
+architecture
+joined tu-berlin
+tpc cochair
+describing a whole experiment
+standardized data format training
+specification experiment definition
+location estimates and ground
+streamline the process
+input datasets
+biased
+main scientific interests
+scientific
+industriallike
+database
+exchange data
+suppose the response
+update
+service for calculation
+results are stored
+evolve
+lemic is a junior
+training fingerprints
+evarilos project
+found
+subsequently processed
+introduce a testbed-independent benchmarking
+professor at the department
+traces from multiple environments
+earlier
+member of the research
+acc
+comparison
+data format
+chintalapudi
+range of non-rf-based technologies
+ack
+capability to reuse
+evaluation of localization hardware
+discussed
+generated
+acm
+worth mentioning
+estimator
+testbed-specific tools
+allowing
+integration
+california
+locally
+approach is combined
+localization solution
+beacons
+errors are measured
+metrics has proven
+icc wksps
+environment using proprietary evaluation
+cdfs
+system for stationary
+references
+w-ilab.t database
+determine
+sut can be calculated
+line with the methodology
+system and can transport
+theoretically
+standardized evaluation methods
+type of collected raw
+important that the transmission
+weight
+area
+removing
+handbook describes
+implement a workflow
+advantages of the ebp
+start
+users device
+control and management framework
+series
+14,285
+develop comprehensive standardized
+evaluate indoor
+multiple evaluation metrics
+testbed-dependent scripts
+numerous experimental testbed
+interdisciplinary
+idea
+role of the experiment
+correlated
+runtime fingerprint is created
+metadata describes characteristics
+technologies
+degree in electrical engineering
+upcoming international organization
+datasets
+downloaded for custom
+default
+constrained
+engineering from ghent university
+quantile based indoor
+german academic exchange service
+discussed in detail
+ph.d scholarship
+node has a range
+evaluation approaches
+deploy custom
+strongly
+nodes will receive
+represents a sut
+packets
+describe
+mobile computing
+general
+propose a testbed-independent
+scanned
+acm sensys and ieee
+wolisz
+localized device
+represent data struc
+calculated
+grown exponentially
+measured raw rf traces
+drafts
+offers experimenters
+set of components
+lack of comparability
+smartphones
+accessed through web services
+uppsala university
+positioning systems with low
+calibrate the deployment
+previously measured
+fast and efficient
+utilizing precollected data
+metadata describes
+reception
+solutions are deployed
+translated
+chaired professor
+includes
+performance metrics figure
+combined to observe
+interested in also evaluating
+necessarily hides
+suited
+conversion from experiment descriptions
+included
+funding
+swedish ict
+wide range of conditions
+distance between a fixed
+test positioning software
+preexperimentation phase
+experimentation experiment specification
+range of conditions
+remote
+multiple testbed-dependent
+5:43
+solutions were indoor
+wifi
+architectural framework for sparse
+finished
+link quality indicator
+adam
+issues in wireless sensor
+twist database testbed
+fact that this evaluation
+low-level statistics
+represent
+sci
+focused on wireless
+pro deploy custom
+web service
+lack
+~105 fingerprinting
+localization solutions using input
+instantiating
+technical university
+conclusion room
+scanned data
+process is not automated
+facilitate the evaluation
+performance results
+phase in this step
+evaluation of these solutions
+illustrates
+single solution
+learning techniques for localization
+program
+rfbased indoor localization
+nodes
+examples of the testbeds
+communications magazine
+controlled conditions using standardized
+experiment executables are created
+points per evaluation point
+automated evaluation and comparison
+nes group
+established a joint technical
+internet of things
+location update web service
+database to access previously
+table with multiple
+offline phase
+range of evaluation metrics
+representative for the experimentation
+illustrates the advantages
+phase can evaluation data
+components of the platform
+indoor localization research community
+common
+real time on existing
+staff member
+custom hardware raw
+notions of accuracy
+detailed descriptions
+monitoring predeployed sut
+benchmarking platform
+states that the transmission
+joined
+precollected rf data sources
+necessarily hides many intrinsic
+function as weight factors
+web-based platform
+experiment descriptions to testbed-dependent
+processing methodology
+fully automated web
+section describes the ebp
+local hardware
+received an fwo postdoctoral
+process of obtaining
+experimentation are orchestrated
+relevant measurements
+overview of the services
+cochair for ieee
+including wifi
+plugins
+metrics data structure
+solutions in different environments
+telecommunication
+proposed algorithms
+test facility
+metrics computation engine
+section
+localization
+hybrid indoor localization
+public
+evaluating and comparing
+innovation through science
+learned
+performed by requesting
+important challenges
+method
+objective comparability
+format training data
+published papers
+interim professor
+software system
+possibility to define setups
+leverages a robotic
+definition of experimentation
+database standardized data format
+14,282
+recent wireless
+distorted view
+beacon
+operating
+situation
+gliwice
+distance between two
+table
+full annotated datasets
+14,285 ~105 ~105
+experimentation phase offers
+energy eff
+evaluated localization
+dataset into a set
+professor at the chair
+solutions in order
+response delay
+localization area is divided
+represent components
+published
+correct
+brick office environment
+options
+support the full performance
+datasets include both annotated
+benchmarking of rf-based
+part of the evaluation
+evaluate the solution
+user will start
+multiple environments
+location estimator based
+tracking
+experiment descriptions
+indoor experiments
+analyzing
+data as input
+joint technical
+generic benchmarking
+select
+platform for evaluation
+environment
+gather the necessary performance
+score
+presence
+signal properties
+define setups
+two
+postprocessing phase
+generate
+sics swedish ict
+combination range-based
+utilizes
+idea of the tof
+ph.d degree
+researchers typically
+test points
+definition component requires
+stationary node to transmit
+estimated position
+wsns and other resource
+rf-based indoor localization solutions
+received her degree
+results from multiple experiments
+platform evarilos engine
+inclined researchers typically
+rssi values to measure
+non-ebp-compliant
+department of information
+phase can evaluation
+nonaccuracy-related metrics
+points near a wall
+utilizing precollected
+demonstrates that the approach
+runtime fingerprint
+modified and run locally
+algorithms can be evaluated
+fast
+number of cells
+framework for sparse distributed
+masters studies
+radio testbeds,7
+system under test positioning
+describes characteristics including
+~35.1
+evaluation and comparison
+student at uppsala
+minimum requirement
+translated into testbed-dependent executables
+compare
+evaluation of rfbased
+group at the technical
+radiomap
+component requires
+binary files
+possibility for automated
+states
+minimum
+wide range of evaluation
+approaches are being explored
+sut evaluation experiment results
+information
+ranked overview of evaluated
+on-demand network
+accessed through web
+dataset makes
+technische
+solutions tom van
+points per evaluation
+summa cum
+scripts is supported
+users can either download
+mentioning that the full
+ground truths and estimates
+ingrid moerman
+precollected input
+skills to perform
+based on measurements
+training database is created
+mermat
+performance metrics score
+upcoming iso
+networks and services
+tool step
+testbed-dependent scripts is supported
+poorter
+evarilos application programming interface
+director
+studies
+evaluate a sut
+faculty
+response
+evaluate a solution
+shortcomings
+focused on objective
+execution is stored
+influences the performance
+evaluation ieee communications
+previously measured environmental information
+step the obtained raw
+ingrid moerman abstract tom
+research grant
+implements user friendly methods
+visualize the different steps
+download the data directly
+collected in multiple environments
+evaluation method for comparing
+results are pro deploy
+popular series of indoor
+experiment definition component
+evarilos web interface evarilos
+developed
+evaluation of an indoor
+depending on the experiment
+improving proposed
+performance
+embedded systems at technische
+web interface evarilos visualization
+important for industry
+committee
+earlier experiments
+benchmarking platform on multiple
+two types
+platform on multiple
+sparse distributed
+evaluation approaches for indoor
+~35,000 ~7000 ~500
+probability
+metrics data
+solutions on its web
+platform components
+signal strength indicator
+particle-filter-based platform
+filip
+recent wireless testbeds,6
+user interface
+beacon information
+systems
+training phase offers experimenters
+device in an autonomous
+architecture is shown
+finer
+icl-gnss15
+~105
+including wifi beacons
+motivated
+defined objective evaluation
+propose
+skopje
+datasets collected in multiple
+automated web service
+based on these results
+seventh
+framework
+solution using software running
+rf-based indoor localization algorithms
+requirement for a sut
+communities
+benchmarking are presented
+tom van
+evaluate an indoor localization
+comparability purposes
+explained in detail
+summarized results
+evaluation of localization solutions
+fully
+presented
+conclusion room accuracy
+defined objective evaluation methodology
+range between two fixed
+transmission
+evarilos data
+aal
+techniques for localization
+theoretically inclined
+software running
+work as the number
+remote offline evaluation method
+environment with plywood
+mobile node is maximum
+generation
+experimenters can install custom
+energy
+hard
+methodologies for the evaluation
+datasets are typically
+technische universitt berlin
+localization solutions based
+obtains
+measurement
+score can be assigned
+~30.9 ~47.4
+location estimate over http
+two phases
+postdoctoral research
+indoor localization under controlled
+viability
+research
+node to transmit packets
+number of collected samples
+offline
+interoperability with aal
+evaluation
+part of the information
+area that is representative
+part-time professor
+lack of an objective
+offers developers
+weight factors
+ebp has been created
+data at a finer
+mobile
+filip lemic and vlado
+sensor rssi
+computation engine
+reproducible manner
+wide range of non-rf-based
+stores the rssi
+anchor points per evaluation
+benefits
+indoor localization benchmarking experiments
+focused on wireless sensor
+outcome of any localization
+positioning
+allowing researchers to download
+linearly correlated
+introduction
+depends strongly
+experiment results metric
+exponentially
+describe how to adequately
+distance calculation
+configurations
+architectures
+major
+limited experience with experimental
+full postprocessing
+note that this step
+prevent
+evaluated sut
+number
+estimates for different measurement
+done
+changing
+networking and system issues
+distributed wireless sensor networks
+finer granularity
+reference localization system
+fire
+rest of this article
+defined interface
+on-demand network systems
+utilization
+visualizers from non-ebp-compliant solutions
+fed to the system
+wilab.t
+access previously
+~35.1 ~47.4 table
+fire facilities
+bachelors and masters
+supporting a remote
+promotion of innovation
+location update web
+comparing localization
+sut in different environments
+database testbed framework
+experimenters to choose
+preexperimentation
+remotely using the ebp
+comparison between multiple solutions
+performed localization experiments
+obtained raw
+authors
+infrastructure obtains location estimates
+solutions has grown
+train their localization solutions
+prefer to download full
+context awareness
+toa
+single environment
+divided in two
+score calculation
+ranked overview
+localization and tracking systems.2
+solutions depends strongly
+mobility
+cost
+interaction between a sut
+usage of access points
+measurements that are performed
+indoor localization solution
+step can be omitted
+cell is created
+data sut evaluation
+indicators
+evaluation metrics evolve
+purposes are captured
+coordinates several interdisciplinary research
+present in the solution
+adjunct professor
+tracking systems.2 current drafts
+systems.2
+room
+calibrating indoor positioning
+swedish institute
+exchange information
+environment and necessarily
+handheld laser
+silesian university of technology
+coordinates several interdisciplinary
+depending
+fixed and mobile nodes
+generation of experiment
+step the obtained
+download environment-specific training
+defined such as installation
+stored in a secondary
+building on top
+science and technology
+testing systems
+aliasing
+tool
+eff
+experiments and storing
+research group on internet-based
+average localization error
+popular
+fingerprint is created
+measures
+ieee wireless
+providing an open
+experiences
+significant
+researchers who have limited
+interference
+evaluating and comparing localization
+extremely
+database standardized
+rep tkn-14-001
+rep tkn-14-003
+rep tkn-14-002
+cyril and methodius university
+ebp can issue
+include both hardware
+score is an abstraction
+operational environment
+train their localization
+part-time
+storing performance
+access previously measured environmental
+plywood office
+cyril and methodius
+researchers who prefer
+measured raw
+microsoft
+data relevant
+generate typical interference
+sensys and ieee ipsn
+multimedia
+proposed in the evarilos
+received his doctoral
+lymberopoulos
+characterizing the performance
+calculation experiment
+training datasets from public
+localization solutions were evaluated
+multiple evaluation
+final score
+solutions using input
+algorithms
+networks
+environment of interest
+access
+professor in telecommunication
+training or offline
+academic exchange service
+parameters
+standardized evaluation method described
+platform offers researchers
+values function
+includes a range-based
+received signal
+view of w-ilab.t
+daad
+environment and necessarily hides
+generally divided in two
+iec
+remote offline evaluation
+rssi value
+member
+worth mentioninteraction with testbed
+accessibility of experimental
+evarilos
+locations in an environment
+metrics of indoor
+competing
+struc
+generating interference monitoring predeployed
+method described
+transport the localized device
+running
+tkn-14-003
+tkn-14-001
+estimate from a sut
+runtime fingerprint is compared
+drafts include evaluation
+evaluation experiment results
+integrated in existing
+points experiment
+provide open datasets
+interim
+metrics such as response
+evarilos benchmarking platform
+cloud platform
+download full
+possibility for automated generation
+fully automated
+characteristics
+evaluation ieee communications magazine
+set
+packets to the testbed
+developed software
+runtime or online phase
+comprehensive standardized evaluation approaches
+estimates from non-ebp-compliant solutions
+stationary node
+universitt berlin
+measurement frequency
+internet based
+obtains location estimates
+individual
+data format training
+experiment configurations
+fixed nodes will receive
+iso and iec
+deploying
+results illustrate
+methods for indoor
+visualize
+give
+database is created
+installation complexity
+ieee 802.15.4 beacon
+deploying physical
+user
+localization solutions depends
+flagship sensor
+~47.4 tx power
+unions
+university in skopje
+measurements currently offered represent
+iso jtc
+runtime fingerprint is reported
+software solution
+sut evaluation experiment
+conditions
+methodius university in skopje
+group at technische universitt
+shortcomings by providing tools
+recently
+interoperability with aal systems
+implemented and evaluated
+networks combined with indoor
+metrics of indoor localization
+scalability
+spray
+ranked
+algorithms can be found
+execution ieee communications magazine
+interface
+technologies and approaches
+execution component illustrated
+truths and estimates
+optimal operating
+series of indoor
+last
+performance of multiple localization
+components
+data between the web
+junior researcher and ph.d
+range of localization solutions
+improves
+data measured
+cdfs for the hybrid
+context
+median
+olisz
+reply
+experimental
+cyber-physical
+instantiating the components
+definition
+indoor positioning systems
+localization research
+large-scale
+simple
+wireless sensor networks combined
+joined the department
+community
+mentioninteraction
+consideration
+divided in two phases
+institute of computer
+factors
+performance of a localization
+consuming
+described
+test positioning software location
+abstraction of the performance
+experimentation facility
+due
+platform for automatized benchmarking
+results are provided
+localization data from multiple
+describes
+rest interface
+open software
+obtaining relevant measurements
+introduction this article addresses
+brick
+evaluation points experiment
+structure together with additional
+files
+steps efficiently and accurately
+lemic
+section above states
+systems at technische
+studies with the faculty
+information the ebp
+transmission power
+mine
+mentioninteraction with testbed ing
+aliasing problems
+plywood walls
+representative
+involves deploying physical devices
+receive
+locations is a sut
+hard to objectively
+measuring
+public datasets contain data
+future experimenters
+evaluated
+technical
+objective evaluation of rf-based
+bachelors
+evaluating
+error
+cochair for ieee ipsn
+internet research
+institute of computer science
+manner
+method using precollected
+scheduled
+detailed
+underground
+handbook contains a set
+vol
+evaluation of localization
+cognitive radio testbeds,7
+ieee icc wksps
+operating point
+hardware raw rf traces
+doctoral researcher at ghent
+observe how certain evaluation
+evaluating aal systems
+science engineering
+users can select
+result of the execution
+sics swedish
+ebp using multiple
+estimate
+experiment definition component requires
+identification of an optimal
+researcher at ghent university
+location estimates from non-ebp-compliant
+office environments
+scores secondary performance metrics
+ranging is to estimate
+objective evaluation methodology
+physical devices
+steps are time consuming
+wireless indoor
+step utilizes precollected
+facilitate testbed-independent
+utilizing precollected data traces
+adequately
+calculation
+solutions using standardized
+process using the ebp
+comprehensive
+services for evaluation
+full automation
+habil
+correlated to the distance
+triangulation can be applied
+dataset makes the data
+accessibility of experimental data
+include evaluation methodologies
+metrics and evaluation methodology
+receive its messages
+performance evaluation ieee
+deficiencies by providing
+configure all aspects
+download and modify
+makes
+poland
+research projects
+multiple experiments to observe
+person
+set of metrics
+services
+measured at a wide
+project and iso jtc
+benchmarking rfbased
+testbed-dependent
+presented platform
+experiment execution
+secondary metrics data
+localization under controlled
+localization solutions using standardized
+poorter is a postdoctoral
+ugent.be
+methodius
+competitive
+doctoral degree
+node measures
+default settings to adjust
+solution an important feature
+esposito
+steps of the process
+positioning software
+improves benchmarking
+task
+office environment with plywood
+evarilos application
+problems of indoor localization
+tracking systems
+based on weighted rssi
+combined with multiple
+received his masters
+survey of wireless indoor
+setup and outcome
+datasets collected
+benchmarking platform for automatized
+evarilos visualizers from non-ebp-compliant
+location
+performance data
+aps
+input
+cum
+indoor localization research
+comparison of multiple
+performance indicators necessarily
+raw data as input
+implements the standardized evaluation
+testbed-independent benchmarking
+range of localization
+format
+evaluate
+showing
+number of indoor
+evaluation data
+papers evaluate the solution
+transmit
+number of indoor localization
+requirements of an experiment
+testbeds,7
+interfaces
+localization solutions in order
+degree in electrical
+web interface
+deployment options
+enable objective
+accuracy strongly depends
+experiment definition evaluation
+networking conferences
+existing localization solutions
+results from multiple
+systematically
+signal
+suts
+testbed facilities
+testbeds and research infrastructures
+two fixed
+data sources
+predeployed sut w-ilab.t database
+annotated with metadata
+illustrate the presence
+function
+realistic evaluation and comparison
+datasets for research
+captured at evaluation points
+range of interested
+methods
+received data
+modified and run
+creation
+hides many intrinsic
+testbeds mobility interference generating
+raw rf traces environmental
+applications and reviews
+wrong estimation
+examples
+sight
+set of scenarios
+collected in multiple
+input into an rf-based
+include evaluation
+man
+describing
+first one to systematically
+tools
+measurements
+sut and the ebp
+data repository
+competitions
+localization competitions
+leveraging the presented platform
+web services
+innovation
+capabilities of the crew
+proc
+lowest
+radiomap has a direct
+run
+process for its competition
+reconfigurable testbed
+environment description
+networks combined
+metrics evolve
+director of the institute
+generic benchmarking platform
+perform these steps
+easily accessible
+networked embedded
+objectively compare the performance
+repeatable
+optimize
+mobile sensor node
+evaluation methodology
+functional metrics
+locations are stored
+automated web
+final position
+silesian
+reference localization
+correct data format
+application programming
+methodology
+effect of interference
+serving as interim
+comparing their performance
+metrics using standardized methods
+compare the performance
+download full annotated datasets
+setups for raw
+ingrid moerman received
+metric calculation
+combined with indoor localization
+ieee wireless on-demand network
+hybrid indoor localization solution
+obtains location
+dedicated metrics computation
+requesting a stationary node
+servers
+range of metrics
+calculation between the fixed
+analyzing and improving proposed
+distance between fixed
+data web service
+embedded systems
+statistics
+research and experimentation
+training phase the training
+performance evaluation cycle
+doctoral researcher
+terms of number
+ipsn
+post-processing raw
+long
+comparison of indoor
+handziski are with technische
+adjust the experiment behavior
+handbook
+generating interference monitoring
+typical interference scenarios
+evaluation of their functional
+testing platform
+facility or testbed
+comparison of indoor location
+concept behind the first
+necessarily hide
+raw rf data
+transmit packets
+quantile based
+offers a wide range
+demonstrated the viability
+hybrid solution
+solution an important
+performed in advance
+access an evarilos application
+indoor localization using smartphones
+line
+pain
+junior
+twist database
+non-rf-based
+open-space
+important for the evaluation
+analyze the performance
+requesting
+datasets from public
+solution contains a set
+bottom layer represents
+evaluation ieee
+middle of a room
+measurements for training purposes
+dresden
+handheld laser distance meter
+power is too low
+autonomous
+traces as input
+storing
+~35,000 ~7000 ~500 hybrid
+cell is scanned
+defined
+autonomous and repeatable manner
+iso and iec established
+component illustrated in fig
+download environment-specific training datasets
+behavior
+industry and end users
+precollected raw
+localization experiments in fire
+particle filter solution
+requires technical
+international organization
+application
+ebp in wireless
+electrical
+interface evarilos visualization
+department
+tech
+requesting a stationary
+conclude
+stationary sensor
+components are independent
+raw rf traces
+provided
+problems
+locations where no testbed
+internet based communication networks
+line of sight
+secondary performance metrics figure
+described in the section
+reception of the ack
+intrinsic trade-offs
+resource constrained
+results metric
+multiple frequencies
+values function as weight
+structure
+real-time environmental
+range-based and range-free
+includes services
+methodologies
+algorithm
+required
+solutions were indoor localization
+considerably influence
+services that facilitate testbed-independent
+complexity required
+data for offline evaluation
+results metric calculation scores
+infrastructure for benchmarking rfbased
+requires
+optimal operating point depending
+scenarios in a reproducible
+relevant for a wide
+rf-based indoor
+estimates and ground truth
+multiple metrics
+data processing
+rssi-values
+adam wolisz
+non-functional properties
+theoretical
+results
+existing
+illustrated
+offers the possibility
+swedish
+ipsn and ewsn
+generic architectural
+strep
+contributions
+issues
+sensor time-offlight information
+www.ibcn.intec
+full localization solutions
+terms
+description
+evaluation experiment results metric
+interference generating interference
+solution obtains the lowest
+group on internet-based communication
+data traces as input
+machine learning techniques
+method for comparing
+evarilos web
+friendly
+proliferation of rf-based indoor
+range-based location estimator
+vlado handziski
+office environment
+received an fwo
+multiple rf-based
+conferences such as acm
+complex steps
+fingerprinting algorithm
+categories
+manufacturer captured at evaluation
+required for the evaluation
+drafts were publicly
+benchmarking handbook
+chair for embedded systems
+experiment setup experiment execution
+executables
+comprehensive performance
+sources through its user
+training fingerprint
+masters degree
+fingerprint of each cell
+possibility to define
+orchestrated
+competition series
+network deployment
+bachelors and masters studies
+localization solutions raises
+suited for analyzing
+node is maximum
+comparing the performance
+environment-specific training datasets
+sut
+experimentation facilities the ebp
+single parameter
+application-specific
+engineering from tu berlin
+wireless testbeds,6
+download
+focus on the performance
+rssi-values into account
+calculation performance metrics
+location estimates evarilos
+vided
+systems.2 current
+flagship
+power
+executables are executed
+ebp for fast
+strep evarilos
+ebp using multiple transmission
+experiment
+interface evarilos
+accuracy of indoor
+testbed ing
+ingrid moerman abstract
+niklas wirstrm
+evaluated localization solution
+comparison of different indoor
+proliferation
+popular series
+worth mentioninteraction
+degree
+exchange
+respect to deployment metrics
+leveraging
+indicator
+simplifying the complex steps
+focused
+web
+ghent
+illustrates inherent trade-offs
+develop comprehensive
+including different notions
+expertise to efficiently
+handziski is a senior
+trans
+user friendly methods
+comparable and not repeatable
+ieee trans
+indoor location
+calculate the output
+wide variety
+extremely hard
+ebp includes services
+survey
+postprocessing
+theoretical point
+performed localization
+implement
+scalable and reconfigurable testbed
+delays
+involves
+indoor location technologies
+control
+experiment be scheduled
+fingerprinting methods
+addresses
+allowing detailed analysis
+tools for evaluating
+training data evarilos web
+wik
+grant agreement
+offline evaluation of rf-based
+evarilos benchmarking handbook
+api
+done by removing
+collected samples per evaluation
+quickly evaluate a sut
+show that the quality
+range-based location
+complex
+wirstrm and thiemo voigt
+cloud
+hardware acknowledgment
+fed
+automated generation
+figure
+consumption
+aal systems through competitive
+median error
+plugins for executing experiments
+localization algorithm using precollected
+wsns
+major problems of indoor
+weighted rssi values
+typical
+manufacturer
+real-time environmental data
+component illustrated
+low efforts
+provide the location estimate
+main interests
+upcoming
+localization and tracking systems
+inclined
+series of indoor localization
+top of the crew
+two fixed nodes
+train
+measurements are then processed
+tpc
+actual execution
+high
+account
+secondary metrics
+ebp can easily
+integrating
+challenge
+information processing
+important from a theoretical
+testbed for wireless indoor
+infrastructure ieee
+publications
+areas of sensor networks
+describes the ebp
+industry
+performed
+interference is expected
+wireless indoor positioning techniques
+run on a cloud
+proprietary
+node to transmit
+format training
+process
+monitoring
+realistic from an operational
+purposes
+raw data
+number of times
+open space
+professor
+evaluation of rf-based localization
+testbed infrastructure
+wirstrm and thiemo
+based indoor
+programming interface
+interests are in context
+sensors
+environmental rf data
+metrics score
+delay
+~30.9
+numerous
+solutions that participated
+combine results
+traces location estimates vided
+technical skills
+types of indoor localization
+solution using a generic
+number of organizations
+specifications
+universitt dresden
+collection
+two nodes by measuring
+ieee icc
+methodologies for a single
+data evarilos web
+efficiently
+set up large-scale
+methodology for the evaluation
+problems of indoor
+research is focused
+precollected
+control and management
+set of adjustable
+range between two
+metrics using standardized
+university of california
+testbed-dependent executables
+distance when the nodes
+finished his bachelors
+subsequently
+software
+divided
+typical operational
+structures used to exchange
+application-specific benchmarking
+localization solutions has grown
+software solution that implements
+solution is evaluated
+insight
+main scientific
+based communication networks
+meter
+produced
+researchers interested
+fixed particle filter
+including
+sensor network
+fp7 evarilos project
+mentioned
+quality indicator
+standardization electrotechnical commission
+including a plywood
+scanned a certain number
+competing solutions
+institute for promotion
+proprietary evaluation
+benchmarking rfbased indoor
+propagation models
+significantly more data
+multiple future internet
+tkn-14-002
+performance metrics and evaluation
+concept
+wifi beacons
+including functional
+previously
+test positioning
+choose
+communication
+pertains to a wide
+sensys
+fed to the evaluated
+ieee communications magazine
+traces from multiple
+fingerprint is reported
+setup of different experiments
+university
+clear that this solution
+dam
+metric calculation scores secondary
+shown in fig
+functional
+including a plywood office
+organization for standardization electrotechnical
+evaluation method
+standardized evaluation
+fingerprint
+algorithms under rf interference
+experiments in fire facilities
+dataset
+day
+article is structured
+stores the raw data
+masters
+hui
+testbed-independent information is translated
+reported as the estimated
+data is annotated
+identified
+database standardized data
+degree in computer
+interface for automatic
+~105 fingerprinting solution
+traces
+controlled conditions
+system
+microsoft as part
+created using testbed-specific tools
+ebp for the evaluation
+measurement locations
+external users
+section provides an overview
+network testing platform
+components of the ebp
+calibrate
+metrics score calculation experiment
+swedish institute of computer
+define setups for raw
+creating
+solution tx power
+experiment results
+rep
+based on fingerprinting
+sensor network deployment
+issue by providing
+include
+number of localization
+execution component
+represent the tools
+rf-based
+estimates evarilos benchmarking platform
+wireless on-demand network
+factors for the distance
+~500 using ph distance
+projects deploymentsite
+workflow
+ebp in wireless experimentation
+present at most sites
+environment with brick walls
+environment where the sut
+predefined data processing
+approaches
+configured well in order
+handheld laser distance
+telecommunication networks group
+quickly evaluate
+range of measurement
+moerman
+database twist database testbed
+captured data types
+experimentation phase offers experimenters
+applications
+benchmarking platform improve
+comprehensive performance analysis
+times
+sensor networking conferences
+researchers typically lack
+performance datasets
+experiment in detail
+facilitate
+quantile based indoor fingerprinting
+designed
+measurement points
+biographies
+current drafts include
+include nonaccuracy-related metrics
+input to a sut
+solution under controlled conditions
+evaluation method described
+proposing
+ebp is designed
+components can be accessed
+localization solution using software
+quality
+access an evarilos
+previously measured environmental
+management
+traces and performance
+techniques and systems
+los
+experimental testbed facilities
+experiment execution raw
+competitive benchmarking
+upper layer represents
+give a distorted view
+platform this section describes
+final
+scans
+internet research and experimentation
+ground truth
+systems through competitive benchmarking
+automatized
+configure
+calculation of performance metrics
+detail
+scenarios that describe
+environmental
+platform for automatized
+rfbased indoor
+wireless testbed
+telecommunication systems
+localization system
+transport the localized
+location estimator
+designed to simplify
+manufacturer captured
+request the real-time environmental
+makes the data relevant
+observed by comparing
+ieee comp
+cum laude
+measured
+bouckaert
+data set
+sweden
+typical interference
+pertains
+hardware software system
+providing
+results has received funding
+complexity of usage
+cochair
+mobile nodes
+contributions of the presented
+fig
+standardized performance metrics
+experimentation phase the experimentation
+allowing detailed
+creation component is executed
+established standardized evaluation
+efficient identification
+two examples
+advance on a representative
+setup time and required
+layer represents
+user friendly
+direct influence
+min
+combination range-based and range-free
+components of the benchmarking
+adjunct
+results are pro
+stores the rssi values
+main interests are networking
+experiment setup experiment
+adequately evaluate an indoor
+fp7 evarilos
+accuracy
+research purposes
+metrics such as setup
+academic exchange
+biographies tom van
+sut evaluation
+networks and the internet
+technical skills to perform
+evaluate their localization solutions
+hardware and software components
+major advantages
+processing in sensor networks
+captured at evaluation
+objective experimentation
+frequencies
+device
+brick walls
+intrinsic
+order to determine
+experiment definition evaluation points
+pre-experimentation phase
+phase is called training
+gather
+mobile computing and networking
+solution that implements
+solutions has grown exponentially
+descriptions to testbed-dependent
+future internet
+addition to the accuracy
+interface for automatic execution
+comparability between existing
+makes available the results
+fact
+optimal
+comparability between existing localization
+improving proposed algorithms
+integration of the ebp
+indoor
+tures
+focused on objective evaluation
+evarilos open
+indicators necessarily hide
+mobility interference
+raw rf data sut
+main components
+evaluation phase
+indicators necessarily
+resource
+based
+installation
+specification experiment definition evaluation
+offers experimenters the possibility
+deployment and usage
+developers
+interests are in architectures
+operational
+set ieee
+first localization solution
+includes a range-based location
+exact descriptions
+bottom
+sites where these solutions
+local
+rf-based indoor localization solution
+plywood
+technical university of berlin
+non-ebp-compliant solutions
+combined with multiple testbed-dependent
+fellow
+major problems
+hui liu
+joint
+flagship sensor networking
+interoperability
+evarilos data repository
+makes the data
+predeployed
+years
+automatic execution
+requirement
+areas
+service also be applied
+plywood office environment
+embedded
+evaluation experiment
+stationary sensor network deployment
+technology in flanders
+evarilos engine evarilos visualizers
+calculation experiment results
+researchers a database
+integrated in existing fire
+non-functional
+project and iso
+repository or can access
+communications magazine september
+processed
+measured environmental
+overview of the components
+fixed
+calculation scores secondary performance
+supporting a remote offline
+provide open
+research on mobile
+official
+executing experiments
+database testbed
+modifications
+crew testbed infrastructure
+configured
+international organization for standardization
+location estimate
+database to access
+packet
+edition
+computer
+final step
+scientific interests
+exper
+lack the necessary technical
+created using the users
+estimated locations are stored
+established standardized evaluation method
+full performance
+automated generation of experiment
+ph.d student
+mobility interference generating interference
+areas of sensor
+component is to configure
+data web
+automatic conversion from experiment
+analyze and visualize
+aligned with the upcoming
+remote offline
+state
+demonstrate the usage
+sut evaluated
+information is translated
+approaches make
+possibility to evaluate
+packet and reception
+indoor experiments with sensor
+training the localization
+experiment execution component
+localization error cdf
+wireless on-demand
+influence the overall performance
+mobile fixed particle filter
+represents three experimentation steps
+efficiency
+range-free
+performance of a wide
+investigation of how changing
+standardized evaluation method
+configuration
+optional
+distribution
+experiment specification experiment definition
+download the datasets
+receive the beacon
+introduce a testbed-independent
+based communication
+ebp in an experimental
+methods that consider multiple
+realistic and repeatable
+interface provides location estimates
+install custom
+postdoctoral research grant
+crew cognitive radio
+analyzing and comparing
+estimation
+received his ph.d
+ph.d student at uppsala
+providing an open software
+indoor localization solutions
+comparison of multiple solutions
+theoretical point of view
+space
+traces and performance information
+wall
+positioning techniques
+environments
+set ieee communications
+aspects of the experiment
+systems through competitive
+perform these steps efficiently
+coordinates
+testbed-specific
+localization solutions
+respect
+integration is part
+measurements for training
+summary can be found
+leads
+platform
+addition
+input datasets collected
+position of a mobile
+evaal
+performance of localization
+sut to comply
+database twist
+utilizing
+propose in an easily
+define
+management services
+controlled
+sensys and ieee
+tom van haute
+measurements currently offered
+crew testbed
+software location
+realistic and repeatable interference
+data processing methodology
+raw rf data interference
+multimodal
+main
+laser
+step is the actual
+created and stored
+hot topics
+start with an experiment
+component is executed
+performance evaluation ieee communications
+value
+subsections each step
+number of localization solutions
+score calculation experiment
+reconfigurable testbed for wireless
+predeployed sut
+operational point
+public datasets
+algorithms can run
+layer
+obtains the lowest
+cell
+manually
+experiments with sensor
+interference on indoor
+nodes by measuring
+hardware
+ebp offers
+development of networks
+software components
+range of available precollected
+sequentially
+solution using rssi
+number of collected
+generic
+computing at the university
+representative fingerprint
+protocols of communication networks
+type of collected
+mobile fixed
+web page
+combine results from multiple
+researcher in the telecommunication
+included if a comprehensive
+allowing researchers
+effects of changing configuration
+improve the time efficiency
+http
+sensor node
+evaluation of rf-based indoor
+phase the experimentation phase
+effect
+automation
+raw rf data collection
+calculation of performance
+abstract tom
+robotic
+data from multiple environments
+training purposes
+student
+conditions using standardized performance
+single
+indoor localization algorithms
+exper 0163-6804
+estimate over http
+data management services
+overview of evaluated
+research infrastructures
+current drafts
+multiple testbed-dependent plugins
+positioning software location
+downloaded to be modified
+patterns
+wifi or ieee 802.15.4
+metrics to identify
+identification
+comprehensive standardized evaluation
+infrastructure or performing
+multimodal localization
+solutions can analyze
+experiment executables
+wireless experimentation
+attempts at direct comparison
+represents a wireless
+hardware using a testbed
+researchers and allows investigation
+remotely or downloaded
+rf-based localization
+proximity
+executive
+experiment specification
+considerations have motivated
+sources
+stored
+triangulation
+testbed
+w-ilab.t
+internet-based communication
+options for indoor localization
+due to the fact
+low-level
+offered represent raw data
+experimental research
+networks group at technische
+analyze and rank
+observed in other fields
+solution obtains
+capabilities
+w-ilab.t database twist
+existing wireless
+combine
+platform offers the possibility
+usage
+solution for a wide
+prevent aliasing
+group at technische
+experimental evaluation of rf-based
+determine the final
+configuration set ieee communications
+data structure
+future internet research
+testbed-independent benchmarking platform
+data format training data
+spatial
+sut will be evaluated
+deployment
+belgium
+experimentation and the evaluation
+systems that enable
+rich in terms
+describes a set
+solution using multiple values
+van haute
+universitt
+step utilizes
+efficiently set up large-scale
+setups
+generating interference
+environment with brick
+page
+accessible
+infrastructures
+techniques
+solution using ed distance
+repositories
+localization error
+sut under realistic
+including the used hardware
+data and can serve
+multiple transmission powers
+eli de poorter
+measurements are performed
+automated step
+transport
+testbed infrastructure to generate
+~105 ~105 using toa
+localization solutions tom van
+environments with brick walls
+demonstrates
+testbed-independent definition of experimentation
+localization experiments from earlier
+accuracy of indoor localization
+reconfigurable
+environment are created
+expensive
+capability
+end solutions
+leverages
+demonstrated
+illustrate
+results metric calculation performance
+set of evaluation metrics
+interdisciplinary research projects
+lemic was partially supported
+evaluate an indoor
+multiple
+definition evaluation points
+~35.1 ~47.4
+14,282 ~105
+7th
+conversion from experiment
+process will be biased
+science
+cyber-physical systems
+current scientific
+actual
+influences
+industry and end
+point accuracy is considered
+sys
+performance of end solutions
+metadata describing
+large-scale experiments
+identify
+accuracy strongly
+comp
+localization experiments
+received his doctoral degree
+theoretically inclined researchers
+acceptance
+established a joint
+~47.4 table
+survey of wireless
+servers side
+overview of the related
+vanhaute_layout.qxp_author
+ieee imental environment
+results has received
+raw data traces
+current drafts include evaluation
+results illustrate the presence
+indoor localization solutions raises
+features from multiple
+descriptions
+van
+additional
+timestamps
+organized in two categories
+locations and a set
+providing tools
+development
+laude
+comparing multiple metrics
+transforming the over-dimensioned
+theoretically inclined researchers typically
+data sut
+building
+obtaining his ph.d
+extremely hard to objectively
+address the fact
+basic
+objective evaluation
+types of datasets
+collected
+measure
+training datasets
+related
+automated
+adjust the experiment
+structure of the raw
+bluetooth
+partially
+first rest
+made
+platform for the evaluation
+environmental information
+underground mine
+cells
+compares the performance
+definition component
+networks and executive
+localization without the pain
+partially supported by daad
+demonstrate
+problem
+issue
+shadowed the official
+proposing a new iso
+based on these descriptions
+evaluate indoor localization
+recognize the lack
+benefits of a full
+generating
+utilizing the same evaluation
+twist
+system under test
+metrics as part
+obtained raw data traces
+visualizers from non-ebp-compliant
+ing
+dam w olisz received
+infrastructure to generate typical
+similarities to the runtime
+compared
+application programming interface
+variety
+localization algorithms can run
+interested researchers
+engineering and computer science
+distance meter
+platform offers
+sics
+comprehensive standardized
+automated evaluation
+prevent aliasing problems
+compares
+details
+testbeds,7 the infrastructure
+out
+conclusion
+funding from the european
+friendly methods
+realistic evaluation
+liu
+important value
+precision
+configuration set ieee
+additionally
+metrics and evaluation
+collected raw
+number of scans
+obtains the lowest average
+localization and tracking
+acknowledgment
+environment in the development
+unions seventh framework program
+stationary sensor network
+information to the ebp
+september
+lessons learned
+reuse previously
+truth information
+experimenters
+required for the experimentation
+evaluated remotely
+validation
+university of berlin

@@ -1,0 +1,2821 @@
+target device::0.0305068747446
+dongles::0.0164948199016
+localization window::0.0111104699032
+training and localization::0.00989689194097
+inquiry::0.00988580053737
+full and partial::0.009523259917
+room-1 and room-2::0.009523259917
+graphs of figure::0.009523259917
+partial coverage::0.009523259917
+irr::0.00872276518003
+bluetooth technology::0.00869224848095
+bluetooth::0.00861287298286
+training window::0.00793604993084
+reference device::0.00793604993084
+bluetooth dongles::0.00791751355277
+reference devices::0.00791751355277
+target devices::0.00791751355277
+rooms with full::0.00714244493775
+consumption on mobile::0.00714244493775
+discoverable::0.00697821214403
+discoverable mode::0.00659792796064
+establishing connectivity::0.00634883994467
+top-1 estimate::0.00634883994467
+network characteristics::0.00634883994467
+top-1::0.00555523495159
+room-1::0.00555523495159
+room-2::0.00555523495159
+inquiries::0.00525980599045
+location fingerprint::0.00525980599045
+inquiry response rate::0.00523365910802
+target::0.00516772378972
+training::0.00503497759487
+response rate::0.0050153599578
+sensor coverage::0.0047616299585
+p.o box 589::0.0047616299585
+processing based systems::0.0047616299585
+window minutes::0.0047616299585
+percentage of times::0.0047616299585
+room fingerprint::0.0047616299585
+box 589 7500an::0.0047616299585
+graphs in figure::0.0047616299585
+impose low power::0.0047616299585
+require any upgrade::0.0047616299585
+telematica instituut p.o::0.0047616299585
+irr based approach::0.0047616299585
+enschede the netherlands::0.0047616299585
+localization window minutes::0.0047616299585
+589 7500an enschede::0.0047616299585
+localization window sizes::0.0047616299585
+training window sizes::0.0047616299585
+fresh training::0.0047616299585
+dedicated reference devices::0.0047616299585
+inquirer::0.0047616299585
+requires establishing connectivity::0.0047616299585
+localization window size::0.0047616299585
+data compression scheme::0.0047616299585
+variance of irr::0.0047616299585
+localization partial coverage::0.0047616299585
+instituut p.o box::0.0047616299585
+coverage same device::0.0047616299585
+defined as “the::0.0047616299585
+p(x to compress::0.0047616299585
+surrounded by rooms::0.0047616299585
+dongles i.e. rooms::0.0047616299585
+number of inquirers::0.0047616299585
+connectable mode::0.0047616299585
+wl=3’ and wt=10’::0.0047616299585
+density of bluetooth::0.0047616299585
+solution that relies::0.0047616299585
+located in floor::0.0047616299585
+localization full coverage::0.0047616299585
+rate of bluetooth::0.00473382539141
+mobile devices::0.00468210827789
+estimation accuracy::0.00465214142935
+window sizes::0.00465214142935
+low power consumption::0.00434612424047
+divergence::0.00434612424047
+fingerprints::0.00430556598695
+localization solution::0.00420784479236
+bluetooth based::0.00420784479236
+training data::0.00417817434246
+dongle::0.00407062375068
+tkm::0.00396802496542
+ikm::0.00396802496542
+bluetooth access points::0.00395875677639
+processing based::0.00395875677639
+indoor localization solution::0.00395875677639
+bluetooth positioning system::0.00395875677639
+rooms::0.00391132762597
+partial::0.00369430364254
+window::0.00358129229354
+fingerprint::0.0034996089285
+graphs::0.00349090496367
+inquiry response::0.00348910607201
+determines the location::0.00348910607201
+pcs::0.00348910607201
+...::0.00348910607201
+fingerprint based::0.00348910607201
+cmf::0.00317441997233
+users’ pcs::0.00317441997233
+dedicated reference::0.00317441997233
+... tkm::0.00317441997233
+context management::0.00317441997233
+fingerprint detection::0.00317441997233
+impose low::0.00317441997233
+test day::0.00317441997233
+paging::0.00317441997233
+network characteristic::0.00317441997233
+dongle coverage::0.00317441997233
+inquiry mechanism::0.00317441997233
+min klk::0.00317441997233
+full coverage::0.00317441997233
+irr measurements::0.00317441997233
+spatial density::0.00317441997233
+7500an enschede::0.00317441997233
+relative entropy::0.00317441997233
+dongle room::0.00317441997233
+requires establishing::0.00317441997233
+surrounding rooms::0.00317441997233
+seconds dongles::0.00317441997233
+specific distance::0.00317441997233
+589 7500an::0.00317441997233
+localization full::0.00317441997233
+localization partial::0.00317441997233
+“the percentage::0.00317441997233
+telematica instituut::0.00317441997233
+instituut p.o::0.00317441997233
+box 589::0.00317441997233
+bluetooth cells::0.00317441997233
+device localization::0.00317441997233
+mobile terminals::0.00317441997233
+window size::0.00315588359427
+bluetooth inquiries::0.00315588359427
+…::0.00289741616032
+room::0.00289549778878
+location determination::0.0028820308823
+power consumption::0.00282741800682
+number of times::0.0026862328899
+room fingerprints::0.00263917118426
+bluetooth rss::0.00263917118426
+bluetooth access::0.00263917118426
+fhs packet::0.00263917118426
+upgrade::0.00263917118426
+location estimator::0.00263917118426
+bluetooth sensors::0.00263917118426
+null null::0.00263917118426
+infrastructure deployed::0.00263917118426
+compression scheme::0.00263917118426
+scanning devices::0.00263917118426
+arg min::0.00263917118426
+ladd a.m.::0.00263917118426
+bluetooth sensor::0.00263917118426
+irr based::0.00263917118426
+common feature::0.00263917118426
+irr fingerprints::0.00263917118426
+minutes::0.00263616121147
+office building::0.00258356205006
+hall::0.00251114627704
+based systems::0.0025076799789
+location estimate::0.00238752819569
+aid the location::0.00238081497925
+bluetooth devices relies::0.00238081497925
+technology the rest::0.00238081497925
+room every hour::0.00238081497925
+2nd and 4th::0.00238081497925
+radio map room::0.00238081497925
+estimate movement detection::0.00238081497925
+eliminates the location::0.00238081497925
+test results showed::0.00238081497925
+estimate for duration::0.00238081497925
+method to change::0.00238081497925
+position these positions::0.00238081497925
+class and type::0.00238081497925
+scans for paging::0.00238081497925
+approximates the location::0.00238081497925
+mechanisms the inquiry::0.00238081497925
+result indoor location::0.00238081497925
+deviation or distortion::0.00238081497925
+length of 5.12s::0.00238081497925
+adopted an irr::0.00238081497925
+encompasses the main::0.00238081497925
+line both walls::0.00238081497925
+frame cmf infrastructure::0.00238081497925
+systems capture fingerprints::0.00238081497925
+bellavista p. küpper::0.00238081497925
+infrastructure and system::0.00238081497925
+show the performance::0.00238081497925
+device in room-1::0.00238081497925
+top-1 or top-2::0.00238081497925
+performance is shown::0.00238081497925
+building the application::0.00238081497925
+indoors indoor environments::0.00238081497925
+localized our system::0.00238081497925
+infrastructure i.e. cmf::0.00238081497925
+inquirer to discover::0.00238081497925
+fingerprint detection location::0.00238081497925
+existing localization approaches::0.00238081497925
+discover the device::0.00238081497925
+buildings with overlapping::0.00238081497925
+performance the training::0.00238081497925
+establish a bluetooth::0.00238081497925
+distance for bluetooth::0.00238081497925
+–the approach commonly::0.00238081497925
+target devices reference::0.00238081497925
+irrs of multiple::0.00238081497925
+null the bluetooth::0.00238081497925
+position of gps::0.00238081497925
+niels snoeck martin::0.00238081497925
+average of irr::0.00238081497925
+information gain calculated::0.00238081497925
+main system components::0.00238081497925
+multiple bluetooth dongles::0.00238081497925
+obtain a list::0.00238081497925
+mapping in proceedings::0.00238081497925
+selfreferencing to cross-referencing::0.00238081497925
+bluetooth v1.2 standard::0.00238081497925
+bluetooth response rate::0.00238081497925
+hand the location::0.00238081497925
+inquiry has completed::0.00238081497925
+considered as signatures::0.00238081497925
+bluetooth e.g. rssi::0.00238081497925
+dongle the hall::0.00238081497925
+contextsources bluetooth context-sources::0.00238081497925
+pcs of users::0.00238081497925
+finding the room::0.00238081497925
+infrastructures i.e. preferably::0.00238081497925
+context management framework::0.00238081497925
+lbss have resurrected::0.00238081497925
+sensitive to training::0.00238081497925
+relies on bluetooth::0.00238081497925
+number of estimations::0.00238081497925
+locations and localize::0.00238081497925
+derive the coordinates::0.00238081497925
+distance for indoors::0.00238081497925
+put a target::0.00238081497925
+cmf the cmf::0.00238081497925
+obtained using dedicated::0.00238081497925
+obtain these fingerprints::0.00238081497925
+localization system architecture::0.00238081497925
+measures the estimation::0.00238081497925
+response rate office::0.00238081497925
+categories reference devices::0.00238081497925
+information the location::0.00238081497925
+average and variance::0.00238081497925
+seventh international conference::0.00238081497925
+developed around user::0.00238081497925
+users are assumed::0.00238081497925
+ik2 … ikm::0.00238081497925
+effect of partial::0.00238081497925
+resurrected in recent::0.00238081497925
+effects dead-spots noise::0.00238081497925
+eds. lncs 3660::0.00238081497925
+discovered “object devices”::0.00238081497925
+building the accuracy::0.00238081497925
+device using information::0.00238081497925
+freeband awareness project::0.00238081497925
+inquiries eventually replies::0.00238081497925
+98% and 75%::0.00238081497925
+point id recent::0.00238081497925
+wireless broadband wireless::0.00238081497925
+inflicts low power::0.00238081497925
+outdoor environments global::0.00238081497925
+based on estimation::0.00238081497925
+out some experiments::0.00238081497925
+system where remote::0.00238081497925
+keywords indoor localization::0.00238081497925
+sensors this means::0.00238081497925
+work that bases::0.00238081497925
+addition to training::0.00238081497925
+dongles room fingerprint::0.00238081497925
+based localization solution::0.00238081497925
+determine location fingerprints::0.00238081497925
+devices these techniques::0.00238081497925
+connection is generally::0.00238081497925
+map i.e. collection::0.00238081497925
+frequency of inquiries::0.00238081497925
+phones in terms::0.00238081497925
+management framework cmf::0.00238081497925
+include rss access::0.00238081497925
+tests in room-1::0.00238081497925
+methods for training::0.00238081497925
+room irr fingerprints::0.00238081497925
+indications are shown::0.00238081497925
+detected the reference::0.00238081497925
+device let ik1::0.00238081497925
+devices this requires::0.00238081497925
+devices an operation::0.00238081497925
+successful and widely::0.00238081497925
+radio location fingerprinting::0.00238081497925
+inquirers::0.00238081497925
+mobile algorithms measurement::0.00238081497925
+derived during training::0.00238081497925
+application our system::0.00238081497925
+a.k.m hien nguyen::0.00238081497925
+out at points::0.00238081497925
+bluetooth based indoor::0.00238081497925
+full coverage localization::0.00238081497925
+list of bluetooth::0.00238081497925
+systems must integrate::0.00238081497925
+springer lncs vol::0.00238081497925
+location only desktop::0.00238081497925
+connected through ethernet::0.00238081497925
+measurement performance verification::0.00238081497925
+top-1 estimation accuracy::0.00238081497925
+indoors 4 cheng::0.00238081497925
+types of sensor::0.00238081497925
+mechanism for establishing::0.00238081497925
+discoverable the user::0.00238081497925
+important and relevant::0.00238081497925
+bluetooth v1.1 based::0.00238081497925
+estimate is correct::0.00238081497925
+rest of paper::0.00238081497925
+fingerprinting include rss::0.00238081497925
+shown by top::0.00238081497925
+100% such performance::0.00238081497925
+distributed applications distributed::0.00238081497925
+type three locations::0.00238081497925
+list of discovered::0.00238081497925
+inquirers called “dongles”::0.00238081497925
+fact that users’::0.00238081497925
+real-time and fed::0.00238081497925
+groote telematica instituut::0.00238081497925
+divergence is defined::0.00238081497925
+estimate with respect::0.00238081497925
+solution we conducted::0.00238081497925
+measures as top-1::0.00238081497925
+chosen to present::0.00238081497925
+performance verification keywords::0.00238081497925
+introduction of web::0.00238081497925
+d.s. kavraki l.e::0.00238081497925
+subsequently a connection::0.00238081497925
+number 1-2 p.p.::0.00238081497925
+ik1 ik2 …::0.00238081497925
+indoor environments affect::0.00238081497925
+building after obtaining::0.00238081497925
+colleague radar application::0.00238081497925
+target device scans::0.00238081497925
+physically the physical::0.00238081497925
+binary random variables::0.00238081497925
+work is motivated::0.00238081497925
+implemented on top::0.00238081497925
+process of establishing::0.00238081497925
+important to investigate::0.00238081497925
+combining these sources::0.00238081497925
+training window size::0.00238081497925
+connectivity however scanning::0.00238081497925
+context-sources run inquiries::0.00238081497925
+out their systems::0.00238081497925
+characteristics like received::0.00238081497925
+reference or target::0.00238081497925
+paging the inquirer::0.00238081497925
+device of room::0.00238081497925
+location based application::0.00238081497925
+solution that determines::0.00238081497925
+constitutes a dynamic::0.00238081497925
+information over existing::0.00238081497925
+signals like rss::0.00238081497925
+wibbels markus jevring::0.00238081497925
+accuracy of 98%::0.00238081497925
+comparing their observed::0.00238081497925
+wireless networks january::0.00238081497925
+approach of fingerprinting::0.00238081497925
+contributed to resurgence::0.00238081497925
+device for localizing::0.00238081497925
+fingerprints are pre-recorded::0.00238081497925
+users to maintain::0.00238081497925
+techniques like lateration::0.00238081497925
+based approach faces::0.00238081497925
+systems use techniques::0.00238081497925
+washington usa 2005::0.00238081497925
+fingerprints were obtained::0.00238081497925
+approach uses inquiry::0.00238081497925
+wifi technology 3][4::0.00238081497925
+process is delegated::0.00238081497925
+connectivity between devices::0.00238081497925
+pcs we assume::0.00238081497925
+based solutions rely::0.00238081497925
+device this estimate::0.00238081497925
+concept of information::0.00238081497925
+technology our approach::0.00238081497925
+discover the bluetooth::0.00238081497925
+fingerprint based processing::0.00238081497925
+1st and 3rd::0.00238081497925
+developments like emergence::0.00238081497925
+minutes i.e. wl=3’::0.00238081497925
+frequency of received::0.00238081497925
+moves between rooms::0.00238081497925
+time target devices::0.00238081497925
+locations these fingerprints::0.00238081497925
+rooms of size::0.00238081497925
+existing technologies impose::0.00238081497925
+categories processing based::0.00238081497925
+wallach d.s. kavraki::0.00238081497925
+investigated one approach::0.00238081497925
+a.m. bekris k.e.::0.00238081497925
+rss bluetooth rss::0.00238081497925
+method with updated::0.00238081497925
+97.82% and 75%::0.00238081497925
+reference device –the::0.00238081497925
+189-204 5 cheng::0.00238081497925
+technologies in proceedings::0.00238081497925
+jsd(p||q = jsd(q||p::0.00238081497925
+10th acm international::0.00238081497925
+bases its location::0.00238081497925
+inquirer retrieves information::0.00238081497925
+collection of location::0.00238081497925
+2’ the accuracy::0.00238081497925
+evaluate a fingerprint::0.00238081497925
+arrival and time::0.00238081497925
+mahtab hossain a.k.m::0.00238081497925
+evaluated a bluetooth::0.00238081497925
+updated training data::0.00238081497925
+discoverable bluetooth device::0.00238081497925
+observe the accuracy::0.00238081497925
+sensor network connected::0.00238081497925
+performance was obtained::0.00238081497925
+result shows minor::0.00238081497925
+location of gps::0.00238081497925
+direction however makes::0.00238081497925
+solution achieves top-1::0.00238081497925
+multi-target i.e. interrelating::0.00238081497925
+hour our solution::0.00238081497925
+fingerprinting of rooms::0.00238081497925
+training and pre)stored::0.00238081497925
+volume 11 number::0.00238081497925
+accuracy respectively average::0.00238081497925
+freeband is sponsored::0.00238081497925
+body tags htc-p3300::0.00238081497925
+dongles and mobile::0.00238081497925
+c.2.4 computer-communication-networks] systems::0.00238081497925
+obtained during paging::0.00238081497925
+ubicomp 2005 beigl::0.00238081497925
+graphs the training::0.00238081497925
+references 1 bellavista::0.00238081497925
+high spatial density::0.00238081497925
+multiple sources combining::0.00238081497925
+delegated to bluetooth::0.00238081497925
+verification keywords indoor::0.00238081497925
+measurements of network::0.00238081497925
+dynamic sensor network::0.00238081497925
+infrastructure-based and network-based::0.00238081497925
+visitors the test::0.00238081497925
+events from single-target::0.00238081497925
+theory isit 2004::0.00238081497925
+mode is lower::0.00238081497925
+gpscapable mobile devices::0.00238081497925
+run so-called context-sources::0.00238081497925
+rss of inquiry::0.00238081497925
+obtained during inquiry::0.00238081497925
+distributed general terms::0.00238081497925
+hand a higher::0.00238081497925
+shows how irr::0.00238081497925
+broadband wireless services::0.00238081497925
+systems fingerprints indicate::0.00238081497925
+moved every hour::0.00238081497925
+bray j. sturman::0.00238081497925
+january 2005 volume::0.00238081497925
+transmits a series::0.00238081497925
+localization with wifi::0.00238081497925
+impacts of interference::0.00238081497925
+journal of ieee::0.00238081497925
+bluetooth sensors installed::0.00238081497925
+unlike kl divergence::0.00238081497925
+barrier to maintain::0.00238081497925
+method the effect::0.00238081497925
+distance of devices::0.00238081497925
+deployed pervasively nowadays::0.00238081497925
+infrastructure and network-based::0.00238081497925
+figure unlike previous::0.00238081497925
+user acceptance barrier::0.00238081497925
+localized the results::0.00238081497925
+full bluetooth sensor::0.00238081497925
+location-based services back::0.00238081497925
+fingerprints are derived::0.00238081497925
+obtaining the irr::0.00238081497925
+fresh training fingerprints::0.00238081497925
+exploits the inquiry::0.00238081497925
+inquiry and paging::0.00238081497925
+4718 pp 139-156::0.00238081497925
+september 2004 acm::0.00238081497925
+platform and deployment::0.00238081497925
+detected in real-time::0.00238081497925
+measurements were carried::0.00238081497925
+– distributed applications::0.00238081497925
+irr with respect::0.00238081497925
+estimation in room-2::0.00238081497925
+subcomponent is out::0.00238081497925
+139-156 4 ladd::0.00238081497925
+maintain their devices::0.00238081497925
+bluetooth dongles note::0.00238081497925
+mortaza.bargh@telin.nl robert.degroote@telin.nl provoked::0.00238081497925
+results and shows::0.00238081497925
+location estimation process::0.00238081497925
+discoverable target device::0.00238081497925
+approaches localization systems::0.00238081497925
+devises localization methods::0.00238081497925
+symbols will result::0.00238081497925
+bluetooth dongle coverage::0.00238081497925
+due to sever::0.00238081497925
+method whose performance::0.00238081497925
+solution our bluetooth::0.00238081497925
+systems generally rely::0.00238081497925
+fingerprints this solution::0.00238081497925
+require no upgrade::0.00238081497925
+location is fingerprinted::0.00238081497925
+estimate is fed::0.00238081497925
+require for target::0.00238081497925
+parameters of radio::0.00238081497925
+requirements an irr::0.00238081497925
+extension to examine::0.00238081497925
+full sensor coverage::0.00238081497925
+widely deployable indoor::0.00238081497925
+shows minor sensitivity::0.00238081497925
+effective indoors indoor::0.00238081497925
+system and possibly::0.00238081497925
+bluetooth dongles room::0.00238081497925
+inquiry rrs irrs::0.00238081497925
+estimate in room-1::0.00238081497925
+localization mainly due::0.00238081497925
+higher inquiry frequency::0.00238081497925
+environments global positioning::0.00238081497925
+wide metal bookshelf::0.00238081497925
+process different parameters::0.00238081497925
+bekris k.e. rudys::0.00238081497925
+arrival processing based::0.00238081497925
+coverage localization partial::0.00238081497925
+q(x kl divergence::0.00238081497925
+mobile devices introduction::0.00238081497925
+device being stationary::0.00238081497925
+system uses relative::0.00238081497925
+upgrade has guided::0.00238081497925
+reasons i rss::0.00238081497925
+computing ubicomp 2005::0.00238081497925
+accuracy % training::0.00238081497925
+localization bluetooth response::0.00238081497925
+accuracy in rooms::0.00238081497925
+location is characterized::0.00238081497925
+previous ones depicts::0.00238081497925
+performance is evaluated::0.00238081497925
+locations for localization::0.00238081497925
+rss the geometry::0.00238081497925
+devices little homogeneity::0.00238081497925
+yunye jin wee-seng::0.00238081497925
+users at room-level::0.00238081497925
+networking mobicom 2004::0.00238081497925
+e61 and n70::0.00238081497925
+device are examined::0.00238081497925
+wt=5’ and wl=1.5’::0.00238081497925
+room we put::0.00238081497925
+approach that exploits::0.00238081497925
+estimation and found::0.00238081497925
+irrs of bluetooth::0.00238081497925
+cmf infrastructure deployed::0.00238081497925
+minutes location determination::0.00238081497925
+shannon js divergence::0.00238081497925
+determination another interesting::0.00238081497925
+bluetooth mobile devices::0.00238081497925
+residences and visitors::0.00238081497925
+radar” that locates::0.00238081497925
+devising a control::0.00238081497925
+achieves 100% accuracy::0.00238081497925
+locations i.e. rooms::0.00238081497925
+installed on users’::0.00238081497925
+sever multi-path effects::0.00238081497925
+collect localization data::0.00238081497925
+d(q||p our approach::0.00238081497925
+detection location estimation::0.00238081497925
+devices are devices::0.00238081497925
+rate office buildings::0.00238081497925
+indicate that rss::0.00238081497925
+mass functions p(x::0.00238081497925
+function of localization::0.00238081497925
+devices in discoverable::0.00238081497925
+providing contextual information::0.00238081497925
+challenge and opportunity::0.00238081497925
+compress a sequence::0.00238081497925
+function of rss::0.00238081497925
+optimum entropy rate::0.00238081497925
+rely on dedicated::0.00238081497925
+2007 pp 1-8::0.00238081497925
+protocol and logic::0.00238081497925
+wireless ethernet journal::0.00238081497925
+office our test::0.00238081497925
+frequency hop synchronization::0.00238081497925
+irr fingerprints location::0.00238081497925
+3rd from top::0.00238081497925
+out the services::0.00238081497925
+government under contract::0.00238081497925
+emergence of gpscapable::0.00238081497925
+context-sources which publish::0.00238081497925
+solution by carrying::0.00238081497925
+heterogeneity of bluetooth::0.00238081497925
+aims at determining::0.00238081497925
+services mobisys 2005.::0.00238081497925
+4th from top::0.00238081497925
+single-target to multi-target::0.00238081497925
+information theory isit::0.00238081497925
+bluetooth context source::0.00238081497925
+device then assuming::0.00238081497925
+signals non-deterministically due::0.00238081497925
+include dongles connected::0.00238081497925
+solution has 98%::0.00238081497925
+devices by comparing::0.00238081497925
+klk::0.00238081497925
+means that tracking::0.00238081497925
+rooms in total::0.00238081497925
+top-1 estimate accuracy::0.00238081497925
+1-8 7 fuglede::0.00238081497925
+mobile terminal upgrade::0.00238081497925
+device being inquired::0.00238081497925
+located at topological::0.00238081497925
+determines user locations::0.00238081497925
+determined the network::0.00238081497925
+device by finding::0.00238081497925
+source produces symbols::0.00238081497925
+device e.g. device::0.00238081497925
+device localization partial::0.00238081497925
+devices in connectable::0.00238081497925
+connectivity between bluetooth::0.00238081497925
+device is detected::0.00238081497925
+fingerprints the current::0.00238081497925
+devices reference devices::0.00238081497925
+note that unlike::0.00238081497925
+requirements fingerprint based::0.00238081497925
+… dm denote::0.00238081497925
+networks january 2005::0.00238081497925
+fingerprint-based localization solution::0.00238081497925
+measure to estimate::0.00238081497925
+dongles to miss::0.00238081497925
+map room irr::0.00238081497925
+data was excluded::0.00238081497925
+total inquiries replied::0.00238081497925
+estimations the estimation::0.00238081497925
+2007 springer lncs::0.00238081497925
+examined with respect::0.00238081497925
+schematically this architecture::0.00238081497925
+jensen-shannon distance measure::0.00238081497925
+proactive i.e. permission::0.00238081497925
+propagation of wireless::0.00238081497925
+project http freeband::0.00238081497925
+end the inquirer::0.00238081497925
+training fingerprints obtained::0.00238081497925
+standard 2 obtaining::0.00238081497925
+implemented and tested::0.00238081497925
+a-priori location information::0.00238081497925
+interesting research question::0.00238081497925
+test in room-1::0.00238081497925
+upgrade to mobile::0.00238081497925
+mobicom 2004 philadelphia::0.00238081497925
+device we evaluated::0.00238081497925
+collect training data::0.00238081497925
+low cost infrastructure::0.00238081497925
+100% arg min::0.00238081497925
+existing context management::0.00238081497925
+terms our location::0.00238081497925
+information to central::0.00238081497925
+work is part::0.00238081497925
+taxonomy of fingerprint::0.00238081497925
+test was carried::0.00238081497925
+fingerprint detection radio::0.00238081497925
+information bluetooth technology::0.00238081497925
+establishes another connection::0.00238081497925
+accuracy of top-1::0.00238081497925
+accuracy of top-2::0.00238081497925
+bluetooth sensor information::0.00238081497925
+connected to remote::0.00238081497925
+pages the target::0.00238081497925
+pcs are located::0.00238081497925
+bluetooth based solutions::0.00238081497925
+technology this approach::0.00238081497925
+cheng y.-c. chawathe::0.00238081497925
+lbss for outdoor::0.00238081497925
+obtaining bluetooth rss::0.00238081497925
+lateration angulation dead::0.00238081497925
+logic that switches::0.00238081497925
+gps uses lateration::0.00238081497925
+location determination takes::0.00238081497925
+mechanism i.e. control::0.00238081497925
+technologies that impose::0.00238081497925
+rely on network::0.00238081497925
+application many fingerprinting::0.00238081497925
+aims at locating::0.00238081497925
+kullback-leibler kl divergence::0.00238081497925
+applications distributed general::0.00238081497925
+richer applications developed::0.00238081497925
+fingerprinted by inquiry::0.00238081497925
+multi-path effects dead-spots::0.00238081497925
+devices bluetooth dongles::0.00238081497925
+component called location::0.00238081497925
+rss for localization::0.00238081497925
+mobisys 2005. seattle::0.00238081497925
+distribution with parameter::0.00238081497925
+estimate is 100%::0.00238081497925
+context information bluetooth::0.00238081497925
+feature of commercial::0.00238081497925
+solution finally section::0.00238081497925
+generally requires establishing::0.00238081497925
+total were fingerprinted::0.00238081497925
+rss and access::0.00238081497925
+recent years due::0.00238081497925
+bluetooth devices dongles::0.00238081497925
+miss the replies::0.00238081497925
+training window minutes::0.00238081497925
+approach a target::0.00238081497925
+machines run so-called::0.00238081497925
+device which periodically::0.00238081497925
+require mobile devices::0.00238081497925
+scans for inquiries::0.00238081497925
+solution that works::0.00238081497925
+relevant context information::0.00238081497925
+studied and ways::0.00238081497925
+excessive hardware installation::0.00238081497925
+interrelating several targets::0.00238081497925
+devices 6 mahtab::0.00238081497925
+philadelphia pa september::0.00238081497925
+based systems capture::0.00238081497925
+angulation dead reckoning::0.00238081497925
+computer-communication-networks] systems –::0.00238081497925
+coordinates i.e. position::0.00238081497925
+methods that work::0.00238081497925
+fingerprint based systems::0.00238081497925
+snoeck martin wibbels::0.00238081497925
+neighborhood the inquirer::0.00238081497925
+application-oriented i.e. richer::0.00238081497925
+location fingerprint detection::0.00238081497925
+show the top-1::0.00238081497925
+scheme is improved::0.00238081497925
+series of inquiry::0.00238081497925
+bluetooth inquiries mortaza::0.00238081497925
+practice we determine::0.00238081497925
+estimation process solely::0.00238081497925
+mode which implies::0.00238081497925
+basically involves devising::0.00238081497925
+june-2 july 2004::0.00238081497925
+2005. seattle washington::0.00238081497925
+system determines user::0.00238081497925
+1-2 p.p. 189-204::0.00238081497925
+smoothly with existing::0.00238081497925
+rss in bluetooth::0.00238081497925
+simple and accurate::0.00238081497925
+rooms our location::0.00238081497925
+continuously will increase::0.00238081497925
+hossain a.k.m hien::0.00238081497925
+deployable indoor localization::0.00238081497925
+divergence js divergence::0.00238081497925
+systems – distributed::0.00238081497925
+room-1 or room-2::0.00238081497925
+partial dongle coverage::0.00238081497925
+present our results::0.00238081497925
+measure to deviate::0.00238081497925
+paper we design::0.00238081497925
+localize target devices::0.00238081497925
+out location estimations::0.00238081497925
+level the solution::0.00238081497925
+started every ts=10s::0.00238081497925
+room-level where users::0.00238081497925
+martin wibbels markus::0.00238081497925
+fact that power::0.00238081497925
+bt-002 body tags::0.00238081497925
+seconds bluetooth access::0.00238081497925
+based systems generally::0.00238081497925
+8-11 oct 2007::0.00238081497925
+“the fastest growing::0.00238081497925
+sources could aid::0.00238081497925
+sensor systems mass::0.00238081497925
+bluetooth dongles room-2::0.00238081497925
+locations is high::0.00238081497925
+relative entropy measure::0.00238081497925
+irr measurements measured::0.00238081497925
+metric for location::0.00238081497925
+taxonomy for radio::0.00238081497925
+types bluelon bt-002::0.00238081497925
+discoverable mobile device::0.00238081497925
+consumption the power::0.00238081497925
+standardized in detail::0.00238081497925
+devices are mobile::0.00238081497925
+feature of mobile::0.00238081497925
+rrs in bluetooth::0.00238081497925
+problem the difference::0.00238081497925
+estimation location estimate::0.00238081497925
+assume these pcs::0.00238081497925
+data and partial::0.00238081497925
+room 3 kjærgaard::0.00238081497925
+device the momentary::0.00238081497925
+observed location fingerprint::0.00238081497925
+test these fingerprints::0.00238081497925
+klk we assume::0.00238081497925
+empirical binary distribution::0.00238081497925
+momentary network characteristics::0.00238081497925
+rooms have bluetooth::0.00238081497925
+suitable for multi-floor::0.00238081497925
+principles our work::0.00238081497925
+based solution section::0.00238081497925
+systems mass 2007::0.00238081497925
+systems that deliver::0.00238081497925
+motivation and principles::0.00238081497925
+cmf is providing::0.00238081497925
+manufactured requires establishing::0.00238081497925
+wt=5’ and 30’::0.00238081497925
+based processing based::0.00238081497925
+commercial mobile devices::0.00238081497925
+adopt an infrastructure-based::0.00238081497925
+figure 2 figure::0.00238081497925
+method that relies::0.00238081497925
+d(l||tk is minimized::0.00238081497925
+bits per symbol::0.00238081497925
+measure i.e. kullback-leibler::0.00238081497925
+devices” the bluetooth::0.00238081497925
+content-oriented to application-oriented::0.00238081497925
+reckoning and proximity::0.00238081497925
+number of paradigm::0.00238081497925
+room the output::0.00238081497925
+cables prentice hall::0.00238081497925
+based and fingerprint::0.00238081497925
+service requirements fingerprint::0.00238081497925
+rudys a. kavraki::0.00238081497925
+estimation accuracy relates::0.00238081497925
+locations a room::0.00238081497925
+conducted two tests::0.00238081497925
+arg min klk::0.00238081497925
+coverage and partial::0.00238081497925
+room-1 was located::0.00238081497925
+bluelon bt-002 body::0.00238081497925
+method for top-1::0.00238081497925
+parameter we adopted::0.00238081497925
+device being detected::0.00238081497925
+wireless signals non-deterministically::0.00238081497925
+embedding in proceedings::0.00238081497925
+room-2 with partial::0.00238081497925
+fingerprints location fingerprint::0.00238081497925
+section 3 devices::0.00238081497925
+location 1 abstract::0.00238081497925
+bluetooth based solution::0.00238081497925
+design and evaluate::0.00238081497925
+tested the test::0.00238081497925
+distance each row::0.00238081497925
+reactive to proactive::0.00238081497925
+resurgence of lbss::0.00238081497925
+devices and target::0.00238081497925
+reliance on bluetooth::0.00238081497925
+estimator that compares::0.00238081497925
+row of table::0.00238081497925
+periodically and send::0.00238081497925
+issues and extensions::0.00238081497925
+determines the locations::0.00238081497925
+characteristic to fingerprint::0.00238081497925
+movement detection figure::0.00238081497925
+publish contextual information::0.00238081497925
+achieves top-1 estimation::0.00238081497925
+approach every location::0.00238081497925
+fingerprints of bluetooth::0.00238081497925
+reports the average::0.00238081497925
+replies of reference::0.00238081497925
+algorithms measurement performance::0.00238081497925
+jevring and maarten::0.00238081497925
+room-2 as rooms::0.00238081497925
+comments 8 bray::0.00238081497925
+l.e. and wallach::0.00238081497925
+method that eliminates::0.00238081497925
+information of bluetooth::0.00238081497925
+context management frame::0.00238081497925
+location estimation location::0.00238081497925
+bluetooth sensor coverage::0.00238081497925
+minutes i.e. wt=5’::0.00238081497925
+fingerprint types training::0.00238081497925
+lncs vol 4718::0.00238081497925
+modes a mode::0.00238081497925
+figure 1 room::0.00238081497925
+discoverable and connectable::0.00238081497925
+stationary mobile users::0.00238081497925
+divergence or relative::0.00238081497925
+window minutes figure::0.00238081497925
+relation of irr::0.00238081497925
+send the results::0.00238081497925
+subset of dongles::0.00238081497925
+respect to total::0.00238081497925
+technologies impose low::0.00238081497925
+determination takes place::0.00238081497925
+well-explored for fingerprinting::0.00238081497925
+proposed a bluetooth::0.00238081497925
+extension i.e. jensen-shannon::0.00238081497925
+solution is based::0.00238081497925
+requires mobile devices::0.00238081497925
+detection radio map::0.00238081497925
+recent findings indicate::0.00238081497925
+sole network characteristic::0.00238081497925
+choose for connectable::0.00238081497925
+awareness project http::0.00238081497925
+run inquiries periodically::0.00238081497925
+resembles the observed::0.00238081497925
+room-2 with full::0.00238081497925
+p(x and q(x::0.00238081497925
+hop synchronization fhs::0.00238081497925
+out of scope::0.00238081497925
+ways to deal::0.00238081497925
+system was implemented::0.00238081497925
+user is physically::0.00238081497925
+overlapping bluetooth cells::0.00238081497925
+definition of rss::0.00238081497925
+devices can choose::0.00238081497925
+version called jensen::0.00238081497925
+result in optimum::0.00238081497925
+partial sensor coverage::0.00238081497925
+evaluation to evaluate::0.00238081497925
+ladd a.m. bekris::0.00238081497925
+küpper a. helal::0.00238081497925
+estimate is room-k::0.00238081497925
+location uncertainty imposed::0.00238081497925
+carried out location::0.00238081497925
+adopted its modified::0.00238081497925
+2007 8-11 oct::0.00238081497925
+jin wee-seng soh::0.00238081497925
+object device distance::0.00238081497925
+device was relocated::0.00238081497925
+estimator that subscribes::0.00238081497925
+completed an inquiry::0.00238081497925
+detected a target::0.00238081497925
+types of bluetooth::0.00238081497925
+investigated the relation::0.00238081497925
+room this constitutes::0.00238081497925
+paging it replies::0.00238081497925
+outputs of dongles::0.00238081497925
+solution to determine::0.00238081497925
+rss access point::0.00238081497925
+top in figure::0.00238081497925
+users in realtime::0.00238081497925
+construct a simple::0.00238081497925
+periods are chosen::0.00238081497925
+solution in detail::0.00238081497925
+localization devices differ::0.00238081497925
+function of training::0.00238081497925
+combination with rss::0.00238081497925
+hour with respect::0.00238081497925
+detect a discoverable::0.00238081497925
+target device moves::0.00238081497925
+opportunity the process::0.00238081497925
+coverage is shown::0.00238081497925
+indoor localization bluetooth::0.00238081497925
+mass 2007 8-11::0.00238081497925
+users are stationary::0.00238081497925
+pervasively available nowadays::0.00238081497925
+number of issues::0.00238081497925
+device –the approach::0.00238081497925
+dongles were manufactured::0.00238081497925
+rss moreover generally::0.00238081497925
+devices for indoor::0.00238081497925
+bluetooth contextsources bluetooth::0.00238081497925
+locations of stationary::0.00238081497925
+zigbee and bluetooth::0.00238081497925
+obtained reliably due::0.00238081497925
+loca 2007 springer::0.00238081497925
+lamarca a. krumm::0.00238081497925
+location estimation component::0.00238081497925
+wl=3’::0.00238081497925
+approach as categorized::0.00238081497925
+pcs as shown::0.00238081497925
+scheme achieves 100%::0.00238081497925
+room-2 is 97.82%::0.00238081497925
+building these rooms::0.00238081497925
+relies on inquiry::0.00238081497925
+fingerprints an interesting::0.00238081497925
+point was heard::0.00238081497925
+moving this subcomponent::0.00238081497925
+descriptors c.2.4 computer-communication-networks]::0.00238081497925
+solution was implemented::0.00238081497925
+connect without cables::0.00238081497925
+awareness loca 2007::0.00238081497925
+interference and mobility::0.00238081497925
+fuse the bluetooth::0.00238081497925
+case where training::0.00238081497925
+e.g 8 –::0.00238081497925
+fastest growing technology::0.00238081497925
+type of context::0.00238081497925
+based scheme achieves::0.00238081497925
+room fingerprint detection::0.00238081497925
+location estimate movement::0.00238081497925
+change of training::0.00238081497925
+component in figure::0.00238081497925
+summarizes the test::0.00238081497925
+record the fingerprints::0.00238081497925
+proposed solution finally::0.00238081497925
+strength rss bluetooth::0.00238081497925
+localization approaches localization::0.00238081497925
+upgrade of mobile::0.00238081497925
+divergence 6 defined::0.00238081497925
+assistance in preparation::0.00238081497925
+fingerprint and added::0.00238081497925
+requesting a user’s::0.00238081497925
+indicate the spatial::0.00238081497925
+bluetooth context-sources run::0.00238081497925
+hall all irr::0.00238081497925
+bottom two graphs::0.00238081497925
+device localization full::0.00238081497925
+compatible with bluetooth::0.00238081497925
+requires these devices::0.00238081497925
+provoked by predefined::0.00238081497925
+probability mass functions::0.00238081497925
+mode the solution::0.00238081497925
+establishing any connectivity::0.00238081497925
+partial bluetooth dongle::0.00238081497925
+hall were thin::0.00238081497925
+solution is infrastructure::0.00238081497925
+management frame cmf::0.00238081497925
+extensions the impacts::0.00238081497925
+devices must choose::0.00238081497925
+d(p||q ∫ d(q||p::0.00238081497925
+cells the solution::0.00238081497925
+hand was located::0.00238081497925
+upgrade of user::0.00238081497925
+terms of power::0.00238081497925
+remote machines run::0.00238081497925
+frequency will yield::0.00238081497925
+application called “colleague::0.00238081497925
+data to collect::0.00238081497925
+fingerprint based approaches::0.00238081497925
+device::0.00236566299918
+localization::0.0023626604627
+bluetooth devices::0.00235301041215
+contextual information::0.00232607071468
+inquiry responses::0.00232607071468
+distance measure::0.00232607071468
+data compression::0.00232607071468
+training fingerprints::0.00232607071468
+room level::0.00232607071468
+fresh::0.00232607071468
+connectable::0.00232607071468
+bluetooth dongle::0.00232607071468
+information obtained::0.00232607071468
+rss::0.00230480358419
+indoor localization::0.00210451176756
+location estimation::0.00210451176756
+p.o box::0.00210392239618
+p(x::0.00210392239618
+effective solution::0.00210392239618
+establishing::0.00208973331575
+log::0.00206684964005
+san francisco california::0.00197937838819
+based services lbss::0.00197937838819
+estimation the result::0.00197937838819
+nguyen van yunye::0.00197937838819
+denote the set::0.00197937838819
+approaches is presented::0.00197937838819
+responses to total::0.00197937838819
+correct location estimate::0.00197937838819
+gps enabled mobile::0.00197937838819
+bluetooth localization system::0.00197937838819
+device for training::0.00197937838819
+deployment of wireless::0.00197937838819
+propagation using accurate::0.00197937838819
+mobile devices due::0.00197937838819
+divergence and hilbert::0.00197937838819
+irr and distance::0.00197937838819
+mobile devices bluetooth::0.00197937838819
+california usa copyright::0.00197937838819
+hilbert space embedding::0.00197937838819
+entire office building::0.00197937838819
+subject descriptors c.2.4::0.00197937838819
+van yunye jin::0.00197937838819
+system to accurately::0.00197937838819
+ladd a.m. rudys::0.00197937838819
+context awareness loca::0.00197937838819
+2008 san francisco::0.00197937838819
+propose a method::0.00197937838819
+irr is defined::0.00197937838819
+decreases with increasing::0.00197937838819
+inquiring::0.00197937838819
+robotics-based location sensing::0.00197937838819
+seattle washington usa::0.00197937838819
+packet the fhs::0.00197937838819
+location is determined::0.00197937838819
+noise and interference::0.00197937838819
+solutions are based::0.00197937838819
+mortaza s bargh::0.00197937838819
+september 19 2008::0.00197937838819
+rssi and link::0.00197937838819
+enabled mobile devices::0.00197937838819
+infeasible to construct::0.00197937838819
+range of indoor::0.00197937838819
+quality of service::0.00197937838819
+synchronization fhs packet::0.00197937838819
+number of inquiry::0.00197937838819
+fee melt’08 september::0.00197937838819
+symposium on location::0.00197937838819
+describes our solution::0.00197937838819
+presents our conclusions::0.00197937838819
+architecture is shown::0.00197937838819
+indicator of distance::0.00197937838819
+chawathe y. lamarca::0.00197937838819
+measurements over time::0.00197937838819
+implemented and evaluated::0.00197937838819
+introduction location based::0.00197937838819
+percentage of inquiry::0.00197937838819
+metropolitan-scale wi-fi localization::0.00197937838819
+affect the propagation::0.00197937838819
+technology for indoor::0.00197937838819
+evaluated the performance::0.00197937838819
+device to collect::0.00197937838819
+rss indicator rssi::0.00197937838819
+francisco california usa::0.00197937838819
+robert de groote::0.00197937838819
+indoor location mapping::0.00197937838819
+acknowledgments this work::0.00197937838819
+paper we proposed::0.00197937838819
+tests the accuracy::0.00197937838819
+device was moved::0.00197937838819
+hien nguyen van::0.00197937838819
+adhoc and sensor::0.00197937838819
+characterization for metropolitan-scale::0.00197937838819
+faces the challenge::0.00197937838819
+conference on mobile::0.00193750469413
+determine location::0.00193161077354
+system architecture::0.00193161077354
+context information::0.00193161077354
+based approach::0.0017908219266
+bluetooth positioning::0.0017908219266
+user locations::0.0017908219266
+techniques to derive::0.00174455303601
+model of indoor::0.00174455303601
+user is moving::0.00174455303601
+location and context::0.00174455303601
+haeberlen a. flannery::0.00174455303601
+bluetooth enabled devices::0.00174455303601
+training data set::0.00174455303601
+lbss::0.00174455303601
+localization in proceedings::0.00174455303601
+relation between distance::0.00174455303601
+point in time::0.00174455303601
+localization using multiple::0.00174455303601
+connection is established::0.00174455303601
+prentice hall ptr::0.00174455303601
+location is considered::0.00174455303601
+rudys a. wallach::0.00174455303601
+flannery e. ladd::0.00174455303601
+detail in section::0.00174455303601
+bluetooth based localization::0.00174455303601
+low power::0.00170480679679
+coverage::0.00169875030424
+test results::0.0016717866526
+hour::0.00165345423878
+accurate fingerprints::0.00158720998617
+location uncertainty::0.00158720998617
+building generally::0.00158720998617
+ik1 ik2::0.00158720998617
+ethernet dynamicity::0.00158720998617
+bluelon bt-002::0.00158720998617
+oct 2007::0.00158720998617
+theory isit::0.00158720998617
+graphs 1st::0.00158720998617
+integrate smoothly::0.00158720998617
+include rss::0.00158720998617
+solution direction::0.00158720998617
+http freeband::0.00158720998617
+backend server::0.00158720998617
+user terminals::0.00158720998617
+pre-recorded fingerprints::0.00158720998617
+rss access::0.00158720998617
+generally requires::0.00158720998617
+base station”::0.00158720998617
+solution section::0.00158720998617
+wifi scans::0.00158720998617
+100% arg::0.00158720998617
+depicts accuracy::0.00158720998617
+techniques process::0.00158720998617
+inquiry packets::0.00158720998617
+dongles compatible::0.00158720998617
+interesting research::0.00158720998617
+2005. seattle::0.00158720998617
+signals non-deterministically::0.00158720998617
+room irr::0.00158720998617
+discovered “object::0.00158720998617
+updated training::0.00158720998617
+control mechanism::0.00158720998617
+retrieves information::0.00158720998617
+empirical binary::0.00158720998617
+june-2 july::0.00158720998617
+run so-called::0.00158720998617
+frame cmf::0.00158720998617
+minutes accuracy::0.00158720998617
+freeband::0.00158720998617
+− ikm::0.00158720998617
+commercial mobile::0.00158720998617
+inquiry result::0.00158720998617
+pre-recorded measurements::0.00158720998617
+considered unsafe::0.00158720998617
+metal bookshelf::0.00158720998617
+system distinguishes::0.00158720998617
+obtaining rrs::0.00158720998617
+gpscapable mobile::0.00158720998617
+contextsources bluetooth::0.00158720998617
+verification keywords::0.00158720998617
+context source::0.00158720998617
+providing contextual::0.00158720998617
+full bluetooth::0.00158720998617
+d(p||q bits::0.00158720998617
+scanning device::0.00158720998617
+collect localization::0.00158720998617
+devices relies::0.00158720998617
+device –the::0.00158720998617
+sources combining::0.00158720998617
+future journal::0.00158720998617
+detail 2];::0.00158720998617
+sever multi-path::0.00158720998617
+partial bluetooth::0.00158720998617
+85-89 april-june::0.00158720998617
+lncs vol::0.00158720998617
+measured irr::0.00158720998617
+requirements fingerprint::0.00158720998617
+… ikm::0.00158720998617
+inquirers increases::0.00158720998617
+minutes location::0.00158720998617
+test room::0.00158720998617
+imprecise definition::0.00158720998617
+colleague radar::0.00158720998617
+frequency hop::0.00158720998617
+assume independence::0.00158720998617
+publish contextual::0.00158720998617
+topological locations::0.00158720998617
+recent findings::0.00158720998617
+findings indicate::0.00158720998617
+cmf infrastructure::0.00158720998617
+computer-communication-networks] systems::0.00158720998617
+generally shut::0.00158720998617
+estimate movement::0.00158720998617
+m=1 …::0.00158720998617
+ts=10 seconds::0.00158720998617
+users categories::0.00158720998617
+object device::0.00158720998617
+inquiry frequency::0.00158720998617
+types training::0.00158720998617
+room fingerprinting::0.00158720998617
+figure unlike::0.00158720998617
+types bluelon::0.00158720998617
+room residences::0.00158720998617
+inquiring sensors::0.00158720998617
+devices reference::0.00158720998617
+higher inquiry::0.00158720998617
+binary distribution::0.00158720998617
+abstract location::0.00158720998617
+irr decreases::0.00158720998617
+reliably due::0.00158720998617
+fingerprints location::0.00158720998617
+irr parameter::0.00158720998617
+closest room::0.00158720998617
+received measurements::0.00158720998617
+angulation dead::0.00158720998617
+30’::0.00158720998617
+devices average::0.00158720998617
+remote machines::0.00158720998617
+calculate klk::0.00158720998617
+detection location::0.00158720998617
+eds. lncs::0.00158720998617
+deviate enormously::0.00158720998617
+“the frequency::0.00158720998617
+bekris k.e.::0.00158720998617
+seconds bluetooth::0.00158720998617
+“object devices”::0.00158720998617
+automatically obtain::0.00158720998617
+approach faces::0.00158720998617
+predefined events::0.00158720998617
+services provided::0.00158720998617
+widely deployable::0.00158720998617
+cheng y.-c.::0.00158720998617
+wireless broadband::0.00158720998617
+d(p||q::0.00158720998617
+lncs::0.00158720998617
+arrival processing::0.00158720998617
+sensors installed::0.00158720998617
+niels snoeck::0.00158720998617
+v1.1 based::0.00158720998617
+power aspects::0.00158720998617
+observed fingerprint::0.00158720998617
+wt=10’::0.00158720998617
+eventually replies::0.00158720998617
+framework cmf::0.00158720998617
+systems fingerprints::0.00158720998617
+lncs 3660::0.00158720998617
+inquiries periodically::0.00158720998617
+multiple bluetooth::0.00158720998617
+fingerprint method::0.00158720998617
+2004 acm::0.00158720998617
+inquirer retrieves::0.00158720998617
+measurements measured::0.00158720998617
+wibbels markus::0.00158720998617
+discoverable mobile::0.00158720998617
+bluetooth connect::0.00158720998617
+device class::0.00158720998617
+contract bsik::0.00158720998617
+result indoor::0.00158720998617
+users log::0.00158720998617
+dongles detect::0.00158720998617
+preferably require::0.00158720998617
+estimation component::0.00158720998617
+loca 2007::0.00158720998617
+deliver lbss::0.00158720998617
+technologies impose::0.00158720998617
+graphs mentioned::0.00158720998617
+ethernet journal::0.00158720998617
+p.p. 189-204::0.00158720998617
+terminal upgrade::0.00158720998617
+distribution q(x::0.00158720998617
+information bluetooth::0.00158720998617
+devices introduction::0.00158720998617
+excessive hardware::0.00158720998617
+room-k::0.00158720998617
+partial converge::0.00158720998617
+discoverable target::0.00158720998617
+environments global::0.00158720998617
+top-2 accuracy::0.00158720998617
+irrs::0.00158720998617
+robert.degroote@telin.nl provoked::0.00158720998617
+log out::0.00158720998617
+kjærgaard m.b::0.00158720998617
+systems generally::0.00158720998617
+instituut::0.00158720998617
+algorithms measurement::0.00158720998617
+compare figures::0.00158720998617
+dongles note::0.00158720998617
+cables prentice::0.00158720998617
+july 2004::0.00158720998617
+distributed applications::0.00158720998617
+obtaining bluetooth::0.00158720998617
+meaningful granularity::0.00158720998617
+inquiries mortaza::0.00158720998617
+detection figure::0.00158720998617
+awareness project::0.00158720998617
+manufactured requires::0.00158720998617
+involves devising::0.00158720998617
+research nowadays::0.00158720998617
+total inquiries::0.00158720998617
+bargh robert::0.00158720998617
+measurement performance::0.00158720998617
+gps devices::0.00158720998617
+dutch government::0.00158720998617
+rrs irrs::0.00158720998617
+partial sensor::0.00158720998617
+distribution p(x::0.00158720998617
+requires users::0.00158720998617
+full sensor::0.00158720998617
+− ∑::0.00158720998617
+dead-spots noise::0.00158720998617
+technology 3][4::0.00158720998617
+approach commonly::0.00158720998617
+based processing::0.00158720998617
+solution aims::0.00158720998617
+radar application::0.00158720998617
+require establishing::0.00158720998617
+partial dongle::0.00158720998617
+achieves 100%::0.00158720998617
+strong relation::0.00158720998617
+main system::0.00158720998617
+solution finally::0.00158720998617
+element tkm::0.00158720998617
+hand successful::0.00158720998617
+tags htc-p3300::0.00158720998617
+inquirer transmits::0.00158720998617
+overlapping bluetooth::0.00158720998617
+localized differed::0.00158720998617
+mobile algorithms::0.00158720998617
+fingerprints indicate::0.00158720998617
+bluetooth context::0.00158720998617
+graphs 2nd::0.00158720998617
+a.m. bekris::0.00158720998617
+applications developed::0.00158720998617
+real room::0.00158720998617
+source produces::0.00158720998617
+inquiries table::0.00158720998617
+requires mobile::0.00158720998617
+approach hereto::0.00158720998617
+wireless services::0.00158720998617
+years due::0.00158720998617
+devices differ::0.00158720998617
+minutes figure::0.00158720998617
+devises localization::0.00158720998617
+bluetooth mobile::0.00158720998617
+top-2::0.00158720998617
+relevant context::0.00158720998617
+1-2 p.p.::0.00158720998617
+interesting direction::0.00158720998617
+– distributed::0.00158720998617
+takes place::0.00158720998617
+device types::0.00158720998617
+inquiry rate::0.00158720998617
+2005 beigl::0.00158720998617
+explored wifi::0.00158720998617
+detail section::0.00158720998617
+growing technology::0.00158720998617
+jensen-shannon distance::0.00158720998617
+systems –::0.00158720998617
+accurate model::0.00158720998617
+hall table::0.00158720998617
+divergence measures::0.00158720998617
+short fingerprints::0.00158720998617
+map room::0.00158720998617
+produces symbols::0.00158720998617
+coverage localization::0.00158720998617
+d.s. kavraki::0.00158720998617
+dongles inquiry::0.00158720998617
+pervasively nowadays::0.00158720998617
+desktop pcs::0.00158720998617
+isit 2004::0.00158720998617
+rooms room-1::0.00158720998617
+dongles connected::0.00158720998617
+users requesting::0.00158720998617
+lateration angulation::0.00158720998617
+dongles room-2::0.00158720998617
+inquired continuously::0.00158720998617
+main component::0.00158720998617
+sturman c.f::0.00158720998617
+scheme achieves::0.00158720998617
+2007 springer::0.00158720998617
+dynamic sensor::0.00158720998617
+device distance::0.00158720998617
+distance location::0.00158720998617
+existing fingerprints::0.00158720998617
+top show::0.00158720998617
+literature e.g::0.00158720998617
+realistic case::0.00158720998617
+helpful comments::0.00158720998617
+v1.2 standard::0.00158720998617
+environments affect::0.00158720998617
+minimum deviation::0.00158720998617
+8-11 oct::0.00158720998617
+homogeneity exists::0.00158720998617
+training periods::0.00158720998617
+vol 4718::0.00158720998617
+architecture encompasses::0.00158720998617
+estimation location::0.00158720998617
+wallach d.s::0.00158720998617
+subcomponent indicates::0.00158720998617
+minor sensitivity::0.00158720998617
+paging mechanisms::0.00158720998617
+fixed length::0.00158720998617
+ik2 …::0.00158720998617
+k.e. rudys::0.00158720998617
+2005 volume::0.00158720998617
+fingerprinting include::0.00158720998617
+mass 2007::0.00158720998617
+remote pcs::0.00158720998617
+systems mass::0.00158720998617
+replies subsequently::0.00158720998617
+pervasive technology::0.00158720998617
+–the approach::0.00158720998617
+acceptance barrier::0.00158720998617
+famous gps::0.00158720998617
+radio location::0.00158720998617
+accuracy relates::0.00158720998617
+rss angle::0.00158720998617
+markus jevring::0.00158720998617
+momentary network::0.00158720998617
+difference measure::0.00158720998617
+categories reference::0.00158720998617
+determination takes::0.00158720998617
+paging mechanism::0.00158720998617
+bluetooth addresses::0.00158720998617
+∫ d(q||p::0.00158720998617
+non-deterministically due::0.00158720998617
+dongles room::0.00158720998617
+observed fingerprints::0.00158720998617
+freeband awareness::0.00158720998617
+top-1 estimation::0.00158720998617
+rate office::0.00158720998617
+maintain devices::0.00158720998617
+a.k.m hien::0.00158720998617
+fingerprints obtained::0.00158720998617
+martin wibbels::0.00158720998617
+inquirer establishes::0.00158720998617
+bt-002 body::0.00158720998617
+accuracy measures::0.00158720998617
+indoors indoor::0.00158720998617
+central machine::0.00158720998617
+top-1 accuracy::0.00158720998617
+networks january::0.00158720998617
+effective indoors::0.00158720998617
+publish-subscribe system::0.00158720998617
+bluetooth response::0.00158720998617
+match determines::0.00158720998617
+localize target::0.00158720998617
+hop synchronization::0.00158720998617
+enschede::0.00158720998617
+devices dongles::0.00158720998617
+detection radio::0.00158720998617
+setting inquiries::0.00158720998617
+out location::0.00158720998617
+capture fingerprints::0.00158720998617
+sole network::0.00158720998617
+solution achieves::0.00158720998617
+entropy measure::0.00158720998617
+localization bluetooth::0.00158720998617
+context-sources run::0.00158720998617
+“colleague radar”::0.00158720998617
+distributed general::0.00158720998617
+inquiring dongles::0.00158720998617
+shows minor::0.00158720998617
+inquiries eventually::0.00158720998617
+include dongles::0.00158720998617
+top-2 estimate::0.00158720998617
+cellular phone”::0.00158720998617
+result shows::0.00158720998617
+determines user::0.00158720998617
+achieves top-1::0.00158720998617
+machines run::0.00158720998617
+left top::0.00158720998617
+dongles installed::0.00158720998617
+performance verification::0.00158720998617
+designed implemented::0.00158720998617
+mass functions::0.00158720998617
+c.2.4 computer-communication-networks]::0.00158720998617
+target data::0.00158720998617
+mobisys 2005.::0.00158720998617
+bluetooth irr::0.00158720998617
+optimum entropy::0.00158720998617
+2007 8-11::0.00158720998617
+hour note::0.00158720998617
+modes discoverable::0.00158720998617
+services back::0.00158720998617
+effects dead-spots::0.00158720998617
+inflicts low::0.00158720998617
+existing context::0.00158720998617
+rss bluetooth::0.00158720998617
+context-sources::0.00158720998617
+hossain a.k.m::0.00158720998617
+inquiries replied::0.00158720998617
+telematica::0.00158720998617
+rrs::0.00158720998617
+central machines::0.00158720998617
+responsive system::0.00158720998617
+nokia e61::0.00158720998617
+performance indications::0.00158720998617
+approaches proposed::0.00158720998617
+approach approximates::0.00158720998617
+a-priori location::0.00158720998617
+fastest growing::0.00158720998617
+access point”::0.00158720998617
+q(x::0.00158720998617
+inquirer pages::0.00158720998617
+usa 2005::0.00158720998617
+run inquiries::0.00158720998617
+applications distributed::0.00158720998617
+bluetooth context-sources::0.00158720998617
+basically involves::0.00158720998617
+require mobile::0.00158720998617
+management frame::0.00158720998617
+7500an::0.00158720998617
+“distance” measure::0.00158720998617
+589::0.00158720998617
+existing technologies::0.00158720998617
+locates coworkers::0.00158720998617
+deployable indoor::0.00158720998617
+fresh fingerprints::0.00158720998617
+control protocol::0.00158720998617
+room-k k=1,…::0.00158720998617
+maarten wegdam::0.00158720998617
+a-priori::0.00158720998617
+d(p||q ∫::0.00158720998617
+important developments::0.00158720998617
+richer applications::0.00158720998617
+number 1-2::0.00158720998617
+switches dongles::0.00158720998617
+practice training::0.00158720998617
+small training::0.00158720998617
+groote telematica::0.00158720998617
+subcomponent::0.00158720998617
+wide metal::0.00158720998617
+∑(n jsd::0.00158720998617
+process solely::0.00158720998617
+deployed pervasively::0.00158720998617
+functions p(x::0.00158720998617
+reliable measure::0.00158720998617
+uncertainty imposed::0.00158720998617
+estimate accuracy::0.00158720998617
+weak indicator::0.00158720998617
+kavraki l.e::0.00158720998617
+“the fastest::0.00158720998617
+irr variance::0.00158720998617
+bluetooth v1.1::0.00158720998617
+body tags::0.00158720998617
+bottom graphs::0.00158720998617
+entropy rate::0.00158720998617
+irr sample::0.00158720998617
+jin wee-seng::0.00158720998617
+so-called context-sources::0.00158720998617
+approaches localization::0.00158720998617
+wt=5’::0.00158720998617
+kullback-leibler function::0.00158720998617
+based application::0.00158720998617
+average note::0.00158720998617
+0)53::0.00158720998617
+snoeck martin::0.00158720998617
+categories processing::0.00158720998617
+estimation performance::0.00158720998617
+network connected::0.00158720998617
+dedicated software::0.00158720998617
+gain calculated::0.00158720998617
+generally rely::0.00158720998617
+bluetooth contextsources::0.00158720998617
+test rooms::0.00158720998617
+fix rate::0.00158720998617
+paradigm shifts::0.00158720998617
+seventh international::0.00158720998617
+fingerprinting locations::0.00158720998617
+inquiry rrs::0.00158720998617
+fingerprint types::0.00158720998617
+size 4m×6m::0.00158720998617
+mortaza.bargh@telin.nl robert.degroote@telin.nl::0.00158720998617
+springer lncs::0.00158720998617
+obtained reliably::0.00158720998617
+parameter ikm::0.00158720998617
+y.-c. chawathe::0.00158720998617
+accurate indoor location::0.00157794179714
+paper we propose::0.00157794179714
+indoor signal propagation::0.00157794179714
+fingerprinting in proceedings::0.00157794179714
+3rd international conference::0.00157794179714
+location determination method::0.00157794179714
+area of research::0.00157794179714
+results of experiments::0.00157794179714
+study of bluetooth::0.00157794179714
+based on response::0.00157794179714
+indoor localization based::0.00157794179714
+respect to distance::0.00157794179714
+indoor location determination::0.00157794179714
+symposium on information::0.00157794179714
+98%::0.00157794179714
+localization process::0.0015686736081
+localized::0.00155013723004
+estimate the location::0.00155013723004
+null::0.00147772145702
+based on rss::0.00144870808016
+ubiquitous computing ubicomp::0.00144870808016
+solution::0.00141759627762
+localization approaches::0.00139636198547
+devices::0.00138674836904
+mode::0.001352900422
+carried out::0.00135108287839
+entropy::0.00134311644495
+mobile systems applications::0.00134311644495
+sensing using wireless::0.00134311644495
+categories and subject::0.00134311644495
+bits::0.00134311644495
+journal of wireless::0.00134311644495
+bear this notice::0.00134311644495
+page to copy::0.00134311644495
+replies::0.00134311644495
+based indoor localization::0.00134311644495
+information from multiple::0.00134311644495
+conference on ubiquitous::0.00134311644495
+show the results::0.00134311644495
+future research directions::0.00134311644495
+lists requires prior::0.00134311644495
+multiple wireless technologies::0.00134311644495
+number of locations::0.00134311644495
+conclusions and future::0.00134311644495
+100%::0.00132276339102
+hien nguyen::0.00131958559213
+systems capture::0.00131958559213
+hilbert space::0.00131958559213
+hardware installation::0.00131958559213
+management framework::0.00131958559213
+results based::0.00131958559213
+fhs::0.00131958559213
+network-based approach::0.00131958559213
+system determines::0.00131958559213
+time target::0.00131958559213
+fingerprint-based localization::0.00131958559213
+slightly lower::0.00131958559213
+estimation process::0.00131958559213
+gps enabled::0.00131958559213
+bluetooth standard::0.00131958559213
+wee-seng soh::0.00131958559213
+central component::0.00131958559213
+jensen shannon::0.00131958559213
+application aims::0.00131958559213
+van yunye::0.00131958559213
+localization devices::0.00131958559213
+partly resulting::0.00131958559213
+2008 san::0.00131958559213
+2004 philadelphia::0.00131958559213
+wallach d.s.::0.00131958559213
+periodically scans::0.00131958559213
+kavraki l.e.::0.00131958559213
+space embedding::0.00131958559213
+synchronization fhs::0.00131958559213
+locating users::0.00131958559213
+entire office::0.00131958559213
+user acceptance::0.00131958559213
+collect training::0.00131958559213
+active area::0.00131958559213
+high spatial::0.00131958559213
+nguyen van::0.00131958559213
+september 2004::0.00131958559213
+solutions rely::0.00131958559213
+device scans::0.00131958559213
+movement detection::0.00131958559213
+washington usa::0.00131958559213
+service requirements::0.00131958559213
+bluetooth propagation::0.00131958559213
+interesting extension::0.00131958559213
+fingerprinting solutions::0.00131958559213
+key technology::0.00131958559213
+techniques mentioned::0.00131958559213
+observed location::0.00131958559213
+robotics-based location::0.00131958559213
+january 2005::0.00131958559213
+evaluated based::0.00131958559213
+metropolitan-scale wi-fi::0.00131958559213
+yunye jin::0.00131958559213
+stationary mobile::0.00131958559213
+cost infrastructure::0.00131958559213
+fee melt’08::0.00131958559213
+training fingerprint::0.00131958559213
+based scheme::0.00131958559213
+melt’08 september::0.00131958559213
+meeting room::0.00131958559213
+francisco california::0.00131958559213
+current approach::0.00131958559213
+accuracy characterization::0.00131958559213
+acm 978-1-60558-189-7::0.00131958559213
+a.m. rudys::0.00131958559213
+probability mass::0.00131958559213
+mahtab hossain::0.00131958559213
+carrying out::0.00131958559213
+awareness loca::0.00131958559213
+multi-floor building::0.00131958559213
+a.m.::0.00131958559213
+project http::0.00131958559213
+bluetooth v1.2::0.00131958559213
+mobicom 2004::0.00131958559213
+location mapping::0.00131958559213
+mobile adhoc::0.00131958559213
+rss indicator::0.00131958559213
+binary random::0.00131958559213
+discoverable bluetooth::0.00131958559213
+descriptors c.2.4::0.00131958559213
+localization device::0.00131958559213
+unlike previous::0.00131958559213
+services lbss::0.00131958559213
+broadband wireless::0.00131958559213
+neighboring rooms::0.00131958559213
+access point::0.00129166979608
+seconds::0.00126056761328
+fingerprinting::0.00125874439872
+location fingerprints::0.00125557313852
+location determination system::0.00125383998945
+system to estimate::0.00125383998945
+indoor localization systems::0.00125383998945
+location based services::0.00125383998945
+∑::0.00125383998945
+terminals::0.00125383998945
+lateration and angulation::0.00125383998945
+pervasive computing vol::0.00125383998945
+system is based::0.00125383998945
+connectivity::0.00123326305031
+sizes::0.00119376409785
+consumption::0.00118127190442
+permission to make::0.00117650520608
+conclusion and future::0.00117650520608
+requires prior specific::0.00117650520608
+profit or commercial::0.00117650520608
+distributed for profit::0.00117650520608
+personal or classroom::0.00117650520608
+made or distributed::0.00117650520608
+networks in proceedings::0.00117650520608
+prior specific permission::0.00117650520608
+work for personal::0.00117650520608
+digital or hard::0.00117650520608
+beginning::0.00117650520608
+practical robust localization::0.00117650520608
+proceedings of international::0.00117650520608
+redistribute to lists::0.00117650520608
+granted without fee::0.00117650520608
+republish to post::0.00117650520608
+provided that copies::0.00117650520608
+post on servers::0.00117650520608
+proposed solution::0.00116303535734
+enabled mobile::0.00116303535734
+hall ptr::0.00116303535734
+fingerprint locations::0.00116303535734
+results showed::0.00116303535734
+random variables::0.00116303535734
+multiple sources::0.00116303535734
+98% accuracy::0.00116303535734
+bluetooth hardware::0.00116303535734
+compress::0.00116303535734
+california usa::0.00116303535734
+bluetooth enabled::0.00116303535734
+seconds note::0.00116303535734
+sensor information::0.00116303535734
+introduction location::0.00116303535734
+devices bluetooth::0.00116303535734
+75%::0.00116303535734
+seattle washington::0.00116303535734
+jensen-shannon::0.00116303535734
+pre-recorded::0.00116303535734
+based solution::0.00116303535734
+information gain::0.00116303535734
+based approaches::0.00116303535734
+device moves::0.00116303535734
+jensen-shannon divergence::0.00116303535734
+multi-floor buildings::0.00116303535734
+data obtained::0.00116303535734
+bluetooth localization::0.00116303535734
+found out::0.00116303535734
+system components::0.00116303535734
+machines::0.00110829109276
+radio map::0.00108326151589
+full::0.00106743180007
+wifi technology::0.00105196119809
+100% accuracy::0.00105196119809
+classification problem::0.00105196119809
+services mobisys::0.00105196119809
+bluetooth infrastructure::0.00105196119809
+makes sense::0.00105196119809
+kullback-leibler::0.00105196119809
+localization data::0.00105196119809
+prentice hall::0.00105196119809
+proximity detection::0.00105196119809
+bluetooth connection::0.00105196119809
+pervasively::0.00105196119809
+based solutions::0.00105196119809
+keywords indoor::0.00105196119809
+contextual::0.00105196119809
+higher number::0.00105196119809
+modified version::0.00105196119809
+3rd international::0.00105196119809
+wi-fi localization::0.00105196119809
+research question::0.00105196119809
+symbols::0.00105196119809
+office buildings::0.00105196119809
+p.o::0.00105196119809
+fingerprinted::0.00105196119809
+information theory::0.00105196119809
+rss information::0.00105196119809
+evaluate the performance::0.0010472714891
+discovered::0.0010472714891
+applications and services::0.0010472714891
+copies::0.0010472714891
+connection::0.00103342482003
+determination::0.00100483518133
+nowadays::0.000992072543267
+ieee pervasive computing::0.000992072543267
+localization over large-scale::0.000992072543267
+netherlands::0.000965805386772
+wireless signals::0.000965805386772
+network-based::0.000965805386772
+experiments show::0.000965805386772
+determining location::0.000965805386772
+enabled devices::0.000965805386772
+angulation techniques::0.000965805386772
+usa copyright::0.000965805386772
+devices due::0.000965805386772
+mass::0.000965805386772
+multi-floor::0.000965805386772
+context awareness::0.000965805386772
+arg::0.000965805386772
+computing ubicomp::0.000965805386772
+multi-path effects::0.000965805386772
+fed::0.000965805386772
+10th acm::0.000965805386772
+ubicomp 2005::0.000965805386772
+background information::0.000965805386772
+mobile terminal::0.000965805386772
+tracking users::0.000965805386772
+accurately determine::0.000965805386772
+training set::0.000965805386772
+shown in figure::0.000965199271072
+acm international conference::0.000941679853891
+difference of arrival::0.000941679853891
+response::0.00090193361467
+localization systems::0.000900721918924
+international symposium::0.000900721918924
+scheme::0.000900405438055
+determination method::0.000895410963299
+rank::0.000895410963299
+infeasible::0.000895410963299
+find out::0.000895410963299
+copies bear::0.000895410963299
+existing localization::0.000895410963299
+lists requires::0.000895410963299
+multiple wireless::0.000895410963299
+research directions::0.000895410963299
+general terms::0.000895410963299
+subject descriptors::0.000895410963299
+systems applications::0.000895410963299
+increasing distance::0.000895410963299
+angle of arrival::0.000895323073385
+users::0.00086353710047
+relies::0.000861113197389
+determination system::0.0008358933263
+cheng::0.0008358933263
+arrival time::0.0008358933263
+based services::0.0008358933263
+surrounded::0.0008358933263
+prior work::0.0008358933263
+indoor signal::0.0008358933263
+indoor applications::0.0008358933263
+localization based::0.0008358933263
+location estimations::0.0008358933263
+office::0.000830224733388
+determines::0.000823437394942
+location based::0.000823437394942
+top::0.000823144137212
+obtaining::0.000812446136914
+time of arrival::0.000812446136914
+day::0.000812446136914
+5.12s::0.000793604993084
+shut::0.000793604993084
+resurrected::0.000793604993084
+non-deterministically::0.000793604993084
+devices”::0.000793604993084
+time-variant::0.000793604993084
+d(l||tk::0.000793604993084
+bray::0.000793604993084
+cross-referencing::0.000793604993084
+gpscapable::0.000793604993084
+k=1,…::0.000793604993084
+“distance”::0.000793604993084
+4m×6m::0.000793604993084
+homogeneity::0.000793604993084
+m=1::0.000793604993084
+niels::0.000793604993084
+dynamicity::0.000793604993084
+point”::0.000793604993084
+2’::0.000793604993084
+xiii::0.000793604993084
+k.e.::0.000793604993084
+resurgence::0.000793604993084
+e61::0.000793604993084
+interrelating::0.000793604993084
+p.p.::0.000793604993084
+maarten::0.000793604993084
+htc-p3300::0.000793604993084
+application-oriented::0.000793604993084
+april-june::0.000793604993084
+mortaza.bargh@telin.nl::0.000793604993084
+june-2::0.000793604993084
+robert.degroote@telin.nl::0.000793604993084
+subscribed::0.000793604993084
+subscriber::0.000793604993084
+subscribes::0.000793604993084
+bt-002::0.000793604993084
+realistic;::0.000793604993084
+bsik::0.000793604993084
+bellavista::0.000793604993084
+coworkers::0.000793604993084
+markus::0.000793604993084
+97.82%::0.000793604993084
+“dongles”::0.000793604993084
+multi-target::0.000793604993084
+“colleague::0.000793604993084
+well-explored::0.000793604993084
+ts=10s::0.000793604993084
+jsd(q||p::0.000793604993084
+v1.1::0.000793604993084
+heterogeneity::0.000793604993084
+∑(n::0.000793604993084
+n70::0.000793604993084
+other”::0.000793604993084
+replied::0.000793604993084
+jevring::0.000793604993084
+inquired::0.000793604993084
+contextsources::0.000793604993084
+85-89::0.000793604993084
+phone”::0.000793604993084
+d(q||p::0.000793604993084
+d(tk::0.000793604993084
+devising::0.000793604993084
+ik1::0.000793604993084
+jsd(p||q::0.000793604993084
+selfreferencing::0.000793604993084
+wl=1.5’::0.000793604993084
+wegdam::0.000793604993084
+momentary::0.000793604993084
+sturman::0.000793604993084
+snoeck::0.000793604993084
+content-oriented::0.000793604993084
+unsafe::0.000793604993084
+c.f::0.000793604993084
+hereto::0.000793604993084
+relocated::0.000793604993084
+14-45%::0.000793604993084
+–the::0.000793604993084
+7783%::0.000793604993084
+pre)stored::0.000793604993084
+wibbels::0.000793604993084
+station”::0.000793604993084
+radar”::0.000793604993084
+provoked::0.000793604993084
+delegated::0.000793604993084
+schematically::0.000793604993084
+4718::0.000793604993084
+reactive::0.000793604993084
+ts=10::0.000793604993084
+3][4::0.000793604993084
+computer-communication-networks]::0.000793604993084
+189-204::0.000793604993084
+y.-c.::0.000793604993084
+ik2::0.000793604993084
+enormously::0.000793604993084
+publish-subscribe::0.000793604993084
+dead-spots::0.000793604993084
+devises::0.000793604993084
+139-156::0.000793604993084
+single-target::0.000793604993084
+m.b::0.000793604993084
+“the::0.000787514602946
+mechanism::0.000787514602946
+make digital::0.000784336804052
+correct location::0.000784336804052
+fee provided::0.000784336804052
+mobile systems::0.000784336804052
+bluetooth device::0.000784336804052
+full citation::0.000784336804052
+sensor systems::0.000784336804052
+modes::0.000784336804052
+first page::0.000784336804052
+prior specific::0.000784336804052
+fee::0.000784336804052
+commercial advantage::0.000784336804052
+location-based services::0.000784336804052
+san francisco::0.000784336804052
+specific permission::0.000784336804052
+requires prior::0.000784336804052
+hard copies::0.000784336804052
+accurate indoor::0.000784336804052
+test::0.000777183390423
+categories::0.000775068615019
+determine the location::0.000775068615019
+estimation::0.000763464839235
+services::0.000747264047923
+percentage::0.000739957830184
+signal strength rss::0.000739957830184
+adopted::0.000739957830184
+accuracy::0.000739599130155
+users’::0.000738860728509
+link quality::0.000738860728509
+discover::0.000738860728509
+permission::0.000738860728509
+mobile phones::0.000738860728509
+location::0.000733217257716
+rest::0.000720324350444
+types::0.000717739415238
+dedicated::0.000706854501705
+scans::0.000706854501705
+paper is organized::0.000706854501705
+reference::0.000704736774679
+wireless ethernet::0.000698180992733
+computing vol::0.000698180992733
+sensor data::0.000698180992733
+compression::0.000698180992733
+impose::0.000698180992733
+fingerprinting approach::0.000698180992733
+binary::0.000698180992733
+data collected::0.000698180992733
+angulation::0.000698180992733
+finally section::0.000698180992733
+international conference::0.000690829680376
+rate::0.000690292698305
+stationary::0.000688801574753
+context::0.000677042478252
+2007::0.000675541439193
+dead reckoning::0.000661381695512
+lateration::0.000661381695512
+straight line::0.000661381695512
+physical location::0.000661381695512
+fixed location::0.000661381695512
+estimator::0.000661381695512
+practical robust::0.000661381695512
+taxonomy::0.000661381695512
+recent years::0.000661381695512
+user’s location::0.000661381695512
+robust localization::0.000661381695512
+establishes::0.000659792796064
+fuglede::0.000659792796064
+yunye::0.000659792796064
+sever::0.000659792796064
+wee-seng::0.000659792796064
+l.e.::0.000659792796064
+isit::0.000659792796064
+madhavapeddy::0.000659792796064
+heard::0.000659792796064
+proactive::0.000659792796064
+8-11::0.000659792796064
+metropolitan-scale::0.000659792796064
+requesting::0.000659792796064
+978-1-60558-189-7::0.000659792796064
+v1.2::0.000659792796064
+d.s::0.000659792796064
+∫::0.000659792796064
+colleague::0.000659792796064
+deployable::0.000659792796064
+jsd::0.000659792796064
+robotics-based::0.000659792796064
+upgraded::0.000659792796064
+hilbert::0.000659792796064
+plugged::0.000659792796064
+mortaza::0.000659792796064
+mahtab::0.000659792796064
+c.2.4::0.000659792796064
+d.s.::0.000659792796064
+helal::0.000659792796064
+shannon::0.000659792796064
+distinguishes::0.000659792796064
+dutch::0.000659792796064
+tse::0.000659792796064
+a.k.m::0.000659792796064
+küpper::0.000659792796064
+inflicts::0.000659792796064
+2];::0.000659792796064
+l.e::0.000659792796064
+topsoe::0.000659792796064
+room;::0.000659792796064
+residences::0.000659792796064
+hien::0.000659792796064
+beigl::0.000659792796064
+figure::0.000656740617284
+positioning system gps::0.000645834898042
+component::0.000645834898042
+indicator rssi::0.000627786569261
+ieee pervasive::0.000627786569261
+bottom::0.000627786569261
+periodically::0.000627786569261
+extension::0.000627786569261
+computing and networking::0.000617578046206
+global positioning system::0.000617578046206
+−::0.000601289076446
+mobile users::0.000596882048923
+duration::0.000596882048923
+wireless technologies::0.000596882048923
+networking mobicom::0.000596882048923
+data set::0.000596882048923
+adhoc::0.000581517678669
+preferably::0.000581517678669
+“object::0.000581517678669
+constitutes::0.000581517678669
+smoothly::0.000581517678669
+visitors::0.000581517678669
+manufactured::0.000581517678669
+cables::0.000581517678669
+resembles::0.000581517678669
+ptr::0.000581517678669
+differed::0.000581517678669
+sponsored::0.000581517678669
+sole::0.000581517678669
+kjærgaard::0.000581517678669
+1-8::0.000581517678669
+government::0.000581517678669
+indications::0.000581517678669
+melt’08::0.000581517678669
+mobile device::0.000574191532191
+considered::0.000570262716296
+time difference::0.000568268932262
+localization methods::0.000568268932262
+location fingerprinting::0.000568268932262
+radio signals::0.000568268932262
+total number::0.000568268932262
+awareness::0.000568268932262
+based localization::0.000568268932262
+min::0.000568268932262
+acm international::0.000568268932262
+ieee international conference::0.000564891688172
+central::0.000564891688172
+tests::0.000564891688172
+approach::0.000553044730344
+positioning system::0.000548209696271
+access points::0.000548012727808
+generally::0.000548012727808
+2004::0.000548012727808
+ethernet::0.000541630757943
+future research::0.000541630757943
+outdoor environments::0.000541630757943
+relation::0.000541630757943
+responses::0.000541630757943
+estimations::0.000541630757943
+kavraki::0.000541630757943
+wifi::0.000540243262833
+carried::0.000540243262833
+measure::0.000536894320904
+retrieves::0.000525980599045
+bluelon::0.000525980599045
+bargh::0.000525980599045
+broadband::0.000525980599045
+encompasses::0.000525980599045
+prentice::0.000525980599045
+contract::0.000525980599045
+embedding::0.000525980599045
+seventh::0.000525980599045
+neighborhood::0.000525980599045
+eds.::0.000525980599045
+publish::0.000525980599045
+3660::0.000525980599045
+imposed::0.000525980599045
+loca::0.000525980599045
+groote::0.000525980599045
+indoor environments::0.000522692401304
+respect::0.000522692401304
+defined::0.000518122260282
+maintain::0.000516712410013
+enabled::0.000516712410013
+rudys::0.000516712410013
+wallach::0.000516712410013
+ladd::0.000516712410013
+achieves::0.000516712410013
+arrival::0.000516601181065
+scanning::0.000516601181065
+2005::0.000516601181065
+indoor::0.000499046556696
+interesting::0.000493886482327
+architecture::0.000493886482327
+background::0.000493305220122
+strength rss::0.000493305220122
+box::0.000493305220122
+3rd::0.000493305220122
+investigated::0.000493305220122
+aims::0.000493305220122
+based indoor::0.000493305220122
+packet::0.000493305220122
+variance::0.000493305220122
+performance::0.000490365291343
+proceedings::0.000488796613968
+method::0.000483914139051
+fingerprint-based::0.000482902693386
+standardized::0.000482902693386
+responsive::0.000482902693386
+realtime::0.000482902693386
+contributed::0.000482902693386
+chawathe::0.000482902693386
+findings::0.000482902693386
+bases::0.000482902693386
+hop::0.000482902693386
+2005.::0.000482902693386
+jensen::0.000482902693386
+robert::0.000482902693386
+reliance::0.000482902693386
+fastest::0.000482902693386
+preparation::0.000482902693386
+backend::0.000482902693386
+partly::0.000482902693386
+room-level::0.000482902693386
+deviate::0.000482902693386
+nokia::0.000482902693386
+richer::0.000482902693386
+1-2::0.000482902693386
+excessive::0.000482902693386
+approximates::0.000482902693386
+bookshelf::0.000482902693386
+wireless networks::0.000474414133364
+note::0.00047253209254
+surrounding::0.00047123633447
+future work::0.00047123633447
+low cost::0.00047123633447
+obtained::0.000469824516452
+infrastructure::0.000469824516452
+detected::0.000451361652168
+indoor location::0.000451361652168
+detail::0.000450966807335
+wide range::0.000450360959462
+remote::0.000450360959462
+sensor network::0.000450360959462
+unlike::0.000450360959462
+sources::0.000450360959462
+barrier::0.00044770548165
+desktop::0.00044770548165
+distortion::0.00044770548165
+famous::0.00044770548165
+meeting::0.00044770548165
+extensions::0.00044770548165
+verification::0.00044770548165
+nguyen::0.00044770548165
+hossain::0.00044770548165
+thin::0.00044770548165
+0.5::0.00044770548165
+relates::0.00044770548165
+so-called::0.00044770548165
+bear::0.00044770548165
+building::0.000435880258972
+estimate::0.000431432825924
+floor::0.000430643649143
+–::0.000430643649143
+characteristic::0.000430556598695
+indoors::0.000430556598695
+detection::0.00042897745381
+located::0.00042897745381
+meaningful::0.00041794666315
+signatures::0.00041794666315
+faces::0.00041794666315
+fuse::0.00041794666315
+soh::0.00041794666315
+jin::0.00041794666315
+developments::0.00041794666315
+california::0.00041794666315
+imprecise::0.00041794666315
+minor::0.00041794666315
+descriptors::0.00041794666315
+impacts::0.00041794666315
+infrastructure-based::0.00041794666315
+acceptance::0.00041794666315
+krumm::0.00041794666315
+emergence::0.00041794666315
+completed::0.00041794666315
+indicate::0.000411718697471
+system gps::0.000411718697471
+list::0.000411718697471
+quality::0.000411718697471
+mentioned::0.000411009545856
+access::0.000405027507892
+indicator::0.000393757301473
+summarizes::0.000392168402026
+solely::0.000392168402026
+optimum::0.000392168402026
+mobisys::0.000392168402026
+terminal::0.000392168402026
+characterization::0.000392168402026
+investigating::0.000392168402026
+guided::0.000392168402026
+establish::0.000392168402026
+miss::0.000392168402026
+row::0.000392168402026
+republish::0.000392168402026
+deliver::0.000392168402026
+user::0.0003813952266
+feature::0.000376594458782
+rely::0.000376594458782
+ubiquitous computing::0.000376594458782
+challenge::0.000376594458782
+minimized::0.000369430364254
+eventually::0.000369430364254
+independence::0.000369430364254
+paradigm::0.000369430364254
+assistance::0.000369430364254
+servers::0.000369430364254
+classroom::0.000369430364254
+profit::0.000369430364254
+logic::0.000369430364254
+shifts::0.000369430364254
+redistribute::0.000369430364254
+infrastructures::0.000369430364254
+lamarca::0.000369430364254
+locates::0.000369430364254
+4th::0.000369430364254
+success::0.000369430364254
+characteristics::0.000365473130847
+symposium::0.000360162175222
+cells::0.000360162175222
+effective::0.000355810600023
+evaluated::0.000355810600023
+international::0.000352368387339
+aid::0.000349090496367
+post::0.000349090496367
+switches::0.000349090496367
+copy::0.000349090496367
+granted::0.000349090496367
+citation::0.000349090496367
+characterized::0.000349090496367
+motivation::0.000349090496367
+converge::0.000349090496367
+reliably::0.000349090496367
+francisco::0.000349090496367
+signal propagation::0.000344400787376
+installed::0.000344400787376
+ieee international::0.000344400787376
+collect::0.000344400787376
+flannery::0.000330690847756
+multi-path::0.000330690847756
+interpretation::0.000330690847756
+fix::0.000330690847756
+topological::0.000330690847756
+growing::0.000330690847756
+reckoning::0.000330690847756
+predefined::0.000330690847756
+adopt::0.000330690847756
+philadelphia::0.000330690847756
+symbol::0.000330690847756
+acknowledgments::0.000330690847756
+basically::0.000330690847756
+motivated::0.000330690847756
+1st::0.000330690847756
+excluded::0.000330690847756
+haeberlen::0.000330690847756
+lists::0.000330690847756
+insight::0.000330690847756
+helpful::0.000330690847756
+overlapping::0.000330690847756
+localization system::0.000329257654885
+september::0.000329257654885
+similarly::0.000329257654885
+run::0.000329257654885
+require::0.000326910194229
+deployed::0.000321733090357
+existing::0.000315332268586
+buildings::0.000314686099679
+mobile::0.000314235967593
+contribution::0.00031389328463
+san::0.00031389328463
+comments::0.00031389328463
+bekris::0.00031389328463
+realistic::0.00031389328463
+eliminates::0.00031389328463
+definition::0.00031389328463
+10th::0.00031389328463
+ubicomp::0.00031389328463
+question::0.00031389328463
+defines::0.00031389328463
+distinguished::0.00031389328463
+examined::0.00031389328463
+experiments::0.000306796754802
+approaches::0.000306796754802
+rssi::0.000300644538223
+location sensing::0.000300644538223
+global positioning::0.000300644538223
+choose::0.000300644538223
+density::0.000300644538223
+oct::0.000298441024462
+opportunity::0.000298441024462
+dead::0.000298441024462
+packets::0.000298441024462
+physically::0.000298441024462
+differ::0.000298441024462
+element::0.000298441024462
+subsequently::0.000298441024462
+produces::0.000298441024462
+network::0.000296018332517
+sensor::0.000296018332517
+total::0.000289549778878
+hand::0.000288188606865
+location information::0.000287095766095
+sequence::0.000287095766095
+successful::0.000284134466131
+web::0.000284134466131
+weak::0.000284134466131
+targets::0.000284134466131
+zigbee::0.000284134466131
+depicts::0.000284134466131
+outputs::0.000284134466131
+started::0.000284134466131
+carrying::0.000284134466131
+synchronization::0.000284134466131
+periods::0.000284134466131
+locations::0.000282370233843
+requirements::0.000274006363904
+spatial::0.000274006363904
+source::0.000274006363904
+commercial::0.000274006363904
+user location::0.000274006363904
+mobile computing::0.000274006363904
+journal::0.000274006363904
+established::0.000270815378971
+metal::0.000270815378971
+localizing::0.000270815378971
+2nd::0.000270815378971
+location-based::0.000270815378971
+connect::0.000270815378971
+categorized::0.000270815378971
+copyright::0.000270815378971
+implies::0.000270815378971
+page::0.000270815378971
+size::0.000270018338594
+gps::0.000270018338594
+assume::0.000261346200652
+pervasive computing::0.000261346200652
+prior::0.000261346200652
+type::0.000259061130141
+specific::0.000259061130141
+received signal strength::0.000259061130141
+future::0.000259061130141
+distribution::0.000259061130141
+january::0.000258356205006
+floors::0.000258356205006
+pages::0.000258356205006
+scope::0.000258356205006
+installation::0.000258356205006
+examine::0.000258356205006
+body::0.000258356205006
+van::0.000258356205006
+geometry::0.000258356205006
+martin::0.000258356205006
+requires::0.0002537299993
+times::0.000252265814869
+interference::0.000249088015974
+correct::0.000249088015974
+management::0.000249088015974
+straight::0.000246652610061
+classification::0.000246652610061
+keywords::0.000246652610061
+integrate::0.000246652610061
+limitation::0.000246652610061
+derive::0.000246652610061
+variables::0.000246652610061
+notice::0.000246652610061
+metric::0.000246652610061
+closest::0.000246652610061
+put::0.000246652610061
+2008::0.000246652610061
+frame::0.000246652610061
+compatible::0.000246652610061
+denote::0.000246652610061
+table::0.000244398306984
+combination::0.000237207066682
+output::0.000237207066682
+measures::0.000237207066682
+connected::0.000237207066682
+practice::0.000237207066682
+springer::0.000235618167235
+task::0.000235618167235
+explored::0.000235618167235
+yield::0.000235618167235
+figures::0.000235618167235
+exploits::0.000235618167235
+subset::0.000235618167235
+subject::0.000235618167235
+localize::0.000235618167235
+average::0.000234912258226
+application::0.000234912258226
+result::0.000230329180014
+technologies::0.000230097566102
+obtain::0.000230097566102
+parameter::0.000225680826084
+difference::0.000225680826084
+phones::0.000225180479731
+granularity::0.000225180479731
+deal::0.000225180479731
+internet::0.000225180479731
+mechanisms::0.000225180479731
+hard::0.000225180479731
+investigate::0.000225180479731
+literature::0.000225180479731
+cellular::0.000225180479731
+reasons::0.000225180479731
+compares::0.000225180479731
+conference::0.000217940129486
+frequency::0.000217940129486
+observed::0.000216141455149
+wireless::0.000215716412962
+power::0.000215716412962
+july::0.000215278299347
+uncertainty::0.000215278299347
+slightly::0.000215278299347
+mobicom::0.000215278299347
+wall::0.000215278299347
+setting::0.000215278299347
+derived::0.000215278299347
+construct::0.000215278299347
+empirical::0.000215278299347
+link::0.000215278299347
+solutions::0.000214488726905
+wide::0.000214488726905
+direction::0.000214488726905
+chosen::0.000214488726905
+based::0.000214185092624
+reports::0.000205859348735
+possibly::0.000205859348735
+modified::0.000205859348735
+strong::0.000205859348735
+e.g::0.000205859348735
+transmits::0.000205859348735
+neighboring::0.000205859348735
+large-scale::0.000205859348735
+exists::0.000205859348735
+evaluate::0.000203611940431
+common::0.000203611940431
+vol::0.000203611940431
+pervasive::0.000203611940431
+implemented::0.000202513753946
+sensors::0.000202513753946
+distributed::0.000202513753946
+show::0.000201333021207
+showed::0.000196878650736
+automatically::0.000196878650736
+concept::0.000196878650736
+user’s::0.000196878650736
+theory::0.000196878650736
+ways::0.000196878650736
+observe::0.000196878650736
+impact::0.000196878650736
+meter::0.000196878650736
+washington::0.000196878650736
+terms::0.000193033185919
+paper::0.000191940983345
+project::0.000188297229391
+seattle::0.000188297229391
+platform::0.000188297229391
+wi-fi::0.000188297229391
+assumed::0.000188297229391
+relevant::0.000188297229391
+events::0.000188297229391
+sensitive::0.000188297229391
+studied::0.000188297229391
+finding::0.000188297229391
+continuously::0.000188297229391
+decreases::0.000188297229391
+out::0.000188246822562
+low::0.000185075562367
+measurements::0.000185075562367
+technology::0.000183304314429
+combining::0.000180081087611
+protocol::0.000180081087611
+divided::0.000180081087611
+length::0.000180081087611
+gain::0.000180081087611
+propagation::0.00017618419367
+process::0.000172826478233
+main::0.000172707420094
+acm::0.000172707420094
+recent::0.000172707420094
+usa::0.000172707420094
+map::0.000172707420094
+dynamic::0.000172200393688
+series::0.000172200393688
+organized::0.000172200393688
+machine::0.000172200393688
+reliable::0.000172200393688
+aspects::0.000172200393688
+class::0.000172200393688
+function::0.000169153332867
+updated::0.000164628827442
+principles::0.000164628827442
+left::0.000164628827442
+moved::0.000164628827442
+sense::0.000164628827442
+walls::0.000164628827442
+record::0.000164628827442
+addresses::0.000164628827442
+collection::0.000164628827442
+proposed::0.000163455097114
+multiple::0.000163455097114
+processing::0.000163455097114
+relative::0.000162932204656
+evaluation::0.000162932204656
+received signal::0.000162932204656
+indicates::0.00015734304984
+sensitivity::0.00015734304984
+independent::0.00015734304984
+exist::0.00015734304984
+years::0.00015734304984
+calculate::0.00015734304984
+moves::0.00015734304984
+tested::0.00015734304984
+conducted::0.00015734304984
+locating::0.00015734304984
+providing::0.00015734304984
+angle::0.00015734304984
+capture::0.00015734304984
+increases::0.00015734304984
+level::0.000153398377401
+provided::0.000153398377401
+design::0.000153398377401
+determined::0.000153398377401
+lower::0.000153398377401
+positioning::0.000150999765905
+suitable::0.000150322269112
+presents::0.000150322269112
+calculated::0.000150322269112
+random::0.000150322269112
+mobility::0.000150322269112
+back::0.000150322269112
+working::0.000150322269112
+components::0.000150322269112
+samples::0.000150322269112
+takes::0.000150322269112
+mapping::0.000150322269112
+short::0.000150322269112
+added::0.000150322269112
+person::0.000150322269112
+send::0.000150322269112
+determining::0.000150322269112
+volume::0.000150322269112
+means::0.000144094303432
+commonly::0.000143547883048
+server::0.000143547883048
+operation::0.000143547883048
+deviation::0.000143547883048
+comparing::0.000143547883048
+framework::0.000143547883048
+conclusions::0.000143547883048
+work::0.000141185116922
+meters::0.000137003181952
+directions::0.000137003181952
+radar::0.000137003181952
+match::0.000137003181952
+assuming::0.000137003181952
+functions::0.000137003181952
+due::0.000135696863534
+include::0.000135009169297
+control::0.000135009169297
+fixed::0.000135009169297
+number::0.000130931653164
+service::0.000130673100326
+version::0.000130673100326
+movement::0.000130673100326
+authors::0.000130673100326
+involves::0.000130673100326
+determine::0.00012686499965
+important::0.00012686499965
+hardware::0.000126132907434
+outdoor::0.000124544007987
+entire::0.000124544007987
+proximity::0.000124544007987
+conclusion::0.000124544007987
+real-time::0.000118603533341
+give::0.000118603533341
+sample::0.000118603533341
+propose::0.000118603533341
+improved::0.000118603533341
+describes::0.000118603533341
+knowledge::0.000118603533341
+noise::0.000118603533341
+higher::0.000117456129113
+signals::0.000117456129113
+points::0.000115164590007
+end::0.000112840413042
+abstract::0.000112840413042
+digital::0.000112840413042
+issue::0.000112840413042
+robust::0.000112840413042
+makes::0.000112840413042
+networking::0.000112840413042
+references::0.000108970064743
+positions::0.000108970064743
+personal::0.000107244363452
+effects::0.000107244363452
+place::0.000107244363452
+line::0.000107244363452
+ubiquitous::0.000107244363452
+computing::0.00010369588694
+accurate::0.00010369588694
+set::0.00010369588694
+vector::0.000101805970216
+base::0.000101805970216
+find::0.000101805970216
+resulting::0.000101805970216
+accurately::0.000101805970216
+shows::0.000100666510604
+part::0.000100666510604
+fact::0.000100666510604
+section::9.99427402904e-05
+distance::9.73568602836e-05
+widely::9.65165929593e-05
+moving::9.65165929593e-05
+physical::9.65165929593e-05
+coordinates::9.65165929593e-05
+effect::9.65165929593e-05
+radio::9.41234112811e-05
+point::9.41234112811e-05
+measured::9.25377811836e-05
+networks::9.25377811836e-05
+environments::9.24498912694e-05
+results::9.16521572145e-05
+affect::9.13682827118e-05
+advantage::9.13682827118e-05
+practical::9.13682827118e-05
+collected::9.13682827118e-05
+data::9.00984331557e-05
+estimates::8.6353710047e-05
+study::8.6353710047e-05
+global::8.6353710047e-05
+detect::8.6353710047e-05
+compare::8.6353710047e-05
+minimum::8.6353710047e-05
+issues::8.6353710047e-05
+deployment::8.6353710047e-05
+introduction::8.45766664335e-05
+required::8.45766664335e-05
+high::8.45766664335e-05
+shown::8.25503604615e-05
+techniques::7.99541922323e-05
+methods::7.67763933379e-05
+finally::7.66991887006e-05
+parameters::7.66991887006e-05
+software::7.66991887006e-05
+increase::7.20471517162e-05
+found::7.20471517162e-05
+tags::7.20471517162e-05
+database::7.20471517162e-05
+works::7.20471517162e-05
+standard::6.9130591293e-05
+signal strength::6.9130591293e-05
+change::6.75045846486e-05
+presented::6.75045846486e-05
+probability::6.75045846486e-05
+needed::6.75045846486e-05
+applications::6.60402883692e-05
+increasing::6.30664537172e-05
+algorithms::6.30664537172e-05
+object::6.30664537172e-05
+real::6.30664537172e-05
+addition::6.30664537172e-05
+sensing::6.30664537172e-05
+measurement::5.87280645566e-05
+key::5.87280645566e-05
+http::5.87280645566e-05
+active::5.44850323715e-05
+make::5.44850323715e-05
+developed::5.44850323715e-05
+model::5.44850323715e-05
+simple::5.44850323715e-05
+time::5.23726612655e-05
+cost::5.03332553018e-05
+general::5.03332553018e-05
+made::5.03332553018e-05
+previous::5.03332553018e-05
+designed::4.62688905918e-05
+current::4.22883332167e-05
+present::4.22883332167e-05
+ieee::3.99770961162e-05
+position::3.99770961162e-05
+small::3.45652956465e-05
+received::3.30201441846e-05
+space::3.08166304231e-05
+research::2.92070580851e-05
+provide::2.71393727068e-05
+order::2.35308528203e-05
+strength::1.99885480581e-05
+problem::1.99885480581e-05
+signal::1.94713720567e-05
+first::1.65100720923e-05
+tracking::1.65100720923e-05
+area::1.65100720923e-05
+range::1.65100720923e-05
+case::9.73568602836e-06
+systems::0.0
+information::0.0
+system::0.0

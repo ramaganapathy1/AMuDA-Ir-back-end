@@ -1,0 +1,4734 @@
+standard deviation::27.0
+error distance::27.0
+standard deviation cut::23.7744375108
+standard deviation cut-off::22.1894750101
+nearest neighbor::22.0
+bahl and padmanabhan::19.0195500087
+journal of systems::17.4345875079
+rssi sample::17.0
+ngerprint database::16.0
+reduced dimension::16.0
+systems and software::15.8496250072
+observation vector::15.0
+deviation cut::15.0
+rssi value::15.0
+deviation cut-off::14.0
+rssi values::14.0
+number of aps::11.094737505
+data collection::11.0
+mode lter::11.0
+deterministic and probabilistic methods::10.0
+rssi samples::10.0
+k.-w chin::10.0
+bayesian algorithm::9.0
+signal space::9.0
+wireless network::8.0
+indoor localization::8.0
+euclidean distance::8.0
+signal strength::8.0
+localization algorithm::8.0
+university of wollongong::7.92481250361
+deterministic and probabilistic::7.92481250361
+rssi sample database::7.92481250361
+nearest neighbors::7.0
+localization algorithms::7.0
+physical location::7.0
+reduced dimensions::7.0
+four orientations::7.0
+nnss variants::7.0
+aps per ngerprint::6.33985000288
+described in section::6.33985000288
+shown in fig::6.33985000288
+aps in the observation::6.0
+mobile device::6.0
+contained in the ngerprint::6.0
+wireless local area networks::6.0
+probabilistic methods::6.0
+ngerprint density::6.0
+unique locations::6.0
+sample database::6.0
+probability distribution::6.0
+performance of nnss variants::6.0
+desirable aps::5.0
+results show::5.0
+localization methods::5.0
+location estimation::5.0
+transient aps::5.0
+standard dimension::5.0
+out of range::4.75488750216
+authors of bahl::4.75488750216
+shown in table::4.75488750216
+wireless local area::4.75488750216
+set of aps::4.75488750216
+location or cell::4.75488750216
+performance of kola::4.75488750216
+deviation of rssi values::4.0
+elsevier inc all rights::4.0
+rssi logger::4.0
+wireless network interface card::4.0
+highly variable::4.0
+included in the ngerprint::4.0
+ngerprint vector::4.0
+detected during the data::4.0
+nearest neighbors in signal::4.0
+deterministic methods::4.0
+k-nearest neighbor::4.0
+wireless networks::4.0
+two samples::4.0
+busy and slow periods::4.0
+aps and rssi values::4.0
+nearest neighbor bayesian bayesian::4.0
+range of standard deviation::4.0
+standard deviation of rssi::4.0
+environments with high variability::4.0
+localization performance::4.0
+mode ltering::4.0
+indoor position::4.0
+user location and tracking::4.0
+ngerprint and observation vector::4.0
+observed signal strength tuple::4.0
+high number of aps::4.0
+bayesian method::4.0
+standard deviation cut-off technique::4.0
+fewer aps::4.0
+user is at location::4.0
+location four::4.0
+standard deviation cut-off fig::4.0
+access point::4.0
+user location::4.0
+kola algorithm::4.0
+drift in and out::4.0
+location and tracking system::4.0
+neighbors in signal space::4.0
+probability that the user::4.0
+represents an improvement::3.16992500144
+method that combines::3.16992500144
+build a robust::3.16992500144
+increase in performance::3.16992500144
+deviation cut-off technique::3.16992500144
+signal strength tuple::3.16992500144
+smallest euclidean distance::3.16992500144
+neighbors in signal::3.16992500144
+require the installation::3.16992500144
+suited to environments::3.16992500144
+nnssr with kola::3.16992500144
+nearest neighbor methods::3.16992500144
+nnss with kola::3.16992500144
+wkola as wknnss::3.16992500144
+subset of aps::3.16992500144
+adds a weight::3.16992500144
+probability distribution function::3.16992500144
+busy and slow::3.16992500144
+rest of table::3.16992500144
+deviation cut-off fig::3.16992500144
+weighted k-nearest neighbor::3.16992500144
+variable rssi values::3.16992500144
+similar to uwkola::3.16992500144
+local area networks::3.16992500144
+nearest neighbor variants::3.16992500144
+represents the probability::3.16992500144
+nnss nnsso oinnss::3.16992500144
+tested localization algorithms::3.16992500144
+aps are included::3.16992500144
+accurate position estimation::3.16992500144
+combination with knnss::3.16992500144
+number of improvements::3.16992500144
+represents a delay::3.16992500144
+global positioning system::3.16992500144
+appears multiple times::3.16992500144
+shows the performance::3.16992500144
+location averaging technique::3.16992500144
+continues to increase::3.16992500144
+unique physical locations::3.16992500144
+data collection stage::3.16992500144
+number of rssi::3.16992500144
+wifi card manager::3.16992500144
+kola as koinnss::3.16992500144
+kola with npdf::3.16992500144
+euclidean distance calculation::3.16992500144
+exclude transient aps::3.16992500144
+normal distribution::3.0
+wireless local::3.0
+position estimation::3.0
+average rss::3.0
+raw rssi::3.0
+location averaging::3.0
+weighted kola::3.0
+active badge::3.0
+local area::3.0
+bayesian bayesian::3.0
+rssi readings::3.0
+positioning system::3.0
+nnss method::3.0
+wireless lan::3.0
+erroneous aps::3.0
+total area::3.0
+probable location::3.0
+acm mobicom::3.0
+large amount::3.0
+indoor positioning::3.0
+true location::3.0
+multiple times::3.0
+uncontrolled environments::3.0
+ngerprint databases::3.0
+distance calculation::3.0
+nnsso oinnss::3.0
+conditional probability::3.0
+rst oor::3.0
+average distance::3.0
+aps detected::3.0
+active bat::3.0
+bayes rule::3.0
+localization system::3.0
+location ngerprint::3.0
+performance increase::3.0
+physical locations::3.0
+represents an observed rss::2.0
+found many aps connect::2.0
+collection stage are primarily::2.0
+methods based on probability::2.0
+ngerprint in signal space::2.0
+density than deterministic methods::2.0
+rssi samples in dbm::2.0
+falls within the range::2.0
+algorithms remains a key::2.0
+nnss nnsso oinnss improvement::2.0
+location i that maximizes::2.0
+implementation of localization systems::2.0
+propose four new variants::2.0
+location estimates were generated::2.0
+remains a key issue::2.0
+operate with the entire::2.0
+bayesian with rss distribution::2.0
+aps tend to drift::2.0
+parameters and the nature::2.0
+applied on each observation::2.0
+operates with an error::2.0
+variation of rssi samples::2.0
+nnsso method by approximately::2.0
+outperforming the nnsso method::2.0
+user is in state::2.0
+ngerprint with the smallest::2.0
+communications and networking conference::2.0
+method that combines nnssr::2.0
+knnssr and wknnssr begins::2.0
+accurate than the nth::2.0
+peak performance after two::2.0
+sample database to represent::2.0
+techniques for indoor localization::2.0
+version during the rst::2.0
+ability to produce comparative::2.0
+device will rst record::2.0
+median from our simulation::2.0
+addresses a key limitation::2.0
+vector can either positively::2.0
+neighbor with environment proling::2.0
+advantage over deterministic methods::2.0
+objectively compare both deterministic::2.0
+phd from curtin university::2.0
+argues for their removal::2.0
+smallest distance::2.0
+demonstrated very irregular rssi::2.0
+addressed effectively by incorporating::2.0
+calculation of all ngerprints::2.0
+users with value added::2.0
+wireless network interface cards::2.0
+location requiring four scans::2.0
+list similar to uwkola::2.0
+divided into a grid::2.0
+distance of all tested::2.0
+results show that localization::2.0
+numerous enhancements to existing::2.0
+dimension and more dramatically::2.0
+estimates produced by kola::2.0
+past research has tend::2.0
+sony vaio laptops wireless::2.0
+received signal strength indication::2.0
+greater efciency in terms::2.0
+uwkola but ignores repeated::2.0
+detected during the scanning::2.0
+essentially become the ngerprints::2.0
+environmental variables during busy::2.0
+compare their performance objectively::2.0
+averages all ve locations::2.0
+rst describe existing deterministic::2.0
+accuracy versus computational cost::2.0
+outperforms mode ltered version::2.0
+localization systems::2.0
+building robust ngerprint databases::2.0
+distance across all four::2.0
+status of each detected::2.0
+exceeded a given cut-off::2.0
+observed signal::2.0
+awaremedia and awarephone require::2.0
+comparative performance with fewer::2.0
+differentiated by the aps::2.0
+wireless sensor networks protocols::2.0
+key issue::2.0
+recorded at a rate::2.0
+tting a normal distribution::2.0
+algorithm picks k locations::2.0
+carry out the scans::2.0
+npdf is better suited::2.0
+clear that the nnss::2.0
+methods contain a single::2.0
+laptops wireless network interface::2.0
+calculate the nearest neighbor::2.0
+algorithms described in section::2.0
+perform well with reduced::2.0
+probabilistic and deterministic paradigms::2.0
+ngerprints over a constant::2.0
+denotes a known location::2.0
+producing one location estimate::2.0
+classes of localization methods::2.0
+deterministic algorithms error distance::2.0
+advantage over nearest neighbor::2.0
+bilistic and determinitic methods::2.0
+determination of a mobile::2.0
+aps in the data::2.0
+likelihood   corresponds::2.0
+standard deviation for standard::2.0
+calibration for rssi-based indoor::2.0
+create a location ngerprint::2.0
+stored in the ngerprint::2.0
+rst second of operation::2.0
+aps at this cut-off::2.0
+rst k unique locations::2.0
+generate ngerprints in sections::2.0
+averaged over a standard::2.0
+single vector which represents::2.0
+removed using a range::2.0
+data collection this stage::2.0
+mobile device using kola::2.0
+stored as a tuple::2.0
+pdf algorithm ; referred::2.0
+due to non-negligible multipath::2.0
+localization using the kola::2.0
+aps in ngerprint databases::2.0
+values the latter two::2.0
+averaging technique or kola::2.0
+location during an emergency::2.0
+proling nearest neighbor bayesian::2.0
+logged to a tab::2.0
+ngerprints are in signal::2.0
+basic algorithm::2.0
+disconnect during each scan::2.0
+bayesian the bayesian localization::2.0
+anatomy of context-aware application::2.0
+comparable to nnss variants::2.0
+perform poorly in environments::2.0
+located in nearby buildings::2.0
+i=1 from preliminary results::2.0
+active bat requires sensors::2.0
+accuracy represents an improvement::2.0
+signal strength indication ngerprinting::2.0
+discuss the normal pdf::2.0
+location with wireless lans::2.0
+position estimations::2.0
+interpretation of localization results::2.0
+weighted k-nearest neighbor bayesian::2.0
+experiences from real world::2.0
+enhancements to the radar::2.0
+periods in the library::2.0
+separated into two groups::2.0
+remove is the relative::2.0
+noticed that each ngerprint::2.0
+based on probability distributions::2.0
+quickly build the database::2.0
+determines k unique locations::2.0
+increase as the standard::2.0
+out on the rst::2.0
+combines the ndpf method::2.0
+performance peaked after two::2.0
+samples for each detected::2.0
+total number of positions::2.0
+algorithm number of aps::2.0
+rssi readings with large::2.0
+rate of four samples::2.0
+location sensing using wireless::2.0
+rss distribution model bayesian::2.0
+k-nearest neighbor bayesian bayesian::2.0
+conduct a comparative analysis::2.0
+statistical range of radio::2.0
+rights reserved::2.0
+entries in the list::2.0
+methodology we rst present::2.0
+rssi is available readily::2.0
+specic scan are rst::2.0
+manage both wireless network::2.0
+kola all performed identically::2.0
+theoretical modeling of signal::2.0
+proven to increase localization::2.0
+main interests included localization::2.0
+density of wlan access::2.0
+vectors from the 100,000::2.0
+neighbor bayesian bayesian nearest::2.0
+maintain a performance advantage::2.0
+vector and s denotes::2.0
+methods are better suited::2.0
+reect busy and slow::2.0
+performance of these methods::2.0
+ngerprinting technique::2.0
+denote algorithms that work::2.0
+nearest neighbor and neural::2.0
+distance in this dimension::2.0
+unique locations are found::2.0
+previous research::2.0
+distance is the median::2.0
+distributions to perform poorly::2.0
+provide a probability distribution::2.0
+introduced an orientation independent::2.0
+maximum value to form::2.0
+database at this point::2.0
+calculate the mean rss::2.0
+localization efciency and accuracy::2.0
+ngerprint databases this step::2.0
+stage are primarily separated::2.0
+technologies in a hospital::2.0
+calibration to quickly build::2.0
+repeated until it nds::2.0
+cell to the actual::2.0
+vectors with reduced dimension::2.0
+wlanapi function called wlanenuminterfaces::2.0
+increase in the number::2.0
+factored into the distance::2.0
+method with mode lter::2.0
+error distance is signicantly::2.0
+distance calculation now works::2.0
+probabilistic the probabilistic ngerprinting::2.0
+signicant amount::2.0
+mac addresses of aps::2.0
+space to another fig::2.0
+estimates physical positions independently::2.0
+study represents at worst::2.0
+comparable error distance performance::2.0
+presence in our ngerprint::2.0
+localization performance without requiring::2.0
+location averaging with npdf::2.0
+algorithm we implemented combines::2.0
+observation o from state::2.0
+algorithm in uncontrolled environments::2.0
+allocation problems in single::2.0
+required time correlated sampling::2.0
+signal strength tuple s1o::2.0
+reduced dimension ; e.g::2.0
+two problems that stem::2.0
+signicant amount of networking::2.0
+techniques provide a probability::2.0
+bat and active badge::2.0
+appeared towards the end::2.0
+testbed and experimental site::2.0
+results in previous studies::2.0
+effect of mode lter::2.0
+probabilistic methods for indoor::2.0
+contained within the rst::2.0
+includes a large amount::2.0
+classes of localization algorithms::2.0
+lecture notes in computer::2.0
+square root of ngerprint::2.0
+information about the statistical::2.0
+bayesian bayesian nearest neighbor::2.0
+clustering and probability distributions::2.0
+function because it represents::2.0
+set to the orientation::2.0
+position or their transmission::2.0
+rssi prole that incorporates::2.0
+motorola australia research center::2.0
+identify all available aps::2.0
+anchors in each ngerprint::2.0
+uwkola but considers orientation::2.0
+neighbor in signal space::2.0
+results in an average::2.0
+paradigm using a specic::2.0
+listed in ascending order::2.0
+tend to only compare::2.0
+obstruction between the host::2.0
+aps in the ngerprint::2.0
+802.11b access point signals::2.0
+processing the raw rssi::2.0
+context-aware applications that rely::2.0
+contribute towards the average::2.0
+dense and transient access::2.0
+honous thesis on indoor::2.0
+wired network::2.0
+localization system to function::2.0
+produce the most accurate::2.0
+produces a mean error::2.0
+mobile device using ieee::2.0
+calculate a position estimate::2.0
+estimate that a user::2.0
+nnss and nnssr produce::2.0
+robustness of the localization::2.0
+factored into the location::2.0
+oinnss improvement standard dimensions::2.0
+signicant advantage over nearest::2.0
+corresponds to the signal::2.0
+aps than nnss alternatives::2.0
+bayesian algorithm when operating::2.0
+lists their total area::2.0
+favor of combining proba::2.0
+nnsso a indicates existing::2.0
+kola represented as knnss::2.0
+networks and isdn systems::2.0
+produced by kola modications::2.0
+cell is then returned::2.0
+performance of bayesian methods::2.0
+estimate using k nearest::2.0
+algorithms for indoor environments::2.0
+multiple distinct environmental proles::2.0
+retrieve the basic service::2.0
+wireless lans::2.0
+access to a signicant::2.0
+large variation in magnitude::2.0
+key issues::2.0
+vectors chosen were randomly::2.0
+primary advantage of npdf::2.0
+probable ngerprint is factored::2.0
+fewer aps than nearest::2.0
+rssi values to exclude::2.0
+peak performance::2.0
+outlining how rssi values::2.0
+shows the error distance::2.0
+samples from a common::2.0
+proles that reect busy::2.0
+training time and cost::2.0
+knnss knnssr wknnss wknnssr::2.0
+visible and hence offer::2.0
+distribution of rssi values::2.0
+past research into rssif::2.0
+strength returns the location::2.0
+key features::2.0
+mode lter to restore::2.0
+small number of anchors::2.0
+acm transactions on information::2.0
+rst discuss the normal::2.0
+wireless communications and networking::2.0
+proposed mode ltering technique::2.0
+calculated over all aps::2.0
+radar also considered hosts::2.0
+distribution function::2.0
+scans representing the north::2.0
+collection stage::2.0
+leaving the more desirable::2.0
+criteria outlined in section::2.0
+importance of removing transient::2.0
+paper has evaluated two::2.0
+rssi sample standard deviation::2.0
+divides the area primarily::2.0
+erroneous aps are removed::2.0
+calculate position estimations based::2.0
+nature of the test-bed::2.0
+ensure k unique locations::2.0
+ngerprints is approximately equal::2.0
+indoor localization using deterministic::2.0
+estimate of the rssi::2.0
+appears multiple::2.0
+logger is a lite::2.0
+aps are not constantly::2.0
+algorithm to instead run::2.0
+location implies the mobile::2.0
+methods to further improve::2.0
+size and the number::2.0
+consistently produces more accurate::2.0
+device using ieee 802.11b::2.0
+range of rssif methods::2.0
+samples across the sample::2.0
+consisting mostly of book::2.0
+variation in their performance::2.0
+readings with large variation::2.0
+wlans on a common::2.0
+scan are rst tted::2.0
+number of locations fingerprint::2.0
+value for each combination::2.0
+location ngerprinting in wireless::2.0
+sufx r to denote::2.0
+pinpoint a persons location::2.0
+methods until a standard::2.0
+performance of the bayesian::2.0
+cut-off technique generated favorable::2.0
+results show that oinnss::2.0
+generate an error distance::2.0
+consists of the metric::2.0
+accuracy with additional samples::2.0
+undesirable aps::2.0
+performance of kola algorithms::2.0
+produces more accurate results::2.0
+consistency in rssi readings::2.0
+impact on their computation::2.0
+rst provide an overview::2.0
+developed a command-line based::2.0
+center as a senior::2.0
+arrangement of book shelves::2.0
+bayesian methods to deliver::2.0
+interference from other devices::2.0
+aps or reduced dimensions::2.0
+offer superior localization performance::2.0
+important as they render::2.0
+database into location metrics::2.0
+represent k unique locations::2.0
+rssi values in dbm::2.0
+deterministic algorithms::2.0
+estimates as the users::2.0
+uncontrolled environments where transient::2.0
+sorted nearest neighbor results::2.0
+gap between these two::2.0
+combining k-nearest neighbor methods::2.0
+implement the same general::2.0
+ignores any subsequent appearances::2.0
+methodology used to collect::2.0
+bayesian method with mode::2.0
+ngerprint density is calculated::2.0
+mode lter on bayesian::2.0
+indoor localization with ieee::2.0
+computation overheads and reliability::2.0
+position location with wireless::2.0
+showed that the bayesian::2.0
+combine kola and nnss::2.0
+normal probability distribution function::2.0
+bayesian bayesian with mode::2.0
+stronger function of location::2.0
+effectiveness of rssif techniques::2.0
+present in the observation::2.0
+generating the ngerprint database::2.0
+implies the mobile device::2.0
+study areas with desks::2.0
+entries alongside information related::2.0
+ngerprint with npdf producing::2.0
+modeling of signal space::2.0
+designed zero-conguration and wireless::2.0
+related to the total::2.0
+error distance of npdf::2.0
+out the rssi recordings::2.0
+means it inherently operates::2.0
+1:39 1:14 1:19 1:16::2.0
+probabilistic ngerprinting techniques presented::2.0
+large amount of variability::2.0
+rssi ngerprints::2.0
+comparable number of aps::2.0
+location determination via clustering::2.0
+logger is to determine::2.0
+removal from the ngerprint::2.0
+bayesian methods::2.0
+uctuations in estimation error::2.0
+nnss produces very accurate::2.0
+rely solely on software::2.0
+provide users with value::2.0
+user was in state::2.0
+primarily consists of small::2.0
+identies and provides solution::2.0
+contrast to prior works::2.0
+background in each section::2.0
+distance to a single::2.0
+offers signicant performance enhancement::2.0
+results we used matlab::2.0
+weighed k times higher::2.0
+improve with additional samples::2.0
+vector and the ngerprint::2.0
+k-nearest neighbor neural network::2.0
+fingerprint density fingerprint spacing::2.0
+selecting the maximum value::2.0
+estimation error distance due::2.0
+locations will be selected::2.0
+bayesian bayesian with rss::2.0
+recall that the reported::2.0
+version of the bayesian::2.0
+large number of aps::2.0
+observation vector is calculated::2.0
+based indoor positioning technology::2.0
+function call to wlanapi::2.0
+chosen for two reasons::2.0
+located on the rst::2.0
+techniques presented in hossain::2.0
+bayesian algorithm in uncontrolled::2.0
+improvements in section 2.2.2::2.0
+importance because we found::2.0
+probability an observation belongs::2.0
+range of rssi samples::2.0
+observed at each location::2.0
+locations from three aps::2.0
+rssi values are collected::2.0
+probability distributions to perform::2.0
+designers need to spend::2.0
+amount of time initially::2.0
+samples have been processed::2.0
+suggests that probabilistic methods::2.0
+cell of a oor::2.0
+missing during data collection::2.0
+areas and quiet study::2.0
+variants with reduced dimensions::2.0
+construction of the rssif::2.0
+methods that provide effective::2.0
+order from the closest::2.0
+contribute to the localization::2.0
+entire set of scans::2.0
+require existing wired networks::2.0
+expense of higher computational::2.0
+indoor environments::2.0
+set of scans represents::2.0
+sample database is logged::2.0
+operates at an error::2.0
+aps are not present::2.0
+map or ngerprint database::2.0
+four samples::2.0
+algorithm continues to increase::2.0
+strength tuple::2.0
+effective implementation of localization::2.0
+display reasonably good localization::2.0
+world deployment of context-aware::2.0
+rely on a higher::2.0
+results shown in table::2.0
+expected performance as compared::2.0
+build a robust rssi::2.0
+uncontrolled and varied conditions::2.0
+total area of approximately::2.0
+performance after this cut-off::2.0
+wknnssr begins to decrease::2.0
+samples in a specic::2.0
+uwkola ignores any subsequent::2.0
+discussion the standard deviation::2.0
+show that localization methods::2.0
+transactions on information systems::2.0
+end of the scan::2.0
+kola will rst iterate::2.0
+distance between the ngerprint::2.0
+location number ; i.e::2.0
+distance between the observation::2.0
+control over the building::2.0
+robust localization over large-scale::2.0
+program called wifi card::2.0
+iwkola wkola oinnssa nnsso::2.0
+localization methods that exploit::2.0
+npdf is its ability::2.0
+space to all four::2.0
+locations in this environment::2.0
+highlight that localization performance::2.0
+performance of kola variants::2.0
+test-beds used in previous::2.0
+ranges from an accuracy::2.0
+limited by the arrangement::2.0
+nearest neighbor variants highlight::2.0
+section 2.2.1 with bayes::2.0
+effect on the interpretation::2.0
+accuracy does not improve::2.0
+four orientations and selecting::2.0
+localization algorithms are operating::2.0
+applications developers to determine::2.0
+slow periods::2.0
+locations and represents area::2.0
+constant increase in performance::2.0
+evaluate their localization efciency::2.0
+increase with the kola::2.0
+offer a poor localization::2.0
+databases this step involves::2.0
+root of ngerprint density::2.0
+bayesian techniques that work::2.0
+rssif techniques for indoor::2.0
+affect the distance metric::2.0
+removed from the database::2.0
+consistently produces::2.0
+recordings and the uncontrolled::2.0
+networking information ; e.g::2.0
+virtual calibration for rssi-based::2.0
+two classes of localization::2.0
+standard deviation cut-off increases::2.0
+number of algorithmic methods::2.0
+rank of all tested::2.0
+applications may use active::2.0
+rssif systems::2.0
+ngerprint can be collected::2.0
+collection stage were undesirable::2.0
+tted to a normal::2.0
+present in the database::2.0
+requirements as they rely::2.0
+npdf to have comparable::2.0
+entry contains the recorded::2.0
+aps from both databases::2.0
+investigation described in section::2.0
+divided by the number::2.0
+stage in developing rssi::2.0
+orientations of a location::2.0
+fingerprint density is expected::2.0
+aps from the rssi::2.0
+2.2.2 bayesian the bayesian::2.0
+environments which have high::2.0
+network proles and wireless::2.0
+state s before observing::2.0
+observation samples are considered::2.0
+map of rssi ngerprints::2.0
+location that appears multiple::2.0
+euclidean distance is dened::2.0
+papers in various areas::2.0
+dbm of all in-range::2.0
+returns the closest ngerprint::2.0
+performance continues to increase::2.0
+show methods that average::2.0
+computer areas and quiet::2.0
+rss vector::2.0
+performing algorithm is knnssr::2.0
+curtin university of technology::2.0
+locations that appears multiple::2.0
+network and weighted k-nearest::2.0
+close match to multiple::2.0
+method does not work::2.0
+easily record all ngerprints::2.0
+technique or kola offers::2.0
+collect and sanitize rssi::2.0
+computer networks and isdn::2.0
+suggests that the environment::2.0
+corresponds to a total::2.0
+chapter experiences from real::2.0
+operating in uncontrolled environments::2.0
+unique aps were detected::2.0
+number of rssi samples::2.0
+distance in signal space::2.0
+ieee infocom::2.0
+strength characteristics::2.0
+identied by the guid::2.0
+independent performance of aps::2.0
+kwan-wu chin::2.0
+100,000 in our sample::2.0
+station density than deterministic::2.0
+distance in the vicinity::2.0
+large amount of information::2.0
+benets of combining k-nearest::2.0
+uwkola iwkola wkola oinnssa::2.0
+mobile hosts true location::2.0
+period of eight weeks::2.0
+prior works::2.0
+represented by a normal::2.0
+holds four us patents::2.0
+weight to a location::2.0
+ieee 802.11b access point::2.0
+samples taken per position::2.0
+stage were undesirable transients::2.0
+kola + npdfs performance::2.0
+consists of small ofce::2.0
+01ef6833130 is seen switching::2.0
+cut-off of one results::2.0
+ngerprint location or related::2.0
+aps across all individual::2.0
+takes twice as long::2.0
+mac address of aps::2.0
+refers to the scenario::2.0
+constant with the addition::2.0
+iterate through all ngerprints::2.0
+space is largely limited::2.0
+systems based on location::2.0
+performance but utilizes signicantly::2.0
+suffers from random uctuation::2.0
+strength characteristics of aps::2.0
+heavily dependent on practical::2.0
+negatively affect the distance::2.0
+highlighted a signicant advantage::2.0
+modied the bayesian algorithm::2.0
+compute a position estimate::2.0
+results thus far suggest::2.0
+reduced dimension algorithms maintain::2.0
+amount of information relating::2.0
+relating to the properties::2.0
+present in the ngerprint::2.0
+favorable results when tested::2.0
+vector across the four::2.0
+common set of aps::2.0
+ngerprint and observation vectors::2.0
+model bayesian nearest neighbor::2.0
+dimension of nearest neighbor::2.0
+addition of new samples::2.0
+kth order location averaging::2.0
+nics and their giud::2.0
+shortcoming of the bayesian::2.0
+combine kth location averaging::2.0
+referred to as npdf::2.0
+reduced dimension ngerprint set::2.0
+areas of wireless networks::2.0
+interests included localization algorithms::2.0
+accuracy of the system::2.0
+work well in environments::2.0
+zero-conguration and wireless sensor::2.0
+proceedings of the ieee::2.0
+providing universal location service::2.0
+technique generated favorable results::2.0
+variations in the rssi::2.0
+site layout differs greatly::2.0
+rst record a number::2.0
+function with data collected::2.0
+radar does not require::2.0
+database or observation vector::2.0
+location that is closest::2.0
+corresponds to the location::2.0
+orientations nnss uwkola iwkola::2.0
+rst used in bahl::2.0
+comparison between these two::2.0
+algorithm reaches its peak::2.0
+sensing using wireless ethernet::2.0
+aps have a rssi::2.0
+wireless e911 location network::2.0
+taking the average rssi::2.0
+picture of the signal::2.0
+magnitude of the observation::2.0
+deviation cut-off technique removes::2.0
+distance of the bayesian::2.0
+determine the globally unique::2.0
+interests include::2.0
+summary of deterministic algorithms::2.0
+environmental proles that reect::2.0
+primarily separated into two::2.0
+indoor positioning systems based::2.0
+corresponds to the physical::2.0
+in-building rf-based user location::2.0
+state s given observation::2.0
+methods for indoor localization::2.0
+fingerprint of a location::2.0
+works have not outlined::2.0
+suggests only the rst::2.0
+transient aps that drift::2.0
+nnss method with reduced::2.0
+calculating the euclidean distance::2.0
+factors in computing systems::2.0
+day and different days::2.0
+user identication and tracking::2.0
+mobile computing::2.0
+issues are particularly important::2.0
+designer builds a map::2.0
+np-hard problems and resource::2.0
+utilizes signicantly fewer aps::2.0
+important consideration::2.0
+area and the number::2.0
+environments with very low::2.0
+improvements can be made::2.0
+requiring sophisticated data collection::2.0
+due to the relative::2.0
+determine the best approach::2.0
+facilitate the data collection::2.0
+reported a continuous performance::2.0
+program using the native::2.0
+uctuation due to noise::2.0
+rst present our test-bed::2.0
+interests include designing approximation::2.0
+fewer aps or reduced::2.0
+switch in and out::2.0
+npdf highlighted a signicant::2.0
+number of aps precision::2.0
+ngerprint contain an average::2.0
+orientations of the host::2.0
+performance over the duration::2.0
+lists available at sciencedirect::2.0
+active bat and active::2.0
+network connection::2.0
+difcult for context-aware applications::2.0
+make a more accurate::2.0
+entire rssi sample database::2.0
+systems and software journal::2.0
+service using a wireless::2.0
+nearest neighbor in signal::2.0
+reduces the median distance::2.0
+rssi values in order::2.0
+spaced ngerprints is approximately::2.0
+normal pdf::2.0
+signals from base stations::2.0
+base station::2.0
+works with fewer aps::2.0
+increase in performance plateaus::2.0
+rely on outdoor systems::2.0
+bayesian with mode filter::2.0
+space with no internal::2.0
+aliasing and large uctuations::2.0
+location four and location::2.0
+probability for the previous::2.0
+address a key shortcoming::2.0
+accurate results::2.0
+device estimates its location::2.0
+strategy for the inclusion::2.0
+database with a standard::2.0
+general location averaging technique::2.0
+localization algorithm we implemented::2.0
+rfid to dimensioning voice::2.0
+aps present::2.0
+distinction for his honous::2.0
+comparative analysis with radar::2.0
+orientations for each physical::2.0
+infrastructure to support localization::2.0
+location system::2.0
+accuracy of different classes::2.0
+perform effectively with fewer::2.0
+set and the average::2.0
+highly variable rssi values::2.0
+lite version of wcm::2.0
+indoor localization brett dawes::2.0
+probable location is weighed::2.0
+found that the estimated::2.0
+context-aware application::2.0
+means no extra processing::2.0
+combines nnssr and kola::2.0
+methods to deliver increasingly::2.0
+normalizing constant and represents::2.0
+development of a number::2.0
+tested localization::2.0
+pervasive and mobile computing::2.0
+plateaus at a standard::2.0
+trafc within the library::2.0
+build a robust picture::2.0
+based on nearest neighbors::2.0
+hardware and rely solely::2.0
+duration of the scan::2.0
+conference and journal papers::2.0
+aps connect and disconnect::2.0
+ensure only a subset::2.0
+based on location ngerprinting::2.0
+out of range frequently::2.0
+distribution function is undened::2.0
+locations and four orientations::2.0
+features a shortest euclidean::2.0
+treating each orientation separately::2.0
+learning theory for location::2.0
+render localization methods ineffective::2.0
+pdf algorithm::2.0
+spend a signicant amount::2.0
+match to multiple orientations::2.0
+collects signal strength data::2.0
+pointer to a structure::2.0
+case on our testbed::2.0
+mode ltered algorithm continues::2.0
+basic algorithm outperforms mode::2.0
+collection this stage involves::2.0
+existing deterministic and probabilistic::2.0
+location of the adjacent::2.0
+combine kola or wkola::2.0
+signicant standard deviation gap::2.0
+test the algorithms described::2.0
+native wifi application programming::2.0
+algorithm provides a performance::2.0
+nnss uwkola iwkola wkola::2.0
+distance due to variations::2.0
+positively or negatively affect::2.0
+distance to k nearest::2.0
+takes the sorted nearest::2.0
+work well with reduced::2.0
+sample database into location::2.0
+incorporating a mode lter::2.0
+report on the impact::2.0
+large uctuations in estimation::2.0
+distance is signicantly higher::2.0
+combine kola::2.0
+includes data logging services::2.0
+described by different ngerprint::2.0
+reaches its peak performance::2.0
+pattern on the ceiling::2.0
+tuple in the form::2.0
+oor of the uow::2.0
+observing an rss vector::2.0
+row contains the mac::2.0
+data collection also required::2.0
+algorithmic methods that provide::2.0
+search results for fig::2.0
+scan is not desirable::2.0
+two to location four::2.0
+professor at the school::2.0
+increase with additional samples::2.0
+probability distributions::2.0
+nnss variants with reduced::2.0
+standard dimensions reduced dimensions::2.0
+orientation j the algorithm::2.0
+equal to the square::2.0
+locations fingerprint density fingerprint::2.0
+weight to each location::2.0
+theory for location ngerprinting::2.0
+consideration as it suggests::2.0
+data collected in uncontrolled::2.0
+chosen were randomly distributed::2.0
+advantage of using multiple::2.0
+stem from the popularity::2.0
+distance between its observed::2.0
+average performance of nnss::2.0
+lower standard deviation cut-off::2.0
+slow periods of human::2.0
+metric used by deterministic::2.0
+closer to the true::2.0
+single rssi observation vector::2.0
+recall that the euclidean::2.0
+research into rssif systems::2.0
+distance performance but utilizes::2.0
+related to their locations::2.0
+human factors in computing::2.0
+normal distribution before taking::2.0
+generated by the reduced::2.0
+indoor localization using multiple::2.0
+key features a shortest::2.0
+neighbor variants::2.0
+error distance of approximately::2.0
+vector is not present::2.0
+order to exclude transient::2.0
+magnitude over the scan::2.0
+enhancements to existing localization::2.0
+problem in our experimentation::2.0
+researchers had complete control::2.0
+ngerprint is a conditional::2.0
+bss entries alongside information::2.0
+found that its accuracy::2.0
+modication is called iteration::2.0
+achieved at the expense::2.0
+scans represents a total::2.0
+rssi system performance ranges::2.0
+locations with location four::2.0
+elsevier pervasive and mobile::2.0
+removal of erroneous aps::2.0
+naturally represent k unique::2.0
+method display reasonably good::2.0
+deviation cut-off than nnss::2.0
+combination with the kola::2.0
+inherently noisy and varies::2.0
+dependent on the test-bed::2.0
+neural network and weighted::2.0
+nnss with kola represented::2.0
+orientations and then taking::2.0
+build multiple distinct environmental::2.0
+present when an observation::2.0
+present in an individual::2.0
+success of the localization::2.0
+paper compares a range::2.0
+cut-off technique removes undesirable::2.0
+weighted k-nearest neighbor neural::2.0
+calculated as the total::2.0
+close in signal space::2.0
+mode ltering technique proved::2.0
+matching location or cell::2.0
+location most likely contained::2.0
+snr suffers from random::2.0
+made to carry out::2.0
+bss includes a large::2.0
+incorporates many different environmental::2.0
+key shortcoming with methods::2.0
+times of the day::2.0
+wifi card::2.0
+localization systems in uncontrolled::2.0
+data collection and localization::2.0
+provide effective indoor positioning::2.0
+aps may be detected::2.0
+performance enhancement in highly::2.0
+current interests include designing::2.0
+makes the following contributions::2.0
+due to the variation::2.0
+experimental site was located::2.0
+access points::2.0
+oinnss with an error::2.0
+min scan::2.0
+four orientations nnss uwkola::2.0
+extension reduces the median::2.0
+important consideration in selecting::2.0
+carry out::2.0
+ngerprint database is organized::2.0
+marginal probability of observing::2.0
+accurate position::2.0
+appears before k unique::2.0
+carry out the rssi::2.0
+performance given their simplicity::2.0
+limitation of these systems::2.0
+specic to each localization::2.0
+ability of bayesian methods::2.0
+common test-bed::2.0
+requiring four scans representing::2.0
+means all aps present::2.0
+faced by all localization::2.0
+networks to be augmented::2.0
+neighbor and neural network::2.0
+consists of a large::2.0
+euclidean distance in signal::2.0
+distance from the observation::2.0
+performance after two samples::2.0
+deviation cut-off of approximately::2.0
+independent infrastructure to support::2.0
+dimensions as it ignores::2.0
+modication whereby they calculate::2.0
+oor of the university::2.0
+kola offers signicant performance::2.0
+positions independently of orientation::2.0
+individual ngerprint::2.0
+readings of these aps::2.0
+collection it is based::2.0
+ndpf has an error::2.0
+shelves as well fig::2.0
+means the euclidean distance::2.0
+reduced dimension of nearest::2.0
+database is the removal::2.0
+represents the marginal probability::2.0
+ngerprint contains a large::2.0
+standard and reduced dimension::2.0
+technique removes undesirable aps::2.0
+probability distribution of rssi::2.0
+peaked after two samples::2.0
+ngerprints with the smallest::2.0
+rssi data::2.0
+bachelor of electrical engineering::2.0
+times in the sorted::2.0
+probabilistic methods offer superior::2.0
+likelihood that an observed::2.0
+mode ltered::2.0
+aps than nearest neighbor::2.0
+proles and wireless network::2.0
+rssi logger program makes::2.0
+research methodology we rst::2.0
+decrease in mean error::2.0
+terms of accuracy versus::2.0
+high density of wlan::2.0
+ofce rooms and corridors::2.0
+localized and could easily::2.0
+ignores ngerprints that represent::2.0
+two has the largest::2.0
+chin university of wollongong::2.0
+extracted from the raw::2.0
+readily from all wireless::2.0
+weighed three times higher::2.0
+effectively with fewer aps::2.0
+drawn from both probabilistic::2.0
+nearest neighbor search results::2.0
+space is considered open::2.0
+rssi samples to calculate::2.0
+part of the ngerprint::2.0
+localization using multiple wireless::2.0
+algorithm outperforms mode ltered::2.0
+suggests that this issue::2.0
+equally towards the average::2.0
+single and multi-hop wireless::2.0
+impact on the resulting::2.0
+determine one that maximizes::2.0
+information from all four::2.0
+combining proba bayesian bayesian::2.0
+cricket requires the installation::2.0
+environments with highly variable::2.0
+outlined an effective strategy::2.0
+rst stage in developing::2.0
+fewer aps means npdf::2.0
+active badge location system::2.0
+results also include multiple::2.0
+aps from the observation::2.0
+algorithms use a slightly::2.0
+implemented combines the ndpf::2.0
+variable signal strength characteristics::2.0
+lter on bayesian algorithm::2.0
+advantages in indoor environments::2.0
+database called the ngerprint::2.0
+impact and provide solutions::2.0
+kola achieved an improvement::2.0
+prevalence of wireless local::2.0
+technique proved very effective::2.0
+rapidly to a stable::2.0
+value for the estimation::2.0
+deviation cut-off technique generated::2.0
+function returns a pointer::2.0
+area networks rssi ngerprinting::2.0
+rssi ngerprinting::2.0
+algorithms maintain a performance::2.0
+mode lter in order::2.0
+overview of rssi ngerprinting::2.0
+detected on the interfaced::2.0
+red circles in fig::2.0
+meet the criteria outlined::2.0
+internal walls::2.0
+approach before surveying prior::2.0
+deployment of context-aware technologies::2.0
+averaging technique::2.0
+variants and the npdf::2.0
+performance increase with additional::2.0
+vaio laptops wireless network::2.0
+installation of new hardware::2.0
+variation within the samples::2.0
+means a mobile device::2.0
+include designing approximation algorithms::2.0
+possess a very large::2.0
+ngerprints for each location::2.0
+specic ap might perform::2.0
+scans were carried out::2.0
+ability to perform effectively::2.0
+card manager::2.0
+sophisticated data collection methods::2.0
+values to exclude transient::2.0
+i=1 for each observation::2.0
+amount of networking information::2.0
+journal of wireless information::2.0
+uctuated around the correct::2.0
+ibm journal research development::2.0
+large amount of variation::2.0
+test-bed and localization environment::2.0
+performance without requiring sophisticated::2.0
+observed rss vector falls::2.0
+increasingly accurate position estimations::2.0
+absence of any internal::2.0
+wlan user location estimation::2.0
+returned to the users::2.0
+high variability::2.0
+closest ngerprint in signal::2.0
+average all ve locations::2.0
+database would be lled::2.0
+closest in signal space::2.0
+form a new ngerprint::2.0
+maximum value::2.0
+method after only two::2.0
+location ngerprinting::2.0
+user observing an rss::2.0
+localization technique that exploits::2.0
+location similar to uwkola::2.0
+wifi application programming interface::2.0
+variants described in section::2.0
+times better than nnssr::2.0
+samples for that ngerprint::2.0
+layout of the rst::2.0
+neural network::2.0
+producing an error distance::2.0
+book shelves::2.0
+wkola adds a weight::2.0
+based indoor::2.0
+received a high distinction::2.0
+problems and resource allocation::2.0
+highly variable signal strength::2.0
+nnsso sums the distance::2.0
+report on the median::2.0
+list of bss entries::2.0
+oinnss is used ensure::2.0
+methods because they include::2.0
+investigation of npdf highlighted::2.0
+1:14 1:19 1:16 1:9::2.0
+achieved using a wlanapi::2.0
+mobile computing and communications::2.0
+variable aps and rssi::2.0
+fewer aps than nnss::2.0
+rst determines k unique::2.0
+switching in and out::2.0
+distribution to the sampled::2.0
+deterministic and probabilistic ngerprints::2.0
+covered by a single::2.0
+localization to provide users::2.0
+important step when generating::2.0
+requiring the least calculation::2.0
+positioning algorithms for indoor::2.0
+wireless lan based indoor::2.0
+aps may be missing::2.0
+deliver increasingly accurate position::2.0
+lower base station density::2.0
+additional samples::2.0
+npdf producing an error::2.0
+ngerprint database or observation::2.0
+tested with both deterministic::2.0
+involves processing the raw::2.0
+comparison of existing rssif::2.0
+dependent on practical implementation::2.0
+number of rssi readings::2.0
+cut-off than nnss variants::2.0
+location determination::2.0
+voice over ip calls::2.0
+international journal of wireless::2.0
+varies over time due::2.0
+distribution model bayesian nearest::2.0
+range of radio frequency::2.0
+kola may not produce::2.0
+brett dawes::2.0
+guid for the desired::2.0
+suggests that in contrast::2.0
+users body may form::2.0
+higher number of rssi::2.0
+gap in the literature::2.0
+features of the aforementioned::2.0
+aps used by deterministic::2.0
+observation vector is presented::2.0
+improvement standard dimensions reduced::2.0
+ngerprint and rssi sample::2.0
+relied upon as part::2.0
+deviation of its rssi::2.0
+aps with rssi values::2.0
+single ngerprint::2.0
+out of range constantly::2.0
+location two::2.0
+propose a novel method::2.0
+clear that previous research::2.0
+average distance between evenly::2.0
+modied the aforementioned bayesian::2.0
+probable ngerprint::2.0
+mechanism for natural user::2.0
+received in revised form::2.0
+periods when aps switched::2.0
+rst few location estimates::2.0
+unique physical::2.0
+dimension of rssi ngerprints::2.0
+algorithms to np-hard problems::2.0
+referred to as kola::2.0
+transient and erroneous aps::2.0
+2.2.1 with bayes rule::2.0
+reduced dimensions in combination::2.0
+approach to wlan user::2.0
+computing and communications review::2.0
+operates with a reduced::2.0
+localization test-bed ngerprint density::2.0
+anonymous reviewers for helping::2.0
+methods offer superior localization::2.0
+reducing the error distance::2.0
+distance between evenly spaced::2.0
+ngerprint is then removed::2.0
+performance to the method::2.0
+closest ngerprints::2.0
+nearest neighbor results shown::2.0
+calculated for each ngerprint::2.0
+probabilistic approach to wlan::2.0
+approximation algorithms to np-hard::2.0
+notes in computer science::2.0
+control of aps position::2.0
+described in section 2.2.1::2.0
+mobile device will pick::2.0
+location estimate::2.0
+environment proling nearest neighbor::2.0
+variation in the aps::2.0
+provided by different orientations::2.0
+produce an error distance::2.0
+performance increase of knnssr::2.0
+methods is heavily dependent::2.0
+number of aps utilized::2.0
+performance with fewer aps::2.0
+locations within the building::2.0
+results in the smallest::2.0
+area networks::2.0
+method with reduced dimensions::2.0
+distance in the region::2.0
+previous research has demonstrated::2.0
+areas used in prior::2.0
+modication is called weighted::2.0
+means if we combine::2.0
+graduated with a bachelor::2.0
+metric used to calculate::2.0
+presentation of this paper::2.0
+function call::2.0
+based on an open::2.0
+average spacing between ngerprints::2.0
+aps ; an average::2.0
+ngerprint database are calculated::2.0
+two to three locations::2.0
+number of pathways running::2.0
+represent the users rssi::2.0
+observation vector naturally represent::2.0
+exclude transient::2.0
+number of samples fig::2.0
+produces very accurate results::2.0
+introduction in the last::2.0
+based on n observations::2.0
+specic scan::2.0
+nnss method consistently produces::2.0
+badly in one ngerprint::2.0
+deterministic ngerprinting was rst::2.0
+physical space::2.0
+raw rssi sample database::2.0
+limitation with the bayesian::2.0
+based on a single::2.0
+display highly variable signal::2.0
+method implemented in radar::2.0
+design of indoor positioning::2.0
+slightly more complex metric::2.0
+problems such as aliasing::2.0
+primarily into rows running::2.0
+cut-off technique::2.0
+summarizes the key features::2.0
+method described in section::2.0
+aps from the database::2.0
+location in the online::2.0
+algorithms based on nearest::2.0
+systems in uncontrolled environments::2.0
+nearest neighbor with environment::2.0
+area primarily into rows::2.0
+badge require the installation::2.0
+environments with a lower::2.0
+performance with the exception::2.0
+closest ngerprint::2.0
+study area::2.0
+run for n iterations::2.0
+iwkola gives more weight::2.0
+wlan api::2.0
+list of n preliminary::2.0
+multiple instances of location::2.0
+modication therefore exploits information::2.0
+local area networks rssi::2.0
+signal space ; referred::2.0
+ngerprinting in wireless lans::2.0
+joined the motorola australia::2.0
+variants highlight that localization::2.0
+systems such as global::2.0
+accuracy with increasing samples::2.0
+days of the week::2.0
+simulated oinnss in combination::2.0
+aps have been included::2.0
+npdf to further boost::2.0
+minimum of three aps::2.0
+note that during localization::2.0
+portable device will rst::2.0
+undened for standard deviations::2.0
+signal to noise ratio::2.0
+probability of an user::2.0
+limitations to carry out::2.0
+estimate from k unique::2.0
+environments that display highly::2.0
+instances of location four::2.0
+algorithm has a lower::2.0
+number of ngerprint locations::2.0
+large open indoor space::2.0
+lan based indoor positioning::2.0
+means the localization algorithms::2.0
+represents an estimated average::2.0
+thesis on indoor localization::2.0
+uncontrolled environments with highly::2.0
+lower than expected performance::2.0
+address the aforementioned limitation::2.0
+order location averaging technique::2.0
+periods of human trafc::2.0
+desirable aps are included::2.0
+high variability in terms::2.0
+positions in the search::2.0
+nnsso oinnss improvement standard::2.0
+localization with ieee 802.15.4::2.0
+source program called wifi::2.0
+switched out of range::2.0
+enhancement in highly variable::2.0
+awarephone require existing wired::2.0
+ngerprints into the location::2.0
+program called wifi::1.58496250072
+advantages in reducing::1.58496250072
+boost its performance::1.58496250072
+iwkola and kola::1.58496250072
+alongside information related::1.58496250072
+nnssr variants operate::1.58496250072
+method with mode::1.58496250072
+rst axis consists::1.58496250072
+microsoft technical report::1.58496250072
+area networks rssi::1.58496250072
+test-bed ngerprint density::1.58496250072
+knpdf and wkpdf::1.58496250072
+incorporating a mode::1.58496250072
+stage are primarily::1.58496250072
+uwkola but ignores::1.58496250072
+authors of heaberlen::1.58496250072
+areas of wireless::1.58496250072
+aps switched out::1.58496250072
+proven to increase::1.58496250072
+terms of accuracy::1.58496250072
+dense and transient::1.58496250072
+outperforms mode ltered::1.58496250072
+popularity of wlans::1.58496250072
+accuracy with increasing::1.58496250072
+distance of approximately::1.58496250072
+localization algorithms remains::1.58496250072
+nearest neighbor results::1.58496250072
+means it inherently::1.58496250072
+probability an observation::1.58496250072
+space is largely::1.58496250072
+calculation now works::1.58496250072
+two observation samples::1.58496250072
+vaio laptops wireless::1.58496250072
+function with data::1.58496250072
+recorded rssi samples::1.58496250072
+number ; i.e::1.58496250072
+test the algorithms::1.58496250072
+means the euclidean::1.58496250072
+created by taking::1.58496250072
+standard dimensions reduced::1.58496250072
+reduced dimension method::1.58496250072
+provide effective indoor::1.58496250072
+wlangetbsslist function returns::1.58496250072
+needed because kola::1.58496250072
+conduct a comparative::1.58496250072
+missing during data::1.58496250072
+localization using deterministic::1.58496250072
+kola or wkola::1.58496250072
+result indicates oinnss::1.58496250072
+device will pick::1.58496250072
+presented for localization::1.58496250072
+removal of erroneous::1.58496250072
+means all aps::1.58496250072
+perspective on navigation::1.58496250072
+found each ngerprint::1.58496250072
+brett dawes graduated::1.58496250072
+worst the location::1.58496250072
+work in conjunction::1.58496250072
+signals from base::1.58496250072
+orr and abowd::1.58496250072
+identication and tracking::1.58496250072
+represents an estimated::1.58496250072
+multiple distinct environmental::1.58496250072
+rssi vectors chosen::1.58496250072
+badge location system::1.58496250072
+active badge require::1.58496250072
+single rssi observation::1.58496250072
+control of aps::1.58496250072
+single and multi-hop::1.58496250072
+collection this stage::1.58496250072
+evaluate their localization::1.58496250072
+technique removes undesirable::1.58496250072
+solely on software::1.58496250072
+location estimates generated::1.58496250072
+authors also proposed::1.58496250072
+cricket location system::1.58496250072
+ability to perform::1.58496250072
+researchers have considered::1.58496250072
+rssi sample standard::1.58496250072
+comparable error distance::1.58496250072
+closest in signal::1.58496250072
+process is repeated::1.58496250072
+aps that meet::1.58496250072
+investigation of npdf::1.58496250072
+networks rssi ngerprinting::1.58496250072
+orientation independent method::1.58496250072
+ignores repeated locations::1.58496250072
+represented as knnss::1.58496250072
+handle data collection::1.58496250072
+senior research engineer::1.58496250072
+considered hosts orientation::1.58496250072
+highly variable environments::1.58496250072
+knnsssr and wknnssr::1.58496250072
+aforementioned bayesian algorithm::1.58496250072
+offers signicant performance::1.58496250072
+cut-off technique generated::1.58496250072
+set of scans::1.58496250072
+review bayesian techniques::1.58496250072
+results in previous::1.58496250072
+requiring sophisticated data::1.58496250072
+transient access points::1.58496250072
+proposed a modication::1.58496250072
+existing wired networks::1.58496250072
+makes it difcult::1.58496250072
+28vs.85 % 29.aspx::1.58496250072
+database into location::1.58496250072
+method as uwkola::1.58496250072
+aps that drift::1.58496250072
+function is undened::1.58496250072
+pathways running eastwest::1.58496250072
+include multiple instances::1.58496250072
+shortcomings in environments::1.58496250072
+cases the installation::1.58496250072
+rssi system performance::1.58496250072
+obtained his phd::1.58496250072
+function called wlanenuminterfaces::1.58496250072
+improve localization performance::1.58496250072
+in-building rf-based user::1.58496250072
+overview of rssi::1.58496250072
+ieee 802.11b access::1.58496250072
+estimated average rss::1.58496250072
+developers to determine::1.58496250072
+show that oinnss::1.58496250072
+rss vector falls::1.58496250072
+proba bayesian bayesian::1.58496250072
+software journal homepage::1.58496250072
+provide acceptable performance::1.58496250072
+evaluate the benets::1.58496250072
+aps were detected::1.58496250072
+takes the sorted::1.58496250072
+form an obstruction::1.58496250072
+improve the presentation::1.58496250072
+collection and localization::1.58496250072
+aps are transients::1.58496250072
+includes data logging::1.58496250072
+represents at worst::1.58496250072
+information ; e.g::1.58496250072
+lower standard deviation::1.58496250072
+locations and four::1.58496250072
+operating in uncontrolled::1.58496250072
+nnss with wkola::1.58496250072
+localization brett dawes::1.58496250072
+denotes the probability::1.58496250072
+stage involves scanning::1.58496250072
+basic service set::1.58496250072
+results show methods::1.58496250072
+npdf also means::1.58496250072
+primarily into rows::1.58496250072
+nnss variants described::1.58496250072
+lter in order::1.58496250072
+effects their training::1.58496250072
+k-nearest neighbor methods::1.58496250072
+order to build::1.58496250072
+wlangetbsslist to retrieve::1.58496250072
+ngerprints used possess::1.58496250072
+maximizes localization performance::1.58496250072
+nnss uwkola iwkola::1.58496250072
+advantage of npdf::1.58496250072
+preliminary location estimates::1.58496250072
+kola and wkola::1.58496250072
+wireless information networks::1.58496250072
+propose a number::1.58496250072
+approach to employ::1.58496250072
+comparison of deterministic::1.58496250072
+reported error distance::1.58496250072
+methods that provide::1.58496250072
+suggests that probabilistic::1.58496250072
+augmented with bluetooth::1.58496250072
+values in order::1.58496250072
+bayesian with rss::1.58496250072
+performance of knnsssr::1.58496250072
+transients ; i.e::1.58496250072
+reducing the error::1.58496250072
+user location estimation::1.58496250072
+two samples suggests::1.58496250072
+database is logged::1.58496250072
+signicant standard deviation::1.58496250072
+based indoor positioning::1.58496250072
+collected in uncontrolled::1.58496250072
+communications and networking::1.58496250072
+beacons whereas awaremedia::1.58496250072
+show the benets::1.58496250072
+gsm indoor localization::1.58496250072
+algorithms error distance::1.58496250072
+exploit the ubiquity::1.58496250072
+represent k unique::1.58496250072
+sensing using wireless::1.58496250072
+facilitate the data::1.58496250072
+maintain a performance::1.58496250072
+installation of beacons::1.58496250072
+data logging services::1.58496250072
+step when generating::1.58496250072
+neighbor and neural::1.58496250072
+amount of information::1.58496250072
+produce this result::1.58496250072
+oinnss in combination::1.58496250072
+vector is presented::1.58496250072
+nnss outperforms oinnss::1.58496250072
+ngerprint with npdf::1.58496250072
+evenly spaced ngerprints::1.58496250072
+classes of localization::1.58496250072
+sorted nearest neighbor::1.58496250072
+advantage of requiring::1.58496250072
+list three times::1.58496250072
+basic nnss method::1.58496250072
+ieee wireless communications::1.58496250072
+support localization sensors::1.58496250072
+space ; referred::1.58496250072
+selecting the maximum::1.58496250072
+distribution of rssi::1.58496250072
+long to reach::1.58496250072
+zeros for periods::1.58496250072
+samples per observation::1.58496250072
+build multiple distinct::1.58496250072
+positioning systems based::1.58496250072
+environment proling nearest::1.58496250072
+means the localization::1.58496250072
+increase in accuracy::1.58496250072
+orientations nnss uwkola::1.58496250072
+rssi sample vectors::1.58496250072
+outlining how rssi::1.58496250072
+offer superior localization::1.58496250072
+cut-off technique removes::1.58496250072
+enhancements to existing::1.58496250072
+lter on bayesian::1.58496250072
+proles that reect::1.58496250072
+resulting algorithm picks::1.58496250072
+collects signal strength::1.58496250072
+positively or negatively::1.58496250072
+proved very effective::1.58496250072
+store the guid::1.58496250072
+location or ngerprint::1.58496250072
+circles in fig::1.58496250072
+mobile device averages::1.58496250072
+entire ngerprint database::1.58496250072
+theory and experimentation::1.58496250072
+location is selected::1.58496250072
+context-aware applications developers::1.58496250072
+obtain their location::1.58496250072
+yield its position::1.58496250072
+produce an estimate::1.58496250072
+pervasive and mobile::1.58496250072
+1:19 1:16 1:9::1.58496250072
+neighbor search results::1.58496250072
+weight to locations::1.58496250072
+npdf ; i.e::1.58496250072
+entire rssi sample::1.58496250072
+areas and quiet::1.58496250072
+sums the distance::1.58496250072
+large open indoor::1.58496250072
+number of pathways::1.58496250072
+quiet study areas::1.58496250072
+represents area covered::1.58496250072
+impact of dense::1.58496250072
+users location estimation::1.58496250072
+knnssr and wknnssr::1.58496250072
+test-bed in section::1.58496250072
+wlan user location::1.58496250072
+reduced dimension variants::1.58496250072
+mobile hosts true::1.58496250072
+organized as shown::1.58496250072
+physical location number::1.58496250072
+low ap density::1.58496250072
+compares the test-beds::1.58496250072
+range of radio::1.58496250072
+display highly variable::1.58496250072
+argue in favor::1.58496250072
+paper has evaluated::1.58496250072
+dimension ngerprint set::1.58496250072
+neighbor with environment::1.58496250072
+shortest euclidean distance::1.58496250072
+referring to fig::1.58496250072
+location ve weighed::1.58496250072
+variations in rssi::1.58496250072
+strength tuple s1o::1.58496250072
+distribution model bayesian::1.58496250072
+methods offer superior::1.58496250072
+rst few location::1.58496250072
+limit the ability::1.58496250072
+deterministic deterministic ngerprinting::1.58496250072
+min to collect::1.58496250072
+systems in uncontrolled::1.58496250072
+conclusion this paper::1.58496250072
+pick the location::1.58496250072
+zero-conguration and wireless::1.58496250072
+roboticsbased location sensing::1.58496250072
+step involves processing::1.58496250072
+distributions to perform::1.58496250072
+suffers from problems::1.58496250072
+rely on outdoor::1.58496250072
+databases this step::1.58496250072
+preferred over signal::1.58496250072
+access point signals::1.58496250072
+problems and resource::1.58496250072
+spectrum in order::1.58496250072
+argue the importance::1.58496250072
+research into rssif::1.58496250072
+multi-use in nature::1.58496250072
+effort was made::1.58496250072
+ngerprinting was rst::1.58496250072
+key disadvantage stems::1.58496250072
+network and weighted::1.58496250072
+cost but accuracy::1.58496250072
+four us patents::1.58496250072
+desirable aps intact::1.58496250072
+record all ngerprints::1.58496250072
+dimension algorithms maintain::1.58496250072
+spend a signicant::1.58496250072
+entries in table::1.58496250072
+producing an error::1.58496250072
+probabilistic techniques provide::1.58496250072
+four distinct orientations::1.58496250072
+system performance ranges::1.58496250072
+techniques that work::1.58496250072
+site was located::1.58496250072
+render localization methods::1.58496250072
+conjunction with npdf::1.58496250072
+processing the raw::1.58496250072
+tab delimited text::1.58496250072
+managed to yield::1.58496250072
+dimensions reduced dimensions::1.58496250072
+suffers from random::1.58496250072
+highlighted a signicant::1.58496250072
+order location averaging::1.58496250072
+deterministic localization algorithms::1.58496250072
+density than deterministic::1.58496250072
+awaremedia and awarephone::1.58496250072
+location ngerprinting technique::1.58496250072
+entries alongside information::1.58496250072
+methods to deliver::1.58496250072
+oinnss is unsuitable::1.58496250072
+received a high::1.58496250072
+deterministic algorithms error::1.58496250072
+noise and interference::1.58496250072
+strength indication ngerprinting::1.58496250072
+natural user identication::1.58496250072
+include designing approximation::1.58496250072
+four and two::1.58496250072
+values to exclude::1.58496250072
+techniques are displayed::1.58496250072
+approach to wlan::1.58496250072
+utilizes signicantly fewer::1.58496250072
+aps with rssi::1.58496250072
+begins to decrease::1.58496250072
+2.2.1 normal pdf::1.58496250072
+made to carry::1.58496250072
+database are calculated::1.58496250072
+researchers had complete::1.58496250072
+database is organized::1.58496250072
+estimates its location::1.58496250072
+k-nearest neighbor bayesian::1.58496250072
+propose an extension::1.58496250072
+aps are present::1.58496250072
+environments with highly::1.58496250072
+average rssi value::1.58496250072
+comparison of existing::1.58496250072
+taking the maximum::1.58496250072
+poor localization metric::1.58496250072
+aps than nearest::1.58496250072
+ngerprint ; e.g::1.58496250072
+journal of wireless::1.58496250072
+rely on localization::1.58496250072
+number of samples::1.58496250072
+transactions on information::1.58496250072
+rssi samples exceeded::1.58496250072
+indoor localization brett::1.58496250072
+proling nearest neighbor::1.58496250072
+designing approximation algorithms::1.58496250072
+average the distance::1.58496250072
+environments that display::1.58496250072
+rate of four::1.58496250072
+order to exclude::1.58496250072
+produces an average::1.58496250072
+open indoor space::1.58496250072
+benets of combining::1.58496250072
+achieved an improvement::1.58496250072
+represent different orientations::1.58496250072
+wireless network proles::1.58496250072
+noisy and varies::1.58496250072
+localization to provide::1.58496250072
+non-negligible multipath fading::1.58496250072
+pinpoint a persons::1.58496250072
+compute a position::1.58496250072
+means a mobile::1.58496250072
+nnssr with wkola::1.58496250072
+designed to manage::1.58496250072
+treating each orientation::1.58496250072
+received in revised::1.58496250072
+four new variants::1.58496250072
+test-bed and localization::1.58496250072
+east and west::1.58496250072
+builds a map::1.58496250072
+mode lter converges::1.58496250072
+oinnss with kola::1.58496250072
+school of electrical::1.58496250072
+effective and proven::1.58496250072
+ignores missing aps::1.58496250072
+work with vectors::1.58496250072
+issue is dependent::1.58496250072
+reduced dimension algorithms::1.58496250072
+wireless lan based::1.58496250072
+signal strength value::1.58496250072
+unlike the areas::1.58496250072
+median distance error::1.58496250072
+ndpf method described::1.58496250072
+display reasonably good::1.58496250072
+general location averaging::1.58496250072
+australia research center::1.58496250072
+experiences from real::1.58496250072
+performance with fewer::1.58496250072
+lled with zeros::1.58496250072
+uwkola will average::1.58496250072
+researchers have proposed::1.58496250072
+existing localization methods::1.58496250072
+observe this problem::1.58496250072
+created a demand::1.58496250072
+proposed numerous enhancements::1.58496250072
+periods of human::1.58496250072
+rssi is preferred::1.58496250072
+increase with additional::1.58496250072
+order to produce::1.58496250072
+bayesian localization algorithm::1.58496250072
+wlan access points::1.58496250072
+algorithms to np-hard::1.58496250072
+address its shortcomings::1.58496250072
+mobile device estimates::1.58496250072
+signal strength characteristics::1.58496250072
+lower than expected::1.58496250072
+combination with nnss::1.58496250072
+raw rssi values::1.58496250072
+joined the motorola::1.58496250072
+offer an advantage::1.58496250072
+range of rssi::1.58496250072
+address these issues::1.58496250072
+neighbor in signal::1.58496250072
+single nearest neighbors::1.58496250072
+yield an accuracy::1.58496250072
+reducing the number::1.58496250072
+address the aforementioned::1.58496250072
+lack of consistency::1.58496250072
+research has demonstrated::1.58496250072
+observed rss vector::1.58496250072
+show the effectiveness::1.58496250072
+distance in signal::1.58496250072
+irregular rssi readings::1.58496250072
+signal strength indication::1.58496250072
+continuous performance increase::1.58496250072
+variants that address::1.58496250072
+ubiquity of wlans::1.58496250072
+ngerprint is factored::1.58496250072
+location is weighed::1.58496250072
+base station density::1.58496250072
+collection also required::1.58496250072
+cut-off in order::1.58496250072
+higher computational requirements::1.58496250072
+indoor localization technique::1.58496250072
+environments with high::1.58496250072
+vector naturally represent::1.58496250072
+generation of smart::1.58496250072
+rssi observation vector::1.58496250072
+restore its accuracy::1.58496250072
+removes undesirable aps::1.58496250072
+neighbor bayesian bayesian::1.58496250072
+converging more rapidly::1.58496250072
+nearest neighbors contribute::1.58496250072
+device will rst::1.58496250072
+active bat requires::1.58496250072
+performance of bayesian::1.58496250072
+sanitize rssi data::1.58496250072
+making it difcult::1.58496250072
+requires the installation::1.58496250072
+showed using fig::1.58496250072
+standard deviation gap::1.58496250072
+effect of mode::1.58496250072
+undened for standard::1.58496250072
+mode ltering technique::1.58496250072
+suggests that approximately::1.58496250072
+location is set::1.58496250072
+locations fingerprint density::1.58496250072
+802.11b access point::1.58496250072
+logger program makes::1.58496250072
+ngerprints that represent::1.58496250072
+oinnssr with kola::1.58496250072
+case intel pro::1.58496250072
+terms of rssi::1.58496250072
+represent the users::1.58496250072
+location weighted equally::1.58496250072
+observing an rss::1.58496250072
+highly variable aps::1.58496250072
+location metrics specic::1.58496250072
+remove undesirable aps::1.58496250072
+body may form::1.58496250072
+fewer aps means::1.58496250072
+requiring four scans::1.58496250072
+calculate position estimations::1.58496250072
+offer greater efciency::1.58496250072
+estimated location uctuated::1.58496250072
+multiple wireless technologies::1.58496250072
+periods when aps::1.58496250072
+localization using multiple::1.58496250072
+aps means npdf::1.58496250072
+signal space perform::1.58496250072
+strategically positioned anchors::1.58496250072
+location estimate based::1.58496250072
+note that rssi::1.58496250072
+random uctuation due::1.58496250072
+design of indoor::1.58496250072
+combination of orientation::1.58496250072
+3945abg network connection::1.58496250072
+kola as koinnssr::1.58496250072
+independently of orientation::1.58496250072
+current interests include::1.58496250072
+presents our conclusions::1.58496250072
+ltering technique proved::1.58496250072
+properties and status::1.58496250072
+results when tested::1.58496250072
+k-nearest neighbor neural::1.58496250072
+number of entries::1.58496250072
+interest of table::1.58496250072
+accuracy with additional::1.58496250072
+rssi values represented::1.58496250072
+relative independent performance::1.58496250072
+robust indoor localization::1.58496250072
+increase the performance::1.58496250072
+consideration in selecting::1.58496250072
+result is comparable::1.58496250072
+journal research development::1.58496250072
+user at location::1.58496250072
+density of wlan::1.58496250072
+standard deviation cut-offs::1.58496250072
+technique that exploits::1.58496250072
+neighbor results shown::1.58496250072
+resource allocation problems::1.58496250072
+observation vector naturally::1.58496250072
+found aps tend::1.58496250072
+estimate from kola::1.58496250072
+signal to noise::1.58496250072
+radar user location::1.58496250072
+multiple rssi samples::1.58496250072
+estimation error distance::1.58496250072
+data collection process::1.58496250072
+shows it converging::1.58496250072
+ngerprints to determine::1.58496250072
+practical robust localization::1.58496250072
+shows further improvement::1.58496250072
+exploits information provided::1.58496250072
+increasingly accurate position::1.58496250072
+normal pdf algorithm::1.58496250072
+system designer builds::1.58496250072
+band in order::1.58496250072
+motorola australia research::1.58496250072
+reach this accuracy::1.58496250072
+wifi application programming::1.58496250072
+highly variable signal::1.58496250072
+indoor localization methods::1.58496250072
+removing transient aps::1.58496250072
+increase localization accuracy::1.58496250072
+npdf and nnssr::1.58496250072
+nearest neighbor bayesian::1.58496250072
+separated into two::1.58496250072
+impact and provide::1.58496250072
+uncontrolled library environment::1.58496250072
+spacing between ngerprints::1.58496250072
+aps on accuracy::1.58496250072
+four scans representing::1.58496250072
+combines the information::1.58496250072
+transient and erroneous::1.58496250072
+dimension of rssi::1.58496250072
+variable signal strength::1.58496250072
+difcult to judge::1.58496250072
+good localization performance::1.58496250072
+location or state::1.58496250072
+localization methods work::1.58496250072
+advantages in indoor::1.58496250072
+ngerprint and observation::1.58496250072
+prevalence of wireless::1.58496250072
+notes in computer::1.58496250072
+calculate a position::1.58496250072
+open source program::1.58496250072
+order to conduct::1.58496250072
+npdf method display::1.58496250072
+space is considered::1.58496250072
+performance without requiring::1.58496250072
+higher k value::1.58496250072
+selecting which aps::1.58496250072
+divided into deterministic::1.58496250072
+rf-based user location::1.58496250072
+ranging from rfid::1.58496250072
+aps than nnss::1.58496250072
+out the rssi::1.58496250072
+bmd034 @ uow.edu.au::1.58496250072
+universal location service::1.58496250072
+normal probability distribution::1.58496250072
+iteration weighted kola::1.58496250072
+order to identify::1.58496250072
+based on nearest::1.58496250072
+determine the likelihood::1.58496250072
+probability of observing::1.58496250072
+simple to implement::1.58496250072
+location than snr::1.58496250072
+position estimations based::1.58496250072
+address a key::1.58496250072
+average number present::1.58496250072
+localization test-bed ngerprint::1.58496250072
+contrast with variations::1.58496250072
+proposed a number::1.58496250072
+improvement standard dimensions::1.58496250072
+location with wireless::1.58496250072
+data collection paradigm::1.58496250072
+found methods based::1.58496250072
+meet the criteria::1.58496250072
+scans were carried::1.58496250072
+raw rssi data::1.58496250072
+enhancement in highly::1.58496250072
+methods that compute::1.58496250072
+fingerprint density fingerprint::1.58496250072
+returns the location::1.58496250072
+database or observation::1.58496250072
+algorithm then returns::1.58496250072
+wireless network connections::1.58496250072
+ignores any subsequent::1.58496250072
+increases the dimension::1.58496250072
+results also include::1.58496250072
+kola as knnssr::1.58496250072
+reduces the median::1.58496250072
+implementation of localization::1.58496250072
+laptops wireless network::1.58496250072
+designed an improvement::1.58496250072
+modied the aforementioned::1.58496250072
+reviewers for helping::1.58496250072
+distance between evenly::1.58496250072
+means no extra::1.58496250072
+bayesian nearest neighbor::1.58496250072
+smallest d value::1.58496250072
+times it appears::1.58496250072
+aps and rssi::1.58496250072
+initially to build::1.58496250072
+effectively by incorporating::1.58496250072
+proposed mode ltering::1.58496250072
+practical implementation parameters::1.58496250072
+bayesian with mode::1.58496250072
+localization with ieee::1.58496250072
+provide targeted advertisements::1.58496250072
+accurate position estimations::1.58496250072
+review a number::1.58496250072
+approach before surveying::1.58496250072
+bachelor of electrical::1.58496250072
+difcult for context-aware::1.58496250072
+orientation and position::1.58496250072
+ability of bayesian::1.58496250072
+generating ngerprint databases::1.58496250072
+present our testbed::1.58496250072
+instances of location::1.58496250072
+nearest location similar::1.58496250072
+implemented numerous version::1.58496250072
+testbed our testbed::1.58496250072
+ngerprinting in wireless::1.58496250072
+active badge location::1.58496250072
+exception of knnssior::1.58496250072
+limitations to carry::1.58496250072
+sampled rssi values::1.58496250072
+sorted list similar::1.58496250072
+exploits the prevalence::1.58496250072
+existing rssif systems::1.58496250072
+awarephone require existing::1.58496250072
+highest performing algorithm::1.58496250072
+highlight that localization::1.58496250072
+summarizes the key::1.58496250072
+improvements and modications::1.58496250072
+real world deployment::1.58496250072
+property of npdf::1.58496250072
+addresses this gap::1.58496250072
+discussion in section::1.58496250072
+developing rssi logger::1.58496250072
+small ofce rooms::1.58496250072
+function called wlangetbsslist::1.58496250072
+effectively with fewer::1.58496250072
+rssi and aps::1.58496250072
+study that addresses::1.58496250072
+algorithm key features::1.58496250072
+ngerprints are found::1.58496250072
+wkola in combination::1.58496250072
+oinnss and oinnssr::1.58496250072
+2.2.1 with bayes::1.58496250072
+recall that oinnss::1.58496250072
+set of state::1.58496250072
+methodology we rst::1.58496250072
+nnss is simple::1.58496250072
+takes the average::1.58496250072
+outline a shortcoming::1.58496250072
+acm mobile computing::1.58496250072
+sample standard deviation::1.58496250072
+command-line based program::1.58496250072
+signal strength returns::1.58496250072
+aps or reduced::1.58496250072
+list of bss::1.58496250072
+bayesian algorithm reaches::1.58496250072
+distinct physical locations::1.58496250072
+matlab to test::1.58496250072
+detected wifi network::1.58496250072
+authors of radar::1.58496250072
+modications are needed::1.58496250072
+environment and ngerprints::1.58496250072
+negates the advantage::1.58496250072
+site was chosen::1.58496250072
+produce comparative performance::1.58496250072
+total area divided::1.58496250072
+four and location::1.58496250072
+00dbd1fb4ac 01ef6833130 00d6572c38a::1.58496250072
+sciencedirect the journal::1.58496250072
+building being localized::1.58496250072
+robust rssi prole::1.58496250072
+demonstrated the effectiveness::1.58496250072
+npdfs performance increased::1.58496250072
+give our sincere::1.58496250072
+precision and accuracy::1.58496250072
+list multiple times::1.58496250072
+localization performance continues::1.58496250072
+standard deviation greater::1.58496250072
+location and tracking::1.58496250072
+method with reduced::1.58496250072
+ieee communications magazine::1.58496250072
+localization methods ineffective::1.58496250072
+rssi-based indoor localization::1.58496250072
+produces very accurate::1.58496250072
+required four samples::1.58496250072
+build the map::1.58496250072
+number of mobile::1.58496250072
+sony vaio laptops::1.58496250072
+nnss algorithm operates::1.58496250072
+selects the rst::1.58496250072
+number of ngerprint::1.58496250072
+offer a poor::1.58496250072
+developed three modications::1.58496250072
+effective indoor positioning::1.58496250072
+locations that appears::1.58496250072
+samples to calculate::1.58496250072
+multi-hop wireless networks::1.58496250072
+desks and chairs::1.58496250072
+api is designed::1.58496250072
+impact of aps::1.58496250072
+include more information::1.58496250072
+out the scans::1.58496250072
+aps also demonstrated::1.58496250072
+summary of deterministic::1.58496250072
+globally unique identier::1.58496250072
+kwan-wu chin university::1.58496250072
+rows running northsouth::1.58496250072
+area is multi-use::1.58496250072
+raw rssi sample::1.58496250072
+database to represent::1.58496250072
+based on probability::1.58496250072
+kwanwu @ uow.edu.au::1.58496250072
+require existing wired::1.58496250072
+clustering and probability::1.58496250072
+alternative algorithms averaged::1.58496250072
+judge and compare::1.58496250072
+theory for location::1.58496250072
+compared to results::1.58496250072
+stage in developing::1.58496250072
+propose a system::1.58496250072
+locations are computed::1.58496250072
+bayes rule denes::1.58496250072
+determines k unique::1.58496250072
+ordered list table::1.58496250072
+number of solutions::1.58496250072
+inclusion of aps::1.58496250072
+rssi logger program::1.58496250072
+building or oor::1.58496250072
+basic nearest neighbor::1.58496250072
+wlan location determination::1.58496250072
+conditional probability distribution::1.58496250072
+method consistently produces::1.58496250072
+standard deviation stored::1.58496250072
+samples to make::1.58496250072
+wkola with npdf::1.58496250072
+return the mode::1.58496250072
+orientations as opposed::1.58496250072
+modications to kola::1.58496250072
+nal axis corresponds::1.58496250072
+require specialized hardware::1.58496250072
+host and aps::1.58496250072
+thesis on indoor::1.58496250072
+wireless networks detected::1.58496250072
+order to address::1.58496250072
+number of locations::1.58496250072
+performance of nnss::1.58496250072
+wknpdf consistently produces::1.58496250072
+paired with npdf::1.58496250072
+select the ngerprints::1.58496250072
+uwkola iwkola wkola::1.58496250072
+system algorithm number::1.58496250072
+surveying prior works::1.58496250072
+yields a spacing::1.58496250072
+ngerprint that results::1.58496250072
+indoor position location::1.58496250072
+value to form::1.58496250072
+scans was performed::1.58496250072
+ibm journal research::1.58496250072
+four to location::1.58496250072
+value added services::1.58496250072
+study the impact::1.58496250072
+developed a program::1.58496250072
+aps to remove::1.58496250072
+nnss variants operate::1.58496250072
+produced by kola::1.58496250072
+location and orientation::1.58496250072
+wireless network interface::1.58496250072
+interests include designing::1.58496250072
+wkola as wknnssr::1.58496250072
+ngerprints are created::1.58496250072
+ngerprints to yield::1.58496250072
+outlined an effective::1.58496250072
+location i specically::1.58496250072
+location by calculating::1.58496250072
+combines the ndpf::1.58496250072
+helping us improve::1.58496250072
+calculated by tting::1.58496250072
+results show npdf::1.58496250072
+effective in reducing::1.58496250072
+kola may select::1.58496250072
+accuracy and precision::1.58496250072
+suggest that nnss::1.58496250072
+users rssi observations::1.58496250072
+statistical learning theory::1.58496250072
+evaluated two classes::1.58496250072
+shows the impact::1.58496250072
+added services::1.0
+increasing samples::1.0
+techniques provide::1.0
+utilizes signicantly::1.0
+dimension algorithms::1.0
+uwkola iwkola::1.0
+associate professor::1.0
+lower base::1.0
+total size::1.0
+dimension variants::1.0
+ngerprints independently::1.0
+indoors environments::1.0
+radar enhancements::1.0
+location network::1.0
+journal homepage::1.0
+ignores ngerprints::1.0
+wireless ethernet::1.0
+numerous version::1.0
+exploits information::1.0
+rssi observations::1.0
+chin university::1.0
+estimated location::1.0
+open source::1.0
+estimations based::1.0
+means npdf::1.0
+prior research::1.0
+values represented::1.0
+distance metric::1.0
+neighbors contribute::1.0
+multipath fading::1.0
+performance continues::1.0
+small ofce::1.0
+computer areas::1.0
+ieee 802.15.4::1.0
+article history::1.0
+knnssr wknnss::1.0
+environment proling::1.0
+sample recorded::1.0
+networking conference::1.0
+likelihood function::1.0
+ltered version::1.0
+noise ratio::1.0
+persons location::1.0
+axis consists::1.0
+location sensing::1.0
+ibm journal::1.0
+show methods::1.0
+signicant advantage::1.0
+deviation stored::1.0
+kndpf performance::1.0
+observation contribute::1.0
+locations fingerprint::1.0
+included localization::1.0
+inherently noisy::1.0
+koinnss koinnssr::1.0
+point signals::1.0
+numerous enhancements::1.0
+represents area::1.0
+indoor space::1.0
+tab delimited::1.0
+combines nnssr::1.0
+australia research::1.0
+radar user::1.0
+rssi prole::1.0
+surveying prior::1.0
+orientations nnss::1.0
+wkola oinnssa::1.0
+networks detected::1.0
+ieee wireless::1.0
+rf-based user::1.0
+nnss produces::1.0
+observation vectors::1.0
+list multiple::1.0
+main limitation::1.0
+nnsso sums::1.0
+considers orientation::1.0
+study represents::1.0
+user observing::1.0
+people move::1.0
+provide acceptable::1.0
+min scans::1.0
+location similar::1.0
+ngerprint locations::1.0
+research center::1.0
+combine kth::1.0
+robust picture::1.0
+estimation error::1.0
+ngerprint scan::1.0
+logger program::1.0
+sensor networks::1.0
+location service::1.0
+estimate based::1.0
+distinct orientations::1.0
+signicant effect::1.0
+open indoor::1.0
+devices operating::1.0
+knnssr algorithm::1.0
+range frequently::1.0
+npdfs performance::1.0
+expected performance::1.0
+wireless e911::1.0
+high density::1.0
+multiple rssi::1.0
+ofce rooms::1.0
+single rssi::1.0
+network proles::1.0
+natural user::1.0
+bat requires::1.0
+removes undesirable::1.0
+two issues::1.0
+localization metric::1.0
+perform poorly::1.0
+system algorithm::1.0
+two reasons::1.0
+program makes::1.0
+correct location::1.0
+average performance::1.0
+scans representing::1.0
+total aps::1.0
+inherently operates::1.0
+positioned anchors::1.0
+positions independently::1.0
+practical implementation::1.0
+variants highlight::1.0
+step involves::1.0
+aps means::1.0
+previous studies::1.0
+methods based::1.0
+computational cost::1.0
+strength indication::1.0
+top row::1.0
+generated favorable::1.0
+wknpdf consistently::1.0
+robust rssi::1.0
+source program::1.0
+location weighted::1.0
+rst tted::1.0
+nnss performs::1.0
+nal axis::1.0
+ieee communications::1.0
+randomly distributed::1.0
+50th percentile::1.0
+multi-hop wireless::1.0
+wireless nics::1.0
+higher computational::1.0
+describe existing::1.0
+neighbor methods::1.0
+provide targeted::1.0
+variable rssi::1.0
+human factors::1.0
+include designing::1.0
+electrical engineering::1.0
+lter converges::1.0
+reect busy::1.0
+systems based::1.0
+device estimates::1.0
+environmental proles::1.0
+ignores repeated::1.0
+computer science::1.0
+aps observed::1.0
+actual location::1.0
+user identication::1.0
+collection process::1.0
+highest performing::1.0
+prior probability::1.0
+uctuation due::1.0
+ordered list::1.0
+indication ngerprinting::1.0
+simulated oinnss::1.0
+investigation described::1.0
+sony vaio::1.0
+2.2.2 bayesian::1.0
+performing algorithm::1.0
+rssif database::1.0
+increase localization::1.0
+information related::1.0
+ltering technique::1.0
+two observation::1.0
+developing rssi::1.0
+close match::1.0
+kola variants::1.0
+hosts true::1.0
+accurate estimations::1.0
+key shortcoming::1.0
+npdf producing::1.0
+ignores missing::1.0
+scanning stage::1.0
+system designer::1.0
+observed rss::1.0
+large uctuations::1.0
+curtin university::1.0
+attained prasithsangaree::1.0
+largest distance::1.0
+bss includes::1.0
+evaluated two::1.0
+probabilistic techniques::1.0
+nnss uwkola::1.0
+bayesian techniques::1.0
+providing universal::1.0
+specialized hardware::1.0
+provide solutions::1.0
+desired nic::1.0
+mobile hosts::1.0
+method consistently::1.0
+estimated average::1.0
+sorted list::1.0
+iwkola averages::1.0
+1:16 1:9::1.0
+involves processing::1.0
+1:14 1:19::1.0
+wkola adds::1.0
+deliver increasingly::1.0
+deviation cut-offs::1.0
+similar ngerprint::1.0
+test-bed environment::1.0
+iwkola wkola::1.0
+bayesian nearest::1.0
+test-bed ngerprint::1.0
+search results::1.0
+required four::1.0
+rst describe::1.0
+perform badly::1.0
+implementation parameters::1.0
+quantitative comparison::1.0
+effective indoor::1.0
+computer networks::1.0
+maximizes estimate::1.0
+density fingerprint::1.0
+ngerprint s1::1.0
+correlated sampling::1.0
+online phase::1.0
+differs greatly::1.0
+spaced ngerprints::1.0
+adjacent cell::1.0
+location depending::1.0
+paper compares::1.0
+algorithm reaches::1.0
+anonymous reviewers::1.0
+multiple aps::1.0
+sorted nearest::1.0
+includes data::1.0
+primarily separated::1.0
+common set::1.0
+nearest location::1.0
+wifi network::1.0
+vaio laptops::1.0
+positioning systems::1.0
+randomly select::1.0
+specic orientation::1.0
+last decade::1.0
+probable ngerprints::1.0
+npdf algorithm::1.0
+front matter::1.0
+native wifi::1.0
+build multiple::1.0
+versus computational::1.0
+cricket requires::1.0
+algorithm continues::1.0
+issue faced::1.0
+entire set::1.0
+localization estimation::1.0
+uow library::1.0
+current interests::1.0
+pathways running::1.0
+red circles::1.0
+extra processing::1.0
+windows vista::1.0
+search space::1.0
+variable signal::1.0
+elsevier pervasive::1.0
+outdoor systems::1.0
+display highly::1.0
+existing localization::1.0
+superior localization::1.0
+wired networks::1.0
+lite version::1.0
+oinnss improvement::1.0
+network interface::1.0
+paper makes::1.0
+library environment::1.0
+journal research::1.0
+hospital environment::1.0
+western australia::1.0
+01ef6833130 00d6572c38a::1.0
+ltered algorithm::1.0
+algorithm picks::1.0
+include multiple::1.0
+algorithms error::1.0
+designed zero-conguration::1.0
+function returns::1.0
+transmission range::1.0
+chapter experiences::1.0
+ieee spectrum::1.0
+sample set::1.0
+offer greater::1.0
+kola modications::1.0
+signicantly fewer::1.0
+standard deviations::1.0
+signicant impact::1.0
+strength returns::1.0
+ofine phase::1.0
+iteration weighted::1.0
+collection methods::1.0
+aliasing refers::1.0
+algorithm outperforms::1.0
+communications magazine::1.0
+performance ranges::1.0
+experimental condition::1.0
+methods work::1.0
+propose four::1.0
+stage involves::1.0
+multiple orientations::1.0
+entire rssi::1.0
+users location::1.0
+distance due::1.0
+kola achieved::1.0
+deterministic techniques::1.0
+vector naturally::1.0
+data collected::1.0
+networks protocols::1.0
+carried out::1.0
+consistent performance::1.0
+wknnss wknnssr::1.0
+aps connect::1.0
+npdf performs::1.0
+existing algorithms::1.0
+acm conf::1.0
+show npdf::1.0
+neighbor search::1.0
+area primarily::1.0
+research development::1.0
+contents lists::1.0
+based program::1.0
+requiring sophisticated::1.0
+vector falls::1.0
+localization brett::1.0
+badge location::1.0
+relative independent::1.0
+in-range aps::1.0
+localization environment::1.0
+effective strategy::1.0
+practical robust::1.0
+important step::1.0
+provide users::1.0
+two phases::1.0
+offers signicant::1.0
+detected wifi::1.0
+easily record::1.0
+value added::1.0
+distance performance::1.0
+signicantly higher::1.0
+comparative performance::1.0
+list similar::1.0
+rst present::1.0
+missing aps::1.0
+sophisticated data::1.0
+algorithm number::1.0
+multiple wireless::1.0
+two alternatives::1.0
+result achieved::1.0
+np-hard problems::1.0
+experimental results::1.0
+four scans::1.0
+nnss nnsso::1.0
+nnssr produce::1.0
+constant environment::1.0
+west orientations::1.0
+order location::1.0
+users body::1.0
+probabilistic ngerprinting::1.0
+key disadvantage::1.0
+international journal::1.0
+calculate position::1.0
+experimental site::1.0
+approximation algorithms::1.0
+algorithms based::1.0
+system depends::1.0
+universal location::1.0
+strength data::1.0
+users rssi::1.0
+communications review::1.0
+performance enhancement::1.0
+substantial increase::1.0
+dimensions reduced::1.0
+lan based::1.0
+offer superior::1.0
+area divided::1.0
+ndpf method::1.0
+method described::1.0
+networked devices::1.0
+modal value::1.0
+intel pro::1.0
+random uctuation::1.0
+alternative algorithms::1.0
+outperforms mode::1.0
+rule denes::1.0
+implemented combines::1.0
+bss entries::1.0
+mac address::1.0
+higher number::1.0
+technique removes::1.0
+sample points::1.0
+probabilistic ngerprints::1.0
+radio frequency::1.0
+research methodology::1.0
+positioning algorithms::1.0
+logging services::1.0
+past research::1.0
+signicant standard::1.0
+independent performance::1.0
+marginal probability::1.0
+wireless technologies::1.0
+grid pattern::1.0
+laptops wireless::1.0
+neighbor neural::1.0
+resource allocation::1.0
+methods offer::1.0
+references bahl::1.0
+combining k-nearest::1.0
+localization ieee::1.0
+probabilistic approach::1.0
+00dbd1fb4ac 01ef6833130::1.0
+3945abg network::1.0
+require specialized::1.0
+allocation problems::1.0
+phd thesis::1.0
+basic nearest::1.0
+resulting calculation::1.0
+orientation information::1.0
+increasingly accurate::1.0
+application programming::1.0
+npdf method::1.0
+frequency band::1.0
+improvement standard::1.0
+oinnss method::1.0
+distinct environmental::1.0
+designer builds::1.0
+aforementioned limitation::1.0
+previous observation::1.0
+quickly build::1.0
+location estimates::1.0
+stable value::1.0
+layout differs::1.0
+robust ngerprint::1.0
+entries alongside::1.0
+closest match::1.0
+algorithms maintain::1.0
+frequently switch::1.0
+space measures::1.0
+wifi application::1.0
+algorithms averaged::1.0
+knpdf wknpdf::1.0
+acceptable performance::1.0
+aforementioned algorithms::1.0
+algorithm takes::1.0
+produce comparative::1.0
+samples fig::1.0
+compare algorithms::1.0
+performance increased::1.0
+dimension method::1.0
+complete control::1.0
+ieee icc::1.0
+position estimate::1.0
+aps tend::1.0
+journal papers::1.0
+human trafc::1.0
+results shown::1.0
+perform effectively::1.0
+requiring four::1.0
+rst stage::1.0
+revised form::1.0
+context-aware technologies::1.0
+unique identier::1.0
+standard dimensions::1.0
+ngerprinting techniques::1.0
+easily separated::1.0
+programming interface::1.0
+combining proba::1.0
+relative proximity::1.0
+quiet study::1.0
+model bayesian::1.0
+localization technique::1.0
+multiple instances::1.0
+accuracy versus::1.0
+building robust::1.0
+existing wired::1.0
+rst iterate::1.0
+wlangetbsslist function::1.0
+npdf performance::1.0
+key limitation::1.0
+smart oor::1.0
+acm mobile::1.0
+proposed mode::1.0
+probabilistic algorithms::1.0
+proling nearest::1.0
+four distinct::1.0
+proposed numerous::1.0
+scans represents::1.0
+in-building rf-based::1.0
+variants described::1.0
+evenly spaced::1.0
+requires sensors::1.0
+software documentation::1.0
+high distinction::1.0
+study areas::1.0
+direct access::1.0
+ieee mass::1.0
+data set::1.0
+unweighted kola::1.0
+awarephone require::1.0
+wireless sensor::1.0
+cut-off increases::1.0
+rows running::1.0
+two paradigms::1.0
+remains constant::1.0
+algorithm operates::1.0
+switched out::1.0
+constantly visible::1.0
+localization test-bed::1.0
+northelds ave::1.0
+user locations::1.0
+smart floor::1.0
+render localization::1.0
+snr suffers::1.0
+context-aware applications::1.0
+rst determines::1.0
+position location::1.0
+dimension ngerprint::1.0
+rssi observation::1.0
+portable device::1.0
+nth value::1.0
+network connections::1.0
+ieee infocom2000::1.0
+support localization::1.0
+remove undesirable::1.0
+list table::1.0
+previous work::1.0
+running northsouth::1.0
+variants operate::1.0
+address 01ef6833130::1.0
+case intel::1.0
+two classes::1.0
+ieee wcnc::1.0
+accuracy reduces::1.0
+large open::1.0
+require existing::1.0
+involves scanning::1.0
+uow-testbed radar::1.0
+fingerprint database::1.0
+inferior performance::1.0
+individual ngerprints::1.0
+neighbor results::1.0
+interfaced identied::1.0
+generating ngerprint::1.0
+telecommunications engineering::1.0
+802.11b access::1.0
+motorola australia::1.0
+ieee pimrc::1.0
+networks rssi::1.0
+learning theory::1.0
+weighted k-nearest::1.0
+rssi system::1.0
+fingerprint spacing::1.0
+wlan location::1.0
+aps argues::1.0
+rst modication::1.0
+negatively affect::1.0
+kola offers::1.0
+information relevant::1.0
+neighbor bayesian::1.0
+ngerprint location::1.0
+estimates produced::1.0
+nnss algorithm::1.0
+badge require::1.0
+scan period::1.0
+probable locations::1.0
+times higher::1.0
+two ngerprints::1.0
+deviation gap::1.0
+system designers::1.0
+fingerprint density::1.0
+handle data::1.0
+designing approximation::1.0
+average spacing::1.0
+e-mail addresses::1.0
+ieee mobicom::1.0
+specic test-bed::1.0
+limited::0.0
+desirable::0.0
+outlining::0.0
+noisy::0.0
+four::0.0
+consists::0.0
+localized::0.0
+flannery::0.0
+radar also considered::0.0
+presents::0.0
+matlab::0.0
+summarizes::0.0
+varshavsky::0.0
+rssif techniques::0.0
+cut-off of approximately::0.0
+affect::0.0
+differentiated::0.0
+obstruction::0.0
+solution::0.0
+vector::0.0
+estimates::0.0
+chen::0.0
+estimated::0.0
+euclidean::0.0
+normal probability::0.0
+designing::0.0
+poorly::0.0
+consisting::0.0
+obtained::0.0
+study::0.0
+kndpf::0.0
+objectively::0.0
+visible::0.0
+2.2.1::0.0
+2.2.2::0.0
+experimentation::0.0
+information networks::0.0
+hospital::0.0
+knnss knnssr::0.0
+robust localization::0.0
+intel pro 3945abg network::0.0
+ward::0.0
+range constantly::0.0
+giunta::0.0
+acm transactions::0.0
+haartsen::0.0
+rights::0.0
+work::0.0
+wlans::0.0
+rssi::0.0
+roos::0.0
+root::0.0
+distributions::0.0
+organized::0.0
+wlangetbsslist::0.0
+lan based indoor::0.0
+comparative::0.0
+point::0.0
+seattle::0.0
+methodology::0.0
+hou::0.0
+adjacent::0.0
+eastwest::0.0
+|si::0.0
+badly::0.0
+pro 3945abg network connection::0.0
+radar-enhanced::0.0
+effective::0.0
+figs::0.0
+maintain::0.0
+algorithms::0.0
+ethernet::0.0
+operate::0.0
+order::0.0
+interpretation::0.0
+k=1::0.0
+x-coord::0.0
+uow::0.0
+uwkola ignores::0.0
+test-beds::0.0
+fig::0.0
+variables during busy::0.0
+versus::0.0
+combination::0.0
+otsason::0.0
+school::0.0
+band::0.0
+considered hosts::0.0
+effects::0.0
+represents::0.0
+netherlands::0.0
+development::0.0
+version of wcm::0.0
+network interface cards::0.0
+joined::0.0
+combining::0.0
+two problems::0.0
+chosen for two::0.0
+engineer::0.0
+associate::0.0
+standard::0.0
+nth::0.0
+last::0.0
+sensors::0.0
+incorporates::0.0
+device using kola::0.0
+compare their performance::0.0
+created::0.0
+filter::0.0
+two to location::0.0
+addresses a key::0.0
+size::0.0
+features::0.0
+axis corresponds::0.0
+primary::0.0
+channels::0.0
+knnssior::0.0
+similarly::0.0
+top::0.0
+approximately::0.0
+needed::0.0
+zeros::0.0
+ceiling::0.0
+western::0.0
+positively::0.0
+showed::0.0
+normalizing::0.0
+awarephone::0.0
+matter::0.0
+kth::0.0
+s1o::0.0
+abowd::0.0
+scans::0.0
+solely::0.0
+enhancement::0.0
+case intel pro 3945abg::0.0
+boston::0.0
+spectrum::0.0
+contents::0.0
+strength::0.0
+main interests included::0.0
+pdf::0.0
+producing one location::0.0
+circles::0.0
+transactions::0.0
+metrics::0.0
+entry::0.0
+phase::0.0
+iterate::0.0
+contrast to prior::0.0
+observation::0.0
+naturally represent::0.0
+points::0.0
+manage both wireless::0.0
+random::0.0
+attempts::0.0
+radio::0.0
+solutions::0.0
+keywords::0.0
+orleans::0.0
+proximity::0.0
+busy::0.0
+implementation::0.0
+01ef6833130::0.0
+kola will rst::0.0
+indication::0.0
+localizing::0.0
+preferred::0.0
+report::0.0
+bat::0.0
+increasing::0.0
+method display::0.0
+architecture::0.0
+northelds::0.0
+erroneous::0.0
+human::0.0
+denes::0.0
+depends::0.0
+result::0.0
+wlanapi::0.0
+techniques::0.0
+february::0.0
+lecture notes::0.0
+drawn::0.0
+previous::0.0
+research engineer::0.0
+huang::0.0
+modeling::0.0
+giud::0.0
+awaremedia::0.0
+received::0.0
+irregular::0.0
+reported::0.0
+rst describe existing::0.0
+expense::0.0
+suggest::0.0
+vaio::0.0
+represented::0.0
+802.11b::0.0
+guid::0.0
+problems in single::0.0
+conference::0.0
+villani::0.0
+poorly in environments::0.0
+differs::0.0
+interest::0.0
+expected::0.0
+pro::0.0
+algorithm in uncontrolled::0.0
+soegaard::0.0
+locations are found::0.0
+amount of networking::0.0
+applied::0.0
+exception::0.0
+east::0.0
+large number::0.0
+conf::0.0
+perform::0.0
+wlanenuminterfaces::0.0
+make::0.0
+ofce::0.0
+varies::0.0
+complex::0.0
+signicant performance enhancement::0.0
+base stations::0.0
+independent::0.0
+provide effective::0.0
+nic::0.0
+published::0.0
+differing::0.0
+hand::0.0
+phd from curtin::0.0
+two groups::0.0
+preliminary location::0.0
+paradigm::0.0
+kaemarungsi::0.0
+proposed::0.0
+dened::0.0
+identify::0.0
+site layout differs::0.0
+designers::0.0
+tting a normal::0.0
+doi:10.1016 active bat::0.0
+hightower::0.0
+paradigms::0.0
+specic::0.0
+background::0.0
+judge::0.0
+bhagwat::0.0
+modication::0.0
+performing::0.0
+root of ngerprint::0.0
+accuracy::0.0
+signal::0.0
+people::0.0
+00d6572c38a::0.0
+weighted equally::0.0
+chaudhuri::0.0
+dense::0.0
+joeressen::0.0
+icc::0.0
+i=1 from preliminary::0.0
+ubiquity::0.0
+square root::0.0
+algorithmic::0.0
+k.-w::0.0
+graduated::0.0
+independent infrastructure::0.0
+comparable error::0.0
+difcult::0.0
+transmission::0.0
+slightly::0.0
+accuracy versus computational::0.0
+percentile::0.0
+two::0.0
+ngerprints::0.0
+support::0.0
+truncated::0.0
+dawes::0.0
+roboticsbased::0.0
+averaging with npdf::0.0
+form::0.0
+offer::0.0
+wireless::0.0
+experimentations::0.0
+removed::0.0
+devices::0.0
+estimates generated::0.0
+simulations::0.0
+physical::0.0
+floor::0.0
+comparable to nnss::0.0
+uwkola::0.0
+number of anchors::0.0
+test::0.0
+developers::0.0
+picture::0.0
+www.elsevier.com::0.0
+four orientations nnss::0.0
+sample vectors::0.0
+rooms and corridors::0.0
+28vs.85::0.0
+complex metric::0.0
+stronger function::0.0
+device averages::0.0
+model bayesian nearest::0.0
+mode filter::0.0
+managed::0.0
+reviewers::0.0
+global::0.0
+alternatives::0.0
+manager::0.0
+computation::0.0
+spaced::0.0
+technique::0.0
+environment::0.0
+finally::0.0
+site layout::0.0
+orientations::0.0
+anonymous::0.0
+entries::0.0
+presented::0.0
+science::0.0
+received signal strength::0.0
+honous thesis::0.0
+cost::0.0
+bayesian bayesian nearest::0.0
+adds::0.0
+performed identically::0.0
+current::0.0
+switch::0.0
+ensure k unique::0.0
+badge::0.0
+found many aps::0.0
+map or ngerprint::0.0
+honous::0.0
+shankar::0.0
+groups::0.0
+appears::0.0
+delimited::0.0
+vectors with reduced::0.0
+vectors::0.0
+ineffective::0.0
+falcao::0.0
+studies::0.0
+wang::0.0
+aps are removed::0.0
+give::0.0
+properties::0.0
+k-nearest::0.0
+opposed::0.0
+selects::0.0
+theoretical::0.0
+chapter::0.0
+acceptable::0.0
+limitation::0.0
+oor::0.0
+cases::0.0
+effort::0.0
+ibm::0.0
+barcelona::0.0
+rudys::0.0
+values::0.0
+making::0.0
+nearest::0.0
+localization results::0.0
+sample::0.0
+chin::0.0
+performance advantage::0.0
+ngerprint and rssi::0.0
+requirements::0.0
+divided::0.0
+magazine::0.0
+reect::0.0
+ensure::0.0
+map::0.0
+designer::0.0
+applications::0.0
+mac::0.0
+snr::0.0
+designed::0.0
+j.e::0.0
+data::0.0
+natural::0.0
+approximation::0.0
+rssi vectors::0.0
+provide::0.0
+persons::0.0
+vectors chosen::0.0
+sciencedirect::0.0
+aforementioned::0.0
+bekris::0.0
+displayed::0.0
+argues::0.0
+honours::0.0
+multipath::0.0
+pointer::0.0
+depending::0.0
+accepted::0.0
+interpretation of localization::0.0
+presence::0.0
+vicinity::0.0
+coordinates::0.0
+area of approximately::0.0
+offers::0.0
+main::0.0
+determinitic::0.0
+non-negligible::0.0
+location implies::0.0
+wcnc::0.0
+total number::0.0
+vector which represents::0.0
+identically::0.0
+sorted::0.0
+uncontrolled::0.0
+possess::0.0
+29.aspx::0.0
+square::0.0
+wlanapi function::0.0
+revised::0.0
+shown::0.0
+aps switched::0.0
+space::0.0
+interference::0.0
+increase::0.0
+contained::0.0
+investigation::0.0
+sensor networks protocols::0.0
+papers::0.0
+samples in dbm::0.0
+sensor::0.0
+algorithms are operating::0.0
+shows::0.0
+theory::0.0
+rely::0.0
+overheads::0.0
+recordings::0.0
+rows::0.0
+advantages::0.0
+bayes::0.0
+build the database::0.0
+card::0.0
+training::0.0
+northsouth::0.0
+programming::0.0
+undesirable::0.0
+efciency::0.0
+barsocchi::0.0
+range of rssif::0.0
+constantly::0.0
+wlan::0.0
+variable environments::0.0
+variables::0.0
+carry::0.0
+network interface card::0.0
+open::0.0
+necessarily::0.0
+mobicom::0.0
+consistent::0.0
+benets::0.0
+returns::0.0
+continuous::0.0
+representing::0.0
+o|s::0.0
+nnss and nnssr::0.0
+require::0.0
+cards::0.0
+rssif methods::0.0
+record a number::0.0
+locations::0.0
+00dbd1fb12e::0.0
+allen::0.0
+unsuitable::0.0
+infocom::0.0
+lter to restore::0.0
+converges::0.0
+note::0.0
+tirri::0.0
+online::0.0
+performance::0.0
+wcm::0.0
+switching::0.0
+multiple::0.0
+normal::0.0
+removes::0.0
+falls::0.0
+render::0.0
+deployment of context-aware::0.0
+saha::0.0
+considered::0.0
+average::0.0
+anchors::0.0
+senior::0.0
+recorded rssi::0.0
+tuple s1o::0.0
+improvements in section::0.0
+amount of variation::0.0
+slow::0.0
+ratio::0.0
+bussgang::0.0
+true::0.0
+implemented::0.0
+objectively compare::0.0
+applications developers::0.0
+hooper::0.0
+conjunction::0.0
+builds::0.0
+median::0.0
+yield::0.0
+summary::0.0
+j=1::0.0
+vision::0.0
+thesis::0.0
+calculating the euclidean::0.0
+algorithm ; referred::0.0
+kwan-wu::0.0
+relative::0.0
+ignores::0.0
+collects::0.0
+bilistic::0.0
+ieee::0.0
+characteristics of aps::0.0
+enumerates::0.0
+review::0.0
+wireless communications::0.0
+importance::0.0
+determine the globally::0.0
+method by approximately::0.0
+corridors::0.0
+infrastructure::0.0
+environments where transient::0.0
+analyzes::0.0
+uncontrolled and varied::0.0
+location uctuated::0.0
+hosts orientation::0.0
+algorithm is knnssr::0.0
+knpdf::0.0
+installation::0.0
+1:39::0.0
+rst provide::0.0
+vista::0.0
+region::0.0
+generating the ngerprint::0.0
+quiet::0.0
+orientation independent::0.0
+nearby::0.0
+overview::0.0
+algorithms described::0.0
+ltering::0.0
+period::0.0
+deviation of rssi::0.0
+rss distribution model::0.0
+number of algorithmic::0.0
+learning::0.0
+article::0.0
+combines::0.0
+nnsso method::0.0
+computing::0.0
+absence::0.0
+location or related::0.0
+readings::0.0
+observe::0.0
+proven::0.0
+bayesian::0.0
+weeks::0.0
+protocols::0.0
+criteria outlined::0.0
+developing::0.0
+values are collected::0.0
+targeted advertisements::0.0
+nnssr variants::0.0
+outlined in section::0.0
+taking::0.0
+methods that average::0.0
+technique or kola::0.0
+orientation::0.0
+prevalence::0.0
+characteristics::0.0
+sincere::0.0
+estimates were generated::0.0
+property::0.0
+author::0.0
+aliasing::0.0
+mode ltered version::0.0
+lite::0.0
+closest::0.0
+efciency and accuracy::0.0
+allocation::0.0
+wired::0.0
+tracking::0.0
+largely::0.0
+sophisticated data collection::0.0
+relied::0.0
+density is expected::0.0
+dimension::0.0
+researchers::0.0
+increase of knnssr::0.0
+outdoor::0.0
+dimensions in combination::0.0
+fingerprint::0.0
+rest::0.0
+calculate the nearest::0.0
+nnsso::0.0
+chakraborty::0.0
+improvement::0.0
+produces more accurate::0.0
+real::0.0
+ladd::0.0
+orr::0.0
+sums::0.0
+in-range::0.0
+dawes graduated::0.0
+included localization algorithms::0.0
+senior research::0.0
+world::0.0
+calculate::0.0
+intel::0.0
+non-negligible multipath::0.0
+single vector::0.0
+exploit::0.0
+ngerprinting techniques presented::0.0
+large variation::0.0
+accuracy represents::0.0
+conditional::0.0
+presentation::0.0
+calculated::0.0
+service::0.0
+performance of aps::0.0
+duration::0.0
+intact::0.0
+provided::0.0
+dimensions::0.0
+recorded::0.0
+considers::0.0
+voice::0.0
+critical::0.0
+indoor positioning technology::0.0
+dresden::0.0
+constant increase::0.0
+highly::0.0
+notably::0.0
+padmanabhan::0.0
+bardram1::0.0
+refers::0.0
+i=1::0.0
+comparison::0.0
+priyantha::0.0
+stations::0.0
+wkola oinnssa nnsso::0.0
+cut-offs::0.0
+practical::0.0
+greatly::0.0
+west::0.0
+kola all performed::0.0
+weighed three times::0.0
+inclusion::0.0
+beacons::0.0
+ndpf::0.0
+prole that incorporates::0.0
+references::0.0
+determine::0.0
+lastly::0.0
+area::0.0
+removing::0.0
+philadelphia::0.0
+sampling::0.0
+deterministic paradigms::0.0
+low::0.0
+complete::0.0
+importance of removing::0.0
+deviation for standard::0.0
+suffers::0.0
+multi-hop::0.0
+october::0.0
+favor of combining::0.0
+describe existing deterministic::0.0
+tel-aviv::0.0
+homepage::0.0
+substantially::0.0
+processed::0.0
+networks and isdn::0.0
+hossain::0.0
+variation in magnitude::0.0
+overheads and reliability::0.0
+drift::0.0
+important::0.0
+peak::0.0
+suited::0.0
+included::0.0
+alongside information::0.0
+network::0.0
+building::0.0
+laptops::0.0
+users with value::0.0
+kth location averaging::0.0
+performance objectively::0.0
+calls::0.0
+approximately equal::0.0
+wifi::0.0
+krishnamurthy::0.0
+outperforming the nnsso::0.0
+bss entries alongside::0.0
+analysis with radar::0.0
+represent::0.0
+maximum::0.0
+lack::0.0
+unweighted::0.0
+location number::0.0
+oinnss::0.0
+research::0.0
+number of positions::0.0
+uow.edu.au::0.0
+referring::0.0
+localization efciency::0.0
+oinss::0.0
+wcnc03::0.0
+switched::0.0
+density is calculated::0.0
+program::0.0
+spain::0.0
+irregular rssi::0.0
+returned::0.0
+song::0.0
+ofine::0.0
+effectiveness of rssif::0.0
+worst::0.0
+sony::0.0
+treating::0.0
+impact::0.0
+building robust ngerprint::0.0
+list::0.0
+large::0.0
+uow-testbed::0.0
+interface cards::0.0
+small::0.0
+correct::0.0
+portable::0.0
+past::0.0
+running eastwest::0.0
+rate::0.0
+perspective::0.0
+marginal::0.0
+calibration for rssi-based::0.0
+section::0.0
+entire ngerprint::0.0
+ngerprint takes::0.0
+dimensioning voice::0.0
+row::0.0
+contrast::0.0
+ranges::0.0
+scan are rst::0.0
+r.j::0.0
+i.e::0.0
+infocom2000::0.0
+ascending::0.0
+observing::0.0
+remains a key::0.0
+algorithms that work::0.0
+discussion the standard::0.0
+information relating::0.0
+prior::0.0
+amount::0.0
+pick::0.0
+metrics specic::0.0
+requiring::0.0
+e911 location network::0.0
+indoors::0.0
+iwkola wkola oinnssa::0.0
+estimate::0.0
+select::0.0
+readily::0.0
+reaches its peak::0.0
+takes::0.0
+doi:10.1016 active bat requires::0.0
+test-bed::0.0
+rssi-based::0.0
+israel::0.0
+preliminary results::0.0
+ngerprint set::0.0
+relevant::0.0
+positioning technology::0.0
+tested::0.0
+located in nearby::0.0
+logging::0.0
+weighed::0.0
+1:19::0.0
+recall::0.0
+primarily consists::0.0
+1:16::0.0
+1:14::0.0
+oinnssa nnsso::0.0
+compare both deterministic::0.0
+specialized::0.0
+history::0.0
+scan::0.0
+modications::0.0
+distance is signicantly::0.0
+minimum::0.0
+exclude::0.0
+native wifi application::0.0
+university of technology::0.0
+axis::0.0
+information::0.0
+advantage::0.0
+t.r::0.0
+prasithsangaree::0.0
+simplicity::0.0
+transient access::0.0
+brett::0.0
+lan::0.0
+combining k-nearest neighbor::0.0
+delimited text::0.0
+documentation::0.0
+802.15.4::0.0
+ranging::0.0
+3945abg::0.0
+september::0.0
+developed::0.0
+works with fewer::0.0
+radar::0.0
+paper::0.0
+rapidly::0.0
+koinnssr::0.0
+oinnss improvement standard::0.0
+calibration to quickly::0.0
+detected::0.0
+systems::0.0
+version::0.0
+good::0.0
+return::0.0
+returns the closest::0.0
+efciency in terms::0.0
+walls::0.0
+rank::0.0
+aps utilized::0.0
+interests::0.0
+easily::0.0
+robust indoor::0.0
+lter::0.0
+found::0.0
+dimension of nearest::0.0
+referred::0.0
+week::0.0
+weight::0.0
+generation::0.0
+positioned::0.0
+modied::0.0
+connect::0.0
+interface card::0.0
+operation::0.0
+denote::0.0
+denotes::0.0
+bilistic and determinitic::0.0
+holds four::0.0
+issue::0.0
+basic service::0.0
+ngerprints in sections::0.0
+rfid::0.0
+localization::0.0
+advantage over deterministic::0.0
+base::0.0
+mobile::0.0
+stems::0.0
+approach::0.0
+generate::0.0
+unique::0.0
+e.g::0.0
+computers::0.0
+running::0.0
+determinitic methods::0.0
+kung::0.0
+consequence::0.0
+shows the error::0.0
+hardware and rely::0.0
+space perform::0.0
+utilizes::0.0
+probability::0.0
+bayesian localization::0.0
+samples are considered::0.0
+instances::0.0
+utilized::0.0
+estimates physical positions::0.0
+ngerprints is approximately::0.0
+subsequent appearances::0.0
+kola::0.0
+introduction::0.0
+expense of higher::0.0
+shelves::0.0
+belongs::0.0
+station::0.0
+retrieve the basic::0.0
+show::0.0
+orientation separately::0.0
+store::0.0
+observations::0.0
+function of location::0.0
+probabilistic and deterministic::0.0
+parl::0.0
+developed a command-line::0.0
+assumption::0.0
+part::0.0
+authors::0.0
+smallest euclidean::0.0
+determines::0.0
+performance plateaus::0.0
+performance peaked::0.0
+error distance due::0.0
+location metrics::0.0
+methods that exploit::0.0
+basic algorithm outperforms::0.0
+alongside::0.0
+methods is heavily::0.0
+initially::0.0
+randomly::0.0
+substantial::0.0
+elsevier::0.0
+uctuations in estimation::0.0
+lists their total::0.0
+microsoft technical::0.0
+lim::0.0
+show that localization::0.0
+extracted::0.0
+koinnss::0.0
+internal::0.0
+build::0.0
+npdf::0.0
+marceau::0.0
+tting::0.0
+added::0.0
+0164-1212::0.0
+specically::0.0
+measures::0.0
+reach::0.0
+compare::0.0
+ltered algorithm continues::0.0
+services::0.0
+probabilistic::0.0
+peaked::0.0
+deviations::0.0
+lower standard::0.0
+windows::0.0
+clear::0.0
+popularity::0.0
+continuous performance::0.0
+uwkola but considers::0.0
+favorable::0.0
+standard and reduced::0.0
+neural::0.0
+hopper::0.0
+gsm indoor::0.0
+networks::0.0
+cell::0.0
+parameters::0.0
+distributed::0.0
+algorithm we implemented::0.0
+received signal::0.0
+nnssr and kola::0.0
+sanitize::0.0
+resulting algorithm::0.0
+begins::0.0
+distance::0.0
+connections::0.0
+methods::0.0
+listed::0.0
+nnsso oinnss improvement::0.0
+end::0.0
+removing transient::0.0
+rst axis::0.0
+remove::0.0
+investigate::0.0
+common::0.0
+naghshineh::0.0
+np-hard::0.0
+brunato::0.0
+set::0.0
+lamarca::0.0
+achieved::0.0
+iteration::0.0
+plateaus::0.0
+individual::0.0
+advantage over nearest::0.0
+close::0.0
+methods for indoor::0.0
+presented in hossain::0.0
+pisa::0.0
+case::0.0
+classes::0.0
+represents an observed::0.0
+superior localization performance::0.0
+call::0.0
+conditions::0.0
+missing::0.0
+samples exceeded::0.0
+outperforms oinnss::0.0
+interface::0.0
+electrical::0.0
+interfaced::0.0
+aps intact::0.0
+1:39 1:14 1:19::0.0
+connection::0.0
+highly variable rssi::0.0
+kth order location::0.0
+inouye::0.0
+indoor positioning systems::0.0
+includes a large::0.0
+large-scale::0.0
+reasons::0.0
+address::0.0
+corresponds::0.0
+key::0.0
+consideration::0.0
+physical positions independently::0.0
+kola offers signicant::0.0
+described::0.0
+enhancements::0.0
+computing systems::0.0
+create::0.0
+universal::0.0
+due::0.0
+strategy::0.0
+collected::0.0
+variants with reduced::0.0
+generating::0.0
+combine kth location::0.0
+unique aps::0.0
+gap::0.0
+gao::0.0
+networked::0.0
+determination::0.0
+demand::0.0
+bmd034::0.0
+sko::0.0
+propose::0.0
+outperforms::0.0
+estimations::0.0
+evaluated::0.0
+techniques for indoor::0.0
+nnss alternatives::0.0
+error::0.0
+variabilities::0.0
+computed::0.0
+selected::0.0
+pro 3945abg::0.0
+portugal::0.0
+1:9::0.0
+averaging::0.0
+matching location::0.0
+italy::0.0
+fading::0.0
+myllymaki::0.0
+g.d::0.0
+shortest euclidean::0.0
+proved::0.0
+deliver increasingly accurate::0.0
+higher::0.0
+signicantly::0.0
+literature::0.0
+map of rssi::0.0
+desks::0.0
+ubicomp::0.0
+user::0.0
+robust::0.0
+implemented numerous::0.0
+lower::0.0
+information systems::0.0
+database::0.0
+navigation::0.0
+analysis::0.0
+picks::0.0
+number present::0.0
+number::0.0
+involves::0.0
+shortcoming::0.0
+consistency::0.0
+grid::0.0
+gsm::0.0
+spend::0.0
+exploits::0.0
+rst k unique::0.0
+knnss knnssr wknnss::0.0
+readings with large::0.0
+alternative::0.0
+addresses::0.0
+cut::0.0
+conclusions::0.0
+scenario::0.0
+extra::0.0
+advertisements::0.0
+signals::0.0
+source::0.0
+location::0.0
+wknnssr begins::0.0
+australia::0.0
+march::0.0
+emergency::0.0
+evaluate::0.0
+bahl::0.0
+effectiveness::0.0
+interests included::0.0
+interestingly::0.0
+aliasing and large::0.0
+separately::0.0
+collect::0.0
+yields::0.0
+reduces::0.0
+identication::0.0
+variation of rssi::0.0
+algorithm when operating::0.0
+ngerprint takes the average::0.0
+doi:10.1016::0.0
+research has tend::0.0
+undened::0.0
+separated::0.0
+trafc::0.0
+s1o::0.0
+wollongong::0.0
+lara::0.0
+representing the north::0.0
+data logging::0.0
+probabilistic methods offer::0.0
+run::0.0
+sanghi::0.0
+processing::0.0
+stem::0.0
+step::0.0
+steggles::0.0
+improve with additional::0.0
+relating::0.0
+bss::0.0
+gibbons::0.0
+effectively::0.0
+deterministic localization::0.0
+modication therefore exploits::0.0
+variability in terms::0.0
+reduced::0.0
+range::0.0
+modal::0.0
+transients::0.0
+germany::0.0
+single ngerprint takes::0.0
+zero-conguration::0.0
+kth order::0.0
+computational::0.0
+divides the area::0.0
+kola algorithms::0.0
+primarily::0.0
+algorithmic methods::0.0
+bardraml::0.0
+clustering::0.0
+performance as compared::0.0
+chosen were randomly::0.0
+long::0.0
+ordered::0.0
+subsequent::0.0
+sections::0.0
+section 2.2.2::0.0
+criteria::0.0
+single nearest::0.0
+sampled::0.0
+zeroconguration::0.0
+real world::0.0
+active::0.0
+youssef::0.0
+implies the mobile::0.0
+effective implementation::0.0
+paired::0.0
+chessa::0.0
+highlight::0.0
+uctuation::0.0
+similar::0.0
+constant and represents::0.0
+constant::0.0
+generated favorable results::0.0
+wireless e911 location::0.0
+globally::0.0
+single::0.0
+surveying::0.0
+wkpdf::0.0
+metric::0.0
+kth location::0.0
+collects signal::0.0
+nics::0.0
+nal::0.0
+matching::0.0
+ngerprint::0.0
+application::0.0
+dimensioning::0.0
+rss distribution::0.0
+users::0.0
+calculating::0.0
+problems::0.0
+helping::0.0
+distance is dened::0.0
+generated::0.0
+ngerprinting::0.0
+roboticsbased location::0.0
+structure::0.0
+independently::0.0
+correlated::0.0
+implies::0.0
+algorithm::0.0
+addressed effectively::0.0
+required::0.0
+greater efciency::0.0
+maximizes localization::0.0
+lans::0.0
+international::0.0
+requires::0.0
+november::0.0
+evenly::0.0
+techniques presented::0.0
+curtin::0.0
+nearby buildings::0.0
+results::0.0
+existing::0.0
+shortcomings::0.0
+contributions::0.0
+issues::0.0
+outperforming::0.0
+terms::0.0
+deterministic::0.0
+varied conditions::0.0
+hosts true location::0.0
+kola + npdfs::0.0
+npdfs::0.0
+stable::0.0
+signal strength data::0.0
+include::0.0
+dramatically::0.0
+dependent on practical::0.0
+ascending order::0.0
+pro 3945abg network::0.0
+continues::0.0
+algorithm outperforms mode::0.0
+proba::0.0
+tend to drift::0.0
+entire::0.0
+positions::0.0
+fewer::0.0
+slightly more complex::0.0
+limitations::0.0
+performance after two::0.0
+sampled rssi::0.0
+proling::0.0
+good localization::0.0
+collect and sanitize::0.0
+henceforth::0.0
+consistently::0.0
+sourceforge::0.0
+technology::0.0
+lenzi::0.0
+body::0.0
+advantageously::0.0
+oinnssr::0.0
+negates::0.0
+50th::0.0
+spacing::0.0
+oinnssa::0.0
+desired::0.0
+bachelor::0.0
+design::0.0
+connect and disconnect::0.0
+uctuations::0.0
+kola and nnss::0.0
+technical::0.0
+larger::0.0
+disadvantage::0.0
+results for fig::0.0
+leaving::0.0
+suggests::0.0
+software journal::0.0
+resulting::0.0
+implement::0.0
+makes::0.0
+interests included localization::0.0
+patents::0.0
+global positioning::0.0
+knnssr::0.0
+represents a total::0.0
+context-aware::0.0
+manage::0.0
+addressed::0.0
+api::0.0
+decrease::0.0
+observed signal strength::0.0
+information provided::0.0
+npdf highlighted::0.0
+usa::0.0
+based on location::0.0
+due to non-negligible::0.0
+average number::0.0
+address of aps::0.0
+process::0.0
+communications::0.0
+stage::0.0
+main interests::0.0
+existing deterministic::0.0
+methods ineffective::0.0
+00dbd1fb4ac::0.0
+transient::0.0
+iii::0.0
+balakrishnan::0.0
+generate an error::0.0
+haeberlen::0.0
+misikangas::0.0
+reducing::0.0
+averaged::0.0
+e911::0.0
+strategically::0.0
+returns a pointer::0.0
+localization sensors::0.0
+meet::0.0
+averages::0.0
+performed::0.0
+control::0.0
+generate ngerprints::0.0
+reduced dimension ngerprint::0.0
+reserved::0.0
+tab::0.0
+chosen::0.0
+calculation::0.0
+melillo::0.0
+high::0.0
+professor::0.0
+acm::0.0
+features a shortest::0.0
+proles and wireless::0.0
+knnssr wknnss wknnssr::0.0
+networking information::0.0
+varied::0.0
+estimates physical::0.0
+holds::0.0
+ieee 802.11b::0.0
+located::0.0
+combining proba bayesian::0.0
+native::0.0
+location requiring four::0.0
+buildings::0.0
+samples::0.0
+wkola::0.0
+wknnss::0.0
+wknpdf::0.0
+stage were undesirable::0.0
+match to multiple::0.0
+performance but utilizes::0.0
+mac addresses::0.0
+engineering::0.0
+wireless information::0.0
+direct::0.0
+bayesian the bayesian::0.0
+lled::0.0
+discussion::0.0
+battiti::0.0
+general location::0.0
+environmental variables::0.0
+poor::0.0
+produces::0.0
+localization accuracy::0.0
+meter::0.0
+produced::0.0
+station density::0.0
+layout::0.0
+favorable results::0.0
+raw::0.0
+superior::0.0
+considered open::0.0
+targeted::0.0
+distribution model::0.0
+variable aps::0.0
+ability to produce::0.0
+total::0.0
+greater::0.0
+o|si::0.0
+front::0.0
+day::0.0
+introduced an orientation::0.0
+search::0.0
+wireless sensor networks::0.0
+present our test-bed::0.0
+university::0.0
+rfid to dimensioning::0.0
+divides::0.0
+magnitude::0.0
+mode::0.0
+subset::0.0
+related::0.0
+bluetooth::0.0
+frequency::0.0
+exceeded::0.0
+iwkola::0.0
+out::0.0
+maximizes::0.0
+acknowledgment::0.0
+command-line::0.0
+required time correlated::0.0
+layout differs greatly::0.0
+performs::0.0
+knnss::0.0
+lecture::0.0
+red::0.0
+deterministic deterministic::0.0
+o.j::0.0
+wlan user::0.0
+collection paradigm::0.0
+factored::0.0
+networking::0.0
+likelihood::0.0
+shortest::0.0
+|fj::0.0
+conference and journal::0.0
+days::0.0
+aps::0.0
+due to noise::0.0
+lower base station::0.0
+times::0.0
+robust ngerprint databases::0.0
+produce::0.0
+locations with location::0.0
+facilitate::0.0
+south::0.0
+scanning::0.0
+reaches::0.0
+s3o::0.0
+improvements::0.0
+median distance::0.0
+table::0.0
+simulated::0.0
+system::0.0
+1:14 1:19 1:16::0.0
+pervasive::0.0
+modied the bayesian::0.0
+tuple::0.0
+soh::0.0
+lists::0.0
+picks k locations::0.0
+environmental::0.0
+neighbor neural network::0.0
+rst::0.0
+july::0.0
+review bayesian::0.0
+rss::0.0
+observed::0.0
+quantitative::0.0
+amount of variability::0.0
+error distance performance::0.0
+negatively::0.0
+providing::0.0
+anatomy::0.0
+delay::0.0
+mechanism for natural::0.0
+dimension ; e.g::0.0
+algorithms remains::0.0
+variable::0.0
+found methods::0.0
+min::0.0
+mechanism::0.0
+distance of npdf::0.0
+incorporating::0.0
+repeated locations::0.0
+mogensen1::0.0
+call to wlanapi::0.0
+deviation greater::0.0
+location that appears::0.0
+preliminary::0.0
+device::0.0
+demonstrated very irregular::0.0
+sophisticated::0.0
+service set::0.0
+probable::0.0
+multiple distinct::0.0
+rst record::0.0
+stronger::0.0
+listed in ascending::0.0
+databases::0.0
+infrastructure to support::0.0
+globally unique::0.0
+fact::0.0
+rely solely::0.0
+extension reduces::0.0
+dbm::0.0
+agrawala::0.0
+section 2.2.1::0.0
+text::0.0
+indoor::0.0
+employ::0.0
+technologies::0.0
+decade::0.0
+technique generated favorable::0.0
+resource::0.0
+taking the average::0.0
+based::0.0
+probabilistic ngerprinting techniques::0.0
+smallest::0.0
+providing universal location::0.0
+notes::0.0
+attained::0.0
+iterations::0.0
+comparative analysis::0.0
+local::0.0
+inferior::0.0
+proceedings::0.0
+move::0.0
+handle::0.0
+positioning::0.0
+means::0.0
+isdn systems::0.0
+versus computational cost::0.0
+independent method::0.0
+arrangement::0.0
+words::0.0
+produce an error::0.0
+orientations and selecting::0.0
+consistency in rssi::0.0
+areas::0.0
+s|o::0.0
+average rssi::0.0
+improve localization::0.0
+numerous::0.0
+cricket location::0.0
+comprising::0.0
+rf-based::0.0
+device using ieee::0.0
+nearest neighbor search::0.0
+experiences::0.0
+conduct::0.0
+remains::0.0
+rst discuss::0.0
+robustness::0.0
+y-coord::0.0
+method::0.0
+in-building::0.0
+operates::0.0
+computer::0.0
+virtual calibration::0.0
+closer::0.0
+phases::0.0
+provide an overview::0.0
+e911 location::0.0
+pattern::0.0
+peaked after two::0.0
+nature::0.0
+factors in computing::0.0
+strength value::0.0
+tend::0.0
+favor::0.0
+state::0.0
+luo::0.0
+variability::0.0
+comparable::0.0
+ability::0.0
+neighbor variants highlight::0.0
+distinct::0.0
+deliver::0.0
+a.u::0.0
+knnsssr::0.0
+implemented in radar::0.0
+technical report::0.0
+range of standard::0.0
+nnss::0.0
+equal::0.0
+display::0.0
+jin::0.0
+estimation::0.0
+wallach::0.0
+removal::0.0
+environments::0.0
+world deployment::0.0
+denote algorithms::0.0
+reported a continuous::0.0
+respect::0.0
+appeared::0.0
+prole::0.0
+april::0.0
+disadvantage stems::0.0
+addition::0.0
+aforementioned bayesian::0.0
+sample standard::0.0
+poor localization::0.0
+ngerprint in signal::0.0
+improve::0.0
+statistical learning::0.0
+faced::0.0
+describe::0.0
+pimrc::0.0
+tracking system::0.0
+affect the distance::0.0
+distinct environmental proles::0.0
+discuss the normal::0.0
+neighbor::0.0
+covered::0.0
+atlanta::0.0
+general::0.0
+wlan access::0.0
+present::0.0
+deviation::0.0
+unlike::0.0
+signicant performance::0.0
+balachandran::0.0
+value::0.0
+reliability::0.0
+normalizing constant::0.0
+consists of small::0.0
+distance error::0.0
+1:19 1:16::0.0
+bat and active::0.0
+location requiring::0.0
+hansen1::0.0
+outlined::0.0
+high number::0.0
+site::0.0
+hardware::0.0
+wknnssr::0.0
+0164-1212 $ see front::0.0
+aps precision::0.0
+ave::0.0
+producing::0.0
+proba bayesian::0.0
+s2o::0.0
+access::0.0
+physical positions::0.0
+highlighted::0.0
+isdn::0.0
+largest::0.0
+microsoft::0.0
+100,000::0.0
+simulation::0.0
+aps in ngerprint::0.0
+http::0.0
+determination via clustering::0.0
+signicantly fewer aps::0.0
+close in signal::0.0
+appearances::0.0
+effect::0.0
+disconnect::0.0
+phd::0.0
+localization over large-scale::0.0
+rssif::0.0
+distinction::0.0
+frequently::0.0
+argue::0.0
+center::0.0
+anatomy of context-aware::0.0
+collection::0.0
+calibration::0.0
+shortcoming with methods::0.0
+experimental::0.0
+position::0.0
+sensing::0.0
+restore::0.0
+technique generated::0.0
+heavily::0.0
+increasingly::0.0
+technique proved::0.0
+accurate::0.0
+statistical range::0.0
+obtain::0.0
+sievanen::0.0
+stored::0.0
+rooms::0.0
+testbed::0.0
+sufx::0.0
+model::0.0
+heaberlen::0.0
+method implemented::0.0
+density::0.0
+logged::0.0
+observation belongs::0.0
+discuss::0.0
+simple::0.0
+locations and represents::0.0
+undesirable transients::0.0
+compares::0.0
+logger::0.0
+smart::0.0
+match::0.0
+uctuated::0.0
+increased::0.0
+kavraki::0.0
+doi:10.1016 active::0.0
+found aps::0.0
+algorithms for indoor::0.0
+increases::0.0
+2.2.1 normal::0.0
+deployment::0.0
+variants::0.0
+statistical::0.0
+clear that previous::0.0
+motorola::0.0
+success::0.0
+chairs::0.0
+observation samples::0.0
+create a location::0.0
+hosts::0.0
+probabilistic the probabilistic::0.0
+bat requires sensors::0.0
+works::0.0
+data collection methods::0.0
+applications that rely::0.0
+computation overheads::0.0
+compares a range::0.0
+largely limited::0.0
+harter::0.0
+arrangement of book::0.0
+library::0.0
+testbed and experimental::0.0
+nnss outperforms::0.0
+weighed k times::0.0
+nnss method consistently::0.0
+distribution::0.0
+nnssr::0.0
+strategically positioned::0.0
+intel pro 3945abg::0.0
+reported error::0.0
+theoretical modeling::0.0
+pinpoint::0.0
+deterministic ngerprinting::0.0
+telecommunications::0.0
+e-mail::0.0
+kwanwu::0.0
+system performance::0.0
+cut-off than nnss::0.0
+zagami::0.0
+vector is calculated::0.0
+demonstrated::0.0
+noise::0.0
+provide a probability::0.0
+selecting::0.0
+journal::0.0
+gps::0.0
+host::0.0
+inherently::0.0
+includes::0.0
+small number::0.0
+actual::0.0
+carried::0.0
+extension::0.0
+1:39 1:14::0.0
+xiang::0.0
+density fingerprint spacing::0.0
+comparable number::0.0
+kola represented::0.0
+proles::0.0
+mode ltered algorithm::0.0
+nds::0.0
+introduced::0.0
+computing and communications::0.0
+software::0.0
+converging::0.0
+equally::0.0
+rssi-based indoor::0.0
+rssi recordings::0.0
+weighted::0.0
+retrieve::0.0
+quickly::0.0
+s1::0.0
+uncontrolled library::0.0
+primary advantage::0.0
+boost::0.0
+cut-off::0.0
+van::0.0
+additional::0.0
+signicant::0.0
+sanitize rssi::0.0
+outline::0.0
+noticed::0.0
+existing rssif::0.0
+area covered::0.0
+naturally::0.0
+function::0.0
+cricket::0.0
+north::0.0
+neighbors::0.0
+basic::0.0
+cut-off fig::0.0
+webster::0.0
+repeated::0.0
+construction::0.0
+goals::0.0
+ltered::0.0
+system to function::0.0
+highest::0.0
+command-line based::0.0
+made::0.0
+compute::0.0
+cells::0.0
+variations::0.0
+record::0.0
+limit::0.0
+computational requirements::0.0
+problem::0.0
+contribute::0.0
+condition::0.0
+combine::0.0
+dependent::0.0
+periods::0.0
+algorithm key::0.0
+due to variations::0.0
+heavily dependent::0.0
+compared::0.0
+application programming interface::0.0
+nonetheless::0.0
+operating::0.0
+aps position::0.0
+virtual::0.0
+book::0.0
+areas with desks::0.0
+mass::0.0
+essentially::0.0
+samples suggests::0.0
+conclusion::0.0
+represents the marginal::0.0
+multi-use::0.0
+www.elsevier.com a comparison::0.0
+distinct physical::0.0
+addresses of aps::0.0
+chrysanthis::0.0
+june::0.0
+modeling of signal::0.0
+variation::0.0
+precision::0.0
+pathways::0.0
+deviation cut-off increases::0.0
+values in dbm::0.0
+identier::0.0
+identies::0.0
+problems that stem::0.0
+factors::0.0
+rule::0.0
+identied::0.0
+distribution before taking::0.0
+status::0.0
+tted::0.0
+basic nnss::0.0
+augmented::0.0

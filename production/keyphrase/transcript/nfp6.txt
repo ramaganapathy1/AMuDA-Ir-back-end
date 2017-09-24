@@ -1,0 +1,908 @@
+626
+
+IEEE TRANSACTIONS ON AUTOMATION SCIENCE AND ENGINEERING, VOL. 6, NO. 4, OCTOBER 2009
+
+Short Papers
+Environmental-Adaptive RSSI-Based
+Indoor Localization
+Hyo-Sung Ahn and Wonpil Yu
+
+Abstract—This paper addresses a novel method for localizing a stationary object in an indoor office environment. The proposed method
+utilizes the received-signal-strength index (RSSI) of radio signals radiating
+from fixed reference nodes and reference tags placed at known positions
+to generate a precise signal propagation model. Signal attenuation parameters are updated online according to environmental variation; thus, the
+proposed method has environmental-adaptation capabilities. Subsequent
+experiments were conducted to demonstrate the superiority of the proposed technique over a commercial location-based service (LBS) chipset.
+Note to Practitioners—The practical motivation of this paper is summarized as follows. First, we would like to develop an indoor wireless localization network that is particularly useful for the position estimation of
+stationary and/or slowly moving objects. The sensor network developed in
+this paper can be variously used for factory automation, home automation,
+robot navigation/guidance, and pedestrian tracking. Second, the environmental-adaptive RSSI-based indoor localization (EARIL) algorithm developed in this paper is based on received signal strength; so the system is very
+simple and the implementation cost is much cheaper than typical TOA and
+TDOA-based methods.
+Index Terms—Indoor localization, location-based service (LBS), received-signal-strength index (RSSI), wireless sensor network.
+
+I. INTRODUCTION
+
+O
+
+NE OF THE key issues in mobile robot applications is to locate
+persons and assets placed and possibly moving around a mobile
+robot [1]. In actual applications, it is often difficult to locate pedestrians
+or stationary objects because the mobile robot is not able to identify
+them using typical vision or laser scanner sensors. Specifically, even
+though the mobile robot can recognize the shapes of pedestrians and
+objects based on image processing techniques, it has a limited capability to identify them if they are similar. Thus, in the field of mobile
+robotics, concepts such as intelligent space (iSpace) [2], ambient intelligence [3], [4] and ubiquitous robotic space (URS) [1], [5], [6], [8]
+have been recently proposed in attempts to enhance the capability of a
+robot in identifying objects and humans. In these concepts, the primary
+idea is that by attaching a reference tag, the robot is able to easily identify and locate the human or object by detecting the tag. As addressed in
+[6], [7], wireless sensor network (WSN) technologies are considered a
+Manuscript received January 18, 2008; revised June 29, 2008 and October
+21, 2008. First published April 17, 2009; current version published September
+30, 2009. This paper was recommended for publication by Associate Editor
+P. Remagnino and Editor M. Wang upon evaluation of the reviewers’ comments.
+This work was supported in part by the IT R&D Program of the Ministry
+of Information and Communication/Institute for Information Technology
+Advancement (MIC/IITA), Korea [2005-S-092-02, USN-based Ubiquitous
+Robotic Space Technology Development].
+H.-S. Ahn is with the Department of Mechatronics, Gwangju Institute
+of Science and Technology (GIST), Gwangju 500-712, Korea (e-mail:
+hyosung@gist.ac.kr).
+W. Yu is with the Robot Research Department, Electronics and Telecommunications Research Institute (ETRI), Daejeon, Korea (e-mail: ywp@etri.re.kr).
+Color versions of one or more of the figures in this paper are available online
+at http://ieeexplore.ieee.org.
+Digital Object Identifier 10.1109/TASE.2008.2009126
+
+promising tool for achieving this aim. To this end, it is shown here that
+WSN-based indoor localization is one of the most important research
+topics in the field of intelligent robotics.
+It should be noted that there are still a number of challenges to be
+overcome in the field of WSN-based localization. The main difficulty
+lies in the fact that communication signals in an indoor office environment face interference and attenuation from multi-path, reflection,
+channel fading, deflection, and diffraction. In fact, it is quite difficult to
+establish a reliable signal propagation model in an office environment
+due to difficulties in reliably estimating the signal path-loss parameters (i.e., signal attenuation parameters). As such, this paper addresses
+a novel method for estimating the signal path-loss parameter in an indoor office environment.
+In the field of WSN-based indoor localization, there has been a considerable amount of research; for a comprehensive overview, refer to
+[9] and the references therein. The state-of-the-art technologies in this
+field are typically based on ultra wideband (UWB; IEEE 802.15.4a)
+[10], [11] and ZigBee (IEEE 802.15.4). However, though UWB-based
+technologies provide reliable positioning information; their installation
+cost is quite high [8]. Thus, Chipcon (http://www.chipcon.com) commercialized a localization network system (cc2431) based on ZigBee
+as an alternative to UWB. The Chipcon (cc2431) chipset uses the received-signal-strength to evaluate the distance between reference nodes
+and tags; however, this method has no capability to adapt to environmental variations as it needs an accurate signal propagation model,
+tuned in advance by the user.
+In this paper, the received-signal-strength index (RSSI) is used to
+calculate the distances between tags and reference nodes. In the proposed approach, the signal propagation model and model parameters
+are updated online in a closed-loop feedback correction manner. The
+novel contribution of this method, though a very simple idea, is to evaluate signal attenuation parameters using reference tags at each sampling time to compute other tags’ unknown positions, thereby enabling
+adaptation to environmental variation.
+This paper is organized as follows. In Section II, an environmentaladaptive RSSI-based indoor localization (EARIL) technique is established. The actual hardware platform and experimental test results are
+then briefly addressed in Section III, and conclusions will be given in
+Section IV.
+II. ENVIRONMENTAL-ADAPTIVE RSSI-BASED
+INDOOR LOCALIZATION (EARIL)
+This section addresses a new localization method based on RSSI that
+is particularly beneficial for indoor asset tracking. The newly-proposed
+method has the ability to adapt to environment variations; thus, it is referred to here as an environmental-adaptive RSSI-based indoor localization (EARIL). Recently, RSSI-based localizations have attracted considerable attention due to their simplicity and low cost [12], as well as
+their lower sensitivity to bandwidth and occurrences of undetected-direct paths [13]. RSSI-based methods compute the distance between a
+sender and a receiver using the signal-strength received and a relationship between the signal-loss and the propagation distance. The following
+signal propagation model has been widely used for this relationship
+I (r ) =
+
+c
+I (0)
+ra
+
+(1)
+
+where I (r) represents the signal-strength measured at distance r; c is a
+proportional constant, I (0) is the signal-strength at a unit distance, and
+
+1545-5955/$26.00 © 2009 IEEE
+
+IEEE TRANSACTIONS ON AUTOMATION SCIENCE AND ENGINEERING, VOL. 6, NO. 4, OCTOBER 2009
+
+627
+
+a is the attenuation parameter of the signal propagation. Traditional
+RSSI approaches aim to calculate the unknown distance r using the
+measurement I (r) and parameters a; c, and I (0) modeled in advance.
+Thus, in traditional approaches, the distance r is simply calculated with
+the fixed parameters a; c, and I (0) as
+r=e
+
+:
+
+(2)
+
+In actual applications, however, traditional approaches may not be efficient and potentially result in numerous errors because the parameters
+a; c, and I (0) are environmental-dependent in the presence of signal
+interference, deflection, variation of the power radiating from the transmitter, and other complex radio characteristics. The motivation of this
+research is thus to establish a scheme that is tolerant to parameter variations arising from the shift of environmental characteristics. To this
+end, the new RSSI-based method proposed consists of reference nodes
+that receive and send radio signals, and a tag that computes its position
+using a radio propagation model that is updated in real time based on
+the received-signal-strength.
+Before outlining the algorithms let us first examine the relationships
+among the parameters of (1). Assuming c is fixed, let us suppose that
+there are parameter variations in a and I (0) such as a0 = a + a and
+I 0 (0) = I (0) + I (0), which change (1) to
+
+c
+I 0 (r) = a+a (I (0) + I (0)):
+r
+
+(3)
+
+This relationship states that if there is a variation in magnitudes of the
+attenuation parameters and initial signal-strength, the received-signalstrength at the distance r changes from I (r) to I 0 (r). In other words, if
+the model parameters change, the received-signal-strength would be affected; in such case, if the fixed parameters a and I (0) are used without
+modification, the distance will be evaluated as
+
+r0
+
+=
+
+e
+
+=
+
+e
+
+e
+1+a=a (I (0)=(I (0) + I (0)))1=a :
+=r
+
+Fig. 1. Localization network composed of three reference nodes (transmitter
+and receiver; N = 3) and a tag. The arcs (arrows) represent directions of RF
+communication signal flow between the reference nodes, and between the reference nodes and the tag.
+
+illustrates three reference nodes, the number of reference nodes and
+tags can generally be extended to N .
+From (1), we need to estimate model parameters a and c based on
+the received-signal-strengths. For convenience, let us say that the reference node i transmits the radio signal with a strength of ci and
+receives the signal of the reference node j with a strength of cji ; the
+tag receives the signal from i with a strength of ciT . Here, the distance between i and the tag is denoted as ri , and signal attenuation
+parameter is ai . Then, the unknown parameters are ri ; ci , and ai , and
+their corresponding measurements are cji and ciT ; the problem is to
+determine ri by estimating ai and ci based on the measurements cji
+and ciT .
+A simple solution for this parameter estimation is to use the known
+distance between i and j ; i 6= j . That is, since the reference nodes
+are fixed at known points, and ci and cj are related by the equation
+
+N
+
+N
+
+N
+
+=
+
+(4)
+
+Therefore, if parameter variations are not considered, then distance errors of r 0 r0 = r 0 r1+a=a (I (0)=(I (0) + I (0)))1=a = r[1 0
+ra=a (I (0)=(I (0) + I (0)))1=a ] will certainly exist. That is, the actual distance is still r even though the signal characteristics have been
+changed (i.e., from a to a + a and from I (0) to I (0) + I (0)), but the
+estimated distance is r0 . As such, it is essential to update the model parameters in such a way that the calculated position properly reflects the
+variation of environmental characteristics. Note that c is a constant, so
+we can simply consider cI (0) as the initially-radiated signal-strength;
+in the following section, c = 1 can thus be used without notational
+confusion.
+A. Localization Using Fixed Reference Nodes
+The concept of localization using fixed reference nodes (LFRN) is illustrated in Fig. 1. In this figure, the tag measures the received-signalstrength and calculates the distance between the reference nodes and
+the tag; the tag is attached to a tracked target, and the reference nodes
+are placed at known points. The reference node is composed of transmitter and receiver, and the receiver computes model parameters based
+on the received signal-strengths, which are sent from other reference
+nodes. Also shown in the figure, the radio signal radiating from the
+transmitter in a reference node is received by the receivers in other reference nodes as well as by the tag. Note that though this figure only
+
+N
+
+N
+
+N
+
+cji
+
+cj
+
+=
+
+(5)
+
+(rji )a
+
+N
+
+N
+
+where rji is the distance between the reference nodes i and j , and
+cji is the signal-strength of j received by i . Therefore, aj can be
+
+N
+
+simply calculated as
+
+aj
+
+N
+
+c =c
+
+ln
+
+=
+
+ln
+
+(6)
+
+r
+
+if cj is known. However, as cj is environmental- and time-dependent,
+cj should be measured or estimated beforehand. To this end, one simple
+idea is to measure the initially radiated-signal-strength, as depicted in
+Fig. 1. That is, cj is measured by the receiver of the reference node j .
+Another method is to use two different reference nodes to estimate cj
+as well as aj . Here, let us suppose that the reference nodes i and
+k ; i 6= j; i 6= k; k 6= j , measure the signal of the reference node
+j with strengths cji and cjk respectively. Then, in addition to (5), we
+have an additional signal-strength relationship
+
+N
+
+N
+
+N
+N
+
+cjk
+
+cj
+
+=
+
+(rjk )a
+
+:
+
+(7)
+
+Therefore, using (5) and (7), we are able to obtain
+
+aj
+
+c
+
+=
+
+ln
+
+r
+
+ln
+
+0 lnc
+0 lnr
+
+(8)
+
+628
+
+IEEE TRANSACTIONS ON AUTOMATION SCIENCE AND ENGINEERING, VOL. 6, NO. 4, OCTOBER 2009
+
+from which cj is computed by inserting (8) into (5) or (7). To filter out
+measurement noise, we may then use
+aj
+
+= (N 0 1)(1 N 0 2)
+
+N
+i
+
+=1;i6=j
+
+lnc 0 lnc
+lnr 0 lnr
+k=1;k6=i;j
+N
+
+:
+
+(9)
+The overall procedure is summarized as follows. The receivers, placed
+within the reference nodes, and the tags receive signals radiating from
+the transmitters of individual reference nodes. After that, the reference
+nodes send information including measured-signal-strengths to the tag
+using a wireless local area network; the tag then estimates aj using (8)
+or (9). Next, based on (1), the tag can compute the distances between
+the reference nodes and the tag as
+ri
+
+= (ci=Ii )1=a :
+
+(10)
+
+Using (10), it is then straightforward to estimate the position of the tag;
+a review of these localization algorithms is presented in [14]. In [14], if
+the positions of reference nodes are known as (xi ; yi ), then the position
+of the tag can be simply computed by
+
+[^x; y^]T = (HT H)01 HT b
+
+(11)
+
+where
+
+H=
+
+x2
+
+y2
+
+..
+.
+
+..
+.
+
+x3
+x4
+xN
+
+y3
+y4
+
+; b = 21
+
+yN
+
+K22
+K32
+K42
+
+0 r22 + r21
+0 r23 + r21
+0 r24 + r21
+
+2
+KN
+
+0 r2N + r21
+
+..
+.
+
+(12)
+
+and Ki2 = x2i + yi2 .
+Thus far, we have presented a localization method using reference
+nodes that contain both a transmitter and receiver. The receiver receives radio signals radiating from the transmitter and measures the
+signal-strength to calculate the signal attenuation parameter. Note that
+the communication load may be heavy in this approach.
+
+Fig. 2. Localization network using a mobile reference node (LMRN).
+
+where cim is the received-strength of the ith reference node signal (Ni )
+at the mobile reference node, rim is the distance between the mobile
+reference node and Ni ; ci is the initially radiated signal-strength of Ni ,
+and ai is the attenuation parameter of the ith signal. Now, the problem
+is to determine the signal attenuation parameter ai and initial signal
+strength ci based on cim and rim .
+In this approach, since we are using only one mobile reference node,
+N
+ci cannot be computed in real time. However, if c0 =
+i=1 (ci )=N is
+used for ci , then ai can be estimated online based on signal measurements. That is, when the relationship given by (13) is shifted by
+ai
+
+lnr = lnc 0 lnc
+
+we can obtain the following relationships:
+
+lnr 0 a2 lnr = lnc 0 lnc
+r
+a1 ln
+0 a3 lnr = lnc 0 lnc
+a1
+
+B. Localization Using Mobile Reference Nodes
+The LFRN method of the previous subsection may have a high computational load; however, if the proposed idea is applied to mobile robot
+applications, the computational load can be substantially reduced. To
+achieve this reduction, the concept of localization using mobile reference nodes (LMRN) is illustrated in Fig. 2, where the robot is seen
+tracking a pedestrian (the mobile reference node can be considered a
+mobile robot and the tag can be considered a pedestrian). It is relatively
+easy to locate the mobile robot using some existing methods [5], [15]
+as numerous sensors and other communication equipment can be installed onto the robot.1
+Fig. 2 shows that the wireless localization network is composed of a
+mobile reference node, fixed reference nodes, and a tag.2 If the reference tag is mounted on a mobile robot, the reference tag has mobility
+(referred to as a “mobile reference node”); as the node, its position can
+be accurately monitored. This mobile reference node can thus be used
+for the computation of attenuation parameters. Here, the signal propagation is governed by the formula
+cim
+
+= (rim )a
+ci
+
+(13)
+
+1The mobile robot position is easily estimated from a localization sensor network (see [5] and [15] for examples).
+2It
+
+is assumed that the tag can be attached to the pedestrian.
+
+(14)
+
+aN 01
+
+lnr
+
+..
+.
+
+0 aN lnr
+
+= lnc
+
+0 lnc
+
+(15)
+(16)
+
+:
+
+(17)
+
+Since the above relationships can be expressed in matrix form as
+
+M
+
+a1
+a2
+
+..
+.
+
+aN
+
+=
+
+lnc 0 lnc
+lnc 0 lnc
+lnc
+
+..
+.
+
+(18)
+
+0 lnc
+
+where M is to be determined from (15)–(17), the attenuation parameters are computed by
+
+[a1 ; a2 ; 1 1 1 ; aN ]T = (MT M)01MT N
+
+(19)
+
+where N is the right-hand side of (18). Another alternative is that if we
+ = Ni=1 (ai )=N , then
+use the expected attenuation value a
+
+(lnr 0 lnr ) = lnc 0 lnc ; 8i; j; i 6= j:
+Thus, the parameter a
+ can be simply estimated as
+N
+N
+lnc 0 lnc :
+a
+ = N (N10 1)
+lnr 0 lnr
+i=1 j =1;j 6=i
+a
+
+(20)
+
+(21)
+
+IEEE TRANSACTIONS ON AUTOMATION SCIENCE AND ENGINEERING, VOL. 6, NO. 4, OCTOBER 2009
+
+629
+
+fg
+
+C. Sensitivity Analysis
+In this section, we examine the effects of error in the estimated-attenuation parameters and measurement noises. Here, let there be a variation in model parameter a such as a + a; the attenuation parameter was
+previously estimated as a + a + . Thus, the actual signal-strength
+measured at r will be I 0 (r) = (I (0))=(ra+a ) + n, where n is the
+measurement noise, and the distance can be estimated as
+
+4
+
+I (0) 1=(a+a+ 4)
+I 0 (r)
+
+page. In (28), min  = 0 was used and in (30) and (31), r is assumed
+as r > 1. Now, the upper and lower boundaries of r^ can be evaluated
+using (27), (29), (30), and (31). Then, denoting the right-hand sides of
+(27), (29), (30), and (31) as  ; ;  ; , respectively, we obtain the
+following inequality:
+
+XXYY
+
+r
+
+Y(1 + X)  r^  rY (1 + X )
+
+(32)
+
+which yields
+
+ jr 0 r^j  r
+(33)
+1
+=(a+a+4)
+
+I (0)
+ 
+:
+=r
+(22) where  = minfj1 0 Y (1+ X)j; j1 0 Y (1+ X)jg and  = maxfj1 0
+I (0) + nra+a
+Y(1 + X)j; j1 0 Y (1 + X )jg. Fig. 3 shows r^ calculated by (22) and
+the upper and lower boundaries computed by (32) when n and 4 are
+It is our goal to evaluate the error inherent to r^ (i.e., we want to find r 0
+modeled as jn3 j = 0:1 2 I 0 (r) and j43 j = 0:1 2 jaj (in this sima+a
+j  I (0), using binomial ulation, the actual r is r = 10). From the plots, we see that the upper
+r^). Assuming small perturbation, if jnr
+expansion, we can then approximate r^ as
+ (1+X ), and the lower boundary, computed
+boundary, computed by rY
+nra+a
+by rY(1+ X), are bounding the distance without much conservatism.
+1 0 1=(a + a + 4) I (0) + nra+a
+r^ ' r
+Thus, if the boundary of the measurement noises and uncertainty in
+the estimated-attenuation parameters are available, using (33) the upper
++ 1=(a + a + 4)(1=(a + a + 4) + 1)
+r^ =
+
+nr +
+
+a a
+
+r
+
+2
+
+2
+
+(23)
+2 I (0) + nra+a :
+Now, denoting  = 01=(a + a + 4)(nra+a )=(I (0)+ nra+a ) and
+ = (1=(a + a + 4)(1=(a + a + 4)+1))=(2)((nra+a )=(I (0)+
+a+a 2
+
+)) , we change (23) such that
+r^ = r 1 r0
+[1 +  +  ]
+(24)
+which yields the following inequalities (since 1 +  +  > 0 and
+r0(4)=(a+a+4) > 0)
+r 1 min r0
+[1 + minf +  g]  r^
+ r 1 max r0
+[1 + maxf +  g]:
+(25)
+
+nr
+
+n
+n3 and
+Next, assuming the boundedness of n such as n3
+3
+3
+the boundedness of such as
+, we can derive the
+inequalities (27), (29), (30), and (31), as shown at the bottom of this
+
+0j j   j j
+0j4 j  4  j4 j
+
+4
+
+and lower errors of r^ can then be established, allowing us to evaluate
+the performance of the algorithms developed in the previous subsections. Also, from (27), (29), (30), and (31), it is certain that if a is not
+properly estimated, the uncertain boundaries of (33) will be enlarged.
+As such, it is notably important to update the propagation parameters
+according to environmental variations.
+III. EXPERIMENTAL RESULTS
+
+For the experimental verification of the environmental-adaptive
+RSSI-based indoor localization (EARIL), we developed a ZigBee
+(2.4 GHz RF communication system) sensor network, as shown in
+Figs. 4 and 5. The reason we selected the ZigBee communication
+system as our hardware platform is twofold: 1) it is very convenient
+and cheap to use a ZigBee transceiver as a reference node and 2) we
+can easily add motion sensors to the ZigBee system, so that the
+tag is able to sense the motion of an object. The developed ZigBee
+system switches between two modes: sleep mode and operating mode
+according to motion; hence, the battery life of the tag can be extended.
+Fig. 4 shows that the reference nodes are composed of a mobile
+
+maxf +  g  maxfg + maxf g
+fngra+a
+ a + a +1minf4g I (0)max
++ maxfngra+a
+fngra+a
++ 1=(a + a + minf4g)(1=2(a + a + minf4g) + 1) I (0)min
++ minfngra+a
+3
+a+a
+= a + a10 j43j I (0)jn+jjrn3jra+a
+3 a+a 2
+3
+3
++ 1=(a + a 0 j4 j)(1=2(a + a 0 j4 j) + 1) I (0)0j0n jjnr3jra+a
+minf +  g  minfg + minf g
+fngra+a
+ a + a +1minf4g I (0)min
++ minfngra+a
+1
+0j
+n3 jra+a
+= a + a 0 j43j I (0) 0 jn3jra+a
+
+max r0
+min r0
+
+r
+ r0
+
+2
+(26)
+
+(27)
+
+(28)
+(29)
+(30)
+(31)
+
+630
+
+IEEE TRANSACTIONS ON AUTOMATION SCIENCE AND ENGINEERING, VOL. 6, NO. 4, OCTOBER 2009
+
+Fig. 3. Calculated upper and lower boundaries of r^, and actual r^ when n and
+
+4 are randomly selected.
+
+Fig. 4. Fixed reference node is composed of a reference transmitter and a mobile reference tag: the left picture shows the node installed in the wall and the right
+picture shows the node installed under the ceiling.
+
+reference tag3 and a fixed-reference transmitter. In the figure, the
+image on the left is the reference node attached to the wall and the
+right image is the reference node attached under the ceiling. Fig. 5
+shows the reference nodes installed in an office. In this architecture,
+each individual mobile reference tag measures the RSSI of the signal
+radiating from the fixed-reference transmitters. Then, each mobile
+reference tag transmits the data packet to the tag. In the packet, the
+last two data are coordinate values in the x and y axes of the tag
+calculated by the Chipcon cc2431 chip mounted in the tag. Note
+that cc2431 is one of the most widely used commercial products in
+indoor localization and has been used to locate a tag based on RSSI as
+in the method established in this paper; thus, cc2431 is used here as a
+benchmark for a comparative experimental study. In the left plot, the
+solid lines (blue) are the calculated x and y of the tag from cc2431; the
+dot-dashed lines (red) are the calculated x and y tag coordinates from
+LFRN; and the dashed-lines (black) are the actual values. From these
+plots, we can see that the proposed method is better in estimating y ,
+though cc2431 is better in calculating x. To quantitatively compare the
+3The fixed-reference transmitter developed does not operate as a transceiver.
+Thus, it is necessary to place a mobile reference tag that can receive signals
+from the fixed reference transmitter beside the fixed-reference transmitter so
+that they (the fixed-reference transmitter and mobile reference tag) work as the
+fixed reference node in a pair.
+
+performances, we then calculated the total errors of the left plot, with
+the results shown on the right. Similarly, Fig. 7 shows the test results
+of LFRN when the tag is placed nearby a wall. As shown on the right,
+the proposed-method again has a better performance than cc2431.
+Fig. 6 illustrates the experimental results of the localization algorithm with fixed reference nodes (LFRN) when the tag is placed inside
+the sensor network.
+For the experimental test of the localization algorithm with mobile
+reference nodes (LMRN), we simply turned off all mobile reference
+tags, and placed the reference mobile tag in an open space; this reference tag acts as a mobile reference node. Table I shows the test results,
+where the true position is the coordinate of the actual place where the
+tag was placed. The position measured from cc2431 is written in the
+3rd column; the 4th column is the mean-square error of cc2431. The
+position estimated by the proposed method is written in the 5th column,
+and the 6th column is the mean-square error of LMRN. From this table,
+we could observe that LMRN has noticeably better performance than
+cc2431 in Tests 1, 2, 3, and 4; however, cc2431 is only slightly better
+than LMRN in Test 5. Note also that LMRN estimates the tag position
+much faster than LFRN.
+Finally, we would like to provide several observations from our actual experimental tests.
+• To examine effect according to the antenna orientation, we measured the received-signal-strengths while rotating the mobile tag.
+
+IEEE TRANSACTIONS ON AUTOMATION SCIENCE AND ENGINEERING, VOL. 6, NO. 4, OCTOBER 2009
+
+631
+
+Fig. 5. Fixed reference nodes installed in an office.
+
+Fig. 6. Experimental test results of LFRN inside the sensor network.
+
+No particular variation of performance due to antenna orientation
+was observed.
+• With more reference nodes, the overall quality is only slightly
+improved. For further discussion of this topic, refer to [16].
+• Since our system uses RF signals to communicate between reference nodes and mobile tags, the performance can be affected
+by surrounding objects, most notably by metallic objects. We also
+observed that the initial radiation intensity is dependent on the gap
+between the RF circuit board and the wall. Thus, in future efforts,
+
+it is necessary to pay more attention to the RF circuit board design, to ensure it is more robust in terms of hardware and against
+interference from metallic objects.
+• Our system is based on a ZigBee communication; thus, overall
+communication is governed by the ZigBee protocol (IEEE
+802.15.4). If congestion exists during the network transfer, the
+tag transmits a resend signal to the nodes (or an acknowledgement signal when a signal is safely received), thus all signals are
+confirmed to be safely transmitted. From the experiments, the
+
+632
+
+IEEE TRANSACTIONS ON AUTOMATION SCIENCE AND ENGINEERING, VOL. 6, NO. 4, OCTOBER 2009
+
+Fig. 7. Experimental test results of LFRN near a wall.
+TABLE I
+COMPARISON OF PERFORMANCE BETWEEN CC2431 AND LMRN
+
+sampling time of LFRN is about 2 s, whereas the sampling time
+of LMRN was as low as 0.1 s.4
+IV. CONCLUDING REMARKS
+In this paper, we proposed a localization method referred to as an
+environmental-adaptive RSSI-based indoor localization (EARIL) that
+is tolerant to parameter variations caused by environmental variations.
+Here, two algorithms, LFRN and LMRN, have been implemented in
+a ZigBee-based (2.4 GHz RF communication system) sensor network.
+The hardware required for these tests was developed and subsequently
+tested in an office environment. From the comparisons with an existing
+localization chipset Chipcon cc2431, a dominant RSSI-based localization product, we found that LFRN locates the position of an object
+more accurately than cc2431 as time increases. Moreover, LMRN estimates the tag position much faster than LFRN and computes the position more accurately in an open space; four cases out of five were
+better than cc2431 and the other case was only slightly worse than
+cc2431. Thus, we can confirm that LFRN is particularly helpful for
+the position estimation of a stationary object in an office environment,
+whereas LMRN is more practical for use in robot applications in an
+open space. Since EARIL is based on RSSI, the system is very simple
+and the cost of implementation is much cheaper than time-of-arrival
+(TOA) and time-difference-of-arrival (TDOA)-based methods. Finally,
+it is stressed that EARIL has a novel feature of environmental adaptation; that is, the mobile tag is able to compute its position using an
+online-updated propagation model parameter.
+4From our experimental tests we found that the sampling times of the existing
+WSN localization systems such as UWB (example: Ubisense system (http://
+www.ubisense.net) [1], [8]) and ZigBee (example: Chipcon cc2431) are several
+seconds.
+
+REFERENCES
+[1] H.-S. Ahn, W. Yu, and J. Lee, “Wireless localization network for ubiquitous robotic space: Approaches and experimental test,” in Proc. IEEE
+Int. Symp. Robot Human Interactive Commun., Jeju, Korea, Aug. 2007.
+[2] J.-H. Lee, N. Ando, and H. Hashimoto, “Intelligent space for human
+and mobile robot,” in Proc. 1999 IEEE/ASME Int. Conf. Adv. Intel.
+Mech., Atlanta, GA, Sep. 1999.
+[3] J. Lee, K. Morioka, N. Ando, and H. Hashimoto, “Cooperation of distributed intelligent sensors in intelligent environment,” IEEE/ASME
+Trans. Mechatronics, vol. 9, no. 3, pp. 535–543, Sep. 2004.
+[4] T. Sato, “Robotic room: Human behavior measurement, behavior accumulation and personal/behavioral adaptation by intelligent environment,” in Proc. IEEE/ASME Int. Conf. Adv. Intell. Mech., Jul. 2003,
+pp. 20–24.
+[5] W. Yu, H. Chae, J. Y. Lee, N. L. Doh, and Y.-J. Cho, “Robot localization network for development of ubiquitous robotic space,” in Proc.
+2006 Int. Symp. Flexible Automation, ISFA’06, Osaka, Japan, 2006.
+[6] W. Yu, J.-Y. Lee, H.-S. Ahn, Y.-G. Ha, M. Jang, J.-C. Sohn, and Y.-M.
+Kwon, “Design and implementation of a ubiquitous robotic space,”
+IEEE Trans. Automat. Sci. Eng., to be published.
+[7] H.-S. Ahn and W. Yu, “Wireless localization network for a ubiquitous
+robotic space: Background and concept,” in Proc. 3rd Int. Conf. Ubiquitous Robot. Ambient Intell., Seoul, Korea, 2006, pp. 187–192.
+[8] H.-S. Ahn, J. Lee, W. Yu, and K.-S. Han, “Indoor localization technique
+for intelligent robotic space,” ETRI’s New Technologies, vol. 22, pp.
+48–57, 2007.
+[9] J. Hightower and G. Borriello, “Location systems for ubiquitous computing,” Computer, vol. 34, no. 8, pp. 57–66, 2001.
+[10] I. Oppermann, L. Stoica, A. Rabbachin, Z. Shelby, and J. Haapola,
+“UWB wireless sensor networks: UWEN-A practical examples,” IEEE
+Commun. Mag., vol. 42, pp. S27–S32, 2004.
+[11] K. Yu, J. P. Montillet, and A. Rabbachin, “UWB location and tracking
+for wireless embedded networks,” Signal Process., vol. 86, pp.
+2153–2171, 2006.
+[12] M. Zhang, S. Zhang, J. Cao, and H. Mei, “A novel indoor localization
+method based on received signal strength using discrete fourier transform,” in Proc. 1st Int. Conf. Commun. Netw. China, Beijing, China,
+2006, pp. 1–5.
+
+IEEE TRANSACTIONS ON AUTOMATION SCIENCE AND ENGINEERING, VOL. 6, NO. 4, OCTOBER 2009
+
+633
+
+[13] A. Hatami and K. Pahlavan, “Performance comparison of rss and toa
+indoor geolocation based on UWB measurement of channel characteristics,” in Proc. IEEE 17th Int. Symp. Personal, Indoor and Mobile
+Radio Commun., Helsinki, Finland, 2006, pp. 1–6.
+[14] A. H. Sayed, A. Tarighat, and N. Khajehnouri, “Networked-based wireless location,” IEEE Signal Process. Mag., vol. 22, no. 4, pp. 24–40,
+2005.
+[15] H. Chae, J. Lee, W. Yu, and N. L. Doh, “StarLITE: A new artificial
+landmark for the navigation of mobile robots,” in Proc. 1st JapanKorea Joint Symp. Netw. Robot Syst., Kyoto, Japan, 2005.
+[16] S. Park, H.-S. Ahn, and W. Yu, “Adaptive path-loss model-based indoor localization,” in Proc. IEEE Int. Conf. Consumer Electron., Las
+Vegas, NV, Jan. 2008.
+
+Design and Implementation of a Ubiquitous Robotic Space
+Wonpil Yu, Jae-Yeong Lee, Young-Guk Ha, Minsu Jang,
+Joo-Chan Sohn, Yong-Moo Kwon, and Hyo-Sung Ahn
+
+Abstract—This paper describes a concerted effort to design and implement a robotic service framework. The proposed framework is comprised
+of three conceptual spaces: physical, semantic, and virtual spaces, collectively referred to as a ubiquitous robotic space. We implemented a prototype robotic security application in an office environment, which confirmed
+that the proposed framework is an efficient tool for developing a robotic
+service employing IT infrastructure, particularly for integrating heterogeneous technologies and robotic platforms.
+Index Terms—Localization network, mobile robot, navigation, ubiquitous robotic space, wireless sensor network.
+
+I. INTRODUCTION
+
+A
+
+MBIENT intelligence denotes a digital environment that proactively, but sensibly, supports people in their daily lives [1]. From
+a robotics viewpoint, this type of smart space further supports a robot in
+understanding the environment and thus improves its interaction capability. Robotic Room [2], Omniscient Space [3], and WABOT-House
+[4] are a few examples of smart spaces that incorporate robotics.
+Since the implementation of a smart space requires the integration
+of a large number of heterogeneous components, architectural issues
+have also received much attention. As examples, Luo and colleagues
+described a prototypical configuration for networked robot systems
+[5]; Distributed Intelligent Network Device (DIND) [6] proposed by
+Hashimoto et al. is one of the earliest works to implement an intelligent
+Manuscript received February 10, 2009. First published July 14, 2009; current
+version published September 30, 2009. This paper was recommended for publication by Associate Editor P. Remagnino and Editor M. Wang upon evaluation
+of the reviewers’ comments. This work was supported by the R&D program of
+the Korea Ministry of Knowledge and Economy (MKE) and the Korea Evaluation Institute of Industrial Technology (KEIT) [2005-S-092-02, USN-based
+Ubiquitous Robotic Space Technology Development].
+W. Yu, J. Lee, M. Jang, and J. Sohn are with the Robot Research Department,
+Electronics and Telecommunications Research Institute (ETRI), Daejeon, Korea
+(e-mail: ywp@etri.re.kr).
+Y. Ha is with Konkuk University, Seoul 143-701, Korea.
+Y. Kwon is with the Korea Institute of Science and Technology (KIST), Seoul
+130-741, Korea.
+H. Ahn is with the Gwangju Institute of Science and Technology (GIST),
+Gwangju 500-712, Korea.
+Color versions of one or more of the figures in this paper are available online
+at http://ieeexplore.ieee.org.
+Digital Object Identifier 10.1109/TASE.2009.2024925
+
+Fig. 1. Conceptual structure of the proposed ubiquitous robotic space.
+
+space using networked devices (e.g., networked cameras). In addition,
+McKee and colleagues proposed a framework for networked robotic
+systems and the concept of a module that represents a networked resource, and also acts as an interface between other modules [7]. Saffiotti and colleagues proposed Physically Embedded Intelligent System
+(PEIS) ecology, characterized by ambient intelligence and networked
+robot systems [8]. Kim and colleagues introduced a ubiquitous function
+service and described an intelligent space that incorporates networked
+robot systems from a control point-of-view [9].
+In this paper, we propose a ubiquitous robotic space (URS), which
+refers to a special environment in which robots are supported in understanding the environment through distributed sensing and computing,
+and thus can intelligently respond to human needs in the current context
+of the space. Fig. 1 illustrates the conceptual structure of the proposed
+URS.
+The URS comprises three spaces: physical, semantic, and virtual
+space; Table I describes the structural features of the respective works
+introduced above, as well as the primary differences from our current
+work. It should be noted that the structural and functional roles of the
+three proposed spaces are similar to the work conducted by Saffiotti and
+colleagues [8]. As opposed to the aforementioned works, however, we
+paid much attention to the issue in integrating a large number of heterogeneous technologies and robotic components in the implementation
+of an actual robotic service. This paper describes how we developed
+the fundamental elements of each space and how we could integrate the
+three independently developed spaces into an actual robotic application.
+The remainder of this paper is organized as follows. Section II describes the basic elements of the physical space and characteristics of
+each individual element. Section III introduces the semantic space and
+its elements. The virtual space is described in Section IV, and a robotic
+security application based on the proposed ubiquitous robotic space is
+described in Section V. Section VI then concludes this paper and introduces further works.
+II. THE PHYSICAL SPACE
+Wireless sensor networks and localization networks are two fundamental components supporting the physical space, controlling the behavior of a robot inside the physical space. Another component essen-
+
+1545-5955/$26.00 © 2009 IEEE
+
+

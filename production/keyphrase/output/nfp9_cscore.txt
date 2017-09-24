@@ -1,0 +1,6047 @@
+mobile device::63.0
+mobile devices::39.0
+receiver gain::22.0
+indoor environment::19.0
+rss measurement::17.0
+rss measurements::17.0
+unknown location::16.0
+indoor localization::15.0
+ldpl equations::14.0
+indoor space::14.0
+gain difference::13.0
+percentile error::13.0
+unknown locations::12.0
+mobile user::11.0
+localization error::11.0
+pre-deployment effort::10.0
+search space::10.0
+rss observation::10.0
+training data::10.0
+differences in receiver gain::10.0
+path loss exponent::9.50977500433
+discussed in section::9.50977500433
+80th percentile error::9.50977500433
+randomly pick::9.0
+number of known locations::8.0
+rss observations::8.0
+wifi aps::8.0
+percentile errors::8.0
+location of the mobile::8.0
+gain differences::8.0
+system of ldpl equations::8.0
+ldpl model::8.0
+aps and mobile::7.92481250361
+receiver gain difference::7.92481250361
+differences in receiver::7.92481250361
+space of interest::7.92481250361
+path loss::7.0
+office building::7.0
+data set::7.0
+receiver gains::7.0
+80th percentile::7.0
+lenovo x61 laptop::6.33985000288
+system of ldpl::6.33985000288
+set of aps::6.33985000288
+horus and radar::6.33985000288
+number of mobile::6.33985000288
+number of variables::6.33985000288
+radar and horus::6.33985000288
+two possible solutions::6.33985000288
+gps lock::6.0
+genetic algorithm::6.0
+signal strength::6.0
+map of the indoor::6.0
+rss map::6.0
+standard deviation::6.0
+number of mobile device::6.0
+obtaining a gps lock::6.0
+uniquely determine::6.0
+randomly picked::6.0
+loss exponent::6.0
+rss readings::6.0
+indoor space of interest::6.0
+prior work::6.0
+transmit power::6.0
+two different office buildings::6.0
+localization errors::6.0
+median and 80th percentile::6.0
+aps and mobile users::6.0
+location information::5.0
+mobile users::5.0
+rss values::5.0
+mobile node::5.0
+office buildings::5.0
+received signal strength::4.75488750216
+receiver gain differences::4.75488750216
+obtaining a gps::4.75488750216
+triangles in figure::4.75488750216
+deployment in two::4.75488750216
+solutions are generated::4.75488750216
+end if end::4.75488750216
+0.7m and 1.3m::4.75488750216
+change = true::4.75488750216
+set of simultaneous::4.75488750216
+25m x 25m::4.75488750216
+test data set::4.75488750216
+80th percentile errors::4.75488750216
+two different office::4.75488750216
+difference in rss::4.75488750216
+mobile user location::4.75488750216
+training data set::4.75488750216
+efficacy of locselect::4.75488750216
+microsoft research india::4.75488750216
+100m x 100m::4.75488750216
+two mobile::4.0
+narrowing the search space::4.0
+filled triangles in figure::4.0
+number of ldpl equations::4.0
+x61 laptop::4.0
+number of mobile devices::4.0
+user location and tracking::4.0
+lie on a circle::4.0
+determine an unknown location::4.0
+true end if end::4.0
+required to uniquely determine::4.0
+depicted as filled triangles::4.0
+relative gain estimation algorithm::4.0
+large number of mobile::4.0
+parameters of the ldpl::4.0
+houses a few hundred::4.0
+data from a large::4.0
+microsoft research::4.0
+set of simultaneous equations::4.0
+multiple devices::4.0
+sniffers at known locations::4.0
+training and testing locations::4.0
+narrow the search space::4.0
+batch of training locations::4.0
+dependence of ezs performance::4.0
+user location::4.0
+set of rss observations::4.0
+location and tracking system::4.0
+requires the simultaneous presence::4.0
+edges of the indoor::4.0
+locations where rss observations::4.0
+locations can be determined::4.0
+niculescu and b nath::4.0
+differences in receiver gains::4.0
+pervasive and mobile computing::4.0
+localization accuracy::4.0
+information was not supplied::4.0
+set o = pij::4.0
+observed rss::4.0
+locations in the indoor::4.0
+aps and mobile devices::4.0
+testing set::4.0
+queries can be answered::4.0
+carry over to indoor::4.0
+total number::4.0
+equal to the number::4.0
+amount of training data::4.0
+two aps::4.0
+ezs performance::4.0
+cdf of localization errors::4.0
+localize a new mobile::4.0
+subsets of aps::3.16992500144
+mined using trilateration::3.16992500144
+ground truth information::3.16992500144
+number of unknowns::3.16992500144
+random ap parameters::3.16992500144
+change = false::3.16992500144
+solving ldpl equations::3.16992500144
+error of 0.7m::3.16992500144
+number of aps::3.16992500144
+pair of measurements::3.16992500144
+nature of data::3.16992500144
+path loss exponents::3.16992500144
+determine an unknown::3.16992500144
+depicted in figure::3.16992500144
+amount of training::3.16992500144
+collected rss signatures::3.16992500144
+distances between aps::3.16992500144
+gain estimation algorithm::3.16992500144
+explicit user participation::3.16992500144
+exist only two::3.16992500144
+laptop and ipaq::3.16992500144
+limit the search::3.16992500144
+required to uniquely::3.16992500144
+training and testing::3.16992500144
+median and 80th::3.16992500144
+demonstrate the efficacy::3.16992500144
+system of simultaneous::3.16992500144
+median localization error::3.16992500144
+localizing new device::3.16992500144
+existing wifi infrastructure::3.16992500144
+work on collaborative::3.16992500144
+determining ap parameters::3.16992500144
+generate the model::3.16992500144
+separate testing set::3.16992500144
+minimize the number::3.16992500144
+pervasive and mobile::3.16992500144
+based on constraint::3.16992500144
+set of rss::3.16992500144
+return change end::3.16992500144
+base then return::3.16992500144
+measurements are made::3.16992500144
+enable indoor localization::3.16992500144
+kth mobile device::3.16992500144
+locations in small::3.16992500144
+number of rss::3.16992500144
+estimate the location::3.16992500144
+shown in figure::3.16992500144
+depicted in scenario::3.16992500144
+find a solution::3.16992500144
+depicts the median::3.16992500144
+mobile user locations::3.16992500144
+fall of rss::3.16992500144
+cdf of localization::3.16992500144
+traverses the space::3.16992500144
+two mobile devices::3.16992500144
+efficacy of apselect::3.16992500144
+running times::3.0
+fixed locations::3.0
+generated randomly::3.0
+collected rss::3.0
+separate test::3.0
+received signal::3.0
+simulated annealing::3.0
+localization system::3.0
+research india::3.0
+localization server::3.0
+transmit powers::3.0
+samsung sgh::3.0
+collinear locations::3.0
+ground truth::3.0
+ad-hoc networks::3.0
+rss information::3.0
+specialized infrastructure::3.0
+average rss::3.0
+data collected::3.0
+similarity metric::3.0
+aps selected::3.0
+absolute location::3.0
+location queries::3.0
+errors obtained::3.0
+apselect algorithm::3.0
+node and event localization::2.0
+generated by picking two::2.0
+overview of our evaluation::2.0
+cdf of the errors::2.0
+solutions to these equations::2.0
+requires prior specific permission::2.0
+pick out a smaller::2.0
+mobile device laptop xenovo::2.0
+range is not easy::2.0
+batches each of training::2.0
+locations of the training::2.0
+rss at every location::2.0
+words five rss measurements::2.0
+locations and ap parameters::2.0
+equations of the form::2.0
+estimated location::2.0
+configuration-free indoor localization scheme::2.0
+adv7510 htc adv7501 rss::2.0
+assuming that the path::2.0
+requiring any pre-deployment effort::2.0
+devised the ez random::2.0
+maintain the rf map::2.0
+minimum loss in localization::2.0
+india krchinta @ microsoft.com::2.0
+recursion level which searches::2.0
+rss information from mobile::2.0
+proline 8-core server class::2.0
+set as the estimated::2.0
+initial set of solutions::2.0
+radar and horus database::2.0
+locations within the indoor::2.0
+perform localization::2.0
+included the previous subsets::2.0
+locations in the training::2.0
+consecutive generations of solutions::2.0
+genetic algorithm based solver::2.0
+continues until all aps::2.0
+placement of the aps::2.0
+algorithm is computationally intensive::2.0
+testing we collected rss::2.0
+data collected across locations::2.0
+hierarchical approach for indoor::2.0
+exponent in the ldpl::2.0
+relies on three basic::2.0
+fee provided that copies::2.0
+digital or hard copies::2.0
+spatial distribution of errors::2.0
+miscellaneous general terms algorithms::2.0
+selected aps as locations::2.0
+computing resource to construct::2.0
+systems such as landmarc::2.0
+model well is solved::2.0
+measurements to distances eqn::2.0
+system the ez system::2.0
+makes bootstrapping::2.0
+indoor signal map construction::2.0
+abstract microsoft research india::2.0
+aps in the indoor::2.0
+rgea estimates::2.0
+perform when multiple devices::2.0
+total number of rss::2.0
+sensing using active rfid::2.0
+data are then clustered::2.0
+previous generation and perturbing::2.0
+consecutive generations::2.0
+lasting a few seconds::2.0
+aps have been estimated::2.0
+horus and radar degrades::2.0
+found did not match::2.0
+propagation characteristics vary widely::2.0
+coupling in the equations::2.0
+traverse the indoor space::2.0
+locations ? to overcome::2.0
+cdf obtained::2.0
+times that we observed::2.0
+radius given by eqn::2.0
+equations will yield locations::2.0
+difference to be roughly::2.0
+absolute error::2.0
+receivers to perform localization::2.0
+locations within the floor::2.0
+readily available in settings::2.0
+estimation is an offline::2.0
+locations of the rest::2.0
+accommodating receiver gain differences::2.0
+provide a coarse-grained estimate::2.0
+simultaneous system of equations::2.0
+subset included the previous::2.0
+knowing all nine pairs::2.0
+four of its parameters::2.0
+search space reduces exponentially::2.0
+constitute an immense computational::2.0
+compensate for the errors::2.0
+note that the ground::2.0
+navigon software for obtaining::2.0
+parallelism can be exploited::2.0
+assigned to each device::2.0
+metric for each pair::2.0
+active badge::2.0
+wlan location determination system::2.0
+knowing gij and gjk::2.0
+based on constraints r2-r6::2.0
+normalized rss observation pnormalized::2.0
+challenges in real environments::2.0
+sirf star iii chipset::2.0
+yielded by the best-performing::2.0
+locations can be translated::2.0
+chose the search space::2.0
+benefit of gain compensation::2.0
+treating the selected aps::2.0
+rest of the aps::2.0
+santhanam lakshmanan for helping::2.0
+depending on the specifics::2.0
+models based on surveys::2.0
+50th and 80th percentile::2.0
+environment for wifi aps::2.0
+providing the location information::2.0
+locations ! random selection::2.0
+rely on extensive measurement::2.0
+horus database were created::2.0
+data from the full::2.0
+map as in horus::2.0
+implemented each such operation::2.0
+implemented as a pull::2.0
+worse than the 0.7m::2.0
+searching for the gains::2.0
+number of mobile users::2.0
+standard trilateration to estimate::2.0
+performed significantly::2.0
+wireless networks using desktop::2.0
+client for windows mobile::2.0
+grows ? to answer::2.0
+assigned to the root::2.0
+readings across mobile devices::2.0
+bootstrapping non-trivial thereby impeding::2.0
+users would provide training::2.0
+comparing its observed environment::2.0
+distribution of the observed::2.0
+ipaqipaq radar horus ez+loc::2.0
+occasionally a mobile device::2.0
+robust localization over large-scale::2.0
+users mobile device records::2.0
+data from any two::2.0
+assumes a very dense::2.0
+errors in the model::2.0
+solution space::2.0
+rss environment to determine::2.0
+inbuilding rf-based user location::2.0
+apselect naive average rss::2.0
+robot with a map::2.0
+equations has a unique::2.0
+measurements with a standard::2.0
+aps selected using apselect::2.0
+computes the average rss::2.0
+jez is a non-linear::2.0
+information only for four::2.0
+modeled using a gaussian::2.0
+training with different mobile::2.0
+mobile robot::2.0
+applications in indoor environments::2.0
+nodes in the space::2.0
+located in an area::2.0
+large amount::2.0
+relative to localization approaches::2.0
+differed in the number::2.0
+distort the solution due::2.0
+helping us with conducting::2.0
+referred to as transmit::2.0
+users carry mobile devices::2.0
+dij is the distance::2.0
+locations are obtained opportunistically::2.0
+aps sometimes degrades performance::2.0
+finds the maximum rss::2.0
+approach with pre-wifi wlans::2.0
+existing infrastructure::2.0
+region between the kitchen::2.0
+manner rgea computes gij::2.0
+related work indoor localization::2.0
+insights into the nature::2.0
+consideration for mobile devices::2.0
+errors in large figure::2.0
+classroom use is granted::2.0
+part of the world::2.0
+smaller subsets of aps::2.0
+improve for ten consecutive::2.0
+percentile error of 3.3m::2.0
+aps may be visible::2.0
+robust to device diversity::2.0
+system of simultaneous non-linear::2.0
+selected aps while preserving::2.0
+cdf obtained by running::2.0
+means a sufficient condition::2.0
+recently in the context::2.0
+collection ? to analyze::2.0
+schemes fail to find::2.0
+henceforth referred::2.0
+imperfections in the model::2.0
+research technical report msr-tr-2000-12::2.0
+localizable since the group::2.0
+nodes to perform localization::2.0
+rely on ultrasound devices::2.0
+sensors such as odometers::2.0
+ezs approach of inferring::2.0
+jez for the solution::2.0
+error was then evaluated::2.0
+research india microsoft research::2.0
+errors in the path::2.0
+loss in localization performance::2.0
+points that were closest::2.0
+slam using gaussian process::2.0
+manner as a location::2.0
+ezs performance to improve::2.0
+scans that yield rss::2.0
+assume that the measurements::2.0
+transmitters such as wifi::2.0
+rss at various locations::2.0
+benefit of ezs estimation::2.0
+albeit at the cost::2.0
+boundaries of the floor::2.0
+two mobile devices figure::2.0
+devices all our results::2.0
+significantly with an increasing::2.0
+compute the receiver gain::2.0
+estimate radio propagation parameters::2.0
+held the mobile device::2.0
+prior work on reducing::2.0
+residing on the device::2.0
+data ? to tackle::2.0
+aps to provide excellent::2.0
+picking an initial set::2.0
+entire floor::2.0
+estimation algorithm::2.0
+standard deviation in rss::2.0
+first generated before queries::2.0
+laptop-ipaq in the figure::2.0
+scheme for the selection::2.0
+scanning for wifi devices::2.0
+deployed ez in two::2.0
+carefully picks a subset::2.0
+suppose that two mobile::2.0
+wifi aps to provide::2.0
+performance ? to answer::2.0
+exponents for the aps::2.0
+significantly narrow the search::2.0
+measurements from two devices::2.0
+description of relative localization::2.0
+graph with a node::2.0
+compute the similarity metric::2.0
+pairs of aps selected::2.0
+assists the ez server::2.0
+map using a mobile::2.0
+converted into an estimate::2.0
+locations at which rss::2.0
+random convex linear combination::2.0
+device in quadratic form::2.0
+obtained opportunistically through gps::2.0
+exhaustively to determine local::2.0
+entire set of locations::2.0
+avgrssapselect computes the average::2.0
+spatial distribution::2.0
+differences across mobile devices::2.0
+mapping effort::2.0
+careful selection of aps::2.0
+device and simply walked::2.0
+gps enabled mobile devices::2.0
+current implementation uses wifi::2.0
+simulator used the ldpl::2.0
+filled with a reading::2.0
+find the closest local::2.0
+approaches provisioned the robot::2.0
+rss measurements are required::2.0
+rss in the vicinity::2.0
+determined locations in turn::2.0
+key advance over prior::2.0
+parameters the 2n unknown::2.0
+setting is an indoor::2.0
+essential idea behind apselect::2.0
+cdone as an empty::2.0
+coupled with the unavailability::2.0
+based approach would carry::2.0
+selects the strongest aps::2.0
+set of three aps::2.0
+exists neither an analytical::2.0
+radar could automatically estimate::2.0
+assisting the ez server::2.0
+data from the laptop::2.0
+radar is an rss::2.0
+solutions do not improve::2.0
+distance constraints between aps::2.0
+solved in the ldpl::2.0
+users are not required::2.0
+minima that might provide::2.0
+randomly in the floor::2.0
+annealing to estimate radio::2.0
+number of wifi aps::2.0
+padmanab @ microsoft.com research::2.0
+users as they traverse::2.0
+work on rf environment::2.0
+additional infrastructure::2.0
+client has two important::2.0
+construct an rf model::2.0
+theoretically speaking the mutual::2.0
+25m and 100m 100m::2.0
+number of selected aps::2.0
+locations of the two::2.0
+8-core server class machine::2.0
+motivated a large body::2.0
+exponentially with each eliminated::2.0
+considerable amount manual effort::2.0
+maps and uses simulated::2.0
+aps in its view::2.0
+training locations and assigning::2.0
+apselect and locselect algorithms::2.0
+gsm towers has enabled::2.0
+matching the observed rss::2.0
+environment such as entrances::2.0
+office floor::2.0
+important consideration for mobile::2.0
+performance to using multiple::2.0
+pre-deployment effort remains substantial::2.0
+randomly as the root::2.0
+lie in the range::2.0
+similar for the curves::2.0
+rss due to multi-path::2.0
+observed aps would constitute::2.0
+evaluation of localization errors::2.0
+appears as different aps::2.0
+placement of known locations::2.0
+performance of a model-based::2.0
+selected random subsets comprising::2.0
+deviation of the rss::2.0
+measurements would however stand::2.0
+experimented with an ez+loc::2.0
+smartphone ezs error remains::2.0
+larger number of aps::2.0
+inter-cluster pairs of aps::2.0
+devices allows unique determination::2.0
+assigned to each mobile::2.0
+due to multi-path effects::2.0
+cost of decreased localization::2.0
+indoor environment of interest::2.0
+poor fit in eqn::2.0
+users cover more ground::2.0
+average of the top::2.0
+apselect is to select::2.0
+ideally all mobile devices::2.0
+devices carried by users::2.0
+aps did not belong::2.0
+apselect algorithm by comparing::2.0
+significant cost and effort::2.0
+localization without the pain::2.0
+gain difference of 11db::2.0
+possibilities for relative locations::2.0
+goal of reducing model::2.0
+asymmetries in the physical::2.0
+based on our experience::2.0
+class machine::2.0
+conducting experiments in microsoft::2.0
+based on measurements made::2.0
+center of the circle::2.0
+standard deviation of 3db::2.0
+scan for wifi aps::2.0
+number of novel challenges::2.0
+specifics of the indoor::2.0
+aps in their range::2.0
+providing the same information::2.0
+require any explicit user::2.0
+ipaq-1 and the laptop::2.0
+dense deployment of wifi::2.0
+localization via ambience fingerprinting::2.0
+cost could be reduced::2.0
+percentile error of 0.7m::2.0
+unreliable and are discarded::2.0
+terms of localization error::2.0
+radar performed significantly worse::2.0
+build rf signal maps::2.0
+rest can be deterministically::2.0
+equations ? the question::2.0
+youssef and a agrawala::2.0
+rgea constructs a graph::2.0
+depicted by the triangles::2.0
+pmj2 > from two::2.0
+gain for each user::2.0
+measurement of the aps::2.0
+number of devices figure::2.0
+floor one can limit::2.0
+entire set of variables::2.0
+required to uniquely establish::2.0
+set of aps selected::2.0
+aps and n locations::2.0
+minutes lenovo t61 server::2.0
+represented by 2d vectors::2.0
+built using these methods::2.0
+based on detailed floor::2.0
+measurement data::2.0
+localization errors in large::2.0
+indoor space and maintain::2.0
+ultrasound devices being deployed::2.0
+estimates all the gains::2.0
+overview of some key::2.0
+location information to mobile::2.0
+depends on the local::2.0
+microsoft research technical report::2.0
+construction probability location error::2.0
+significant amount of energy::2.0
+start from an initial::2.0
+distribution of the selected::2.0
+htc adv7510 htc adv7501::2.0
+compared to fingerprinting based::2.0
+microsoft.com abstract microsoft research::2.0
+aps across a single::2.0
+accuracy was within two::2.0
+fed in the locations::2.0
+space for the parameters::2.0
+knowledge about wifi aps::2.0
+obstructions in the form::2.0
+work in real environments::2.0
+offsets between the two::2.0
+software for obtaining gps::2.0
+distances between mobile devices::2.0
+13b depict the spatial::2.0
+future work::2.0
+coordinates of the mobile::2.0
+deployment of additional infrastructure::2.0
+potential of enabling practical::2.0
+locations are then determined::2.0
+subsets of aps selected::2.0
+devices respective rss measurements::2.0
+include the proof due::2.0
+return a weighted average::2.0
+work on collaborative localization::2.0
+true locations are obtained::2.0
+potentially increase localization errors::2.0
+information on the floor::2.0
+simultaneously learn the characteristics::2.0
+randomly for each floor::2.0
+roughly 3m in size::2.0
+slightly different situation arises::2.0
+estimate of the distance::2.0
+devices figure::2.0
+gradient descent to refine::2.0
+approach is to fingerprint::2.0
+root node::2.0
+makes for a clean::2.0
+base then return true::2.0
+essential idea::2.0
+curve labeled ez ipaq-ipaq::2.0
+readings at a separate::2.0
+description of the rss::2.0
+space is to limit::2.0
+unique set of coordinates::2.0
+data for ez localization::2.0
+office buildings is promising::2.0
+enable indoor::2.0
+building and a large::2.0
+subsets of aps obtained::2.0
+compensation of receiver gain::2.0
+100m x 100m median::2.0
+laptop was not equipped::2.0
+number of locations spread::2.0
+two steps::2.0
+device is then localized::2.0
+estimated transitively as gik::2.0
+follow from the discussion::2.0
+equipped with a sirf::2.0
+space can dramatically reduce::2.0
+builds an rf model::2.0
+advantage of the parallelism::2.0
+location queries the client::2.0
+mobile devices should measure::2.0
+device would be minimal::2.0
+rss across all locations::2.0
+j2th locations are proximate::2.0
+determination of their relative::2.0
+large number of measurement::2.0
+inherent to the problem::2.0
+locations have been determined::2.0
+situation arises in solving::2.0
+target environment was outdoors::2.0
+collected using a single::2.0
+aps to be modified::2.0
+compensate for estimation errors::2.0
+hardship at the cost::2.0
+knowledge of ap placement::2.0
+making a ez based::2.0
+rss naive max rss::2.0
+device in the test::2.0
+ersga is a recursive::2.0
+constructing an rf map::2.0
+2-7db even among devices::2.0
+devices only when needed::2.0
+propose a novel indoor::2.0
+two floor::2.0
+errors across the entire::2.0
+closest to the boundaries::2.0
+solving for the parameters::2.0
+minimum number::2.0
+cost for any individual::2.0
+arises in solving ldpl::2.0
+errors due to differences::2.0
+minutes to hours depending::2.0
+jez = pij pi0::2.0
+user held the mobile::2.0
+nature of ldpl equations::2.0
+rss measurements dramatically compared::2.0
+entropy between the data::2.0
+server and obtain location::2.0
+random ap parameters based::2.0
+dimensions of the floor::2.0
+localization schemes::2.0
+j1th and j2th locations::2.0
+localization for an autonomous::2.0
+dij between the unknown::2.0
+fitness of each solution::2.0
+selected in both schemes::2.0
+devices record received signal::2.0
+parameters based on constraints::2.0
+framework using non-convex constraints::2.0
+advance over prior work::2.0
+generous range to search::2.0
+aps and three mobile::2.0
+side of the building::2.0
+repeat change = false::2.0
+give a normalized rss::2.0
+floor ! a large::2.0
+high average signal strength::2.0
+due to the lack::2.0
+floorplans for the buildings::2.0
+apselect wisely avoided picking::2.0
+krishna chintalapudi anand padmanabha::2.0
+average rss naive max::2.0
+configuration robust indoor localization::2.0
+model estimation::2.0
+compensate for gain differences::2.0
+made using a laptop::2.0
+set of over-determined equations::2.0
+freedom from pre-deployment effort::2.0
+locations resulted in degraded::2.0
+variations in the rss::2.0
+periodically perform a scan::2.0
+presence of fixed nodes::2.0
+user participation to aid::2.0
+kth mobile::2.0
+data from mobile devices::2.0
+maxrssapselect finds the maximum::2.0
+devices the mean absolute::2.0
+xenovo x61 hp ipaq::2.0
+full rank then exposes::2.0
+centerpiece of our work::2.0
+horus improves on radar::2.0
+measurement at a coarser::2.0
+localization for very small::2.0
+determine how the performance::2.0
+mobile devices gain access::2.0
+number of measurement reports::2.0
+constructing an rss map::2.0
+assumes that the transmit::2.0
+participate in the ad-hoc::2.0
+provide a reasonably good::2.0
+denser than typical wifi::2.0
+effected in a manner::2.0
+consume a significant amount::2.0
+note that this information::2.0
+locations in this paper::2.0
+provide a brief overview::2.0
+differences accurately within 1-3db::2.0
+space in any part::2.0
+locations of all aps::2.0
+measurements at the locations::2.0
+efficacy of our apselect::2.0
+depending on the size::2.0
+borrow from prior work::2.0
+aps have been fixed::2.0
+devices whose gain differences::2.0
+observed mean and standard::2.0
+kinds of mobile devices::2.0
+effort needed for indoor::2.0
+locations with the goal::2.0
+specific to the kth::2.0
+information to enable pervasive::2.0
+higher fitness are discovered::2.0
+compare with a model::2.0
+aps based on observed::2.0
+average of k-nearest matches::2.0
+subtract the devices respective::2.0
+locations has two unknowns::2.0
+arises from the fact::2.0
+report a location fix::2.0
+gain that was randomly::2.0
+picking all the unknown::2.0
+search the solution space::2.0
+indoor space in question::2.0
+servers or to redistribute::2.0
+approach that used gradient::2.0
+ezs estimation and compensation::2.0
+set of rss measurements::2.0
+end for until change::2.0
+choice of initial solutions::2.0
+assuming that the rss::2.0
+chintalapudi anand padmanabha iyer::2.0
+uniquely solved by making::2.0
+labeled ez ipaq-ipaq shows::2.0
+constraints in the system::2.0
+equations in this system::2.0
+gain access to gps::2.0
+subtracted from each reading::2.0
+powers of the aps::2.0
+rss falls with distance::2.0
+microsoft.com research on indoor::2.0
+computing the rf model::2.0
+system work in real::2.0
+location and its transmission::2.0
+map building and localization::2.0
+aps has four unknowns::2.0
+venkata n padmanabhan introduction::2.0
+exist more approximate methods::2.0
+pij = pi 10i::2.0
+limit the search space::2.0
+angle of arrival information::2.0
+simple connectivity based approach::2.0
+best-performing but calibrationintensive horus::2.0
+space is to leverage::2.0
+aps and gsm towers::2.0
+location within this floor::2.0
+process ? how robust::2.0
+gain differences across mobile::2.0
+picked carefully using locselect::2.0
+attenuation from significant obstructions::2.0
+tested radar and horus::2.0
+locations in the testing::2.0
+mobile computing::2.0
+coverage throughout the indoor::2.0
+sufficient number of participating::2.0
+hindered by the significant::2.0
+rss signatures at grid::2.0
+intuition to the working::2.0
+mobile device in quadratic::2.0
+laptop had a receiver::2.0
+prior knowledge::2.0
+mobile user who actively::2.0
+words each new location::2.0
+microsoft research india krchinta::2.0
+addition to estimating gij::2.0
+pki1 j = pi2::2.0
+data sets were derived::2.0
+depicts the cdf obtained::2.0
+relative to the two::2.0
+obtains an absolute location::2.0
+determining their locations relative::2.0
+building or a mall::2.0
+ez+loc performed significantly worse::2.0
+deploying a specialized infrastructure::2.0
+model for each rss::2.0
+anand padmanabha iyer microsoft::2.0
+collecting data from mobile::2.0
+client and the server::2.0
+differences among various mobile::2.0
+errors in small figure::2.0
+overlap with other selected::2.0
+ground truth for evaluation::2.0
+information can be effected::2.0
+equipped with a gps::2.0
+aps must be high::2.0
+aps and measurement points::2.0
+answered through standard techniques::2.0
+helps the ga significantly::2.0
+aid the localization process::2.0
+location are first normalized::2.0
+clients in the space::2.0
+transmit power and locations::2.0
+collected observations at approximately::2.0
+percentile errors of 1.8m::2.0
+smartphones traverse this space::2.0
+phone localization via ambience::2.0
+model for the indoor::2.0
+end if else return::2.0
+assumption will be relaxed::2.0
+searches for the constraint::2.0
+total of 10,000 beacons::2.0
+subsets and evaluated localization::2.0
+sheer number of wifi::2.0
+ventures to different places::2.0
+aps using the two::2.0
+solution from the previous::2.0
+unified node and event::2.0
+change end if end::2.0
+selecting the right set::2.0
+information to mobile applications::2.0
+takes a novel approach::2.0
+provide the typical running::2.0
+highest fitness are retained::2.0
+effective are the apselect::2.0
+ensuring that no two::2.0
+multiple ssids and appears::2.0
+localization requires the simultaneous::2.0
+vinod mathews and santhanam::2.0
+allowing it to determine::2.0
+users carry::2.0
+desirable since mobile devices::2.0
+partitions in the batch::2.0
+variable with a standard::2.0
+gain difference among receivers::2.0
+account for these gain::2.0
+aps by the mobile::2.0
+times of the day::2.0
+impossible to uniquely determine::2.0
+correct for errors due::2.0
+users had a common::2.0
+transmission power::2.0
+indoor environment that enjoy::2.0
+active badge location system::2.0
+navigate through an indoor::2.0
+adjusting the estimated locations::2.0
+jacobian of the system::2.0
+wooden partitions::2.0
+device a smartphone ezs::2.0
+ldone the set indices::2.0
+single mobile::2.0
+rss of the beacons::2.0
+indices of all locations::2.0
+networks using desktop infrastructure::2.0
+problem in enable localization::2.0
+locations that were picked::2.0
+found in typical indoor::2.0
+maintaining a probability distribution::2.0
+investigate energy efficiency issues::2.0
+cost of incremental gains::2.0
+signal strength of pij::2.0
+referred to as large::2.0
+locations of all wifi::2.0
+implemented ez and compared::2.0
+assumed to acquire gps::2.0
+median 100m x 100m::2.0
+evaluation has been based::2.0
+set of four rss::2.0
+gps lock was obtained::2.0
+genetic algorithm to solve::2.0
+selected by apselect significantly::2.0
+gps-less low cost outdoor::2.0
+number of ez equations::2.0
+hollow triangles in figure::2.0
+non-trivial thereby impeding easy::2.0
+user who actively ventures::2.0
+location error::2.0
+assume that the nodes::2.0
+solution space is extremely::2.0
+smaller subset::2.0
+number of rss observations::2.0
+visible from this floor::2.0
+differences can potentially increase::2.0
+errors due to multi-path::2.0
+measurements from proximate locations::2.0
+search of the locations::2.0
+represents a single cluster::2.0
+bootstrapping in such localization::2.0
+random values::2.0
+cost and effort involved::2.0
+loss of accuracy relative::2.0
+case of the small::2.0
+iii chipset running navigon::2.0
+element independently randomly drawn::2.0
+mobile devices and aps::2.0
+practice not all aps::2.0
+server pull in rss::2.0
+energy cost::2.0
+cognizant of their battery::2.0
+small in the data::2.0
+distorted in any manner::2.0
+airport or a mall::2.0
+measurement locations in common::2.0
+location sensing using active::2.0
+rgea estimates receiver gain::2.0
+determination of the absolute::2.0
+property of the receiver::2.0
+dramatically reduce running times::2.0
+area surrounded by walls::2.0
+simultaneous presence of multiple::2.0
+means that the rss::2.0
+large body of permission::2.0
+user location is drawn::2.0
+amenable to massively parallel::2.0
+advantage of multiple cores::2.0
+percentile of the localization::2.0
+distribution to allow occasional::2.0
+measurement locations::2.0
+signature is then matched::2.0
+cost of rf model::2.0
+multiple users would provide::2.0
+configured with multiple ssids::2.0
+absence of any explicit::2.0
+shows the average rss::2.0
+rss measurements from two::2.0
+fraction of training data::2.0
+measurements between mobile nodes::2.0
+lock at any location::2.0
+depends on several factors::2.0
+horus ez+loc::2.0
+locations on a floor::2.0
+infrastructure such as sniffers::2.0
+constrained by the physics::2.0
+aps in its cluster::2.0
+localization errors in small::2.0
+rotation and reflection invariant::2.0
+random solution generation algorithm::2.0
+based localization system work::2.0
+selected as the cluster::2.0
+user locations::2.0
+solution exists to solve::2.0
+unclear how either horus::2.0
+gains of several mobile::2.0
+locations randomly and trained::2.0
+citation on the first::2.0
+smartphones such as htc::2.0
+log dij::2.0
+vector with each element::2.0
+aps with same priority::2.0
+deployment in two buildings::2.0
+surveys of the environment::2.0
+horus with different subsets::2.0
+qkj11 = < pk1j11::2.0
+performs pre-filtering and selects::2.0
+addition to the location::2.0
+wifi rss::2.0
+simultaneous presence::2.0
+solve the above set::2.0
+implemented over tcp sockets::2.0
+pair of aps based::2.0
+proof due to space::2.0
+determine that rss measurements::2.0
+localizability of wireless ad-hoc::2.0
+leverage its computing resource::2.0
+server class::2.0
+large amount of data::2.0
+current system can support::2.0
+practical and viable indoor::2.0
+speaking the mutual entropy::2.0
+similar clusters are merged::2.0
+techniques such as simulated::2.0
+present a comprehensive overview::2.0
+solutions that were randomly::2.0
+underlying constraints in epl::2.0
+gains of these mobile::2.0
+25m 25m::2.0
+nodes such as aps::2.0
+onboard odometer to determine::2.0
+reality although the locations::2.0
+clients in this section::2.0
+based on the ldpl::2.0
+enable pervasive computing applications::2.0
+simultaneous localization and mapping::2.0
+robot uses its onboard::2.0
+right set of aps::2.0
+single device for training::2.0
+model can provide significant::2.0
+data as users cover::2.0
+sli and d mayers::2.0
+belonged to the office::2.0
+require effort in terms::2.0
+error values of 3.1m::2.0
+cube in this floor::2.0
+rss data was collected::2.0
+common area of coverage::2.0
+wooden partitions and concrete::2.0
+excellent opportunity to test::2.0
+present a formal proof::2.0
+uniquely establish the location::2.0
+local en 3.1.1 solving::2.0
+sophisticated ray-tracing model based::2.0
+provide mechanisms to estimate::2.0
+single pair of measurements::2.0
+device records the received::2.0
+estimate of the gain::2.0
+knowing the absolute locations::2.0
+addition to the unknown::2.0
+employs a stochastic description::2.0
+previous generation::2.0
+extensive measurement to map::2.0
+graph among the nodes::2.0
+records the received signal::2.0
+evaluating the different schemes::2.0
+connected component::2.0
+pain krishna chintalapudi anand::2.0
+found that such schemes::2.0
+implemented using parallel programming::2.0
+represents a vector dot::2.0
+intensive and may require::2.0
+knowledge of the physical::2.0
+locations match those obtained::2.0
+ezs map was closer::2.0
+assumed two floor sizes::2.0
+space an the nature::2.0
+mathews and santhanam lakshmanan::2.0
+automated ap filtering mechanism::2.0
+server over the collected::2.0
+training ez on two::2.0
+enjoy relatively freer signal::2.0
+wifi devices or obtaining::2.0
+aps are first ranked::2.0
+rate at which rss::2.0
+padmanabha iyer microsoft research::2.0
+establish all their locations::2.0
+kitchen and the entrance::2.0
+versions of ap selection::2.0
+standard deviation of rss::2.0
+based on observed rss::2.0
+initializing ldone with indices::2.0
+localization with no pre-deployment::2.0
+processed the collected data::2.0
+provide a physical intuition::2.0
+picked subset would perform::2.0
+equal to the difference::2.0
+map the rf environment::2.0
+space while his mobile::2.0
+involves considerable pre-deployment effort::2.0
+categories and subject descriptors::2.0
+based on these underlying::2.0
+gathered a test data::2.0
+gps or certain landmarks::2.0
+strength from various towers::2.0
+gps-free positioning in mobile::2.0
+based on desirable properties::2.0
+constraints in the ldpl::2.0
+solution is then eval1::2.0
+repeated the above procedure::2.0
+due to space constraints::2.0
+gwon and r jain::2.0
+distribution of localization errors::2.0
+yielding median and 80th::2.0
+temporal variations in rss::2.0
+measurements from only four::2.0
+reside in the cloud::2.0
+reducing the search space::2.0
+gradient descent::2.0
+essentially measures how similar::2.0
+execution time and performance::2.0
+chipset running navigon software::2.0
+greater than or equal::2.0
+two important::2.0
+section we briefly describe::2.0
+system of simultaneous equations::2.0
+cost of some loss::2.0
+model ? how effective::2.0
+answer the following questions::2.0
+compared it against radar::2.0
+constraints in epl equations::2.0
+transmission powers we chose::2.0
+ersga attempts to minimize::2.0
+building a wifi rss::2.0
+started with measurement data::2.0
+readings against this database::2.0
+distance of one meter::2.0
+essential idea behind ersga::2.0
+acm transactions on information::2.0
+box around the aps::2.0
+similar modulo an offset::2.0
+model based::2.0
+results from our deployment::2.0
+determine a unique set::2.0
+creation for new indoor::2.0
+terms of placing infrastructure::2.0
+performance is almost similar::2.0
+india padmanab @ microsoft.com::2.0
+profit or commercial advantage::2.0
+unknown locations of aps::2.0
+building while the ipaq::2.0
+signal at the mobile::2.0
+terms of mean square::2.0
+models for different times::2.0
+introduction to numerical analysis::2.0
+gain differences of 2-7db::2.0
+make the system uniquely::2.0
+mobile device in real::2.0
+process latent variable model::2.0
+apselect to pick out::2.0
+locations based on constraint::2.0
+gains of the mobile::2.0
+permission to make digital::2.0
+mutation can be parallelized::2.0
+13a and 13b depict::2.0
+runs on the localization::2.0
+estimated the transmit power::2.0
+measurements across the entire::2.0
+spaces such as ambient::2.0
+device with unknown gain::2.0
+locations from which rss::2.0
+base takes a value::2.0
+rss from two aps::2.0
+server the ez server::2.0
+model is more robust::2.0
+absence of receiver gain::2.0
+procedure begins by initializing::2.0
+specialized infrastructure to enable::2.0
+true return change ersga::2.0
+developed the locselect algorithm::2.0
+enabling practical and viable::2.0
+localization in outdoor environments::2.0
+noticed a curious occurrence::2.0
+proximate locations::2.0
+wireless networks::2.0
+local minima in jez::2.0
+iterative schemes that start::2.0
+apselect versus naive schemes::2.0
+test data set gathered::2.0
+entail a considerable amount::2.0
+seconds at each location::2.0
+concrete walls::2.0
+indoor environments::2.0
+practical scenarios::2.0
+v-anandi @ microsoft.com abstract::2.0
+localization in ad-hoc networks::2.0
+location in the indoor::2.0
+computing applications in indoor::2.0
+rgea uses this criterion::2.0
+build detailed rf maps::2.0
+studied area and conditions::2.0
+jez since the number::2.0
+large floor::2.0
+difference in rss readings::2.0
+system is not localizable::2.0
+based approach::2.0
+locselect locselect carefully picks::2.0
+accommodating for most practical::2.0
+requiring any explicit pre-deployment::2.0
+selects the top aps::2.0
+compared to prior work::2.0
+ipaq-ipaq and ez laptop-ipaq::2.0
+rgea picks a node::2.0
+dij + r dij::2.0
+measured by different mobile::2.0
+suggested maintaining a database::2.0
+devices such as smartphones::2.0
+large number::2.0
+aps since this constituted::2.0
+ranges will be accommodating::2.0
+positions using the model::2.0
+cdf obtained by training::2.0
+device obtains an absolute::2.0
+ezs error remains unchanged::2.0
+respect to the constructed::2.0
+sees a signal strength::2.0
+ez+loc performed the worst::2.0
+mobile device and simply::2.0
+searched exhaustively to determine::2.0
+simultaneously determining its location::2.0
+mobile devices to communicate::2.0
+experimentally determined the gain::2.0
+evaluating ez with random::2.0
+aps given by avgrssapselect::2.0
+determined the gain difference::2.0
+ldpl equations is scale::2.0
+change = true end::2.0
+features found in typical::2.0
+mobile devices allows unique::2.0
+true locations::2.0
+device is then estimated::2.0
+location in the space::2.0
+localize a different device::2.0
+formed by the ldpl::2.0
+mobile devices record received::2.0
+effort to perform detailed::2.0
+stand out as outliers::2.0
+training data as users::2.0
+pre-deployment effort or explicit::2.0
+infrastructure to enable indoor::2.0
+due to signal attenuation::2.0
+exposes any insufficient coupling::2.0
+relied on deploying specialized::2.0
+out across various locations::2.0
+attenuated when an airport::2.0
+random variable::2.0
+deployment of these systems::2.0
+gps in such environments::2.0
+performance of ez improve::2.0
+parameters can be uniquely::2.0
+depend on extensive mapping::2.0
+computed as the average::2.0
+star iii chipset running::2.0
+effort ? our setting::2.0
+number of local minima::2.0
+solution due to signal::2.0
+methodology for our experiments::2.0
+optimization by simulated annealing::2.0
+prior work on collaborative::2.0
+locations of the aps::2.0
+rss readings across mobile::2.0
+aps obtained from apselect::2.0
+gain of the kth::2.0
+needed for indoor localization::2.0
+end for if change::2.0
+building is quite large::2.0
+generate the measured rss::2.0
+criterion for the existence::2.0
+advantage and that copies::2.0
+placement and power settings::2.0
+genetic algorithms can search::2.0
+condition c3 essentially linearizes::2.0
+difference in the devices::2.0
+gij even for devices::2.0
+random gain value drawn::2.0
+map construction and localization::2.0
+value of the number::2.0
+manner if all distances::2.0
+works with existing wifi::2.0
+experience from actual deployments::2.0
+solutions with the highest::2.0
+solving the simultaneous system::2.0
+results in this section::2.0
+effect the transitive estimation::2.0
+select the minimum number::2.0
+randomly picking::2.0
+aps the sheer number::2.0
+measurements at some unknown::2.0
+determined as an average::2.0
+selection can be designed::2.0
+estimates receiver gain differences::2.0
+lock at the edges::2.0
+queries the client first::2.0
+achieve a median error::2.0
+model of the rss::2.0
+ad-hoc networks of sensors::2.0
+requirement that makes bootstrapping::2.0
+spatial distribution of locations::2.0
+device users spread out::2.0
+found that ezs map::2.0
+model without the benefit::2.0
+parameters given l determined::2.0
+investigate how a randomly::2.0
+copies bear this notice::2.0
+client is a piece::2.0
+notable examples are dv-hop::2.0
+solutions for the four::2.0
+capabilities of off-the-shelf aps::2.0
+approaches assume node-to-node communication::2.0
+require any pre-deployment effort::2.0
+structure it is clear::2.0
+elected from each cluster::2.0
+centered around the aps::2.0
+analytical closed form solution::2.0
+knowledge of the floorplan::2.0
+space is extremely large::2.0
+result from this experiment::2.0
+ldpl model to construct::2.0
+reader with some crucial::2.0
+detail the novel practical::2.0
+question is extremely relevant::2.0
+system can support multiple::2.0
+ranked in the order::2.0
+locations selected by locselect::2.0
+tackle in the future::2.0
+address on the path::2.0
+convert rss to distances::2.0
+solution nor any prior::2.0
+mobile nodes::2.0
+extends this to building::2.0
+technique for the active::2.0
+mapping of the indoor::2.0
+small and useful subset::2.0
+difference of about 7db::2.0
+designed that would select::2.0
+spread across various sections::2.0
+unknown locations by solving::2.0
+weighted least mean square::2.0
+diversity of the mobile::2.0
+pairs of mobile devices::2.0
+vector of received signal::2.0
+existing infrastructure without requiring::2.0
+scheme that uses existing::2.0
+low cost outdoor localization::2.0
+part of this work::2.0
+navigation and more recently::2.0
+step in the area::2.0
+built a custom simulator::2.0
+assumes the a priori::2.0
+modifications to the aps::2.0
+walked across the floor::2.0
+number of participating nodes::2.0
+i780 and hp ipaq::2.0
+automatically estimate the gain::2.0
+wifi aps and gsm::2.0
+context of robot navigation::2.0
+determine the ap locations::2.0
+weight for each equation::2.0
+parameters and unknown locations::2.0
+generated with measurements made::2.0
+weighed by their likelihood::2.0
+error over a separate::2.0
+current location::2.0
+equations can be uniquely::2.0
+locations selected::2.0
+wireless lan-based location estimation::2.0
+aps can be deter::2.0
+assigns it a gain::2.0
+presence of multiple nodes::2.0
+significantly worse::2.0
+devices then allows determination::2.0
+mobile device users spread::2.0
+deemed as being proximate::2.0
+equations can be listed::2.0
+probability probability::2.0
+general given enough distance::2.0
+solutions for its location::2.0
+based scheme::2.0
+smaller subset of aps::2.0
+training locations::2.0
+approach for indoor localization::2.0
+n-hop multilateration by savvides::2.0
+increasing number of mobile::2.0
+prior work that analyzes::2.0
+locations were generated randomly::2.0
+microsoft research india padmanab::2.0
+subset of the rss::2.0
+simultaneous equations::2.0
+experiments we have found::2.0
+similar to that depicted::2.0
+deployed at various locations::2.0
+return change::2.0
+average similarity to rest::2.0
+picked among the entire::2.0
+depict the spatial distribution::2.0
+testing locations::2.0
+base then return change::2.0
+record received signal strength::2.0
+notice and the full::2.0
+model construction probability location::2.0
+figures 13a and 13b::2.0
+differences can be estimated::2.0
+signal map::2.0
+initially in the context::2.0
+operations such as crossover::2.0
+installed on a variety::2.0
+ascertained as the center::2.0
+localization in indoor robotics::2.0
+estimate the ap parameters::2.0
+device at a location::2.0
+rss observations were made::2.0
+scheme that leverages knowledge::2.0
+localization scheme::2.0
+similarity between all inter-cluster::2.0
+combine the two steps::2.0
+effort or explicit user::2.0
+create the rss map::2.0
+median 25m x 25m::2.0
+vector containing all unknown::2.0
+degree of pre-deployment effort::2.0
+methodology and experimental results::2.0
+device will also obtain::2.0
+aps have been deployed::2.0
+error characteristics and calibration-free::2.0
+measurements corresponding to aps::2.0
+database of pre-measured differences::2.0
+data to simultaneously learn::2.0
+snew = a sold::2.0
+unknown locations and finally::2.0
+sniffers measure the rss::2.0
+due to their poor::2.0
+drawn from an exponential::2.0
+accuracy relative to localization::2.0
+deployment of wifi transmitters::2.0
+uated by computing jez::2.0
+distribution of locations errors::2.0
+algorithm the ga starts::2.0
+information that other selected::2.0
+set of ez equations::2.0
+refining them using gradient::2.0
+moved between measurement points::2.0
+unknown locations ! random::2.0
+techniques such as trilateration::2.0
+construct an rss map::2.0
+matched against this database::2.0
+server has been implemented::2.0
+variety of mobile devices::2.0
+fingerprint for each location::2.0
+dynamic indoor signal map::2.0
+directly using the absolute::2.0
+deploying ez in two::2.0
+horus with smaller subsets::2.0
+settings such as malls::2.0
+work on ad-hoc localization::2.0
+effort compared to fingerprinting::2.0
+refine the solutions generated::2.0
+partitions and concrete walls::2.0
+figure 13a and 13b::2.0
+calibration-free techniques for wireless::2.0
+measures how similar rss::2.0
+metric is then computed::2.0
+surements from m aps::2.0
+solution is then refined::2.0
+gains in the execution::2.0
+incurring a minimum loss::2.0
+two to three cubicles::2.0
+physics of wireless propagation::2.0
+obtained from the two::2.0
+uniquely determine their values::2.0
+measurements by a single::2.0
+reported to the server::2.0
+dij can be computed::2.0
+energy is an important::2.0
+pre-deployment effort in constructing::2.0
+visible from all locations::2.0
+yields a median localization::2.0
+act as ez clients::2.0
+require any distance measurements::2.0
+prior knowledge about wifi::2.0
+random variable that hopes::2.0
+existence of a unique::2.0
+ground within the indoor::2.0
+two devices::2.0
+determine its current location::2.0
+powers and the path::2.0
+devices then need scan::2.0
+infrastructure to localize mobile::2.0
+measure the same rss::2.0
+equations in a greedy::2.0
+typical office floor housing::2.0
+ieee personal communications magazine::2.0
+server has two important::2.0
+brings forth a number::2.0
+based on constraint rule::2.0
+system fare in localizing::2.0
+gaussian process latent variable::2.0
+provided by ez inevitably::2.0
+errors at various locations::2.0
+uniquely determine an unknown::2.0
+propagation model::2.0
+operation as a separate::2.0
+enhancements to the radar::2.0
+ad-hoc localization::2.0
+solution to the system::2.0
+server uses this data::2.0
+gps on the device::2.0
+beacons from neighboring aps::2.0
+drawn between two nodes::2.0
+set at a number::2.0
+ersga is to start::2.0
+terms of absolute coordinates::2.0
+rss measurements to distances::2.0
+selected set of aps::2.0
+evaluation methodology and experimental::2.0
+randomly in the interval::2.0
+locations within this floor::2.0
+lack of full rank::2.0
+requests for a scan::2.0
+implementation of ez system::2.0
+gain by sampling uniformly::2.0
+lie within the range::2.0
+solution to ldpl equations::2.0
+approximate and simpler approach::2.0
+test data::2.0
+cubicles in the call::2.0
+reducing the calibration effort::2.0
+power settings::2.0
+positioning in mobile ad-hoc::2.0
+appears to be random::2.0
+comparing it with two::2.0
+compared to rf fingerprinting::2.0
+worse than the error::2.0
+25m 25m and 100m::2.0
+maximum likelihood based approach::2.0
+unknown parameter::2.0
+space of the variables::2.0
+indoor environment in question::2.0
+parameters of a solitary::2.0
+grows in a quadratic::2.0
+distribution of the unknown::2.0
+addition to wifi rss::2.0
+generated by randomly picking::2.0
+factors including the number::2.0
+scale as the number::2.0
+number clusters while ensuring::2.0
+cases two mobile devices::2.0
+training data is made::2.0
+entrances and near windows::2.0
+qj2 = < p1j2::2.0
+model must be first::2.0
+comparisons ij essentially measures::2.0
+absolute locations::2.0
+realization for their relative::2.0
+implemented the ez client::2.0
+managing enterprise wireless networks::2.0
+unknown gain the difference::2.0
+small using the ipaq::2.0
+aps and n unknown::2.0
+lock at the entrance::2.0
+signal attenuation from significant::2.0
+measurements obtained using two::2.0
+pick only 4m unknowns::2.0
+measurements at known locations::2.0
+horus wlan location determination::2.0
+gps and hence deemed::2.0
+approaches to ap selection::2.0
+randomly picking a solution::2.0
+experiments in microsoft gtsc::2.0
+implies that localization accuracy::2.0
+consists of a vector::2.0
+effort is a key::2.0
+designed based on desirable::2.0
+techniques for wireless lan-based::2.0
+communicate with the server::2.0
+advantage of no pre-deployment::2.0
+unique solution::2.0
+krchinta @ microsoft.com v-anandi::2.0
+framework for managing enterprise::2.0
+obtain a gps lock::2.0
+made are in proximity::2.0
+number of rss measurements::2.0
+transactions on information systems::2.0
+number of different devices::2.0
+depicted as hollow triangles::2.0
+differences in the receiver::2.0
+distances noted in equation::2.0
+filtering the very large::2.0
+distance measurements between mobile::2.0
+power of the aps::2.0
+cloud could automatically construct::2.0
+relative to the gain::2.0
+computing a similarity metric::2.0
+large space of possibilities::2.0
+accuracy using a separate::2.0
+developed the apselect algorithm::2.0
+places across the indoor::2.0
+perform localization in outdoor::2.0
+mea1 > and surements::2.0
+specifically for each indoor::2.0
+schemes that require specialized::2.0
+walls and other obstructions::2.0
+depicts the cumulative distribution::2.0
+set with k devices::2.0
+model generated with measurements::2.0
+information from mobile devices::2.0
+sections of the floor::2.0
+runs of the experiment::2.0
+location fix::2.0
+distance dij::2.0
+inherently amenable to massively::2.0
+steeper is the fall::2.0
+vjk22 are `` close::2.0
+80th percentile errors progressively::2.0
+efforts have been made::2.0
+pre-measured differences in receiver::2.0
+found that rgea estimates::2.0
+unknown and known locations::2.0
+anchoring in an absolute::2.0
+clusters have a similarity::2.0
+focus on leveraging existing::2.0
+bayesian indoor positioning systems::2.0
+total number of ldpl::2.0
+people and other obstacles::2.0
+rss observations between aps::2.0
+extensions to the current::2.0
+variables to be picked::2.0
+deemed as known locations::2.0
+location and transmit power::2.0
+call center::2.0
+unknowns to be solved::2.0
+distance it has moved::2.0
+separation between the two::2.0
+first normalized to lie::2.0
+evaluated over the testing::2.0
+model based on detailed::2.0
+threshold of the receiver::2.0
+measurement reports to identify::2.0
+ipaq-ipaq shows the result::2.0
+referred to as small::2.0
+landmark or anchor nodes::2.0
+contributions to this area::2.0
+locations are then required::2.0
+minutes to several hours::2.0
+set as our evaluation::2.0
+locations in a relative::2.0
+locations and transmit powers::2.0
+large in this experiment::2.0
+environment and to localize::2.0
+two solutions old sold::2.0
+entrance to the floor::2.0
+focus on 2d locations::2.0
+gain differences we introduce::2.0
+essentially linearizes the system::2.0
+belonged to the indoor::2.0
+real time and responds::2.0
+converted into the distance::2.0
+wifi slam using gaussian::2.0
+recursive algorithm that takes::2.0
+location to establish ground::2.0
+mobile devices can participate::2.0
+database of rss signatures::2.0
+gik can be estimated::2.0
+specialized infrastructure for localization::2.0
+localization followed by anchoring::2.0
+structure is deemed localizable::2.0
+localization framework using non-convex::2.0
+values at various locations::2.0
+constituted the most information::2.0
+estimate the rf model::2.0
+construction and localization system::2.0
+pseudo code for ersga::2.0
+india microsoft research india::2.0
+robotics was simultaneous localization::2.0
+cut down the measurement::2.0
+difference between the elements::2.0
+estimated using the genetic::2.0
+ile 100m x 100m::2.0
+pull in rss information::2.0
+current implementation::2.0
+order of the number::2.0
+ensure this in practice::2.0
+aps in their view::2.0
+resulted in degraded performance::2.0
+component in this graph::2.0
+system has been built::2.0
+interest with a vector::2.0
+training time while incurring::2.0
+chose a generous search::2.0
+size of the problem::2.0
+collect ground truth information::2.0
+space for the receiver::2.0
+mobile devices in real::2.0
+begins by initializing ldone::2.0
+buildings we have deployed::2.0
+signatures at grid locations::2.0
+ldpl equations will yield::2.0
+build the rf model::2.0
+fixing the ap locations::2.0
+require any prior knowledge::2.0
+local minima::2.0
+set of ldpl equations::2.0
+data from multiple devices::2.0
+experiment that only differed::2.0
+note that model estimation::2.0
+values at all locations::2.0
+two devices as discussed::2.0
+root node and assigns::2.0
+measurements of the aps::2.0
+problem that we hope::2.0
+research for the past::2.0
+searching in a bounding::2.0
+manual effort to perform::2.0
+fine-grained localization in ad-hoc::2.0
+learns by collecting data::2.0
+towers has enabled localization::2.0
+device laptop xenovo x61::2.0
+server in model creation::2.0
+notion of co-circular dependency::2.0
+reveals that the system::2.0
+collected at unknown locations::2.0
+user participation::2.0
+25m x 25m median::2.0
+pre-wifi wlans was radar::2.0
+walls ; and houses::2.0
+ldpl model can provide::2.0
+rgea estimates the difference::2.0
+location can be uniquely::2.0
+out a smaller subset::2.0
+placement or power settings::2.0
+change = true return::2.0
+based on a client-server::2.0
+device transmits the rss::2.0
+implementation devices periodically perform::2.0
+uniquely determine the four::2.0
+locations across the indoor::2.0
+introduce an additional unknown::2.0
+presence of a sufficient::2.0
+set and then compute::2.0
+made within the indoor::2.0
+belonged to neighboring office::2.0
+initial trials we found::2.0
+key advantage::2.0
+inferring an rf model::2.0
+observed rss typically lie::2.0
+small building::2.0
+naive average rss naive::2.0
+clear that the system::2.0
+words they were co-located::2.0
+transmit powers and path::2.0
+aps selected by apselect::2.0
+efficacy of locselect locselect::2.0
+communication between the client::2.0
+enabled mobile devices gain::2.0
+gain differences while ideally::2.0
+equations into the form::2.0
+initial guess and find::2.0
+embed the unknown coordinates::2.0
+select the most suitable::2.0
+clients scan for wifi::2.0
+pi1 + i1 log::2.0
+data from a single::2.0
+analyzed the rss map::2.0
+median error::2.0
+performance of the genetic::2.0
+microsoft research india microsoft::2.0
+schemes over these locations::2.0
+walk around the floor::2.0
+cumulative distribution of localization::2.0
+aps on the small::2.0
+mac addresses::2.0
+location information to enable::2.0
+wifi infrastructure to localize::2.0
+made using the laptop::2.0
+returned as the estimated::2.0
+responds to location queries::2.0
+error on this test::2.0
+burden across mobile devices::2.0
+compute the localization error::2.0
+ezs performance on number::2.0
+malls and multi-tenant office::2.0
+copies are not made::2.0
+schemes relied on deploying::2.0
+solutions are randomly generated::2.0
+reviewers for their constructive::2.0
+determined through an exhaustive::2.0
+measurement points::2.0
+laptopipaq ez ipaqipaq radar::2.0
+significant degree of pre-deployment::2.0
+passing through these locations::2.0
+effectively estimate and compensate::2.0
+user measurement are represented::2.0
+granted without fee provided::2.0
+total number of unknowns::2.0
+rss signatures::2.0
+parameters are generated randomly::2.0
+goal was to minimize::2.0
+localize new mobile devices::2.0
+alternatives are search techniques::2.0
+make digital or hard::2.0
+powers and path loss::2.0
+loss exponent i captures::2.0
+active area of research::2.0
+location is drawn iff::2.0
+initially each ap represents::2.0
+demonstrated that gsm signal::2.0
+rgea starts with equations::2.0
+users carrying wifi-enabled devices::2.0
+transmits the rss information::2.0
+aps on different channels::2.0
+selected the same number::2.0
+falls with distance depends::2.0
+properties such as coverage::2.0
+scheme the relative gain::2.0
+characteristics and calibration-free techniques::2.0
+support multiple mobile devices::2.0
+locations of the indoor::2.0
+order to uniquely determine::2.0
+microsoft.com v-anandi @ microsoft.com::2.0
+search over several combinations::2.0
+difference in rss measurements::2.0
+gps at the edges::2.0
+mobile node that traverses::2.0
+indoor localization is attractive::2.0
+floor comprises several obstructions::2.0
+floor in our deployments::2.0
+reduce the mapping effort::2.0
+space when the solution::2.0
+locations selected randomly figure::2.0
+require extensive pre-deployment effort::2.0
+server in the cloud::2.0
+locations instead of single::2.0
+percentile errors progressively decrease::2.0
+separate test data set::2.0
+indoor environment in normal::2.0
+research on indoor localization::2.0
+lead to significant energy::2.0
+absence of the knowledge::2.0
+obvious way to narrow::2.0
+eval1 uated by computing::2.0
+0.7m and 4m yielded::2.0
+learn the rf model::2.0
+version of the true::2.0
+scheme that has access::2.0
+form of concrete walls::2.0
+depicted in scenario i-b::2.0
+iyer microsoft research india::2.0
+search space can dramatically::2.0
+evaluated all the four::2.0
+construct the rf model::2.0
+inferred from rss values::2.0
+simulated annealing to estimate::2.0
+solutions is then refined::2.0
+receiver gain differences accurately::2.0
+samsung sghi780::2.0
+subject to diurnal variations::2.0
+devices and from calibration::2.0
+approaches such as radar::2.0
+locations throughout the floor::2.0
+map using several features::2.0
+independent of its receiver::2.0
+solutions with higher fitness::2.0
+located at a distance::2.0
+location determination system::1.58496250072
+simultanoues map building::1.58496250072
+access to gps::1.58496250072
+implication from equation::1.58496250072
+widely-used mobile devices::1.58496250072
+ldpl model dij::1.58496250072
+comparisons ij essentially::1.58496250072
+avgrssapselect and maxrssapselect::1.58496250072
+measurements between mobile::1.58496250072
+experimentally we determined::1.58496250072
+based on deployment::1.58496250072
+exhaustively to determine::1.58496250072
+loss in localization::1.58496250072
+aps while preserving::1.58496250072
+provisioned the robot::1.58496250072
+leveraging existing infrastructure::1.58496250072
+rss from two::1.58496250072
+versus naive schemes::1.58496250072
+1.3m and 2.1m::1.58496250072
+including the number::1.58496250072
+robust is performance::1.58496250072
+badge location system::1.58496250072
+cases two mobile::1.58496250072
+rss fingerprinting scheme::1.58496250072
+ldone the set::1.58496250072
+ad-hoc positioning system::1.58496250072
+experiment rss data::1.58496250072
+construction probability location::1.58496250072
+experiments we report::1.58496250072
+locations for aps::1.58496250072
+locations has two::1.58496250072
+multi-tenant office buildings::1.58496250072
+knowing three true::1.58496250072
+space in normal::1.58496250072
+attenuation from significant::1.58496250072
+device for training::1.58496250072
+including the location::1.58496250072
+locations for training::1.58496250072
+cost of decreased::1.58496250072
+nature of solutions::1.58496250072
+implementation devices periodically::1.58496250072
+roughly every 1.5m::1.58496250072
+inbuilding rf-based user::1.58496250072
+determine its current::1.58496250072
+vj1 and vjk22::1.58496250072
+characteristics and calibration-free::1.58496250072
+scans its environment::1.58496250072
+difference of 11db::1.58496250072
+distributed for profit::1.58496250072
+observed rss values::1.58496250072
+mobile devices gain::1.58496250072
+laptop user limited::1.58496250072
+structure is deemed::1.58496250072
+carried by users::1.58496250072
+analytical solution exists::1.58496250072
+deployment and results::1.58496250072
+plan to extend::1.58496250072
+selecting the right::1.58496250072
+element independently randomly::1.58496250072
+determine local minima::1.58496250072
+measurements dramatically compared::1.58496250072
+latitude and longitude::1.58496250072
+including the placement::1.58496250072
+gsm indoor localization::1.58496250072
+set of distances::1.58496250072
+multilateration by savvides::1.58496250072
+implementation uses wifi::1.58496250072
+errors in small::1.58496250072
+devices periodically perform::1.58496250072
+data set gathered::1.58496250072
+ideally rss observations::1.58496250072
+records the received::1.58496250072
+3.1m and 4.4m::1.58496250072
+radar could automatically::1.58496250072
+variety of smartphones::1.58496250072
+similar yet slightly::1.58496250072
+theory and experimentation::1.58496250072
+location is selected::1.58496250072
+performance to improve::1.58496250072
+maximum likelihood based::1.58496250072
+involves considerable pre-deployment::1.58496250072
+separate test data::1.58496250072
+performed in terms::1.58496250072
+terms of localization::1.58496250072
+enjoy relatively freer::1.58496250072
+measure the rss::1.58496250072
+solutions by searching::1.58496250072
+practical robust localization::1.58496250072
+collaborative localization requires::1.58496250072
+attempt to provide::1.58496250072
+refresh the model::1.58496250072
+scheme the relative::1.58496250072
+obtained by picking::1.58496250072
+estimated ap parameters::1.58496250072
+schemes that start::1.58496250072
+massively parallel computation::1.58496250072
+requiring any explicit::1.58496250072
+area and conditions::1.58496250072
+drawn between two::1.58496250072
+rss observations pij::1.58496250072
+due to differences::1.58496250072
+trials we found::1.58496250072
+landmark or anchor::1.58496250072
+device with unknown::1.58496250072
+fraction of training::1.58496250072
+cloud could automatically::1.58496250072
+selected by locselect::1.58496250072
+aps of qkj11::1.58496250072
+25m mean 25m::1.58496250072
+due to space::1.58496250072
+office floor housing::1.58496250072
+begins by initializing::1.58496250072
+employ wifi sniffers::1.58496250072
+solutions that satisfy::1.58496250072
+rss map generated::1.58496250072
+fair and consistent::1.58496250072
+locselect and trained::1.58496250072
+resulted in degraded::1.58496250072
+pull in rss::1.58496250072
+form of concrete::1.58496250072
+locations and report::1.58496250072
+create a set::1.58496250072
+scan for wifi::1.58496250072
+gps-less low cost::1.58496250072
+malls and multi-tenant::1.58496250072
+simultaneous equations formed::1.58496250072
+selected random subsets::1.58496250072
+rss typically lie::1.58496250072
+gik = gij::1.58496250072
+set of devices::1.58496250072
+locations in common::1.58496250072
+aps nor deployment::1.58496250072
+builds a map::1.58496250072
+initial approaches provisioned::1.58496250072
+users carrying wifi-enabled::1.58496250072
+building when measurements::1.58496250072
+traverse this space::1.58496250072
+picks a node::1.58496250072
+radar was found::1.58496250072
+reports this information::1.58496250072
+establish ground truth::1.58496250072
+typical office floor::1.58496250072
+impeding easy deployment::1.58496250072
+radar user location::1.58496250072
+belonged to neighboring::1.58496250072
+spa by capkun::1.58496250072
+reducing model training::1.58496250072
+aps horus ez+loc::1.58496250072
+construct an rss::1.58496250072
+data to learn::1.58496250072
+question is extremely::1.58496250072
+section we describe::1.58496250072
+robust to device::1.58496250072
+based on detailed::1.58496250072
+processed the collected::1.58496250072
+consideration for mobile::1.58496250072
+criterion to create::1.58496250072
+significant energy savings::1.58496250072
+experiments in microsoft::1.58496250072
+section we briefly::1.58496250072
+system uniquely solvable::1.58496250072
+observations were made::1.58496250072
+considerable pre-deployment effort::1.58496250072
+extensive pre-deployment effort::1.58496250072
+schemes have improved::1.58496250072
+described in section::1.58496250072
+determined that ipaq::1.58496250072
+relative locations localization::1.58496250072
+rotated and reflected::1.58496250072
+information to enable::1.58496250072
+estimate of gij::1.58496250072
+india microsoft research::1.58496250072
+locations selected randomly::1.58496250072
+powers and path::1.58496250072
+introduce an additional::1.58496250072
+neighboring office buildings::1.58496250072
+collect ground truth::1.58496250072
+faster rate compared::1.58496250072
+introduction to numerical::1.58496250072
+amount of energy::1.58496250072
+two different devices::1.58496250072
+wireless ad-hoc networks::1.58496250072
+sensing using active::1.58496250072
+locations and finally::1.58496250072
+out as outliers::1.58496250072
+randomly picked locations::1.58496250072
+25m 25m floor::1.58496250072
+elaborate in section::1.58496250072
+compute the localization::1.58496250072
+1.3m with horus::1.58496250072
+determine the parameters::1.58496250072
+errors in large::1.58496250072
+four fixed locations::1.58496250072
+give a normalized::1.58496250072
+correct for errors::1.58496250072
+clusters while ensuring::1.58496250072
+determine its location::1.58496250072
+50th percentile error::1.58496250072
+participation to aid::1.58496250072
+constructing a database::1.58496250072
+3.1.2 the notion::1.58496250072
+chipset running navigon::1.58496250072
+research india padmanab::1.58496250072
+problem in enable::1.58496250072
+locselect versus random::1.58496250072
+measured their distances::1.58496250072
+learn the characteristics::1.58496250072
+minutes lenovo t61::1.58496250072
+bayesian indoor positioning::1.58496250072
+code for ersga::1.58496250072
+difficulty on practice::1.58496250072
+chintalapudi anand padmanabha::1.58496250072
+gsm signal strength::1.58496250072
+edge is drawn::1.58496250072
+rss signatures collected::1.58496250072
+embed the unknown::1.58496250072
+entire procedure begins::1.58496250072
+distances from aps::1.58496250072
+requirement that makes::1.58496250072
+condition c3 essentially::1.58496250072
+signatures at grid::1.58496250072
+100m median 100m::1.58496250072
+chose a generous::1.58496250072
+loss of accuracy::1.58496250072
+selecting a representative::1.58496250072
+absolute coordinate space::1.58496250072
+padmanab @ microsoft.com::1.58496250072
+occasional location fix::1.58496250072
+devices allows unique::1.58496250072
+measured rss values::1.58496250072
+combination with trilateration::1.58496250072
+devices gain access::1.58496250072
+compared to prior::1.58496250072
+single office floor::1.58496250072
+apselect versus naive::1.58496250072
+observed while training::1.58496250072
+aps for localization::1.58496250072
+found it advantageous::1.58496250072
+maintaining a database::1.58496250072
+small data set::1.58496250072
+queries the client::1.58496250072
+techniques for wireless::1.58496250072
+gaussian random variable::1.58496250072
+minimum number clusters::1.58496250072
+compare the performance::1.58496250072
+absence of receiver::1.58496250072
+create the rss::1.58496250072
+determined the gain::1.58496250072
+knowledge there exists::1.58496250072
+active badge location::1.58496250072
+highlights the importance::1.58496250072
+leverages existing infrastructure::1.58496250072
+environment in question::1.58496250072
+building and localization::1.58496250072
+pull is desirable::1.58496250072
+answer this question::1.58496250072
+obtain and report::1.58496250072
+freer signal propagation::1.58496250072
+measurements to distances::1.58496250072
+dv-dist by nicelescu::1.58496250072
+conditions for localizability::1.58496250072
+differences across mobile::1.58496250072
+gain differences accurately::1.58496250072
+ability to determine::1.58496250072
+held the mobile::1.58496250072
+differences of 2-7db::1.58496250072
+devices in real::1.58496250072
+consistent with apselect::1.58496250072
+data to generate::1.58496250072
+algorithms can search::1.58496250072
+determining its location::1.58496250072
+localization in outdoor::1.58496250072
+padmanabha iyer microsoft::1.58496250072
+configuration robust indoor::1.58496250072
+space can dramatically::1.58496250072
+framework from section::1.58496250072
+research india microsoft::1.58496250072
+pre-filtering and selects::1.58496250072
+guess and find::1.58496250072
+obtain rss readings::1.58496250072
+subset of aps::1.58496250072
+wlan location determination::1.58496250072
+best-performing but calibrationintensive::1.58496250072
+aps and gsm::1.58496250072
+infrastructure to localize::1.58496250072
+locations by solving::1.58496250072
+describe in detail::1.58496250072
+mobile ad-hoc networks::1.58496250072
+transmit the observed::1.58496250072
+localization is attractive::1.58496250072
+localization in indoor::1.58496250072
+key research contributions::1.58496250072
+two ap clusters::1.58496250072
+25m and 100m::1.58496250072
+differences we introduce::1.58496250072
+performance was achieved::1.58496250072
+server has two::1.58496250072
+mobile device users::1.58496250072
+estimate the gain::1.58496250072
+inspecting the distribution::1.58496250072
+obtain a gps::1.58496250072
+subject descriptors c.2::1.58496250072
+balances the burden::1.58496250072
+closed form solution::1.58496250072
+devices and aps::1.58496250072
+-20dbm to -50dbm::1.58496250072
+assuming 2d locations::1.58496250072
+solution space efficiently::1.58496250072
+ez+loc and found::1.58496250072
+localization procedure difficult::1.58496250072
+built a custom::1.58496250072
+j1th and j2th::1.58496250072
+body of permission::1.58496250072
+enterprise wireless networks::1.58496250072
+generated by randomly::1.58496250072
+based on desirable::1.58496250072
+ad-hoc position system::1.58496250072
+explicit pre-deployment calibration::1.58496250072
+number of local::1.58496250072
+selection of aps::1.58496250072
+vector of values::1.58496250072
+devices receiver gains::1.58496250072
+amenable to massively::1.58496250072
+information theoretically speaking::1.58496250072
+work with measurements::1.58496250072
+propagation models based::1.58496250072
+measures how similar::1.58496250072
+performance of radar::1.58496250072
+permission to make::1.58496250072
+25m median 25m::1.58496250072
+newly generated solution::1.58496250072
+equations to make::1.58496250072
+smartphones and netbooks::1.58496250072
+horus or radar::1.58496250072
+wireless lan-based location::1.58496250072
+clients in real::1.58496250072
+variety of mobile::1.58496250072
+average signal strength::1.58496250072
+iyer microsoft research::1.58496250072
+two important functions::1.58496250072
+100m mean 100m::1.58496250072
+star iii chipset::1.58496250072
+calibration effort needed::1.58496250072
+analytical closed form::1.58496250072
+information to mobile::1.58496250072
+beacons from neighboring::1.58496250072
+obtain the benefits::1.58496250072
+model construction probability::1.58496250072
+jez is immense::1.58496250072
+vjk11 and vjk22::1.58496250072
+vector dot product::1.58496250072
+ezs error remains::1.58496250072
+randomly and refining::1.58496250072
+locations but makes::1.58496250072
+cdone = cdone::1.58496250072
+estimated standard deviation::1.58496250072
+dynamic indoor signal::1.58496250072
+pki2 j pki1::1.58496250072
+borrow from prior::1.58496250072
+cost of deploying::1.58496250072
+generate sufficient data::1.58496250072
+mobile user measurement::1.58496250072
+truth for evaluation::1.58496250072
+rotation and reflection::1.58496250072
+naive max rss::1.58496250072
+applications in indoor::1.58496250072
+maintain the model::1.58496250072
+cost in terms::1.58496250072
+rss measurement pij::1.58496250072
+difference in gain::1.58496250072
+location and transmit::1.58496250072
+pij |i cdone::1.58496250072
+1.5m in small::1.58496250072
+addition to wifi::1.58496250072
+true return change::1.58496250072
+location with respect::1.58496250072
+unavailability of gps::1.58496250072
+vector of received::1.58496250072
+cost of incremental::1.58496250072
+ldone if |o|::1.58496250072
+terms of walls::1.58496250072
+obtain the location::1.58496250072
+differences while ideally::1.58496250072
+found that ezs::1.58496250072
+multiple mobile devices::1.58496250072
+devices or obtaining::1.58496250072
+mall is crowded::1.58496250072
+starts with equations::1.58496250072
+model can provide::1.58496250072
+random gain value::1.58496250072
+radar horus ez+loc::1.58496250072
+compute the similarity::1.58496250072
+ssids and appears::1.58496250072
+positioning in mobile::1.58496250072
+evaluate the efficacy::1.58496250072
+estimated the model::1.58496250072
+individual mobile device::1.58496250072
+compensating for differences::1.58496250072
+evaluated localization accuracy::1.58496250072
+viable indoor localization::1.58496250072
+occasional large perturbations::1.58496250072
+benefit of sensors::1.58496250072
+successive subset included::1.58496250072
+return change ersga::1.58496250072
+shown that knowing::1.58496250072
+localize the users::1.58496250072
+autonomous mobile robot::1.58496250072
+works with existing::1.58496250072
+fare in localizing::1.58496250072
+explicit pre-deployment effort::1.58496250072
+knowing the absolute::1.58496250072
+fingerprint each location::1.58496250072
+cambridge university press::1.58496250072
+clusters is computed::1.58496250072
+belong to small::1.58496250072
+context of robot::1.58496250072
+laptopipaq ez ipaqipaq::1.58496250072
+addition to estimating::1.58496250072
+takes a value::1.58496250072
+measurements were made::1.58496250072
+environment in normal::1.58496250072
+effect the transitive::1.58496250072
+full measurement data::1.58496250072
+subtract the devices::1.58496250072
+subsets and evaluated::1.58496250072
+implemented over tcp::1.58496250072
+generous search space::1.58496250072
+answered through standard::1.58496250072
+energy efficiency issues::1.58496250072
+circle of radius::1.58496250072
+selected locations appears::1.58496250072
+due to signal::1.58496250072
+shows the cdf::1.58496250072
+fits the model::1.58496250072
+sophisticated ray-tracing model::1.58496250072
+implies that localization::1.58496250072
+employs a stochastic::1.58496250072
+typical running times::1.58496250072
+words old snew::1.58496250072
+space is extremely::1.58496250072
+enabled mobile devices::1.58496250072
+gain value drawn::1.58496250072
+hope to tackle::1.58496250072
+placement or power::1.58496250072
+observations at approximately::1.58496250072
+require any explicit::1.58496250072
+satisfy the set::1.58496250072
+determine their values::1.58496250072
+approach to estimating::1.58496250072
+floor briefly stopping::1.58496250072
+proliferation of static::1.58496250072
+aps and measurement::1.58496250072
+area of robotics::1.58496250072
+perturbation based mutation::1.58496250072
+large and houses::1.58496250072
+networks of sensors::1.58496250072
+found that averaging::1.58496250072
+schemes that depend::1.58496250072
+represents the set::1.58496250072
+wifi access points::1.58496250072
+generate the measured::1.58496250072
+yields the vectors::1.58496250072
+location to establish::1.58496250072
+notion of co-circular::1.58496250072
+estimate or correct::1.58496250072
+percentile errors obtained::1.58496250072
+rss data collected::1.58496250072
+number of ldpl::1.58496250072
+impossible to uniquely::1.58496250072
+identified and discarded::1.58496250072
+investigate energy efficiency::1.58496250072
+rss observations p1n,1m::1.58496250072
+require any prior::1.58496250072
+100m 100m floor::1.58496250072
+solution to jez::1.58496250072
+solution to ldpl::1.58496250072
+reducing the calibration::1.58496250072
+two floor sizes::1.58496250072
+obtaining gps locks::1.58496250072
+selects the top::1.58496250072
+ieee personal communications::1.58496250072
+mobile devices carried::1.58496250072
+label as ipaq::1.58496250072
+digital or hard::1.58496250072
+ease and freedom::1.58496250072
+unknown locations match::1.58496250072
+discussion in section::1.58496250072
+distribution of rss::1.58496250072
+construct and maintain::1.58496250072
+equations is scale::1.58496250072
+users simply sit::1.58496250072
+present a formal::1.58496250072
+build a map::1.58496250072
+beacons and receivers::1.58496250072
+free to rotate::1.58496250072
+subset of locations::1.58496250072
+infrastructure for localization::1.58496250072
+framework for managing::1.58496250072
+eventually enough constraints::1.58496250072
+collected rss readings::1.58496250072
+measured in dbm::1.58496250072
+independently randomly drawn::1.58496250072
+learns by collecting::1.58496250072
+databases for radar::1.58496250072
+locselect locselect carefully::1.58496250072
+assume node-to-node communication::1.58496250072
+rfid based systems::1.58496250072
+determine that rss::1.58496250072
+lenovo t61p laptop::1.58496250072
+indoor signal map::1.58496250072
+entire indoor space::1.58496250072
+lead to significant::1.58496250072
+advantageous to combine::1.58496250072
+hopes to capture::1.58496250072
+buildings are promising::1.58496250072
+indoor positioning systems::1.58496250072
+cost and effort::1.58496250072
+systems is hindered::1.58496250072
+creating k partitions::1.58496250072
+space could distort::1.58496250072
+1.8m and 2.8m::1.58496250072
+crossover and mutation::1.58496250072
+depicts the cdf::1.58496250072
+newton raphson method::1.58496250072
+localizability of wireless::1.58496250072
+lan-based location estimation::1.58496250072
+amount of data::1.58496250072
+belonged to small::1.58496250072
+analyzed the rss::1.58496250072
+single mobile node::1.58496250072
+made to reduce::1.58496250072
+pervasive computing applications::1.58496250072
+pre-deployment effort provided::1.58496250072
+data was collected::1.58496250072
+curve ez laptop-ipaq::1.58496250072
+focus on leveraging::1.58496250072
+relies on measurement::1.58496250072
+terminates when solutions::1.58496250072
+granted without fee::1.58496250072
+localizing new devices::1.58496250072
+preserving its performance::1.58496250072
+case of small::1.58496250072
+annealing to estimate::1.58496250072
+require any pre-deployment::1.58496250072
+equipped with wifi::1.58496250072
+days to refresh::1.58496250072
+locations ! random::1.58496250072
+provide significant gains::1.58496250072
+picked for training::1.58496250072
+solution generation algorithm::1.58496250072
+make and model::1.58496250072
+naive average rss::1.58496250072
+build the databases::1.58496250072
+effort in constructing::1.58496250072
+event localization framework::1.58496250072
+solutions with higher::1.58496250072
+standard deviation greater::1.58496250072
+two different machines::1.58496250072
+based localization system::1.58496250072
+wlans was radar::1.58496250072
+arise from differences::1.58496250072
+devices record received::1.58496250072
+deployment of wifi::1.58496250072
+server in model::1.58496250072
+indices of aps::1.58496250072
+references the distribution::1.58496250072
+four ap parameters::1.58496250072
+entail a considerable::1.58496250072
+identify a small::1.58496250072
+two important tasks::1.58496250072
+represents a vector::1.58496250072
+estimated the transmit::1.58496250072
+typical wifi deployments::1.58496250072
+transmits a list::1.58496250072
+pain krishna chintalapudi::1.58496250072
+detailed floor maps::1.58496250072
+server and obtain::1.58496250072
+schemes use angle::1.58496250072
+depend on knowledge::1.58496250072
+set of random::1.58496250072
+alternatives are search::1.58496250072
+solving the simultaneous::1.58496250072
+approaches assume node-to-node::1.58496250072
+elements of vjk11::1.58496250072
+algorithm that takes::1.58496250072
+ad-hoc localization protocol::1.58496250072
+aps might alleviate::1.58496250072
+receiver gain offsets::1.58496250072
+assigned random values::1.58496250072
+conducted by training::1.58496250072
+ipaq hw6965 smartphone::1.58496250072
+transmitting this information::1.58496250072
+hope of determining::1.58496250072
+deployment of additional::1.58496250072
+curves ez ipaq-ipaq::1.58496250072
+developed the locselect::1.58496250072
+approach for indoor::1.58496250072
+procedure of evaluating::1.58496250072
+rgea then estimates::1.58496250072
+require specialized infrastructure::1.58496250072
+cocircular with respect::1.58496250072
+solving these set::1.58496250072
+log-distance path loss::1.58496250072
+aps are first::1.58496250072
+mixture of data::1.58496250072
+constraints in epl::1.58496250072
+problem we developed::1.58496250072
+determined through trilateration::1.58496250072
+schemes that require::1.58496250072
+mobile devices simultaneously::1.58496250072
+models these constraints::1.58496250072
+analyze the behavior::1.58496250072
+floor at roughly::1.58496250072
+server is responsible::1.58496250072
+gaps are filled::1.58496250072
+first key observation::1.58496250072
+variations in rss::1.58496250072
+section we attempt::1.58496250072
+training data ez+loc::1.58496250072
+locations to compute::1.58496250072
+carrying wifi-enabled devices::1.58496250072
+estimates receiver gain::1.58496250072
+understand the reason::1.58496250072
+reducing the search::1.58496250072
+percentile of 12m::1.58496250072
+require several minutes::1.58496250072
+evaluate the performance::1.58496250072
+typical indoor spaces::1.58496250072
+converting rss measurements::1.58496250072
+range and transmit::1.58496250072
+localized these positions::1.58496250072
+server in constructing::1.58496250072
+set of nodes::1.58496250072
+observed rss readings::1.58496250072
+linearizes the system::1.58496250072
+locations within small::1.58496250072
+ersga is provided::1.58496250072
+context of pervasive::1.58496250072
+area of research::1.58496250072
+data ez locselect::1.58496250072
+fingerprinting based schemes::1.58496250072
+practical indoor deployments::1.58496250072
+capture the variations::1.58496250072
+apselect in section::1.58496250072
+path to making::1.58496250072
+learn the model::1.58496250072
+rgea also estimates::1.58496250072
+search for differences::1.58496250072
+aps are visible::1.58496250072
+perform detailed measurements::1.58496250072
+narrow search space::1.58496250072
+found in typical::1.58496250072
+responds to location::1.58496250072
+localization error paid::1.58496250072
+profit or commercial::1.58496250072
+rss measurements obtained::1.58496250072
+differences can arise::1.58496250072
+data from multiple::1.58496250072
+two aps measured::1.58496250072
+number of equations::1.58496250072
+10i log dij::1.58496250072
+ten consecutive generations::1.58496250072
+generated rss measurements::1.58496250072
+infrastructure to enable::1.58496250072
+leverage constraints inherent::1.58496250072
+model to construct::1.58496250072
+relied on deploying::1.58496250072
+pki1 j pki2::1.58496250072
+training data sets::1.58496250072
+allowed a robot::1.58496250072
+aps the sheer::1.58496250072
+percentile errors progressively::1.58496250072
+strength of pij::1.58496250072
+ezs performance scale::1.58496250072
+finally the choice::1.58496250072
+locations and vice-versa::1.58496250072
+decreased localization accuracy::1.58496250072
+contrast to work::1.58496250072
+radar would perform::1.58496250072
+provide training data::1.58496250072
+immense computational hardship::1.58496250072
+process latent variable::1.58496250072
+boundary were assumed::1.58496250072
+requiring neither modifications::1.58496250072
+reading to give::1.58496250072
+estimate the distance::1.58496250072
+subset of data::1.58496250072
+determined using trilateration::1.58496250072
+exponent i captures::1.58496250072
+collected at unknown::1.58496250072
+pairs of mobile::1.58496250072
+locations and transmit::1.58496250072
+depicts the cumulative::1.58496250072
+apselect significantly outperforms::1.58496250072
+device users spread::1.58496250072
+comprises several obstructions::1.58496250072
+requires the simultaneous::1.58496250072
+reduces errors due::1.58496250072
+made or distributed::1.58496250072
+determine the location::1.58496250072
+four known locations::1.58496250072
+gain by sampling::1.58496250072
+takes the value::1.58496250072
+require explicit mapping::1.58496250072
+configured with multiple::1.58496250072
+compared to fingerprinting::1.58496250072
+system can support::1.58496250072
+depicted in scenario-ii::1.58496250072
+work indoor localization::1.58496250072
+estimate and compensate::1.58496250072
+arises in solving::1.58496250072
+dv-hop and dv-dist::1.58496250072
+mobile devices grows::1.58496250072
+two alternate schemes::1.58496250072
+overcome this challenge::1.58496250072
+low cost outdoor::1.58496250072
+found that rgea::1.58496250072
+algorithm to construct::1.58496250072
+miss local minima::1.58496250072
+earliest schemes relied::1.58496250072
+lack of space::1.58496250072
+locselect in section::1.58496250072
+construct separate models::1.58496250072
+localization is performed::1.58496250072
+localize mobile devices::1.58496250072
+return true end::1.58496250072
+picking i randomly::1.58496250072
+fact that rate::1.58496250072
+out a smaller::1.58496250072
+set of ldpl::1.58496250072
+modified to participate::1.58496250072
+values of 1.3m::1.58496250072
+work on ad-hoc::1.58496250072
+cluster all aps::1.58496250072
+work for personal::1.58496250072
+crowd-sourcing of information::1.58496250072
+lack of full::1.58496250072
+batch of locations::1.58496250072
+cricket location-support system::1.58496250072
+schemes that build::1.58496250072
+obstacles might decay::1.58496250072
+deter function ersga::1.58496250072
+perform indoor localization::1.58496250072
+subject to diurnal::1.58496250072
+locations and evaluated::1.58496250072
+examples are dv-hop::1.58496250072
+moved between measurement::1.58496250072
+commercial gps equipped::1.58496250072
+knowledge about wifi::1.58496250072
+alleviate this problem::1.58496250072
+interest in normal::1.58496250072
+simultaneous non-linear equations::1.58496250072
+experience from deploying::1.58496250072
+slam using gaussian::1.58496250072
+bear this notice::1.58496250072
+floor is roughly::1.58496250072
+sampling uniformly randomly::1.58496250072
+extending the capabilities::1.58496250072
+6.1.1 location queries::1.58496250072
+inferred from rss::1.58496250072
+provide the reader::1.58496250072
+transmit power henceforth::1.58496250072
+reduces the number::1.58496250072
+start by determining::1.58496250072
+change = ersga::1.58496250072
+wifi rss map::1.58496250072
+developed the apselect::1.58496250072
+degree of pre-deployment::1.58496250072
+answer these questions::1.58496250072
+chose the median::1.58496250072
+tackle this problem::1.58496250072
+performance in large::1.58496250072
+group of aps::1.58496250072
+model was built::1.58496250072
+low standard deviation::1.58496250072
+measurements were conducted::1.58496250072
+central localization server::1.58496250072
+due to multi-path::1.58496250072
+framework using non-convex::1.58496250072
+commercial localization products::1.58496250072
+solutions old sold::1.58496250072
+device laptop xenovo::1.58496250072
+locations were generated::1.58496250072
+samsung sgh i780::1.58496250072
+demonstrates the benefit::1.58496250072
+node and assigns::1.58496250072
+improves on radar::1.58496250072
+two different kinds::1.58496250072
+equations should greater::1.58496250072
+mobile device figure::1.58496250072
+redistribute to lists::1.58496250072
+attempt to find::1.58496250072
+parameters are determined::1.58496250072
+model based scheme::1.58496250072
+equations will yield::1.58496250072
+observed rss typically::1.58496250072
+rate of fall::1.58496250072
+towers has enabled::1.58496250072
+cdone if |o|::1.58496250072
+performed significantly worse::1.58496250072
+trilateration to determine::1.58496250072
+picking a solution::1.58496250072
+training with data::1.58496250072
+database of pre-measured::1.58496250072
+gaussian process latent::1.58496250072
+locations using locselect::1.58496250072
+requirement makes bootstrapping::1.58496250072
+starts by picking::1.58496250072
+closer to reality::1.58496250072
+knowing the dimensions::1.58496250072
+four rss measurements::1.58496250072
+earliest notable examples::1.58496250072
+clustering similar aps::1.58496250072
+makes bootstrapping non-trivial::1.58496250072
+extensive mapping effort::1.58496250072
+burden across mobile::1.58496250072
+determine the distance::1.58496250072
+support multiple mobile::1.58496250072
+parallel programming paradigms::1.58496250072
+horus with smaller::1.58496250072
+demonstrated that gsm::1.58496250072
+apselect and found::1.58496250072
+solves the set::1.58496250072
+construction and localization::1.58496250072
+similar rss readings::1.58496250072
+ldone = ldone::1.58496250072
+two different pairs::1.58496250072
+unknowns in addition::1.58496250072
+aps and locations::1.58496250072
+scan and push::1.58496250072
+establish the location::1.58496250072
+yield rss measurements::1.58496250072
+floor and deemed::1.58496250072
+finds the solutions::1.58496250072
+closest local minimum::1.58496250072
+yields a median::1.58496250072
+laptop xenovo x61::1.58496250072
+modified to measure::1.58496250072
+performance in small::1.58496250072
+non-linear objective function::1.58496250072
+showcase the efficacy::1.58496250072
+evaluation we found::1.58496250072
+falls with distance::1.58496250072
+radar by maintaining::1.58496250072
+finds a set::1.58496250072
+evaluate localization accuracy::1.58496250072
+reports to identify::1.58496250072
+odometers and ladars::1.58496250072
+solving a set::1.58496250072
+depend on extensive::1.58496250072
+calibrationintensive horus scheme::1.58496250072
+pij |j ldone::1.58496250072
+ap1 and ap2::1.58496250072
+data that fits::1.58496250072
+starts by computing::1.58496250072
+obtained using two::1.58496250072
+robot to navigate::1.58496250072
+terms of absolute::1.58496250072
+aps for radar::1.58496250072
+approximate and simpler::1.58496250072
+single mobile user::1.58496250072
+conditions are satisfied::1.58496250072
+localized by matching::1.58496250072
+normalized to lie::1.58496250072
+pairs of distances::1.58496250072
+pairs of aps::1.58496250072
+research india krchinta::1.58496250072
+satisfy the observations::1.58496250072
+day and borrow::1.58496250072
+mobile device transmits::1.58496250072
+depicted as hollow::1.58496250072
+database of rss::1.58496250072
+benefit of knowing::1.58496250072
+nodes can estimate::1.58496250072
+two additional measurements::1.58496250072
+estimates the uncertainty::1.58496250072
+address this issue::1.58496250072
+gain the difference::1.58496250072
+deploying specialized infrastructure::1.58496250072
+computing a similarity::1.58496250072
+compared to 0.7m::1.58496250072
+space of possibilities::1.58496250072
+nodes to locate::1.58496250072
+push the information::1.58496250072
+active user participation::1.58496250072
+potential of enabling::1.58496250072
+transmits the rss::1.58496250072
+measurement are represented::1.58496250072
+choices were based::1.58496250072
+assigning each partition::1.58496250072
+distribution of localization::1.58496250072
+system of equations::1.58496250072
+aps are modified::1.58496250072
+pairs of measurements::1.58496250072
+two fixed locations::1.58496250072
+mobile applications residing::1.58496250072
+randomly picked subset::1.58496250072
+expect ezs performance::1.58496250072
+randomly picked solution::1.58496250072
+average rss measured::1.58496250072
+radar with values::1.58496250072
+mobile user located::1.58496250072
+cluster is selected::1.58496250072
+cdone the set::1.58496250072
+13a and 13b::1.58496250072
+analysis and methods::1.58496250072
+measured in meters::1.58496250072
+selected randomly figure::1.58496250072
+uated by computing::1.58496250072
+wifi for communication::1.58496250072
+determine the four::1.58496250072
+robotics was simultaneous::1.58496250072
+set of indices::1.58496250072
+number and diversity::1.58496250072
+intermittent stops lasting::1.58496250072
+cloud and leverage::1.58496250072
+parameters are generated::1.58496250072
+location is drawn::1.58496250072
+dependence on amount::1.58496250072
+cdf of errors::1.58496250072
+wifi aps visible::1.58496250072
+absolute location fix::1.58496250072
+mobile device obtains::1.58496250072
+pre-deployment effort compared::1.58496250072
+test the performance::1.58496250072
+selects the strongest::1.58496250072
+highest average similarity::1.58496250072
+aps it found::1.58496250072
+non-collinear mobile devices::1.58496250072
+achieve the ease::1.58496250072
+performance on number::1.58496250072
+effort to perform::1.58496250072
+automated operation brings::1.58496250072
+personal or classroom::1.58496250072
+research on indoor::1.58496250072
+wifi-based indoor localization::1.58496250072
+server class machine::1.58496250072
+locations is provided::1.58496250072
+rss with distance::1.58496250072
+piece of software::1.58496250072
+determine the random::1.58496250072
+localization is avoided::1.58496250072
+minutes per location::1.58496250072
+gij + gjk::1.58496250072
+aps were selected::1.58496250072
+qkj11 and qkj22::1.58496250072
+takes five inputs::1.58496250072
+approach will fail::1.58496250072
+randomly picked gain::1.58496250072
+equation is set::1.58496250072
+two mobile nodes::1.58496250072
+mobile phone localization::1.58496250072
+knowing enough distances::1.58496250072
+probability probability figure::1.58496250072
+bayesian hierarchical approach::1.58496250072
+estimate the rss::1.58496250072
+localization errors obtained::1.58496250072
+transitive estimation noted::1.58496250072
+reduce the mapping::1.58496250072
+provide excellent coverage::1.58496250072
+provided as reference::1.58496250072
+higher the value::1.58496250072
+devices was derived::1.58496250072
+improved upon radar::1.58496250072
+indoor localization system::1.58496250072
+past two decades::1.58496250072
+hope to address::1.58496250072
+collected a total::1.58496250072
+order to uniquely::1.58496250072
+estimating and compensating::1.58496250072
+collaborate to enable::1.58496250072
+obtain location information::1.58496250072
+node that traverses::1.58496250072
+approaches to solving::1.58496250072
+errors progressively decrease::1.58496250072
+batches of training::1.58496250072
+7db while ipaq-1::1.58496250072
+location by comparing::1.58496250072
+similarity between two::1.58496250072
+shows the result::1.58496250072
+flip the problem::1.58496250072
+client first checks::1.58496250072
+narrow the search::1.58496250072
+v-anandi @ microsoft.com::1.58496250072
+estimating the parameters::1.58496250072
+personal communications magazine::1.58496250072
+localize new mobile::1.58496250072
+number and placement::1.58496250072
+problem by treating::1.58496250072
+responsible for providing::1.58496250072
+additional unknown parameter::1.58496250072
+enable all nodes::1.58496250072
+attempts to answer::1.58496250072
+derived by creating::1.58496250072
+solution that minimizes::1.58496250072
+captures the rate::1.58496250072
+utilized data collected::1.58496250072
+indoor location sensing::1.58496250072
+set of equations::1.58496250072
+estimated by solving::1.58496250072
+effort or explicit::1.58496250072
+two different buildings::1.58496250072
+importance of estimating::1.58496250072
+ap1 through ap6::1.58496250072
+robot to build::1.58496250072
+clients and connect::1.58496250072
+solutions are randomly::1.58496250072
+rss were modeled::1.58496250072
+set of locations::1.58496250072
+alternative is depicted::1.58496250072
+selecting a subset::1.58496250072
+constructs the set::1.58496250072
+estimate the locations::1.58496250072
+four localization schemes::1.58496250072
+knowing all measurement::1.58496250072
+manner that balances::1.58496250072
+location from gps::1.58496250072
+post on servers::1.58496250072
+picking two solutions::1.58496250072
+flexibility to compensate::1.58496250072
+gsm signal::1.0
+aps radar::1.0
+searched exhaustively::1.0
+measurements dramatically::1.0
+smartphone ezs::1.0
+energy efficiency::1.0
+devices carried::1.0
+padmanabha iyer::1.0
+ultrasound devices::1.0
+remains substantial::1.0
+fixed nodes::1.0
+closest local::1.0
+initial solutions::1.0
+highest fitness::1.0
+circle passing::1.0
+normalized rss::1.0
+square sense::1.0
+random gain::1.0
+formal proof::1.0
+inter-cluster pairs::1.0
+|pik pjk::1.0
+large perturbations::1.0
+ersga attempts::1.0
+c++ code::1.0
+significantly narrow::1.0
+operation brings::1.0
+epl equations::1.0
+minutes lenovo::1.0
+number clusters::1.0
+support multiple::1.0
+narrow search::1.0
+exponential distribution::1.0
+key advance::1.0
+localization framework::1.0
+fee provided::1.0
+leverage constraints::1.0
+locations errors::1.0
+localization requires::1.0
+entire procedure::1.0
+ezs map::1.0
+unified node::1.0
+small devices::1.0
+localize mobile::1.0
+50th percentile::1.0
+reflected version::1.0
+locations based::1.0
+determined locations::1.0
+localization algorithm::1.0
+significant cost::1.0
+off-the-shelf aps::1.0
+observations reported::1.0
+xenovo x61::1.0
+require knowledge::1.0
+value drawn::1.0
+single values::1.0
+progressively decrease::1.0
+increase localization::1.0
+estimate error::1.0
+device obtains::1.0
+spread out::1.0
+multiple mobile::1.0
+physical location::1.0
+locselect locselect::1.0
+error remains::1.0
+unknown coordinates::1.0
+map building::1.0
+horus improves::1.0
+obtain location::1.0
+locselect versus::1.0
+non-linear equations::1.0
+distance depends::1.0
+subsets comprising::1.0
+wireless lan-based::1.0
+linear interpolation::1.0
+managing enterprise::1.0
+measurements obtained::1.0
+calibration offsets::1.0
+vinod mathews::1.0
+ambience fingerprinting::1.0
+latent variable::1.0
+automatically construct::1.0
+north side::1.0
+occasional location::1.0
+four unknowns::1.0
+convex linear::1.0
+considerable pre-deployment::1.0
+essentially measures::1.0
+additive property::1.0
+locselect algorithms::1.0
+first key::1.0
+limited range::1.0
+rss mea1::1.0
+initial approaches::1.0
+indoor positioning::1.0
+large building::1.0
+device users::1.0
+curious occurrence::1.0
+change end::1.0
+over-determined equations::1.0
+quadratic form::1.0
+users carrying::1.0
+ambient sound::1.0
+floor perimeter::1.0
+selection schemes::1.0
+objective function::1.0
+htc adv7510::1.0
+figure 13a::1.0
+pseudo code::1.0
+initial set::1.0
+enable localization::1.0
+probability figure::1.0
+sampling uniformly::1.0
+13b depict::1.0
+relative sense::1.0
+ten batches::1.0
+highest average::1.0
+earliest schemes::1.0
+remaining aps::1.0
+unique set::1.0
+location system::1.0
+separate thread::1.0
+models based::1.0
+change significantly::1.0
+conceptual separation::1.0
+computer-communication networks::1.0
+current state::1.0
+wifi-enabled devices::1.0
+estimation errors::1.0
+locaij tions::1.0
+commercial gps::1.0
+floor briefly::1.0
+10,000 beacons::1.0
+locations relative::1.0
+floor housing::1.0
+ipaq-ipaq shows::1.0
+long running::1.0
+data collection::1.0
+25m median::1.0
+function aprandominit::1.0
+probability distribution::1.0
+drawn iff::1.0
+indoor signal::1.0
+generous range::1.0
+geometric approach::1.0
+model-based scheme::1.0
+observation pnormalized::1.0
+two schemes::1.0
+pick out::1.0
+devices periodically::1.0
+python code::1.0
+two fixed::1.0
+gain-independent equations::1.0
+priori knowledge::1.0
+100m floor::1.0
+full citation::1.0
+right set::1.0
+local minimum::1.0
+incoming signature::1.0
+unexpected surprise::1.0
+calibrationintensive horus::1.0
+absolute coordinate::1.0
+special case::1.0
+implementation devices::1.0
+co-located aps::1.0
+propagation parameters::1.0
+significant amount::1.0
+four parameters::1.0
+gps signal::1.0
+picked subset::1.0
+node assigned::1.0
+cambridge university::1.0
+top aps::1.0
+ile 100m::1.0
+non-convex constraints::1.0
+hw6965 smartphone::1.0
+indoor deployments::1.0
+indoor location::1.0
+anchor nodes::1.0
+typical office::1.0
+extremely large::1.0
+set indices::1.0
+test set::1.0
+two strategies::1.0
+pmj2 p1j2::1.0
+existing solutions::1.0
+observations p1n,1m::1.0
+stops lasting::1.0
+sheer number::1.0
+htc advantage::1.0
+likelihood based::1.0
+reduces errors::1.0
+squared sense::1.0
+locations appears::1.0
+linear combination::1.0
+j2th locations::1.0
+gain offsets::1.0
+based systems::1.0
+including pillars::1.0
+target environment::1.0
+model accurately::1.0
+minimum overlap::1.0
+assigned random::1.0
+designed based::1.0
+deter function::1.0
+require effort::1.0
+dotted ellipse::1.0
+n-hop multilateration::1.0
+bounding box::1.0
+outdoor localization::1.0
+constraint rule::1.0
+wifi devices::1.0
+single cluster::1.0
+rgea computes::1.0
+enterprise wireless::1.0
+performing measurement::1.0
+computed model::1.0
+evaluation metrics::1.0
+india microsoft::1.0
+excellent opportunity::1.0
+morgan kaufmann::1.0
+dramatically reduce::1.0
+interesting observation::1.0
+ladar sensors::1.0
+full set::1.0
+two nodes::1.0
+constraints r1-r6::1.0
+non-linear objective::1.0
+gps equipped::1.0
+gsm towers::1.0
+unknown parameters::1.0
+active office::1.0
+rgea picks::1.0
+data sets::1.0
+affect performance::1.0
+configuration-free indoor::1.0
+insufficient coupling::1.0
+nonlinear programming::1.0
+multiple nodes::1.0
+deemed unreliable::1.0
+curve labeled::1.0
+considerable amount::1.0
+location sensing::1.0
+entire set::1.0
+conducting experiments::1.0
+first scheme::1.0
+respective rss::1.0
+manual effort::1.0
+picked carefully::1.0
+actively ventures::1.0
+devices grows::1.0
+l-shaped floor::1.0
+enabled mobile::1.0
+terms algorithms::1.0
+incremental gains::1.0
+personal communications::1.0
+roughly 11db::1.0
+wifi coverage::1.0
+fingerprinting scheme::1.0
+reflection invariant::1.0
+co-circular dependency::1.0
+sparsely populated::1.0
+selected randomly::1.0
+variables randomly::1.0
+picking two::1.0
+sufficient number::1.0
+device records::1.0
+require extensive::1.0
+off-theshelf aps::1.0
+krishna chintalapudi::1.0
+access points::1.0
+horus scheme::1.0
+two additional::1.0
+gps enabled::1.0
+computational cost::1.0
+cull out::1.0
+work indoor::1.0
+carry mobile::1.0
+yield rss::1.0
+india padmanab::1.0
+relative positions::1.0
+data showed::1.0
+cricket location-support::1.0
+aps location::1.0
+system uniquely::1.0
+mobile ad-hoc::1.0
+utilized data::1.0
+similar aps::1.0
+procedure difficult::1.0
+bayesian indoor::1.0
+accommodating receiver::1.0
+distance measurements::1.0
+rss measured::1.0
+log dkij::1.0
+sufficient condition::1.0
+globally rigid::1.0
+simplicity assume::1.0
+algorithm based::1.0
+eliminated variable::1.0
+constraints inherent::1.0
+solution procedure::1.0
+client comprises::1.0
+pervasive computing::1.0
+floor plans::1.0
+pain krishna::1.0
+intermittent stops::1.0
+naive max::1.0
+positioning systems::1.0
+pij 10i::1.0
+ieee globecom::1.0
+active user::1.0
+based schemes::1.0
+multi-tenant office::1.0
+smaller subsets::1.0
+copies bear::1.0
+computational challenges::1.0
+environment profiling::1.0
+battery levels::1.0
+model depends::1.0
+apselect wisely::1.0
+generation algorithm::1.0
+grid locations::1.0
+open problem::1.0
+key observation::1.0
+radar performed::1.0
+picked solution::1.0
+establish ground::1.0
+parallel programming::1.0
+moses raju::1.0
+apselect naive::1.0
+selected random::1.0
+current locations::1.0
+simpler approach::1.0
+impeding easy::1.0
+evaluated localization::1.0
+assume node-to-node::1.0
+analytical closed::1.0
+connectivity graph::1.0
+badge location::1.0
+scheme assume::1.0
+generations evolve::1.0
+computing applications::1.0
+effort involved::1.0
+massively parallel::1.0
+solving ldpl::1.0
+two floors::1.0
+aps belonged::1.0
+features found::1.0
+factor out::1.0
+hybrid approach::1.0
+predict rss::1.0
+first ranked::1.0
+first normalized::1.0
+solution exists::1.0
+leverages knowledge::1.0
+generous search::1.0
+physical intuition::1.0
+locselect carefully::1.0
+schemes relied::1.0
+information systems::1.0
+relative locations::1.0
+area surrounded::1.0
+versus naive::1.0
+location determination::1.0
+device figure::1.0
+require specialized::1.0
+obtained opportunistically::1.0
+detailed measurements::1.0
+provide excellent::1.0
+commercial advantage::1.0
+maximum likelihood::1.0
+multiple users::1.0
+scenario i-b::1.0
+rss model::1.0
+good solution::1.0
+aps signal::1.0
+periodically perform::1.0
+chipset running::1.0
+ieee personal::1.0
+pk2j11 pk1j11::1.0
+amount manual::1.0
+floor sizes::1.0
+hierarchical clustering::1.0
+computing resource::1.0
+location technique::1.0
+freer signal::1.0
+minimum loss::1.0
+radio propagation::1.0
+sophisticated ray-tracing::1.0
+early system::1.0
+measured rss::1.0
+sufficient conditions::1.0
+estimates receiver::1.0
+solution due::1.0
+computational hardship::1.0
+current system::1.0
+past two::1.0
+cost outdoor::1.0
+aps based::1.0
+random vector::1.0
+system work::1.0
+notably horus::1.0
+potentially increase::1.0
+filtering mechanism::1.0
+user restricted::1.0
+random choice::1.0
+navigon software::1.0
+radio-frequency transmitters::1.0
+automated operation::1.0
+two solutions::1.0
+rgea starts::1.0
+wlan location::1.0
+small windows::1.0
+solid circles::1.0
+convert rss::1.0
+provide information::1.0
+constant vector::1.0
+acm 978-1-4503-0181-7::1.0
+factors including::1.0
+briefly describe::1.0
+alex snoeren::1.0
+yielding median::1.0
+challenging extensions::1.0
+power henceforth::1.0
+mpi interface::1.0
+figures 13a::1.0
+clients scan::1.0
+acm transactions::1.0
+uniquely determined::1.0
+differences accurately::1.0
+similar rss::1.0
+make digital::1.0
+indoor robotics::1.0
+real environments::1.0
+exhaustive search::1.0
+neighboring aps::1.0
+repeated infrequently::1.0
+rss data::1.0
+uniquely solved::1.0
+rf-based user::1.0
+severely attenuated::1.0
+raphson method::1.0
+large fraction::1.0
+scenario i-a::1.0
+function ersga::1.0
+cellular interfaces::1.0
+collect ground::1.0
+original implementation::1.0
+training points::1.0
+explicitly assume::1.0
+determine gij::1.0
+training phase::1.0
+map construction::1.0
+higher priority::1.0
+star iii::1.0
+simultaneous system::1.0
+hierarchical approach::1.0
+programming paradigms::1.0
+stand out::1.0
+model-based techniques::1.0
+provide training::1.0
+requires measurements::1.0
+aps found::1.0
+iii chipset::1.0
+device laptop::1.0
+extensive pre-deployment::1.0
+construct separate::1.0
+larger number::1.0
+wifi transmitters::1.0
+average difference::1.0
+picked randomly::1.0
+effort compared::1.0
+abstract microsoft::1.0
+radar horus::1.0
+requirement makes::1.0
+additional unknown::1.0
+deterministically computed::1.0
+positioning system::1.0
+easily implemented::1.0
+average signal::1.0
+transitive estimation::1.0
+extensive mapping::1.0
+carefully picks::1.0
+quadratic fashion::1.0
+fingerprinting schemes::1.0
+wifi infrastructure::1.0
+server requests::1.0
+solution generation::1.0
+randomly assigned::1.0
+running navigon::1.0
+node-to-node communication::1.0
+south side::1.0
+deploys sniffers::1.0
+situations similar::1.0
+100m 100m::1.0
+laptop ipaq::1.0
+perform indoor::1.0
+hollow triangles::1.0
+exterior walls::1.0
+horus performs::1.0
+multiple ssids::1.0
+rss naive::1.0
+computing jez::1.0
+horus performed::1.0
+low standard::1.0
+laptop xenovo::1.0
+measurement reports::1.0
+true return::1.0
+constructive comments::1.0
+higher fitness::1.0
+user walk::1.0
+central localization::1.0
+genetic algorithms::1.0
+training process::1.0
+devices gain::1.0
+non-collinear locations::1.0
+location estimation::1.0
+office cube::1.0
+initial trials::1.0
+collected data::1.0
+mobile-to-mobile measurement::1.0
+excellent coverage::1.0
+optimization schemes::1.0
+neighboring office::1.0
+pkmj pk1j11::1.0
+receive threshold::1.0
+nave approaches::1.0
+gps-free positioning::1.0
+experimental results::1.0
+microsoft gtsc::1.0
+localization products::1.0
+carrying wifi-enabled::1.0
+inherently amenable::1.0
+collecting beacons::1.0
+schemes showed::1.0
+system fare::1.0
+location query::1.0
+practical challenges::1.0
+essentially linearizes::1.0
+anand padmanabha::1.0
+client first::1.0
+selected points::1.0
+adv7510 htc::1.0
+evaluation methodology::1.0
+client-server architecture::1.0
+signal attenuation::1.0
+deterministic fingerprint::1.0
+custom simulator::1.0
+closest match::1.0
+two clusters::1.0
+floor comprises::1.0
+picked gain::1.0
+calibration-free techniques::1.0
+infrastructure support::1.0
+connectivity based::1.0
+distances noted::1.0
+gps unit::1.0
+four rss::1.0
+horus wlan::1.0
+situation arises::1.0
+significant step::1.0
+deploying specialized::1.0
+process latent::1.0
+enabling practical::1.0
+dbm assuming::1.0
+room-level granularity::1.0
+bootstrapping non-trivial::1.0
+locselect algorithm::1.0
+parameters determined::1.0
+greedy fashion::1.0
+data specific::1.0
+localizability question::1.0
+potentially reside::1.0
+equation eqn::1.0
+optimal solution::1.0
+expect ezs::1.0
+general terms::1.0
+error characteristics::1.0
+key intuition::1.0
+obtained locations::1.0
+key challenge::1.0
+initializing ldone::1.0
+similarity greater::1.0
+single device::1.0
+existing wifi::1.0
+basic assumptions::1.0
+rss typically::1.0
+chosen randomly::1.0
+user located::1.0
+probability location::1.0
+efficiently computing::1.0
+active area::1.0
+pi2 pi1::1.0
+mobile phone::1.0
+user measurement::1.0
+random solution::1.0
+truth information::1.0
+ad-hoc position::1.0
+reduce running::1.0
+scanner scans::1.0
+empty set::1.0
+devices respective::1.0
+significant degree::1.0
+variable model::1.0
+selected set::1.0
+randomly figure::1.0
+equations i.e::1.0
+6.1.2 assisting::1.0
+practical deployment::1.0
+non-collinear mobile::1.0
+measurement effort::1.0
+hours depending::1.0
+analytical solution::1.0
+estimated relative::1.0
+avoid observations::1.0
+offline task::1.0
+ez+loc scheme::1.0
+model parameters::1.0
+vary widely::1.0
+server comprises::1.0
+outdoor environments::1.0
+physical environment::1.0
+two users::1.0
+space reduces::1.0
+explicit pre-deployment::1.0
+cluster head::1.0
+simultaneous localization::1.0
+four aps::1.0
+procedure ensured::1.0
+measurements reported::1.0
+comprehensive overview::1.0
+square error::1.0
+underlying constraints::1.0
+wifi-based indoor::1.0
+errors due::1.0
+information helps::1.0
+built based::1.0
+enabled localization::1.0
+ezs error::1.0
+record received::1.0
+basic approach::1.0
+errors progressively::1.0
+roy choudhury::1.0
+anonymous reviewers::1.0
+ran horus::1.0
+illustrating non-localizability::1.0
+effectively estimate::1.0
+estimation noted::1.0
+experiment methodology::1.0
+measurements made::1.0
+genetic programming::1.0
+phone localization::1.0
+constructed map::1.0
+aps visible::1.0
+similar data::1.0
+randomly generated::1.0
+microsoft.com v-anandi::1.0
+procedure continues::1.0
+diurnal variations::1.0
+elements equal::1.0
+wifi slam::1.0
+selected aps::1.0
+relative gain::1.0
+indoor spaces::1.0
+obtaining information::1.0
+iyer microsoft::1.0
+median localization::1.0
+effort remains::1.0
+device transmits::1.0
+ez+loc performed::1.0
+solved faster::1.0
+four schemes::1.0
+poor performance::1.0
+ipaqipaq radar::1.0
+average similarity::1.0
+typically lie::1.0
+explicit user::1.0
+collecting data::1.0
+rgea algorithm::1.0
+true end::1.0
+first page::1.0
+hundred cubicles::1.0
+eval1 uated::1.0
+random subsets::1.0
+crucial insights::1.0
+selected locations::1.0
+suitable aps::1.0
+solution consists::1.0
+apselect selected::1.0
+cumulative distribution::1.0
+grows linearly::1.0
+chintalapudi anand::1.0
+circle centered::1.0
+physical layout::1.0
+initial generation::1.0
+estimated specifically::1.0
+dover publishing::1.0
+visible aps::1.0
+noncollinear locations::1.0
+ipaq smartphone::1.0
+cell phones::1.0
+users spread::1.0
+closer examination::1.0
+methods cut::1.0
+including filtering::1.0
+assumed two::1.0
+estimate gains::1.0
+assume knowledge::1.0
+lenovo t61::1.0
+hundred people::1.0
+testing purpose::1.0
+significant energy::1.0
+p2j2 p1j2::1.0
+parent solutions::1.0
+full rank::1.0
+high average::1.0
+propagation environment::1.0
+step two::1.0
+four::0.0
+localized::0.0
+experimentally::0.0
+node-to-node::0.0
+wooden::0.0
+errors::0.0
+increasing::0.0
+cull::0.0
+reported::0.0
+granularity::0.0
+elaborate::0.0
+reports::0.0
+unit::0.0
+model dij::0.0
+requires prior specific::0.0
+laptop-ipaq::0.0
+brings::0.0
+glass::0.0
+100m median::0.0
+absolute::0.0
+machine::0.0
+hou::0.0
+minimizes::0.0
+effective::0.0
+vary::0.0
+fit::0.0
+fix::0.0
+fig::0.0
+effects::0.0
+represents::0.0
+p1j2::0.0
+series::0.0
+estimate::0.0
+purpose::0.0
+channels::0.0
+yiu::0.0
+needed::0.0
+perturbations::0.0
+listed::0.0
+padhye::0.0
+entail::0.0
+responsible::0.0
+doors::0.0
+transactions::0.0
+metrics::0.0
+nordin::0.0
+signatures::0.0
+participate::0.0
+localizing::0.0
+ssids::0.0
+traverse::0.0
+fair::0.0
+radius::0.0
+result::0.0
+conceptual::0.0
+extend::0.0
+nature::0.0
+vjk11::0.0
+location-support::0.0
+qkj11::0.0
+floorplans::0.0
+impeding::0.0
+25m::0.0
+agrawal::0.0
+employ::0.0
+8-core::0.0
+cumulative::0.0
+reduces exponentially::0.0
+hw6965::0.0
+simulated::0.0
+rotated::0.0
+previous::0.0
+han::0.0
+ease::0.0
+easy::0.0
+hightower::0.0
+clustered::0.0
+unique::0.0
+massively::0.0
+steps::0.0
+right::0.0
+people::0.0
+generations of solutions::0.0
+fox::0.0
+slightly::0.0
+support::0.0
+resulted::0.0
+devices::0.0
+exist::0.0
+genetic algorithm based::0.0
+triangles::0.0
+dotted::0.0
+floor::0.0
+models::0.0
+variable::0.0
+typically::0.0
+push::0.0
+reviewers::0.0
+aps horus::0.0
+choice::0.0
+solves::0.0
+occurrence::0.0
+hindered::0.0
+observations between aps::0.0
+current::0.0
+badge::0.0
+address::0.0
+anchoring::0.0
+studied::0.0
+studies::0.0
+tasks::0.0
+locselect::0.0
+working::0.0
+included the previous::0.0
+explicitly::0.0
+values::0.0
+locks::0.0
+incremental::0.0
+allowed::0.0
+optimal::0.0
+parameter::0.0
+applications::0.0
+data::0.0
+yielding::0.0
+experiments::0.0
+solitary::0.0
+methodology::0.0
+decades::0.0
+matches::0.0
+records::0.0
+maintaining::0.0
+r2-r6::0.0
+square::0.0
+squared::0.0
+krishnan::0.0
+training::0.0
+kaufmann::0.0
+programming::0.0
+intuition::0.0
+wlan::0.0
+open::0.0
+mobicom::0.0
+realization::0.0
+odometers::0.0
+weighted average::0.0
+future::0.0
+locations::0.0
+infocom::0.0
+note::0.0
+pages::0.0
+localizable::0.0
+average::0.0
+refining::0.0
+ultra-sound::0.0
+equipped::0.0
+resource::0.0
+settings::0.0
+borrow::0.0
+choudhury::0.0
+attenuated::0.0
+flipped::0.0
+minima::0.0
+enable::0.0
+readings::0.0
+centerpiece::0.0
+vecchi::0.0
+situation::0.0
+full measurement::0.0
+assigns::0.0
+rfid::0.0
+edges::0.0
+tracking::0.0
+rest::0.0
+banzhaf::0.0
+indoor localization scheme::0.0
+narrowing the search::0.0
+world::0.0
+microsoft.com::0.0
+room-level::0.0
+pk1j11::0.0
+dimensions::0.0
+power::0.0
+mayers::0.0
+padmanabhan::0.0
+chintalapudi::0.0
+acm::0.0
+act::0.0
+constandache::0.0
+chose the search::0.0
+gij and gjk::0.0
+unreliable::0.0
+pull::0.0
+detailed::0.0
+ideally::0.0
+estrin::0.0
+parallelism::0.0
+original::0.0
+space reduces exponentially::0.0
+returned::0.0
+condition::0.0
+large::0.0
+device diversity::0.0
+past::0.0
+query::0.0
+niculescu::0.0
+section::0.0
+method::0.0
+contrast::0.0
+full::0.0
+wifi sniffers::0.0
+experience::0.0
+prior::0.0
+infrequently::0.0
+pick::0.0
+mobicom10::0.0
+sensors::0.0
+select::0.0
+odometer::0.0
+tested::0.0
+science::0.0
+mall::0.0
+morgan::0.0
+learn::0.0
+scan::0.0
+sense::0.0
+information::0.0
+respective::0.0
+plans::0.0
+mapping::0.0
+1.5,6.0::0.0
+evaluations::0.0
+patil::0.0
+installed::0.0
+paper::0.0
+coarser::0.0
+entire::0.0
+propose::0.0
+found::0.0
+reduce::0.0
+deterministically::0.0
+measurement::0.0
+operation::0.0
+miscellaneous general terms::0.0
+research::0.0
+offline::0.0
+localization::0.0
+pairs::0.0
+retained::0.0
+positioning::0.0
+widely-used::0.0
+guess::0.0
+leverage::0.0
+introduction::0.0
+based on surveys::0.0
+exponents::0.0
+determined::0.0
+-50dbm::0.0
+plan::0.0
+cover::0.0
+microsoft::0.0
+pre-wifi::0.0
+degrades::0.0
+inbuilding rf-based::0.0
+degraded::0.0
+testing we collected::0.0
+showed::0.0
+client for windows::0.0
+set::0.0
+gathered::0.0
+knowing::0.0
+prior specific permission::0.0
+hardship::0.0
+interface::0.0
+improved::0.0
+improves::0.0
+hollow::0.0
+consideration::0.0
+rfid based::0.0
+publishing::0.0
+representative::0.0
+exponential::0.0
+technical::0.0
+optimization::0.0
+evaluating::0.0
+error::0.0
+real::0.0
+gps-free::0.0
+averaging::0.0
+x61::0.0
+nodes to perform::0.0
+comprehensive::0.0
+levels::0.0
+makes::0.0
+picks::0.0
+concrete::0.0
+approach of inferring::0.0
+pillars::0.0
+location::0.0
+formal::0.0
+yields::0.0
+propagation characteristics vary::0.0
+methods::0.0
+ipaq-ipaq::0.0
+curious::0.0
+measurements::0.0
+employ wifi::0.0
+computational::0.0
+servers::0.0
+clustering::0.0
+span::0.0
+specifically::0.0
+custom::0.0
+relaxed::0.0
+line::0.0
+considerable::0.0
+random convex linear::0.0
+likewise::0.0
+globally::0.0
+rate compared::0.0
+fixing::0.0
+occasional::0.0
+elements::0.0
+over-determined::0.0
+algorithm::0.0
+walked::0.0
+code::0.0
+results::0.0
+existing::0.0
+indicating::0.0
+hicss::0.0
+continues::0.0
+mixing::0.0
+categories::0.0
+transmission::0.0
+simultanoues map::0.0
+challenge::0.0
+henceforth::0.0
+proliferation::0.0
+layout::0.0
+receive::0.0
+involved::0.0
+involves::0.0
+picks a subset::0.0
+sirf::0.0
+sgh::0.0
+wolman::0.0
+carrying::0.0
+clients::0.0
+unknowns::0.0
+process::0.0
+lock::0.0
+high::0.0
+leverages existing::0.0
+fits::0.0
+efficiently::0.0
+lenovo x61::0.0
+robot::0.0
+element::0.0
+move::0.0
+cambridge::0.0
+technical report msr-tr-2000-12::0.0
+decay::0.0
+chosen::0.0
+requires prior::0.0
+python::0.0
+rotation::0.0
+truth::0.0
+subset::0.0
+proline 8-core server::0.0
+static::0.0
+ladar::0.0
+greedy::0.0
+transmitters::0.0
+system::0.0
+pervasive::0.0
+collecting::0.0
+false::0.0
+fail::0.0
+depict::0.0
+mechanism::0.0
+device::0.0
+placement::0.0
+fact::0.0
+dbm::0.0
+venkata::0.0
+connect::0.0
+jan::0.0
+entities::0.0
+hope::0.0
+means::0.0
+comprising::0.0
+rf-based::0.0
+ideally all mobile::0.0
+configured::0.0
+users carry mobile::0.0
+calibrationintensive::0.0
+configuration::0.0
+figures::0.0
+possibilities for relative::0.0
+random subsets comprising::0.0
+genetic::0.0
+compensating::0.0
+varshavsky::0.0
+vironment::0.0
+provide a coarse-grained::0.0
+combine::0.0
+constraints between aps::0.0
+parameters based::0.0
+loss exponents::0.0
+avoid::0.0
+leverages::0.0
+uated::0.0
+trials::0.0
+insufficient::0.0
+software::0.0
+scans that yield::0.0
+housing::0.0
+terminates::0.0
+function::0.0
+picking an initial::0.0
+construction::0.0
+compute::0.0
+places::0.0
+chipset::0.0
+distribution::0.0
+t61::0.0
+number of selected::0.0
+effected::0.0
+variety::0.0
+repeat::0.0
+rule::0.0
+searched::0.0
+measurements are required::0.0
+desirable::0.0
+entropy::0.0
+fail to find::0.0
+lakshmanan for helping::0.0
+lack::0.0
+effort remains substantial::0.0
+distort::0.0
+distribution of errors::0.0
+phones::0.0
+machines::0.0
+co-circular::0.0
+simultaneously::0.0
+jcai::0.0
+obtained::0.0
+raphson::0.0
+total::0.0
+linearly::0.0
+experimentation::0.0
+likelihood::0.0
+position system::0.0
+india::0.0
+observed aps::0.0
+provide::0.0
+2.8m::0.0
+mpi::0.0
+order::0.0
+office::0.0
+satisfied::0.0
+highlights::0.0
+versus::0.0
+eventually::0.0
+pjk::0.0
+amenable::0.0
+otsason::0.0
+vinod::0.0
+schemes::0.0
+standard::0.0
+idea behind apselect::0.0
+created::0.0
+approximately::0.0
+observations::0.0
+john::0.0
+large figure::0.0
+off-the-shelf::0.0
+target::0.0
+iros::0.0
+kth::0.0
+powers::0.0
+depicted as filled::0.0
+navigate::0.0
+uniquely solvable::0.0
+manner::0.0
+strength::0.0
+unique determination::0.0
+luxury::0.0
+extending::0.0
+phase::0.0
+p1n,1m::0.0
+notion::0.0
+infrared::0.0
+collaborative localization::0.0
+latent::0.0
+return a weighted::0.0
+locations spread::0.0
+onboard::0.0
+assigned::0.0
+runs::0.0
+analytical::0.0
+implication::0.0
+proline 8-core::0.0
+observed::0.0
+depends::0.0
+techniques::0.0
+drawn::0.0
+kitchen::0.0
+received::0.0
+essentially::0.0
+ile::0.0
+receiver::0.0
+aid::0.0
+property::0.0
+opportunistically through gps::0.0
+descent::0.0
+perform::0.0
+avoids::0.0
+perimeter::0.0
+independent::0.0
+horus::0.0
+hand::0.0
+scenario::0.0
+epl::0.0
+client::0.0
+non-trivial::0.0
+unified::0.0
+model creation::0.0
+newton::0.0
+spread::0.0
+ldpl::0.0
+important functions::0.0
+accuracy::0.0
+set of solutions::0.0
+aps as locations::0.0
+minutes to hours::0.0
+comments::0.0
+participation::0.0
+constructive::0.0
+post::0.0
+properties::0.0
+bahl::0.0
+observations pij::0.0
+balances::0.0
+calibration-free::0.0
+true::0.0
+maximum::0.0
+computing::0.0
+abstract::0.0
+physical::0.0
+reality::0.0
+test::0.0
+tcp sockets::0.0
+interval::0.0
+wifi-enabled::0.0
+selection::0.0
+anand::0.0
+graph::0.0
+compensate::0.0
+research technical report::0.0
+wifi-based::0.0
+anonymous::0.0
+deemed localizable::0.0
+maxrssapselect::0.0
+htc::0.0
+cost::0.0
+satisfy::0.0
+appears::0.0
+change::0.0
+incoming::0.0
+8-core server class::0.0
+noncollinear::0.0
+challenges in real::0.0
+selects::0.0
+entrance::0.0
+towers::0.0
+labeled::0.0
+ideally rss::0.0
+occasional large::0.0
+0.7m::0.0
+active rfid::0.0
+spa::0.0
+discussion::0.0
+criterion::0.0
+product::0.0
+aoa::0.0
+strongest aps::0.0
+goal::0.0
+explicit::0.0
+progressively::0.0
+typical::0.0
+improve for ten::0.0
+ieee::0.0
+window::0.0
+computes the average::0.0
+january::0.0
+significantly::0.0
+microsoft.com abstract microsoft::0.0
+gaussian::0.0
+challenges::0.0
+yield locations::0.0
+avoided::0.0
+n-hop::0.0
+shown::0.0
+reducing::0.0
+space::0.0
+increase::0.0
+viable::0.0
+shows::0.0
+inevitably::0.0
+relative gain estimation::0.0
+gtsc::0.0
+adv7510::0.0
+variables::0.0
+hubaux::0.0
+directly::0.0
+comprises::0.0
+impossible::0.0
+size::0.0
+sheer::0.0
+gps enabled mobile::0.0
+eliminates::0.0
+eliminated::0.0
+simultanoues::0.0
+gain-independent::0.0
+crossover::0.0
+slam::0.0
+distorted::0.0
+computationally::0.0
+cover more ground::0.0
+objective::0.0
+htc adv7501 rss::0.0
+successive::0.0
+estimated transitively::0.0
+discovered::0.0
+ground::0.0
+deployments::0.0
+knowing gij::0.0
+held::0.0
+ad-hoc::0.0
+c++::0.0
+radio-frequency::0.0
+windows mobile::0.0
+robust indoor::0.0
+actively::0.0
+0,20::0.0
+notice::0.0
+analyzes::0.0
+analyzed::0.0
+enabling::0.0
+overview::0.0
+key research::0.0
+ambience::0.0
+accommodating::0.0
+mobile devices figure::0.0
+locations localization::0.0
+metric::0.0
+biaz::0.0
+closest::0.0
+azizyan::0.0
+adv7501 rss::0.0
+alleviate::0.0
+coordinate::0.0
+transmitting::0.0
+space and maintain::0.0
+-20dbm::0.0
+desktop::0.0
+ladd::0.0
+early::0.0
+execution::0.0
+benefit::0.0
+gjk::0.0
+exposes::0.0
+refresh::0.0
+dv-hop::0.0
+aps has four::0.0
+adv7510 htc adv7501::0.0
+central::0.0
+angle of arrival::0.0
+copies::0.0
+picked locations::0.0
+log::0.0
+area::0.0
+assumed::0.0
+unmodified::0.0
+start::0.0
+low::0.0
+assumes::0.0
+rank then exposes::0.0
+computer-communication::0.0
+implies::0.0
+scanner::0.0
+describe::0.0
+important consideration::0.0
+poor::0.0
+configuration-free::0.0
+coverage::0.0
+building::0.0
+configuration-free indoor localization::0.0
+d21::0.0
+d22::0.0
+transitively as gik::0.0
+cores::0.0
+pre-deployment::0.0
+batches::0.0
+nodes::0.0
+msr-tr-2000-12::0.0
+choice of initial::0.0
+11db::0.0
+small data::0.0
+manner rgea computes::0.0
+3.1m::0.0
+i.e::0.0
+radar degrades::0.0
+amount::0.0
+algorithm based solver::0.0
+uniquely::0.0
+requiring::0.0
+trained::0.0
+takes::0.0
+environment for wifi::0.0
+descriptors::0.0
+average of k-nearest::0.0
+gps locks::0.0
+obtaining gps::0.0
+dkij::0.0
+murty::0.0
+kung::0.0
+practical robust::0.0
+derived::0.0
+perform a scan::0.0
+two unknowns::0.0
+robust indoor localization::0.0
+probability::0.0
+solving::0.0
+absence::0.0
+systems::0.0
+differed::0.0
+motivated::0.0
+elected::0.0
+iff::0.0
+referred::0.0
+event::0.0
+solved::0.0
+surrounded::0.0
+issue::0.0
+based on constraints::0.0
+houses::0.0
+reason::0.0
+base::0.0
+mobile::0.0
+earliest::0.0
+exponentially::0.0
+reflected::0.0
+unexpected::0.0
+connectivity based approach::0.0
+miss::0.0
+perturbation::0.0
+recursion level::0.0
+surements::0.0
+hundred::0.0
+translation::0.0
+consume a significant::0.0
+determine local::0.0
+scheme::0.0
+randomly::0.0
+substantial::0.0
+lie::0.0
+lim::0.0
+jacobian::0.0
+rss observation pnormalized::0.0
+proline::0.0
+considerable amount manual::0.0
+position::0.0
+clear::0.0
+find the closest::0.0
+clean::0.0
+physics::0.0
+1.8m::0.0
+parameters::0.0
+circle::0.0
+i-a::0.0
+combinations::0.0
+wifi-slam::0.0
+entire indoor::0.0
+scanning::0.0
+lamarca::0.0
+deploying::0.0
+respective rss measurements::0.0
+conditions::0.0
+generous::0.0
+acknowledgements::0.0
+ranked::0.0
+compute the receiver::0.0
+experimental::0.0
+large-scale::0.0
+battery::0.0
+described::0.0
+3.3m::0.0
+ekahau::0.0
+collected::0.0
+empty::0.0
+pkij22::0.0
+deter::0.0
+determination::0.0
+assigning::0.0
+suppose that two::0.0
+random selection::0.0
+cognizant::0.0
+newton raphson::0.0
+belong::0.0
+interpolation::0.0
+user::0.0
+equations formed::0.0
+gsm::0.0
+distances::0.0
+6.1.2::0.0
+6.1.1::0.0
+j2th::0.0
+liu::0.0
+remaining::0.0
+evaluate::0.0
+madigan::0.0
+signal::0.0
+translated::0.0
+creation::0.0
+microsoft research technical::0.0
+briefly stopping::0.0
+minimal::0.0
+run::0.0
+simply sit::0.0
+step::0.0
+assists::0.0
+subtract::0.0
+avgrssapselect::0.0
+measurement pij::0.0
+median 100m::0.0
+perturbing::0.0
+factor::0.0
+rgea computes gij::0.0
+placing::0.0
+transmits::0.0
+k-nearest matches::0.0
+devices can participate::0.0
+similar::0.0
+approximate methods::0.0
+ipaqipaq radar horus::0.0
+observed environment::0.0
+1-3db::0.0
+independently::0.0
+required::0.0
+requires::0.0
+25m floor::0.0
+cellular::0.0
+80th::0.0
+obtains an absolute::0.0
+positions::0.0
+compensated::0.0
+rudys::0.0
+picked::0.0
+research technical::0.0
+experiment::0.0
+selecting::0.0
+environment of interest::0.0
+ersga::0.0
+convert::0.0
+copyright::0.0
+floorplan::0.0
+products::0.0
+addresses::0.0
+cloud::0.0
+remains::0.0
+exhaustive::0.0
+simpler::0.0
+started::0.0
+abstract microsoft research::0.0
+shepherd::0.0
+located::0.0
+fare::0.0
+transitive::0.0
+parallelized::0.0
+schemes fail::0.0
+converting::0.0
+dense deployment::0.0
+deviation of 3db::0.0
+temporal::0.0
+devices whose gain::0.0
+santhanam::0.0
+university::0.0
+k-nearest::0.0
+map::0.0
+constitute::0.0
+measure::0.0
+receivers to perform::0.0
+estimate radio propagation::0.0
+winet::0.0
+determining::0.0
+times::0.0
+non-collinear::0.0
+environment was outdoors::0.0
+rely on ultrasound::0.0
+university press::0.0
+lists::0.0
+rss::0.0
+distances eqn::0.0
+goal of reducing::0.0
+providing::0.0
+unchanged::0.0
+laptopipaq::0.0
+constrained::0.0
+instance::0.0
+singh::0.0
+connected::0.0
+subtracted::0.0
+databases::0.0
+indoor::0.0
+12m::0.0
+based::0.0
+achieve::0.0
+x.-y::0.0
+set of coordinates::0.0
+processed::0.0
+computed::0.0
+flip::0.0
+computes::0.0
+generated before queries::0.0
+state::0.0
+sold::0.0
+constituted::0.0
+importance::0.0
+efficiency::0.0
+key::0.0
+carefully using locselect::0.0
+problem::0.0
+estimation::0.0
+adding::0.0
+addition::0.0
+diversity::0.0
+decreased::0.0
+smartphones::0.0
+fit in eqn::0.0
+successive subset::0.0
+capture::0.0
+experimented::0.0
+http::0.0
+effect::0.0
+compared::0.0
+reflection::0.0
+bootstrapping::0.0
+provided that copies::0.0
+|pik::0.0
+advantage of multiple::0.0
+dair::0.0
+related work indoor::0.0
+qkj22::0.0
+nath::0.0
+extends::0.0
+matched::0.0
+kavraki::0.0
+devised::0.0
+burden::0.0
+loss::0.0
+sizes::0.0
+martin::0.0
+page::0.0
+belonged::0.0
+overlap::0.0
+mutation::0.0
+demonstrated::0.0
+non-localizability::0.0
+offset::0.0
+convex linear combination::0.0
+freedom::0.0
+ultrasound::0.0
+strategy::0.0
+additional::0.0
+searches::0.0
+cricket::0.0
+north::0.0
+weight::0.0
+hierarchical::0.0
+gain::0.0
+highest::0.0
+converted::0.0
+limit::0.0
+simple connectivity based::0.0
+piece::0.0
+nature of ldpl::0.0
+maximum rss::0.0
+functions::0.0
+eval1::0.0
+star::0.0
+samsung::0.0
+trilaterate::0.0
+similarity::0.0
+dynamic::0.0
+consists::0.0
+fine-grained::0.0
+collaborate::0.0
+affect::0.0
+solver::0.0
+solution::0.0
+estimated locations::0.0
+vector::0.0
+detailed floor::0.0
+distort the solution::0.0
+10i::0.0
+10m::0.0
+t61p::0.0
+implemented::0.0
+pandey::0.0
+deemed::0.0
+propagation characteristics::0.0
+active::0.0
+theoretically speaking::0.0
+suitable::0.0
+potentially increase localization::0.0
+specifics::0.0
+call::0.0
+type::0.0
+arrival information::0.0
+p2j2::0.0
+finds the maximum::0.0
+measurement to map::0.0
+ward::0.0
+root::0.0
+give::0.0
+iterative::0.0
+10,000::0.0
+multi-path::0.0
+answer::0.0
+exist more approximate::0.0
+attempt::0.0
+maintain::0.0
+treating the selected::0.0
+operations::0.0
+slightly different situation::0.0
+non-convex::0.0
+mea1::0.0
+personal::0.0
+set of over-determined::0.0
+overcome::0.0
+combination::0.0
+randomly and trained::0.0
+based mutation::0.0
+perturbation based::0.0
+side::0.0
+nave::0.0
+gradient::0.0
+restricted::0.0
+crucial::0.0
+reader::0.0
+surprise::0.0
+map generated::0.0
+wifi deployments::0.0
+linear::0.0
+indices::0.0
+client-server::0.0
+starts::0.0
+signature::0.0
+features::0.0
+four localization::0.0
+radar user::0.0
+floors::0.0
+important tasks::0.0
+begins::0.0
+distance::0.0
+lenovo::0.0
+database::0.0
+enabled::0.0
+collinear::0.0
+sees::0.0
+idea behind ersga::0.0
+data ez+loc::0.0
+adjusting the estimated::0.0
+gain access::0.0
+work in real::0.0
+assisting::0.0
+observation::0.0
+points::0.0
+principle::0.0
+dot::0.0
+dover::0.0
+attempts::0.0
+standard techniques::0.0
+bat::0.0
+traverses::0.0
+architecture::0.0
+reference::0.0
+testing::0.0
+subject::0.0
+exponent::0.0
+aps would constitute::0.0
+picking::0.0
+suggested::0.0
+uncertainty::0.0
+wisely avoided picking::0.0
+user who actively::0.0
+uniquely establish::0.0
+note that model::0.0
+ezs estimation::0.0
+hotnets::0.0
+coarse-grained estimate::0.0
+interest::0.0
+basic::0.0
+efficacy::0.0
+suppose::0.0
+sli::0.0
+manner rgea::0.0
+anchor::0.0
+robust localization::0.0
+qj2::0.0
+remains unchanged::0.0
+make::0.0
+potentially::0.0
+grows::0.0
+evolve::0.0
+50th and 80th::0.0
+opportunity::0.0
+space in question::0.0
+provisioned::0.0
+protocol::0.0
+easy deployment::0.0
+identify::0.0
+localization and mapping::0.0
+modifications::0.0
+depicts::0.0
+performing::0.0
+manual::0.0
+dense::0.0
+initial guess::0.0
+magazine::0.0
+automatically::0.0
+mobiwac::0.0
+mobile device records::0.0
+refined::0.0
+signal propagation::0.0
+initial::0.0
+approximate::0.0
+fraction::0.0
+form::0.0
+rss naive max::0.0
+builds::0.0
+max rss::0.0
+digital::0.0
+jones::0.0
+assume::0.0
+moved::0.0
+pseudo::0.0
+configuration robust::0.0
+3.1.1 solving::0.0
+excellent::0.0
+depend::0.0
+refine the solutions::0.0
+technique::0.0
+hamdi::0.0
+answered::0.0
+finally::0.0
+di1::0.0
+di2::0.0
+smartphone::0.0
+dij::0.0
+similar clusters::0.0
+work::0.0
+model-based::0.0
+filled::0.0
+inbuilding::0.0
+exposes any insufficient::0.0
+onboard odometer::0.0
+savvides::0.0
+box::0.0
+simultaneous::0.0
+providing the location::0.0
+flexibility::0.0
+additive::0.0
+scenarios::0.0
+previous subsets::0.0
+rigid::0.0
+effort::0.0
+apselect::0.0
+propagation models::0.0
+making::0.0
+aps sometimes degrades::0.0
+predict::0.0
+apselect wisely avoided::0.0
+range::0.0
+reside::0.0
+trilateration::0.0
+glass doors::0.0
+modulo an offset::0.0
+inputs::0.0
+max::0.0
+mac::0.0
+designed::0.0
+jain::0.0
+devices respective rss::0.0
+group::0.0
+interesting::0.0
+individual mobile::0.0
+multiple cores::0.0
+krishna::0.0
+differences can potentially::0.0
+freedom from pre-deployment::0.0
+effort provided::0.0
+relative localization::0.0
+vj2::0.0
+vj1::0.0
+correct::0.0
+locations match::0.0
+mechanisms::0.0
+advance::0.0
+typical wifi::0.0
+first::0.0
+represents a single::0.0
+carry::0.0
+categories and subject::0.0
+speaking::0.0
+kirkpatrick::0.0
+accurately::0.0
+padmanabhan introduction::0.0
+dv-dist::0.0
+inferring::0.0
+zill::0.0
+8-core server::0.0
+potential::0.0
+energy savings::0.0
+performance::0.0
+pain::0.0
+normal::0.0
+paid::0.0
+pair::0.0
+effort in terms::0.0
+localization in ad-hoc::0.0
+vjk22::0.0
+degrades performance::0.0
+threshold::0.0
+similar modulo::0.0
+htc adv7501::0.0
+median::0.0
+yield::0.0
+presence of fixed::0.0
+lenovo t61 server::0.0
+approach with pre-wifi::0.0
+relative::0.0
+search the solution::0.0
+label::0.0
+boundaries::0.0
+simply walked::0.0
+geometric::0.0
+reading::0.0
+checks::0.0
+infrastructure::0.0
+parent::0.0
+generated rss::0.0
+iterative schemes::0.0
+significant gains::0.0
+apselect naive average::0.0
+netbooks::0.0
+snew::0.0
+laptops::0.0
+bayesian::0.0
+sound::0.0
+promising::0.0
+dependence of ezs::0.0
+compensation of receiver::0.0
+characteristics::0.0
+cluster::0.0
+wisely::0.0
+build rf signal::0.0
+running::0.0
+procedure begins::0.0
+intermittent::0.0
+roughly::0.0
+space constraints::0.0
+solve::0.0
+rss fingerprinting::0.0
+outdoor::0.0
+crowd-sourcing::0.0
+surroundsense::0.0
+extensive::0.0
+localization approaches::0.0
+grid::0.0
+log-distance path::0.0
+xenovo::0.0
+alex::0.0
+server::0.0
+gps-less::0.0
+random convex::0.0
+priyantha::0.0
+matching::0.0
+seconds::0.0
+notable::0.0
+notably::0.0
+opportunity to test::0.0
+permission and a fee::0.0
+generated::0.0
+practical::0.0
+beacons::0.0
+references::0.0
+structure::0.0
+sophisticated::0.0
+constructing an rss::0.0
+agrawala::0.0
+means a sufficient::0.0
+accommodating receiver gain::0.0
+|o|::0.0
+embed::0.0
+citation::0.0
+general::0.0
+hybrid::0.0
+v-anandi::0.0
+perform detailed::0.0
+formed::0.0
+important::0.0
+tackle::0.0
+report a location::0.0
+lakshmanan::0.0
+microsoft.com research::0.0
+preserved::0.0
+transitively::0.0
+fall::0.0
+difference::0.0
+location are first::0.0
+total of 10,000::0.0
+component::0.0
+ranges::0.0
+requiring any pre-deployment::0.0
+search::0.0
+airport::0.0
+normalized rss observation::0.0
+readily::0.0
+ldone::0.0
+two::0.0
+comparing::0.0
+gathered a test::0.0
+leonard::0.0
+strategies::0.0
+specialized::0.0
+compare::0.0
+randomly drawn::0.0
+ambient::0.0
+days::0.0
+minimum::0.0
+detailed rf maps::0.0
+maps::0.0
+based on measurements::0.0
+connectivity::0.0
+krchinta::0.0
+database were created::0.0
+desirable properties::0.0
+crowded::0.0
+radar::0.0
+existence::0.0
+started with measurement::0.0
+client has two::0.0
+server pull::0.0
+initializing::0.0
+good::0.0
+mobile device laptop::0.0
+values of 3.1m::0.0
+walls::0.0
+easily::0.0
+apselect significantly::0.0
+energy::0.0
+data is made::0.0
+idea::0.0
+gwon::0.0
+obtains::0.0
+mutual entropy::0.0
+evaluation::0.0
+relative to localization::0.0
+avriel::0.0
+difficulty::0.0
+padmanabha::0.0
+benefits::0.0
+noted::0.0
+related work::0.0
+conducted::0.0
+poor fit::0.0
+utilized::0.0
+benefit of ezs::0.0
+construct::0.0
+assumption::0.0
+compensate for gain::0.0
+part::0.0
+contrary::0.0
+fingerprinting based::0.0
+reduce running times::0.0
+built::0.0
+avoided picking::0.0
+depending::0.0
+build::0.0
+ez+loc::0.0
+significant::0.0
+extremely::0.0
+globecom::0.0
+generated by picking::0.0
+capkun::0.0
+carefully::0.0
+networks::0.0
+cell::0.0
+dividing::0.0
+distributed::0.0
+pre-wifi wlans::0.0
+merged::0.0
+independently randomly::0.0
+permission::0.0
+luo::0.0
+line-of-sight::0.0
+t61p laptop::0.0
+accurately within 1-3db::0.0
+practical indoor::0.0
+enable pervasive computing::0.0
+common::0.0
+cdone::0.0
+individual::0.0
+number of devices::0.0
+commercial::0.0
+interfaces::0.0
+miscellaneous general::0.0
+consume::0.0
+simple::0.0
+simply::0.0
+x61 hp ipaq::0.0
+sghi780::0.0
+create::0.0
+gain compensation::0.0
+ensured::0.0
+gas::0.0
+understand::0.0
+sees a signal::0.0
+solid::0.0
+descent to refine::0.0
+evaluation of localization::0.0
+mobile devices record::0.0
+reducing model::0.0
+extremely relevant::0.0
+buildings is promising::0.0
+attenuation::0.0
+pair of aps::0.0
+aps obtained::0.0
+task::0.0
+landmarc::0.0
+devices receiver::0.0
+landmark::0.0
+measurements from two::0.0
+alternative::0.0
+devices simultaneously::0.0
+cut::0.0
+alternate::0.0
+solvable::0.0
+transmit::0.0
+rgea estimates receiver::0.0
+circles::0.0
+make the system::0.0
+strongest::0.0
+examples::0.0
+discarded::0.0
+scale::0.0
+lara::0.0
+gsm indoor::0.0
+actual deployments::0.0
+best-performing::0.0
+fee::0.0
+ten consecutive::0.0
+locations of aps::0.0
+constraint::0.0
+device and simply::0.0
+desktop infrastructure::0.0
+extensions::0.0
+users simply::0.0
+practical and viable::0.0
+pre-deployment calibration::0.0
+gain value::0.0
+readings across mobile::0.0
+adjusting::0.0
+hopes::0.0
+ezs::0.0
+youssef::0.0
+1.5m::0.0
+automatically estimate::0.0
+autonomous::0.0
+constant::0.0
+general terms algorithms::0.0
+inferred::0.0
+single::0.0
+estimating gij::0.0
+log-distance::0.0
+priori::0.0
+denser than typical::0.0
+ariadne::0.0
+ascertained::0.0
+closed form::0.0
+intensive::0.0
+helps::0.0
+sgh i780::0.0
+performed the worst::0.0
+provide a physical::0.0
+severely::0.0
+cost outdoor localization::0.0
+solutions generated::0.0
+chicago::0.0
+access::0.0
+exercise::0.0
+body::0.0
+non-linear::0.0
+50th::0.0
+leveraging::0.0
+rss to distances::0.0
+imperfections::0.0
+low cost::0.0
+description of relative::0.0
+implementation::0.0
+7:2834::0.0
+area of coverage::0.0
+decrease::0.0
+haeberlen::0.0
+conducting::0.0
+train::0.0
+normalized::0.0
+iii::0.0
+account::0.0
+gaussian random::0.0
+obvious::0.0
+avgrssapselect computes::0.0
+solved by making::0.0
+effectively::0.0
+employs::0.0
+locations are proximate::0.0
+buildings::0.0
+collection::0.0
+yielded::0.0
+lines::0.0
+t61 server::0.0
+3.1.2::0.0
+3.1.1::0.0
+meter::0.0
+information theoretically::0.0
+algorithm to solve::0.0
+determining their locations::0.0
+latitude::0.0
+greater::0.0
+standard trilateration::0.0
+day::0.0
+republish::0.0
+identified::0.0
+constraints::0.0
+asymmetries::0.0
+approaches::0.0
+south::0.0
+build detailed::0.0
+aps to provide::0.0
+sockets::0.0
+pmj2::0.0
+india krchinta::0.0
+scans::0.0
+acquire::0.0
+compensation::0.0
+information from mobile::0.0
+ipaq::0.0
+separate models::0.0
+curves::0.0
+unavailability::0.0
+close::0.0
+provide the typical::0.0
+parallel computation::0.0
+multilateration::0.0
+deviation greater::0.0
+1.3m::0.0
+devices should measure::0.0
+rgea constructs::0.0
+error values::0.0
+knowledge::0.0
+bear::0.0
+approaches provisioned::0.0
+model construction::0.0
+explicit mapping::0.0
+including::0.0
+fixed::0.0
+users mobile device::0.0
+constructing::0.0
+exists::0.0
+terms::0.0
+experience from actual::0.0
+event localization::0.0
+exploited::0.0
+viable indoor::0.0
+invariant::0.0
+boundary::0.0
+technical report::0.0
+equal::0.0
+passing::0.0
+relevant::0.0
+l-shaped::0.0
+location and tracking::0.0
+capabilities of off-the-shelf::0.0
+outliers::0.0
+arises::0.0
+maxrssapselect finds::0.0
+balachandran::0.0
+value::0.0
+manually::0.0
+ipaq-1::0.0
+networks using desktop::0.0
+weighed::0.0
+landmarks::0.0
+practice::0.0
+experimentally determined::0.0
+traverse the indoor::0.0
+localization over large-scale::0.0
+requests::0.0
+center::0.0
+user held::0.0
+sets::0.0
+comparisons::0.0
+commercial localization::0.0
+proximity::0.0
+underlying::0.0
+localize::0.0
+user limited::0.0
+converting rss::0.0
+match::0.0
+words five rss::0.0
+range to search::0.0
+deployment::0.0
+error remains unchanged::0.0
+works::0.0
+convex::0.0
+pre-measured differences::0.0
+increase localization errors::0.0
+assuming::0.0
+pnormalized::0.0
+common area::0.0
+robot navigation::0.0
+periodically::0.0
+obtained by training::0.0
+actual::0.0
+smartphones traverse::0.0
+francone::0.0
+repeated::0.0
+variations::0.0
+aprandominit::0.0
+minutes::0.0
+pij::0.0
+kinds of mobile::0.0
+mobile-to-mobile::0.0
+return true::0.0
+clustering similar::0.0
+detail::0.0
+special::0.0
+device a smartphone::0.0
+ldone with indices::0.0
+pi0::0.0
+pi1::0.0
+pi2::0.0
+obtained by running::0.0
+limited::0.0
+needed for indoor::0.0
+flannery::0.0
+single pair::0.0
+distances between mobile::0.0
+enjoy::0.0
+single office::0.0
+numerical analysis::0.0
+consistent::0.0
+estimates::0.0
+amount manual effort::0.0
+estimated::0.0
+selected::0.0
+supplied::0.0
+maintaining a probability::0.0
+off-theshelf::0.0
+estimation and compensation::0.0
+represented::0.0
+path::0.0
+ladars::0.0
+ventures::0.0
+investigate energy::0.0
+ad-hoc positioning::0.0
+visible::0.0
+naive::0.0
+labeled ez ipaq-ipaq::0.0
+real-time::0.0
+careful selection::0.0
+efficiency issues::0.0
+wlans::0.0
+exists to solve::0.0
+6.1.1 location::0.0
+preserving::0.0
+apselect versus::0.0
+end::0.0
+algorithm is computationally::0.0
+description::0.0
+linearizes::0.0
+parallel::0.0
+sextant::0.0
+error paid::0.0
+participating nodes::0.0
+algorithms::0.0
+characteristics vary::0.0
+device in quadratic::0.0
+map was closer::0.0
+entrances::0.0
+pkij::0.0
+surrounded by walls::0.0
+placing infrastructure::0.0
+estimated standard::0.0
+repeat change::0.0
+fitness::0.0
+pki1::0.0
+pki2::0.0
+lasting::0.0
+newly::0.0
+free::0.0
+small::0.0
+error of 3.3m::0.0
+snoeren::0.0
+krishna chintalapudi anand::0.0
+rank::0.0
+determination system::0.0
+ez+loc performed significantly::0.0
+top::0.0
+eqn::0.0
+centered::0.0
+guha::0.0
+fashion::0.0
+ran::0.0
+outperforms::0.0
+accuracy relative::0.0
+savings::0.0
+vice-versa::0.0
+coarse-grained::0.0
+mathews::0.0
+software for obtaining::0.0
+treats::0.0
+partition::0.0
+yang::0.0
+enterprise::0.0
+random::0.0
+radio::0.0
+solutions::0.0
+presence of multiple::0.0
+i780::0.0
+situations::0.0
+mixture::0.0
+microsoft.com abstract::0.0
+temporal variations::0.0
+report::0.0
+mobihoc::0.0
+locations where rss::0.0
+generate sufficient::0.0
+evaluate localization::0.0
+approach::0.0
+faster rate::0.0
+parameters and unknown::0.0
+estimate radio::0.0
+improve::0.0
+hours::0.0
+variable that hopes::0.0
+participating::0.0
+locations in turn::0.0
+dramatically compared::0.0
+wifi access::0.0
+expected::0.0
+pk2j11::0.0
+pre-filtering::0.0
+algorithm by comparing::0.0
+srivastava::0.0
+studied area::0.0
+computes gij::0.0
+stopping::0.0
+procedure::0.0
+dot product::0.0
+keller::0.0
+tions::0.0
+space efficiently::0.0
+exterior::0.0
+location-support system::0.0
+recursion::0.0
+ray-tracing model::0.0
+numerical::0.0
+likelihood based approach::0.0
+narrow::0.0
+iii chipset running::0.0
+deploys::0.0
+local en 3.1.1::0.0
+proposed::0.0
+laptop::0.0
+significantly outperforms::0.0
+present a comprehensive::0.0
+collected across locations::0.0
+large body::0.0
+incurring a minimum::0.0
+tested radar::0.0
+specific::0.0
+distance constraints::0.0
+locations and assigning::0.0
+meters::0.0
+device in real::0.0
+fingerprinting::0.0
+establish::0.0
+venkata n padmanabhan::0.0
+localization system work::0.0
+ensure::0.0
+assumed to acquire::0.0
+efforts::0.0
+presence::0.0
+obtaining::0.0
+naive schemes::0.0
+gik::0.0
+gij::0.0
+head::0.0
+2-7db::0.0
+determine a unique::0.0
+differences::0.0
+wireless::0.0
+versus random::0.0
+set of four::0.0
+cocircular::0.0
+ezs approach::0.0
+matching the observed::0.0
+inter-cluster::0.0
+constructed::0.0
+tix::0.0
+chakraborty::0.0
+setting::0.0
+node::0.0
+sniffers::0.0
+uniformly::0.0
+miscellaneous::0.0
+faster::0.0
+decreased localization::0.0
+additional measurements::0.0
+ray-tracing model based::0.0
+alternatives::0.0
+focus::0.0
+autonomous mobile::0.0
+roy::0.0
+computation::0.0
+environment::0.0
+otsasonet::0.0
+small figure::0.0
+base takes::0.0
+advantage::0.0
+partitions::0.0
+level::0.0
+illustrating::0.0
+gaussian process::0.0
+environment that enjoy::0.0
+fine-grained localization::0.0
+simultaneous non-linear::0.0
+navigon::0.0
+sirf star iii::0.0
+heidemann::0.0
+navigation::0.0
+dynamic indoor::0.0
+floor maps::0.0
+scanning for wifi::0.0
+diurnal::0.0
+cases::0.0
+insights::0.0
+modified::0.0
+longitude::0.0
+scheme that leverages::0.0
+localization via ambience::0.0
+figure::0.0
+performed::0.0
+scenario-ii::0.0
+powers we chose::0.0
+report msr-tr-2000-12::0.0
+classroom::0.0
+radio propagation parameters::0.0
+annealing::0.0
+element independently::0.0
+cases two::0.0
+subject descriptors::0.0
+wallach::0.0
+coordinates::0.0
+placement and power::0.0
+horus database::0.0
+deviation of rss::0.0
+possibilities::0.0
+sirer::0.0
+weighted::0.0
+gaps::0.0
+ap1::0.0
+100m::0.0
+two buildings::0.0
+factors::0.0
+profit::0.0
+theory::0.0
+users would provide::0.0
+rely::0.0
+aid the localization::0.0
+turn::0.0
+enable pervasive::0.0
+require explicit::0.0
+locselect carefully picks::0.0
+modulo::0.0
+surveys::0.0
+performs pre-filtering::0.0
+pkmj::0.0
+10i log::0.0
+copy::0.0
+localization process::0.0
+ravindranath::0.0
+require::0.0
+rss due::0.0
+difference among receivers::0.0
+operated::0.0
+sufficient data::0.0
+padmanab::0.0
+typical running::0.0
+multiple::0.0
+7db::0.0
+falls::0.0
+four fixed::0.0
+gk1::0.0
+environment to determine::0.0
+median 25m::0.0
+level which searches::0.0
+spaces::0.0
+raju::0.0
+transactions on information::0.0
+power and locations::0.0
+signal map construction::0.0
+versions::0.0
+reveals::0.0
+978-1-4503-0181-7::0.0
+managing::0.0
+miss local::0.0
+rss falls::0.0
+arrival::0.0
+receivers::0.0
+refine::0.0
+comm::0.0
+region::0.0
+propagation::0.0
+filtering::0.0
+color::0.0
+robotics::0.0
+sampling::0.0
+latent variable model::0.0
+depict the spatial::0.0
+localization performance::0.0
+partitions and concrete::0.0
+motivated a large::0.0
+adv7501::0.0
+search space reduces::0.0
+noted in equation::0.0
+careful::0.0
+case::0.0
+mechanisms to estimate::0.0
+coupled::0.0
+speaking the mutual::0.0
+obtained from apselect::0.0
+d11::0.0
+d12::0.0
+granted::0.0
+relies::0.0
+j1th::0.0
+minimize::0.0
+relied::0.0
+model::0.0
+captures::0.0
+incurring::0.0
+compensate for estimation::0.0
+distribution of locations::0.0
+reduces::0.0
+reduced::0.0
+simulator::0.0
+errors of 1.8m::0.0
+respect::0.0
+provided::0.0
+freer::0.0
+stops::0.0
+typical indoor::0.0
+ray-tracing::0.0
+wireless ad-hoc::0.0
+communicate::0.0
+discussed::0.0
+stand::0.0
+implemented using parallel::0.0
+communication::0.0
+determine::0.0
+theoretically::0.0
+immense::0.0
+ferris::0.0
+hard::0.0
+vector dot::0.0
+constitute an immense::0.0
+methodology and experimental::0.0
+node and event::0.0
+signatures collected::0.0
+narrowing::0.0
+stumbles::0.0
+deviation::0.0
+briefly::0.0
+collaborative::0.0
+separate::0.0
+gps-less low::0.0
+included::0.0
+wifi::0.0
+curve::0.0
+pij pi0::0.0
+krishnakumar::0.0
+sets were derived::0.0
+follow::0.0
+mobisys::0.0
+unknown gain::0.0
+change ersga::0.0
+stochastic::0.0
+communications magazine::0.0
+worse::0.0
+worst::0.0
+treating::0.0
+subsets::0.0
+combine the two::0.0
+list::0.0
+ten::0.0
+earliest notable::0.0
+rate::0.0
+design::0.0
+nonlinear::0.0
+advantageous::0.0
+lawrence::0.0
+immense computational::0.0
+version::0.0
+sniffers measure::0.0
+extensive measurement::0.0
+equations::0.0
+provide mechanisms::0.0
+lan-based location::0.0
+applications residing::0.0
+number of measurement::0.0
+stochastic description::0.0
+data as users::0.0
+provide significant::0.0
+clusters are merged::0.0
+equation::0.0
+mobile applications::0.0
+challenging::0.0
+carry mobile devices::0.0
+arise::0.0
+number of participating::0.0
+recursive::0.0
+pre-deployment effort remains::0.0
+occasionally::0.0
+simplicity::0.0
+htc adv7510 htc::0.0
+occasionally a mobile::0.0
+offsets::0.0
+rss environment::0.0
+mathews and santhanam::0.0
+building a wifi::0.0
+september::0.0
+developed::0.0
+calibration effort::0.0
+based localization::0.0
+return::0.0
+number::0.0
+framework::0.0
+cubicles::0.0
+significant obstructions::0.0
+inherent::0.0
+signal maps::0.0
+difficult::0.0
+generation::0.0
+expect::0.0
+first generated::0.0
+constraints r2-r6::0.0
+form solution::0.0
+generate::0.0
+thread::0.0
+e.g::0.0
+jez::0.0
+3db::0.0
+large space::0.0
+newly generated::0.0
+gps::0.0
+albeit::0.0
+i-b::0.0
+outdoors::0.0
+noticed a curious::0.0
+obstacles::0.0
+infrastructure without requiring::0.0
+desirable since mobile::0.0
+require any distance::0.0
+set of variables::0.0
+measures::0.0
+measured::0.0
+windows::0.0
+hindrance::0.0
+cdf::0.0
+batch of training::0.0
+measurements from proximate::0.0
+moses::0.0
+characteristics vary widely::0.0
+gains::0.0
+two alternate::0.0
+investigate::0.0
+radar performed significantly::0.0
+approaches assume::0.0
+achieved::0.0
+suggested maintaining::0.0
+opportunistically::0.0
+optimization by simulated::0.0
+learns::0.0
+rss measurements dramatically::0.0
+consecutive::0.0
+profiling::0.0
+recently::0.0
+creating::0.0
+random solution generation::0.0
+initially::0.0
+tracking system::0.0
+paradigms::0.0
+rf-based user location::0.0
+context::0.0
+finds::0.0
+apselect and locselect::0.0
+0,1::0.0
+running navigon software::0.0
+match those obtained::0.0
+enhancements::0.0
+fitness are retained::0.0
+due::0.0
+prior specific::0.0
+subset would perform::0.0
+220:671680::0.0
+batch::0.0
+evaluated::0.0
+behavior::0.0
+rely on extensive::0.0
+comparing its observed::0.0
+number of wifi::0.0
+terms of placing::0.0
+similarity to rest::0.0
+construction probability::0.0
+widely::0.0
+transmission powers::0.0
+higher::0.0
+robust::0.0
+analysis::0.0
+edge::0.0
+leveraging existing::0.0
+questions::0.0
+select the minimum::0.0
+simultaneously determining::0.0
+devices being deployed::0.0
+obtain rss::0.0
+bayesian hierarchical::0.0
+2.1m::0.0
+rotate::0.0
+require extensive pre-deployment::0.0
+sirf star::0.0
+computationally intensive::0.0
+separately::0.0
+collect::0.0
+generated solution::0.0
+alternatively::0.0
+essential::0.0
+phone::0.0
+generated with measurements::0.0
+percentile::0.0
+approach would carry::0.0
+locations randomly::0.0
+perform when multiple::0.0
+collected observations::0.0
+ellipse::0.0
+question::0.0
+long::0.0
+analyze::0.0
+sections::0.0
+multi-path effects::0.0
+deployed::0.0
+benefit of gain::0.0
+modeled::0.0
+localization protocol::0.0
+steeper::0.0
+c.2::0.0
+based solver::0.0
+include the proof::0.0
+users::0.0
+anand padmanabha iyer::0.0
+filled triangles::0.0
+helping::0.0
+allowing::0.0
+vectors::0.0
+demonstrates::0.0
+proximate::0.0
+gain estimation::0.0
+contributions::0.0
+issues::0.0
+deterministic::0.0
+include::0.0
+simple connectivity::0.0
+dramatically::0.0
+hopper::0.0
+selected using apselect::0.0
+bounding::0.0
+redistribute::0.0
+coordinate space::0.0
+subset included::0.0
+smaller::0.0
+leverage its computing::0.0
+showcase::0.0
+acquire gps::0.0
+find::0.0
+minima in jez::0.0
+chose::0.0
+degree::0.0
+separation::0.0
+r1-r6::0.0
+horus wlan location::0.0
+larger::0.0
+set gathered::0.0
+research contributions::0.0
+suggests::0.0
+physics of wireless::0.0
+aps::0.0
+scaled::0.0
+devices as discussed::0.0
+fed::0.0
+feb::0.0
+usa::0.0
+descriptors c.2::0.0
+locations are obtained::0.0
+santhanam lakshmanan::0.0
+depicted::0.0
+examination::0.0
+communications::0.0
+ap2::0.0
+ap6::0.0
+resource to construct::0.0
+balakrishnan::0.0
+first checks::0.0
+lenovo t61p::0.0
+constructs::0.0
+laptop user::0.0
+proof::0.0
+apselect to pick::0.0
+assumptions::0.0
+made::0.0
+sit::0.0
+wisely avoided::0.0
+users mobile::0.0
+average rss naive::0.0
+specific permission::0.0
+achieve a median::0.0
+trilateration to estimate::0.0
+light::0.0
+probability location error::0.0
+work that analyzes::0.0
+estimating::0.0
+advance over prior::0.0
+inspecting::0.0
+clusters::0.0
+13b::0.0
+13a::0.0
+lan-based::0.0
+fingerprint::0.0
+performance scale::0.0
+assumed two floor::0.0
+related::0.0
+fitness are discovered::0.0
+vicinity::0.0
+out::0.0
+deploying a specialized::0.0
+selected by apselect::0.0
+obstructions::0.0
+estimates the difference::0.0
+performs::0.0
+lock was obtained::0.0
+multi-tenant::0.0
+model generated::0.0
+users spread out::0.0
+4.4m::0.0
+noticed::0.0
+unknown::0.0
+priority::0.0
+attempts to minimize::0.0
+recursive algorithm::0.0
+durrant-whyte::0.0
+krchinta @ microsoft.com::0.0
+rotated and reflected version::0.0
+angle::0.0
+locations resulted::0.0
+aps measured::0.0
+locaij::0.0
+class::0.0
+neighboring::0.0
+spatial::0.0
+alternate schemes::0.0
+subtracting::0.0
+local::0.0
+users cover::0.0
+cube::0.0
+rgea::0.0
+localization procedure::0.0
+naive average::0.0
+words::0.0
+deviation in rss::0.0
+widely-used mobile::0.0
+pkij11::0.0
+queries::0.0
+generations::0.0
+view::0.0
+requirement::0.0
+separate testing::0.0
+ipaqipaq::0.0
+effort needed::0.0
+sparsely::0.0
+closer::0.0
+proof due::0.0
+closed::0.0
+ability::0.0
+degraded performance::0.0
+shows the average::0.0
+devices record::0.0
+unclear::0.0
+increasing number::0.0
+environments::0.0
+walk::0.0
+table::0.0
+experiment rss::0.0
+responds::0.0
+sufficient::0.0
+ensuring::0.0
+present::0.0
+unlike::0.0
+managing enterprise wireless::0.0
+choices::0.0
+uniformly randomly::0.0
+automated ap filtering::0.0
+wireless propagation::0.0
+malls::0.0
+data to simultaneously::0.0
+devices to communicate::0.0
+residing::0.0
+introduce::0.0
+record received signal::0.0
+sensing::0.0
+ipaq hw6965::0.0
+search techniques::0.0
+obtain::0.0
+tcp::0.0
+number of locations::0.0
+dramatically reduce running::0.0
+high average signal::0.0
+localizability::0.0
+capabilities::0.0
+attractive::0.0
+data from mobile::0.0
+involves considerable::0.0
+denser::0.0
+press::0.0
+generation and perturbing::0.0
+exhaustively::0.0
+searching::0.0
+ventilated::0.0
+iyer::0.0
+lead::0.0
+hard copies::0.0
+mined::0.0
+smartphone ezs error::0.0
+locate::0.0
+simultaneously learn::0.0
+two decades::0.0
+carried::0.0
+dependence::0.0
+dependency::0.0
+absolute coordinates::0.0
+populated::0.0
+quadratic::0.0
+notable examples::0.0
+based on observed::0.0
+automated::0.0
+non-trivial thereby impeding::0.0
+odometer to determine::0.0
+record::0.0
+:4247::0.0
+demonstrate::0.0
+jez = pij::0.0
+co-located::0.0
+work on reducing::0.0
+nicelescu::0.0
+constructs a graph::0.0
+mutual::0.0
+calibration::0.0
+illinois::0.0
+model training::0.0
+conclusion::0.0
+kinds::0.0
+inherently::0.0
+pre-measured::0.0
+coupling::0.0
+coincidentally::0.0
+gelatt::0.0

@@ -1,0 +1,6434 @@
+read rate::50.0
+containment relation::43.0
+containment relations::42.0
+change point::42.0
+change point detection::38.0391000173
+query processing::34.0
+containment relationship::30.0
+inference and query processing::26.0
+containment relationships::26.0
+read rates::26.0
+point detection::25.0
+containment change::25.0
+error rate::24.0
+tracking and monitoring::20.6045125094
+inference and query::20.6045125094
+query state::19.0
+distributed inference::17.0
+object location::16.0
+containment inference::16.0
+critical region::16.0
+rfid readings::16.0
+rfid data::15.0
+inference algorithm::15.0
+location and containment::14.2646625065
+recent history::14.0
+communication cost::14.0
+distributed inference and query::14.0
+rfid tracking and monitoring::12.0
+object locations::12.0
+state migration::11.0
+stream speed::11.0
+keeping up with stream::10.0
+rfid stream::10.0
+communication costs::10.0
+history truncation::10.0
+shelf reader::10.0
+evidence of co-location::9.50977500433
+point evidence::9.0
+nfer algorithm::9.0
+supply chain::9.0
+location inference::9.0
+error rates::9.0
+overlap rate::9.0
+rfid streams::9.0
+graphical model::8.0
+cumulative evidence of co-location::8.0
+container location::8.0
+ytro |`to::8.0
+tracking and monitoring queries::8.0
+object o and container::8.0
+change point detection algorithm::8.0
+inference state::8.0
+smoothing over containment relations::8.0
+described in section::7.92481250361
+accuracy and efficiency::7.92481250361
+smoothing over containment::7.92481250361
+varied read rates::7.92481250361
+reader at location::7.92481250361
+container locations::7.0
+candidate container::7.0
+experimental results::7.0
+centralized approach::7.0
+strength of co-location::6.33985000288
+containment change interval::6.33985000288
+recent history size::6.33985000288
+point detection algorithm::6.33985000288
+history truncation method::6.33985000288
+tradeoff between accuracy::6.33985000288
+system for rfid tracking::6.0
+distributed stream processing system::6.0
+change point detection procedure::6.0
+truncation method::6.0
+query block::6.0
+traces with stable containment::6.0
+orders of magnitude reduction::6.0
+object leaves one site::6.0
+object location and containment::6.0
+sensor network::6.0
+processing system for rfid::6.0
+delay of answering queries::6.0
+magnitude reduction in communication::6.0
+true location::6.0
+inference system can scale::6.0
+smoothing over object relations::6.0
+candidate containers::6.0
+cumulative evidence::6.0
+inference in sensor networks::6.0
+stable containment::6.0
+exposed to room temperature::6.0
+design of a scalable::6.0
+shelf readers::6.0
+reduction in communication cost::6.0
+object relations::6.0
+containment to share query::6.0
+stable containment to share::6.0
+point evidence of co-location::6.0
+entire history::6.0
+sensor networks::5.0
+real container::5.0
+varied read::5.0
+global proc::5.0
+object relationships::5.0
+rfid tracking::5.0
+event stream::5.0
+change detection::5.0
+trace length::5.0
+monitoring queries::5.0
+xtrc |`tc::5.0
+global query processing::4.75488750216
+point detection procedure::4.75488750216
+`tc = a|x::4.75488750216
+high-level query processing::4.75488750216
+noisy rfid readings::4.75488750216
+perform state migration::4.75488750216
+frequently co-located case::4.75488750216
+traces with varied::4.75488750216
+containment and location::4.75488750216
+number of objects::4.75488750216
+exposed to room::4.75488750216
+real lab traces::4.75488750216
+evaluate our system::4.75488750216
+share query state::4.75488750216
+containment change detection::4.75488750216
+delay of answering::4.75488750216
+algorithm can achieve::4.75488750216
+millions of objects::4.75488750216
+containers and objects::4.75488750216
+labeled as global::4.75488750216
+distributed inference and querying::4.0
+object is typically read::4.0
+environmental noise::4.0
+inter-object relationships::4.0
+location and containment estimates::4.0
+shows the error rates::4.0
+inference with stream query::4.0
+location information::4.0
+requires a recent history::4.0
+iterative feedback between location::4.0
+frequency of unexpected containment::4.0
+improved by a factor::4.0
+data streams::4.0
+32,000 items in steady::4.0
+data cleaning::4.0
+offline method as described::4.0
+real-world data and large::4.0
+stream query::4.0
+set of containment relationships::4.0
+algorithm requires a recent::4.0
+accuracy and communication cost::4.0
+distributed approach::4.0
+shows the inference error::4.0
+inference as an enabling::4.0
+location and containment inference::4.0
+querying where an object::4.0
+mobile reader::4.0
+stream and other sensor::4.0
+inference algorithm is highly::4.0
+maximum of the likelihood::4.0
+co-location of three candidate::4.0
+developed an rfid lab::4.0
+objects over multiple sites::4.0
+co-located case::4.0
+evaluate our inference algorithm::4.0
+based on the labels::4.0
+index of a single::4.0
+query states across objects::4.0
+minimize the computation state::4.0
+epc tag data standard::4.0
+inference system::4.0
+rfid deployment to evaluate::4.0
+traces with varied read::4.0
+close to the centralized::4.0
+local proc::4.0
+readings of the object::4.0
+object state and enable::4.0
+multiple sites::4.0
+threshold for change point::4.0
+locations and containment relationships::4.0
+values in a range::4.0
+region in the past::4.0
+noisy traces with stable::4.0
+inject anomalies that randomly::4.0
+approximates the optimal value::4.0
+data and large synthetic::4.0
+cost over a centralized::4.0
+method for rfid data::4.0
+object locations and containment::4.0
+steps of a quantity::4.0
+state for each object::4.0
+random variable::4.0
+mechanism for high-level query::4.0
+effect of the threshold::4.0
+stream processing::4.0
+small number of locations::4.0
+computation state::4.0
+query processor::4.0
+system in real-world settings::4.0
+call the point evidence::4.0
+running at stream speed::4.0
+detection algorithm::4.0
+point detection algorithm requires::4.0
+created traces with varied::4.0
+enabling mechanism for high-level::4.0
+chosen threshold always approximates::4.0
+first examine the effect::4.0
+sensitive to the trace::4.0
+single-site inference::4.0
+experimental results for single-site::4.0
+distributed processing::4.0
+bold in the table::4.0
+pattern matching::4.0
+supply chains::4.0
+labels of input streams::4.0
+e-step and the m-step::4.0
+highly accurate::4.0
+overlap rates::4.0
+query states::4.0
+truncation methods with varied::4.0
+location of each container::4.0
+infer containment::4.0
+query state for object::4.0
+performs inference and query::4.0
+items in steady state::4.0
+object tracking and monitoring::4.0
+results for single-site inference::4.0
+case of high read::4.0
+location and containment information::4.0
+wco for each object::4.0
+algorithm is highly accurate::4.0
+accurate than s murf::4.0
+false container::4.0
+global processing::4.0
+denoted by integers::3.16992500144
+guaranteed to converge::3.16992500144
+states across objects::3.16992500144
+maintain computation state::3.16992500144
+call the point::3.16992500144
+location of container::3.16992500144
+shows the inference::3.16992500144
+object event stream::3.16992500144
+choose the threshold::3.16992500144
+raise an alert::3.16992500144
+incurs little extra::3.16992500144
+posterior probability table::3.16992500144
+main design consideration::3.16992500144
+system for rfid::3.16992500144
+anomalies that randomly::3.16992500144
+deployment to evaluate::3.16992500144
+mechanism for high-level::3.16992500144
+transfers the state::3.16992500144
+higher overlap rates::3.16992500144
+container for object::3.16992500144
+added environmental noise::3.16992500144
+centroid-based sharing technique::3.16992500144
+system in real-world::3.16992500144
+split into local::3.16992500144
+examine the effect::3.16992500144
+state w share::3.16992500144
+enable querying anytime::3.16992500144
+object has passed::3.16992500144
+tt0 =1 eco::3.16992500144
+test the sensitivity::3.16992500144
+containment error rates::3.16992500144
+shelf reader frequency::3.16992500144
+freezer and exposed::3.16992500144
+class of queries::3.16992500144
+algorithm is highly::3.16992500144
+sizes that yield::3.16992500144
+addressed rfid data::3.16992500144
+readings of object::3.16992500144
+reduction in communication::3.16992500144
+state and enable::3.16992500144
+case of high::3.16992500144
+observed rfid readings::3.16992500144
+seconds by default::3.16992500144
+rfid data cleaning::3.16992500144
+large synthetic traces::3.16992500144
+share query states::3.16992500144
+items per warehouse::3.16992500144
+reduce communication costs::3.16992500144
+cases and pallets::3.16992500144
+representative query state::3.16992500144
+accuracy and communication::3.16992500144
+inference error rates::3.16992500144
+study the tradeoff::3.16992500144
+containment relationships based::3.16992500144
+overlap among readers::3.16992500144
+read the object::3.16992500144
+query processing state::3.16992500144
+approach using query::3.16992500144
+co-location strength wco::3.16992500144
+binary variable indicating::3.16992500144
+labels of input::3.16992500144
+top-k co-located cases::3.16992500144
+distributed supply chain::3.16992500144
+containment to share::3.16992500144
+inference state transferred::3.16992500144
+high communication cost::3.16992500144
+accuracy of query::3.16992500144
+smoothing over object::3.16992500144
+stream query processing::3.16992500144
+state of inference::3.16992500144
+history truncation algorithm::3.16992500144
+capture the percentage::3.16992500144
+increase inference cost::3.16992500144
+methods with varied::3.16992500144
+method for rfid::3.16992500144
+high read rates::3.16992500144
+lower read rates::3.16992500144
+improve our understanding::3.16992500144
+inference is flat::3.16992500144
+read by reader::3.16992500144
+co-located with container::3.16992500144
+exploit stable containment::3.16992500144
+shown in appendix::3.16992500144
+approximates the optimal::3.16992500144
+object is read::3.16992500144
+inference in sensor::3.16992500144
+set of locations::3.16992500144
+present the design::3.16992500144
+single warehouse::3.0
+synthetic traces::3.0
+high-level query::3.0
+fixed values::3.0
+object readings::3.0
+belt reader::3.0
+results show::3.0
+run inference::3.0
+individual objects::3.0
+rfid tag::3.0
+inference techniques::3.0
+inferring containment::3.0
+probability distribution::3.0
+lower read::3.0
+methods offer::3.0
+container readings::3.0
+state transferred::3.0
+high accuracy::3.0
+answering queries::3.0
+basic algorithm::3.0
+raw rfid::3.0
+frozen food::3.0
+change points::3.0
+input streams::3.0
+significant overlap::3.0
+machine learning::3.0
+share query::3.0
+container tags::3.0
+appendix c.4::3.0
+entry door::3.0
+local processing::3.0
+ground truth::3.0
+log likelihood::3.0
+enable querying::3.0
+small number::3.0
+random variables::3.0
+inference cost::3.0
+detect containment::3.0
+null hypothesis::3.0
+enable query::3.0
+based truncation::3.0
+outer query::3.0
+steady state::3.0
+drug product::3.0
+observed readings::3.0
+observed read::3.0
+frequently co-located::3.0
+t=1 c=1::3.0
+static readers::3.0
+left to appendix c.4::2.0
+location `tc is sampled::2.0
+details see appendix c.2::2.0
+readers have a read::2.0
+present our inference module::2.0
+noisy traces::2.0
+varied the container capacity::2.0
+parameters used for generating::2.0
+computation cost is modest::2.0
+requires prior specific permission::2.0
+employ the change point::2.0
+algorithm requires::2.0
+method has the worse::2.0
+runs inference at stream::2.0
+supply chains are distributed::2.0
+technology of writable tags::2.0
+re-use the old values::2.0
+door and are read::2.0
+reduces the inference state::2.0
+sensitive to the read::2.0
+specific to our model::2.0
+transfer overhead by requiring::2.0
+events with rich attributes::2.0
+part by nsf grants::2.0
+informative for determining containment::2.0
+university of edinburgh caozhao::2.0
+based on the tag::2.0
+detect changes of containment::2.0
+overhead of transferring readings::2.0
+query processing to distributed::2.0
+compute is the conditional::2.0
+compress the query states::2.0
+details about our inference::2.0
+compute the total inference::2.0
+varied anomaly error rate::2.0
+estimates of the location::2.0
+item and its container::2.0
+extended with the pattern::2.0
+containment to future work::2.0
+index of time epoch::2.0
+sites and a high::2.0
+maximizing a lower bound::2.0
+steps until the containment::2.0
+uniformly sampled::2.0
+difficult to accurately determine::2.0
+reader locations::2.0
+missed by all readers::2.0
+presence of missing data::2.0
+maximum heap size 1.5gb::2.0
+copy of query state::2.0
+streams of each query::2.0
+work on rfid data::2.0
+probability table::2.0
+environment with multiple locations::2.0
+worse because it lacks::2.0
+objects move across sites::2.0
+spatio-temporal redundancy for rfid::2.0
+extend our distributed inference::2.0
+chose the h size::2.0
+class of queries combine::2.0
+fee provided that copies::2.0
+digital or hard copies::2.0
+consuming s is considered::2.0
+readings are inherently noisy::2.0
+reader locations true location::2.0
+critical region for inference::2.0
+varies with h consistently::2.0
+readers for scanning objects::2.0
+inference algorithm usually converges::2.0
+represent both the true::2.0
+higher overlap::2.0
+monitoring and tracking applications::2.0
+research has addressed rfid::2.0
+update the current estimates::2.0
+results when the containment::2.0
+sensor streams to answer::2.0
+location information about container::2.0
+stores the posterior distribution::2.0
+large hospital that tags::2.0
+rfid data management system::2.0
+query processing runs continuously::2.0
+maximizing the log likelihood::2.0
+state-of-the-art readers and tags::2.0
+raw readings::2.0
+answering queries and high::2.0
+query q1 in section::2.0
+communication cost across sites::2.0
+evaluate the basic algorithm::2.0
+nearby location with probability::2.0
+exploit stable::2.0
+design a graphical model::2.0
+volume of data poses::2.0
+reader scanned the real::2.0
+location r r binary::2.0
+equipment through the hospithis::2.0
+point detection ferent values::2.0
+3ghz cpu and running::2.0
+inferring containment and location::2.0
+exploits the inference results::2.0
+evidence in a heuristic::2.0
+track and monitor objects::2.0
+87,000 5,273 related work::2.0
+compare centralized and distributed::2.0
+cost-effective deployment than static::2.0
+technology and rfid tracking::2.0
+traveled with the object::2.0
+differ in the query::2.0
+based on the current::2.0
+approach for the iterative::2.0
+assume any prior knowledge::2.0
+varied the read rate::2.0
+raw data is shipped::2.0
+larger numbers of objects::2.0
+block uses global processing::2.0
+inference for static readers::2.0
+rfid readings and events::2.0
+chains with multiple ware::2.0
+e-step maximizes this bound::2.0
+smoothing over containment relationships::2.0
+accuracy of centralized processing::2.0
+extension for pattern matching::2.0
+cost to the inference::2.0
+containment relationship between items::2.0
+model treats::2.0
+global processing across sites::2.0
+rate but still achieves::2.0
+algorithm runs::2.0
+single-site inference we first::2.0
+algorithms to arbitrarily nested::2.0
+f-measure of query results::2.0
+radio frequency to occluding::2.0
+conclude that the containment::2.0
+object c arg maxc::2.0
+distributed system is illustrated::2.0
+readings obtained since last::2.0
+container can not change::2.0
+detect changes in containment::2.0
+information from the previous::2.0
+frequency of such anomalies::2.0
+sampling hypothetical observation sequences::2.0
+results with the ground::2.0
+approach that performs inference::2.0
+reader detects an object::2.0
+drugs and preventing pilfering::2.0
+goal of history truncation::2.0
+define a null hypothesis::2.0
+denoted x x eco::2.0
+anomalies that randomly choose::2.0
+develop a distributed approach::2.0
+conveyor belt::2.0
+supply chain is assumed::2.0
+challenging since inter-object relationships::2.0
+history and posterior probability::2.0
+produced at a single::2.0
+first evaluate the basic::2.0
+graphical model that represents::2.0
+assembled pallets are finally::2.0
+arg max::2.0
+objects and the state::2.0
+relations for other data::2.0
+binary variable::2.0
+exploiting the iterative feedback::2.0
+correctly infer that container::2.0
+infrastructure to provide timely::2.0
+reader to the appendix::2.0
+computed from the readings::2.0
+easily compressed to save::2.0
+adaptive window::2.0
+aggregates the retrieved temperatures::2.0
+dispatched to subsequent warehouses::2.0
+inference in the first::2.0
+relationships c to emphasize::2.0
+high accuracy for lower::2.0
+sum of point evidence::2.0
+readers in that order::2.0
+propose a memorization technique::2.0
+locations in a unified::2.0
+state transferred between sites::2.0
+information infrastructure::2.0
+data cleaning with heuristics::2.0
+notice that each containment::2.0
+probable the rfid readings::2.0
+number of containers number::2.0
+case the container locations::2.0
+data structures::2.0
+describe a probabilistic model::2.0
+small amount of on-board::2.0
+guess about containment relationships::2.0
+methods for distributed inference::2.0
+streams from various readers::2.0
+frequency of pallet injection::2.0
+relationships have not changed::2.0
+processing as object tracking::2.0
+rfid streams as objects::2.0
+approach incurs both delay::2.0
+sensor streams to return::2.0
+work is the first::2.0
+methodology based on graphical::2.0
+sensor readings state migration::2.0
+inference with change point::2.0
+procedure incurs little extra::2.0
+retrieves the temperature based::2.0
+guess about the containment::2.0
+warehouse has a reader::2.0
+object locations or location::2.0
+read at the exit::2.0
+represents the probabilistic dependencies::2.0
+inferred location::2.0
+state for an object::2.0
+large hospitals or supply::2.0
+reduce the time cost::2.0
+requires all the data::2.0
+e-step can be improved::2.0
+cql-based relational stream processing::2.0
+range and immediately returns::2.0
+classroom use is granted::2.0
+term of the summation::2.0
+reader has a read::2.0
+location of each object::2.0
+nfer algorithm missing container::2.0
+queries such as report::2.0
+distribution center::2.0
+interpret both the e-step::2.0
+randomly choose an item::2.0
+dalvi and d suciu::2.0
+compresses other similar query::2.0
+statistical method called change::2.0
+mentioned at the beginning::2.0
+packed in a fireproof::2.0
+achieves an error rate::2.0
+object can have dozens::2.0
+processing needs to maintain::2.0
+object o to change::2.0
+show that a longer::2.0
+querying given an event::2.0
+inference experiment with query::2.0
+computation state is recognized::2.0
+performs inference::2.0
+existing work has addressed::2.0
+entry and exit points::2.0
+emulate an rfid-based enterprise::2.0
+rfid readings that occur::2.0
+problem lab rfid deployment::2.0
+large distributed::2.0
+graphical model of locations::2.0
+algorithm described in appendix::2.0
+provide background on rfid::2.0
+tags in its read::2.0
+treated as local processing::2.0
+million items per warehouse::2.0
+state can be transferred::2.0
+makes these queries difficult::2.0
+issue in state migration::2.0
+propose a centroid-based sharing::2.0
+fusion in sensor networks::2.0
+hybrid query that combines::2.0
+warehouse and scheduled transit::2.0
+challenge to existing machine::2.0
+defer a detailed study::2.0
+improves over the basic::2.0
+experimental setup::2.0
+weights that are computed::2.0
+simulate a small warehouse::2.0
+nature of rfid data::2.0
+hospitals or supply chains::2.0
+change point detection ferent::2.0
+object and the history::2.0
+container of each object::2.0
+body of the paper::2.0
+statistical inference in sensor::2.0
+generate the rfid readings::2.0
+continuously on the object::2.0
+objects in each container::2.0
+accurate than the inferred::2.0
+change for this item::2.0
+stored for containment inference::2.0
+rfid middleware for supporting::2.0
+rate increases for longer::2.0
+system using both synthetic::2.0
+find in history truncation::2.0
+makes it also difficult::2.0
+item in the period::2.0
+elimination of noisy data::2.0
+speed for each warehouse::2.0
+smooth over containment relations::2.0
+closer to a nearby::2.0
+query state and compresses::2.0
+computational complexity per iteration::2.0
+fixed window::2.0
+traces emulating rfidbased supply::2.0
+devise an inference algorithm::2.0
+h=500 for both rr=0.7::2.0
+combines location and containment::2.0
+existing machine learning methods::2.0
+graphical model to denote::2.0
+data does not directly::2.0
+objects and then combining::2.0
+processing in a single::2.0
+read rate is comparable::2.0
+cql continuous query language::2.0
+keeping the read rate::2.0
+reader at the conveyor::2.0
+input streams is labeled::2.0
+relations do not change::2.0
+evaluation on probabilistic databases::2.0
+probabilistic inference over rfid::2.0
+design techniques for distributed::2.0
+container c was read::2.0
+method gives better accuracy::2.0
+readings have been discarded::2.0
+depend on the read::2.0
+containment error::2.0
+easily improved::2.0
+distributed environments that span::2.0
+confirmed using both real::2.0
+including all new readings::2.0
+rfid-based enterprise supply chain::2.0
+describe how we infer::2.0
+shelf reader can read::2.0
+include the s murf::2.0
+adoption of the epc::2.0
+values are quite small::2.0
+due to the removal::2.0
+inference algorithms infer containment::2.0
+based on the full::2.0
+real-world data::2.0
+removed from the shelves::2.0
+repeatedly fail to read::2.0
+developed in an unsupervised::2.0
+based on the distance::2.0
+accuracy and query state::2.0
+query state of two::2.0
+local memory to enable::2.0
+mobile readers::2.0
+rfid is a promising::2.0
+empirically that our inference::2.0
+areas such as supply::2.0
+sketch the main data::2.0
+centralized method::2.0
+sequences from the model::2.0
+variable xtrc is sampled::2.0
+history truncation algorithm runs::2.0
+instantiating such a system::2.0
+method perform::2.0
+articles from this volume::2.0
+approaches in the table::2.0
+posed on the rfid::2.0
+targets any distributed environment::2.0
+processing we next describe::2.0
+evidence than the two::2.0
+latent variables::2.0
+object o containment relations::2.0
+returns the sensed data::2.0
+locations and inter-object relationships::2.0
+transferred to a single::2.0
+rates and significant overlap::2.0
+strength of co-location computed::2.0
+method called change point::2.0
+consistently co-located with object::2.0
+scale of rfid tracking::2.0
+existing work on rfid::2.0
+improved as each object::2.0
+techniques for distributed inference::2.0
+inference allows a query::2.0
+model of container locations::2.0
+murf across all traces::2.0
+environmental noise and overlap::2.0
+state migration for querying::2.0
+approach natural for object::2.0
+queries difficult to answer::2.0
+bound can be proven::2.0
+co-located after the door::2.0
+scales inference and query::2.0
+nfer for inferring containment::2.0
+10x reduction in query::2.0
+noise factors and simulations::2.0
+number of objects index::2.0
+readers had overlapping read::2.0
+generate events of interest::2.0
+note the different schemas::2.0
+processor processes this stream::2.0
+true containment::2.0
+observations are most informative::2.0
+radio frequency identification fundamentals::2.0
+distributed inference we highlight::2.0
+due to the effect::2.0
+containment using a statistical::2.0
+rr=0.8 smurf rr=0.7 smurf::2.0
+simulator can inject anomalies::2.0
+show that the sufficient::2.0
+removing irrelevant terms yields::2.0
+tag id and reader::2.0
+enforcing packaging and shipping::2.0
+suit the increasing scale::2.0
+copy of the state::2.0
+report results using two::2.0
+detection incurs little extra::2.0
+candidate pruning is effective::2.0
+compressed to save memory::2.0
+query processing for tracking::2.0
+read range and immediately::2.0
+arbitrarily nested containment hierarchies::2.0
+varied the overlap rate::2.0
+show that our simple::2.0
+belongs to both top-k::2.0
+self-calibration in sensor networks::2.0
+containment relations c change-point::2.0
+outer query block consuming::2.0
+scalability of our proposed::2.0
+optimum of the likelihood::2.0
+items each to simulate::2.0
+first exposure to room::2.0
+considered a critical region::2.0
+traces and ran inference::2.0
+multiple sites and numerous::2.0
+algorithm can no longer::2.0
+warehouses with a scheduled::2.0
+offers a hospital unprecedented::2.0
+informatics university of edinburgh::2.0
+modest on a modern::2.0
+intuitively by adding latent::2.0
+exploit on-board tag memory::2.0
+read rate is high::2.0
+state at the current::2.0
+methods with varied read::2.0
+streams from all readers::2.0
+written using the cql::2.0
+due to the elimination::2.0
+object includes the readings::2.0
+co-located containers from recent::2.0
+assume an event stream::2.0
+aggregated to support global::2.0
+exploited to store supply-chainspecific::2.0
+work to include probabilistic::2.0
+rfid streams and produces::2.0
+true location of object::2.0
+combining such location evidence::2.0
+real deployments in complex::2.0
+unluckiness of a set::2.0
+object o to make::2.0
+trend with all traces::2.0
+detection using dif table::2.0
+packaging and shipping regulations::2.0
+work aims to support::2.0
+query block takes two::2.0
+layout of the factory::2.0
+reject the null hypothesis::2.0
+algorithm first using traces::2.0
+promising electronic identification technology::2.0
+murf is much worse::2.0
+incur high transfer overhead::2.0
+streams from a single::2.0
+truncate the readings falling::2.0
+note that the likelihood::2.0
+traces from a laboratory::2.0
+length of the shelf::2.0
+transit time between two::2.0
+described in appendix c.3::2.0
+tag has a unique::2.0
+quadratically with the read::2.0
+probabilities of each reader::2.0
+containment relations is effective::2.0
+alleviates the problem lab::2.0
+work has addressed rfid::2.0
+locations are in fact::2.0
+management of rfid data::2.0
+chain arranges n warehouses::2.0
+objects to the nearest::2.0
+large synthetic::2.0
+signals a change point::2.0
+strengths for that container::2.0
+probabilistic model of container::2.0
+highlevel events with rich::2.0
+contained object::2.0
+monitoring query is split::2.0
+true container::2.0
+containment change detection algorithm::2.0
+score wco to measure::2.0
+times by the outer::2.0
+centralized none cr rr=0.6::2.0
+m-step that is specific::2.0
+co-location can be computed::2.0
+increasing scale of rfid::2.0
+addressed rfid data archival::2.0
+explore smoothing over object::2.0
+unprecedented near real-time ability::2.0
+techniques that require access::2.0
+local and global processing::2.0
+advance before any rfid::2.0
+colocated with the object::2.0
+special readers to scan::2.0
+requirement is to optimize::2.0
+sites over a long::2.0
+container did not change::2.0
+container c define ytro::2.0
+perform any temporal smoothing::2.0
+detection algorithm from section::2.0
+algorithm achieves a linear::2.0
+locations and each container::2.0
+detected using a change::2.0
+method was initially proposed::2.0
+event stream with object::2.0
+central location for inference::2.0
+physical world comprising object::2.0
+model is depicted graphically::2.0
+approach for maximizing likelihood::2.0
+key is to exploit::2.0
+current guess::2.0
+sensor network is deployed::2.0
+system in large distributed::2.0
+directly to that site::2.0
+temporal smoothing over readings::2.0
+reader observing the container::2.0
+highlight the communication costs::2.0
+object has either changed::2.0
+detection using the difference::2.0
+epc tag::2.0
+independent and all containers::2.0
+supply chains with multiple::2.0
+distance to the centroid::2.0
+center employs multiple rfid::2.0
+stays in the middle::2.0
+novelty in our approach::2.0
+nodes in the graphical::2.0
+assume that all raw::2.0
+two steps::2.0
+relationship has actually changed::2.0
+local maximum::2.0
+nfer vs s murf::2.0
+query block employs pattern::2.0
+streams as they emerge::2.0
+test our containment change::2.0
+chains and real traces::2.0
+read rates or higher::2.0
+enabling stream query processing::2.0
+tag orientations but observed::2.0
+inference with simple gzip::2.0
+rfid data is observed::2.0
+queries involve inter-object relationships::2.0
+lab traces and simulations::2.0
+top-k co-located::2.0
+produced by an inference::2.0
+algorithm presented::2.0
+sites that an object::2.0
+variables for the pallet::2.0
+interrogations from each nonshelf::2.0
+environments such as hospitals::2.0
+query results is high::2.0
+change at the current::2.0
+distributed processing as object::2.0
+algorithm to also detect::2.0
+techniques from probabilistic reasoning::2.0
+sensor streams::2.0
+relations in rfid inference::2.0
+query state across objects::2.0
+binary vector::2.0
+main issue in state::2.0
+query raises an alert::2.0
+revealed by the readings::2.0
+lower read rates due::2.0
+approach may be limiting::2.0
+rate or at default::2.0
+location from rfid readings::2.0
+common types of queries::2.0
+translates raw noisy rfid::2.0
+fall outside the window::2.0
+sets of containment relationships::2.0
+periodically by using reference::2.0
+region and a short::2.0
+tags that were read::2.0
+report a containment change::2.0
+rr=0.7 h=500 rr=0.8 smurf::2.0
+conference on very large::2.0
+shelf readers had overlapping::2.0
+rfid lab::2.0
+object has been removed::2.0
+binary observation variable xtrc::2.0
+container capacity::2.0
+sensitive to the container::2.0
+accuracy especially when read::2.0
+belief propagation for self-calibration::2.0
+containment inference with stream::2.0
+measure the read rates::2.0
+error rates are low::2.0
+methods with varied trace::2.0
+queries on the data::2.0
+large literature in statistics::2.0
+stress test our containment::2.0
+lacks containment and location::2.0
+garfinkel and b rosenberg::2.0
+performance evaluation::2.0
+immediately returns the sensed::2.0
+limitation of rfid technology::2.0
+obtained since last inference::2.0
+single-source directed acyclic graph::2.0
+temperatures for the product::2.0
+query that combines object::2.0
+estimates of containment relationships::2.0
+locations such as hospitals::2.0
+work when new applications::2.0
+related work rfid stream::2.0
+total amount of state::2.0
+true and observed locations::2.0
+costs of the distributed::2.0
+readers to scan containers::2.0
+object state::2.0
+distribution of the container::2.0
+queries that our work::2.0
+items in the container::2.0
+intuition into a robust::2.0
+data structures and optimizations::2.0
+f-measures and time costs::2.0
+properties from the manufacturer::2.0
+accurately determine their locations::2.0
+chosen by our offline::2.0
+inference cost for long::2.0
+hierarchical containment to future::2.0
+verifies that squiggle tags::2.0
+containers outside the critical::2.0
+shipping and packaging regulations::2.0
+objects are not observed::2.0
+assigns to the observed::2.0
+xtrc be a binary::2.0
+latency of detecting anomalous::2.0
+probability or uniformly sampled::2.0
+system targets any distributed::2.0
+murf is further stored::2.0
+query processing as described::2.0
+object tags::2.0
+computation can be done::2.0
+probabilities and co-location strengths::2.0
+distributed environments::2.0
+inference and change detection::2.0
+describe our distributed query::2.0
+approach to information recovery::2.0
+adds the old transferred::2.0
+yields up to 10x::2.0
+simulation generates the belt::2.0
+random variable which takes::2.0
+variables in the graphical::2.0
+yields a containment relationship::2.0
+pallets are finally read::2.0
+metal objects and interference::2.0
+raw readings of objects::2.0
+servers of a distribution::2.0
+queries such as raise::2.0
+produces an object event::2.0
+inference and thus enable::2.0
+permission to make digital::2.0
+processes raw data streams::2.0
+true location of container::2.0
+traces with distinct characteristics::2.0
+complete history of objects::2.0
+work further supports distributed::2.0
+competing explanationseither the object::2.0
+message-passing for statistical inference::2.0
+robust architecture for distributed::2.0
+readings state migration inference::2.0
+regularities in the tag::2.0
+rfid readings are highly::2.0
+co-location of a false::2.0
+noise in rfid readings::2.0
+co-located with the item::2.0
+values that the query::2.0
+reading of the container::2.0
+shipping the inference state::2.0
+query processor to produce::2.0
+reader periodically interrogate tags::2.0
+ensure accuracy of change::2.0
+including the change point::2.0
+tag has been missedwe::2.0
+co-located during the first::2.0
+choose the best containment::2.0
+prove that the m-step::2.0
+collapse the inference state::2.0
+containment and location information::2.0
+candidates the most frequently::2.0
+state migration for inference::2.0
+numbers for each object::2.0
+item in the supply::2.0
+rfid tags provide similar::2.0
+results of our study::2.0
+containment while not converged::2.0
+environment is a distributed::2.0
+state migration local proc::2.0
+algorithm on synthetic rfid::2.0
+state of monitoring queries::2.0
+nonshelf reader and dozens::2.0
+optimizations in this section::2.0
+first test the sensitivity::2.0
+object leaves a site::2.0
+simply omit the nodes::2.0
+rfid readers that scan::2.0
+processing for an object::2.0
+rate for containment inference::2.0
+overlap between adjacent shelf::2.0
+containment in our work::2.0
+warehouses in a roundrobin::2.0
+history tables::2.0
+dozens from a shelf::2.0
+inference techniques that provide::2.0
+due to two reasons::2.0
+point whenever the value::2.0
+estimates of object locations::2.0
+scanned on the conveyor::2.0
+characteristics of the unknown::2.0
+object locations and object::2.0
+answering queries and minimum::2.0
+presented in the previous::2.0
+streams at each site::2.0
+listening for these tags::2.0
+removed from the container::2.0
+anomaly detection::2.0
+object locations and inter-object::2.0
+graphical model that correspond::2.0
+prototype of our inference::2.0
+observed rfid::2.0
+lines for location inference::2.0
+algorithm would incur high::2.0
+run simulates a warehouse::2.0
+addressed rfid data cleaning::2.0
+data standard::2.0
+infer changes in containment::2.0
+history of observations collected::2.0
+moved from one case::2.0
+nfer and s murf::2.0
+items that are subject::2.0
+learning techniques that require::2.0
+history helps improve accuracy::2.0
+locations of all containers::2.0
+location r r detects::2.0
+exposure to room temperature::2.0
+xtrc is sampled independently::2.0
+first two time steps::2.0
+state migration inference site::2.0
+amount of on-board memory::2.0
+rates or higher overlap::2.0
+nfer also computes location::2.0
+wco = t=t0 eco::2.0
+store supply-chainspecific object state::2.0
+reports the frozen food::2.0
+first the true location::2.0
+method that we proposed::2.0
+algorithm in this section::2.0
+variable indicating whether container::2.0
+objects must be transferred::2.0
+model is a joint::2.0
+tags provide similar benefits::2.0
+appendix c.3::2.0
+events used in query::2.0
+truth that are reported::2.0
+distributed approaches to inference::2.0
+containers or been removed::2.0
+object when it moves::2.0
+independently interrogates the tag::2.0
+location and sometimes denoted::2.0
+radio frequency::2.0
+evidence tt0 =tw eco::2.0
+uniform over the set::2.0
+minimize inference and query::2.0
+information that is key::2.0
+finally extend our distributed::2.0
+distributed environment with multiple::2.0
+states for these objects::2.0
+important quantity for inferring::2.0
+high read::2.0
+defining a score wco::2.0
+simply by sampling hypothetical::2.0
+two containers to drop::2.0
+5,273 related work rfid::2.0
+write the objects state::2.0
+queries typically involve object::2.0
+scanned at the exit::2.0
+shenoy department of computer::2.0
+techniques that provide accurate::2.0
+times by its outer::2.0
+model treats all epochs::2.0
+32,000 items::2.0
+reaches a new site::2.0
+maximum likelihood::2.0
+point detection procedure works::2.0
+distribution over random variables::2.0
+warehouses in a single-source::2.0
+centroid-based sharing technique works::2.0
+hierarchical containment::2.0
+tags are container tags::2.0
+tag on every container::2.0
+object on a shelf::2.0
+principled approach to exploiting::2.0
+warehouse with 32,000 items::2.0
+propose to exploit stable::2.0
+e-step can be easily::2.0
+wang and p liu::2.0
+point in the entire::2.0
+processing as objects move::2.0
+history truncation in distributed::2.0
+highvalue content to monitoring::2.0
+reported results on accuracy::2.0
+equipped with rfid readers::2.0
+containers from recent epochs::2.0
+values from the set::2.0
+methods offer high accuracy::2.0
+combine location and containment::2.0
+change points is challenging::2.0
+food or drug product::2.0
+run on a single::2.0
+algorithm is not sensitive::2.0
+distinguish these two possibilities::2.0
+deployments in complex environments::2.0
+query state for objects::2.0
+event queries on correlated::2.0
+inferred for each object::2.0
+limited number of objects::2.0
+sifting out the observations::2.0
+single execution of lines::2.0
+point has in fact::2.0
+million objects::2.0
+propose a distributed approach::2.0
+window for each item::2.0
+tags matures for large::2.0
+observations collected from multiple::2.0
+custom m-step::2.0
+estimation problem is complex::2.0
+rfid data lacks containment::2.0
+method can significantly reduce::2.0
+longer recent history helps::2.0
+show that candidate pruning::2.0
+consistent with the ground::2.0
+objects in a nearby::2.0
+chance of the reader::2.0
+transferred can be enormous::2.0
+assumes cql-based relational stream::2.0
+significant overlap between readers::2.0
+state transferred across warehouses::2.0
+location of the container::2.0
+reduction in query state::2.0
+query evaluation on probabilistic::2.0
+propose to combine location::2.0
+history truncation algorithm aims::2.0
+recall from appendix a.1::2.0
+relations and a principled::2.0
+number of iterations required::2.0
+describes a physical world::2.0
+conveyor belt that scans::2.0
+storage area::2.0
+first evaluate::2.0
+calls to the change::2.0
+reduction in communication costs::2.0
+maximum likelihood containment relations::2.0
+incurs little extra cost::2.0
+states that our algorithm::2.0
+likelihood containment relations based::2.0
+single location for processing::2.0
+similar benefits in distributed::2.0
+shipped to a central::2.0
+subject of a large::2.0
+citation on the first::2.0
+ensuring accuracy of query::2.0
+accuracy that is close::2.0
+state to be transferred::2.0
+bound on the likelihood::2.0
+rfid readers::2.0
+potentially increase the latency::2.0
+inference we first evaluate::2.0
+enables a real-time information::2.0
+small recent history size::2.0
+containers to drop fast::2.0
+longer recent::2.0
+describe additional experimental results::2.0
+multiple sites while keeping::2.0
+based on the co-location::2.0
+enable anytime anywhere querying::2.0
+consistently across all read::2.0
+sensitivity of radio frequency::2.0
+location inference is due::2.0
+counterfeit drugs and preventing::2.0
+processing state::2.0
+inference accuracy::2.0
+first to employ smoothing::2.0
+shelf readers using low::2.0
+truncation algorithm::2.0
+memorization technique that avoids::2.0
+object that is closer::2.0
+query processing requires additional::2.0
+event specification and extraction::2.0
+anomaly detection queries typically::2.0
+concluding that a change::2.0
+iterates over all readers::2.0
+container c to estimate::2.0
+distributed stream::2.0
+architecture for distributed inference::2.0
+results beyond the key::2.0
+detection procedure will signal::2.0
+container readings binary vector::2.0
+extended both to distributed::2.0
+stream describing the location::2.0
+state migration by shipping::2.0
+motivated us to minimize::2.0
+distributed inference method offers::2.0
+collectively called the inference::2.0
+sites that this object::2.0
+addresses a different problem::2.0
+recent evidence to conclude::2.0
+history may be needed::2.0
+point detection is run::2.0
+directly contain this information::2.0
+generates the belt readings::2.0
+peanuts is never exposed::2.0
+proven by jensens inequality::2.0
+detailed study of hierarchical::2.0
+rfid streams in mobile::2.0
+tag on every object::2.0
+java hotspot 64-bit server::2.0
+exit door and dispatched::2.0
+returns all the temperature::2.0
+tag orientations::2.0
+read rate is due::2.0
+frozen food products considered::2.0
+informative about the true::2.0
+scalability of our techniques::2.0
+stores the container inferred::2.0
+full history::2.0
+schemas for raw rfid::2.0
+epc tag data standard2::2.0
+history size::2.0
+complexity to the model::2.0
+relationships such as containment::2.0
+query processing on local::2.0
+readers that scan medical::2.0
+traditional approach of smoothing::2.0
+centralized method without compromising::2.0
+current belief about locations::2.0
+objects for state migration::2.0
+stores the read rates::2.0
+identification technology that enables::2.0
+running inference::2.0
+guess of the container::2.0
+varied over a wide::2.0
+synthetic traces emulating rfidbased::2.0
+distributed settings::2.0
+amherst school of informatics::2.0
+monitoring query::2.0
+global processing parts based::2.0
+propose to truncate history::2.0
+contention by the belt::2.0
+experimental results in section::2.0
+state for this object::2.0
+held in a tags::2.0
+entire history of readings::2.0
+foundations and query execution::2.0
+query processing for scalability::2.0
+data in the form::2.0
+employs multiple rfid readers::2.0
+containers that were co-located::2.0
+finally extend::2.0
+object at the entry::2.0
+proceedings of the vldb::2.0
+correct the old estimates::2.0
+optimization also for traces::2.0
+product if its container::2.0
+quantity is the probability::2.0
+overlap rate for shelf::2.0
+object event::2.0
+include queries::2.0
+presented in the main::2.0
+lacks a principled approach::2.0
+co-located at the door::2.0
+real-time ability to track::2.0
+custom m-step indeed maximizes::2.0
+due to space constraints::2.0
+inference is more sensitive::2.0
+tag is in sight::2.0
+current set of containment::2.0
+data to be transferred::2.0
+locations and rfid readings::2.0
+cleansing method for rfid::2.0
+inference our inference algorithm::2.0
+queries are location queries::2.0
+relationships from rfid readings::2.0
+container and an object::2.0
+system by using larger::2.0
+experiments in this section::2.0
+dependencies between the observed::2.0
+settings and design techniques::2.0
+function of the containment::2.0
+varied containment change intervals::2.0
+truncate history by sifting::2.0
+drug products for inventory::2.0
+locations or location histories::2.0
+evaluation of lab rfid::2.0
+joint distribution::2.0
+set of candidate containers::2.0
+benefits in distributed supply::2.0
+item is not packed::2.0
+computation above is simply::2.0
+revise the old estimates::2.0
+effective at inferring object::2.0
+set of top-k co-located::2.0
+restrict the change point::2.0
+show that our distributed::2.0
+infer containment and locations::2.0
+likelihood of the observed::2.0
+widely for containment inference::2.0
+exploit sharing of query::2.0
+details of the change::2.0
+middleware for supporting metaphysical::2.0
+accuracy when read rates::2.0
+split into local processing::2.0
+scanning objects on shelves::2.0
+object locations via smoothing::2.0
+differs because the inter-object::2.0
+background on rfid technology::2.0
+profit or commercial advantage::2.0
+include an alternative method::2.0
+queries assume an event::2.0
+f-measure varies across traces::2.0
+method without compromising accuracy::2.0
+location for query processing::2.0
+strength wco::2.0
+inference algorithm would incur::2.0
+partition by sensor rows::2.0
+co-located with this object::2.0
+definition of conditional probability::2.0
+relevant to these objects::2.0
+object and the readings::2.0
+monitor objects and detect::2.0
+attributes about object properties::2.0
+involves lower read rates::2.0
+first evaluate our inference::2.0
+estimates because readings obtained::2.0
+results show that distributed::2.0
+algorithm presented in section::2.0
+challenge is that environments::2.0
+point detection with varied::2.0
+checks for each product::2.0
+distributed processing of tracking::2.0
+natural for object tracking::2.0
+weight of this item::2.0
+copy of latent variables::2.0
+inference over rfid streams::2.0
+accurate estimates of object::2.0
+anomalies that randomly pick::2.0
+error rates to rise::2.0
+state of the object::2.0
+initially proposed for improving::2.0
+colocation history of containers::2.0
+results and the total::2.0
+block takes two streams::2.0
+random variables that represent::2.0
+queries on correlated probabilistic::2.0
+incurs little extra overhead::2.0
+sensitivity of containment inference::2.0
+impact of this factor::2.0
+states of other objects::2.0
+queries and minimum communication::2.0
+describe several additional results::2.0
+processing into a single::2.0
+state to a single::2.0
+smoothing over the dependencies::2.0
+infer them from rfid::2.0
+frequency to occluding metal::2.0
+derive a simple customized::2.0
+variables in the model::2.0
+john wiley and sons::2.0
+rate of containment inference::2.0
+shaded nodes represent tags::2.0
+rate rr and overlap::2.0
+considerations must be addressed::2.0
+determine the containment relationships::2.0
+objects and detect anomalies::2.0
+centers are further aggregated::2.0
+insensitive to the trace::2.0
+gzip compression of data::2.0
+environments such as large::2.0
+suffices to localize objects::2.0
+compare the inference results::2.0
+mobile reader to scan::2.0
+results for our inference::2.0
+stored in larger containers::2.0
+tags are object tags::2.0
+query processing for rfid::2.0
+discussion below assumes cql-based::2.0
+current site as backup::2.0
+include a simple window-based::2.0
+change in the previous::2.0
+delay in each warehouse::2.0
+sensor readings::2.0
+traces because our simulation::2.0
+noisy rfid::2.0
+minimize the inference state::2.0
+rfid readings and containment::2.0
+readers using low power::2.0
+distributed approach that performs::2.0
+constraints to derive high-level::2.0
+rfinfer below we present::2.0
+processing for rfid tracking::2.0
+sift out the observations::2.0
+history h moves forwards::2.0
+compute new containment set::2.0
+obtained there will eventually::2.0
+object and container locations::2.0
+pick the best container::2.0
+object properties::2.0
+nrc nrnc::2.0
+object can be revealed::2.0
+supply chains and real::2.0
+detection procedure::2.0
+suspect that the object::2.0
+informative about true containment::2.0
+probabilistic model::2.0
+environments that span multiple::2.0
+warehouse has 32,000 items::2.0
+container has much higher::2.0
+running on a server::2.0
+algorithm including the change::2.0
+probability distribution that describes::2.0
+single-site inference we describe::2.0
+co-located in the raw::2.0
+general approach for maximizing::2.0
+tracking queries are location::2.0
+techniques can still accurately::2.0
+severely penalizes the performance::2.0
+intel xeon 3ghz cpu::2.0
+high accuracy for location::2.0
+locations as a discrete::2.0
+inference at stream speed::2.0
+state and enable querying::2.0
+sampled independently with probability::2.0
+processing to distributed environments::2.0
+memorized from the computation::2.0
+circularly-polarized antennas::2.0
+irrelevant terms yields max::2.0
+centralized and distributed approaches::2.0
+generalized likelihood ratio statistic::2.0
+packed into a case::2.0
+incurred due to high::2.0
+previous change point detection::2.0
+expected to experience similar::2.0
+arrive at the entry::2.0
+history by sifting out::2.0
+1500-second traces and ran::2.0
+rates of containment inference::2.0
+quantity that we call::2.0
+noisy and incomplete input::2.0
+true object and container::2.0
+design of our model::2.0
+locations of these objects::2.0
+relations c change-point statistic::2.0
+set of discrete epochs::2.0
+proposed for history truncation::2.0
+accuracy and communication costs::2.0
+traces with varied tag::2.0
+edge a containment relation::2.0
+design consideration::2.0
+relationships based on co-location::2.0
+inference is to introduce::2.0
+module that translates raw::2.0
+sheer volume of data::2.0
+site to seed inference::2.0
+simple window-based truncation method::2.0
+rates for varied read::2.0
+locations of objects believed::2.0
+advantage and that copies::2.0
+locate the objects previous::2.0
+inference with stable containment::2.0
+two techniques to address::2.0
+considerations for high fan-in::2.0
+distinguish between these two::2.0
+distribution center collect raw::2.0
+containment inference is sensitive::2.0
+collect raw rfid data::2.0
+deviated from its intended::2.0
+accuracy given read rates::2.0
+recent history helps improve::2.0
+quantity which we call::2.0
+results using two representative::2.0
+seconds scanning each shelf::2.0
+shows that the containment::2.0
+model is a probability::2.0
+state of two objects::2.0
+algorithm to the frequency::2.0
+high communication::2.0
+appendix c.3 for details::2.0
+stream systems::2.0
+streams in mobile environments::2.0
+information infrastructure to provide::2.0
+tag data::2.0
+incur both a high::2.0
+world comprising object locations::2.0
+due to the sensitivity::2.0
+sum of the point::2.0
+science university of massachusetts::2.0
+redundancy for rfid data::2.0
+stream systems maintain computation::2.0
+relationships to infer containment::2.0
+query processing as objects::2.0
+state from that place::2.0
+applying the critical region::2.0
+event stream with rich::2.0
+hospitals with multiple storage::2.0
+copies bear this notice::2.0
+readings strength of co-location::2.0
+reduces the memory requirement::2.0
+naive no state-transfer method::2.0
+step is to show::2.0
+cases with contained items::2.0
+data makes these queries::2.0
+locally at each location::2.0
+high accuracy of location::2.0
+key to query processing::2.0
+central location for query::2.0
+functions in the presence::2.0
+approach and three state::2.0
+readers are less accurate::2.0
+local processing and global::2.0
+work has been supported::2.0
+stream with object location::2.0
+temperature sensitive drug product::2.0
+pallets must be tracked::2.0
+processing and global processing::2.0
+rfid readings are inherently::2.0
+effectively handle the noisy::2.0
+procedure signals a change::2.0
+case in the warehouse::2.0
+containment change frequency varies::2.0
+sensitive to the containment::2.0
+area or patient room::2.0
+optimal value::2.0
+sharing technique that finds::2.0
+communication costs or cope::2.0
+results from the joint::2.0
+traces of various lengths::2.0
+appendix b for illustration::2.0
+implementation of the algorithm::2.0
+query processing in large::2.0
+queries that require object::2.0
+ieee signal processing mag::2.0
+products considered in query::2.0
+storage of the rfid::2.0
+appendix a.3::2.0
+difficulties in a principled::2.0
+current window is considered::2.0
+study of hierarchical containment::2.0
+based on hypothesis testing::2.0
+makes use of techniques::2.0
+find the global maximum::2.0
+read rates and significant::2.0
+distributed settings and design::2.0
+find a time period::2.0
+employ smoothing over object::2.0
+processing can return high-quality::2.0
+object in a container::2.0
+part of this work::2.0
+achieves a linear complexity::2.0
+location of an object::2.0
+heuristic way to infer::2.0
+overrule the old weights::2.0
+sites and numerous objects::2.0
+traces with various noise::2.0
+processing state while ensuring::2.0
+supporting metaphysical data independence::2.0
+point of a storage::2.0
+vary the trace length::2.0
+current estimates of containment::2.0
+considered for global processing::2.0
+derive the containment relationships::2.0
+node represents a tag::2.0
+period and the tag::2.0
+access to any specially-generated::2.0
+experiment with query processing::2.0
+inference with varied read::2.0
+number of reader locations::2.0
+query results::2.0
+containment inference and change::2.0
+read rate of readers::2.0
+estimate their locations individually::2.0
+rr=0.8 h=500 rr=0.7 h=500::2.0
+identity ; the tag::2.0
+applying a small sliding::2.0
+show that distributed inference::2.0
+arrive at a warehouse::2.0
+collected from multiple sites::2.0
+working within an expectation::2.0
+reducing the time cost::2.0
+history of this object::2.0
+objects in a container::2.0
+knowledge about the layout::2.0
+location queries that require::2.0
+first uses s murf::2.0
+fixing the read rate::2.0
+writing the query state::2.0
+locations number of containers::2.0
+error rates for varied::2.0
+streams from different centers::2.0
+optimize performance while satisfying::2.0
+applications requiring so emerge::2.0
+move with these objects::2.0
+sensitivity to the read::2.0
+patient room is equipped::2.0
+assuming that the world::2.0
+object tracking::2.0
+scalability of our inference::2.0
+accuracy of the reported::2.0
+accuracy of change point::2.0
+alternative method::2.0
+transferring the complete history::2.0
+assume that each distribution::2.0
+change point detection incurs::2.0
+obtained from the manufacturers::2.0
+history ; the weight::2.0
+sampling-based approach to information::2.0
+inference module::2.0
+evidence in the previous::2.0
+readings of its candidate::2.0
+hospital unprecedented near real-time::2.0
+likelihood is a function::2.0
+understanding of containment relationships::2.0
+contrast to temporal smoothing::2.0
+yield the time costs::2.0
+container c and object::2.0
+state to the local::2.0
+migration methods for distributed::2.0
+notice and the full::2.0
+shows the cumulative evidence::2.0
+significantly reduce inference cost::2.0
+results at the 37th::2.0
+outer loops::2.0
+reported by our algorithm::2.0
+m-step of our algorithm::2.0
+verify experimentally that smoothing::2.0
+window-based truncation::2.0
+bandwidth overheads incurred due::2.0
+distributed fusion in sensor::2.0
+denote the query state::2.0
+finally reduce the complexities::2.0
+high-quality answers::2.0
+takes various fixed values::2.0
+identification fundamentals and applications::2.0
+assumes that the environment::2.0
+computed as p eco::2.0
+requiring the entire history::2.0
+simply shipping the inference::2.0
+point evidence of object::2.0
+matching over event streams::2.0
+object can have hundreds::2.0
+attached to all cases::2.0
+background in this section::2.0
+lab rfid::2.0
+f-measures of the chosen::2.0
+improve the performance significantly::2.0
+streams to infer object::2.0
+understanding of object locations::2.0
+location inference for static::2.0
+data poses a scalability::2.0
+warehouse an object started::2.0
+temporal management of rfid::2.0
+received readings from epochs::2.0
+previous cr if existent::2.0
+methods to the read::2.0
+likelihood measures how probable::2.0
+co-location strength::2.0
+key challenge::2.0
+instantly when a tag::2.0
+server with an intel::2.0
+algorithm in accuracy due::2.0
+inference algorithm on synthetic::2.0
+reader frequency::2.0
+location probabilities and co-location::2.0
+increases for longer traces::2.0
+large number of objects::2.0
+accuracy of location inference::2.0
+algorithm ; in appendix::2.0
+optimizations to improve inference::2.0
+frequently with the object::2.0
+item was simply removed::2.0
+stable for various read::2.0
+based on a distance::2.0
+addressed to effectively handle::2.0
+storing only the differences::2.0
+small number of items::2.0
+global tracking and monitoring::2.0
+location inference is highly::2.0
+variable indicating::2.0
+point evidence tt0 =tw::2.0
+needed to ensure accuracy::2.0
+streams to answer monitoring::2.0
+inference with the default::2.0
+correspond to the readings::2.0
+distributed inference with varied::2.0
+rates due to added::2.0
+due to added environmental::2.0
+rfid technology::2.0
+distance function that counts::2.0
+rare given the wide::2.0
+products for inventory management::2.0
+approach processes data streams::2.0
+variable indicating whether object::2.0
+server there can locate::2.0
+inference not very sensitive::2.0
+exit point::2.0
+evidence about the container::2.0
+first examine::2.0
+total size of query::2.0
+identical to the standard::2.0
+show that neither location::2.0
+model describes a physical::2.0
+minimum delay of answering::2.0
+pharmaceutical environments that require::2.0
+scale but still offers::2.0
+converge to an optimum::2.0
+run at stream speed::2.0
+accuracy of query answers::2.0
+temperature readings::2.0
+model and inference techniques::2.0
+distill such useful history::2.0
+location r r received::2.0
+pallet that has deviated::2.0
+containment information::2.0
+processing techniques that minimize::2.0
+block employs pattern matching::2.0
+class of queries involve::2.0
+difference of these two::2.0
+requiring different statistical models::2.0
+cpu and running java::2.0
+processing requires additional mechanisms::2.0
+reading both an item::2.0
+object leaves::2.0
+lab experiment and simulations::2.0
+distributed approach processes data::2.0
+include all new observations::2.0
+design considerations::2.0
+h=500 rr=0.7 h=500 rr=0.8::2.0
+window based truncation stays::2.0
+recent research has addressed::2.0
+inference methods when run::2.0
+murf using real lab::2.0
+`tc be the true::2.0
+results show that candidate::2.0
+tags and which tags::2.0
+vector of all object::2.0
+injected at the source::2.0
+location inference is flat::2.0
+scanned by the shelf::2.0
+distributed inference in sensor::2.0
+cost for long traces::2.0
+moved but its tag::2.0
+inferred location and containment::2.0
+squiggle tags are orientation-insensitive::2.0
+region method can significantly::2.0
+history h one solution::2.0
+attributes describing object properties::2.0
+algorithm alternates between two::2.0
+inference are always low::2.0
+work exploits the inference::2.0
+supply chains where objects::2.0
+fundamental tool in statistics::2.0
+due to the missing::2.0
+containment relationships in noisy::2.0
+work rfid stream processing::2.0
+limited local tag storage::2.0
+technique that avoids unnecessary::2.0
+place as its container::2.0
+explain how to sample::2.0
+enable querying anytime anywhere.1::2.0
+answers and further exploit::2.0
+read rates are low::2.0
+memory to enable querying::2.0
+posterior probability tables grow::2.0
+infrastructure offers a hospital::2.0
+csutton @ inf.ed.ac.uk abstract::2.0
+finds the most representative::2.0
+object relations in rfid::2.0
+centralized approach while approximating::2.0
+change-point statistic for epoch::2.0
+flag a change point::2.0
+enormous given a large::2.0
+communication costs stay true::2.0
+characteristics regarding the environmental::2.0
+design considerations for high::2.0
+inference to the read::2.0
+out that the observed::2.0
+issue in both inference::2.0
+global query::2.0
+sharing of query state::2.0
+maximizing each term independently::2.0
+models and inference techniques::2.0
+location and containment introduction::2.0
+robust message-passing for statistical::2.0
+results in the interest::2.0
+compressed the entire history::2.0
+readings useful for containment::2.0
+inference results::2.0
+maximum p by maximizing::2.0
+defines the query state::2.0
+performed by existing stream::2.0
+registered with every site::2.0
+state and enable anytime::2.0
+allowing more efficient inference::2.0
+container contains a small::2.0
+memory requirement without sacrificing::2.0
+object o we choose::2.0
+detection with varied anomaly::2.0
+perform change point detection::2.0
+offers a general approach::2.0
+migration can be realized::2.0
+point detection the change::2.0
+set of possible reader::2.0
+began with short 1500-second::2.0
+evaluation we have implemented::2.0
+first varied the read::2.0
+inference are very close::2.0
+include for any temperature::2.0
+show only the line::2.0
+obtained traces with varied::2.0
+values needed for future::2.0
+based on the products::2.0
+alert if a frozen::2.0
+detection queries typically involve::2.0
+set of values needed::2.0
+separate sites and millions::2.0
+matures for large deployments::2.0
+simulations with different containment::2.0
+true values of temperature::2.0
+history alleviates the problem::2.0
+estimate location and containment::2.0
+due to high data::2.0
+accuracy for location inference::2.0
+detection in this section::2.0
+solution to this problem::2.0
+finally extend our algorithm::2.0
+solution is simply shipping::2.0
+containment change intervals figure::2.0
+default but also varied::2.0
+applied to other domains::2.0
+objects is simply based::2.0
+truncation to be inaccurate::2.0
+choose the most representative::2.0
+shelves to scan resident::2.0
+cope with limited local::2.0
+containers number of objects::2.0
+locations and object relationships::2.0
+reader can read objects::2.0
+object o was read::2.0
+distributed query processing approach::2.0
+grow into many geographically::2.0
+distributed and centralized approaches::2.0
+optimization does not introduce::2.0
+compute the error rate::2.0
+shown in appendix c.5::2.0
+shown in appendix c.4::2.0
+method will enable querying::2.0
+a.3 implementation and optimizations::2.0
+treats all time steps::2.0
+containment changes cause containment::2.0
+module as we discuss::2.0
+depends strongly on characteristics::2.0
+parameter number of warehouses::2.0
+number for each container-object::2.0
+two ways to trade::2.0
+testing for change points::2.0
+include probabilistic query processing::2.0
+monitoring query is registered::2.0
+tracking and monitoring systems::2.0
+sensitivity of our algorithm::2.0
+section requires the entire::2.0
+cost beyond the computation::2.0
+readings from the container::2.0
+scanned the real container::2.0
+emulating rfidbased supply chains::2.0
+probability distribution over random::2.0
+relationships would be simple::2.0
+query state among objects::2.0
+details of change point::2.0
+containment relationships with objects::2.0
+requirement is to achieve::2.0
+vector of all container::2.0
+rfid technology and rfid::2.0
+requirement without sacrificing accuracy::2.0
+complexities of the e-step::2.0
+sequence of temperature readings::2.0
+algorithm missing container tags::2.0
+f-measure for these traces::2.0
+place using the object::2.0
+type of generalized likelihood::2.0
+pattern matching over event::2.0
+results demonstrated the accuracy::2.0
+require combating counterfeit drugs::2.0
+inference runs on raw::2.0
+idea is that determining::2.0
+raw noisy rfid readings::2.0
+matching on the stream::2.0
+enable more frequent inference::2.0
+data cleans::2.0
+overlap rates between readers::2.0
+describe a history truncation::2.0
+environments that require combating::2.0
+propose a statistical approach::2.0
+stores the co-location strengths::2.0
+important to minimize inference::2.0
+change detection using dif::2.0
+location for subsequent inference::2.0
+location nor containment inference::2.0
+truncation is to sift::2.0
+appendix a the key::2.0
+recent history h moves::2.0
+depicted graphically in figure::2.0
+posterior distribution::2.0
+addition to the detected::2.0
+based on graphical modeling::2.0
+readings obtained::2.0
+runs on raw rfid::2.0
+state according to individual::2.0
+alert if a flammable::2.0
+values and our offline::2.0
+tags that were missed::2.0
+exit of a site::2.0
+relations that allow object::2.0
+accurate for various noisy::2.0
+detection the change point::2.0
+center collect raw rfid::2.0
+randomly pick an item::2.0
+error rate for containment::2.0
+tracking and monitoring zhao::2.0
+basic algorithm in accuracy::2.0
+discussion of query processing::2.0
+model in this section::2.0
+assumed to be packed::2.0
+proposed for improving performance::2.0
+likelihood of the data::2.0
+addition to the total::2.0
+containment relationships from rfid::2.0
+outer query block employs::2.0
+truncation method that reduces::2.0
+greater than a threshold::2.0
+storage area or patient::2.0
+vary h to study::2.0
+search reaches the end::2.0
+school of informatics university::2.0
+support change point detection::2.0
+speed based on table::2.0
+focus on passive rfid::2.0
+significantly lower communication costs::2.0
+started at the entry::2.0
+latent and evidence variables::2.0
+iterate these two steps::2.0
+traces while further improving::2.0
+noisy data from inference::2.0
+alternative method for comparison::2.0
+rate for shelf readers::2.0
+memory to hold object::2.0
+servers or to redistribute::2.0
+observe the naive window-based::2.0
+half of the warehouse::2.0
+h=500 rr=0.8 smurf rr=0.7::2.0
+extensions of our algorithm::2.0
+partitioning the query state::2.0
+ground truth and compute::2.0
+deployment than static readers::2.0
+sensitivity to various noise::2.0
+query processing can return::2.0
+state into the tags::2.0
+error rates of location::2.0
+powerful way to determine::2.0
+trace using a single-threaded::2.0
+pieces of medical equipment::2.0
+state of the world::2.0
+thingmagic mercury5 readers connected::2.0
+alternates between two steps::2.0
+distributed environment::2.0
+beginning of the section::2.0
+containment inference is flat::2.0
+data streams to infer::2.0
+tag memory to hold::2.0
+respect to the set::2.0
+observed the true locations::2.0
+noise factors::2.0
+algorithm aims to find::2.0
+unshaded nodes are tags::2.0
+exposed to other food::2.0
+distribution center employs multiple::2.0
+queries must also move::2.0
+processor to produce high-quality::2.0
+size of query state::2.0
+mobile readers for scanning::2.0
+state of query processing::2.0
+partitioned for individual objects::2.0
+region of the object::2.0
+query state reduction ratio::2.0
+sampled for each container::2.0
+inference over the entire::2.0
+lab setup::2.0
+anytime anywhere.1 we assume::2.0
+rates of location inference::2.0
+state for the object::2.0
+intuitions such as smoothing::2.0
+differ widely for containment::2.0
+scale to 150,000 items::2.0
+details of this study::2.0
+step and the locations::2.0
+case contains a limited::2.0
+pallet locations whose values::2.0
+poses a scalability challenge::2.0
+fundamental limitation of rfid::2.0
+queries and high communication::2.0
+stream with rich information::2.0
+infer a containment relationship::2.0
+distributed rfid data management::2.0
+query block is labeled::2.0
+150,000 items per warehouse::2.0
+move through a sequence::2.0
+error rates of containment::2.0
+a.1 pseudocode and proof::2.0
+accuracy of query results::2.0
+raw rfid data streams::2.0
+containment relations ; set::2.0
+typically involve object locations::2.0
+values without any extra::2.0
+containment relationships to infer::2.0
+speed of rfid streams::2.0
+varying the environmental noise::2.0
+inference is highly accurate::2.0
+rest of this paper::2.0
+co-located case is chosen::2.0
+shown using real lab::2.0
+single architecture::2.0
+t=1 c=1 ar max::2.0
+needed for future automaton::2.0
+locations of each container::2.0
+critical region whose size::2.0
+converge to a local::2.0
+similarly for each object::2.0
+dramatically reduces the inference::2.0
+queries combine sensors streams::2.0
+processing on local rfid::2.0
+small since each object::2.0
+running java hotspot 64-bit::2.0
+requires the entire history::2.0
+semantic foundations and query::2.0
+container and the tag::2.0
+dozens of candidate containers::2.0
+low across all traces::2.0
+real lab::2.0
+processing in large distributed::2.0
+raw data::2.0
+read object::2.0
+maximizing over possible change::2.0
+interval between two containment::2.0
+explained using the cumulative::2.0
+room temperature::2.0
+fixed to known locations::2.0
+approach based on hypothesis::2.0
+entire history of observations::2.0
+containers with the object::2.0
+defines a joint probability::2.0
+entire history severely penalizes::2.0
+readings and the latent::2.0
+department of computer science::2.0
+copies are not made::2.0
+accuracy for read rates::2.0
+xtrc x y wco::2.0
+variable which takes values::2.0
+significant overlap between adjacent::2.0
+small chance a reader::2.0
+computed the error rates::2.0
+query aggregates the retrieved::2.0
+query states by storing::2.0
+move from one location::2.0
+algorithm have the complexity::2.0
+information about object locations::2.0
+inferring the containment relationships::2.0
+state while ensuring accuracy::2.0
+object and a container::2.0
+read by the reader::2.0
+monitoring queries we aim::2.0
+assumed to be tagged::2.0
+granted without fee provided::2.0
+causing the cumulative evidence::2.0
+inference is more challenging::2.0
+experimental setup we developed::2.0
+transitioned through the readers::2.0
+systems maintain computation state::2.0
+make digital or hard::2.0
+distribution over the locations::2.0
+numbers indicate the f-measures::2.0
+optional attributes describing object::2.0
+processing can be performed::2.0
+depend on c expanding::2.0
+error rate of containment::2.0
+limited to the traditional::2.0
+tracking and monitoring applications::2.0
+hospitals would be expected::2.0
+single object::2.0
+incurring significantly lower communication::2.0
+statistical models and inference::2.0
+truncation in distributed processing::2.0
+appendix c by default::2.0
+types of continuous queries::2.0
+inference accuracy and communication::2.0
+shipping the query state::2.0
+sensitive to the overlap::2.0
+accuracy for lower read::2.0
+sample from the probability::2.0
+object event stream describing::2.0
+global query processing requires::2.0
+techniques we employ include::2.0
+`to be the true::2.0
+measure whether the observed::2.0
+ing with query processing::2.0
+minimum set of values::2.0
+optimizations combined finally reduce::2.0
+change point detection extension::2.0
+heuristics for containment inference::2.0
+system is in steady::2.0
+containment relationships from history::2.0
+flag the same change::2.0
+minutes using a 10-minute::2.0
+computed in our containment::2.0
+sensitivity of these methods::2.0
+inference module that translates::2.0
+item with its candidate::2.0
+packed onto a pallet::2.0
+frozen food or drug::2.0
+realized in several ways::2.0
+reject the null::1.58496250072
+theory and application::1.58496250072
+anomaly error rate::1.58496250072
+location error rates::1.58496250072
+set of candidate::1.58496250072
+true container locations::1.58496250072
+point evidence tt0::1.58496250072
+university of massachusetts::1.58496250072
+history by sifting::1.58496250072
+show that candidate::1.58496250072
+generate the rfid::1.58496250072
+belief about locations::1.58496250072
+local and global::1.58496250072
+employ include optimizations::1.58496250072
+optimal f-measure varies::1.58496250072
+techniques to address::1.58496250072
+single-threaded implementation running::1.58496250072
+emulate an rfid-based::1.58496250072
+item was simply::1.58496250072
+traces emulating rfidbased::1.58496250072
+containment inference completes::1.58496250072
+reports the f-measure::1.58496250072
+suffices to localize::1.58496250072
+history truncation methods::1.58496250072
+infer that container::1.58496250072
+describes a physical::1.58496250072
+mercury5 readers connected::1.58496250072
+omit the nodes::1.58496250072
+quantity for inferring::1.58496250072
+co-location strengths wco::1.58496250072
+chains with multiple::1.58496250072
+locations and rfid::1.58496250072
+setup we developed::1.58496250072
+local rfid streams::1.58496250072
+relational stream processing::1.58496250072
+object and container::1.58496250072
+key to query::1.58496250072
+encode containment relationships::1.58496250072
+based on hypothesis::1.58496250072
+relations ; set::1.58496250072
+naive window-based truncation::1.58496250072
+challenges in instantiating::1.58496250072
+object at location::1.58496250072
+efficient pattern matching::1.58496250072
+answer monitoring queries::1.58496250072
+chance of reading::1.58496250072
+center collect raw::1.58496250072
+propose a statistical::1.58496250072
+takes two streams::1.58496250072
+memory to hold::1.58496250072
+multiple rfid readers::1.58496250072
+employs pattern matching::1.58496250072
+employs multiple rfid::1.58496250072
+relationships to infer::1.58496250072
+amount of on-board::1.58496250072
+supply-chainspecific object state::1.58496250072
+run at stream::1.58496250072
+rate is due::1.58496250072
+essential for working::1.58496250072
+infer than object::1.58496250072
+study are left::1.58496250072
+rate for containment::1.58496250072
+performs this maximization::1.58496250072
+proven by jensens::1.58496250072
+support change point::1.58496250072
+read one object::1.58496250072
+methods for distributed::1.58496250072
+distributed approach natural::1.58496250072
+aggregates the retrieved::1.58496250072
+distributed for profit::1.58496250072
+223,790 rr=0.8 166,746,235::1.58496250072
+supply chain arranges::1.58496250072
+xtrc is true::1.58496250072
+cases and items::1.58496250072
+calculate the weight::1.58496250072
+window based truncation::1.58496250072
+estimate the container::1.58496250072
+history of observations::1.58496250072
+relations in rfid::1.58496250072
+maximizing each term::1.58496250072
+accuracy of centralized::1.58496250072
+plan to extend::1.58496250072
+maximizing likelihood functions::1.58496250072
+estimates of containment::1.58496250072
+history severely penalizes::1.58496250072
+cases per pallet::1.58496250072
+nature of rfid::1.58496250072
+exploit on-board tag::1.58496250072
+significant overlap rates::1.58496250072
+rich information including::1.58496250072
+omitting other results::1.58496250072
+pruning is effective::1.58496250072
+provide similar benefits::1.58496250072
+represent real containers::1.58496250072
+area or patient::1.58496250072
+location were incorrect::1.58496250072
+sites while keeping::1.58496250072
+smurf rr=0.7 smurf::1.58496250072
+approach to location::1.58496250072
+eliminated from contention::1.58496250072
+processing as objects::1.58496250072
+containment inference algorithm::1.58496250072
+container of object::1.58496250072
+two false containers::1.58496250072
+point detection extension::1.58496250072
+read rates reach::1.58496250072
+algorithm in accuracy::1.58496250072
+incurring significantly lower::1.58496250072
+detection is run::1.58496250072
+considers the probabilities::1.58496250072
+specially-generated training data::1.58496250072
+fixing the read::1.58496250072
+cql continuous query::1.58496250072
+architecture for distributed::1.58496250072
+include a simple::1.58496250072
+contrast to temporal::1.58496250072
+machine learning methods::1.58496250072
+processing and global::1.58496250072
+pieces of medical::1.58496250072
+defines a joint::1.58496250072
+rates of containment::1.58496250072
+estimates because readings::1.58496250072
+locations and inter-object::1.58496250072
+incurs both delay::1.58496250072
+containment is stable::1.58496250072
+maximum likelihood framework::1.58496250072
+results are confirmed::1.58496250072
+containers of items::1.58496250072
+entire history severely::1.58496250072
+treated as local::1.58496250072
+subject to shipping::1.58496250072
+paper rr appendix::1.58496250072
+distributed inference method::1.58496250072
+arranges n warehouses::1.58496250072
+involve inter-object relationships::1.58496250072
+readers that scan::1.58496250072
+natural for object::1.58496250072
+keeping the read::1.58496250072
+results using two::1.58496250072
+techniques that minimize::1.58496250072
+rfid data lacks::1.58496250072
+provide accurate estimates::1.58496250072
+nfer algorithm including::1.58496250072
+query is written::1.58496250072
+leaves a site::1.58496250072
+unknown true distribution::1.58496250072
+minimum communication costs::1.58496250072
+history h moves::1.58496250072
+seed the computation::1.58496250072
+objects are observed::1.58496250072
+vary the trace::1.58496250072
+accuracy while running::1.58496250072
+simulates a warehouse::1.58496250072
+developed a simulator::1.58496250072
+monitoring zhao cao::1.58496250072
+small sliding window::1.58496250072
+maximizing over appears::1.58496250072
+estimate their locations::1.58496250072
+size is independent::1.58496250072
+containment between objects::1.58496250072
+research has addressed::1.58496250072
+containment inference results::1.58496250072
+world comprising object::1.58496250072
+describe two techniques::1.58496250072
+baseline for comparison::1.58496250072
+test our containment::1.58496250072
+varying the environmental::1.58496250072
+indicating whether container::1.58496250072
+derive high-level information::1.58496250072
+simply been unlucky::1.58496250072
+lower communication costs::1.58496250072
+detection of abrupt::1.58496250072
+span multiple sites::1.58496250072
+raw noisy rfid::1.58496250072
+site or writing::1.58496250072
+wiley and sons::1.58496250072
+o=1 d figure::1.58496250072
+propose an optimization::1.58496250072
+models and inference::1.58496250072
+addressed to effectively::1.58496250072
+costs in bold::1.58496250072
+shown in algorithm::1.58496250072
+item and place::1.58496250072
+verifies that squiggle::1.58496250072
+propose to exploit::1.58496250072
+possibly different histories::1.58496250072
+readers had overlapping::1.58496250072
+c.3 alternative method::1.58496250072
+study such tradeoff::1.58496250072
+cases are injected::1.58496250072
+approach while approximating::1.58496250072
+readings are inherently::1.58496250072
+rfid data archival::1.58496250072
+varied the read::1.58496250072
+distributed approach processes::1.58496250072
+enterprise supply chain::1.58496250072
+true with probability::1.58496250072
+85,510 6,108 rr=0.8::1.58496250072
+counts the number::1.58496250072
+location for subsequent::1.58496250072
+paper is summarized::1.58496250072
+query processing requires::1.58496250072
+fundamentals and applications::1.58496250072
+content to monitoring::1.58496250072
+region whose size::1.58496250072
+query processing techniques::1.58496250072
+query block takes::1.58496250072
+ease of exposition::1.58496250072
+read rate table::1.58496250072
+container that results::1.58496250072
+warehouse and depart::1.58496250072
+combined finally reduce::1.58496250072
+processing parts based::1.58496250072
+nfer uses smoothing::1.58496250072
+effective at inferring::1.58496250072
+object to minimize::1.58496250072
+adjacent shelf readers::1.58496250072
+working at scale::1.58496250072
+centralized and distributed::1.58496250072
+deferred cleansing method::1.58496250072
+murf algorithm described::1.58496250072
+relations c change-point::1.58496250072
+block is treated::1.58496250072
+algorithm from section::1.58496250072
+problem is complex::1.58496250072
+schemas for raw::1.58496250072
+inference to complete::1.58496250072
+inf.ed.ac.uk abstract tal::1.58496250072
+expected to experience::1.58496250072
+report any pallet::1.58496250072
+inference is due::1.58496250072
+needed to ensure::1.58496250072
+geographically separate sites::1.58496250072
+inferring object locations::1.58496250072
+data is observed::1.58496250072
+c.4 single-site inference::1.58496250072
+explained in section::1.58496250072
+deal with traces::1.58496250072
+details of change::1.58496250072
+size of query::1.58496250072
+points is challenging::1.58496250072
+site as backup::1.58496250072
+readers to scan::1.58496250072
+wco to measure::1.58496250072
+error on location::1.58496250072
+requirement without sacrificing::1.58496250072
+inference is highly::1.58496250072
+steps as independent::1.58496250072
+experimental results demonstrated::1.58496250072
+accomplished by monitoring::1.58496250072
+flag a change::1.58496250072
+epoch and container::1.58496250072
+extends the state-of-theart::1.58496250072
+techniques we employ::1.58496250072
+collect raw rfid::1.58496250072
+recognized and partitioned::1.58496250072
+values of temperature::1.58496250072
+optimizations in appendix::1.58496250072
+raw rfid streams::1.58496250072
+orientations but observed::1.58496250072
+locate the objects::1.58496250072
+experimental results show::1.58496250072
+objects in simulation::1.58496250072
+perform change point::1.58496250072
+resulting better understanding::1.58496250072
+understanding of locations::1.58496250072
+location r reading::1.58496250072
+due to space::1.58496250072
+inference by simulating::1.58496250072
+noise and overlap::1.58496250072
+overheads incurred due::1.58496250072
+type of generalized::1.58496250072
+increases for longer::1.58496250072
+based truncation stays::1.58496250072
+infer the location::1.58496250072
+choice of threshold::1.58496250072
+invited to present::1.58496250072
+technology trend motivated::1.58496250072
+warehouse while running::1.58496250072
+benefits in distributed::1.58496250072
+probabilistic query processing::1.58496250072
+offline sampling algorithm::1.58496250072
+traces and simulations::1.58496250072
+first using traces::1.58496250072
+rfid data cleansing::1.58496250072
+measure the read::1.58496250072
+inferring containment relationships::1.58496250072
+rfid data makes::1.58496250072
+rate for shelf::1.58496250072
+present additional details::1.58496250072
+sensitive drug product::1.58496250072
+location from rfid::1.58496250072
+shows the results::1.58496250072
+rates of location::1.58496250072
+state among objects::1.58496250072
+rfid data streams::1.58496250072
+readings state migration::1.58496250072
+querying anytime anywhere.1::1.58496250072
+nodes represent tags::1.58496250072
+extend our distributed::1.58496250072
+anywhere.1 we assume::1.58496250072
+locations and listening::1.58496250072
+queries combine sensors::1.58496250072
+moves across sites::1.58496250072
+bound with respect::1.58496250072
+accuracy of location::1.58496250072
+wco = t=t0::1.58496250072
+relationships from history::1.58496250072
+error rate increases::1.58496250072
+technical contributions include::1.58496250072
+latency of detecting::1.58496250072
+objects and detect::1.58496250072
+f-measures in bold::1.58496250072
+containment relations based::1.58496250072
+computes the sum::1.58496250072
+inference and state::1.58496250072
+reader and dozens::1.58496250072
+summarized in table::1.58496250072
+evaluation of lab::1.58496250072
+cases with contained::1.58496250072
+needed for future::1.58496250072
+true location `tc::1.58496250072
+generating rfid streams::1.58496250072
+future automaton evaluation::1.58496250072
+inference with simple::1.58496250072
+reduced shelf readings::1.58496250072
+sharing of query::1.58496250072
+method will enable::1.58496250072
+running java hotspot::1.58496250072
+respect to qtc::1.58496250072
+accuracy when read::1.58496250072
+distinguish these two::1.58496250072
+tags all pieces::1.58496250072
+previous change point::1.58496250072
+distributed inference accuracy::1.58496250072
+multiple cases packed::1.58496250072
+change point algorithm::1.58496250072
+limitation of rfid::1.58496250072
+naive inference algorithm::1.58496250072
+weight calculation remains::1.58496250072
+signals a change::1.58496250072
+demonstrate the accuracy::1.58496250072
+seconds error rate::1.58496250072
+collapse the inference::1.58496250072
+rr=0.7 h=500 rr=0.8::1.58496250072
+defer a detailed::1.58496250072
+food containing peanuts::1.58496250072
+locations or location::1.58496250072
+runs on raw::1.58496250072
+statistic for epoch::1.58496250072
+processing as described::1.58496250072
+anomaly detection queries::1.58496250072
+optimizations to improve::1.58496250072
+noisy and incomplete::1.58496250072
+limited local tag::1.58496250072
+t.loc and t.temp::1.58496250072
+propagation for self-calibration::1.58496250072
+recall to capture::1.58496250072
+permission to make::1.58496250072
+offers a general::1.58496250072
+single-source directed acyclic::1.58496250072
+accuracy of change::1.58496250072
+location r typically::1.58496250072
+hospitals with multiple::1.58496250072
+performed by existing::1.58496250072
+explain the data::1.58496250072
+recall from appendix::1.58496250072
+approach of smoothing::1.58496250072
+history of readings::1.58496250072
+shelves to scan::1.58496250072
+combating counterfeit drugs::1.58496250072
+rfid data management::1.58496250072
+algorithm is developed::1.58496250072
+purposes of describing::1.58496250072
+constraints to derive::1.58496250072
+chance a reader::1.58496250072
+methods when run::1.58496250072
+involve object locations::1.58496250072
+present their results::1.58496250072
+process these streams::1.58496250072
+stream speed based::1.58496250072
+inference with stable::1.58496250072
+understand containment correctly::1.58496250072
+retrieves its state::1.58496250072
+causing the cumulative::1.58496250072
+objects previous place::1.58496250072
+approach processes data::1.58496250072
+optimize these cases::1.58496250072
+emulating rfidbased supply::1.58496250072
+results on accuracy::1.58496250072
+scan medical devices::1.58496250072
+225,890 rr=0.9 187,589,810::1.58496250072
+determine their locations::1.58496250072
+background on rfid::1.58496250072
+redundancy for rfid::1.58496250072
+partition by sensor::1.58496250072
+observation variable xtrc::1.58496250072
+missing container tags::1.58496250072
+information about object::1.58496250072
+copy of latent::1.58496250072
+recent w readings::1.58496250072
+chains where objects::1.58496250072
+chance to correct::1.58496250072
+state migration methods::1.58496250072
+set of containment::1.58496250072
+amounts to maximizing::1.58496250072
+simulator using csim::1.58496250072
+department of computer::1.58496250072
+series of tables::1.58496250072
+dozens of candidate::1.58496250072
+heterogeneous read rates::1.58496250072
+pseudocode and proof::1.58496250072
+return all answers::1.58496250072
+equipped with rfid::1.58496250072
+rate of containment::1.58496250072
+irrelevant terms yields::1.58496250072
+yields a containment::1.58496250072
+simple window-based truncation::1.58496250072
+percentage of reported::1.58496250072
+tags local memory::1.58496250072
+takes various fixed::1.58496250072
+wco in line::1.58496250072
+model that correspond::1.58496250072
+understanding of object::1.58496250072
+attributes about object::1.58496250072
+require combating counterfeit::1.58496250072
+likelihood containment relations::1.58496250072
+large data bases::1.58496250072
+transferred across warehouses::1.58496250072
+relationships in noisy::1.58496250072
+require object locations::1.58496250072
+avoids unnecessary computation::1.58496250072
+hold object state::1.58496250072
+nfer indeed maximizes::1.58496250072
+re-used to calculate::1.58496250072
+monitoring the strength::1.58496250072
+detection the change::1.58496250072
+characterize the number::1.58496250072
+message-passing for statistical::1.58496250072
+location to seed::1.58496250072
+handle missed readings::1.58496250072
+set of tracking::1.58496250072
+absence of containment::1.58496250072
+noise in rfid::1.58496250072
+derive a simple::1.58496250072
+approximating the accuracy::1.58496250072
+csim to emulate::1.58496250072
+belt reader scanned::1.58496250072
+determine the containment::1.58496250072
+unprecedented near real-time::1.58496250072
+technology that enables::1.58496250072
+overlap between adjacent::1.58496250072
+makes these queries::1.58496250072
+fail to scale::1.58496250072
+csutton @ inf.ed.ac.uk::1.58496250072
+highly accurate inference::1.58496250072
+factor of or2::1.58496250072
+smooth raw readings::1.58496250072
+reader can detect::1.58496250072
+synthetic rfid streams::1.58496250072
+helps improve accuracy::1.58496250072
+container reduces quadratically::1.58496250072
+implemented a prototype::1.58496250072
+rfid-based infrastructure offers::1.58496250072
+accuracy for lower::1.58496250072
+began with short::1.58496250072
+combines object locations::1.58496250072
+compute the error::1.58496250072
+query processing approach::1.58496250072
+include probabilistic query::1.58496250072
+reference tags fixed::1.58496250072
+demonstrated the accuracy::1.58496250072
+number of containers::1.58496250072
+satisfying certain accuracy::1.58496250072
+belt and shelves::1.58496250072
+done in advance::1.58496250072
+employ several optimizations::1.58496250072
+requires additional mechanisms::1.58496250072
+due to high::1.58496250072
+section we describe::1.58496250072
+short 1500-second traces::1.58496250072
+model and algorithms::1.58496250072
+readers and process::1.58496250072
+determining containment relationships::1.58496250072
+scanning each shelf::1.58496250072
+informative about true::1.58496250072
+processing in large::1.58496250072
+scan each isle::1.58496250072
+method can significantly::1.58496250072
+approach for maximizing::1.58496250072
+overlapping read ranges::1.58496250072
+center employs multiple::1.58496250072
+work rfid stream::1.58496250072
+distributed rfid data::1.58496250072
+epoch are treated::1.58496250072
+distribution over random::1.58496250072
+transferring the complete::1.58496250072
+global processing based::1.58496250072
+state of objects::1.58496250072
+food or type::1.58496250072
+nonparametric belief propagation::1.58496250072
+deployments in complex::1.58496250072
+managing rfid events::1.58496250072
+algorithm has converged::1.58496250072
+achieved the maximum::1.58496250072
+denoted as qtc::1.58496250072
+describe the model::1.58496250072
+transfer one copy::1.58496250072
+illustrated in figure::1.58496250072
+large distributed settings::1.58496250072
+infer true values::1.58496250072
+room is equipped::1.58496250072
+temporal smoothing approaches::1.58496250072
+change intervals figure::1.58496250072
+digital or hard::1.58496250072
+reducing the delay::1.58496250072
+point is detected::1.58496250072
+anytime anywhere querying::1.58496250072
+types of continuous::1.58496250072
+appendix the notation::1.58496250072
+needed because due::1.58496250072
+xtrc is sampled::1.58496250072
+history of containers::1.58496250072
+varied the overlap::1.58496250072
+offers provable optimality::1.58496250072
+detect an object::1.58496250072
+fail to read::1.58496250072
+data from inference::1.58496250072
+costs stay true::1.58496250072
+unclear if object::1.58496250072
+location and container::1.58496250072
+number of reader::1.58496250072
+xeon 3ghz cpu::1.58496250072
+stream with rich::1.58496250072
+two history tables::1.58496250072
+pallets of cases::1.58496250072
+geographically distributed settings::1.58496250072
+global processing parts::1.58496250072
+rr=0.7 and rr=0.8::1.58496250072
+poses a scalability::1.58496250072
+illustrate our approach::1.58496250072
+level of packaging::1.58496250072
+effective than smoothing::1.58496250072
+readings for inference::1.58496250072
+interest of space::1.58496250072
+listed in section::1.58496250072
+streams in mobile::1.58496250072
+school of informatics::1.58496250072
+method perform close::1.58496250072
+inference method offers::1.58496250072
+address distributed inference::1.58496250072
+processes data streams::1.58496250072
+data cleaning problems::1.58496250072
+case that belongs::1.58496250072
+widely for containment::1.58496250072
+true and observed::1.58496250072
+similarly for ytro::1.58496250072
+pallets first arrive::1.58496250072
+object readings strength::1.58496250072
+ing with query::1.58496250072
+processor to produce::1.58496250072
+extend our work::1.58496250072
+communication costs stay::1.58496250072
+enable query processing::1.58496250072
+achieve best accuracy::1.58496250072
+containment introduction rfid::1.58496250072
+demand more evidence::1.58496250072
+alleviates the problem::1.58496250072
+query processing locally::1.58496250072
+experiment with query::1.58496250072
+noise factors combined::1.58496250072
+joint probability distribution::1.58496250072
+treat all tags::1.58496250072
+recent history denoted::1.58496250072
+treated as simultaneous::1.58496250072
+queries we aim::1.58496250072
+additional experimental results::1.58496250072
+testing for change::1.58496250072
+disregard the data::1.58496250072
+computer science university::1.58496250072
+stream with object::1.58496250072
+automatonbased query processor::1.58496250072
+truncate the history::1.58496250072
+frozen food products::1.58496250072
+latent object locations::1.58496250072
+site to seed::1.58496250072
+raw rfid readings::1.58496250072
+items were moved::1.58496250072
+granted without fee::1.58496250072
+include as candidates::1.58496250072
+medical device equipment::1.58496250072
+details are shown::1.58496250072
+hundreds of readings::1.58496250072
+main read rate::1.58496250072
+shaded nodes represent::1.58496250072
+containment-based sharing method::1.58496250072
+processing for rfid::1.58496250072
+inferring the containment::1.58496250072
+murf using real::1.58496250072
+location at present::1.58496250072
+sequence of temperature::1.58496250072
+quantify the unluckiness::1.58496250072
+type of food::1.58496250072
+compressed the entire::1.58496250072
+yield the f-measures::1.58496250072
+combines inferred location::1.58496250072
+shown using real::1.58496250072
+r.container = null::1.58496250072
+lab warehouse deployment::1.58496250072
+items in steady::1.58496250072
+memory to enable::1.58496250072
+methods have accuracy::1.58496250072
+fusion in sensor::1.58496250072
+infrastructure to provide::1.58496250072
+statistical approach based::1.58496250072
+ability to track::1.58496250072
+reader to scan::1.58496250072
+rfid stream processing::1.58496250072
+locations via smoothing::1.58496250072
+large distributed environments::1.58496250072
+detects an object::1.58496250072
+assume an event::1.58496250072
+settings and design::1.58496250072
+rfid data analytics::1.58496250072
+determine object locations::1.58496250072
+algorithm missing container::1.58496250072
+temperature sensitive drug::1.58496250072
+computes location information::1.58496250072
+truncation algorithm runs::1.58496250072
+prashant shenoy department::1.58496250072
+describing the model::1.58496250072
+distributed inference system::1.58496250072
+temperature sensor readings::1.58496250072
+schema are produced::1.58496250072
+container readings binary::1.58496250072
+containment and locations::1.58496250072
+object naming service::1.58496250072
+rr=0.8 h=500 rr=0.7::1.58496250072
+query state reduction::1.58496250072
+typically involve object::1.58496250072
+observations most informative::1.58496250072
+number of bytes::1.58496250072
+products for inventory::1.58496250072
+t=1 ar table::1.58496250072
+considered in query::1.58496250072
+support more objects::1.58496250072
+allowing more efficient::1.58496250072
+co-location between container::1.58496250072
+state while ensuring::1.58496250072
+scan containers separately::1.58496250072
+traces with distinct::1.58496250072
+processing can return::1.58496250072
+passive rfid tags::1.58496250072
+shipping the inference::1.58496250072
+effective at reducing::1.58496250072
+location for processing::1.58496250072
+optionally other attributes::1.58496250072
+treats all epochs::1.58496250072
+80,248 7,296 rr=0.7::1.58496250072
+object is scanned::1.58496250072
+combining such location::1.58496250072
+non-shelf reader frequency::1.58496250072
+state-of-theart s murf::1.58496250072
+sites and numerous::1.58496250072
+method that reduces::1.58496250072
+shelves and scanned::1.58496250072
+partitioning the query::1.58496250072
+understanding of containment::1.58496250072
+infer a distribution::1.58496250072
+explain these considerations::1.58496250072
+pallets are assumed::1.58496250072
+experience similar issues::1.58496250072
+detailed experimental setup::1.58496250072
+definition of conditional::1.58496250072
+reading an object::1.58496250072
+arg max wco::1.58496250072
+stream query processor::1.58496250072
+hotspot 64-bit server::1.58496250072
+technique to collapse::1.58496250072
+ways to trade::1.58496250072
+log t=1 c=1::1.58496250072
+accurately estimate location::1.58496250072
+set of objects::1.58496250072
+systems maintain computation::1.58496250072
+penalizes the performance::1.58496250072
+computation of wco::1.58496250072
+derive the containment::1.58496250072
+accuracy as expected::1.58496250072
+recent history sizes::1.58496250072
+finding change points::1.58496250072
+locations and containment::1.58496250072
+java hotspot 64-bit::1.58496250072
+r.container isa freezer::1.58496250072
+case is chosen::1.58496250072
+requiring so emerge::1.58496250072
+critical region algorithm::1.58496250072
+processing as object::1.58496250072
+system runs inference::1.58496250072
+technology and rfid::1.58496250072
+site performs inference::1.58496250072
+likelihood ratio statistic::1.58496250072
+presented the design::1.58496250072
+performance while satisfying::1.58496250072
+profit or commercial::1.58496250072
+computation of qtc::1.58496250072
+grouped into containers::1.58496250072
+exposed to temperature::1.58496250072
+technique that finds::1.58496250072
+model this distribution::1.58496250072
+verify that food::1.58496250072
+co-location between object::1.58496250072
+processing to distributed::1.58496250072
+eliminating the factor::1.58496250072
+involves lower read::1.58496250072
+improve inference efficiency::1.58496250072
+state for objects::1.58496250072
+warehouse while keeping::1.58496250072
+centroid selection problem::1.58496250072
+suffices to prove::1.58496250072
+87,029 5,341 references::1.58496250072
+pattern matching functionality::1.58496250072
+candidate container based::1.58496250072
+supports distributed inference::1.58496250072
+efficient query evaluation::1.58496250072
+reduces the inference::1.58496250072
+evidence of object::1.58496250072
+applying a small::1.58496250072
+processing on local::1.58496250072
+volume were invited::1.58496250072
+list the path::1.58496250072
+37th international conference::1.58496250072
+number of interrogations::1.58496250072
+inference over rfid::1.58496250072
+raw rfid data::1.58496250072
+table below reports::1.58496250072
+limited overlap rates::1.58496250072
+naive no state-transfer::1.58496250072
+smooth the readings::1.58496250072
+supported in part::1.58496250072
+readings from epochs::1.58496250072
+reasonable to infer::1.58496250072
+epoch t algorithm::1.58496250072
+comparison we describe::1.58496250072
+denotes the container::1.58496250072
+containment change intervals::1.58496250072
+event stream describing::1.58496250072
+made or distributed::1.58496250072
+high communication costs::1.58496250072
+address these problems::1.58496250072
+presented in figure::1.58496250072
+significantly lower communication::1.58496250072
+m-step with respect::1.58496250072
+employ a technique::1.58496250072
+longer recent history::1.58496250072
+series of optimizations::1.58496250072
+query state size::1.58496250072
+unsupervised learning framework::1.58496250072
+attributes describing object::1.58496250072
+number of warehouses::1.58496250072
+nsf grants iis-0746939::1.58496250072
+accuracy for location::1.58496250072
+set of discrete::1.58496250072
+represents the case::1.58496250072
+detecting anomalous events::1.58496250072
+including the optimizations::1.58496250072
+binary random variable::1.58496250072
+short recent history::1.58496250072
+inference with stream::1.58496250072
+vldb endowment 2150-8097::1.58496250072
+containment relationships change::1.58496250072
+produce high-quality answers::1.58496250072
+denote the true::1.58496250072
+previous section requires::1.58496250072
+shows similar results::1.58496250072
+scanned the real::1.58496250072
+techniques are general::1.58496250072
+define ytro similarly::1.58496250072
+work for personal::1.58496250072
+co-location weight wco::1.58496250072
+considered for global::1.58496250072
+basic algorithm presented::1.58496250072
+find the global::1.58496250072
+memory is writable::1.58496250072
+propose a centroid-based::1.58496250072
+line for location::1.58496250072
+show that distributed::1.58496250072
+objects and containers::1.58496250072
+aim to support::1.58496250072
+bear this notice::1.58496250072
+applying the critical::1.58496250072
+high error rate::1.58496250072
+containers as independent::1.58496250072
+alien squiggle gen::1.58496250072
+objects is simply::1.58496250072
+objects have tags::1.58496250072
+discussion of query::1.58496250072
+recent history helps::1.58496250072
+t=1 c=1 log::1.58496250072
+difference in sum::1.58496250072
+key results presented::1.58496250072
+management of rfid::1.58496250072
+nodes are tags::1.58496250072
+outer query aggregates::1.58496250072
+query is registered::1.58496250072
+algorithm is guaranteed::1.58496250072
+introduce the notion::1.58496250072
+two competing explanationseither::1.58496250072
+bytes that differ::1.58496250072
+cost and enable::1.58496250072
+values are imputed::1.58496250072
+distributed supply chains::1.58496250072
+inference problem differs::1.58496250072
+costs or cope::1.58496250072
+states by storing::1.58496250072
+nfer algorithm converges::1.58496250072
+measures how probable::1.58496250072
+scans the cases::1.58496250072
+return high-quality answers::1.58496250072
+shown in figure::1.58496250072
+history of size::1.58496250072
+due to added::1.58496250072
+technique that avoids::1.58496250072
+running time insensitive::1.58496250072
+computed in lines::1.58496250072
+pick an item::1.58496250072
+thingmagic mercury5 readers::1.58496250072
+posterior probability tables::1.58496250072
+main data structures::1.58496250072
+occluding metal objects::1.58496250072
+scale such inference::1.58496250072
+set of pairs::1.58496250072
+redistribute to lists::1.58496250072
+a.2 the fact::1.58496250072
+locations and object::1.58496250072
+accuracy while keeping::1.58496250072
+extend our model::1.58496250072
+point evidence figure::1.58496250072
+illustrate the tracking::1.58496250072
+add significant complexity::1.58496250072
+describe several optimizations::1.58496250072
+real-time information infrastructure::1.58496250072
+foundations and query::1.58496250072
+implies two ways::1.58496250072
+adding latent variables::1.58496250072
+cpu and running::1.58496250072
+leveraging spatio-temporal redundancy::1.58496250072
+based on table::1.58496250072
+tt0 =tw eco::1.58496250072
+collapsing inference state::1.58496250072
+writing the query::1.58496250072
+inference algorithm first::1.58496250072
+h=500 rr=0.8 smurf::1.58496250072
+epc tag data::1.58496250072
+latent and evidence::1.58496250072
+cost also increases::1.58496250072
+simpler graphical model::1.58496250072
+observed little impact::1.58496250072
+algorithm on synthetic::1.58496250072
+readers and considers::1.58496250072
+distributed inference experiment::1.58496250072
+interval between two::1.58496250072
+higher point evidence::1.58496250072
+detected critical region::1.58496250072
+streams to infer::1.58496250072
+cost without affecting::1.58496250072
+frequency of anomalies::1.58496250072
+state migration local::1.58496250072
+warehouse an object::1.58496250072
+e-step is identical::1.58496250072
+inference for static::1.58496250072
+multiple storage areas::1.58496250072
+evaluate the accuracy::1.58496250072
+m-step indeed maximizes::1.58496250072
+variable which takes::1.58496250072
+optimizations combined finally::1.58496250072
+block employs pattern::1.58496250072
+extend our algorithm::1.58496250072
+writable tags matures::1.58496250072
+relationships with objects::1.58496250072
+imprudent to restrict::1.58496250072
+locations whose values::1.58496250072
+trade off accuracy::1.58496250072
+partitions the state::1.58496250072
+existing stream systems::1.58496250072
+detection using dif::1.58496250072
+vector of length::1.58496250072
+avoiding the overhead::1.58496250072
+inference accuracy remains::1.58496250072
+seconds to include::1.58496250072
+evaluate a trace::1.58496250072
+items while keeping::1.58496250072
+cost for long::1.58496250072
+epochs as independent::1.58496250072
+streams to return::1.58496250072
+cope with limited::1.58496250072
+matching over event::1.58496250072
+notation more compact::1.58496250072
+mobile reader reads::1.58496250072
+system combines location::1.58496250072
+c=1 ar max::1.58496250072
+describe the design::1.58496250072
+iterate these two::1.58496250072
+first several epochs::1.58496250072
+distributed query processing::1.58496250072
+proposed for improving::1.58496250072
+relaxing this assumption::1.58496250072
+priori which tags::1.58496250072
+antennas to implement::1.58496250072
+objects are grouped::1.58496250072
+inference must run::1.58496250072
+reach final destinations::1.58496250072
+current p window::1.58496250072
+point evidence memorized::1.58496250072
+received a reading::1.58496250072
+two representative queries::1.58496250072
+detection queries typically::1.58496250072
+develop this intuition::1.58496250072
+present at location::1.58496250072
+achieving high accuracy::1.58496250072
+running the algorithm::1.58496250072
+simple customized m-step::1.58496250072
+two log likelihoods::1.58496250072
+idea of smoothing::1.58496250072
+cases are removed::1.58496250072
+leaving a copy::1.58496250072
+sequence of warehouses::1.58496250072
+traces with stable::1.58496250072
+traces as takes::1.58496250072
+truth and compute::1.58496250072
+state of query::1.58496250072
+product and checks::1.58496250072
+requiring different statistical::1.58496250072
+requires the entire::1.58496250072
+log likelihood measures::1.58496250072
+important to minimize::1.58496250072
+evaluate our inference::1.58496250072
+nfer is shown::1.58496250072
+smoothing and co-location::1.58496250072
+considerations for high::1.58496250072
+e-step and m-step::1.58496250072
+notion of smoothing::1.58496250072
+make the notation::1.58496250072
+precision + recall::1.58496250072
+computed the error::1.58496250072
+alternates between two::1.58496250072
+high fan-in systems::1.58496250072
+desirable to write::1.58496250072
+distribution center employs::1.58496250072
+scale to millions::1.58496250072
+partitioned for individual::1.58496250072
+infer a containment::1.58496250072
+affecting the accuracy::1.58496250072
+maximizing with respect::1.58496250072
+distributed in scope::1.58496250072
+smoothing over readings::1.58496250072
+exploiting known constraints::1.58496250072
+address this issue::1.58496250072
+miss reading container::1.58496250072
+estimate object locations::1.58496250072
+queries typically involve::1.58496250072
+warehouses while approximating::1.58496250072
+parameters are shown::1.58496250072
+approximating its accuracy::1.58496250072
+measure the strength::1.58496250072
+tags are orientation-insensitive::1.58496250072
+contained items transitioned::1.58496250072
+overwriting the previous::1.58496250072
+item and move::1.58496250072
+container or object::1.58496250072
+225,890 rr=0.7 145,858,950::1.58496250072
+set of readings::1.58496250072
+high processing cost::1.58496250072
+reaches the end::1.58496250072
+query finally returns::1.58496250072
+observed read rates::1.58496250072
+scales to millions::1.58496250072
+removed from container::1.58496250072
+exploit statistical regularities::1.58496250072
+state reduction ratio::1.58496250072
+readers for scanning::1.58496250072
+previous em iteration::1.58496250072
+integrating data cleans::1.58496250072
+significant computational cost::1.58496250072
+focus on passive::1.58496250072
+out the observations::1.58496250072
+supporting metaphysical data::1.58496250072
+intel xeon 3ghz::1.58496250072
+poses a challenge::1.58496250072
+varied the interval::1.58496250072
+rates between readers::1.58496250072
+state sharing yields::1.58496250072
+locations r similarly::1.58496250072
+module that translates::1.58496250072
+varied tag orientations::1.58496250072
+rfidenabled information infrastructure::1.58496250072
+simply the sum::1.58496250072
+sample object locations::1.58496250072
+seconds and compute::1.58496250072
+type of problem::1.58496250072
+objects to estimate::1.58496250072
+observations for inference::1.58496250072
+general methodology based::1.58496250072
+period of stay::1.58496250072
+rr=0.8 smurf rr=0.7::1.58496250072
+observed the true::1.58496250072
+denote this quantity::1.58496250072
+evidence to conclude::1.58496250072
+probabilistic model describes::1.58496250072
+o=4 r figure::1.58496250072
+history truncation figure::1.58496250072
+depend on `tc::1.58496250072
+items per case::1.58496250072
+query processor processes::1.58496250072
+m-step as maximizing::1.58496250072
+distribution as uniform::1.58496250072
+describes the world::1.58496250072
+query execution vldb::1.58496250072
+combine sensors streams::1.58496250072
+knew that container::1.58496250072
+block is labeled::1.58496250072
+rates are low::1.58496250072
+accuracy for read::1.58496250072
+shenoy @ cs.umass.edu::1.58496250072
+methods in figure::1.58496250072
+approach can fail::1.58496250072
+personal or classroom::1.58496250072
+work further partitions::1.58496250072
+outer query block::1.58496250072
+solve this problem::1.58496250072
+optional attributes describing::1.58496250072
+supply chain management::1.58496250072
+food or drug::1.58496250072
+set of values::1.58496250072
+simple gzip compression::1.58496250072
+sharing technique works::1.58496250072
+shipping the query::1.58496250072
+location simply adds::1.58496250072
+critical region method::1.58496250072
+experimentally that smoothing::1.58496250072
+exploits the inference::1.58496250072
+effect of smoothing::1.58496250072
+correlated probabilistic streams::1.58496250072
+true containment relationships::1.58496250072
+steps of figure::1.58496250072
+containment relationship right::1.58496250072
+location nor containment::1.58496250072
+heuristics for containment::1.58496250072
+threshold as described::1.58496250072
+posterior distribution qtc::1.58496250072
+similar query states::1.58496250072
+write this probability::1.58496250072
+read rates periodically::1.58496250072
+varied trace lengths::1.58496250072
+co-location is eco::1.58496250072
+containment change frequencies::1.58496250072
+requires larger sizes::1.58496250072
+containers would incur::1.58496250072
+deployed to measure::1.58496250072
+enable querying instantly::1.58496250072
+computation state transferred::1.58496250072
+object is located::1.58496250072
+frequently co-located containers::1.58496250072
+high data volume::1.58496250072
+difficult to characterize::1.58496250072
+reader independently interrogates::1.58496250072
+adaptive rfid middleware::1.58496250072
+results are stable::1.58496250072
+objects to derive::1.58496250072
+removal of noise::1.58496250072
+computing the container::1.58496250072
+c.5 distributed inference::1.58496250072
+truncation in distributed::1.58496250072
+type of container::1.58496250072
+probability that reader::1.58496250072
+optimizations that improve::1.58496250072
+machine learning techniques::1.58496250072
+two different sets::1.58496250072
+items per container::1.58496250072
+intuition was explained::1.58496250072
+results for single-site::1.58496250072
+precision to capture::1.58496250072
+speed of rfid::1.58496250072
+final critical region::1.58496250072
+introduce any error::1.58496250072
+shows the f-measure::1.58496250072
+small critical region::1.58496250072
+work we employ::1.58496250072
+container and location::1.58496250072
+restrict the set::1.58496250072
+r.loc = t.loc::1.58496250072
+common read rates::1.58496250072
+nfer algorithm runs::1.58496250072
+algorithm that performs::1.58496250072
+maximizes the likelihood::1.58496250072
+reader locations number::1.58496250072
+shown in table::1.58496250072
+h=500 rr=0.7 h=500::1.58496250072
+nfer the pseudocode::1.58496250072
+error on containment::1.58496250072
+monitoring systems grow::1.58496250072
+implementation and optimizations::1.58496250072
+describe the algorithm::1.58496250072
+pick the case::1.58496250072
+current automaton state::1.58496250072
+check is needed::1.58496250072
+improve the m-step::1.58496250072
+error rate low::1.58496250072
+infer containment relationships::1.58496250072
+monitoring queries relevant::1.58496250072
+infer object location::1.58496250072
+shelves and repackaged::1.58496250072
+method makes inference::1.58496250072
+test the scalability::1.58496250072
+basic inference algorithm::1.58496250072
+enhancements of rfinfer::1.58496250072
+objects are co-located::1.58496250072
+inference algorithm presented::1.58496250072
+scan resident objects::1.58496250072
+detect various conditions::1.58496250072
+lab rfid deployment::1.58496250072
+discussed in section::1.58496250072
+larger recent history::1.58496250072
+inherently noisy due::1.58496250072
+post on servers::1.58496250072
+support global tracking::1.58496250072
+locations individually::1.0
+strongly co-located::1.0
+distributed approaches::1.0
+likelihood functions::1.0
+sharing method::1.0
+multiple cases::1.0
+robust system::1.0
+f-measure varies::1.0
+node represents::1.0
+reference tags::1.0
+selection problem::1.0
+detected last::1.0
+processing requires::1.0
+run simulates::1.0
+hospithis work::1.0
+obtained traces::1.0
+small critical::1.0
+fact unknown::1.0
+learning techniques::1.0
+location simply::1.0
+temperature sensor::1.0
+additional experimental::1.0
+rates due::1.0
+food cases::1.0
+select tag::1.0
+high power::1.0
+probabilistic reasoning::1.0
+top-k sets::1.0
+readings strength::1.0
+define ytro::1.0
+ferent values::1.0
+weight wco::1.0
+limited overlap::1.0
+high processing::1.0
+migration methods::1.0
+arbitrarily nested::1.0
+exit points::1.0
+combines location::1.0
+approach querying::1.0
+queries combine::1.0
+unnecessary computation::1.0
+similar results::1.0
+products location::1.0
+noisy data::1.0
+nested containment::1.0
+querying instantly::1.0
+query aggregates::1.0
+estimate location::1.0
+sliding window::1.0
+a.4 extensions::1.0
+highlevel events::1.0
+sift out::1.0
+query checks::1.0
+distributed fusion::1.0
+sampled independently::1.0
+location histories::1.0
+xeon 3ghz::1.0
+history helps::1.0
+interrogate tags::1.0
+85,510 6,108::1.0
+computer science::1.0
+understand containment::1.0
+increasing scale::1.0
+nearby reader::1.0
+hypothetical observation::1.0
+term independently::1.0
+region algorithm::1.0
+cost varies::1.0
+transferred weights::1.0
+nowp qtc::1.0
+observations collected::1.0
+monitor objects::1.0
+main data::1.0
+standard e-step::1.0
+large deployments::1.0
+observe empirically::1.0
+likelihood ratio::1.0
+monitoring zhao::1.0
+hybrid query::1.0
+naive inference::1.0
+recent epochs::1.0
+1500-second traces::1.0
+containment location::1.0
+simulation generates::1.0
+change locations::1.0
+current iteration::1.0
+scalability challenge::1.0
+metal bar::1.0
+inference approach::1.0
+special readers::1.0
+distinct characteristics::1.0
+query execution::1.0
+previous section::1.0
+method performs::1.0
+larger recent::1.0
+hospital unprecedented::1.0
+read objects::1.0
+similar issues::1.0
+likelihood measures::1.0
+precision recall::1.0
+first half::1.0
+unique identity::1.0
+joint probability::1.0
+high data::1.0
+explore smoothing::1.0
+missing readings::1.0
+laboratory setup::1.0
+subsequent inference::1.0
+object produced::1.0
+robust architecture::1.0
+intended path::1.0
+shelf readings::1.0
+significant complexity::1.0
+generating rfid::1.0
+87,029 5,341::1.0
+resident objects::1.0
+continuous queries::1.0
+simply pick::1.0
+two competing::1.0
+containers separately::1.0
+cases packed::1.0
+algorithm offers::1.0
+exit door::1.0
+scalability results::1.0
+event queries::1.0
+detected critical::1.0
+varied trace::1.0
+infer true::1.0
+supply-chainspecific object::1.0
+packaging regulations::1.0
+translates raw::1.0
+employ include::1.0
+intervals figure::1.0
+local memory::1.0
+add significant::1.0
+support global::1.0
+common read::1.0
+combines object::1.0
+readings state::1.0
+containment introduction::1.0
+processing approach::1.0
+algorithm alternates::1.0
+final destinations::1.0
+monitoring systems::1.0
+smurf rr=0.7::1.0
+pharmaceutical environments::1.0
+involve object::1.0
+initially proposed::1.0
+object positions::1.0
+block employs::1.0
+previous sites::1.0
+promising electronic::1.0
+two extensions::1.0
+full citation::1.0
+squiggle gen::1.0
+locations true::1.0
+bottom row::1.0
+return high-quality::1.0
+65,500 6,986::1.0
+data poses::1.0
+experience similar::1.0
+wide adoption::1.0
+transferred directly::1.0
+present additional::1.0
+prashant shenoy::1.0
+readers connected::1.0
+costs stay::1.0
+processing mag::1.0
+first varied::1.0
+offers provable::1.0
+location evidence::1.0
+varied anomaly::1.0
+rfidenabled information::1.0
+similar query::1.0
+subsequent calls::1.0
+detection extension::1.0
+data analytics::1.0
+relationships change::1.0
+r.container isa::1.0
+misplaced objects::1.0
+provable optimality::1.0
+incurring significantly::1.0
+final critical::1.0
+binary observation::1.0
+data lacks::1.0
+seconds achieves::1.0
+inference methods::1.0
+hifi approach::1.0
+fundamental tool::1.0
+perform change::1.0
+iterative feedback::1.0
+nonparametric belief::1.0
+introduction rfid::1.0
+calculation remains::1.0
+inference site::1.0
+products considered::1.0
+two containers::1.0
+depicted graphically::1.0
+robust message-passing::1.0
+global tracking::1.0
+roundrobin fashion::1.0
+rfid events::1.0
+model describes::1.0
+larger containers::1.0
+ieee signal::1.0
+raw noisy::1.0
+describing object::1.0
+final values::1.0
+truncating history::1.0
+computes location::1.0
+fireproof case::1.0
+tt0 =tw::1.0
+handle missed::1.0
+evidence shows::1.0
+patient room::1.0
+high error::1.0
+sufficient evidence::1.0
+statistical framework::1.0
+alien squiggle::1.0
+ytc |`to::1.0
+ytro xtrc::1.0
+future work::1.0
+87,000 5,273::1.0
+h=500 rr=0.7::1.0
+h=500 rr=0.8::1.0
+history severely::1.0
+enterprise supply::1.0
+temporal management::1.0
+two containment::1.0
+supports distributed::1.0
+hour period::1.0
+fact occurred::1.0
+rr=0.8 smurf::1.0
+changed containers::1.0
+scan medical::1.0
+centralized approaches::1.0
+passive rfid::1.0
+distribution qtc::1.0
+system runs::1.0
+default frequency::1.0
+larger sizes::1.0
+employs multiple::1.0
+e-step requires::1.0
+conditional distribution::1.0
+highvalue content::1.0
+rr=0.8 h=500::1.0
+history denoted::1.0
+estimation problem::1.0
+history sizes::1.0
+inherently noisy::1.0
+assumes cql-based::1.0
+performs querying::1.0
+competing explanationseither::1.0
+requires additional::1.0
+scanning objects::1.0
+fee provided::1.0
+nfer requires::1.0
+simply re-use::1.0
+two ways::1.0
+finally reduce::1.0
+customized m-step::1.0
+ratio statistic::1.0
+modern computer::1.0
+local streams::1.0
+grants iis-0746939::1.0
+weight calculation::1.0
+queries involve::1.0
+7,296 rr=0.7::1.0
+computational cost::1.0
+processing locally::1.0
+output stream::1.0
+consistently co-located::1.0
+counterfeit drugs::1.0
+unshaded nodes::1.0
+depends strongly::1.0
+offline method::1.0
+last equation::1.0
+data makes::1.0
+5,273 related::1.0
+removing irrelevant::1.0
+john wiley::1.0
+two possibilities::1.0
+conclusions rr=0.9::1.0
+future automaton::1.0
+squiggle tags::1.0
+ensure accuracy::1.0
+single epoch::1.0
+domain knowledge::1.0
+items transitioned::1.0
+mobile environments::1.0
+data management::1.0
+storage areas::1.0
+emulating rfidbased::1.0
+iterative approach::1.0
+collect raw::1.0
+world comprising::1.0
+query processingevents::1.0
+leveraging spatio-temporal::1.0
+data volume::1.0
+worse accuracy::1.0
+two techniques::1.0
+model assigns::1.0
+query finally::1.0
+pattern seq::1.0
+previous change::1.0
+combined finally::1.0
+optional attributes::1.0
+fixed threshold::1.0
+effectively handle::1.0
+strategies mentioned::1.0
+exploit sharing::1.0
+overheads incurred::1.0
+center collect::1.0
+c.4 single-site::1.0
+synthetic rfid::1.0
+center employs::1.0
+evidence tt0::1.0
+finding change::1.0
+inferring object::1.0
+nonshelf reader::1.0
+reach final::1.0
+gzip compression::1.0
+querying anytime::1.0
+shenoy department::1.0
+sensitive drug::1.0
+strong evidence::1.0
+5,341 references::1.0
+copies bear::1.0
+detailed experimental::1.0
+store supply-chainspecific::1.0
+detailed study::1.0
+require combating::1.0
+a.3 implementation::1.0
+arriving tuple::1.0
+results presented::1.0
+rr=0.6 125,895,500::1.0
+contained objects::1.0
+sampling-based approach::1.0
+observed tag::1.0
+geographically distributed::1.0
+directly measured::1.0
+query evaluation::1.0
+extra overhead::1.0
+migration local::1.0
+small chance::1.0
+limited number::1.0
+speed based::1.0
+minimize inference::1.0
+non-shelf reader::1.0
+prior knowledge::1.0
+probabilistic streams::1.0
+incurred due::1.0
+cleansing method::1.0
+work exploits::1.0
+state size::1.0
+lower communication::1.0
+truncation stays::1.0
+inference problem::1.0
+query raises::1.0
+tag read::1.0
+latent object::1.0
+accurately estimate::1.0
+recent research::1.0
+basic inference::1.0
+represent tags::1.0
+paper assumes::1.0
+reader periodically::1.0
+select rstream::1.0
+distributed rfid::1.0
+67,000 5,156::1.0
+repeatedly co-located::1.0
+log space::1.0
+implies two::1.0
+first step::1.0
+local tag::1.0
+queries relevant::1.0
+10-minute history::1.0
+tag memory::1.0
+simple gzip::1.0
+225,890 summary::1.0
+66,000 5,737::1.0
+minimum delay::1.0
+relations based::1.0
+appendix c.5::1.0
+heap size::1.0
+contributions include::1.0
+separate sites::1.0
+severely penalizes::1.0
+memory requirement::1.0
+multiple rfid::1.0
+container inferred::1.0
+reader independently::1.0
+flammable item::1.0
+inventory management::1.0
+isa freezer::1.0
+adding latent::1.0
+main issue::1.0
+involves lower::1.0
+change frequency::1.0
+two streams::1.0
+jensens inequality::1.0
+estimate object::1.0
+processing techniques::1.0
+commercial advantage::1.0
+likelihood containment::1.0
+significantly lower::1.0
+readers farther::1.0
+future processing::1.0
+two warehouses::1.0
+execution vldb::1.0
+wco qtc::1.0
+expectation step::1.0
+algorithms infer::1.0
+efficient inference::1.0
+technique works::1.0
+score measures::1.0
+representative queries::1.0
+applications requiring::1.0
+directed acyclic::1.0
+computation complexity::1.0
+recent evidence::1.0
+complexity analysis::1.0
+current automaton::1.0
+sheer volume::1.0
+nsf grants::1.0
+ensuring accuracy::1.0
+sharing technique::1.0
+heuristic-based threshold::1.0
+attributes describing::1.0
+simply shipping::1.0
+long traces::1.0
+rfidbased supply::1.0
+amherst school::1.0
+potentially increase::1.0
+seed inference::1.0
+small recent::1.0
+current site::1.0
+generalized likelihood::1.0
+binary random::1.0
+objects based::1.0
+rfinfer loc::1.0
+t=t0 eco::1.0
+lab experiment::1.0
+80,248 7,296::1.0
+first page::1.0
+september 3rd::1.0
+c.2 containment::1.0
+low power::1.0
+processes raw::1.0
+learning framework::1.0
+detect anomalies::1.0
+detection incurs::1.0
+graphical modeling::1.0
+sufficient size::1.0
+f-measure improves::1.0
+full data::1.0
+high fan-in::1.0
+frequency varies::1.0
+max wco::1.0
+improving performance::1.0
+co-located containers::1.0
+reduce inference::1.0
+reader reads::1.0
+parameter number::1.0
+region method::1.0
+simply adds::1.0
+sharing yields::1.0
+incomplete input::1.0
+describe additional::1.0
+stream describing::1.0
+shows similar::1.0
+inferred containment::1.0
+sample object::1.0
+healthcare environment::1.0
+locations qtc::1.0
+pallet locations::1.0
+make digital::1.0
+murf method::1.0
+container capacities::1.0
+containment hierarchies::1.0
+java hotspot::1.0
+fan-in systems::1.0
+hypothetical sequences::1.0
+containers number::1.0
+identification technology::1.0
+optimizations combined::1.0
+numerous objects::1.0
+require object::1.0
+rfid tags::1.0
+probability tables::1.0
+method results::1.0
+processing cost::1.0
+single location::1.0
+moves forwards::1.0
+simulator guarantees::1.0
+inject anomalies::1.0
+significant computational::1.0
+tt=t0 eco::1.0
+object reaches::1.0
+t=1 containers::1.0
+support change::1.0
+co-location information::1.0
+values needed::1.0
+inference procedure::1.0
+systems grow::1.0
+objects locations::1.0
+wide range::1.0
+tags provide::1.0
+received readings::1.0
+addressed rfid::1.0
+c.5 distributed::1.0
+existing work::1.0
+periodically interrogate::1.0
+work leads::1.0
+simply removed::1.0
+simpler graphical::1.0
+linear complexity::1.0
+reading container::1.0
+cql language::1.0
+minimum communication::1.0
+typically involve::1.0
+terms yields::1.0
+runs continuously::1.0
+dramatically reduces::1.0
+algorithm missing::1.0
+scheduled delay::1.0
+inference runs::1.0
+=1200 seconds::1.0
+enable queries::1.0
+million items::1.0
+principled approach::1.0
+large number::1.0
+identification fundamentals::1.0
+significantly reduce::1.0
+create readings::1.0
+two representative::1.0
+occluding metal::1.0
+employ smoothing::1.0
+c=1 log::1.0
+lab traces::1.0
+true locations::1.0
+tags attached::1.0
+tags memory::1.0
+drug products::1.0
+ytro similarly::1.0
+independently interrogates::1.0
+local rfid::1.0
+relationship right::1.0
+two log::1.0
+naive implementation::1.0
+data standard2::1.0
+sacrificing accuracy::1.0
+system combines::1.0
+default values::1.0
+directly observed::1.0
+systems maintain::1.0
+writable tags::1.0
+multiple storage::1.0
+inference method::1.0
+reader closest::1.0
+bandwidth overheads::1.0
+inference starts::1.0
+fundamental limitation::1.0
+medical device::1.0
+problem lab::1.0
+cql-based relational::1.0
+false positive::1.0
+a.1 pseudocode::1.0
+state sharing::1.0
+processes data::1.0
+discrete set::1.0
+co-location strengths::1.0
+revisit figure::1.0
+tag storage::1.0
+150,000 items::1.0
+related work::1.0
+requires larger::1.0
+answer monitoring::1.0
+theorem states::1.0
+observation variable::1.0
+finally returns::1.0
+`tc `to::1.0
+sifting out::1.0
+general methodology::1.0
+turns out::1.0
+application requirement::1.0
+combine sensors::1.0
+truncation figure::1.0
+varied containment::1.0
+appendix a.2::1.0
+reader information::1.0
+collapsing inference::1.0
+correlated probabilistic::1.0
+design techniques::1.0
+expectation maximization::1.0
+world behaves::1.0
+probabilistic query::1.0
+takes values::1.0
+mercury5 readers::1.0
+shaded nodes::1.0
+small sliding::1.0
+rfid databases::1.0
+statistical approach::1.0
+actual deployment::1.0
+charles sutton::1.0
+causing containment::1.0
+contained items::1.0
+results demonstrated::1.0
+total inference::1.0
+data independence::1.0
+change intervals::1.0
+smooth raw::1.0
+observed frequently::1.0
+informatics university::1.0
+eventually overrule::1.0
+evidence variables::1.0
+prove theorem::1.0
+history alleviates::1.0
+rfid handbook::1.0
+reduction ratio::1.0
+object started::1.0
+employs pattern::1.0
+missing container::1.0
+window method::1.0
+miss reading::1.0
+container-object pair::1.0
+query answers::1.0
+o=3 reader::1.0
+objects move::1.0
+anytime anywhere.1::1.0
+metaphysical data::1.0
+small region::1.0
+history lengths::1.0
+monitoring applications::1.0
+ignore terms::1.0
+proposed techniques::1.0
+nearest reader::1.0
+manufacturers database::1.0
+rates periodically::1.0
+read range::1.0
+rfinfer cont::1.0
+longer traces::1.0
+hold object::1.0
+search reaches::1.0
+inference algorithms::1.0
+anomaly error::1.0
+true state::1.0
+read rate=0.8::1.0
+informative region::1.0
+simple customized::1.0
+exploit statistical::1.0
+discuss shortly::1.0
+rate low::1.0
+sampling hypothetical::1.0
+225,890 rr=0.7::1.0
+study show::1.0
+accuracy due::1.0
+extra work::1.0
+dynamic environments::1.0
+maxc0 wc0::1.0
+helps improve::1.0
+containment decision::1.0
+tags responses::1.0
+observed data::1.0
+simply based::1.0
+warehouse setup::1.0
+co-location history::1.0
+yanlei diao::1.0
+additional results::1.0
+object events::1.0
+processor processes::1.0
+state reduction::1.0
+stream produced::1.0
+ran inference::1.0
+section requires::1.0
+offer high::1.0
+performance metrics::1.0
+integrating data::1.0
+tracking queries::1.0
+long period::1.0
+maximization step::1.0
+combating counterfeit::1.0
+affect accuracy::1.0
+measure accuracy::1.0
+additional experiments::1.0
+determining containment::1.0
+likelihood defined::1.0
+hybrid queries::1.0
+sensors streams::1.0
+recent period::1.0
+key step::1.0
+method makes::1.0
+single number::1.0
+approach based::1.0
+management system::1.0
+tables grow::1.0
+longer revise::1.0
+local servers::1.0
+inf.ed.ac.uk abstract::1.0
+large hospital::1.0
+scan resident::1.0
+frequency identification::1.0
+data arrives::1.0
+removed altogether::1.0
+single container::1.0
+statistical models::1.0
+limited local::1.0
+demonstrated performance::1.0
+key novelty::1.0
+readings arrive::1.0
+hotspot 64-bit::1.0
+model locations::1.0
+automaton state::1.0
+centralized warehousing::1.0
+vldb journal::1.0
+semantic foundations::1.0
+chain management::1.0
+approach natural::1.0
+improve inference::1.0
+typically true::1.0
+resulting values::1.0
+containment queries::1.0
+traces produced::1.0
+candidate pruning::1.0
+require information::1.0
+global stream::1.0
+site performs::1.0
+bold numbers::1.0
+main body::1.0
+weight table::1.0
+revolutionize areas::1.0
+bounded independently::1.0
+distributed supply::1.0
+smurf cont::1.0
+posterior probability::1.0
+container reduces::1.0
+t=4 t=3::1.0
+provide similar::1.0
+added environmental::1.0
+acyclic graph::1.0
+august 29th::1.0
+centroid-based sharing::1.0
+smurf loc::1.0
+algorithm converges::1.0
+temporal smoothing::1.0
+similarly define::1.0
+truncation methods::1.0
+maintain computation::1.0
+belt readings::1.0
+containment table::1.0
+running java::1.0
+locations number::1.0
+system addresses::1.0
+local storage::1.0
+change-point detection::1.0
+vldb endowment::1.0
+exit reader::1.0
+entire period::1.0
+research contributions::1.0
+smaller size::1.0
+relationships based::1.0
+lower bound::1.0
+naturally smoothing::1.0
+rfid deployment::1.0
+short 1500-second::1.0
+query returns::1.0
+running cost::1.0
+entry reader::1.0
+improving accuracy::1.0
+minimum set::1.0
+pallets arrive::1.0
+noisy due::1.0
+central location::1.0
+important quantity::1.0
+measured f-measures::1.0
+makes inference::1.0
+infer object::1.0
+general approach::1.0
+method first::1.0
+problem makes::1.0
+experimentally::0.0
+employ the change::0.0
+increasing::0.0
+reported::0.0
+r.container::0.0
+reports::0.0
+divide::0.0
+mercury5::0.0
+explained::0.0
+hold::0.0
+temperatures::0.0
+wang::0.0
+revisit::0.0
+methodology::0.0
+modest::0.0
+chains are distributed::0.0
+types::0.0
+feedback::0.0
+vary::0.0
+matures::0.0
+7,296::0.0
+represents::0.0
+sampling-based::0.0
+series::0.0
+frequent inference::0.0
+laboratory::0.0
+size::0.0
+sensors::0.0
+enormous::0.0
+shelves::0.0
+shipped::0.0
+xie::0.0
+service::0.0
+similarly::0.0
+needed::0.0
+listed::0.0
+hypothetical::0.0
+collapse::0.0
+evidence figure::0.0
+iteration::0.0
+varied anomaly error::0.0
+edinburgh caozhao::0.0
+causing::0.0
+imprudent::0.0
+object::0.0
+metrics::0.0
+ipsn::0.0
+incomplete::0.0
+layout::0.0
+rate=0.8::0.0
+rich::0.0
+altogether::0.0
+on-board::0.0
+sensitivity::0.0
+fail::0.0
+alternative::0.0
+score::0.0
+extend::0.0
+nature::0.0
+readers::0.0
+extraction::0.0
+graphical::0.0
+agrawal::0.0
+employ::0.0
+discretize::0.0
+characterize::0.0
+welbourne::0.0
+cumulative::0.0
+split::0.0
+lacks a principled::0.0
+simulates::0.0
+maximizing::0.0
+gzip::0.0
+previous::0.0
+ease::0.0
+posed::0.0
+possibly::0.0
+unique::0.0
+steps::0.0
+reader locations true::0.0
+right::0.0
+bottom::0.0
+exposition::0.0
+anomalous::0.0
+raises::0.0
+reducing::0.0
+offer::0.0
+automatonbased::0.0
+devices::0.0
+requires prior specific::0.0
+proven::0.0
+exist::0.0
+geographically::0.0
+models::0.0
+variable::0.0
+typically::0.0
+chain::0.0
+computation cost::0.0
+orientations::0.0
+stays::0.0
+scalpels::0.0
+current::0.0
+falling::0.0
+m-step::0.0
+understanding::0.0
+address::0.0
+5,341::0.0
+accomplished::0.0
+nfer::0.0
+working::0.0
+positive::0.0
+optimize::0.0
+scope::0.0
+point detection ferent::0.0
+appendix::0.0
+cost-effective deployment::0.0
+zhao::0.0
+values::0.0
+believed::0.0
+colocated::0.0
+evidently::0.0
+monitoring::0.0
+optimal::0.0
+parameter::0.0
+edinburgh::0.0
+applications::0.0
+improving::0.0
+data::0.0
+stress::0.0
+natural::0.0
+detection ferent values::0.0
+80,248::0.0
+find::0.0
+nonparametric::0.0
+experiments::0.0
+omitting::0.0
+machine::0.0
+instantly::0.0
+typically read::0.0
+tt0::0.0
+track and monitor::0.0
+arriving::0.0
+fireproof::0.0
+container::0.0
+contained::0.0
+million::0.0
+overheads::0.0
+training::0.0
+collapsing::0.0
+iterative::0.0
+intuition::0.0
+nested::0.0
+ons::0.0
+structures::0.0
+effective::0.0
+distill::0.0
+future::0.0
+locations::0.0
+note::0.0
+knew::0.0
+compress::0.0
+average::0.0
+ways::0.0
+interrogations::0.0
+removing irrelevant terms::0.0
+nearby location::0.0
+settings::0.0
+ytc::0.0
+sites::0.0
+affecting::0.0
+considers::0.0
+combines::0.0
+locally::0.0
+combined::0.0
+prototype::0.0
+readings::0.0
+observe::0.0
+define a null::0.0
+t.temp::0.0
+technology::0.0
+binary::0.0
+verifies::0.0
+223,790 rr=0.8::0.0
+assigns::0.0
+rfid::0.0
+tracking::0.0
+customized::0.0
+costs::0.0
+rest::0.0
+deviated::0.0
+rates reach::0.0
+overview::0.0
+sampling::0.0
+intel::0.0
+discarded::0.0
+doraiswamy::0.0
+cost is modest::0.0
+conditional::0.0
+single-source::0.0
+exit::0.0
+frequency of pallet::0.0
+power::0.0
+87,000::0.0
+sacrificing::0.0
+location with probability::0.0
+overhead by requiring::0.0
+inter-object::0.0
+complete::0.0
+elimination::0.0
+advantage::0.0
+detailed::0.0
+sigmod::0.0
+partitioned::0.0
+cpu::0.0
+reasoning::0.0
+paskin::0.0
+small::0.0
+past::0.0
+method::0.0
+contrast::0.0
+full::0.0
+o=1::0.0
+hours::0.0
+concluding::0.0
+readers using low::0.0
+experience::0.0
+prior::0.0
+pick::0.0
+provable::0.0
+depart::0.0
+commonalities::0.0
+estimate::0.0
+select::0.0
+door::0.0
+foundations::0.0
+keeping::0.0
+science::0.0
+indicating::0.0
+span multiple::0.0
+scan::0.0
+states::0.0
+information::0.0
+intended::0.0
+wiley::0.0
+state-of-theart::0.0
+fundamental::0.0
+trade::0.0
+paper::0.0
+severely::0.0
+propose::0.0
+prashant::0.0
+reduce::0.0
+missed::0.0
+research::0.0
+denoted::0.0
+belief::0.0
+definition::0.0
+pairs::0.0
+forwards::0.0
+number::0.0
+guess::0.0
+introduction::0.0
+relationship::0.0
+87,029::0.0
+generalized::0.0
+maximizing the log::0.0
+plan::0.0
+technical::0.0
+impact::0.0
+bytes::0.0
+set::0.0
+seq::0.0
+sec::0.0
+migration::0.0
+sampled::0.0
+last::0.0
+a|x::0.0
+maximizing a lower::0.0
+improves::0.0
+belt::0.0
+conveyor::0.0
+`tc is sampled::0.0
+nrc::0.0
+representative::0.0
+optimization::0.0
+error::0.0
+find in history::0.0
+vol::0.0
+maximum heap size::0.0
+alert::0.0
+recent::0.0
+:523544::0.0
+single-site::0.0
+conclusions::0.0
+signals::0.0
+location::0.0
+input::0.0
+promising::0.0
+yields::0.0
+methods::0.0
+co-location computed::0.0
+sight::0.0
+novelty::0.0
+statistical inference::0.0
+servers::0.0
+span::0.0
+compare the inference::0.0
+specifically::0.0
+:265289::0.0
+suit::0.0
+hospithis::0.0
+line::0.0
+details see appendix::0.0
+continuously::0.0
+storing::0.0
+defined::0.0
+1096-1107::0.0
+defines::0.0
+fixing::0.0
+preventing::0.0
+ferent::0.0
+retrieved temperatures::0.0
+algorithm::0.0
+results::0.0
+existing::0.0
+illustrated::0.0
+centers::0.0
+algorithms infer containment::0.0
+containment estimates::0.0
+timely::0.0
+`to::0.0
+`tc::0.0
+index::0.0
+antonelli::0.0
+ct0::0.0
+consistently::0.0
+centralized processing::0.0
+sensed data::0.0
+consideration::0.0
+resulting::0.0
+makes::0.0
+explain::0.0
+involves::0.0
+synthetic traces emulating::0.0
+occurred::0.0
+integrating::0.0
+challenge::0.0
+process::0.0
+purposes::0.0
+pieces::0.0
+high::0.0
+schemas::0.0
+delay::0.0
+university of edinburgh::0.0
+realized::0.0
+t.loc::0.0
+produces::0.0
+move::0.0
+produced::0.0
+requires prior::0.0
+traces::0.0
+algorithm described::0.0
+achieving high::0.0
+frequency::0.0
+static::0.0
+adaptive::0.0
+=tw::0.0
+work aims::0.0
+length::0.0
+assumed::0.0
+0max::0.0
+query processing runs::0.0
+behaves::0.0
+system::0.0
+false::0.0
+hypothetical observation sequences::0.0
+locations true location::0.0
+accuracy::0.0
+migration for querying::0.0
+device::0.0
+report results::0.0
+metaphysical::0.0
+fact::0.0
+centralized::0.0
+means::0.0
+qtc::0.0
+packed::0.0
+invited::0.0
+drug::0.0
+chosen::0.0
+streams::0.0
+conclude::0.0
+nrnc::0.0
+degrees::0.0
+update the current::0.0
+archival::0.0
+site::0.0
+learning methods::0.0
+combine::0.0
+compressed to save::0.0
+increases::0.0
+retrieves the temperature::0.0
+murf::0.0
+tags fixed::0.0
+truth::0.0
+5,737::0.0
+queries typically::0.0
+revise::0.0
+maximum heap::0.0
+naturally::0.0
+function::0.0
+overlapping::0.0
+system is illustrated::0.0
+compute::0.0
+smooth::0.0
+problem::0.0
+denote::0.0
+ing::0.0
+details::0.0
+chance::0.0
+exposure::0.0
+searches::0.0
+relationships::0.0
+relations is effective::0.0
+summarized::0.0
+f-measures::0.0
+goal of history::0.0
+29th::0.0
+chen::0.0
+revolutionize::0.0
+rate is comparable::0.0
+efficient pattern::0.0
+obtained::0.0
+items::0.0
+study::0.0
+approaches::0.0
+entry and exit::0.0
+highly::0.0
+total::0.0
+work::0.0
+containment::0.0
+events of interest::0.0
+provide::0.0
+verify::0.0
+memorization::0.0
+lab::0.0
+order::0.0
+5,156::0.0
+nikiforov::0.0
+batteryless::0.0
+eventually::0.0
+orders of magnitude::0.0
+safe::0.0
+develop a distributed::0.0
+network::0.0
+distributed system::0.0
+sliding::0.0
+standard::0.0
+created::0.0
+observation sequences::0.0
+electronic::0.0
+illustrate::0.0
+rates::0.0
+observations::0.0
+john::0.0
+number of iterations::0.0
+latency::0.0
+strength::0.0
+inferred::0.0
+notion::0.0
+heuristics::0.0
+latent::0.0
+implementation::0.0
+hrs::0.0
+scalable::0.0
+187,589,810::0.0
+runs::0.0
+observed::0.0
+analytics::0.0
+depends::0.0
+optimum::0.0
+techniques::0.0
+terms::0.0
+received::0.0
+essentially::0.0
+tags are container::0.0
+on-board tag memory::0.0
+processing across sites::0.0
+strong::0.0
+dozens::0.0
+relaxing::0.0
+applied::0.0
+aim::0.0
+abrupt::0.0
+cont::0.0
+confirmed::0.0
+perform::0.0
+feedback between location::0.0
+avoids::0.0
+hierarchies::0.0
+independent::0.0
+training data::0.0
+inf.ed.ac.uk::0.0
+epc::0.0
+unified::0.0
+farther::0.0
+adding::0.0
+poses::0.0
+passive::0.0
+belongs::0.0
+2150-8097::0.0
+requiring::0.0
+insensitive::0.0
+fusion::0.0
+arg maxc::0.0
+sparse::0.0
+security::0.0
+observing the container::0.0
+physical world comprising::0.0
+illustration::0.0
+post::0.0
+properties::0.0
+takes::0.0
+considerations::0.0
+cleaning with heuristics::0.0
+suit the increasing::0.0
+compression::0.0
+150,000::0.0
+address distributed::0.0
+queries involve inter-object::0.0
+true::0.0
+high-quality::0.0
+maximum::0.0
+automaton evaluation::0.0
+computing::0.0
+abstract::0.0
+evidence::0.0
+physical::0.0
+directed acyclic graph::0.0
+test::0.0
+truncate::0.0
+update::0.0
+interval::0.0
+global::0.0
+graph::0.0
+method called change::0.0
+charles::0.0
+provide background::0.0
+presented::0.0
+turns::0.0
+discrete::0.0
+missedwe::0.0
+events with rich::0.0
+cost::0.0
+work has addressed::0.0
+uniform::0.0
+relational::0.0
+supporting::0.0
+appears::0.0
+reduce communication::0.0
+franklin::0.0
+domains::0.0
+penalizes::0.0
+inference::0.0
+extra::0.0
+prove::0.0
+labeled::0.0
+cao::0.0
+handle::0.0
+occur::0.0
+redundancy::0.0
+fortunately::0.0
+discussion::0.0
+freezer::0.0
+write::0.0
+product::0.0
+implementation running::0.0
+produce::0.0
+false containers::0.0
+tagged::0.0
+statistical::0.0
+probabilistic inference::0.0
+ieee::0.0
+unlucky::0.0
+window::0.0
+a.k.a::0.0
+thermometers::0.0
+half::0.0
+discuss::0.0
+highlevel::0.0
+10-minute::0.0
+domain::0.0
+significantly::0.0
+comprising::0.0
+challenges::0.0
+naming::0.0
+rfid inference::0.0
+shown::0.0
+space::0.0
+increase::0.0
+receiving::0.0
+shows::0.0
+dependencies::0.0
+support::0.0
+omitted::0.0
+variables::0.0
+reader observing::0.0
+directly::0.0
+represents the probabilistic::0.0
+sheer::0.0
+describe two::0.0
+explanationseither::0.0
+cost-effective::0.0
+eliminated::0.0
+transferred::0.0
+`|x::0.0
+manufacturers::0.0
+equipment::0.0
+wco::0.0
+aggregated to support::0.0
+.temp::0.0
+wc0::0.0
+steady::0.0
+mobisys::0.0
+eliminating::0.0
+ground::0.0
+ratio::0.0
+deployments::0.0
+devise an inference::0.0
+highvalue::0.0
+data bases::0.0
+66,000::0.0
+large data::0.0
+notice::0.0
+transferring readings::0.0
+enabling::0.0
+varies across traces::0.0
+extension for pattern::0.0
+nearby::0.0
+or=0.5::0.0
+exploit::0.0
+learning::0.0
+probabilistic dependencies::0.0
+develop::0.0
+epoch::0.0
+closest::0.0
+speed::0.0
+prior specific permission::0.0
+rate is high::0.0
+real::0.0
+read::0.0
+listening::0.0
+execution::0.0
+output::0.0
+exposed::0.0
+range and immediately::0.0
+duration::0.0
+reader detects::0.0
+self-calibration::0.0
+comparison::0.0
+central::0.0
+nfer for inferring::0.0
+backup::0.0
+processor::0.0
+loc::0.0
+log::0.0
+area::0.0
+removing::0.0
+start::0.0
+low::0.0
+assumes::0.0
+posterior::0.0
+default::0.0
+describe::0.0
+moved::0.0
+scanned::0.0
+rr=0.85::0.0
+moves::0.0
+hospitals::0.0
+objects believed::0.0
+storage::0.0
+assembled pallets::0.0
+massachusetts::0.0
+semantic::0.0
+thingmagic::0.0
+nodes::0.0
+processing based::0.0
+represent real::0.0
+streams is labeled::0.0
+decide::0.0
+query block employs::0.0
+random::0.0
+readings are highly::0.0
+readers and tags::0.0
+overrule::0.0
+work to include::0.0
+answers::0.0
+i.e::0.0
+fan-in::0.0
+strongly on characteristics::0.0
+amount::0.0
+probabilities::0.0
+perform any temporal::0.0
+readings falling::0.0
+maximizing likelihood::0.0
+co-location::0.0
+smurf::0.0
+history::0.0
+algorithm usually converges::0.0
+repackaged::0.0
+lacks::0.0
+considered a critical::0.0
+running at stream::0.0
+reject::0.0
+location of object::0.0
+choice::0.0
+anytime::0.0
+maximizes this bound::0.0
+held::0.0
+absence::0.0
+systems::0.0
+peanuts::0.0
+motivated::0.0
+food::0.0
+event streams::0.0
+event::0.0
+item::0.0
+issue::0.0
+houses::0.0
+probability::0.0
+miss::0.0
+identity::0.0
+schema::0.0
+sets of containment::0.0
+randomly::0.0
+events::0.0
+null::0.0
+liu::0.0
+overlapping read::0.0
+location for inference::0.0
+mobile::0.0
+on-board tag::0.0
+copyright::0.0
+environments that span::0.0
+continuous query language::0.0
+querying::0.0
+developed an rfid::0.0
+stored::0.0
+object o containment::0.0
+technical contributions::0.0
+scanning::0.0
+reader periodically interrogate::0.0
+technology trend::0.0
+close::0.0
+probable::0.0
+conditions::0.0
+appendix c.2::0.0
+missing::0.0
+scalability::0.0
+distinguish::0.0
+memorized::0.0
+sensitive::0.0
+experimental::0.0
+described in appendix::0.0
+described::0.0
+describes::0.0
+collected::0.0
+read ranges::0.0
+stream processing system::0.0
+generating::0.0
+reads::0.0
+generate events::0.0
+encode containment::0.0
+baseline::0.0
+squiggle::0.0
+rate increases::0.0
+cleaning::0.0
+database::0.0
+synopsis::0.0
+iterations required::0.0
+exploits::0.0
+deployment::0.0
+20-50::0.0
+guaranteed::0.0
+guarantees::0.0
+evaluate::0.0
+capacities::0.0
+defining a score::0.0
+interestingly::0.0
+translates::0.0
+heap size 1.5gb::0.0
+sketch::0.0
+describing::0.0
+run::0.0
+step::0.0
+integers::0.0
+simulation::0.0
+block::0.0
+computational::0.0
+statistics::0.0
+accuracy and query::0.0
+probabilistic::0.0
+raw data streams::0.0
+registered::0.0
+location error::0.0
+injection::0.0
+stored in larger::0.0
+icde::0.0
+f-measure of query::0.0
+middleware::0.0
+sifting::0.0
+heterogeneous::0.0
+similar::0.0
+processing system::0.0
+application::0.0
+simulate a small::0.0
+67,000::0.0
+department::0.0
+regulations::0.0
+graphically::0.0
+network is deployed::0.0
+correlated::0.0
+required::0.0
+requires::0.0
+5,589::0.0
+vldb::0.0
+compact::0.0
+packaging and shipping::0.0
+information including::0.0
+positions::0.0
+block uses global::0.0
+compensates::0.0
+magnitude reduction::0.0
+experiment::0.0
+parameters::0.0
+products::0.0
+addresses::0.0
+addressed::0.0
+anomalies::0.0
+simple window-based::0.0
+remains::0.0
+noisy::0.0
+formally::0.0
+started::0.0
+cql-based::0.0
+3ghz::0.0
+intuitions::0.0
+located::0.0
+re-use::0.0
+trend motivated::0.0
+rr=0.8 166,746,235::0.0
+healthcare::0.0
+competing::0.0
+including::0.0
+mentioned::0.0
+outer::0.0
+temporal::0.0
+magnitude::0.0
+single-threaded::0.0
+containment to future::0.0
+state is recognized::0.0
+measure::0.0
+data is shipped::0.0
+special::0.0
+maximizes::0.0
+ihler::0.0
+eco::0.0
+determining::0.0
+frequency identification fundamentals::0.0
+times::0.0
+pilfering::0.0
+finally read::0.0
+powerful::0.0
+management::0.0
+privacy::0.0
+revealed::0.0
+relations::0.0
+report a containment::0.0
+final::0.0
+lists::0.0
+targets any distributed::0.0
+factors combined::0.0
+compresses other similar::0.0
+instance::0.0
+connected::0.0
+results in section::0.0
+64-bit::0.0
+proceedings::0.0
+raises an alert::0.0
+databases::0.0
+guess about containment::0.0
+high-level::0.0
+based::0.0
+bases::0.0
+achieve::0.0
+joint::0.0
+first test::0.0
+denote the query::0.0
+processes::0.0
+processed::0.0
+computed::0.0
+techniques that provide::0.0
+computes::0.0
+computer::0.0
+c.3 alternative::0.0
+state::0.0
+correctly::0.0
+comparable::0.0
+efficiency::0.0
+objects previous::0.0
+pallets are finally::0.0
+key::0.0
+evaluation on probabilistic::0.0
+distribution::0.0
+estimation::0.0
+immediately returns::0.0
+addition::0.0
+truncation algorithm aims::0.0
+optionally::0.0
+sensed::0.0
+containment-based sharing::0.0
+circularly-polarized::0.0
+resident::0.0
+capture::0.0
+began::0.0
+parts::0.0
+garfinkel::0.0
+http::0.0
+effect::0.0
+set of top-k::0.0
+provided that copies::0.0
+accurate::0.0
+extends::0.0
+describe a probabilistic::0.0
+nfer also computes::0.0
+immediately::0.0
+sizes::0.0
+alternatively::0.0
+page::0.0
+iis-0746939::0.0
+a-c::0.0
+overlap::0.0
+demonstrated::0.0
+inaccurate::0.0
+real-world::0.0
+journal::0.0
+hospital that tags::0.0
+cleans::0.0
+recognized::0.0
+real deployments::0.0
+washington::0.0
+additional::0.0
+hierarchical::0.0
+truncation::0.0
+cells::0.0
+devise::0.0
+object naming::0.0
+functions::0.0
+stay::0.0
+readings binary vector::0.0
+enforcing packaging::0.0
+state across objects::0.0
+dynamic::0.0
+calculate::0.0
+transferred between sites::0.0
+techniques for distributed::0.0
+affect::0.0
+stress test::0.0
+solution::0.0
+vector::0.0
+10x::0.0
+implemented::0.0
+complexities::0.0
+larger numbers::0.0
+interpret::0.0
+mstep::0.0
+promising electronic identification::0.0
+rosenberg::0.0
+counts::0.0
+first two::0.0
+overhead::0.0
+type::0.0
+ware::0.0
+room::0.0
+setup::0.0
+defer::0.0
+involve::0.0
+answer::0.0
+results is high::0.0
+copy of query::0.0
+maintain::0.0
+log t=1::0.0
+personal::0.0
+warehouse deployment::0.0
+food products considered::0.0
+query block consuming::0.0
+literature::0.0
+principled::0.0
+total size::0.0
+quantify::0.0
+self-calibration in sensor::0.0
+content::0.0
+reader::0.0
+linear::0.0
+factors and simulations::0.0
+state-transfer::0.0
+starts::0.0
+rfid-based enterprise supply::0.0
+isa::0.0
+mechanism::0.0
+state-of-the-art readers::0.0
+distance::0.0
+enables::0.0
+modern::0.0
+seed::0.0
+aims to support::0.0
+iterate::0.0
+observation::0.0
+heuristic-based::0.0
+medical::0.0
+points::0.0
+tt=t0::0.0
+history and posterior::0.0
+pallets::0.0
+case the container::0.0
+bar::0.0
+incur high transfer::0.0
+architecture::0.0
+reference::0.0
+testing::0.0
+main read::0.0
+subject::0.0
+addison-wesley::0.0
+door and dispatched::0.0
+modeling::0.0
+large hospitals::0.0
+save memory::0.0
+rfid-based infrastructure::0.0
+interest::0.0
+basic::0.0
+quantities::0.0
+require access::0.0
+compute the total::0.0
+difficult to accurately::0.0
+suppose::0.0
+nowp::0.0
+processing parts::0.0
+objects for state::0.0
+seattle::0.0
+nfer algorithm missing::0.0
+make::0.0
+custom::0.0
+potentially::0.0
+medical devices::0.0
+left::0.0
+compress the query::0.0
+bandwidth::0.0
+change-point statistic::0.0
+candidate::0.0
+csutton::0.0
+save::0.0
+background::0.0
+unnecessary::0.0
+stored for containment::0.0
+signal::0.0
+streams and produces::0.0
+deal::0.0
+statistic::0.0
+main design::0.0
+separately::0.0
+tracked::0.0
+bold::0.0
+sift::0.0
+shipping regulations::0.0
+form::0.0
+sutton::0.0
+reports the frozen::0.0
+describe our distributed::0.0
+attached::0.0
+size 1.5gb::0.0
+digital::0.0
+warehouse::0.0
+system can scale::0.0
+alleviates::0.0
+transfers::0.0
+middleware for supporting::0.0
+assume::0.0
+w1200::0.0
+preventing pilfering::0.0
+depend::0.0
+technique::0.0
+editors::0.0
+finally::0.0
+dif::0.0
+unexpected::0.0
+targets::0.0
+adds::0.0
+suspect::0.0
+international::0.0
+processing::0.0
+environment with multiple::0.0
+single execution::0.0
+nested containment hierarchies::0.0
+simultaneous::0.0
+strengths wco::0.0
+anywhere.1::0.0
+supply-chainspecific::0.0
+encode::0.0
+sharing::0.0
+equipped::0.0
+distance function::0.0
+avoiding::0.0
+arrive::0.0
+nearest::0.0
+sample::0.0
+reported results::0.0
+prentice-hall::0.0
+1500-second::0.0
+max::0.0
+mag::0.0
+grow::0.0
+recovery::0.0
+change detection algorithm::0.0
+complex environments::0.0
+read rates due::0.0
+differs::0.0
+monitor::0.0
+main::0.0
+regularities::0.0
+exploited to store::0.0
+sensitivity of radio::0.0
+desirable::0.0
+or2::0.0
+3rd::0.0
+interference::0.0
+sensor::0.0
+correct::0.0
+mechanisms::0.0
+include optimizations::0.0
+advance::0.0
+language::0.0
+frequent::0.0
+first::0.0
+long::0.0
+dalvi::0.0
+continuous::0.0
+accurately::0.0
+t=1::0.0
+t=2::0.0
+t=3::0.0
+t=4::0.0
+sampling algorithm::0.0
+inferring::0.0
+containment-based::0.0
+efficient::0.0
+answering::0.0
+.tag::0.0
+hotspot::0.0
+converges::0.0
+converged::0.0
+performance::0.0
+memorization technique::0.0
+trace::0.0
+track::0.0
+pair::0.0
+colocation::0.0
+describe several additional::0.0
+traces emulating::0.0
+exploiting the iterative::0.0
+show::0.0
+threshold::0.0
+histories::0.0
+related work rfid::0.0
+cql-based relational stream::0.0
+gen::0.0
+yield::0.0
+summary::0.0
+derive::0.0
+additional details::0.0
+emulating::0.0
+satisfying::0.0
+inference we first::0.0
+reading::0.0
+checks::0.0
+propose to truncate::0.0
+infrastructure::0.0
+august::0.0
+reduces quadratically::0.0
+top-k::0.0
+grants::0.0
+non-shelf::0.0
+cql::0.0
+6,986::0.0
+optimality::0.0
+suciu::0.0
+model of container::0.0
+characteristics::0.0
+middle::0.0
+extended::0.0
+tags matures::0.0
+running::0.0
+region for inference::0.0
+totally::0.0
+space constraints::0.0
+solve::0.0
+observed locations::0.0
+relational stream::0.0
+naive window-based::0.0
+trace lengths::0.0
+server::0.0
+arasu::0.0
+small amount::0.0
+write the objects::0.0
+information about container::0.0
+matching::0.0
+alternates::0.0
+warehouse and scheduled::0.0
+maximization::0.0
+critical::0.0
+inject::0.0
+score wco::0.0
+reasonable::0.0
+seconds::0.0
+cost across sites::0.0
+manufacturer::0.0
+permission and a fee::0.0
+system targets::0.0
+occluding::0.0
+algorithms to arbitrarily::0.0
+references::0.0
+pharmaceutical::0.0
+independently::0.0
+change::0.0
+model is depicted::0.0
+detection procedure works::0.0
+arranges::0.0
+involve inter-object::0.0
+citation::0.0
+general::0.0
+examine::0.0
+enable::0.0
+ytro::0.0
+ytrc::0.0
+hybrid::0.0
+offline sampling::0.0
+specially-generated training::0.0
+important::0.0
+represent::0.0
+cascadia::0.0
+6,108 rr=0.8::0.0
+cql continuous::0.0
+fall::0.0
+difference::0.0
+basseville::0.0
+probability or uniformly::0.0
+tracking applications::0.0
+diao::0.0
+shipping and packaging::0.0
+rich information::0.0
+search::0.0
+e-step maximizes::0.0
+transit::0.0
+detecting::0.0
+geographically separate::0.0
+distinct::0.0
+two::0.0
+achieving::0.0
+stable::0.0
+varying::0.0
+warehouse has 32,000::0.0
+hour::0.0
+recall::0.0
+automatonbased query::0.0
+strategies::0.0
+compare::0.0
+share::0.0
+minimum::0.0
+numbers::0.0
+method as described::0.0
+reduction in query::0.0
+stores the read::0.0
+first arrive::0.0
+detected::0.0
+assumes cql-based relational::0.0
+query that combines::0.0
+easily::0.0
+detecting anomalous::0.0
+describing the location::0.0
+exposure to room::0.0
+hard::0.0
+idea::0.0
+science university::0.0
+interrogates the tag::0.0
+enforcing::0.0
+beginning::0.0
+benefits::0.0
+omit::0.0
+approaches to inference::0.0
+shows the error::0.0
+done::0.0
+assumption::0.0
+part::0.0
+change interval::0.0
+orders::0.0
+state-of-the-art::0.0
+5,273::0.0
+significant::0.0
+incur::0.0
+combines inferred::0.0
+existing machine learning::0.0
+converge::0.0
+relation::0.0
+method was initially::0.0
+algorithm including::0.0
+distributed::0.0
+maxc0::0.0
+notation::0.0
+permission::0.0
+adaptive rfid::0.0
+resolve::0.0
+common::0.0
+method without compromising::0.0
+individual::0.0
+observe the naive::0.0
+returns the sensed::0.0
+responses::0.0
+processing for tracking::0.0
+commercial::0.0
+c=2::0.0
+c=1::0.0
+heterogeneous read::0.0
+including the change::0.0
+point::0.0
+simple::0.0
+state-transfer method::0.0
+execution of lines::0.0
+rr=0.9 187,589,810::0.0
+simply::0.0
+c.3 for details::0.0
+consuming::0.0
+raise::0.0
+create::0.0
+queries and high::0.0
+understand::0.0
+deferred::0.0
+detection with varied::0.0
+xtrc::0.0
+cs.umass.edu::0.0
+emphasize::0.0
+matures for large::0.0
+unknown true::0.0
+two objects::0.0
+entry::0.0
+message-passing::0.0
+re-used::0.0
+world::0.0
+device equipment::0.0
+real-time ability::0.0
+distributed stream processing::0.0
+source::0.0
+binary observation variable::0.0
+computational complexity::0.0
+complexity per iteration::0.0
+store supply-chainspecific object::0.0
+instantiating::0.0
+block takes two::0.0
+scale::0.0
+a.len::0.0
+decision::0.0
+centroid::0.0
+patient::0.0
+event specification::0.0
+readability::0.0
+extensions::0.0
+misplaced::0.0
+short recent::0.0
+nsf::0.0
+assume any prior::0.0
+pharmaceuticals::0.0
+handbook::0.0
+informative for determining::0.0
+provide accurate::0.0
+directed::0.0
+approach incurs::0.0
+readings binary::0.0
+constant::0.0
+single::0.0
+temperature based::0.0
+queries are location::0.0
+presented in section::0.0
+priori::0.0
+functionality::0.0
+aggregates::0.0
+fisher::0.0
+aggregated::0.0
+implies::0.0
+tradeoff::0.0
+query::0.0
+o=3::0.0
+o=2::0.0
+procedure will signal::0.0
+o=4::0.0
+helps::0.0
+putting::0.0
+entire::0.0
+small warehouse::0.0
+access::0.0
+hospitals or supply::0.0
+body::0.0
+leveraging::0.0
+objects::0.0
+specially-generated::0.0
+adjacent shelf::0.0
+existent::0.0
+volume of data::0.0
+implement::0.0
+explanationseither the object::0.0
+or=0.25::0.0
+represents a tag::0.0
+rfid tags provide::0.0
+inference and change::0.0
+iii::0.0
+endowment 2150-8097::0.0
+inference we describe::0.0
+simply omit::0.0
+effectively::0.0
+employs::0.0
+varied::0.0
+varies::0.0
+left to appendix::0.0
+temperature sensitive::0.0
+lines::0.0
+correspond::0.0
+dag::0.0
+greater::0.0
+.time::0.0
+republish::0.0
+disregard::0.0
+sensor rows::0.0
+constraints::0.0
+dispatched to subsequent::0.0
+cleaning problems::0.0
+distribution center collect::0.0
+history of objects::0.0
+distribution that describes::0.0
+retrieved::0.0
+perform close::0.0
+perform state::0.0
+likelihood::0.0
+retrieves::0.0
+retain::0.0
+iis-0812347::0.0
+reaches::0.0
+166,746,235::0.0
+proposed for history::0.0
+compare centralized::0.0
+scans::0.0
+rfidbased::0.0
+environmental::0.0
+work further supports::0.0
+completes::0.0
+epochs::0.0
+previous place::0.0
+centroid selection::0.0
+derive high-level::0.0
+enable more frequent::0.0
+selection::0.0
+supported::0.0
+zhao cao::0.0
+6,108::0.0
+knowledge::0.0
+bear::0.0
+hifi::0.0
+streams as objects::0.0
+areas::0.0
+frequency of unexpected::0.0
+fixed::0.0
+writable::0.0
+exploited::0.0
+procedure incurs::0.0
+pattern::0.0
+two time steps::0.0
+difficulties::0.0
+bandwidth overheads incurred::0.0
+optional::0.0
+attributes::0.0
+relevant::0.0
+stream systems maintain::0.0
+copies::0.0
+anomaly::0.0
+define::0.0
+probabilities and co-location::0.0
+object includes::0.0
+-measure::0.0
+value::0.0
+transitioned::0.0
+w.-s::0.0
+radio frequency identification::0.0
+inference experiment::0.0
+infer::0.0
+reader scanned::0.0
+center::0.0
+sets::0.0
+subsequent warehouses::0.0
+stores::0.0
+irrelevant terms::0.0
+localize::0.0
+model that represents::0.0
+add::0.0
+single-threaded implementation::0.0
+optimizations::0.0
+queries difficult::0.0
+elapses::0.0
+r.loc::0.0
+sensor readings state::0.0
+works::0.0
+university::0.0
+propose to combine::0.0
+inference completes::0.0
+problem lab rfid::0.0
+processing runs continuously::0.0
+state and compresses::0.0
+assuming::0.0
+chains::0.0
+noise::0.0
+significantly reduce inference::0.0
+approximating::0.0
+periodically::0.0
+simpler::0.0
+actual::0.0
+scheduled transit::0.0
+first exposure::0.0
+true object::0.0
+dif table::0.0
+objects on shelves::0.0
+sketch the main::0.0
+r.tag::0.0
+chain arranges::0.0
+minutes::0.0
+repeatedly fail::0.0
+highlight the communication::0.0
+co-located cases::0.0
+225,890 rr=0.9::0.0
+specification and extraction::0.0
+types of queries::0.0
+|`to::0.0
+inference we highlight::0.0
+|`tc::0.0
+present our inference::0.0
+include an alternative::0.0
+improve accuracy::0.0
+real-time information::0.0
+limited::0.0
+1.5gb::0.0
+multiple locations::0.0
+ieee signal processing::0.0
+assembled::0.0
+inference and querying::0.0
+incurs::0.0
+containment change frequency::0.0
+rise::0.0
+school::0.0
+takes two::0.0
+suffices::0.0
+accuracy given read::0.0
+runs inference::0.0
+unsupervised learning::0.0
+consistent::0.0
+estimates::0.0
+location queries::0.0
+specification::0.0
+accurate estimates::0.0
+sampling hypothetical observation::0.0
+rr=0.7::0.0
+rr=0.6::0.0
+rr=0.9::0.0
+rr=0.8::0.0
+hundreds::0.0
+path::0.0
+varied containment change::0.0
+leaves::0.0
+changed::0.0
+method offers::0.0
+literature in statistics::0.0
+data cleansing::0.0
+amherst::0.0
+hospital::0.0
+detection ferent::0.0
+technology of writable::0.0
+naive::0.0
+real-time::0.0
+generalized likelihood ratio::0.0
+parts based::0.0
+inference at stream::0.0
+two history::0.0
+end::0.0
+adjacent::0.0
+compression of data::0.0
+two false::0.0
+data and large::0.0
+complexity::0.0
+executed::0.0
+writing::0.0
+combining::0.0
+large::0.0
+high transfer overhead::0.0
+truncate the readings::0.0
+correctly infer::0.0
+independence::0.0
+electronic identification technology::0.0
+restrict::0.0
+stores the co-location::0.0
+approach that performs::0.0
+techniques that require::0.0
+percentage::0.0
+performance significantly::0.0
+tool::0.0
+periodically interrogate tags::0.0
+injected::0.0
+study of hierarchical::0.0
+intel xeon::0.0
+traditional approach::0.0
+fashion::0.0
+ran::0.0
+rao::0.0
+raw::0.0
+compromising accuracy::0.0
+maxc::0.0
+variables that represent::0.0
+localize objects::0.0
+reduce inference cost::0.0
+treats::0.0
+partition::0.0
+metal::0.0
+yang::0.0
+enterprise::0.0
+nodes represent::0.0
+arbitrarily nested containment::0.0
+64-bit server::0.0
+section::0.0
+procedure signals::0.0
+labels::0.0
+radio::0.0
+endowment::0.0
+algorithm achieves::0.0
+letchner::0.0
+interrogates::0.0
+report::0.0
+centroid-based::0.0
+metaphysical data independence::0.0
+225,890::0.0
+=tw eco::0.0
+detection::0.0
+leaves one site::0.0
+capacity::0.0
+approach::0.0
+processingevents::0.0
+statistical method::0.0
+improve::0.0
+ranges::0.0
+processing runs::0.0
+first the true::0.0
+223,790::0.0
+conference::0.0
+two reasons::0.0
+warehouses::0.0
+expected::0.0
+containers::0.0
+combine location::0.0
+drugs::0.0
+history helps improve::0.0
+approach to exploiting::0.0
+procedure::0.0
+readings and containment::0.0
+log likelihoods::0.0
+deferred cleansing::0.0
+complex::0.0
+inventory::0.0
+discrete epochs::0.0
+shortly::0.0
+challenging since inter-object::0.0
+query language::0.0
+scan containers::0.0
+achieves an error::0.0
+proposed::0.0
+spatio-temporal::0.0
+change frequency varies::0.0
+f-measure::0.0
+migration inference site::0.0
+specific::0.0
+informative::0.0
+rich attributes::0.0
+cor2::0.0
+e-step::0.0
+system in large::0.0
+detection algorithm requires::0.0
+inference is sensitive::0.0
+threshold for change::0.0
+limitation::0.0
+ensure::0.0
+unluckiness::0.0
+international conference::0.0
+presence::0.0
+co-located with object::0.0
+high transfer::0.0
+rely::0.0
+discussion below assumes::0.0
+comprising object locations::0.0
+lab warehouse::0.0
+3ghz cpu::0.0
+extra cost::0.0
+probabilistic databases::0.0
+heap::0.0
+cidr::0.0
+removed::0.0
+true distribution::0.0
+abstract tal::0.0
+simulations::0.0
+check::0.0
+jeffery::0.0
+challenge to existing::0.0
+due to two::0.0
+node::0.0
+uniformly::0.0
+cns-0923313::0.0
+longer::0.0
+focus::0.0
+leads::0.0
+computation::0.0
+row::0.0
+procedure works::0.0
+standard2::0.0
+simply by sampling::0.0
+frequencies::0.0
+partitions::0.0
+level::0.0
+block consuming::0.0
+trend::0.0
+drugs and preventing::0.0
+tag data standard2::0.0
+probability tables grow::0.0
+propose a distributed::0.0
+presence of missing::0.0
+offers a hospital::0.0
+emerge::0.0
+chain is assumed::0.0
+lines for location::0.0
+stated::0.0
+memory::0.0
+estimates of object::0.0
+maxt0::0.0
+cases::0.0
+modified::0.0
+complete history::0.0
+model and inference::0.0
+independently with probability::0.0
+stream::0.0
+performed::0.0
+issue in state::0.0
+techniques from probabilistic::0.0
+roundrobin::0.0
+classroom::0.0
+window based::0.0
+likelihood framework::0.0
+state migration inference::0.0
+medical equipment::0.0
+inference with varied::0.0
+objects and interference::0.0
+higher point::0.0
+bound::0.0
+rates or higher::0.0
+evidence tt0 =tw::0.0
+varied tag::0.0
+individually::0.0
+tags local::0.0
+approximates::0.0
+randomly choose::0.0
+factors::0.0
+profit::0.0
+factory::0.0
+theory::0.0
+dispatched::0.0
+queries that require::0.0
+place::0.0
+scales inference::0.0
+pseudocode::0.0
+chains and real::0.0
+millions::0.0
+returns::0.0
+cope::0.0
+based on co-location::0.0
+choose an item::0.0
+copy::0.0
+4-64::0.0
+wide::0.0
+require::0.0
+approach processes::0.0
+truncating::0.0
+translates raw noisy::0.0
+numbers of objects::0.0
+strengths::0.0
+differences::0.0
+multiple::0.0
+unexpected containment::0.0
+considered::0.0
+quantity::0.0
+enables a real-time::0.0
+spatio-temporal redundancy::0.0
+food products::0.0
+rstream::0.0
+written::0.0
+generates the belt::0.0
+processing of tracking::0.0
+tool in statistics::0.0
+expectation::0.0
+seconds scanning::0.0
+total amount::0.0
+work rfid::0.0
+common types::0.0
+xeon::0.0
+verify experimentally::0.0
+detect::0.0
+large literature::0.0
+managing::0.0
+subsequent::0.0
+small recent history::0.0
+simulator can inject::0.0
+accuracy remains::0.0
+multiple ware::0.0
+truncate history::0.0
+requires a recent::0.0
+distributed and centralized::0.0
+overwriting::0.0
+csim::0.0
+region::0.0
+propagation::0.0
+part by nsf::0.0
+sum of point::0.0
+detection queries::0.0
+period::0.0
+reduces the memory::0.0
+iterations::0.0
+tag data standard::0.0
+rfid-based enterprise::0.0
+pallets first::0.0
+irrelevant::0.0
+shenoy::0.0
+case::0.0
+unshaded::0.0
+yanlei::0.0
+pruning::0.0
+exploit on-board::0.0
+granted::0.0
+isle::0.0
+supporting metaphysical::0.0
+rr=0.7 h=500::0.0
+minimize::0.0
+model::0.0
+point detection incurs::0.0
+incurring::0.0
+heuristic::0.0
+infrastructure offers::0.0
+pallet::0.0
+key results::0.0
+inference efficiency::0.0
+easily compressed::0.0
+scheduled::0.0
+32,000::0.0
+objects over multiple::0.0
+reduces::0.0
+state of monitoring::0.0
+reduced::0.0
+simulator::0.0
+current set::0.0
+respect::0.0
+provided::0.0
+imputed::0.0
+tags are object::0.0
+chosen threshold::0.0
+discussed::0.0
+last inference::0.0
+existing machine::0.0
+communication::0.0
+determine::0.0
+containers to drop::0.0
+design a graphical::0.0
+treat::0.0
+fundamentals::0.0
+reduce the complexities::0.0
+traces and ran::0.0
+applying::0.0
+strongly::0.0
+totaling::0.0
+spends::0.0
+incorrect::0.0
+data lacks containment::0.0
+compute new containment::0.0
+separate::0.0
+includes::0.0
+bounded::0.0
+inference algorithms infer::0.0
+calls::0.0
+acyclic::0.0
+jensens::0.0
+global maximum::0.0
+varied the container::0.0
+denotes::0.0
+synthetic::0.0
+schiff::0.0
+removal::0.0
+enabling stream query::0.0
+sensitivity of containment::0.0
+worse::0.0
+statistical regularities::0.0
+sons::0.0
+evaluation::0.0
+list::0.0
+randomly pick::0.0
+121-142::0.0
+queries on correlated::0.0
+rate::0.0
+design::0.0
+sum::0.0
+smooth over containment::0.0
+compresses::0.0
+tags::0.0
+combating::0.0
+model to denote::0.0
+compressed::0.0
+observing::0.0
+single-source directed::0.0
+anomalous events::0.0
+=1200::0.0
+terms yields max::0.0
+environment::0.0
+flat::0.0
+compromising::0.0
+flag::0.0
+equation::0.0
+challenging::0.0
+signal processing mag::0.0
+goal::0.0
+algorithms::0.0
+cleansing::0.0
+simplicity::0.0
+emulate::0.0
+short::0.0
+number of items::0.0
+september::0.0
+developed::0.0
+container c define::0.0
+graphically in figure::0.0
+call::0.0
+information recovery::0.0
+streams to answer::0.0
+return::0.0
+framework::0.0
+rfidbased supply chains::0.0
+37th::0.0
+flammable::0.0
+rates to rise::0.0
+solution is simply::0.0
+increase the latency::0.0
+offline::0.0
+processing requires additional::0.0
+inequality::0.0
+likelihoods::0.0
+weight::0.0
+migration inference::0.0
+seconds error::0.0
+loops::0.0
+drop fast::0.0
+relationships from rfid::0.0
+inference error::0.0
+differ::0.0
+generate::0.0
+e.g::0.0
+65,500::0.0
+rr=0.7 smurf::0.0
+traveled::0.0
+frequently::0.0
+rate of readers::0.0
+rfinfer::0.0
+temperature::0.0
+passed::0.0
+stay true::0.0
+store::0.0
+aims::0.0
+queries assume::0.0
+managing rfid::0.0
+empirically::0.0
+finding::0.0
+produces an object::0.0
+added::0.0
+measures::0.0
+reach::0.0
+rr=0.7 145,858,950::0.0
+measured::0.0
+unsupervised::0.0
+traditional::0.0
+provide timely::0.0
+produce high-quality::0.0
+readings and events::0.0
+simulating::0.0
+migration local proc::0.0
+enabling stream::0.0
+include probabilistic::0.0
+efficient query::0.0
+algorithm would incur::0.0
+lacks containment::0.0
+achieved::0.0
+achieves::0.0
+arg::0.0
+metal objects::0.0
+numerous::0.0
+initially::0.0
+colocation history::0.0
+real-world settings::0.0
+overhead of transferring::0.0
+window-based truncation method::0.0
+interrogate::0.0
+finds::0.0
+arbitrarily::0.0
+reasons::0.0
+java::0.0
+enhancements::0.0
+due::0.0
+reduction::0.0
+reduced shelf::0.0
+prior specific::0.0
+transferring::0.0
+precision::0.0
+caozhao::0.0
+demand::0.0
+point algorithm::0.0
+frozen::0.0
+similar benefits::0.0
+true values::0.0
+state of two::0.0
+lengths::0.0
+widely::0.0
+higher::0.0
+query is split::0.0
+arrives::0.0
+containers from recent::0.0
+robust::0.0
+lower::0.0
+automaton::0.0
+analysis::0.0
+edge::0.0
+warehouse with 32,000::0.0
+optimal f-measure::0.0
+intervals::0.0
+tables::0.0
+comprising object::0.0
+theorem::0.0
+block takes::0.0
+change-point::0.0
+signal processing::0.0
+nonshelf::0.0
+ignore::0.0
+collect::0.0
+function that counts::0.0
+exploiting::0.0
+essential::0.0
+methods offer high::0.0
+scale to 150,000::0.0
+method for comparison::0.0
+change frequencies::0.0
+window is considered::0.0
+proc::0.0
+environments that require::0.0
+obtained since last::0.0
+informatics::0.0
+10x reduction::0.0
+range::0.0
+includes the readings::0.0
+determine object::0.0
+rows::0.0
+processes this stream::0.0
+treated::0.0
+frequency to occluding::0.0
+fast::0.0
+h=500::0.0
+orientation-insensitive::0.0
+repeatedly::0.0
+23:4255::0.0
+reader can read::0.0
+deployed::0.0
+partitioning::0.0
+smoothing approaches::0.0
+increase inference::0.0
+amounts::0.0
+highlight::0.0
+approach to information::0.0
+first to employ::0.0
+deployment than static::0.0
+c.4::0.0
+c.5::0.0
+c.2::0.0
+c.3::0.0
+c.1::0.0
+grouped::0.0
+generates::0.0
+problems::0.0
+meaning::0.0
+allowing::0.0
+87,000 5,273 related::0.0
+rate table::0.0
+weights::0.0
+object is typically::0.0
+belief propagation::0.0
+alien::0.0
+contributions::0.0
+issues::0.0
+real traces::0.0
+include::0.0
+dramatically::0.0
+on-board memory::0.0
+cetin::0.0
+redistribute::0.0
+minimize the inference::0.0
+smaller::0.0
+evaluate the basic::0.0
+accurate inference::0.0
+125,895,500::0.0
+networks::0.0
+monitoring and tracking::0.0
+describing object properties::0.0
+probable the rfid::0.0
+structures and optimizations::0.0
+object c arg::0.0
+chose::0.0
+explore::0.0
+work on rfid::0.0
+readings that occur::0.0
+warehousing::0.0
+larger::0.0
+leaving::0.0
+rfid middleware::0.0
+shaded::0.0
+state for object::0.0
+threshold always approximates::0.0
+scales::0.0
+expect::0.0
+move across sites::0.0
+summation::0.0
+fee::0.0
+figure::0.0
+depicted::0.0
+expanding::0.0
+guestrin::0.0
+shows the cumulative::0.0
+factor::0.0
+objects index::0.0
+methodology based::0.0
+antennas::0.0
+detects::0.0
+containment set::0.0
+37th international::0.0
+proof::0.0
+calculation::0.0
+tag::0.0
+tal::0.0
+naming service::0.0
+counterfeit::0.0
+amount of state::0.0
+scale of rfid::0.0
+hypothesis testing::0.0
+matching functionality::0.0
+specific permission::0.0
+evidence memorized::0.0
+defines the query::0.0
+light::0.0
+local tag storage::0.0
+rfid-based::0.0
+missing data::0.0
+choose::0.0
+defining::0.0
+missed readings::0.0
+contention::0.0
+rfidenabled::0.0
+practice::0.0
+articles::0.0
+tran::0.0
+related::0.0
+out::0.0
+edge a containment::0.0
+inference with change::0.0
+performs::0.0
+supports::0.0
+offer high accuracy::0.0
+model of locations::0.0
+readings of objects::0.0
+overlap between readers::0.0
+maximum likelihood containment::0.0
+objects state::0.0
+continuous query::0.0
+f-m::0.0
+quadratically::0.0
+locations of objects::0.0
+intuitively::0.0
+location probabilities::0.0
+destinations::0.0
+unknown::0.0
+migration for inference::0.0
+tuple::0.0
+shelf::0.0
+simulate::0.0
+collectively::0.0
+limiting::0.0
+difficult to answer::0.0
+physical world::0.0
+co-location weight::0.0
+problem differs::0.0
+aims to find::0.0
+propose a memorization::0.0
+class::0.0
+current belief::0.0
+typical::0.0
+based on graphical::0.0
+belt that scans::0.0
+elimination of noisy::0.0
+candidates::0.0
+local::0.0
+processes raw data::0.0
+data archival::0.0
+algorithm first::0.0
+5,273 related work::0.0
+window-based::0.0
+queries::0.0
+processing for scalability::0.0
+requirement::0.0
+location `tc::0.0
+module::0.0
+a.4::0.0
+a.1::0.0
+a.2::0.0
+a.3::0.0
+closer::0.0
+identification::0.0
+ability::0.0
+variable xtrc::0.0
+location for query::0.0
+thingmagic mercury5::0.0
+hypothesis::0.0
+yields max::0.0
+demonstrate::0.0
+containment correctly::0.0
+created traces::0.0
+enabling mechanism::0.0
+appendix a.1::0.0
+unclear::0.0
+pallet injection::0.0
+environments::0.0
+packaging::0.0
+sequences::0.0
+table::0.0
+stores the posterior::0.0
+rates and significant::0.0
+collected from multiple::0.0
+offers::0.0
+high-level information::0.0
+sufficient::0.0
+ensuring::0.0
+rates for varied::0.0
+improved::0.0
+present::0.0
+inference our inference::0.0
+additional mechanisms::0.0
+queries and minimum::0.0
+enable anytime::0.0
+minimize the computation::0.0
+container-object::0.0
+accurately determine::0.0
+difficult::0.0
+introduce::0.0
+incur high::0.0
+existing stream::0.0
+stores the container::0.0
+handle the noisy::0.0
+unpacked::0.0
+tags provide similar::0.0
+obtain::0.0
+number of locations::0.0
+supply::0.0
+adoption::0.0
+conditional probability::0.0
+describe additional experimental::0.0
+unprecedented::0.0
+identical::0.0
+transfer overhead::0.0
+optimize performance::0.0
+term::0.0
+intuitively by adding::0.0
+differ widely::0.0
+drop::0.0
+sequence::0.0
+algorithm aims::0.0
+possibilities::0.0
+hard copies::0.0
+locate::0.0
+migration by shipping::0.0
+rare::0.0
+extension::0.0
+shipping::0.0
+sites and millions::0.0
+85,510::0.0
+avoids unnecessary::0.0
+real containers::0.0
+data management system::0.0
+t=t0::0.0
+transfer::0.0
+current window::0.0
+improve the performance::0.0
+smoothing::0.0
+restrict the change::0.0
+volume::0.0
+iterates::0.0
+made::0.0
+distributed query::0.0
+indicating whether object::0.0
+experiment and simulations::0.0
+describe a history::0.0
+murf algorithm::0.0
+145,858,950::0.0
+co-located::0.0
+requiring the entire::0.0
+electronic identification::0.0
+container based::0.0
+achieves a linear::0.0
+inherently::0.0
+current estimates::0.0
+relationship between items::0.0
+finkenzeller::0.0
+incurred::0.0
+representative query::0.0

@@ -1,0 +1,6891 @@
+power level::82.0
+reference tag::48.0
+tag detection power level::48.0
+object localisation::47.0
+power levels::45.0
+detection power level::44.3789500202
+reference tags::42.0
+minimum tag detection power::40.0
+localisation accuracy::35.0
+object localisation framework::33.2842125151
+rfid-based object localisation::33.2842125151
+tag detection power levels::32.0
+rfid-based object localisation framework::32.0
+reader power level::31.6992500144
+localisation error::30.0
+tag detection::28.0
+detection power::28.0
+chawla and g robins::28.0
+minimum tag detection::26.9443625123
+localisation framework::25.0
+search algorithm::24.0
+rfid-based object::24.0
+reader power::22.0
+localisation technique::22.0
+localisation algorithm::21.0
+mobile object::21.0
+detection power levels::20.6045125094
+linear search::20.0
+mobile robot::19.0
+minimum tag::19.0
+stationary and mobile object::18.0
+target tag::18.0
+localisation techniques::17.0
+stationary and mobile objects::16.0
+power-distance relationship::16.0
+stationary and mobile::15.8496250072
+ieee international conference::15.8496250072
+proposed localisation approach::15.8496250072
+ieee international::15.0
+binary search algorithm::14.2646625065
+average localisation error::14.2646625065
+linear search algorithm::14.2646625065
+tag detection power::14.2646625065
+binary search::14.0
+localisation approach::13.0
+parallel search::13.0
+target tags::13.0
+international conference::13.0
+read count::13.0
+reader power levels::12.6797000058
+object localisation technique::12.6797000058
+read counts::12.0
+rfid tag::12.0
+proposed localisation::12.0
+radio wave::12.0
+mobile objects::12.0
+measure and report::11.094737505
+accuracy and speed::11.094737505
+empirical power-distance relationship::11.094737505
+bolotnyy and robins::11.094737505
+localisation errors::11.0
+average localisation::10.0
+proposed object localisation framework::10.0
+onboard reader::10.0
+localisation accuracy and speed::10.0
+mobile object localisation::9.50977500433
+tag localisation algorithm::9.50977500433
+object localisation techniques::9.50977500433
+ubiquitous computing::9.0
+multi-tag platform::9.0
+localisation algorithms::9.0
+tag localisation::8.0
+set reader power level::8.0
+level to power search::8.0
+minimum detection power level::8.0
+tag orientation::8.0
+power search for tags::8.0
+rfid tags::8.0
+mobile robots::8.0
+power level to power::8.0
+unique tag id tagid::8.0
+power = power::7.92481250361
+required to detect::7.92481250361
+proposed object localisation::7.92481250361
+minimum power level::7.92481250361
+four-way multi-tag platform::7.92481250361
+parallel search algorithm::7.92481250361
+computer science::7.0
+localisation phase::7.0
+low sensitive::7.0
+empirical power-distance::7.0
+error heuristic::7.0
+error-reducing heuristic::7.0
+rfid system::7.0
+rfid read::7.0
+unique tag::7.0
+average sensitive::7.0
+minimum detection power::6.33985000288
+tags and reader::6.33985000288
+radio wave lobe::6.33985000288
+search for tags::6.33985000288
+2010a ; chawla::6.33985000288
+determine the minimum::6.33985000288
+choi and lee::6.33985000288
+successful or time-out::6.33985000288
+cumulative read counts::6.33985000288
+tag id tagid::6.33985000288
+tagid is found::6.33985000288
+tags until successful::6.33985000288
+detection sensitivities::6.0
+highly sensitive::6.0
+tag sensitivity::6.0
+power step::6.0
+sensitive tag::6.0
+four-way multi-tag::6.0
+notes in computer science::6.0
+tags as highly sensitive::6.0
+power levels and distance::6.0
+phase and the localisation::6.0
+based on the read::6.0
+rfid reader::6.0
+power varying step powerstep::6.0
+localisation algorithms and error::6.0
+rfid-based object localisation techniques::6.0
+number of reference tags::6.0
+position estimate::6.0
+rfid technology::6.0
+set-up phase::6.0
+lecture notes in computer::6.0
+tags and the onboard::6.0
+tag sensitivities::6.0
+mobile object localisation technique::6.0
+multiple stationary and mobile::6.0
+minimum power::6.0
+cumulative read::5.0
+absolute difference::5.0
+reader localisation::5.0
+localisation speed::5.0
+multi-path scattering::5.0
+passive tag::5.0
+power end::5.0
+position estimates::5.0
+onboard tag::5.0
+environmental interferences::5.0
+ultrasonic sensors::5.0
+single tag::5.0
+minimum power levels::4.75488750216
+ieee international symposium::4.75488750216
+tags as highly::4.75488750216
+four-way multi-tag platforms::4.75488750216
+levels and distance::4.75488750216
+empirical powerdistance relationship::4.75488750216
+average sensitive tag::4.75488750216
+power level increment::4.75488750216
+positions of stationary::4.75488750216
+average read count::4.75488750216
+power = maxpowerlevel::4.75488750216
+positions of target::4.75488750216
+localise mobile robots::4.75488750216
+multi-tag rfid systems::4.75488750216
+varying step powerstep::4.75488750216
+highest to lowest::4.75488750216
+university of virginia::4.75488750216
+friis transmission equation::4.75488750216
+power step size::4.75488750216
+onboard target tags::4.75488750216
+lowest to highest::4.75488750216
+heuristic computes::4.0
+determining the minimum tag::4.0
+power and distance combinations::4.0
+onboard components::4.0
+localise the target tags::4.0
+power level from low::4.0
+international conference on advanced::4.0
+minimum detection power levels::4.0
+localisation approach to existing::4.0
+manufacturing variability can dramatically::4.0
+experimental evaluation::4.0
+robots in an indoor::4.0
+increases the localisation accuracy::4.0
+mobile object localisation techniques::4.0
+improve the overall localisation::4.0
+based on the reader::4.0
+power = maxpowerlevel repeat::4.0
+spatial arrangement of tags::4.0
+object localisation using rfid::4.0
+tags increases the localisation::4.0
+reader power level constant::4.0
+impact on localisation accuracy::4.0
+tags and the reader::4.0
+tagid power varying step::4.0
+compare the proposed localisation::4.0
+variability can dramatically affect::4.0
+reference and target tags::4.0
+counts in the range::4.0
+uniformly sensitive reference tags::4.0
+experimental set-up::4.0
+science at the university::4.0
+error-reducing heuristics::4.0
+rfid tags and reader::4.0
+higher accuracy::4.0
+required to detect tag::4.0
+localisation of multiple stationary::4.0
+pervasive computing::4.0
+reader and the tag::4.0
+tag orientation and placement::4.0
+identification technology and applications::4.0
+detection sensitivity::4.0
+levels required to detect::4.0
+return notfound end set::4.0
+international conference on rfid::4.0
+varying the power levels::4.0
+radio frequency::4.0
+emitted by the reader::4.0
+set reader::4.0
+telemedicine journal and e-health::4.0
+algorithms and error-reducing heuristics::4.0
+accurate minimum tag detection::4.0
+international conference on wireless::4.0
+rfid-based localisation::4.0
+simultaneous localisation of multiple::4.0
+power varying::4.0
+radio frequency identification technology::4.0
+localise mobile::4.0
+tags had read counts::4.0
+varying step powerstep output::4.0
+average sensitive tag set::4.0
+based on the friis::4.0
+international conference on robotics::4.0
+radio waves::4.0
+labelled as low sensitive::4.0
+computes the absolute difference::4.0
+determine the minimum tag::4.0
+distance between the tag::4.0
+dramatically affect the detection::4.0
+heuristic computes the absolute::4.0
+rfid equipment::4.0
+due to the linear::4.0
+factors such as multi-path::4.0
+positions of target objects::4.0
+tags had cumulative read::4.0
+levels between the neighbouring::4.0
+error of this approach::4.0
+respect to the readers::4.0
+tags as low sensitive::4.0
+improve the localisation accuracy::4.0
+varied the reader power::4.0
+tags in a single::4.0
+power = power powerstep::4.0
+end set reader power::4.0
+measure and report algorithm::4.0
+distance between the reader::4.0
+error in the range::4.0
+mitigating techniques::4.0
+notfound end set reader::4.0
+labelled as highly sensitive::4.0
+tag localisation algorithm iii::4.0
+object localisation framework figure::4.0
+tags to be found::4.0
+four such possible heuristic::4.0
+end power = power::4.0
+tag id tagid power::4.0
+passive tags::4.0
+department of computer science::4.0
+localisation algorithms and error-reducing::4.0
+source of localisation errors::4.0
+determine the minimum power::4.0
+conference on rfid::3.16992500144
+antennas and propagation::3.16992500144
+seo and lee::3.16992500144
+tags with respect::3.16992500144
+high to low::3.16992500144
+varying environmental conditions::3.16992500144
+reference and target::3.16992500144
+conference on wireless::3.16992500144
+return notfound end::3.16992500144
+nearest reference tags::3.16992500144
+accurate minimum tag::3.16992500144
+source of localisation::3.16992500144
+depicted in figure::3.16992500144
+ideal power-distance relationship::3.16992500144
+consisting of four::3.16992500144
+shared region induced::3.16992500144
+2007b ; bolotnyy::3.16992500144
+based on rfid::3.16992500144
+call this algorithm::3.16992500144
+present a mobile::3.16992500144
+tags had cumulative::3.16992500144
+average read counts::3.16992500144
+number of tags::3.16992500144
+tag and reader::3.16992500144
+determine the position::3.16992500144
+localisation of multiple::3.16992500144
+frequency identification technology::3.16992500144
+detect a tag::3.16992500144
+varied the distance::3.16992500144
+orientation and placement::3.16992500144
+step powerstep output::3.16992500144
+power levels required::3.16992500144
+department of computer::3.16992500144
+tag bearing estimation::3.16992500144
+tags and readers::3.16992500144
+conference on advanced::3.16992500144
+tags are determined::3.16992500144
+power varying step::3.16992500144
+labelled as low::3.16992500144
+varied the reader::3.16992500144
+impinj dogbone monza::3.16992500144
+order to localise::3.16992500144
+batch of tags::3.16992500144
+readers and tags::3.16992500144
+algorithms and error-reducing::3.16992500144
+number of reader::3.16992500144
+tags are typically::3.16992500144
+robotics and automation::3.16992500144
+sensitive tag set::3.16992500144
+localisation algorithm iii::3.16992500144
+power end power::3.16992500144
+improve the localisation::3.16992500144
+order to improve::3.16992500144
+neighbouring reference tags::3.16992500144
+probabilistic rfid map::3.16992500144
+estimate the position::3.16992500144
+techniques to mitigate::3.16992500144
+received power level::3.16992500144
+tags had read::3.16992500144
+onboard reader localisation::3.16992500144
+tag manufacturing variability::3.16992500144
+localisation framework figure::3.16992500144
+stationary or mobile::3.16992500144
+computes the absolute::3.16992500144
+power end end::3.16992500144
+passive uhf rfid::3.16992500144
+mobile robot localization::3.16992500144
+machine learning approach::3.16992500144
+error-reducing heuristic computes::3.16992500144
+notes in computer::3.16992500144
+national science foundation::3.16992500144
+localise the onboard::3.16992500144
+power level constant::3.16992500144
+horizontal planar orientations::3.16992500144
+set of tags::3.16992500144
+active reference tags::3.16992500144
+uhf passive tag::3.16992500144
+reader localisation algorithm::3.16992500144
+power powerstep end::3.16992500144
+chae and han::3.16992500144
+set reader power::3.16992500144
+tags as low::3.16992500144
+2007a ; bolotnyy::3.16992500144
+order to determine::3.16992500144
+previous localisation techniques::3.16992500144
+tags in tagidset::3.16992500144
+proposed parallel search::3.16992500144
+order to reduce::3.16992500144
+radio wave lobes::3.16992500144
+visualisation user interface::3.16992500144
+labelled as highly::3.16992500144
+low to high::3.16992500144
+rfid-based localisation techniques::3.16992500144
+onboard rfid reader::3.16992500144
+radio frequency identification::3.16992500144
+sensor networks::3.0
+wave lobe::3.0
+multiple tags::3.0
+placement strategies::3.0
+empirical powerdistance::3.0
+user interface::3.0
+tag position::3.0
+signal strength::3.0
+two tags::3.0
+phase difference::3.0
+mobile readers::3.0
+lessons learned::3.0
+previous localisation::3.0
+passive rfid::3.0
+previous works::3.0
+offline pre-processing::3.0
+onboard rfid::3.0
+lecture notes::3.0
+south korea::3.0
+intersection region::3.0
+mobile reader::3.0
+active rfid::3.0
+transmission equation::3.0
+return notfound::3.0
+step size::3.0
+rfid readers::3.0
+proposed object::3.0
+notfound end::3.0
+vision sensor::3.0
+wave lobes::3.0
+localisation challenges::3.0
+multiple stationary::3.0
+lego bricks::3.0
+experimental results::3.0
+robins figure::3.0
+rfid antenna::3.0
+error heuristics::3.0
+onboard target::3.0
+gabriel robins::3.0
+powerstep end::3.0
+end end::3.0
+run times::3.0
+frequency identification::3.0
+heuristic variants::3.0
+sensitive tags::3.0
+multi-tag platforms::3.0
+rfid components::3.0
+rfid systems::3.0
+uniformly sensitive::3.0
+map area room volume::2.0
+analysis in greater detail::2.0
+strive for further improvements::2.0
+based on the tag::2.0
+identical commercial tags discussed::2.0
+illustrated in figure 13b::2.0
+techniques tend to compromise::2.0
+counts at a power::2.0
+future in ubiquitous computing::2.0
+rfid-based stationary object localisation::2.0
+mobile robots may move::2.0
+propose a triangular tag::2.0
+relationship can be reliably::2.0
+orientation of mobile robots::2.0
+multiple iterations are required::2.0
+set-up phase is due::2.0
+techniques do not report::2.0
+explicitly compute geometrical regions::2.0
+minimum an rfid-based object::2.0
+unpredictable and hard-to-characterise variabilities::2.0
+important factor in determining::2.0
+properties such as power-distance::2.0
+reference tags and determining::2.0
+detection sensitivities of tags::2.0
+leveraging the empirical power-distance::2.0
+enhance the localisation accuracy::2.0
+two mobile::2.0
+include real-time object identification::2.0
+run time against accuracy::2.0
+severely limit the utility::2.0
+fact that identical tags::2.0
+power level tagpower tagpower::2.0
+identified several key challenges::2.0
+control onboard link component::2.0
+international symposium on wireless::2.0
+system does not explicitly::2.0
+maxpowerlevel power = maxpowerlevel::2.0
+algorithm measure and report::2.0
+probabilities than parallel orientations::2.0
+target and reference tags::2.0
+propose to localise mobile::2.0
+combined overall average accuracy::2.0
+present in other existing::2.0
+tags kit pda wireless::2.0
+rfid map and kalman::2.0
+linear search or binary::2.0
+sidesteps these complicated issues::2.0
+intersections of the radio::2.0
+equally sensitive::2.0
+experimental set-up and implementation::2.0
+nonlinear stochastic inversion problem::2.0
+detailed analysis of multi-tags::2.0
+repeated this calibration experiment::2.0
+affect the detection sensitivity::2.0
+constructed two mobile robots::2.0
+gui enabled the quick::2.0
+self-localization of mobile robots::2.0
+readers b = set::2.0
+distance between the tags::2.0
+inference system to localise::2.0
+coupled with accurately sampled::2.0
+classify tags as highly::2.0
+wave lobes rfid antenna::2.0
+research interests include rfid::2.0
+algorithm trades off run::2.0
+region of one metre::2.0
+tag calibration::2.0
+localisation framework kirti chawla*::2.0
+drawback that rfid technology::2.0
+ignore the key issue::2.0
+recorded the cumulative read::2.0
+needed to successfully read::2.0
+determining the localisation accuracy::2.0
+experimentally determined the preferable::2.0
+international conference on parallel::2.0
+two-tuple having unique tag::2.0
+sensing using active rfid::2.0
+tag sensitivities were evident::2.0
+step in this algorithm::2.0
+search yields the highest::2.0
+power levels of tags::2.0
+onerous price of resorting::2.0
+transactions on industrial electronics::2.0
+gbytes windows xp c++::2.0
+cards a ubiquitous computing::2.0
+environment using one reader::2.0
+resulting in a list::2.0
+yields the highest minimum::2.0
+tags having equal read::2.0
+check provides a characterisation::2.0
+high in small increments::2.0
+rfid-based positioning ; object::2.0
+improved tag placement strategies::2.0
+earthquake magnitude using gps::2.0
+wave localisation error figure::2.0
+covered by fewer lobes::2.0
+ids to a backend::2.0
+tend to yield lower::2.0
+identifies key environmental features::2.0
+two orthogonally placed antennas::2.0
+power-distance relationships::2.0
+localisation algorithms and two::2.0
+reliable way to reduce::2.0
+international conference on computer::2.0
+multi-tag with the nearest::2.0
+concludes with future research::2.0
+object localization::2.0
+estimates of a target::2.0
+tag radio wave localisation::2.0
+accommodating various error sources::2.0
+difference this error-reducing heuristic::2.0
+power levels to localise::2.0
+research interests::2.0
+performance parameters for optimisation::2.0
+search and binary search::2.0
+tag by several readers::2.0
+issues degrade the detection::2.0
+tag ids::2.0
+remaining tags had read::2.0
+fraction of any commercially::2.0
+lowest minimum tag detection::2.0
+suits a wide range::2.0
+received signal strength indicator::2.0
+orientations of two tags::2.0
+lego components is based::2.0
+modeling rfid signal strength::2.0
+evaluated the proposed object::2.0
+sufficient for object tracking::2.0
+tag orientations and placement::2.0
+requirements such as accuracy::2.0
+forming an intersection region::2.0
+localisation approach is general::2.0
+tag via the empirical::2.0
+simultaneous localisation::2.0
+remaining tags::2.0
+experiments show::2.0
+platform constructed using lego::2.0
+develop a probabilistic sensor::2.0
+overlapped by more radio::2.0
+software engineering and research::2.0
+widely available commercial rfid::2.0
+designing the rfid testbed::2.0
+determined using a received::2.0
+propose a 3d tag::2.0
+tag orientation tag orientation::2.0
+coarsely localised with respect::2.0
+reader connected to four::2.0
+reader antenna tag protocol::2.0
+tuples of the form::2.0
+enterprises ltd an rfid-based::2.0
+algorithm in the localisation::2.0
+rssi-based localisation an rfid-based::2.0
+propose a pre-processing step::2.0
+record the unique tag::2.0
+controlled using the input::2.0
+passive reference::2.0
+low sensitive using read::2.0
+robots utilising only rfid::2.0
+localisation framework the proposed::2.0
+present several new algorithms::2.0
+rfid readers are ascertained::2.0
+rely on the embedded::2.0
+voltaire portable rfid reader::2.0
+computes the square root::2.0
+tags in the readers::2.0
+localise the active tags::2.0
+number of iterations required::2.0
+tags with the nearest::2.0
+multi-path scattering and tag::2.0
+research work::2.0
+control the power level::2.0
+international symposium on circuits::2.0
+algorithm searches for tags::2.0
+lobes have a smaller::2.0
+bearing estimation::2.0
+power levels of two::2.0
+combine these localisation techniques::2.0
+feature of our system::2.0
+rfid localization for pervasive::2.0
+matching the onboard target::2.0
+approach to localize passive::2.0
+search algorithm in parallel::2.0
+rfid technology keep advancing::2.0
+equipment environment robots onboard::2.0
+aspects of the proposed::2.0
+calibration of tags typically::2.0
+reference tags kit pda::2.0
+part of an offline::2.0
+region induced::2.0
+system compares the detection::2.0
+rfid and sensor networks::2.0
+simplicity in algorithmic design::2.0
+power level estimation errors::2.0
+iteration variable for heuristics::2.0
+read-range of the reader::2.0
+labelled tags::2.0
+inherent in determining minimum::2.0
+oblivious to geometrical considerations::2.0
+national science::2.0
+number of power levels::2.0
+approaches ignore the key::2.0
+describe a mobile object::2.0
+shown are the four-way::2.0
+required by the set-up::2.0
+problem of object localisation::2.0
+method principles and carefully::2.0
+enables only uniformly sensitive::2.0
+power level from lowest::2.0
+existing stationary and mobile::2.0
+foundation through grant number::2.0
+framework to localise objects::2.0
+tags and onboard mobile::2.0
+four antennas::2.0
+estimated distance is computed::2.0
+estimates of the minimum::2.0
+complexity measure and report::2.0
+tend to converge faster::2.0
+combined with a feature::2.0
+four possible 90-degree rotations::2.0
+relationship also implicitly determines::2.0
+international symposium::2.0
+conference on pervasive computing::2.0
+move the mobile robots::2.0
+describes our experimental set-up::2.0
+protocols are already designed::2.0
+carefully verified this hypothesis::2.0
+requires a sufficiently illuminated::2.0
+localisation in outdoor settings::2.0
+target objects using reference::2.0
+compares the detection power::2.0
+minimise the localisation error::2.0
+algorithms then that algorithm::2.0
+utilised the proposed algorithms::2.0
+methods can be implemented::2.0
+enabled us to minimise::2.0
+onboard control onboard link::2.0
+drifts in the empirical::2.0
+verified this hypothesis experimentally::2.0
+implications of this variability::2.0
+function generates the probability::2.0
+location systems for ubiquitous::2.0
+minimum this error-reducing meta-heuristic::2.0
+works resort to herculean::2.0
+establish the empirical power-distance::2.0
+radio waves power-distance relationship::2.0
+depicts four antennas emitting::2.0
+expected regions of motion::2.0
+robins 5.1.2 multi-tag calibration::2.0
+intersection of radio wave::2.0
+due to manufacturing variations::2.0
+parallel search the linear::2.0
+international conference intelligent sensors::2.0
+localisation an rfid-based object::2.0
+types of rfid tags::2.0
+kirti chawla* and gabriel::2.0
+component cpu ram hard::2.0
+paper should be made::2.0
+trajectory of the objects::2.0
+single read::2.0
+set-up type backend workstation::2.0
+relationship can be characterised::2.0
+search-based approach will tend::2.0
+approach yields an average::2.0
+mobile objects by utilising::2.0
+average number of iterations::2.0
+robins 5.2.2 tag localisation::2.0
+average sensitive tag sets::2.0
+localisation techniques typically utilise::2.0
+reader power level needed::2.0
+density on the localisation::2.0
+stepping down the power::2.0
+direction of the power::2.0
+mobile and wireless computing::2.0
+recognitions include a packard::2.0
+yield higher detection probabilities::2.0
+rfid tags are determined::2.0
+binning approach is equally::2.0
+identification frameworks for ubiquitous::2.0
+multiple tags in orthogonal::2.0
+comprised of reference tags::2.0
+widely varying detection sensitivities::2.0
+orientations and placement strategies::2.0
+algorithms and their variants::2.0
+single tag per execution::2.0
+minpower required to detect::2.0
+gains of the reader::2.0
+lower the average number::2.0
+positions at samsung electronics::2.0
+note that the maximum::2.0
+fourth algorithm uses readers::2.0
+tags with the reference::2.0
+combining the different localisation::2.0
+report while the previous::2.0
+power = maxpowerlevel minpower::2.0
+science foundation::2.0
+experimental evaluation and results::2.0
+proposed localisation approach closely::2.0
+system to varying environmental::2.0
+objects moving at higher::2.0
+conference on intelligent robots::2.0
+selection this error-reducing heuristic::2.0
+adversely affect rfid-based localisation::2.0
+four different power steps::2.0
+rfid technology was intended::2.0
+absolute difference this error-reducing::2.0
+mobile object localisation approach::2.0
+deployed uniformly sensitive four-way::2.0
+mobile robot that acted::2.0
+placing active reference tags::2.0
+cumulative read counts ranged::2.0
+object localisation framework kirti::2.0
+workshop on selected topics::2.0
+methods are too expensive::2.0
+rfid-based object localisation capabilities::2.0
+readers location and proximity::2.0
+variations are not considered::2.0
+instrument a 2d region::2.0
+taylor and francis group::2.0
+framework aim towards practicality::2.0
+detection algorithm identifies key::2.0
+coarsely localise the mobile::2.0
+read the reference tags::2.0
+techniques such as electrostatic::2.0
+tags tagidset power varying::2.0
+designing the localisation algorithms::2.0
+power step vs localisation::2.0
+metres in a small::2.0
+challenges that can adversely::2.0
+relying on non-rfid technology::2.0
+unique challenge in reliably::2.0
+rfid equipment and protocols::2.0
+reference tags in order::2.0
+based on their detection::2.0
+recent advances in ubiquitous::2.0
+technique varies the power::2.0
+identifying and systematically mitigating::2.0
+gradually increase their transmission::2.0
+level than other comparable::2.0
+confluence of radio frequency::2.0
+algorithm in low-tohigh mode::2.0
+combinations yield the smallest::2.0
+based on probabilistic rfid::2.0
+localisation speed localisation speed::2.0
+high localisation::2.0
+sensitivities across identical tags::2.0
+poses a unique challenge::2.0
+describes several key challenges::2.0
+vary the reader power::2.0
+conclusions and future work::2.0
+active reference::2.0
+reader and tag-based approaches::2.0
+batch of four tags::2.0
+tag spatiality rfid-based object::2.0
+expensive or unwieldy due::2.0
+counts of each multi-tag::2.0
+generated for each reader::2.0
+read count of constituent::2.0
+metres from the reader::2.0
+position estimate errors due::2.0
+oblivious to this important::2.0
+values of virtual tags::2.0
+conference on computer communications::2.0
+industrial electronics::2.0
+difference of the power::2.0
+additional low-cost passive tags::2.0
+combining the different algorithms::2.0
+powerstep end return powerset::2.0
+linear search algorithm operating::2.0
+reviewers for their helpful::2.0
+two experiments to quantify::2.0
+affect the localisation accuracy::2.0
+efficient for localising tags::2.0
+moves through the environment::2.0
+proposed localisation framework depends::2.0
+increase the readers power::2.0
+work in rfid-based object::2.0
+observed empirical powerdistance relationship::2.0
+learning approach::2.0
+tag responses in order::2.0
+distance combinations::2.0
+note that the mobile::2.0
+pda wireless details amd::2.0
+robins 5.3.3 error heuristic::2.0
+environment-embedded readers to localise::2.0
+challenges and mitigating techniques::2.0
+gps for tsunami warning::2.0
+binary search algorithm trades::2.0
+varies the power levels::2.0
+reference multi-tags::2.0
+sets from each experiment::2.0
+feature detection algorithm identifies::2.0
+localisation techniques also heavily::2.0
+errors rfid antenna reference::2.0
+tags to be deployed::2.0
+typically expect to find::2.0
+trade off localisation accuracy::2.0
+sensitivity of ostensibly identical::2.0
+simultaneously localise multiple stationary::2.0
+measure and report input::2.0
+levels at the reader::2.0
+scheme for a differential-driving::2.0
+four-way multi-tags in order::2.0
+distance from a target::2.0
+difference this localisation error-reducing::2.0
+framework in an indoor::2.0
+average read::2.0
+indoor environment by utilising::2.0
+model the indoor localisation::2.0
+localisation algorithms for estimating::2.0
+resort to herculean efforts::2.0
+levels and distance ranges::2.0
+characteristics of a passive::2.0
+tags having overall average::2.0
+phase difference estimation algorithms::2.0
+results pertaining to localisation::2.0
+heuristics minimum this error-reducing::2.0
+return power::2.0
+localisation techniques and propose::2.0
+readers in the region::2.0
+proximate equally sensitive tags::2.0
+robot based on rfid::2.0
+detection sensitivities across identical::2.0
+increments the reader power::2.0
+approach into the set-up::2.0
+significantly improving the localisation::2.0
+works ignore the fact::2.0
+strength and tag detection::2.0
+power levels powerset set::2.0
+foundation young investigator award::2.0
+behaviour of an unknown::2.0
+support for the ambulant::2.0
+tend to generate higher::2.0
+surroundings-enabling techniques and technologies::2.0
+antenna tag protocol map::2.0
+differential-driving mobile robot based::2.0
+squares of the absolute::2.0
+yields high::2.0
+localisation that compare favourably::2.0
+rfid and sonar fusion::2.0
+tags can have widely::2.0
+note that the underlying::2.0
+substantially skew this relationship::2.0
+algorithms and error heuristics::2.0
+components and avoiding non-rfid::2.0
+metric of various reference::2.0
+international conference on intelligent::2.0
+four impinj dogbone monza::2.0
+robots onboard control onboard::2.0
+increase with higher tag::2.0
+describe the underlying principles::2.0
+relationship between the uniformly::2.0
+localisation requires slower speeds::2.0
+rfid antenna intersection region::2.0
+filter-based technique::2.0
+lego mindstorms::2.0
+chip threshold power sensitivity::2.0
+combinations during the set-up::2.0
+report algorithm achieve comparable::2.0
+search algorithms take considerably::2.0
+deliberate capability that yields::2.0
+linear step-wise power incrementing::2.0
+highest minimum tag detection::2.0
+results in equally sensitive::2.0
+map comprised of reference::2.0
+note that rfid tags::2.0
+placement are key factors::2.0
+sensors for local position::2.0
+minimisation heuristics are performed::2.0
+existing methods::2.0
+tags from each reader::2.0
+localisation technique reader localisation::2.0
+illustrates this parallel search::2.0
+responds with an ultrasonic::2.0
+power needed to read::2.0
+power powerstep::2.0
+2007a chae and han::2.0
+intersection region radio wave::2.0
+ranges was comparatively small::2.0
+rfid-based positioning::2.0
+reached their optimal minimum::2.0
+developed a visualisation tool::2.0
+illustrates the power-distance relationship::2.0
+gain impinj dogbone monza::2.0
+tag sensitivities varied considerably::2.0
+approach suits a wide::2.0
+environment robots onboard control::2.0
+localisation methods also require::2.0
+considerably more time due::2.0
+estimates of the target::2.0
+reader power levels required::2.0
+function of chip threshold::2.0
+-based metric::2.0
+test area::2.0
+provide less accurate estimates::2.0
+search algorithm to calibrate::2.0
+higher resolution minimum tag::2.0
+combinations of localisation algorithms::2.0
+determining the euclidean distance::2.0
+transmits an rfid signal::2.0
+track the lego railroad::2.0
+counts under different reader::2.0
+localisation requires::2.0
+technique reader localisation tag::2.0
+yield lower positioning errors::2.0
+calibration in this calibration::2.0
+significant amount of experimental::2.0
+linear search and outline::2.0
+readers antenna::2.0
+tags and a proximity::2.0
+warning systems::2.0
+performance of rfid-based object::2.0
+radio noise and occlusions::2.0
+practical techniques to mitigate::2.0
+automatic control world congress::2.0
+labelled tags as highly::2.0
+tags at that stage::2.0
+reference tags with real-time::2.0
+terminate than the linear::2.0
+yielding effective and efficient::2.0
+localisation techniques use off-the-shelf::2.0
+algorithms localisation technique reader::2.0
+mobile robots using lego::2.0
+respect to the neighbourhood::2.0
+rfid antenna reference tag::2.0
+read counts are labelled::2.0
+based on the versatility::2.0
+based on a fuzzy::2.0
+localise the mobile object::2.0
+highest to lowest power::2.0
+calibrated using reference tags::2.0
+upgradethe european online magazine::2.0
+level update in powerset::2.0
+localisation algorithm linearly increments::2.0
+onboard reader to read::2.0
+sensitivities over ordinary single::2.0
+robins related work recent::2.0
+due to the additional::2.0
+stand made of lego::2.0
+rf-based approaches utilising near-field::2.0
+positioning based on probabilistic::2.0
+user interface an rfid-based::2.0
+search algorithm all provide::2.0
+actual positions of target::2.0
+tag on these platforms::2.0
+reference tags to establish::2.0
+orientation significantly affects tag::2.0
+rfid-based localization using virtual::2.0
+ignoring bigger error sources::2.0
+approaches utilising near-field propagation::2.0
+sensitivity experiments by taking::2.0
+algorithms for estimating positions::2.0
+radio wave localisation error::2.0
+moving at higher speeds::2.0
+design of our four-way::2.0
+connecting the physical world::2.0
+localisation accuracy for speed::2.0
+neighbourhood passive reference tags::2.0
+higher accuracy and efficiency::2.0
+multiple readers at fixed::2.0
+witness in major intellectual::2.0
+localization systems using passive::2.0
+co-authored five refereed publications::2.0
+transmitted by the reader::2.0
+framework the proposed localisation::2.0
+slowly increase the readers::2.0
+robots using lego mindstorms::2.0
+reference tag radio wave::2.0
+root sum square absolute::2.0
+localisation speed is heavily::2.0
+platform consisting of four::2.0
+binary search parallel search::2.0
+orientations yield higher detection::2.0
+objects affixed with tags::2.0
+tags increases::2.0
+approach is to limit::2.0
+based on rfid system::2.0
+implement various phase difference::2.0
+show that radio frequency::2.0
+mobile robot localisation technique::2.0
+tagidset power varying step::2.0
+rotation and reader proximity::2.0
+measurements over different power::2.0
+proximity map::2.0
+international conference on pervasive::2.0
+obtained from the onboard::2.0
+leading to localisation errors::2.0
+set-up localisation phase phase::2.0
+resolution for binary search::2.0
+measured the average read::2.0
+proposed parallel search localisation::2.0
+multiple readers::2.0
+select different error heuristics::2.0
+iterations required to determine::2.0
+tag reference tag radio::2.0
+nearest neighbourhood reference tags::2.0
+cpu ram hard disc::2.0
+weight of the required::2.0
+tag sensitivities by varying::2.0
+symposium on industrial electronics::2.0
+stationary object localisation techniques::2.0
+significantly affect the localisation::2.0
+interests include::2.0
+maximum power levels differ::2.0
+rfid-based mobile object localization::2.0
+transactions on computer-human interaction::2.0
+unique tag ids encountered::2.0
+supported by the u.s::2.0
+yield higher::2.0
+objects with even higher::2.0
+objects using reference tags::2.0
+ipaq hx2490::2.0
+powerset power = power::2.0
+sensitivity analysis tag manufacturing::2.0
+scheme based on rfid::2.0
+empirical approach naturally adapts::2.0
+tags are very similar::2.0
+varied considerably::2.0
+embedded rfid hardware functionality::2.0
+orthogonal orientations::2.0
+reader localisation tag localisation::2.0
+determination of earthquake magnitude::2.0
+operations to accommodate drifts::2.0
+multitags in our experiments::2.0
+vertices of a hexahedron::2.0
+require more time tend::2.0
+reader is coarsely localised::2.0
+machine learning::2.0
+checking the power levels::2.0
+search parallel search measure::2.0
+specifies the power level::2.0
+empirically observed power-distance relationship::2.0
+detected tags in tagidset::2.0
+localise stationary and mobile::2.0
+tag rj = reference::2.0
+orthogonally oriented rfid tags::2.0
+detect tag::2.0
+localisation challenges and mitigating::2.0
+identification of various issues::2.0
+wave at first glance::2.0
+laser range scanner combined::2.0
+proposed binary search algorithm::2.0
+data with real-time rfid::2.0
+algorithm achieve comparable accuracy::2.0
+sweeps from the highest::2.0
+detection power levels powerset::2.0
+delays inherent in determining::2.0
+view of the object::2.0
+power level by checking::2.0
+conceptually forming an intersection::2.0
+combination with an onboard::2.0
+algorithm and the measure::2.0
+rfid antenna rfid multi-tag::2.0
+estimation for mobile robot::2.0
+tags in tagidset check::2.0
+generate higher resolution minimum::2.0
+separate techniques to localise::2.0
+evaluated the proposed approach::2.0
+divide the proposed localisation::2.0
+object along a motion::2.0
+tags can help achieve::2.0
+compare prior-obtained training data::2.0
+position can be estimated::2.0
+existing rfid-based stationary object::2.0
+accurate minimum::2.0
+utilises two different techniques::2.0
+step using the input::2.0
+designed a graphical user::2.0
+rfid indoor positioning based::2.0
+time-out update power levels::2.0
+mobile robots along predetermined::2.0
+actual localisation and error::2.0
+top-view of experimental set-up::2.0
+probability density function generates::2.0
+maxpowerlevel repeat till power::2.0
+detection probability::2.0
+minimum power levels required::2.0
+limitations are also present::2.0
+computing applications::2.0
+depends on the uniform::2.0
+resulting in high localisation::2.0
+practicality of previous approaches::2.0
+resulting object localisation framework::2.0
+adding inexpensive passive reference::2.0
+localisation framework that accurately::2.0
+passive reference tags increases::2.0
+note that the parallel::2.0
+showed that tag sensitivity::2.0
+outlines key lessons learned::2.0
+end set::2.0
+strengths and received power::2.0
+tags as average sensitive::2.0
+achieve a desired level::2.0
+reader onboard a mobile::2.0
+algorithm in the low-to-high::2.0
+locations of reference tags::2.0
+5.2.3 tag localisation algorithm::2.0
+distances from antenna four::2.0
+levels of the reference::2.0
+power levels in parallel::2.0
+distances between the tags::2.0
+reader and the multi-tag::2.0
+uhf passive::2.0
+aspect of the proposed::2.0
+rfid tags using phase::2.0
+inexpensive passive reference tags::2.0
+system to localise mobile::2.0
+algorithms in different combinations::2.0
+limited by the tag::2.0
+minpower = maxpowerlevel repeat::2.0
+powerset set all tags::2.0
+density vs localisation accuracy::2.0
+onboard components and avoiding::2.0
+conference on advanced robotics::2.0
+localisation algorithms localisation technique::2.0
+approach can simultaneously localise::2.0
+approach has a root::2.0
+effective and efficient techniques::2.0
+performed uniformly with respect::2.0
+impact of this parameter::2.0
+research work in rfid-based::2.0
+mobile robot using igs::2.0
+propose an rssi-based localisation::2.0
+type backend workstation rfid::2.0
+sensitive reference::2.0
+characterised by direct empirical::2.0
+orientations yield::2.0
+accuracy of such methods::2.0
+experiments to ensure uniform::2.0
+tag measurements and correlates::2.0
+algorithms ; power-distance relationship::2.0
+set of minimum tag::2.0
+calibration experiments to ensure::2.0
+numerous ubiquitous computing applications::2.0
+set of calibrated reference::2.0
+rapidly determines the positions::2.0
+platform the localisation accuracy::2.0
+determining the power-distance relationship::2.0
+tags based::2.0
+techniques are specifically designed::2.0
+relationship can be described::2.0
+levels of environment-embedded readers::2.0
+two-step approach to localise::2.0
+conveniently move the mobile::2.0
+accurate localization of rfid::2.0
+four proximate equally sensitive::2.0
+tag impacts the tags::2.0
+tags results in equally::2.0
+system sidesteps these complicated::2.0
+precise localisation requires slower::2.0
+localisation error-reducing heuristic computes::2.0
+world with pervasive networks::2.0
+reader and a tag::2.0
+presents the implementation details::2.0
+amount of experimental errors::2.0
+minimum power reader selection::2.0
+section outlines some key::2.0
+object localization using rfid::2.0
+encountered by an object::2.0
+readers ability to detect::2.0
+level constant::2.0
+experimentation is not wasted::2.0
+leads to efficient localisation::2.0
+affects tag and reader::2.0
+favourably with previous methods::2.0
+telemedicine journal::2.0
+determine which algorithm combinations::2.0
+operate in a serial::2.0
+ostensibly identical commercial tags::2.0
+plastic material to radio::2.0
+idtronic voltaire::2.0
+observed power-distance relationship 6.2.2::2.0
+impacts the tag detection::2.0
+orthogonal orientations yield higher::2.0
+section presents the implementation::2.0
+separately the time required::2.0
+research positions at samsung::2.0
+mindstorms hp ipaq hx2490::2.0
+sources in a wireless::2.0
+connected to an idtronic::2.0
+localisation ; localisation algorithms::2.0
+tag has low read::2.0
+tags into three sensitivity::2.0
+highly limited by issues::2.0
+determine their empirical power-distance::2.0
+severely degrading the utility::2.0
+resulting in more consistent::2.0
+distance between the reference::2.0
+described in more detail::2.0
+lobes used to detect::2.0
+rfid testbed mobile platforms::2.0
+rapid determination of earthquake::2.0
+power powerstep end end::2.0
+calibrated average-sensitive tags results::2.0
+fine-tuning of our methodology::2.0
+robins department of computer::2.0
+step vs localisation accuracy::2.0
+siam outstanding paper prize::2.0
+difference of the reader::2.0
+orientation impacts the tag::2.0
+positioning ; object localisation::2.0
+intersection of these maps::2.0
+multi-tag platform per mobile::2.0
+developed in the future::2.0
+low sensitivities become invisible::2.0
+return notfound end table::2.0
+sensitivity for the entire::2.0
+step powerstep power varying::2.0
+section describes several key::2.0
+yield the smallest localisation::2.0
+tags having known sensitivities::2.0
+localise a single target::2.0
+idtronic voltaire portable rfid::2.0
+identifying the onboard multi-tag::2.0
+5.2.2 tag localisation algorithm::2.0
+tags using phase difference::2.0
+affects the localisation error::2.0
+set-up and implementation details::2.0
+complexity of localisation algorithms::2.0
+radio wave lobes rfid::2.0
+figures 12a and 12b::2.0
+variability in detection sensitivities::2.0
+accuracy of the proposed::2.0
+highly accurate minimum tag::2.0
+naturally adapts and automatically::2.0
+consisting of four proximate::2.0
+user interface to visualise::2.0
+platform across such variables::2.0
+first localisation algorithm linearly::2.0
+research society of india::2.0
+radios coupled with accurately::2.0
+constructed using lego bricks::2.0
+techniques also heavily utilise::2.0
+correlating a complex geometry::2.0
+tags can be determined::2.0
+workstation with the onboard::2.0
+technique based::2.0
+confirm its general applicability::2.0
+return tagpower end end::2.0
+insights and lessons learned::2.0
+set-up and the localisation::2.0
+ubiquitous computing have necessitated::2.0
+brand-new batch of tags::2.0
+unknown tag::2.0
+infer the target tags::2.0
+algorithm reports a lower::2.0
+spatial and horizontal planar::2.0
+proximity to known reference::2.0
+complex geometry with precise::2.0
+tracking of passive rfid::2.0
+illuminated environment and objects::2.0
+eliminate in the first::2.0
+classified as highly sensitive::2.0
+determined that the range::2.0
+mega-utilities drive invisible technologies::2.0
+approaches can be combined::2.0
+factors on localisation accuracy::2.0
+vire active rfid-based localization::2.0
+start at a mid-value::2.0
+key factors that impact::2.0
+parameter powerstep::2.0
+discuss this sensitivity analysis::2.0
+utilised the linear search::2.0
+platform per mobile robot::2.0
+location sensing using active::2.0
+positions of rfid readers::2.0
+characterisation of the sensitivities::2.0
+search the first localisation::2.0
+parallel search algorithm sweeps::2.0
+uncover startling and unexpected::2.0
+multiple readers to localise::2.0
+illustrates the minimum detection::2.0
+first technique::2.0
+implicitly determines the read-range::2.0
+chosen between localisation accuracy::2.0
+four-way multi-tag platforms consisting::2.0
+kirti @ virginia.edu email::2.0
+propose a mobile object::2.0
+skewing the observed empirical::2.0
+ensured that the four-way::2.0
+improve the object localisation::2.0
+voltaire cf readers linear::2.0
+personal and ubiquitous computing::2.0
+physical world with pervasive::2.0
+run time is independent::2.0
+passive rfid tags based::2.0
+meta-heuristic computes the minimum::2.0
+comparing the prior-stored empirical::2.0
+huge variance in sensitivity::2.0
+connected to four antennas::2.0
+vary at different power::2.0
+ieee transactions on industrial::2.0
+required to detect tags::2.0
+tag detection for localization::2.0
+factors such as radio::2.0
+reference tag reference tag::2.0
+approach for localising objects::2.0
+search measure and report::2.0
+reliance on line-of-sight techniques::2.0
+variations in tag sensitivities::2.0
+finds the minimum tag::2.0
+received from the reference::2.0
+opposed to random arrangements::2.0
+rfid technology is sufficient::2.0
+localisation challenges and developed::2.0
+level increment::2.0
+localisation tag localisation notes::2.0
+experiments show that combining::2.0
+located onboard the objects::2.0
+locations of target objects::2.0
+distance from that reader::2.0
+empirically determining the power-distance::2.0
+proximity maps are generated::2.0
+yields an average localisation::2.0
+methodology for empirically determining::2.0
+transparency of their plastic::2.0
+algorithms we now describe::2.0
+6.2.1 the empirical power-distance::2.0
+reference multi-tags and determine::2.0
+scope of this work::2.0
+utilise non-rfid based components::2.0
+passive uhf::2.0
+tag density vs localisation::2.0
+approach imposes line-of-sight constraints::2.0
+experiments indicate that horizontal::2.0
+induced by the geometric::2.0
+location of the target::2.0
+number of reader power::2.0
+room volume reference tags::2.0
+selected topics in mobile::2.0
+approach is equally applicable::2.0
+ieee international conference intelligent::2.0
+varying direction powerdirection output::2.0
+embedded in the environment::2.0
+remaining tags were considered::2.0
+target objects by comparing::2.0
+rfid-based 3-d positioning schemes::2.0
+based on direction estimation::2.0
+parallel search localisation approach::2.0
+due to the computational::2.0
+search algorithm in low-tohigh::2.0
+previous algorithms localise tags::2.0
+invisible at shorter distances::2.0
+localisation framework to improve::2.0
+14a illustrates the minimum::2.0
+propose a two-step approach::2.0
+probability of the reference::2.0
+mobile objects can move::2.0
+transmit the tag ids::2.0
+antennas at different orientations::2.0
+detection sensitivity of tags::2.0
+discussed the parameter powerstep::2.0
+returns the minimum tag::2.0
+depicted in figure 14b::2.0
+link component cpu ram::2.0
+root of the sum::2.0
+readers attached to mobile::2.0
+localisation algorithms ; power-distance::2.0
+heuristics the above error-reducing::2.0
+linear search algorithm operates::2.0
+triangular tag arrangement scheme::2.0
+technique we measured separately::2.0
+pre-processing step of sorting::2.0
+due to varying environmental::2.0
+localise the onboard tag::2.0
+principles of the proposed::2.0
+herculean efforts in order::2.0
+expert witness in major::2.0
+region where the onboard::2.0
+scenarios the proposed object::2.0
+vary the power level::2.0
+backend workstation::2.0
+operates in a serial::2.0
+accuracy in the minimum::2.0
+adversely affect the performance::2.0
+presence of virtual tags::2.0
+kit pda wireless details::2.0
+tending to further diminish::2.0
+wireless details amd athlon::2.0
+onboard vision sensor requires::2.0
+object localisation framework considers::2.0
+antenna rfid multi-tag platform::2.0
+abundance of caution philosophy::2.0
+size of the test::2.0
+serves as a feedback::2.0
+full faraday cycle analysis::2.0
+ideal power-distance::2.0
+experimental results we divide::2.0
+sum square absolute difference::2.0
+simplifying the onboard components::2.0
+positions of target mobile::2.0
+algorithms trade off localisation::2.0
+read-range of the onboard::2.0
+reduce adverse effects due::2.0
+offline pre-processing qualitycontrol check::2.0
+adapts and automatically calibrates::2.0
+tag orientation issues degrade::2.0
+effects of multi-path scattering::2.0
+step in our object::2.0
+techniques is to identify::2.0
+conference on parallel processing::2.0
+positions of rfid tags::2.0
+mounted on a vertical::2.0
+requirements and trade-offs including::2.0
+detection power level tagpower::2.0
+made from the average::2.0
+highly accurate tag detection::2.0
+localisation approach closely approximates::2.0
+error heuristics localisation errors::2.0
+mobile robots using rfid::2.0
+impact of the reference::2.0
+requires determining the positions::2.0
+approach to existing methods::2.0
+radio wave at first::2.0
+signal from an onboard::2.0
+algorithm time complexity measure::2.0
+arrangement scheme to minimise::2.0
+complicated issues by ignoring::2.0
+performed in an indoor::2.0
+localization mechanism using active::2.0
+wireless and mobile computing::2.0
+proposed technique::2.0
+experiment with different combinations::2.0
+localization with rfid technology::2.0
+set of unique tags::2.0
+absolute difference this localisation::2.0
+performed two extensive platform::2.0
+error-reducing heuristics can achieve::2.0
+tag bearing estimation technique::2.0
+previous approaches::2.0
+pda as a portal::2.0
+four way multi-tag platform::2.0
+arrangement of tags affects::2.0
+similar power and distance::2.0
+affect rfid-based localisation techniques::2.0
+ubiquitous computing applications depend::2.0
+tag sensitivity tag detection::2.0
+tags at unknown locations::2.0
+learned during the conceptualisation::2.0
+algorithm yields higher accuracy::2.0
+varying step powerstep power::2.0
+future research::2.0
+rfid system and propose::2.0
+epc gen2 passive tags::2.0
+process may be repeated::2.0
+relationship 6.2.2 localisation accuracy::2.0
+pure-rfid object localisation techniques::2.0
+additional number of rfid::2.0
+systematically mitigating this source::2.0
+error is by placing::2.0
+yielding an average localisation::2.0
+environment to gather tag::2.0
+direct empirical calibration measurements::2.0
+locating points of interests::2.0
+typical rfid::2.0
+high accuracy under ideal::2.0
+interaction between rfid readers::2.0
+propose practical mitigating solutions::2.0
+dbi gain impinj dogbone::2.0
+mechanism using active rfid::2.0
+end power::2.0
+reliably establishing and leveraging::2.0
+reader power level increment::2.0
+proposed approach::2.0
+system yields high accuracy::2.0
+affect the detection sensitivities::2.0
+applicable in different scenarios::2.0
+discovered that when multiple::2.0
+averaging and the simplex::2.0
+tag manufacturing::2.0
+count of constituent tags::2.0
+previous research works resort::2.0
+sensitivities of the tags::2.0
+responses of two tags::2.0
+algorithm provides highly accurate::2.0
+end when the minimum::2.0
+analysed how tag orientation::2.0
+relative approach by observing::2.0
+reader power is required::2.0
+consisting of four impinj::2.0
+outlines some key insights::2.0
+simulations indicate an average::2.0
+framework is the flexibility::2.0
+wave scattering and attenuation::2.0
+approach to localise mobile::2.0
+contradictory that a positioning::2.0
+national science foundation young::2.0
+uniform detection::2.0
+epc gen2::2.0
+serial manner of operation::2.0
+snapshots in densely tagged::2.0
+accurately and rapidly determines::2.0
+boards and technical programme::2.0
+power = minimum detection::2.0
+real-world factors that interfere::2.0
+parameter powerstep which specifies::2.0
+interface an rfid-based object::2.0
+orientations yield much higher::2.0
+resulting in a hodgepodge::2.0
+levels of rf receptivity::2.0
+orientations tends to improve::2.0
+location from the reader::2.0
+designed to localise mobile::2.0
+training data with real-time::2.0
+separate antennas to localise::2.0
+describe our proposed localisation::2.0
+independent of the number::2.0
+localisation and error minimisation::2.0
+concept of virtual tags::2.0
+robots using rfid tag::2.0
+desired level of accuracy::2.0
+acm transactions on computer-human::2.0
+object identification with passive::2.0
+characterised the tag sensitivities::2.0
+matching an onboard rfid::2.0
+virginia.edu *corresponding author abstract::2.0
+rssi values of virtual::2.0
+localisation approach can simultaneously::2.0
+ad-hoc and sometimes ineffectual::2.0
+discussed the ideal power-distance::2.0
+rfid-based approach for localising::2.0
+localisation accuracy in section::2.0
+levels of two orthogonally::2.0
+utility of a localisation::2.0
+api reader antenna tag::2.0
+pre-processing step::2.0
+levels using different power::2.0
+maxpowerlevel minpower::2.0
+environment has multiple readers::2.0
+multi-tags have superior detection::2.0
+individually calibrated average-sensitive tags::2.0
+present a mobile object::2.0
+power levels from high::2.0
+calibration experiment three times::2.0
+large number of onboard::2.0
+received at two separate::2.0
+robins reader localisation algorithm::2.0
+variations in average read::2.0
+square in the range::2.0
+proximity to a tag::2.0
+material to radio waves::2.0
+improves the localisation accuracy::2.0
+accuracy of the landmarc::2.0
+four-way multi-tag platform constructed::2.0
+fixed location::2.0
+achieve localisation for mobile::2.0
+technology from the indian::2.0
+contribute to our subsequent::2.0
+spatial arrangement::2.0
+experimental region at positions::2.0
+improving the localisation accuracy::2.0
+positioning of either stationary::2.0
+knowing the power levels::2.0
+multiple orthogonally oriented rfid::2.0
+constituent tags having matching::2.0
+idtronic voltaire cf readers::2.0
+difference of the signals::2.0
+wireless and pervasive computing::2.0
+vision and technical foundations::2.0
+arrival of tag responses::2.0
+gathered using multiple antennas::2.0
+successfully read a tag::2.0
+mitigating these basic principles::2.0
+errors of the algorithms::2.0
+level constant and varied::2.0
+minimise possible localisation errors::2.0
+tags and the readers::2.0
+ensure that only tags::2.0
+analysis tag manufacturing variability::2.0
+localisation speed will increase::2.0
+y-axis rfid antenna rfid::2.0
+capabilities that include real-time::2.0
+power level from highest::2.0
+localisation techniques are described::2.0
+object in a radio::2.0
+onboard reader operating range::2.0
+scattering and tag sensitivity::2.0
+conference on wireless algorithms::2.0
+arrangements of these reference::2.0
+reader for the first::2.0
+combined with more sophisticated::2.0
+tags and reader related::2.0
+level needed to successfully::2.0
+power = minpowerlevel repeat::2.0
+parallel search can determine::2.0
+powerstep power varying direction::2.0
+direction of reader power::2.0
+return power end power::2.0
+utilising only the interaction::2.0
+method yields localisation errors::2.0
+stationary and mobile target::2.0
+parallel search algorithm takes::2.0
+cost of high hardware::2.0
+accuracy we now describe::2.0
+search input::2.0
+localisation errors can occur::2.0
+visualisation we now compare::2.0
+signal strength and tag::2.0
+distances than their higher::2.0
+target tags are determined::2.0
+proportional to the cube::2.0
+onboard components while designing::2.0
+technique based on reference::2.0
+levels and distance combinations::2.0
+signal strengths and received::2.0
+transmitted and received signals::2.0
+proposed techniques to mitigate::2.0
+localisation approach utilises two::2.0
+reports a lower minimum::2.0
+algorithm iii::2.0
+rfid technology for localisation::2.0
+timestamp else return notfound::2.0
+impact of such factors::2.0
+positioning techniques are specifically::2.0
+detection region::2.0
+differences of the rssi-based::2.0
+rfid-based object localisation requires::2.0
+range of localisation error::2.0
+approach finds the minimum::2.0
+parameter on the minimum::2.0
+principles and carefully verified::2.0
+respect to neighbourhood active::2.0
+provide higher operational reliability::2.0
+two extensive platform calibration::2.0
+reader attenuates inversely proportional::2.0
+objects can move arbitrarily::2.0
+maximum possible localisation accuracy::2.0
+ideal power-distance relationship based::2.0
+levels of target tags::2.0
+student in the department::2.0
+tags with high read::2.0
+depicted in figures 12a::2.0
+made of lego bricks::2.0
+platform within the range::2.0
+lobes rfid antenna intersection::2.0
+due to the long::2.0
+reference tags and onboard::2.0
+filter-based technique to minimise::2.0
+international journal::2.0
+placement strategies tag orientation::2.0
+mobile robot localization scheme::2.0
+figure 2b shows orthogonal::2.0
+design we emphasised simplicity::2.0
+tags with real-time measurements::2.0
+orientation tag orientation significantly::2.0
+multi-tag platform the localisation::2.0
+detectable to a reader::2.0
+faster on the minimum::2.0
+vary the stationary reader::2.0
+iteration variables for neighbourhood::2.0
+complexity of each algorithm::2.0
+rfid snapshots in densely::2.0
+wide range of requirements::2.0
+utilise the phase difference::2.0
+utilising only rfid technology::2.0
+search algorithms::2.0
+parallel with actual localisation::2.0
+localisation accuracy we hypothesised::2.0
+higher localisation::2.0
+search algorithm in low-to-high::2.0
+robins in real-world scenarios::2.0
+utilise an onboard monocular::2.0
+based on reference tags::2.0
+ieee computer::2.0
+detection probabilities than parallel::2.0
+rfid equipment environment robots::2.0
+approach has two stages::2.0
+linear search the first::2.0
+research interests include algorithms::2.0
+technique by using reference::2.0
+lego mindstorms hp ipaq::2.0
+interference and rf occlusion::2.0
+tagidset check for tags::2.0
+two orthogonally positioned readers::2.0
+experiments use epc gen2::2.0
+sensitive tags that provide::2.0
+calibrates to unknown conditions::2.0
+report combined approach notes::2.0
+yield an average localisation::2.0
+resulting in an average::2.0
+propose that more tags::2.0
+lessons learned this section::2.0
+tags as overall average::2.0
+minimum power level required::2.0
+tags and readers increase::2.0
+calibrate the empirical power-distance::2.0
+sensor requires a sufficiently::2.0
+phd in computer science::2.0
+inherent position estimate errors::2.0
+approach is less applicable::2.0
+detection probabilities::2.0
+data confirms our hypothesis::2.0
+reader to the neighbourhood::2.0
+tags affects the localisation::2.0
+speed is heavily dependent::2.0
+search or binary search::2.0
+map and kalman filtering::2.0
+tags with low sensitivities::2.0
+approach with existing localisation::2.0
+call this algorithm linear::2.0
+placements of the reference::2.0
+levels of many tags::2.0
+selected all the reference::2.0
+return the tag detection::2.0
+relationship while the ideal::2.0
+prior-stored empirical powerdistance relationship::2.0
+localisation error per location::2.0
+stationary or a mobile::2.0
+detection of many tags::2.0
+binary search algorithms search::2.0
+object tracking::2.0
+calibration in this experiment::2.0
+fixed locations and tags::2.0
+due to various external::2.0
+tag protocol map area::2.0
+power varying direction powerdirection::2.0
+search and the binary::2.0
+combinations of these algorithms::2.0
+algorithms in the set-up::2.0
+comparative analysis and visualisation::2.0
+specifically targeting the positioning::2.0
+calculated using a linear::2.0
+localisation error and propose::2.0
+necessitated rfid-based object localisation::2.0
+fixed reader power level::2.0
+localisation accuracy and running::2.0
+applicable to other types::2.0
+statistical approach to localize::2.0
+heart of many emerging::2.0
+constructed four-way multi-tag platforms::2.0
+determine the localisation accuracy::2.0
+tag having the unique::2.0
+playing cards a ubiquitous::2.0
+reader localisation with respect::2.0
+federation of automatic control::2.0
+typically utilise reference tags::2.0
+advances in ubiquitous computing::2.0
+tags all have similar::2.0
+calibration experiment::2.0
+multi-tags and their advantages::2.0
+reference and the target::2.0
+mobile readers by measuring::2.0
+leveraged to achieve object::2.0
+environment by utilising ultrasonic::2.0
+reliably characterised by direct::2.0
+successful or time-out update::2.0
+localization scheme::2.0
+lies at the heart::2.0
+platforms was calibrated separately::2.0
+tag detection probabilities vary::2.0
+reference to this paper::2.0
+localisation accuracy is based::2.0
+level at the tags::2.0
+choice of lego components::2.0
+estimated through onboard reader::2.0
+limitations in the read-range::2.0
+tags were dead altogether::2.0
+6.2.3 localisation speed localisation::2.0
+indoor environment::2.0
+localisation approach has two::2.0
+passive uhf rfid system::2.0
+signals received at two::2.0
+proposed technique we measured::2.0
+systems using passive uhf::2.0
+considerably across a group::2.0
+greatly affect the experimental::2.0
+errors along with mitigating::2.0
+robot localization::2.0
+disc os pl api::2.0
+algorithmic design we emphasised::2.0
+power-distance relationships can ascertain::2.0
+comparable accuracy with higher::2.0
+u.s national science foundation::2.0
+uncertainties when inferring tag::2.0
+tags encountered during motion::2.0
+accuracy and running speed::2.0
+visualisation user::2.0
+non-rfid components::2.0
+editorial boards and technical::2.0
+5.1.1 single tag calibration::2.0
+yield the desired localisation::2.0
+orthogonal spatial and horizontal::2.0
+due to the cost::2.0
+area room volume reference::2.0
+omissions bring into question::2.0
+-based machine learning approach::2.0
+step-wise power incrementing approach::2.0
+algorithms and two orthogonally::2.0
+compare favourably with previous::2.0
+propose a laser range::2.0
+obtained batch of tags::2.0
+distances between the readers::2.0
+readers and the tags::2.0
+algorithm for a mobile::2.0
+multi-tag rfid::2.0
+takes the pragmatic approach::2.0
+gabriel robins is professor::2.0
+takes a pragmatic relative::2.0
+measure and report combined::2.0
+resulting in increased localisation::2.0
+probabilistic sensor model based::2.0
+approach consists of separate::2.0
+conference on advanced intelligent::2.0
+tend to compromise key::2.0
+operating in the low-to-high::2.0
+heuristics localisation errors occur::2.0
+implementation details::2.0
+yield the least tag::2.0
+incorporate new localisation algorithms::2.0
+object localisation that compare::2.0
+intersections of these detection::2.0
+2005b choi and lee::2.0
+mtech in information technology::2.0
+workstation rfid equipment environment::2.0
+depends on the number::2.0
+tag sensitivities can substantially::2.0
+evaluation showed that tag::2.0
+inherently not a pure::2.0
+localisation system that transmits::2.0
+principles in our framework::2.0
+estimating positions of stationary::2.0
+extensive platform calibration experiments::2.0
+degrade the detection probability::2.0
+neighbourhood active reference tags::2.0
+potential ambiguities and round::2.0
+localisation techniques with existing::2.0
+algorithm linear::2.0
+tag density::2.0
+challenges and developed practical::2.0
+sensitivities can substantially skew::2.0
+algorithms for rfid-based object::2.0
+application scenarios the proposed::2.0
+previous methods in terms::2.0
+accuracy at various points::2.0
+antenna reference tag reference::2.0
+precision is an important::2.0
+power-distance relationship 6.2.2 localisation::2.0
+power levels of environment-embedded::2.0
+counts among its peers::2.0
+propose using the direction::2.0
+applicable to other scenarios::2.0
+tags throughout the expected::2.0
+emitted by the readers::2.0
+localise the onboard multi-tag::2.0
+robot localisation technique based::2.0
+discovery of improved tag::2.0
+noted that the set-up::2.0
+planar orientations::2.0
+rfid readers and tags::2.0
+stationary or mobile objects::2.0
+environmental features to minimise::2.0
+methods also require cumbersome::2.0
+robot localization scheme based::2.0
+four-way multi-tag platform consisting::2.0
+tag per execution cycle::2.0
+minimum power level power::2.0
+occur in the first::2.0
+power in the radio::2.0
+relationship of the reference::2.0
+phase and the binary::2.0
+presents several localisation challenges::2.0
+describe our object localisation::2.0
+tagpower tagpower = maxpowerlevel::2.0
+faster overall run times::2.0
+proposed approach to confirm::2.0
+powerdistance relationship::2.0
+protocol map area room::2.0
+generates the probability map::2.0
+scenarios since the onboard::2.0
+foundations of ubiquitous computing::2.0
+errors in the position::2.0
+algorithms localise tags attached::2.0
+ranked as average sensitive::2.0
+lower minimum tag detection::2.0
+quantify single tag sensitivities::2.0
+depend on the ability::2.0
+found this linear search::2.0
+volume reference tags kit::2.0
+6.2.5 reference tag density::2.0
+wiley publishing inc vogt::2.0
+bearing estimation technique based::2.0
+framework considers these challenges::2.0
+tags and only depends::2.0
+localisation framework was designed::2.0
+practicality of such methods::2.0
+neighbours algorithm is utilised::2.0
+consistent and meaningful experimental::2.0
+localisation challenges as discussed::2.0
+power levels in powerset::2.0
+map for each reference::2.0
+international journal of internet::2.0
+tags in an exponentially::2.0
+precisely locating the position::2.0
+approaches during the set-up::2.0
+provide object localisation capabilities::2.0
+hardware functionality to achieve::2.0
+search strategy is analogous::2.0
+usual abundance of caution::2.0
+existing mobile object localisation::2.0
+contribute to an online::2.0
+labelled tags as low::2.0
+specifically designed to localise::2.0
+2007b seo and lee::2.0
+expense and long positioning::2.0
+heuristics for significantly improving::2.0
+points in the environment::2.0
+occlusions due to liquids::2.0
+international federation of automatic::2.0
+increase their transmission power::2.0
+algorithm addresses this limitation::2.0
+methodology can further improve::2.0
+finer-granularity power step size::2.0
+fundamental drawback that rfid::2.0
+count are called average::2.0
+determine the position estimates::2.0
+sensitive using read measurements::2.0
+optimal minimum detection power::2.0
+shows a 3d object::2.0
+startling and unexpected facts::2.0
+techniques to localise target::2.0
+combining individually calibrated average-sensitive::2.0
+unknown conditions and unexpected::2.0
+capability that yields performance::2.0
+previous works are surprisingly::2.0
+computing have necessitated rfid-based::2.0
+future work we proposed::2.0
+longer overall running times::2.0
+leading journals and conferences::2.0
+key factors::2.0
+reduce the overall complexity::2.0
+robots along predetermined paths::2.0
+comparison of proposed rfid-based::2.0
+localisation phase in order::2.0
+international workshop on selected::2.0
+minimum detection::2.0
+techniques have inherent position::2.0
+minimum and maximum power::2.0
+tag using the minimum::2.0
+applications in contactless smart::2.0
+localisation techniques have inherent::2.0
+small enough in size::2.0
+reduce the localisation error::2.0
+rfid tags and readers::2.0
+minimise the average localisation::2.0
+describe our experimental results::2.0
+stage uses ultrasonic sensors::2.0
+mobile object localisation system::2.0
+determining the average read::2.0
+higher accuracy and speed::2.0
+attached to the objects::2.0
+experimental set-up type backend::2.0
+linear search and binary::2.0
+call it low sensitive::2.0
+distance between the readers::2.0
+objects have been proposed::2.0
+experimental evaluation this section::2.0
+research can also strive::2.0
+show that combining individually::2.0
+regions covered by fewer::2.0
+objects as a key::2.0
+components in an ad-hoc::2.0
+utility of these methods::2.0
+increase the tags sensitivity::2.0
+robot platform and track::2.0
+challenges that could induce::2.0
+evaluation this section presents::2.0
+yield much higher detection::2.0
+powerstep end else power::2.0
+inherent power level estimation::2.0
+make use of software-defined::2.0
+vision for mobile robot::2.0
+accuracy under ideal conditions::2.0
+tag id tagid output::2.0
+end return powerset note::2.0
+tags poses a unique::2.0
+tags l = iteration::2.0
+virtual tags::2.0
+errors can occur due::2.0
+behaviour from the tags::2.0
+localization of rfid tags::2.0
+affect the experimental outcomes::2.0
+localization using virtual reference::2.0
+conditions and unexpected effects::2.0
+localisation techniques for stationary::2.0
+tags can significantly affect::2.0
+phase is an offline::2.0
+rfid ; rfid-based positioning::2.0
+binary search algorithm searches::2.0
+mode reports the lowest::2.0
+received at the tag::2.0
+linearly increments the reader::2.0
+times can severely limit::2.0
+variables as tag rotation::2.0
+reader and reference tags::2.0
+enabled the quick identification::2.0
+technologies such as ultrasonic::2.0
+tag bearing::2.0
+approach to existing stationary::2.0
+step powerstep::2.0
+as-is in their experiments::2.0
+detected at different reader::2.0
+performed two::2.0
+sensor networks and information::2.0
+committees of several leading::2.0
+technology such as lasers::2.0
+international conference on sensor::2.0
+problem of localising stationary::2.0
+minimum reader power level::2.0
+return minpower end power::2.0
+position estimates can occur::2.0
+related work recent advances::2.0
+power-distance relationship in section::2.0
+number of rfid read::2.0
+object identification::2.0
+advantages over ordinary tags::2.0
+onboard link component cpu::2.0
+accuracy with higher localisation::2.0
+onboard readers::2.0
+onboard reader and reference::2.0
+tag rotation and reader::2.0
+approach using reference tags::2.0
+reference tags can significantly::2.0
+science foundation through grant::2.0
+impinj dogbone::2.0
+power levels of target::2.0
+characterised by the minimum::2.0
+ensure uniform::2.0
+due to their serial::2.0
+errors on other fronts::2.0
+algorithm uses readers located::2.0
+levels of a tag::2.0
+min 5.3.2 error heuristic::2.0
+tags that provide higher::2.0
+localisation framework in section::2.0
+target objects::2.0
+order to detect tags::2.0
+power powerstep end return::2.0
+5.2.4 reader localisation algorithm::2.0
+levels required::2.0
+works are surprisingly oblivious::2.0
+intersection of the average::2.0
+spatiality rfid-based object localisation::2.0
+implementation of the proposed::2.0
+international journal of antennas::2.0
+controlling the experimental testbed::2.0
+level resolution for binary::2.0
+errors and our proposed::2.0
+automatically calibrates to unknown::2.0
+position of an object::2.0
+effects due to interferences::2.0
+frameworks for ubiquitous computing::2.0
+engineering and research positions::2.0
+improve the tag position::2.0
+propagation in uhf rfid::2.0
+heuristic power = minimum::2.0
+principle with the proposed::2.0
+discuss the experimental evaluation::2.0
+tagidset to maxpowerlevel power::2.0
+serial manner::2.0
+update in powerset power::2.0
+challenge in reliably establishing::2.0
+techniques with existing methods::2.0
+localisation method::2.0
+practical use in typical::2.0
+prabhu goel research centre::2.0
+achieve the required parallelism::2.0
+call this algorithm measure::2.0
+rfid measurements to yield::2.0
+propose four::2.0
+readers at fixed locations::2.0
+tag sensitivity analysis tag::2.0
+require capabilities that include::2.0
+distance ranges was comparatively::2.0
+platforms used as reference::2.0
+computer science from ucla::2.0
+portal to knowledge sources::2.0
+chips high impedance state::2.0
+level for a tag::2.0
+read counts as high::2.0
+reader selection this error-reducing::2.0
+reports the lowest minimum::2.0
+min min 5.3.2 error::2.0
+tagid and current date-time::2.0
+describes related research work::2.0
+enhanced with additional low-cost::2.0
+maxpowerlevel minpower = maxpowerlevel::2.0
+versatility of lego bricks::2.0
+onboard a mobile robot::2.0
+detection sensitivity is characterised::2.0
+induced by the intersection::2.0
+accuracy can be enhanced::2.0
+end end we control::2.0
+low-to-high mode::2.0
+techniques use off-the-shelf tags::2.0
+propose placing active reference::2.0
+approach using passive tags::2.0
+localisation accuracy was achieved::2.0
+algorithm is the fastest::2.0
+ensure uniform detection sensitivity::2.0
+ultrasonic sensors for local::2.0
+object localisation requires determining::2.0
+systems for ubiquitous computing::2.0
+horizontal planar orientations increase::2.0
+tags in orthogonal spatial::2.0
+localisation errors rfid antenna::2.0
+reliable rfid-based localisation framework::2.0
+onboard multi-tag::2.0
+experimental set-up we evaluated::2.0
+two such possible heuristic::2.0
+factors that impact effective::2.0
+localisation approach using reference::2.0
+illustration given in figure::2.0
+minpowerlevel = power end::2.0
+errors at the sources::2.0
+four antennas emitting radio::2.0
+conference on sensor networks::2.0
+region for the tags::2.0
+key aspect::2.0
+readers perform such readings::2.0
+ultrasonic sensors in combination::2.0
+tags have been determined::2.0
+chawla* and gabriel robins::2.0
+outlined several localisation challenges::2.0
+control tools we designed::2.0
+based on the readers::2.0
+localization for pervasive multimedia::2.0
+networks and information processing::2.0
+journal on wireless networks::2.0
+sampled clocks to implement::2.0
+major intellectual property litigations::2.0
+sensitivity tag detection sensitivity::2.0
+issue that the rfid::2.0
+input parameter::2.0
+localisation framework is efficient::2.0
+utilising only rfid-based technology::2.0
+search the linear search::2.0
+level power::2.0
+scalable and reliable rfid-based::2.0
+dogbone monza::2.0
+tags based on direction::2.0
+case for multi-tag rfid::2.0
+learn a map comprised::2.0
+localisation algorithm time complexity::2.0
+combination of power levels::2.0
+powerset for all detected::2.0
+power else return minpower::2.0
+proximity to the locations::2.0
+techniques can be broadly::2.0
+tags ranked as average::2.0
+hardware expense and long::2.0
+tagidset with no power::2.0
+heavily utilise non-rfid based::2.0
+reference and onboard tags::2.0
+localisation for mobile objects::2.0
+approach can yield higher::2.0
+determining minimum tag detection::2.0
+backend workstation rfid equipment::2.0
+orientations increase the tags::2.0
+counts of each tag::2.0
+localisation operations to accommodate::2.0
+visualisation and control tools::2.0
+sensitivity analysis in greater::2.0
+illustrates a shared region::2.0
+mobile robot is estimated::2.0
+heuristic computes the square::2.0
+distance is computed based::2.0
+science foundation young investigator::2.0
+orientation and placement strategies::2.0
+level required to detect::2.0
+result in localisation errors::2.0
+learning approach to self-localization::2.0
+uniformly sensitive four-way multi-tags::2.0
+efficient rfid-based mobile object::2.0
+power levels and distances::2.0
+proposed parallel search algorithm::2.0
+tags having matching orientations::2.0
+uhf rfid::2.0
+depicts this proposed binary::2.0
+power + powerstep end::2.0
+consists of separate techniques::2.0
+shape of the radio::2.0
+publications and three patents::2.0
+indian institute of technology::2.0
+variables for neighbourhood tags::2.0
+geometry with precise levels::2.0
+interest can also reduce::2.0
+consults as an expert::2.0
+minor variations in average::2.0
+object localisation ; localisation::2.0
+robins @ virginia.edu *corresponding::2.0
+algorithm in low-to-high mode::2.0
+error to a range::2.0
+observing and comparing behaviours::2.0
+issues such as environmental::2.0
+ipaq hx2490 bluetooth dongle::2.0
+accurate tag detection power::2.0
+compared the proposed localisation::2.0
+yield even higher accuracy::2.0
+unique tags tagidset power::2.0
+ignore this critical issue::2.0
+running the linear search::2.0
+enables the simultaneous localisation::2.0
+number of onboard components::2.0
+matching orientations with respect::2.0
+algorithm identifies key environmental::2.0
+technology can be leveraged::2.0
+trade-offs can be chosen::2.0
+antenna intersection region radio::2.0
+required to estimate minimum::2.0
+approach and the key::2.0
+described in following sub-sections::2.0
+learned this section outlines::2.0
+objects with the onboard::2.0
+combined with an rfid::2.0
+tags at known positions::2.0
+international symposium on industrial::2.0
+experiments to quantify single::2.0
+localisation approach with existing::2.0
+tags may be found::2.0
+obtaining good localisation accuracy::2.0
+localisation in an inexpensive::2.0
+self-localization with rfid snapshots::2.0
+estimated with increasing accuracy::2.0
+rfid tag bearing estimation::2.0
+require cumbersome non-rfid technologies::2.0
+platforms consisting of four::2.0
+previous approaches is hindered::2.0
+mapping can help reduce::2.0
+sound scientific method principles::2.0
+opaque to rf signals::2.0
+broadly classified as reader::2.0
+tradeoffs between localisation accuracy::2.0
+rfid reader is coarsely::2.0
+tag m = number::2.0
+professor of computer science::2.0
+include a packard foundation::2.0
+outcomes of these two::2.0
+sources where they arise::2.0
+regions with low localisation::2.0
+object localisation techniques typically::2.0
+proposed localisation approach utilises::2.0
+problem as a nonlinear::2.0
+position of the mobile::2.0
+tag and reader interaction::2.0
+levels over a set::2.0
+intelligent robots and systems::2.0
+tag orientation significantly affects::2.0
+tagpower = power end::2.0
+feature of the proposed::2.0
+kirti chawla::2.0
+detectabilities have not changed::2.0
+journal of internet protocol::2.0
+5.3.3 error heuristic iii::2.0
+interface contains five key::2.0
+localising stationary and mobile::2.0
+resolution minimum tag detection::2.0
+transmission power until responses::2.0
+research efforts specifically targeting::2.0
+estimate minimum tag detection::2.0
+present a mobile robot::2.0
+tend to be opaque::2.0
+localisation have somewhat bounded::2.0
+technical foundations of ubiquitous::2.0
+power levels are incremented::2.0
+5.2.1 tag localisation algorithm::2.0
+sum of the squares::2.0
+distance between them constant::2.0
+ability to locate objects::2.0
+focus on pure-rfid object::2.0
+impacts the tags localisation::2.0
+level within the range::2.0
+tagfound = false repeat::2.0
+equipment itself can introduce::2.0
+variability in tag sensitivities::2.0
+smart cards and identification::2.0
+tag sensitivity varied considerably::2.0
+detection sensitivities over ordinary::2.0
+detect tags::2.0
+describes the runtime complexity::2.0
+nearer to the objects::2.0
+algorithm in the set-up::2.0
+considered to be low::2.0
+run times can severely::2.0
+power step size increment::2.0
+antennas emitting radio waves::2.0
+stationary reader power levels::2.0
+techniques typically utilise reference::2.0
+localisation phases can achieve::2.0
+bearing estimation for mobile::2.0
+accuracy of the experimental::2.0
+identification with passive rfid::2.0
+attached to mobile objects::2.0
+error heuristics yielding effective::2.0
+proposed rfid-based object localisation::2.0
+tend to be farther::2.0
+object with multiple orthogonally::2.0
+radio wave lobe emitted::2.0
+key insights and lessons::2.0
+ordinary single tags::1.58496250072
+repeat till power::1.58496250072
+tag localisation notes::1.58496250072
+particle filter-based technique::1.58496250072
+terms of accuracy::1.58496250072
+scenarios the proposed::1.58496250072
+portal to knowledge::1.58496250072
+tag detection probability::1.58496250072
+onboard bluetooth link::1.58496250072
+tag sensitivity varied::1.58496250072
+errors rfid antenna::1.58496250072
+approach by observing::1.58496250072
+antenna tag protocol::1.58496250072
+multi-tags performed uniformly::1.58496250072
+mobile reader moves::1.58496250072
+discuss this sensitivity::1.58496250072
+varying detection sensitivities::1.58496250072
+upgradethe european online::1.58496250072
+real-time measurements obtained::1.58496250072
+localisation algorithm linearly::1.58496250072
+power until responses::1.58496250072
+motion and transmit::1.58496250072
+axis is depicted::1.58496250072
+technology for localisation::1.58496250072
+dbi gain impinj::1.58496250072
+calibrate the empirical::1.58496250072
+yield even higher::1.58496250072
+research works resort::1.58496250072
+clocks to implement::1.58496250072
+maximum localisation error::1.58496250072
+uniformly sensitive tags::1.58496250072
+sensitivities by varying::1.58496250072
+region at positions::1.58496250072
+research efforts specifically::1.58496250072
+error in position::1.58496250072
+flexibility to incorporate::1.58496250072
+level from lowest::1.58496250072
+analysed the sensitivity::1.58496250072
+calibrates to unknown::1.58496250072
+ability to detect::1.58496250072
+approach to self-localization::1.58496250072
+times can severely::1.58496250072
+techniques have inherent::1.58496250072
+multi-tag platform constructed::1.58496250072
+error heuristics yielding::1.58496250072
+utilising multiple tags::1.58496250072
+journals and conferences::1.58496250072
+receptivity is difficult::1.58496250072
+5.3.1 error heuristic::1.58496250072
+control world congress::1.58496250072
+ignore this critical::1.58496250072
+performed two experiments::1.58496250072
+experiments were performed::1.58496250072
+difference this localisation::1.58496250072
+designed a graphical::1.58496250072
+localised in order::1.58496250072
+witness in major::1.58496250072
+number of readers::1.58496250072
+computing have necessitated::1.58496250072
+connecting the physical::1.58496250072
+reader locality theoretically::1.58496250072
+tag orientation impacts::1.58496250072
+return tagpower end::1.58496250072
+main design parameters::1.58496250072
+set of calibrated::1.58496250072
+support vector machine::1.58496250072
+highly accurate tag::1.58496250072
+inherent power level::1.58496250072
+tag detection sensitivity::1.58496250072
+full faraday cycle::1.58496250072
+online post-processing step::1.58496250072
+ipaq hx2490 pocket::1.58496250072
+rfid and sensor::1.58496250072
+tag reference tag::1.58496250072
+varied the number::1.58496250072
+accuracy for speed::1.58496250072
+localisation approach closely::1.58496250072
+specifies the power::1.58496250072
+object localisation approach::1.58496250072
+computed the average::1.58496250072
+determine which algorithm::1.58496250072
+outstanding paper prize::1.58496250072
+consistent and meaningful::1.58496250072
+idtronic voltaire portable::1.58496250072
+utilise reference tags::1.58496250072
+pseudo-code in figure::1.58496250072
+tags whose detectabilities::1.58496250072
+reduce the localisation::1.58496250072
+respective antenna gains::1.58496250072
+figure 14a illustrates::1.58496250072
+peripheral regions covered::1.58496250072
+sensitivity analysis tag::1.58496250072
+mobile target tags::1.58496250072
+wave lobes rfid::1.58496250072
+localisation algorithms localisation::1.58496250072
+chosen between localisation::1.58496250072
+sensitive four-way multi-tags::1.58496250072
+low localisation accuracy::1.58496250072
+power level estimation::1.58496250072
+5.1.2 multi-tag calibration::1.58496250072
+onboard rfid tag::1.58496250072
+levels in powerset::1.58496250072
+algorithm time complexity::1.58496250072
+study the characteristics::1.58496250072
+direction of reader::1.58496250072
+locations of target::1.58496250072
+sensitivity varied considerably::1.58496250072
+variability in tag::1.58496250072
+tag antenna gain::1.58496250072
+power level resolution::1.58496250072
+improve the object::1.58496250072
+establish the empirical::1.58496250072
+algorithm linear search::1.58496250072
+limitations by developing::1.58496250072
+graphically and analytically::1.58496250072
+rf-based approaches utilising::1.58496250072
+accomplished by determining::1.58496250072
+average localisation accuracy::1.58496250072
+binary search-based approach::1.58496250072
+ranked as average::1.58496250072
+rfid localisation strategy::1.58496250072
+correlating a complex::1.58496250072
+2008b linear search::1.58496250072
+tag becomes detectable::1.58496250072
+methodology for empirically::1.58496250072
+approach with existing::1.58496250072
+reader are calculated::1.58496250072
+experiments to quantify::1.58496250072
+input parameter tagid::1.58496250072
+minimise the average::1.58496250072
+prior-obtained training data::1.58496250072
+power-distance relationship 6.2.2::1.58496250072
+tagpower > power::1.58496250072
+uniform detection sensitivities::1.58496250072
+yield an average::1.58496250072
+robots along predetermined::1.58496250072
+first localisation algorithm::1.58496250072
+strategies tag orientation::1.58496250072
+yields higher accuracy::1.58496250072
+scientific method principles::1.58496250072
+compares the detection::1.58496250072
+previous algorithms localise::1.58496250072
+island of kos::1.58496250072
+system yields high::1.58496250072
+estimation for mobile::1.58496250072
+rfid-based localisation framework::1.58496250072
+capabilities that include::1.58496250072
+levels powerset set::1.58496250072
+presence of virtual::1.58496250072
+list of tuples::1.58496250072
+designing the localisation::1.58496250072
+visualise the operation::1.58496250072
+affect rfid-based localisation::1.58496250072
+calibrated average-sensitive tags::1.58496250072
+surface acoustic waves::1.58496250072
+yields localisation errors::1.58496250072
+leveraged to achieve::1.58496250072
+army science board::1.58496250072
+leading to localisation::1.58496250072
+read a tag::1.58496250072
+key environmental features::1.58496250072
+levels of two::1.58496250072
+smart identification frameworks::1.58496250072
+entire multi-tag platform::1.58496250072
+occlusions and variability::1.58496250072
+four proximate equally::1.58496250072
+6.2.2 localisation accuracy::1.58496250072
+illustrates the minimum::1.58496250072
+goel research centre::1.58496250072
+discovery of improved::1.58496250072
+wireless details amd::1.58496250072
+needed to successfully::1.58496250072
+systems and applications::1.58496250072
+error per location::1.58496250072
+low is typically::1.58496250072
+expect to find::1.58496250072
+inexpensive and reliable::1.58496250072
+waves power-distance relationship::1.58496250072
+discussed the ideal::1.58496250072
+counts are labelled::1.58496250072
+platform and track::1.58496250072
+key performance parameters::1.58496250072
+circuits and systems::1.58496250072
+localisation ; localisation::1.58496250072
+speed is heavily::1.58496250072
+current date-time timestamp::1.58496250072
+tags in orthogonal::1.58496250072
+orientations with respect::1.58496250072
+reference tags embedded::1.58496250072
+off-the-shelf tags as-is::1.58496250072
+target mobile readers::1.58496250072
+infer the target::1.58496250072
+material to radio::1.58496250072
+mobile robot localisation::1.58496250072
+combined to yield::1.58496250072
+algorithm combinations yield::1.58496250072
+discuss these errors::1.58496250072
+sensing using active::1.58496250072
+tag arrangement scheme::1.58496250072
+indoor localisation problem::1.58496250072
+uniformly with respect::1.58496250072
+ad-hoc interfering factors::1.58496250072
+local position estimates::1.58496250072
+future in ubiquitous::1.58496250072
+reader localisation tag::1.58496250072
+fundamentals and applications::1.58496250072
+inherent position estimate::1.58496250072
+antennas to localise::1.58496250072
+accuracy and efficiency::1.58496250072
+single tag calibration::1.58496250072
+rfid-based mobile object::1.58496250072
+wave lobe emitted::1.58496250072
+foundation through grant::1.58496250072
+binary search input::1.58496250072
+pre-processing qualitycontrol check::1.58496250072
+placing more densely::1.58496250072
+applications require capabilities::1.58496250072
+analysed the impact::1.58496250072
+determining the positions::1.58496250072
+tags have reached::1.58496250072
+smallest localisation errors::1.58496250072
+phd in computer::1.58496250072
+utilise the phase::1.58496250072
+system to varying::1.58496250072
+precise localisation requires::1.58496250072
+commercial rfid equipment::1.58496250072
+conceptual explanatory tool::1.58496250072
+gen2 passive tags::1.58496250072
+geometry with precise::1.58496250072
+propose a mobile::1.58496250072
+efforts specifically targeting::1.58496250072
+chawla* and gabriel::1.58496250072
+member of ieee::1.58496250072
+root sum square::1.58496250072
+institute of technology::1.58496250072
+neighbourhood passive reference::1.58496250072
+determine the localisation::1.58496250072
+neighbourhood active reference::1.58496250072
+improving the localisation::1.58496250072
+protocol map area::1.58496250072
+return powerset note::1.58496250072
+astationary localisation technique::1.58496250072
+hypothesised that increasing::1.58496250072
+rfid we address::1.58496250072
+enhanced with additional::1.58496250072
+increases the localisation::1.58496250072
+power = minpowerlevel::1.58496250072
+algorithms and two::1.58496250072
+shows orthogonal planar::1.58496250072
+first detection event::1.58496250072
+object localisation requires::1.58496250072
+y-axis rfid antenna::1.58496250072
+tag positioning scheme::1.58496250072
+tags at position::1.58496250072
+efficient localisation techniques::1.58496250072
+min 5.3.2 error::1.58496250072
+scalable and reliable::1.58496250072
+lego mindstorms kits::1.58496250072
+sufficiently illuminated environment::1.58496250072
+comparison of proposed::1.58496250072
+density function generates::1.58496250072
+robot is estimated::1.58496250072
+running the linear::1.58496250072
+false repeat power::1.58496250072
+utilising near-field propagation::1.58496250072
+techniques and propose::1.58496250072
+search localisation approach::1.58496250072
+minpower = power::1.58496250072
+include a packard::1.58496250072
+onboard link component::1.58496250072
+power levels obtained::1.58496250072
+takes a pragmatic::1.58496250072
+approach is relativised::1.58496250072
+robot localization scheme::1.58496250072
+limited by issues::1.58496250072
+level by checking::1.58496250072
+bmobile localisation technique::1.58496250072
+speed will increase::1.58496250072
+key to automating::1.58496250072
+mechanism using active::1.58496250072
+figure 2b shows::1.58496250072
+onboard a mobile::1.58496250072
+uniform detection sensitivity::1.58496250072
+locomotion speed limitations::1.58496250072
+two extensive platform::1.58496250072
+drawback that rfid::1.58496250072
+readers at fixed::1.58496250072
+scheme to minimise::1.58496250072
+describe our experimental::1.58496250072
+step size increment::1.58496250072
+rfid and sonar::1.58496250072
+high localisation errors::1.58496250072
+proposed localisation approaches::1.58496250072
+resulting in faster::1.58496250072
+increments the reader::1.58496250072
+orthogonally oriented rfid::1.58496250072
+challenges and mitigating::1.58496250072
+lower minimum tag::1.58496250072
+approach imposes line-of-sight::1.58496250072
+determining which tags::1.58496250072
+minimum this error-reducing::1.58496250072
+type backend workstation::1.58496250072
+occur by identifying::1.58496250072
+topics in mobile::1.58496250072
+robins in real-world::1.58496250072
+expense and long::1.58496250072
+framework to improve::1.58496250072
+estimated through onboard::1.58496250072
+impact effective detection::1.58496250072
+return minpower end::1.58496250072
+error-reducing meta-heuristic computes::1.58496250072
+developing a scalable::1.58496250072
+objects by knowing::1.58496250072
+range of requirements::1.58496250072
+tags were labelled::1.58496250072
+affect the performance::1.58496250072
+single read phase::1.58496250072
+propose to improve::1.58496250072
+tags with real-time::1.58496250072
+work we proposed::1.58496250072
+mapping and localization::1.58496250072
+object localisation environment::1.58496250072
+search or binary::1.58496250072
+power level required::1.58496250072
+positions at samsung::1.58496250072
+framework is efficient::1.58496250072
+identical tags poses::1.58496250072
+approach to localise::1.58496250072
+emitting radio waves::1.58496250072
+pure rfid-based method::1.58496250072
+capability that yields::1.58496250072
+compromise key requirements::1.58496250072
+utilised to compute::1.58496250072
+propose mitigating techniques::1.58496250072
+increase their transmission::1.58496250072
+pragmatic relative approach::1.58496250072
+based on reference::1.58496250072
+opposed to random::1.58496250072
+tag radio wave::1.58496250072
+discuss the experimental::1.58496250072
+position when estimating::1.58496250072
+number of rfid::1.58496250072
+strategy is analogous::1.58496250072
+performed in parallel::1.58496250072
+algorithm identifies key::1.58496250072
+minpowerlevel + maxpowerlevel::1.58496250072
+adding inexpensive passive::1.58496250072
+detect the tags::1.58496250072
+order to estimate::1.58496250072
+existing localisation techniques::1.58496250072
+algorithms that require::1.58496250072
+learned this section::1.58496250072
+underlying rfid equipment::1.58496250072
+tags and onboard::1.58496250072
+professor gabriel robins::1.58496250072
+coupled with accurately::1.58496250072
+determines the positions::1.58496250072
+considers these challenges::1.58496250072
+locations and tags::1.58496250072
+forming an intersection::1.58496250072
+update power levels::1.58496250072
+highest in order::1.58496250072
+end-users to select::1.58496250072
+time-out update power::1.58496250072
+functionality to achieve::1.58496250072
+transmission and reception::1.58496250072
+techniques are specifically::1.58496250072
+enabling this framework::1.58496250072
+executed only infrequently::1.58496250072
+rfid in section::1.58496250072
+issues by ignoring::1.58496250072
+poses a unique::1.58496250072
+publishing inc vogt::1.58496250072
+maximum power levels::1.58496250072
+localise target tags::1.58496250072
+wireless and pervasive::1.58496250072
+transactions on industrial::1.58496250072
+prior-stored empirical powerdistance::1.58496250072
+world with pervasive::1.58496250072
+higher localisation speed::1.58496250072
+accuracy was achieved::1.58496250072
+sensitivity of multi-tags::1.58496250072
+readers gradually increase::1.58496250072
+rfid-based stationary object::1.58496250072
+highly accurate minimum::1.58496250072
+require cumbersome non-rfid::1.58496250072
+multi-tag platforms consisting::1.58496250072
+reference and onboard::1.58496250072
+engineering and research::1.58496250072
+boards and technical::1.58496250072
+propose placing active::1.58496250072
+equipment environment robots::1.58496250072
+result in localisation::1.58496250072
+mitigating this source::1.58496250072
+onboard monocular camera::1.58496250072
+technical programme committees::1.58496250072
+invisible at shorter::1.58496250072
+localise tags attached::1.58496250072
+determining the power-distance::1.58496250072
+skewing the observed::1.58496250072
+ability to locate::1.58496250072
+achieve a combined::1.58496250072
+robots using rfid::1.58496250072
+make them unsuitable::1.58496250072
+neighbourhood reference tags::1.58496250072
+yield the desired::1.58496250072
+rfid antenna intersection::1.58496250072
+power level step::1.58496250072
+search can determine::1.58496250072
+binary search algorithms::1.58496250072
+mobile object localization::1.58496250072
+number of iterations::1.58496250072
+search the linear::1.58496250072
+adverse effects due::1.58496250072
+respect to distance::1.58496250072
+empirically observed power-distance::1.58496250072
+set-up and implementation::1.58496250072
+achieved by determining::1.58496250072
+increased localisation accuracy::1.58496250072
+networks and information::1.58496250072
+interaction between rfid::1.58496250072
+affect the experimental::1.58496250072
+error heuristic iii::1.58496250072
+objects being localised::1.58496250072
+wireless technologies lies::1.58496250072
+system to localise::1.58496250072
+localization for pervasive::1.58496250072
+keeping the distance::1.58496250072
+minimise its impact::1.58496250072
+conditions and unexpected::1.58496250072
+longer overall running::1.58496250072
+abundance of caution::1.58496250072
+framework in section::1.58496250072
+positioning ; object::1.58496250072
+superior detection sensitivities::1.58496250072
+resolution minimum tag::1.58496250072
+yield lower positioning::1.58496250072
+liquids or metals::1.58496250072
+higher operational reliability::1.58496250072
+hodgepodge of ad-hoc::1.58496250072
+radio wave wavelength::1.58496250072
+measured the impact::1.58496250072
+describe our object::1.58496250072
+power levels powerset::1.58496250072
+two mobile readers::1.58496250072
+stage uses ultrasonic::1.58496250072
+readers power level::1.58496250072
+volume reference tags::1.58496250072
+designed to localise::1.58496250072
+estimating the locations::1.58496250072
+characterised the tag::1.58496250072
+reduce this type::1.58496250072
+based on determining::1.58496250072
+tag sensitivity variations::1.58496250072
+distance is computed::1.58496250072
+estimation technique based::1.58496250072
+maxpowerlevel = power::1.58496250072
+identifies key environmental::1.58496250072
+requires slower speeds::1.58496250072
+localisation error variance::1.58496250072
+cpu ram hard::1.58496250072
+link component cpu::1.58496250072
+tagpower = maxpowerlevel::1.58496250072
+5.2.1 tag localisation::1.58496250072
+advances in ubiquitous::1.58496250072
+proposed an accurate::1.58496250072
+include real-time object::1.58496250072
+address these limitations::1.58496250072
+journal on personal::1.58496250072
+propose a two-step::1.58496250072
+localisation errors rfid::1.58496250072
+measured the average::1.58496250072
+search parallel search::1.58496250072
+estimates can occur::1.58496250072
+testbed mobile platforms::1.58496250072
+describe key aspects::1.58496250072
+tag rssi measurement::1.58496250072
+multi-tags with respect::1.58496250072
+four possible 90-degree::1.58496250072
+tags with low::1.58496250072
+tags can significantly::1.58496250072
+research was supported::1.58496250072
+increase the tags::1.58496250072
+localising tags farther::1.58496250072
+received at two::1.58496250072
+points of interests::1.58496250072
+tags were dead::1.58496250072
+symposium on industrial::1.58496250072
+heuristics can achieve::1.58496250072
+ambulant health worker::1.58496250072
+multi-tags and determine::1.58496250072
+cumbersome non-rfid technologies::1.58496250072
+localisation framework considers::1.58496250072
+tag sensitivity tag::1.58496250072
+simultaneously localise multiple::1.58496250072
+detection algorithm identifies::1.58496250072
+algorithm yields higher::1.58496250072
+platform the localisation::1.58496250072
+maximum time required::1.58496250072
+tagfound = true::1.58496250072
+ambiguities and round::1.58496250072
+required to estimate::1.58496250072
+workstation rfid equipment::1.58496250072
+minpowerlevel = power::1.58496250072
+reader antenna tag::1.58496250072
+performed in real::1.58496250072
+reports the size::1.58496250072
+finer-granularity power step::1.58496250072
+hypothesis that varying::1.58496250072
+provide higher operational::1.58496250072
+federation of automatic::1.58496250072
+heuristics yielding effective::1.58496250072
+attached to mobile::1.58496250072
+accurate tag detection::1.58496250072
+resulting in increased::1.58496250072
+rfid reader onboard::1.58496250072
+international joint conference::1.58496250072
+lower positioning errors::1.58496250072
+minpower = maxpowerlevel::1.58496250072
+exponentially converging manner::1.58496250072
+parallel search yields::1.58496250072
+tag for four::1.58496250072
+introduce the concept::1.58496250072
+position and orientation::1.58496250072
+aware of geometry::1.58496250072
+minimum and maximum::1.58496250072
+meaningful experimental results::1.58496250072
+resorting to cumbersome::1.58496250072
+target tags position::1.58496250072
+localisation error varied::1.58496250072
+low-to-high mode reports::1.58496250072
+detection probabilities vary::1.58496250072
+tradeoffs between localisation::1.58496250072
+fuzzy inference system::1.58496250072
+degrading the utility::1.58496250072
+previous localisation methods::1.58496250072
+experimental 2d environment::1.58496250072
+average sensitive tags::1.58496250072
+robins reader localisation::1.58496250072
+real-time rfid measurements::1.58496250072
+challenges as discussed::1.58496250072
+sonar fusion system::1.58496250072
+rfid testbed mobile::1.58496250072
+features to minimise::1.58496250072
+chips high impedance::1.58496250072
+readers operational speed::1.58496250072
+ensure uniform detection::1.58496250072
+combined approach notes::1.58496250072
+experimental evaluation showed::1.58496250072
+levels of environment-embedded::1.58496250072
+cards and identification::1.58496250072
+conference on computer::1.58496250072
+connected to four::1.58496250072
+tag has low::1.58496250072
+determine the positions::1.58496250072
+measurements to yield::1.58496250072
+kalman filter-based technique::1.58496250072
+tags were classified::1.58496250072
+describes several key::1.58496250072
+algorithm in low-tohigh::1.58496250072
+improve the tag::1.58496250072
+voltaire cf readers::1.58496250072
+techniques for stationary::1.58496250072
+imposes line-of-sight constraints::1.58496250072
+illustrated in figure::1.58496250072
+power and distance::1.58496250072
+practitioners can determine::1.58496250072
+power else minpowerlevel::1.58496250072
+utilise non-rfid based::1.58496250072
+sensitivity tag detection::1.58496250072
+object localisation accuracy::1.58496250072
+order to detect::1.58496250072
+observing and comparing::1.58496250072
+search algorithm sweeps::1.58496250072
+mtech in information::1.58496250072
+oriented towards antenna::1.58496250072
+low-tohigh mode requires::1.58496250072
+identify and minimise::1.58496250072
+targeting the positioning::1.58496250072
+rfid read operations::1.58496250072
+set of experiments::1.58496250072
+knowing their proximity::1.58496250072
+methodical controlled experimentation::1.58496250072
+tagidset to maxpowerlevel::1.58496250072
+search algorithm takes::1.58496250072
+extensive platform calibration::1.58496250072
+typical rfid system::1.58496250072
+outlines some key::1.58496250072
+radio wave scattering::1.58496250072
+linear search input::1.58496250072
+turn can result::1.58496250072
+unsuitable for practical::1.58496250072
+search and binary::1.58496250072
+estimate errors due::1.58496250072
+detect and record::1.58496250072
+trade-offs including accuracy::1.58496250072
+counts as high::1.58496250072
+conditional probability-based model::1.58496250072
+varying direction powerdirection::1.58496250072
+intersection region radio::1.58496250072
+robins for localisation::1.58496250072
+design we emphasised::1.58496250072
+conference on parallel::1.58496250072
+localise a single::1.58496250072
+single tag sensitivities::1.58496250072
+vision and technical::1.58496250072
+timestamp else return::1.58496250072
+tag orientation significantly::1.58496250072
+localize passive rfids::1.58496250072
+6.2.1 the empirical::1.58496250072
+advanced intelligent mechatronics::1.58496250072
+-based machine learning::1.58496250072
+scattering and attenuation::1.58496250072
+sensitivity categories based::1.58496250072
+read the tag::1.58496250072
+map area room::1.58496250072
+analogous to running::1.58496250072
+densely tagged environments::1.58496250072
+mega-utilities drive invisible::1.58496250072
+u.s national science::1.58496250072
+environment has multiple::1.58496250072
+object localisation capabilities::1.58496250072
+employing different combinations::1.58496250072
+addresses this limitation::1.58496250072
+operate in variety::1.58496250072
+proposed localisation algorithms::1.58496250072
+transactions on computer-human::1.58496250072
+algorithms take considerably::1.58496250072
+gain impinj dogbone::1.58496250072
+powerdirection = lowtohigh::1.58496250072
+component cpu ram::1.58496250072
+return the tag::1.58496250072
+occlusions by liquids::1.58496250072
+optimal minimum detection::1.58496250072
+higher detection probabilities::1.58496250072
+reference tags encountered::1.58496250072
+yields performance advantages::1.58496250072
+reference tag reference::1.58496250072
+covered by fewer::1.58496250072
+experimental set-up type::1.58496250072
+interface an rfid-based::1.58496250072
+approach using reference::1.58496250072
+limitation by determining::1.58496250072
+security in rfid::1.58496250072
+achieve the required::1.58496250072
+virtual reference elimination::1.58496250072
+passive reference tags::1.58496250072
+determine the trajectory::1.58496250072
+minimise onboard components::1.58496250072
+attenuates inversely proportional::1.58496250072
+end else power::1.58496250072
+arranged reference tags::1.58496250072
+due to liquids::1.58496250072
+experiments are described::1.58496250072
+induce localisation errors::1.58496250072
+perform such readings::1.58496250072
+transmitted and received::1.58496250072
+systems using passive::1.58496250072
+relationships can ascertain::1.58496250072
+count of constituent::1.58496250072
+four were oriented::1.58496250072
+due to varying::1.58496250072
+onboard non-rfid components::1.58496250072
+offline pre-processing phase::1.58496250072
+simplifying the onboard::1.58496250072
+vertical stand made::1.58496250072
+efficient rfid-based mobile::1.58496250072
+tag position estimates::1.58496250072
+results in section::1.58496250072
+tag orientation issues::1.58496250072
+algorithm provides highly::1.58496250072
+mobile robot platform::1.58496250072
+workshop on selected::1.58496250072
+orientation issues degrade::1.58496250072
+professor of computer::1.58496250072
+ensuing localisation experiments::1.58496250072
+received a phd::1.58496250072
+incorporate new localisation::1.58496250072
+required to improve::1.58496250072
+antenna intersection region::1.58496250072
+approach to confirm::1.58496250072
+observe the tradeoffs::1.58496250072
+higher tag sensitivities::1.58496250072
+tags with high::1.58496250072
+uncertainties when inferring::1.58496250072
+constructed four-way multi-tag::1.58496250072
+proposed rfid-based object::1.58496250072
+passive rfid tags::1.58496250072
+select them based::1.58496250072
+localisation that compare::1.58496250072
+localisation techniques typically::1.58496250072
+linear interpolation algorithm::1.58496250072
+step-up or step-down::1.58496250072
+matching the behaviour::1.58496250072
+smart playing cards::1.58496250072
+fewer onboard components::1.58496250072
+localisation approach utilises::1.58496250072
+variations in average::1.58496250072
+conference on sensor::1.58496250072
+power = minimum::1.58496250072
+happily the expected::1.58496250072
+rfid-based 3-d positioning::1.58496250072
+accuracy under ideal::1.58496250072
+approach has two::1.58496250072
+power incrementing approach::1.58496250072
+transmit the tag::1.58496250072
+works are surprisingly::1.58496250072
+improves the localisation::1.58496250072
+long positioning times::1.58496250072
+robins @ virginia.edu::1.58496250072
+describes related research::1.58496250072
+intuitive intersection-ofregions analogy::1.58496250072
+combination of power::1.58496250072
+propose practical mitigating::1.58496250072
+error-reducing heuristics contribute::1.58496250072
+arrangement of tags::1.58496250072
+minimise possible errors::1.58496250072
+input parameter powerdirection::1.58496250072
+vision for mobile::1.58496250072
+reduce adverse effects::1.58496250072
+showed that tag::1.58496250072
+mitigating these basic::1.58496250072
+details amd athlon::1.58496250072
+power level update::1.58496250072
+ranges was comparatively::1.58496250072
+outcome is happily::1.58496250072
+tags in order::1.58496250072
+robots and systems::1.58496250072
+tag per execution::1.58496250072
+fixed reader power::1.58496250072
+tsunami warning systems::1.58496250072
+finds the minimum::1.58496250072
+accuracy in section::1.58496250072
+determines the operating::1.58496250072
+6.2.4 power step::1.58496250072
+difference between transmitted::1.58496250072
+run reasonably quickly::1.58496250072
+outline its pseudo-code::1.58496250072
+error heuristics localisation::1.58496250072
+positions and arrangements::1.58496250072
+sufficient for object::1.58496250072
+commercially obtained batch::1.58496250072
+designed to detect::1.58496250072
+localisation algorithms described::1.58496250072
+characterised by direct::1.58496250072
+estimate the positions::1.58496250072
+room volume reference::1.58496250072
+hx2490 bluetooth dongle::1.58496250072
+ubiquitous computing game::1.58496250072
+faster overall run::1.58496250072
+including the identification::1.58496250072
+*corresponding author abstract::1.58496250072
+algorithms for rfid-based::1.58496250072
+address the problem::1.58496250072
+geophysical research letters::1.58496250072
+check for tags::1.58496250072
+algorithm is utilised::1.58496250072
+tend to compromise::1.58496250072
+opposed to linearly::1.58496250072
+move several metres::1.58496250072
+tag spatial arrangement::1.58496250072
+powerstep power varying::1.58496250072
+science from ucla::1.58496250072
+cards a ubiquitous::1.58496250072
+achieve object localisation::1.58496250072
+excessive run times::1.58496250072
+orthogonally positioned readers::1.58496250072
+paper is organised::1.58496250072
+accurate rf transmission::1.58496250072
+show that combining::1.58496250072
+readers located onboard::1.58496250072
+localization and mapping::1.58496250072
+uniformly sensitive four-way::1.58496250072
+horizontal and vertical::1.58496250072
+affect signal strengths::1.58496250072
+efficient object identification::1.58496250072
+confirms our hypothesis::1.58496250072
+utilise multiple readers::1.58496250072
+readers to localise::1.58496250072
+mobile robots utilising::1.58496250072
+round off errors::1.58496250072
+analysis in greater::1.58496250072
+onboard reader operating::1.58496250072
+geometry in general::1.58496250072
+visualisation and control::1.58496250072
+quantify single tag::1.58496250072
+estimate their positions::1.58496250072
+errors may occur::1.58496250072
+desired localisation accuracy::1.58496250072
+powerstep which specifies::1.58496250072
+map and kalman::1.58496250072
+localisation speed localisation::1.58496250072
+localisation requires determining::1.58496250072
+end we control::1.58496250072
+vary the stationary::1.58496250072
+gather tag measurements::1.58496250072
+choice of lego::1.58496250072
+reader operating range::1.58496250072
+api reader antenna::1.58496250072
+single target tag::1.58496250072
+localisation with respect::1.58496250072
+platforms was calibrated::1.58496250072
+times and computed::1.58496250072
+tags having matching::1.58496250072
+power-distance relationship based::1.58496250072
+higher localisation accuracy::1.58496250072
+techniques use off-the-shelf::1.58496250072
+high read counts::1.58496250072
+tag protocol map::1.58496250072
+determine the location::1.58496250072
+tags in parallel::1.58496250072
+existing methods technique::1.58496250072
+sensitive tag sets::1.58496250072
+concept of virtual::1.58496250072
+rfid for dummies::1.58496250072
+introduction the confluence::1.58496250072
+including collision resolution::1.58496250072
+area room volume::1.58496250072
+inferring tag positions::1.58496250072
+small test region::1.58496250072
+positions of rfid::1.58496250072
+generates the probability::1.58496250072
+parallel search input::1.58496250072
+robins is professor::1.58496250072
+approach to localize::1.58496250072
+components while designing::1.58496250072
+object localisation system::1.58496250072
+unique tags tagidset::1.58496250072
+degrade the detection::1.58496250072
+localise readers attached::1.58496250072
+propagation in uhf::1.58496250072
+question the practicality::1.58496250072
+ieee international workshop::1.58496250072
+update in powerset::1.58496250072
+advantages over ordinary::1.58496250072
+antenna reference tag::1.58496250072
+dbm and varied::1.58496250072
+significantly affects tag::1.58496250072
+utilised the linear::1.58496250072
+ascertain these locations::1.58496250072
+addressing and mitigating::1.58496250072
+set of neighbours::1.58496250072
+region of interest::1.58496250072
+abowd and mynatt::1.58496250072
+localise multiple stationary::1.58496250072
+automated inventory management::1.58496250072
+localisation errors enabled::1.58496250072
+approach utilises two::1.58496250072
+lowest power levels::1.58496250072
+high localisation delays::1.58496250072
+combining multiple non-rfid::1.58496250072
+orientation significantly affects::1.58496250072
+technologies for localization::1.58496250072
+mindstorms hp ipaq::1.58496250072
+experimental evaluation methodology::1.58496250072
+two orthogonally positioned::1.58496250072
+variables for neighbourhood::1.58496250072
+onboard tag localisation::1.58496250072
+platform calibration experiments::1.58496250072
+efficient localization scheme::1.58496250072
+positioning of objects::1.58496250072
+kind of careful::1.58496250072
+error and propose::1.58496250072
+levels are incremented::1.58496250072
+diminish the practicality::1.58496250072
+relationship 6.2.2 localisation::1.58496250072
+case for multi-tag::1.58496250072
+ipaq hx2490 bluetooth::1.58496250072
+method yields localisation::1.58496250072
+enable the end-users::1.58496250072
+detect tag tagid::1.58496250072
+applications in contactless::1.58496250072
+approach using passive::1.58496250072
+notfound end set::1.58496250072
+typically even dead::1.58496250072
+propose a laser::1.58496250072
+accuracy is based::1.58496250072
+5.3.3 error heuristic::1.58496250072
+outlined several localisation::1.58496250072
+step-wise power incrementing::1.58496250072
+presents several localisation::1.58496250072
+smart surroundings-enabling techniques::1.58496250072
+power else return::1.58496250072
+key lessons learned::1.58496250072
+reader-based localisation techniques::1.58496250072
+reference tags increases::1.58496250072
+enabled the quick::1.58496250072
+designed to operate::1.58496250072
+algorithm uses readers::1.58496250072
+adjust the system::1.58496250072
+spatiality rfid-based object::1.58496250072
+number of onboard::1.58496250072
+localisation for mobile::1.58496250072
+shown in figure::1.58496250072
+detect any tags::1.58496250072
+test this hypothesis::1.58496250072
+direct empirical calibration::1.58496250072
+set-up we evaluated::1.58496250072
+data is gathered::1.58496250072
+faster algorithms trade::1.58496250072
+typically more efficient::1.58496250072
+interfere with accurate::1.58496250072
+occlusion environmental factors::1.58496250072
+utilising only rfid::1.58496250072
+utilising only rfid-based::1.58496250072
+floor or ceiling::1.58496250072
+compute the differences::1.58496250072
+objects can move::1.58496250072
+computes the square::1.58496250072
+outline the challenges::1.58496250072
+hightower and borriello::1.58496250072
+localisation accuracy data::1.58496250072
+tag detection probabilities::1.58496250072
+robot localisation technique::1.58496250072
+techniques with existing::1.58496250072
+resolution for binary::1.58496250072
+identification with passive::1.58496250072
+illustrates a shared::1.58496250072
+methods in terms::1.58496250072
+rfidbased localisation techniques::1.58496250072
+set-up type backend::1.58496250072
+experimental results pertaining::1.58496250072
+main guiding principle::1.58496250072
+high impedance state::1.58496250072
+previous works ignore::1.58496250072
+two separate antennas::1.58496250072
+networking and communications::1.58496250072
+5.1.1 single tag::1.58496250072
+encountered during motion::1.58496250072
+takes the pragmatic::1.58496250072
+power + powerstep::1.58496250072
+localise any object::1.58496250072
+read iterations lasting::1.58496250072
+consists of separate::1.58496250072
+research interests include::1.58496250072
+evaluated the proposed::1.58496250072
+root mean square::1.58496250072
+tag-based localisation techniques::1.58496250072
+orthogonal orientations yield::1.58496250072
+k-nearest neighbours algorithm::1.58496250072
+opposed to relying::1.58496250072
+based on direction::1.58496250072
+propose several heuristics::1.58496250072
+tags tagidset power::1.58496250072
+phase in order::1.58496250072
+determining the average::1.58496250072
+wiley and sons::1.58496250072
+rfid and vision::1.58496250072
+offline pre-processing step::1.58496250072
+rfid a key::1.58496250072
+trade off accuracy::1.58496250072
+intellectual property litigations::1.58496250072
+associate a timestamp::1.58496250072
+tags with uniform::1.58496250072
+deploying more tags::1.58496250072
+high hardware expense::1.58496250072
+yield higher accuracy::1.58496250072
+onboard rfid readers::1.58496250072
+interferences and occlusions::1.58496250072
+tags are sorted::1.58496250072
+existing mobile object::1.58496250072
+increasing the number::1.58496250072
+reader than closer::1.58496250072
+approaches is hindered::1.58496250072
+gabriel robins department::1.58496250072
+challenges and takes::1.58496250072
+sensitivity is characterised::1.58496250072
+journal of antennas::1.58496250072
+indoor localization mechanism::1.58496250072
+localization with rfid::1.58496250072
+5.3.4 error heuristic::1.58496250072
+single reader operation::1.58496250072
+localization using virtual::1.58496250072
+intended to eliminate::1.58496250072
+opposed to stationary::1.58496250072
+tags localisation accuracy::1.58496250072
+insights and lessons::1.58496250072
+cryptology research society::1.58496250072
+control the direction::1.58496250072
+rfid equipment environment::1.58496250072
+variety of scenarios::1.58496250072
+linear search approach::1.58496250072
+reduce the uncertainties::1.58496250072
+tag binning approach::1.58496250072
+described in figure::1.58496250072
+type of error::1.58496250072
+minimum power needed::1.58496250072
+takes as input::1.58496250072
+subsequent localisation experiments::1.58496250072
+localization and tracking::1.58496250072
+sensor model based::1.58496250072
+algorithm is determining::1.58496250072
+classified as reader::1.58496250072
+journal of internet::1.58496250072
+understand the implications::1.58496250072
+control experimental variables::1.58496250072
+depicts this proposed::1.58496250072
+computational delays inherent::1.58496250072
+vision and challenges::1.58496250072
+evaluation this section::1.58496250072
+held software engineering::1.58496250072
+impacts the tag::1.58496250072
+goal was achieved::1.58496250072
+input parameter powerstep::1.58496250072
+received power levels::1.58496250072
+accuracy with higher::1.58496250072
+indoor location sensing::1.58496250072
+found and returns::1.58496250072
+focused on simplifying::1.58496250072
+tags that provide::1.58496250072
+good localisation accuracy::1.58496250072
+approach can yield::1.58496250072
+respect to rotation::1.58496250072
+requires a sufficiently::1.58496250072
+romer and domnitcheva::1.58496250072
+vision sensor combined::1.58496250072
+individually calibrated average-sensitive::1.58496250072
+view localisation error::1.58496250072
+long oval shape::1.58496250072
+utilising ultrasonic sensors::1.58496250072
+reports the lowest::1.58496250072
+obtaining good localisation::1.58496250072
+four antennas emitting::1.58496250072
+reduce the errors::1.58496250072
+calibrated as part::1.58496250072
+unpredictable and hard-to-characterise::1.58496250072
+received an mtech::1.58496250072
+locating the position::1.58496250072
+co-authored a book::1.58496250072
+calibrated reference tags::1.58496250072
+minpower end power::1.58496250072
+reader is coarsely::1.58496250072
+software-defined radios coupled::1.58496250072
+combining individually calibrated::1.58496250072
+factors that impact::1.58496250072
+levels of target::1.58496250072
+levels and distances::1.58496250072
+address this issue::1.58496250072
+actual localisation operations::1.58496250072
+typical rfid technology::1.58496250072
+packard foundation fellowship::1.58496250072
+process of matching::1.58496250072
+tend to lower::1.58496250072
+uhf passive tags::1.58496250072
+regions with low::1.58496250072
+power-distance relationship discussed::1.58496250072
+rotation and reader::1.58496250072
+higher sensitivity counterparts::1.58496250072
+mobile objects moving::1.58496250072
+ubiquitous computing applications::1.58496250072
+enables the simultaneous::1.58496250072
+path-loss contour mapping::1.58496250072
+localise mobile objects::1.58496250072
+ensure uniform behaviour::1.58496250072
+tag spatiality rfid-based::1.58496250072
+hindered by reliance::1.58496250072
+behaviours and responses::1.58496250072
+work recent advances::1.58496250072
+due to limitations::1.58496250072
+tag ids encountered::1.58496250072
+reference tags kit::1.58496250072
+developed practical techniques::1.58496250072
+antennas emitting radio::1.58496250072
+ignoring the geometry::1.58496250072
+order to minimise::1.58496250072
+combined the outcomes::1.58496250072
+rfid-based positioning techniques::1.58496250072
+tagpower = power::1.58496250072
+algorithms and error::1.58496250072
+algorithms to observe::1.58496250072
+parallel with actual::1.58496250072
+science foundation young::1.58496250072
+affect the detection::1.58496250072
+techniques typically utilise::1.58496250072
+direction of arrival::1.58496250072
+uhf rfid systems::1.58496250072
+measuring their proximity::1.58496250072
+minimise the error::1.58496250072
+uhf rfid system::1.58496250072
+power > maxpowerlevel::1.58496250072
+nikitin and rao::1.58496250072
+early warning systems::1.58496250072
+reference tag density::1.58496250072
+typically utilise reference::1.58496250072
+backend workstation rfid::1.58496250072
+complexity of localisation::1.58496250072
+liquids and metals::1.58496250072
+improve these results::1.58496250072
+learn a map::1.58496250072
+approach to existing::1.58496250072
+match the behaviours::1.58496250072
+placing active reference::1.58496250072
+sensitivities over ordinary::1.58496250072
+major intellectual property::1.58496250072
+rfid tag bearing::1.58496250072
+active rfid tag::1.58496250072
+phases can achieve::1.58496250072
+responses are received::1.58496250072
+two sensitivity experiments::1.58496250072
+operations to accommodate::1.58496250072
+ieee personal communication::1.58496250072
+laser range scanner::1.58496250072
+incremented from lowest::1.58496250072
+describe our methodology::1.58496250072
+foundations of ubiquitous::1.58496250072
+detailed in section::1.58496250072
+tag sensitivities based::1.58496250072
+sound scientific method::1.58496250072
+accuracy we hypothesised::1.58496250072
+sons inc fontelo::1.58496250072
+sensitivities to ensure::1.58496250072
+equally sensitive multi-tags::1.58496250072
+stationary reader power::1.58496250072
+illustrates the design::1.58496250072
+interests include algorithms::1.58496250072
+parallel search strategy::1.58496250072
+streamlined rfid-based approach::1.58496250072
+accurately sampled clocks::1.58496250072
+internet protocol technology::1.58496250072
+contactless smart cards::1.58496250072
+lowest in order::1.58496250072
+future research directions::1.58496250072
+onboard mobile readers::1.58496250072
+estimated with increasing::1.58496250072
+estimate minimum tag::1.58496250072
+compared the proposed::1.58496250072
+equal read count::1.58496250072
+tagfound = false::1.58496250072
+reduce the impact::1.58496250072
+search timeout occurs::1.58496250072
+grant number cns-0716635::1.58496250072
+propose an rssi-based::1.58496250072
+mobile objects affixed::1.58496250072
+radio waves emitted::1.58496250072
+low read counts::1.58496250072
+registering the presence::1.58496250072
+combination of rfid::1.58496250072
+empirical power-distance relationships::1.58496250072
+impacts the tags::1.58496250072
+mid-value power level::1.58496250072
+error minimisation heuristics::1.58496250072
+focus on pure-rfid::1.58496250072
+radio signal properties::1.58496250072
+account key factors::1.58496250072
+order to infer::1.58496250072
+graphical user interface::1.58496250072
+introduce significant amount::1.58496250072
+order to adjust::1.58496250072
+k-nearest reference tags::1.58496250072
+formulate the problem::1.58496250072
+taking the intersection::1.58496250072
+step-down the power::1.58496250072
+expense of longer::1.58496250072
+ieee pervasive computing::1.58496250072
+avoiding non-rfid components::1.58496250072
+order to yield::1.58496250072
+lego railroad track::1.58496250072
+typically not located::1.58496250072
+object with multiple::1.58496250072
+highest minimum::1.0
+localisation phases::1.0
+particle filter-based::1.0
+niagara falls::1.0
+powerset set::1.0
+api reader::1.0
+running times::1.0
+error variance::1.0
+combining multiple::1.0
+possibly due::1.0
+gather tag::1.0
+tag spatiality::1.0
+clock precision::1.0
+3-d positioning::1.0
+rfid-based stationary::1.0
+first localisation::1.0
+electrostatic shielding::1.0
+pure-rfid object::1.0
+fixed locations::1.0
+ignoring bigger::1.0
+level step::1.0
+identification frameworks::1.0
+identification protocols::1.0
+pervasive networks::1.0
+indoor setting::1.0
+emphasised simplicity::1.0
+readers operational::1.0
+performance parameters::1.0
+controlled experimentation::1.0
+localised objects::1.0
+meaningful experimental::1.0
+tags localisation::1.0
+environmental noise::1.0
+reader-based localisation::1.0
+waves emitted::1.0
+key performance::1.0
+5.2.4 reader::1.0
+kit pda::1.0
+surprisingly oblivious::1.0
+environmental features::1.0
+tag protocol::1.0
+two approaches::1.0
+sophisticated tags::1.0
+link component::1.0
+key assumption::1.0
+efficient object::1.0
+efficient rfid-based::1.0
+2009a zhao::1.0
+utilising ultrasonic::1.0
+describes related::1.0
+regular placements::1.0
+tag sets::1.0
+random arrangements::1.0
+robot based::1.0
+reader locality::1.0
+hardware functionality::1.0
+read iterations::1.0
+accurate tag::1.0
+methodical controlled::1.0
+requires slower::1.0
+algorithm operating::1.0
+localisation system::1.0
+positioning techniques::1.0
+square root::1.0
+research works::1.0
+estimation technique::1.0
+bigger error::1.0
+distance ranges::1.0
+faster readers::1.0
+testbed mobile::1.0
+localisation error-reducing::1.0
+indoor localization::1.0
+arrangement scheme::1.0
+single target::1.0
+localization algorithm::1.0
+applications require::1.0
+broadly classified::1.0
+rfid indoor::1.0
+early warning::1.0
+environmental conditions::1.0
+unique challenge::1.0
+proposed algorithms::1.0
+ordinary single::1.0
+graphical user::1.0
+uniform behaviour::1.0
+issues degrade::1.0
+tag measurements::1.0
+occlusions due::1.0
+set-up type::1.0
+90-degree rotations::1.0
+mode requires::1.0
+based components::1.0
+conference intelligent::1.0
+sensitivity categories::1.0
+calibrated average-sensitive::1.0
+army science::1.0
+optimal minimum::1.0
+pure rfid-based::1.0
+received signals::1.0
+average error::1.0
+line-of-sight techniques::1.0
+identifies key::1.0
+wireless details::1.0
+expert witness::1.0
+yield lower::1.0
+linear interpolation::1.0
+power incrementing::1.0
+2007b milella::1.0
+sufficiently illuminated::1.0
+search strategy::1.0
+bmobile localisation::1.0
+localising stationary::1.0
+quick identification::1.0
+ultrasonic signal::1.0
+objects moving::1.0
+tag rssi::1.0
+tag reference::1.0
+rfid-based localization::1.0
+oval shape::1.0
+helpful feedback::1.0
+return powerset::1.0
+approach closely::1.0
+motion path::1.0
+platforms consisting::1.0
+ensuing localisation::1.0
+compute geometrical::1.0
+small fraction::1.0
+error figure::1.0
+entire multi-tag::1.0
+computational delays::1.0
+indoor positioning::1.0
+non-rfid based::1.0
+similar power::1.0
+tags poses::1.0
+tag radio::1.0
+typically expect::1.0
+search localisation::1.0
+deployed uniformly::1.0
+experimental region::1.0
+positioned readers::1.0
+approaches utilising::1.0
+tag-reader proximity::1.0
+wave localisation::1.0
+research positions::1.0
+2007a wang::1.0
+foundation fellowship::1.0
+inference system::1.0
+powerset power::1.0
+figure 13a::1.0
+readers located::1.0
+antenna four::1.0
+calibration experiments::1.0
+practical mitigating::1.0
+empirical approach::1.0
+contactless smart::1.0
+neighbourhood reference::1.0
+path-loss contour::1.0
+adding inexpensive::1.0
+achieve localisation::1.0
+framework kirti::1.0
+outdoor environments::1.0
+readers attached::1.0
+methods technique::1.0
+linearly increments::1.0
+existing stationary::1.0
+key requirements::1.0
+smart playing::1.0
+describe key::1.0
+author abstract::1.0
+packard foundation::1.0
+search measure::1.0
+increasing accuracy::1.0
+rfidbased localisation::1.0
+power sensitivity::1.0
+rfid-based method::1.0
+incrementing approach::1.0
+severely degrading::1.0
+estimation errors::1.0
+mode reports::1.0
+predetermined paths::1.0
+hard-to-characterise variabilities::1.0
+heuristics yielding::1.0
+tags discussed::1.0
+computer communications::1.0
+heuristics contribute::1.0
+orientation impacts::1.0
+antenna reference::1.0
+2003a alippi::1.0
+exponentially converging::1.0
+non-rfid technology::1.0
+utilises two::1.0
+tag positioning::1.0
+widely varying::1.0
+quantify single::1.0
+received signal::1.0
+end return::1.0
+tag-based approaches::1.0
+view localisation::1.0
+requires determining::1.0
+current date-time::1.0
+tag binning::1.0
+virginia.edu *corresponding::1.0
+unexpected effects::1.0
+kalman filter-based::1.0
+introduce significant::1.0
+subsequent localisation::1.0
+include real-time::1.0
+streamlined methods::1.0
+inderscience enterprises::1.0
+step-wise power::1.0
+health worker::1.0
+onboard vision::1.0
+fundamental drawback::1.0
+robins milella::1.0
+test region::1.0
+unwieldy due::1.0
+affect signal::1.0
+rfid testbed::1.0
+maximum power::1.0
+5.3.4 error::1.0
+metres range::1.0
+objects affixed::1.0
+wireless sensors::1.0
+tags tagidset::1.0
+probability map::1.0
+significant amount::1.0
+positioning based::1.0
+lego components::1.0
+efforts specifically::1.0
+robot platform::1.0
+probabilistic sensor::1.0
+references abowd::1.0
+important issue::1.0
+comparatively small::1.0
+efficient localization::1.0
+specifically designed::1.0
+reader onboard::1.0
+indoor location::1.0
+detection regions::1.0
+min 5.3.2::1.0
+four-way multi-tags::1.0
+dbi gain::1.0
+minpowerlevel repeat::1.0
+localisation operations::1.0
+high hardware::1.0
+environment-embedded readers::1.0
+remote medicine::1.0
+delays inherent::1.0
+wireless setting::1.0
+sensor combined::1.0
+reliably establishing::1.0
+powerset note::1.0
+oriented rfid::1.0
+yields performance::1.0
+usable power::1.0
+move arbitrarily::1.0
+caution philosophy::1.0
+arranged reference::1.0
+triangular tag::1.0
+extensive platform::1.0
+computing game::1.0
+cubic metres::1.0
+robins department::1.0
+upgradethe european::1.0
+algorithm achieve::1.0
+first stage::1.0
+accurately sampled::1.0
+environmental factors::1.0
+lowest power::1.0
+tag responses::1.0
+empirical calibration::1.0
+high accuracy::1.0
+smallest localisation::1.0
+set-up localisation::1.0
+comparative analysis::1.0
+operational reliability::1.0
+successfully read::1.0
+railroad track::1.0
+samsung semiconductor::1.0
+levels differ::1.0
+superior detection::1.0
+higher resolution::1.0
+neighbourhood beacon::1.0
+tags embedded::1.0
+-based machine::1.0
+probability-based model::1.0
+widely applicable::1.0
+5.2.3 tag::1.0
+fewer onboard::1.0
+volume reference::1.0
+leading journals::1.0
+higher operational::1.0
+research society::1.0
+converging manner::1.0
+application-driven trade-offs::1.0
+precisely locating::1.0
+intelligent sensors::1.0
+readers perform::1.0
+metres wide::1.0
+minimum reader::1.0
+stand made::1.0
+off-the-shelf tags::1.0
+future work::1.0
+tags attached::1.0
+framework depends::1.0
+nonlinear stochastic::1.0
+return minpower::1.0
+carefully verified::1.0
+analysis tag::1.0
+2008b vorst::1.0
+power reader::1.0
+modeling rfid::1.0
+counts ranged::1.0
+robins 5.1.2::1.0
+end table::1.0
+location sensing::1.0
+relative approach::1.0
+section outlines::1.0
+constructed four-way::1.0
+reader operating::1.0
+levels powerset::1.0
+critical issue::1.0
+calibration measurements::1.0
+key aspects::1.0
+minimisation heuristics::1.0
+real-time rfid::1.0
+huge variance::1.0
+smaller area::1.0
+general applicability::1.0
+severely limit::1.0
+localisation tag::1.0
+utilise multiple::1.0
+14a illustrates::1.0
+expensive technology::1.0
+multiple orthogonally::1.0
+software-defined radios::1.0
+substantially skew::1.0
+typically utilise::1.0
+research centre::1.0
+significantly affects::1.0
+higher tag::1.0
+training data::1.0
+planar orthogonal::1.0
+protocol map::1.0
+approach naturally::1.0
+sensitivities contribute::1.0
+specifically targeting::1.0
+gain impinj::1.0
+earthquake magnitude::1.0
+four readers::1.0
+reader attenuates::1.0
+interpolation algorithm::1.0
+foundation young::1.0
+wave scattering::1.0
+works resort::1.0
+localise target::1.0
+intersection-ofregions analogy::1.0
+antenna power::1.0
+algorithms trade::1.0
+readers ability::1.0
+provide object::1.0
+orientation tag::1.0
+rendering moot::1.0
+calibrated separately::1.0
+low localisation::1.0
+identical tags::1.0
+relationship based::1.0
+tagpower end::1.0
+tag rotation::1.0
+algorithmic design::1.0
+read measurements::1.0
+protocol technology::1.0
+algorithm yields::1.0
+2004b han::1.0
+sensitivity counterparts::1.0
+required infrastructure::1.0
+readers increase::1.0
+density function::1.0
+international workshop::1.0
+rssi-based localisation::1.0
+minimise onboard::1.0
+mobile target::1.0
+advanced intelligent::1.0
+real-world scenarios::1.0
+tags ranked::1.0
+variable tagfound::1.0
+dead altogether::1.0
+kirti chawla*::1.0
+significantly improving::1.0
+reduce adverse::1.0
+finer-granularity power::1.0
+excessive run::1.0
+algorithm measure::1.0
+antenna tag::1.0
+read operations::1.0
+affects tag::1.0
+grant number::1.0
+key environmental::1.0
+experimental errors::1.0
+virginia.edu email::1.0
+existing localisation::1.0
+highly limited::1.0
+algorithm linearly::1.0
+onboard mobile::1.0
+errors rfid::1.0
+sensitivity tag::1.0
+neighbours algorithm::1.0
+onboard link::1.0
+ideal conditions::1.0
+sensor model::1.0
+iteration variable::1.0
+observed empirical::1.0
+typical environments::1.0
+locating points::1.0
+metre square::1.0
+higher sensitivity::1.0
+parameter tagid::1.0
+geometry-obliviousness feature::1.0
+numerous ubiquitous::1.0
+maxpowerlevel minpowerlevel::1.0
+mobile computing::1.0
+small test::1.0
+single tags::1.0
+gen2 passive::1.0
+calibration process::1.0
+effects due::1.0
+research letters::1.0
+hx2490 bluetooth::1.0
+key feature::1.0
+wireless sensing::1.0
+propose two::1.0
+signal properties::1.0
+combined approach::1.0
+good localisation::1.0
+function generates::1.0
+conditional probability-based::1.0
+tag arrangement::1.0
+linear step-wise::1.0
+6.2.5 reference::1.0
+5.2.2 tag::1.0
+tags position::1.0
+reference nodes::1.0
+5.1.1 single::1.0
+cycle analysis::1.0
+search approach::1.0
+complexity measure::1.0
+necessitated rfid-based::1.0
+long oval::1.0
+proximate equally::1.0
+5.3.2 error::1.0
+low-accuracy regions::1.0
+friis equation::1.0
+orthogonal spatial::1.0
+first step::1.0
+power needed::1.0
+algorithm addresses::1.0
+tag placement::1.0
+portable rfid::1.0
+avoiding non-rfid::1.0
+faster algorithms::1.0
+rfid snapshots::1.0
+details amd::1.0
+transmission power::1.0
+sensitivities based::1.0
+orthogonally oriented::1.0
+liuyi zhang::1.0
+automatic control::1.0
+moving objects::1.0
+visualisation tool::1.0
+binning approach::1.0
+high read::1.0
+simplex method::1.0
+systematically mitigating::1.0
+inversion problem::1.0
+refereed papers::1.0
+reliable rfid-based::1.0
+level resolution::1.0
+investigator award::1.0
+amd athlon::1.0
+wiley publishing::1.0
+feature detection::1.0
+equally applicable::1.0
+ieee personal::1.0
+high-to-low mode::1.0
+ostensibly identical::1.0
+two sensitivity::1.0
+resolution minimum::1.0
+algorithm identifies::1.0
+statistical approach::1.0
+intelligent robots::1.0
+algorithm reports::1.0
+meta-heuristic computes::1.0
+proposed techniques::1.0
+reference elimination::1.0
+maxpowerlevel repeat::1.0
+repeated occasionally::1.0
+platform constructed::1.0
+localisation delays::1.0
+powerstep power::1.0
+lobe emitted::1.0
+recent advances::1.0
+2006a zhang::1.0
+closely approximates::1.0
+area room::1.0
+maxpowerlevel power::1.0
+meta-heuristic yield::1.0
+held software::1.0
+algorithm operates::1.0
+software engineering::1.0
+power steps::1.0
+time-out update::1.0
+relationship discussed::1.0
+require capabilities::1.0
+computed based::1.0
+antenna intersection::1.0
+execution cycle::1.0
+lego railroad::1.0
+direct empirical::1.0
+multiple non-rfid::1.0
+yields higher::1.0
+problem statement::1.0
+knowledge sources::1.0
+position localisation::1.0
+onboard tags::1.0
+separate antennas::1.0
+*corresponding author::1.0
+reader antenna::1.0
+contour mapping::1.0
+first place::1.0
+basic principles::1.0
+running speed::1.0
+obtained batch::1.0
+control world::1.0
+workstation rfid::1.0
+2007a joho::1.0
+real-time view::1.0
+key functionality::1.0
+average sensitivity::1.0
+6.2.3 localisation::1.0
+varying environmental::1.0
+lowest minimum::1.0
+localisation capabilities::1.0
+combining individually::1.0
+estimating positions::1.0
+similar sensitivities::1.0
+platform consisting::1.0
+reader related::1.0
+probabilities vary::1.0
+radios coupled::1.0
+initially detected::1.0
+heavily dependent::1.0
+tags encountered::1.0
+sensitive multi-tags::1.0
+utilise reference::1.0
+ordinary tags::1.0
+tag orientations::1.0
+rfid map::1.0
+prior-stored empirical::1.0
+geophysical research::1.0
+information support::1.0
+four tags::1.0
+utilising near-field::1.0
+data confirms::1.0
+acm transactions::1.0
+ieee transactions::1.0
+sound-based approach::1.0
+antenna gain::1.0
+results pertaining::1.0
+intellectual property::1.0
+four impinj::1.0
+algorithms search::1.0
+0.140.29 0.10.9::1.0
+2009b senta::1.0
+teaching awards::1.0
+positioning scheme::1.0
+equal read::1.0
+operating region::1.0
+mitigating solutions::1.0
+tags tend::1.0
+fixed reader::1.0
+unique tags::1.0
+low sensitivities::1.0
+require cumbersome::1.0
+yields localisation::1.0
+strength indicator::1.0
+measurement noise::1.0
+2007a chae::1.0
+laser range::1.0
+techniques typically::1.0
+higher detection::1.0
+additional low-cost::1.0
+rfid-based mobile::1.0
+achieve object::1.0
+geometric intersections::1.0
+information technology::1.0
+relationship 6.2.2::1.0
+power received::1.0
+model based::1.0
+onboard controller::1.0
+rfid-based approach::1.0
+map area::1.0
+landmarc system::1.0
+prabhu goel::1.0
+variable powerset::1.0
+young investigator::1.0
+regions overlapped::1.0
+ram hard::1.0
+sensitive four-way::1.0
+long positioning::1.0
+algorithmic variability::1.0
+provide higher::1.0
+spatiality rfid-based::1.0
+varying step::1.0
+michael skalak::1.0
+sensor requires::1.0
+tag-based localisation::1.0
+generate higher::1.0
+wireless networks::1.0
+economically viable::1.0
+square absolute::1.0
+phd student::1.0
+process classified::1.0
+pre-processing phase::1.0
+attenuates inversely::1.0
+positioning system::1.0
+technical foundations::1.0
+chemical spills::1.0
+goel research::1.0
+key challenges::1.0
+faraday cycle::1.0
+smart surroundings-enabling::1.0
+calibrated reference::1.0
+existing rfid-based::1.0
+average-sensitive tags::1.0
+room volume::1.0
+false repeat::1.0
+large number::1.0
+metres long::1.0
+wide range::1.0
+playing cards::1.0
+iterations lasting::1.0
+algorithms localise::1.0
+potential ambiguities::1.0
+statistical averaging::1.0
+estimation algorithms::1.0
+framework considers::1.0
+vision sensors::1.0
+tagid output::1.0
+true locations::1.0
+varying direction::1.0
+rfid scenarios::1.0
+observed power-distance::1.0
+stationary object::1.0
+individually calibrated::1.0
+received power::1.0
+brand-new batch::1.0
+powerdirection output::1.0
+comparable accuracy::1.0
+heuristic power::1.0
+compare prior-obtained::1.0
+propose placing::1.0
+reader selection::1.0
+simultaneous detection::1.0
+stochastic inversion::1.0
+algorithms localisation::1.0
+pda wireless::1.0
+estimate errors::1.0
+account key::1.0
+rfid measurements::1.0
+reader proximity::1.0
+proposed rfid-based::1.0
+regions covered::1.0
+geometrical regions::1.0
+robot localisation::1.0
+error minimisation::1.0
+related work::1.0
+rfid-based technology::1.0
+sensitivity experiments::1.0
+major intellectual::1.0
+trusted database::1.0
+inferring tag::1.0
+average accuracy::1.0
+approach utilises::1.0
+direction powerdirection::1.0
+coarsely localise::1.0
+tags sensitivity::1.0
+tagpower tagpower::1.0
+pervasive multimedia::1.0
+return tagid::1.0
+map comprised::1.0
+cryptology research::1.0
+sound scientific::1.0
+chip threshold::1.0
+rfid signal::1.0
+level tagpower::1.0
+antenna rfid::1.0
+scientific method::1.0
+errors occur::1.0
+rfid multi-tag::1.0
+achieve comparable::1.0
+lower minimum::1.0
+unexpected facts::1.0
+bounded speed::1.0
+method yields::1.0
+parameter tagidset::1.0
+low-cost passive::1.0
+orientation significantly::1.0
+neighbouring tags::1.0
+experimental environment::1.0
+siam outstanding::1.0
+k-nearest neighbours::1.0
+research efforts::1.0
+antennas emitting::1.0
+search parallel::1.0
+lobes rfid::1.0
+approach consists::1.0
+ad-hoc manner::1.0
+obtaining good::1.0
+range scanner::1.0
+commercial tags::1.0
+5.3.3 error::1.0
+tag location::1.0
+los angeles::1.0
+heuristics localisation::1.0
+2007b seo::1.0
+5.1.2 multi-tag::1.0
+comparable algorithms::1.0
+impedance state::1.0
+active rfid-based::1.0
+comparing behaviours::1.0
+detection algorithm::1.0
+inherent position::1.0
+orientations increase::1.0
+international federation::1.0
+ieee pervasive::1.0
+bluetooth dongle::1.0
+pragmatic approach::1.0
+increased localisation::1.0
+positioning schemes::1.0
+localise multiple::1.0
+date-time timestamp::1.0
+experimental outcomes::1.0
+existing mobile::1.0
+rfid hardware::1.0
+required parallelism::1.0
+applications depend::1.0
+estimate minimum::1.0
+high impedance::1.0
+accurately predict::1.0
+tag spatial::1.0
+usa email::1.0
+feedback mechanism::1.0
+nearest neighbourhood::1.0
+2009b hhnel::1.0
+probability density::1.0
+single reader::1.0
+form tagid::1.0
+property litigations::1.0
+real-time object::1.0
+two extensive::1.0
+separate techniques::1.0
+threshold power::1.0
+section presents::1.0
+k-nearest reference::1.0
+locate objects::1.0
+occams razor::1.0
+developed practical::1.0
+previous research::1.0
+onboard control::1.0
+virtual reference::1.0
+personal communication::1.0
+error sources::1.0
+rssi-based metric::1.0
+tagid power::1.0
+2007a choi::1.0
+additional fine-tuning::1.0
+internet protocol::1.0
+charting past::1.0
+key step::1.0
+2009a jin::1.0
+stationary reader::1.0
+outstanding paper::1.0
+proposed binary::1.0
+sampled clocks::1.0
+region radio::1.0
+errors due::1.0
+mid-value power::1.0
+tagidset power::1.0
+inherent power::1.0
+philosophical note::1.0
+tags distance::1.0
+tags kit::1.0
+runtime complexity::1.0
+return responds::1.0
+hardware expense::1.0
+emitting radio::1.0
+commercial rfid::1.0
+streamlined rfid-based::1.0
+neighbourhood tags::1.0
+two metres::1.0
+intersection regions::1.0
+anonymous reviewers::1.0
+5.2.1 tag::1.0
+robins related::1.0
+ad-hoc interfering::1.0
+lib thingmagic::1.0
+phase phase::1.0
+error varied::1.0
+yielding effective::1.0
+reader interaction::1.0
+line-of-sight constraints::1.0
+monocular camera::1.0
+related research::1.0
+variable tagpower::1.0
+key lessons::1.0
+measurement times::1.0
+adversely affect::1.0
+ineffectual techniques::1.0
+highly accurate::1.0
+environment robots::1.0
+scientific american::1.0
+trustworthy computing::1.0
+key idea::1.0
+readers vicinity::1.0
+2006a bekkali::1.0
+ad-hoc combinations::1.0
+sensitivity varied::1.0
+experiment classified::1.0
+2005b choi::1.0
+wasted effort::1.0
+localisation experiments::1.0
+smart cards::1.0
+embedded systems::1.0
+proposed framework::1.0
+non-rfid technologies::1.0
+heuristic iii::1.0
+size increment::1.0
+min min::1.0
+global position::1.0
+proposed parallel::1.0
+manufacturing variability::1.0
+unknown tags::1.0
+report algorithm::1.0
+readers antennas::1.0
+work recent::1.0
+robots utilising::1.0
+two orthogonally::1.0
+method principles::1.0
+design principles::1.0
+matching orientations::1.0
+experiments showed::1.0
+probabilistic rfid::1.0
+power transmitted::1.0
+horizontal planar::1.0
+key regions::1.0
+actual localisation::1.0
+sensitivity analysis::1.0
+shared region::1.0
+experiment components::1.0
+biographical notes::1.0
+radio signal::1.0
+robotic teams::1.0
+0.21.6 0.20.6::1.0
+fastest algorithm::1.0
+significantly affect::1.0
+antenna orientation::1.0
+key insights::1.0
+computer security::1.0
+employing multi-tags::1.0
+vlsi cad::1.0
+emerging applications::1.0
+converge due::1.0
+scalable manner::1.0
+characterised based::1.0
+radio field::1.0
+four::0.0
+shielding::0.0
+experimentally::0.0
+prize::0.0
+vanini::0.0
+incremented::0.0
+errors::0.0
+designing::0.0
+increasing::0.0
+tagidset::0.0
+filter-based::0.0
+reported::0.0
+china::0.0
+reports::0.0
+divide::0.0
+algorithms localisation technique::0.0
+successful::0.0
+localisation using rfid::0.0
+wang::0.0
+caution::0.0
+absolute::0.0
+feature::0.0
+machine::0.0
+methodology::0.0
+symposium::0.0
+preferable::0.0
+classify::0.0
+utilise::0.0
+types::0.0
+effective::0.0
+average-sensitive::0.0
+include rfid::0.0
+feedback::0.0
+vary::0.0
+effects::0.0
+timeout::0.0
+substantially::0.0
+semiconductor::0.0
+foundation::0.0
+sensors::0.0
+speeds::0.0
+wasa::0.0
+2008b::0.0
+lego::0.0
+tags to establish::0.0
+needed::0.0
+modena::0.0
+minpower::0.0
+showed::0.0
+iteration::0.0
+increment::0.0
+transactions::0.0
+object::0.0
+pp.5669::0.0
+domnitcheva::0.0
+professor::0.0
+vertices::0.0
+incorporate::0.0
+lessons::0.0
+altogether::0.0
+sensitivity::0.0
+top-view::0.0
+result::0.0
+ackerman::0.0
+conceptual::0.0
+support vector::0.0
+readers::0.0
+invisible technologies::0.0
+p.56::0.0
+signals::0.0
+worker::0.0
+pp.7580::0.0
+euclidean::0.0
+step-down::0.0
+trusted::0.0
+cumulative::0.0
+european::0.0
+off-the-shelf::0.0
+echoes::0.0
+previous::0.0
+han::0.0
+equipment::0.0
+hightower::0.0
+pister::0.0
+possibly::0.0
+poses::0.0
+geophysical::0.0
+gathered using multiple::0.0
+yields the highest::0.0
+fox::0.0
+price::0.0
+manufacturing::0.0
+techniques also heavily::0.0
+analytically::0.0
+support::0.0
+6.2.5 reference tag::0.0
+overhead::0.0
+forming::0.0
+localise the target::0.0
+as-is::0.0
+floor::0.0
+kitsos::0.0
+variable::0.0
+detectabilities::0.0
+search algorithm searches::0.0
+techniques tend::0.0
+choice::0.0
+orientations::0.0
+tags farther::0.0
+hindered::0.0
+received signal strength::0.0
+axes::0.0
+current::0.0
+pp.31603165::0.0
+prior-stored::0.0
+accomplished::0.0
+opposed::0.0
+scope::0.0
+algorithm searches::0.0
+framework kirti chawla*::0.0
+degrade::0.0
+zhao::0.0
+optimal::0.0
+parameter::0.0
+tagfound::0.0
+peripheral regions::0.0
+samsung electronics::0.0
+applications::0.0
+data::0.0
+biographical::0.0
+yielding::0.0
+readers are ascertained::0.0
+*corresponding::0.0
+satyanarayanan::0.0
+jin::0.0
+practical techniques::0.0
+sorted::0.0
+establishing::0.0
+square::0.0
+neighbourhood::0.0
+percom::0.0
+internet::0.0
+squares::0.0
+complicated::0.0
+training::0.0
+hekimian-williams::0.0
+platform per mobile::0.0
+measurements obtained::0.0
+future::0.0
+implicitly::0.0
+addressing::0.0
+locations::0.0
+existing rfid-based stationary::0.0
+unsuitable::0.0
+infocom::0.0
+note::0.0
+linear step-wise power::0.0
+microwaves::0.0
+average::0.0
+drive::0.0
+matsumoto::0.0
+settings::0.0
+application-driven::0.0
+uncover::0.0
+vision::0.0
+borriello::0.0
+attenuates::0.0
+ostensibly::0.0
+powerdistance::0.0
+vertical::0.0
+awards::0.0
+bmobile::0.0
+considers::0.0
+determines the operating detection::0.0
+threshold::0.0
+enable::0.0
+readings::0.0
+observe::0.0
+resulting object localisation::0.0
+kimuro::0.0
+lobes rfid antenna::0.0
+technology::0.0
+binary::0.0
+verified::0.0
+fewer::0.0
+determined the preferable::0.0
+high-to-low::0.0
+rfid::0.0
+culler::0.0
+tracking::0.0
+technique to minimise::0.0
+level of accuracy::0.0
+omissions::0.0
+robins::0.0
+k.v.s::0.0
+instrument::0.0
+|power::0.0
+0.140.29::0.0
+world::0.0
+tsunami::0.0
+stationary::0.0
+conditional::0.0
+2010b::0.0
+2010a::0.0
+scientific::0.0
+power::0.0
+figure 13b::0.0
+interfering::0.0
+acm::0.0
+localise::0.0
+conceptually::0.0
+maxpowerlevel::0.0
+elimination::0.0
+impedance::0.0
+technologies::0.0
+bolotnyy::0.0
+estrin::0.0
+spatial::0.0
+congress::0.0
+parallelism::0.0
+cpu::0.0
+end-users::0.0
+developing::0.0
+large::0.0
+outdoor settings::0.0
+small::0.0
+methodical::0.0
+past::0.0
+powerdirection::0.0
+clock::0.0
+section::0.0
+method::0.0
+full::0.0
+pp.2121::0.0
+young::0.0
+0.51.0::0.0
+estimate::0.0
+select::0.0
+vlsi::0.0
+tested::0.0
+foundations::0.0
+keeping::0.0
+science::0.0
+approach suits::0.0
+impacts::0.0
+axis::0.0
+information::0.0
+respective::0.0
+intended::0.0
+mapping::0.0
+bioinformatics::0.0
+fundamental::0.0
+patil::0.0
+radios::0.0
+trade::0.0
+divide the proposed::0.0
+entire::0.0
+propose::0.0
+found::0.0
+measurement::0.0
+operation::0.0
+research::0.0
+denoted::0.0
+cicirelli::0.0
+offline::0.0
+occurs::0.0
+localization::0.0
+atms::0.0
+tags and determining::0.0
+similarly::0.0
+positioning::0.0
+major::0.0
+types of rfid::0.0
+number::0.0
+kobe::0.0
+introduction::0.0
+relationship::0.0
+determines::0.0
+determined::0.0
+reliance::0.0
+internal::0.0
+analogy::0.0
+e-health::0.0
+confluence::0.0
+plag::0.0
+mega-utilities::0.0
+ambiguities::0.0
+indicator::0.0
+factor::0.0
+confirm its general::0.0
+dependent::0.0
+closely::0.0
+localisation an rfid-based::0.0
+enhanced::0.0
+set::0.0
+seo::0.0
+contour::0.0
+lee::0.0
+pp.141147::0.0
+leveraging::0.0
+knowing::0.0
+sampled::0.0
+interface::0.0
+improved::0.0
+improves::0.0
+pda::0.0
+acted::0.0
+tags typically::0.0
+publishing::0.0
+conceptualisation::0.0
+price of resorting::0.0
+reliable::0.0
+empirical::0.0
+reliably::0.0
+error::0.0
+variabilities::0.0
+vol::0.0
+averaging::0.0
+shorter::0.0
+levels::0.0
+recent::0.0
+widely varying detection::0.0
+conclusions::0.0
+location::0.0
+relevance::0.0
+input::0.0
+herculean::0.0
+australia::0.0
+pp.407415::0.0
+sorting::0.0
+communications::0.0
+imposes::0.0
+yields::0.0
+pertaining::0.0
+methods::0.0
+measurements::0.0
+tag orientation tag::0.0
+l11309::0.0
+melbourne::0.0
+computational::0.0
+pp.5665::0.0
+uncertainties::0.0
+specifically::0.0
+considerably::0.0
+link::0.0
+step-wise::0.0
+control the power::0.0
+chae::0.0
+robots::0.0
+fishkin::0.0
+algorithm::0.0
+illustrates::0.0
+results::0.0
+existing::0.0
+illustrated::0.0
+automated inventory::0.0
+categories::0.0
+transmission::0.0
+multimedia::0.0
+indian::0.0
+pertaining to localisation::0.0
+tend to converge::0.0
+gathered::0.0
+technical::0.0
+resulting::0.0
+re-calibration::0.0
+outcomes::0.0
+tools::0.0
+francis::0.0
+detect multiple::0.0
+process::0.0
+labelled::0.0
+challenge::0.0
+publications::0.0
+robins 5.3.3 error::0.0
+high::0.0
+intelligent::0.0
+pocket::0.0
+move::0.0
+chosen::0.0
+outlined::0.0
+rotation::0.0
+outlines::0.0
+sufficiently::0.0
+90-degree::0.0
+society::0.0
+frequency::0.0
+witness::0.0
+effective detection::0.0
+unwieldy::0.0
+6.2.1::0.0
+6.2.3::0.0
+6.2.2::0.0
+6.2.5::0.0
+6.2.4::0.0
+bluetooth link::0.0
+start::0.0
+system::0.0
+peripheral::0.0
+pervasive::0.0
+mtech::0.0
+false::0.0
+robot::0.0
+equipment environment::0.0
+mechanism::0.0
+variable for heuristics::0.0
+orthogonally::0.0
+placement::0.0
+fact::0.0
+dbi::0.0
+dbm::0.0
+characterisation::0.0
+terminate::0.0
+bring::0.0
+committees::0.0
+streamlined::0.0
+rf-based::0.0
+manufacturing variations::0.0
+orthogonal planar::0.0
+visualise::0.0
+12a::0.0
+email::0.0
+operating detection region::0.0
+figures::0.0
+heart::0.0
+minpower required::0.0
+trajectory::0.0
+localising::0.0
+hypothesised::0.0
+laser::0.0
+frameworks::0.0
+surprisingly::0.0
+hardware::0.0
+phd::0.0
+robotic::0.0
+clocks::0.0
+pp.742747::0.0
+combine::0.0
+increased::0.0
+checking::0.0
+increases::0.0
+scheme::0.0
+2nd::0.0
+3-d::0.0
+densely arranged reference tags::0.0
+leveraged::0.0
+increase with higher::0.0
+selecting::0.0
+stage::0.0
+angeles::0.0
+letters::0.0
+naturally::0.0
+function::0.0
+count::0.0
+compute::0.0
+evident::0.0
+problem::0.0
+bearing::0.0
+int::0.0
+contribute::0.0
+graphical::0.0
+compared::0.0
+variety::0.0
+compares::0.0
+details::0.0
+repeat::0.0
+localisation problem::0.0
+searches::0.0
+searched::0.0
+designed to detect multiple::0.0
+pragmatic::0.0
+resort to herculean::0.0
+approach is general::0.0
+relativised::0.0
+consisting::0.0
+simultaneously::0.0
+obtained::0.0
+study::0.0
+vogt::0.0
+highly::0.0
+geometrical considerations::0.0
+glance::0.0
+linearly::0.0
+experimentation::0.0
+key issue::0.0
+award::0.0
+aware::0.0
+work::0.0
+india::0.0
+occur due::0.0
+achieve comparable accuracy::0.0
+provide::0.0
+ordinary::0.0
+classifying::0.0
+lau::0.0
+meaningful::0.0
+presence of an object::0.0
+order::0.0
+japan::0.0
+classified::0.0
+schemes::0.0
+medicine::0.0
+level from highest::0.0
+commercially::0.0
+explicitly compute geometrical::0.0
+compromise::0.0
+joho::0.0
+happily::0.0
+wasted::0.0
+target::0.0
+iros::0.0
+interests::0.0
+manner::0.0
+strength::0.0
+transmit::0.0
+correlating::0.0
+sensitivities were evident::0.0
+hammond::0.0
+rfidbased::0.0
+germany::0.0
+phase::0.0
+acknowledgements::0.0
+calculated::0.0
+heuristics::0.0
+hasegawa::0.0
+visualisation::0.0
+implementation::0.0
+power-distance::0.0
+deliberate capability::0.0
+scalable::0.0
+onboard::0.0
+protocols::0.0
+observed::0.0
+depends::0.0
+electrostatic::0.0
+techniques::0.0
+terms::0.0
+received::0.0
+sensitivities of tags::0.0
+self-localization of mobile::0.0
+improved tag placement::0.0
+applicability::0.0
+oblivious::0.0
+flexible::0.0
+aim::0.0
+property::0.0
+suits a wide::0.0
+software-defined::0.0
+comparative::0.0
+perform::0.0
+rfid ; rfid-based::0.0
+independent::0.0
+counterparts::0.0
+hand::0.0
+epc::0.0
+robots may move::0.0
+farther::0.0
+adding::0.0
+two experiments::0.0
+fourth algorithm::0.0
+passive::0.0
+board::0.0
+2007b::0.0
+2007a::0.0
+security::0.0
+accuracy::0.0
+occlusion::0.0
+iterations are required::0.0
+magnitude using gps::0.0
+nearest reference::0.0
+steps::0.0
+search-based::0.0
+environment robots onboard::0.0
+proposed localisation framework::0.0
+illustration::0.0
+properties::0.0
+tag-reader::0.0
+four-way::0.0
+considerations::0.0
+rendering::0.0
+lowest::0.0
+localisation error figure::0.0
+true::0.0
+maximum::0.0
+isie::0.0
+optimisation::0.0
+computing::0.0
+abstract::0.0
+physical::0.0
+test::0.0
+update::0.0
+impinj::0.0
+co-authored five refereed::0.0
+reception::0.0
+mindstorms::0.0
+mounted::0.0
+algorithm to calibrate::0.0
+probability-based::0.0
+zhang::0.0
+anonymous::0.0
+gui::0.0
+cost::0.0
+aim towards practicality::0.0
+shared::0.0
+tags having equal::0.0
+minimum an rfid-based::0.0
+levels to localise::0.0
+inference::0.0
+gps for tsunami::0.0
+level from low::0.0
+emitting::0.0
+dogbone::0.0
+cad::0.0
+occur::0.0
+denotations::0.0
+mid-value::0.0
+power reader selection::0.0
+sweeney::0.0
+vorst::0.0
+localize::0.0
+increase the readers::0.0
+speed localisation speed::0.0
+typical::0.0
+tagged::0.0
+statistical::0.0
+ieee::0.0
+reader-based::0.0
+tending::0.0
+vicinity::0.0
+rotations::0.0
+introduce::0.0
+discuss::0.0
+nos::0.0
+inversion::0.0
+lies::0.0
+significantly::0.0
+trade-offs::0.0
+snapshots::0.0
+challenges::0.0
+wavelength::0.0
+shown::0.0
+increase::0.0
+viable::0.0
+shows::0.0
+pp.1017::0.0
+rfid antenna reference::0.0
+advantages::0.0
+2005b::0.0
+reader moves::0.0
+variables::0.0
+comprised::0.0
+responses in order::0.0
+horizontal::0.0
+size::0.0
+localise stationary::0.0
+widely available commercial::0.0
+estimated distance::0.0
+merrell::0.0
+localisation technique reader::0.0
+online::0.0
+phases::0.0
+importantly::0.0
+implications::0.0
+professional::0.0
+typically::0.0
+first detection::0.0
+discovered::0.0
+multitags::0.0
+ad-hoc::0.0
+c++::0.0
+sonar::0.0
+propose to localise::0.0
+algorithm linearly increments::0.0
+rfid localisation::0.0
+operating detection::0.0
+learning::0.0
+number of power::0.0
+skew::0.0
+time-out::0.0
+acoustic waves::0.0
+external::0.0
+accommodating::0.0
+editorial::0.0
+nonlinear stochastic inversion::0.0
+orientation::0.0
+metric::0.0
+consults::0.0
+ambulant health::0.0
+develop::0.0
+nlogp::0.0
+design parameters::0.0
+show that radio::0.0
+speed::0.0
+powerset::0.0
+hypothesis experimentally::0.0
+localising tags::0.0
+real::0.0
+read::0.0
+amd::0.0
+early::0.0
+execution::0.0
+output::0.0
+variability can dramatically::0.0
+occams::0.0
+recorded::0.0
+conference on pervasive::0.0
+comparison::0.0
+robot that acted::0.0
+choi::0.0
+greatly::0.0
+parallel search measure::0.0
+deployed uniformly sensitive::0.0
+formulate::0.0
+area::0.0
+los::0.0
+low::0.0
+curiously::0.0
+embedded::0.0
+2003a::0.0
+scanner::0.0
+describe::0.0
+reliability::0.0
+moves::0.0
+hospitals::0.0
+experiments by taking::0.0
+antenna::0.0
+event::0.0
+multi-tags::0.0
+framework the proposed::0.0
+search algorithm operating::0.0
+thingmagic::0.0
+wireless computing::0.0
+reviewers::0.0
+nodes::0.0
+surroundings-enabling techniques::0.0
+enhancement::0.0
+location systems::0.0
+learned::0.0
+i.e::0.0
+positioning errors::0.0
+amount::0.0
+takes::0.0
+probabilities::0.0
+framework that accurately::0.0
+geometry-obliviousness::0.0
+rssi-based::0.0
+repeated this calibration::0.0
+cns-0716635::0.0
+function of chip::0.0
+tag-based::0.0
+objects by utilising::0.0
+sweeps::0.0
+localization of rfid::0.0
+world congress::0.0
+localisation framework kirti::0.0
+localised with respect::0.0
+co-authored::0.0
+workstation::0.0
+banks::0.0
+held::0.0
+lasers::0.0
+dummies::0.0
+wave wavelength::0.0
+systems::0.0
+charlottesville::0.0
+coarsely localised::0.0
+sensor::0.0
+merriam::0.0
+tag antenna::0.0
+capability::0.0
+positioned::0.0
+philipose::0.0
+issue::0.0
+step-up::0.0
+american::0.0
+exponentially::0.0
+probability::0.0
+precise localisation::0.0
+yield higher detection::0.0
+approach yields::0.0
+error-reducing::0.0
+idtronic::0.0
+framework to localise::0.0
+cumbersome::0.0
+5.2.3 tag localisation::0.0
+u.s::0.0
+lib::0.0
+lim::0.0
+liu::0.0
+implement various phase::0.0
+multi-tags performed::0.0
+searches for tags::0.0
+position::0.0
+ensuing::0.0
+determining the minimum::0.0
+mobile::0.0
+conveniently move::0.0
+compare the proposed::0.0
+parameters::0.0
+combinations::0.0
+takarabe::0.0
+embedded rfid hardware::0.0
+switzerland::0.0
+monza::0.0
+close::0.0
+deploying::0.0
+conditions::0.0
+constructed two mobile::0.0
+scalability::0.0
+ranked::0.0
+invisible::0.0
+reader connected::0.0
+nikitin::0.0
+bigger error sources::0.0
+sensitive::0.0
+experimental::0.0
+address::0.0
+described::0.0
+describes::0.0
+skewing::0.0
+robots onboard control::0.0
+set all tags::0.0
+determination::0.0
+pp.10151020::0.0
+practicality::0.0
+match::0.0
+astationary localisation::0.0
+grant::0.0
+interpolation::0.0
+user::0.0
+european online magazine::0.0
+calibrates::0.0
+database::0.0
+calibrated::0.0
+iterations required::0.0
+inventory management::0.0
+pp.843846::0.0
+distances::0.0
+taiwan::0.0
+brand-new::0.0
+remaining::0.0
+stein::0.0
+game::0.0
+search algorithm trades::0.0
+non-rfid::0.0
+signal::0.0
+r.c::0.0
+metres::0.0
+greatly affect::0.0
+run::0.0
+processing::0.0
+dorazio::0.0
+step::0.0
+ids::0.0
+idc::0.0
+probabilistic::0.0
+placing::0.0
+technology was intended::0.0
+tag sensitivities varied::0.0
+intuitive::0.0
+circuits::0.0
+transmits::0.0
+paola::0.0
+two mobile robots::0.0
+similar::0.0
+metals::0.0
+set of minimum::0.0
+provide less accurate::0.0
+application::0.0
+department::0.0
+graphically::0.0
+svm::0.0
+required::0.0
+utilised::0.0
+neighbouring::0.0
+correlates::0.0
+utilises::0.0
+requires::0.0
+incrementing::0.0
+pp.2958::0.0
+power levels differ::0.0
+multi-tag calibration::0.0
+suits::0.0
+rapid determination::0.0
+c++ # m4 lib::0.0
+presents the implementation::0.0
+wave::0.0
+orientations yield higher::0.0
+positions::0.0
+michael::0.0
+reached their optimal::0.0
+range scanner combined::0.0
+heuristics minimum::0.0
+conference on intelligent::0.0
+s.t::0.0
+noise::0.0
+robins 5.3.3::0.0
+refereed::0.0
+opaque::0.0
+gen2::0.0
+modeling rfid signal::0.0
+experiment::0.0
+values::0.0
+commercial::0.0
+tracking of passive::0.0
+focused::0.0
+copyright::0.0
+detected tags::0.0
+addresses::0.0
+slowly increase::0.0
+camera::0.0
+surface acoustic::0.0
+pp.371377::0.0
+control::0.0
+propose mitigating::0.0
+society of india::0.0
+neighbourhood passive::0.0
+engineering::0.0
+rfid signal strength::0.0
+classified as highly::0.0
+software::0.0
+detect multiple tags::0.0
+localised::0.0
+including::0.0
+detection event::0.0
+emphasised::0.0
+taichung::0.0
+university::0.0
+magnitude::0.0
+mode::0.0
+bluetooth::0.0
+measure::0.0
+describe a mobile::0.0
+pp.98113::0.0
+identifying the onboard::0.0
+geometry::0.0
+determining::0.0
+florida::0.0
+regions of motion::0.0
+times::0.0
+automating::0.0
+improving::0.0
+precisely::0.0
+technologies lies::0.0
+management::0.0
+practitioners::0.0
+plagemann::0.0
+fine-tuning::0.0
+p.v::0.0
+p.j::0.0
+ultrasonic::0.0
+vire active rfid-based::0.0
+prabhu goel research::0.0
+connected::0.0
+tend to generate::0.0
+emerging::0.0
+indoor::0.0
+based::0.0
+pp.683690::0.0
+ostensibly identical commercial::0.0
+achieve::0.0
+two-tuple having unique::0.0
+lowest minimum tag::0.0
+sanson::0.0
+joint::0.0
+select different error::0.0
+packard::0.0
+experiments::0.0
+operates::0.0
+variance in sensitivity::0.0
+computes::0.0
+computer::0.0
+tend::0.0
+adversely affect rfid-based::0.0
+comparable::0.0
+interfere::0.0
+efficiency::0.0
+key::0.0
+algorithm in parallel::0.0
+pp.16::0.0
+kreemer::0.0
+slowly::0.0
+minimise::0.0
+iacc international conference::0.0
+controlled::0.0
+binning::0.0
+controller::0.0
+voltaire portable rfid::0.0
+located::0.0
+comparing the prior-stored::0.0
+surface::0.0
+propose a triangular::0.0
+pp.422440::0.0
+x-axis::0.0
+region radio wave::0.0
+accurate::0.0
+detail::0.0
+sources::0.0
+virtual::0.0
+four impinj dogbone::0.0
+concludes with future::0.0
+intersection::0.0
+alternatively::0.0
+technique reader localisation::0.0
+localise objects::0.0
+pp.33623369::0.0
+intersections::0.0
+real-world::0.0
+journal::0.0
+paper::0.0
+equally::0.0
+utility::0.0
+networking::0.0
+additional::0.0
+results in equally::0.0
+threshold power sensitivity::0.0
+triangular::0.0
+portable rfid reader::0.0
+gain::0.0
+affixed with tags::0.0
+highest::0.0
+reference tag radio::0.0
+limit::0.0
+lobes::0.0
+additionally::0.0
+samsung::0.0
+near-field::0.0
+6pp::0.0
+principles and carefully::0.0
+four proximate::0.0
+consists::0.0
+fronts::0.0
+presents::0.0
+teaching::0.0
+characterised::0.0
+inderscience::0.0
+determining the euclidean::0.0
+affect::0.0
+9pp::0.0
+vector::0.0
+enhance::0.0
+implemented::0.0
+relationships::0.0
+positioning times::0.0
+active::0.0
+step vs localisation::0.0
+two different techniques::0.0
+ignoring::0.0
+cogliati::0.0
+trades off run::0.0
+localization systems::0.0
+onboard control onboard::0.0
+counts::0.0
+ignore the key::0.0
+army::0.0
+neighbours::0.0
+yields high accuracy::0.0
+call::0.0
+type::0.0
+pre-processing::0.0
+density vs localisation::0.0
+room::0.0
+detailed analysis::0.0
+rssi::0.0
+root::0.0
+symposium on circuits::0.0
+number of reference::0.0
+advancing::0.0
+multi-path::0.0
+proposed binary search::0.0
+approaches ignore::0.0
+constructed two::0.0
+previous algorithms::0.0
+operate::0.0
+operations::0.0
+measurements and correlates::0.0
+personal::0.0
+full faraday::0.0
+onboard bluetooth::0.0
+approach imposes::0.0
+combination::0.0
+kit pda wireless::0.0
+weakness::0.0
+tsunamis::0.0
+rfid-based 3-d::0.0
+inexpensive passive reference::0.0
+investigator::0.0
+acoustic::0.0
+constituent::0.0
+principles::0.0
+phase difference estimation::0.0
+quantify::0.0
+locatis::0.0
+reader::0.0
+linear::0.0
+liquids::0.0
+performed uniformly::0.0
+features::0.0
+zell::0.0
+proximate equally sensitive::0.0
+post-processing::0.0
+develop a probabilistic::0.0
+distance::0.0
+enabled::0.0
+mitigating::0.0
+enables::0.0
+enabling::0.0
+illustrates the power-distance::0.0
+inexpensive passive::0.0
+voltaire portable::0.0
+regular::0.0
+mitigate::0.0
+deliberate::0.0
+points::0.0
+principle::0.0
+fact that identical::0.0
+notfound end table::0.0
+stepping::0.0
+nevada::0.0
+paper prize::0.0
+frameworks for ubiquitous::0.0
+embedded rfid::0.0
+localisation methods::0.0
+reference::0.0
+relationship also implicitly::0.0
+pp.174186::0.0
+modeling::0.0
+localisation::0.0
+kirti::0.0
+targeting::0.0
+interest::0.0
+basic::0.0
+rfid tags based::0.0
+mobile and wireless::0.0
+lijding::0.0
+make::0.0
+wireless technologies::0.0
+kit::0.0
+kim::0.0
+2009b::0.0
+5.3.4::0.0
+5.3.3::0.0
+5.3.2::0.0
+5.3.1::0.0
+performance of rfid-based::0.0
+differential-driving mobile robot::0.0
+protocol::0.0
+identify::0.0
+facts::0.0
+amount of experimental::0.0
+respective antenna::0.0
+tuples::0.0
+depicts::0.0
+classify tags::0.0
+identified several key::0.0
+kirti @ virginia.edu::0.0
+describes our experimental::0.0
+dead::0.0
+main design::0.0
+separately::0.0
+reader to read::0.0
+higher resolution minimum::0.0
+tag impacts::0.0
+magazine::0.0
+automatically::0.0
+intellectual::0.0
+astationary::0.0
+recognitions include::0.0
+fraction::0.0
+k-nearest::0.0
+step powerstep power::0.0
+form::0.0
+non-rfid based components::0.0
+attached::0.0
+stages::0.0
+adversely::0.0
+interferences::0.0
+locality::0.0
+doarn::0.0
+required to determine::0.0
+real-time::0.0
+placements::0.0
+depend::0.0
+technique::0.0
+finally::0.0
+analogous::0.0
+geometrical::0.0
+sensitivities varied considerably::0.0
+reliance on line-of-sight::0.0
+utilising multiple::0.0
+herculean efforts::0.0
+round::0.0
+unexpected::0.0
+monocular::0.0
+multi-tag::0.0
+phase is due::0.0
+pp.9799::0.0
+international::0.0
+transparency::0.0
+tags at unknown::0.0
+earthquake::0.0
+institute::0.0
+simultaneous::0.0
+conveniently::0.0
+multi-tag platform consisting::0.0
+flexibility::0.0
+distances from antenna::0.0
+france::0.0
+scenarios::0.0
+combinations yield::0.0
+effort::0.0
+search the first::0.0
+avoiding::0.0
+note that rfid::0.0
+nearest::0.0
+predict::0.0
+mobile robot based::0.0
+14a::0.0
+chemical::0.0
+pure::0.0
+map::0.0
+converge faster::0.0
+designed::0.0
+ambulant::0.0
+journals::0.0
+parallel orientations::0.0
+propose a pre-processing::0.0
+outline::0.0
+utilised the proposed::0.0
+group::0.0
+section describes::0.0
+main::0.0
+texas::0.0
+localising objects::0.0
+zurich::0.0
+parallel processing::0.0
+higher speeds::0.0
+meta-heuristic::0.0
+canada::0.0
+identifying and systematically::0.0
+interference::0.0
+ignoring bigger error::0.0
+parameter powerdirection::0.0
+power search::0.0
+first::0.0
+proofreading::0.0
+gui enabled::0.0
+senta::0.0
+accurately::0.0
+search algorithm operates::0.0
+set-up::0.0
+efficient techniques::0.0
+efficient localisation::0.0
+inferring::0.0
+tags as average::0.0
+topics::0.0
+efficient::0.0
+potential::0.0
+performance::0.0
+track::0.0
+0.21.6::0.0
+combinations of localisation::0.0
+registering::0.0
+affect rfid-based::0.0
+localisation and error::0.0
+chawla::0.0
+transmits an rfid::0.0
+precise::0.0
+low-cost passive tags::0.0
+show::0.0
+rssi values::0.0
+algorithm trades::0.0
+corner::0.0
+approach notes::0.0
+returns the minimum::0.0
+sensitivities::0.0
+power level needed::0.0
+determining minimum tag::0.0
+multi::0.0
+yield::0.0
+relative::0.0
+journal on wireless::0.0
+locomotion speed::0.0
+geometric::0.0
+5.3.1 error::0.0
+infrastructure::0.0
+smart identification::0.0
+trades::0.0
+waves power-distance::0.0
+triangular tag arrangement::0.0
+elmasri::0.0
+control onboard link::0.0
+ucla::0.0
+workshop::0.0
+hodgepodge::0.0
+localisation tag localisation::0.0
+spills::0.0
+sound::0.0
+warning::0.0
+localisation in outdoor::0.0
+planar::0.0
+conferences::0.0
+characteristics::0.0
+yields an average::0.0
+running::0.0
+constructed using lego::0.0
+robot using igs::0.0
+accurately and rapidly::0.0
+outdoor::0.0
+aspect::0.0
+iscas::0.0
+extensive::0.0
+technique varies::0.0
+system sidesteps::0.0
+railroad::0.0
+determination of earthquake::0.0
+identifying::0.0
+multi-tags in order::0.0
+served::0.0
+specifies::0.0
+symposium on wireless::0.0
+ram hard disc::0.0
+matching::0.0
+confirm::0.0
+critical::0.0
+measuring::0.0
+seconds::0.0
+euclidean distance::0.0
+island::0.0
+practical::0.0
+commercial tags discussed::0.0
+underlying rfid::0.0
+references::0.0
+placement strategies tag::0.0
+telemedicine::0.0
+track the lego::0.0
+scattering and tag::0.0
+combined::0.0
+tradeoffs::0.0
+sophisticated::0.0
+arranged::0.0
+kumar::0.0
+automatic control world::0.0
+including accuracy::0.0
+general::0.0
+heavily utilise non-rfid::0.0
+field::0.0
+vision sensor requires::0.0
+robins 5.2.2 tag::0.0
+important::0.0
+four different power::0.0
+techniques are described::0.0
+remote::0.0
+system yields::0.0
+orthogonally placed antennas::0.0
+resolution::0.0
+intuitive intersection-ofregions::0.0
+calibrated using reference::0.0
+expressions::0.0
+pp.12351243::0.0
+fellowship::0.0
+noise and occlusions::0.0
+pp.301306::0.0
+factor in determining::0.0
+difference::0.0
+economically::0.0
+portable::0.0
+analysed how tag::0.0
+ranged::0.0
+component::0.0
+favourably::0.0
+ranges::0.0
+beacon::0.0
+empirically observed::0.0
+operating::0.0
+intelligent mechatronics::0.0
+search::0.0
+post-processing step::0.0
+difference this error-reducing::0.0
+schneegans::0.0
+onboard non-rfid::0.0
+establish::0.0
+tagpower::0.0
+two::0.0
+powerstep::0.0
+approach will tend::0.0
+variations in tag::0.0
+localisation approaches::0.0
+controlling::0.0
+categories based::0.0
+varying::0.0
+pp.13531358::0.0
+h10::0.0
+h11::0.0
+highest minimum tag::0.0
+radio waves power-distance::0.0
+strategies::0.0
+mindstorms kits::0.0
+compare::0.0
+describe our proposed::0.0
+collision::0.0
+minimum::0.0
+four way multi-tag::0.0
+maps::0.0
+arrival of tag::0.0
+level update::0.0
+induce localisation::0.0
+computes the minimum::0.0
+playing::0.0
+numerous ubiquitous computing::0.0
+qualitycontrol::0.0
+uniformly sensitive reference::0.0
+signal strength indicator::0.0
+y-axis rfid::0.0
+uhf::0.0
+good::0.0
+timestamp::0.0
+gradually increase::0.0
+power level tagpower::0.0
+results we divide::0.0
+litigations::0.0
+hard::0.0
+idea::0.0
+errors can occur::0.0
+needed to read::0.0
+technology is sufficient::0.0
+average-sensitive tags results::0.0
+razor::0.0
+low-tohigh mode::0.0
+assumption::0.0
+statement::0.0
+kos::0.0
+unique tag ids::0.0
+park::0.0
+part::0.0
+notfound::0.0
+confirms::0.0
+due to manufacturing::0.0
+paths::0.0
+built::0.0
+illuminated environment::0.0
+significant::0.0
+environment to gather::0.0
+drifts::0.0
+converge::0.0
+carefully::0.0
+find::0.0
+determine their empirical::0.0
+ferret::0.0
+adapts and automatically::0.0
+professor gabriel::0.0
+equally sensitive tags::0.0
+search and outline::0.0
+onerous price::0.0
+locating::0.0
+discussed the parameter::0.0
+practical mitigating solutions::0.0
+expert::0.0
+5.2.2 tag localisation::0.0
+factors on localisation::0.0
+responses::0.0
+small increments::0.0
+chips high::0.0
+prabhu::0.0
+point::0.0
+tags were considered::0.0
+backend::0.0
+ensured::0.0
+requirements and trade-offs::0.0
+kalman::0.0
+understand::0.0
+expected regions::0.0
+technology and applications::0.0
+designing the rfid::0.0
+encountered::0.0
+aspects::0.0
+pure-rfid object localisation::0.0
+italy::0.0
+practicality of previous::0.0
+attenuation::0.0
+maximum localisation::0.0
+landmarc::0.0
+patents::0.0
+shape::0.0
+ultrasonics::0.0
+minimise the localisation::0.0
+source::0.0
+determining the localisation::0.0
+mattern::0.0
+level needed::0.0
+onboard vision sensor::0.0
+explanatory tool::0.0
+orientations and placement::0.0
+schoch::0.0
+serves::0.0
+scale::0.0
+affects::0.0
+connecting::0.0
+eliminate::0.0
+near-field propagation::0.0
+icra::0.0
+2ghz::0.0
+leveraging the empirical::0.0
+reader and tag-based::0.0
+evaluation methodology::0.0
+wireless and mobile::0.0
+usa::0.0
+sensitivity of tags::0.0
+limit the utility::0.0
+proportional::0.0
+xian::0.0
+precise levels::0.0
+oblivious to geometrical::0.0
+underlying principles::0.0
+controlling the experimental::0.0
+constant::0.0
+single::0.0
+burgard::0.0
+orientation issues::0.0
+voltaire::0.0
+sensitivity variations::0.0
+rapidly determines::0.0
+functionality::0.0
+european online::0.0
+yielding an average::0.0
+efforts in order::0.0
+rssi measurement::0.0
+top-view of experimental::0.0
+error-reducing meta-heuristic::0.0
+hard-to-characterise::0.0
+ascertained::0.0
+minpowerlevel::0.0
+localisation notes::0.0
+fewer lobes::0.0
+windows xp c++::0.0
+approach finds::0.0
+severely::0.0
+indoor positioning based::0.0
+real-world factors::0.0
+interests include rfid::0.0
+additional low-cost passive::0.0
+algorithm combinations::0.0
+0.0160.024::0.0
+approaches utilising near-field::0.0
+keywords::0.0
+chicago::0.0
+hx2490::0.0
+vertical stand::0.0
+respect to neighbourhood::0.0
+date-time::0.0
+objects::0.0
+experiment three times::0.0
+alaska::0.0
+conference intelligent sensors::0.0
+update power::0.0
+implement::0.0
+readers power::0.0
+oval::0.0
+average number::0.0
+iit::0.0
+iii::0.0
+tagidset power varying::0.0
+account::0.0
+gabriel::0.0
+minimisation::0.0
+readers gradually::0.0
+performance advantages::0.0
+work in rfid-based::0.0
+affects the localisation::0.0
+varied::0.0
+pre-processing qualitycontrol::0.0
+regions::0.0
+varies::0.0
+philosophy::0.0
+objects using reference::0.0
+charting::0.0
+arrangement::0.0
+resorting::0.0
+computer-human::0.0
+greater::0.0
+5.2.2::0.0
+5.2.3::0.0
+5.2.1::0.0
+5.2.4::0.0
+localize passive::0.0
+strive::0.0
+technique we measured::0.0
+identified::0.0
+compute geometrical regions::0.0
+identifies::0.0
+indoor localisation::0.0
+constraints::0.0
+orientation tag orientation::0.0
+calibrate::0.0
+lecture::0.0
+electronics::0.0
+levels of tags::0.0
+approaches::0.0
+chawla*::0.0
+cost of high::0.0
+interaction::0.0
+south::0.0
+improvements::0.0
+reached::0.0
+works ignore::0.0
+environmental::0.0
+detection::0.0
+rfid localization::0.0
+inversely::0.0
+ipaq::0.0
+levels in parallel::0.0
+friis::0.0
+min::0.0
+stationary object localisation::0.0
+tag tagid::0.0
+path-loss::0.0
+gather::0.0
+selection::0.0
+supported::0.0
+system and propose::0.0
+kits::0.0
+cameras::0.0
+knowledge::0.0
+tag set::0.0
+lobe::0.0
+interfering factors::0.0
+conceptually forming::0.0
+binary search parallel::0.0
+teams::0.0
+fixed::0.0
+analysis and visualisation::0.0
+national::0.0
+greece::0.0
+athlon::0.0
+measured separately::0.0
+system compares::0.0
+desired level::0.0
+establishing and leveraging::0.0
+effective and efficient::0.0
+emitted::0.0
+algorithms described::0.0
+set-up localisation phase::0.0
+taking::0.0
+equal::0.0
+constant and varied::0.0
+active rfid-based localization::0.0
+detailed::0.0
+rfid-based::0.0
+snapshots in densely::0.0
+guiding principle::0.0
+data with real-time::0.0
+iteration variables::0.0
+main guiding::0.0
+prior-obtained::0.0
+arrangements::0.0
+vire::0.0
+algorithm all provide::0.0
+imposes line-of-sight::0.0
+cubic::0.0
+experimentally determined::0.0
+actual positions::0.0
+liuyi::0.0
+sets::0.0
+usual::0.0
+proximity::0.0
+underlying::0.0
+testbed::0.0
+figure 14b::0.0
+figure 14a::0.0
+difference estimation algorithms::0.0
+sutc::0.0
+works::0.0
+environment-embedded::0.0
+level estimation errors::0.0
+localisation requires slower::0.0
+simplex::0.0
+tagidset check::0.0
+actual::0.0
+boards::0.0
+wave at first::0.0
+stmwc::0.0
+conceptual explanatory::0.0
+experiments use epc::0.0
+conclusions and future::0.0
+young investigator award::0.0
+strengths and received::0.0
+journal and e-health::0.0
+repeated::0.0
+variations::0.0
+depicts four antennas::0.0
+minutes::0.0
+experiments to ensure::0.0
+reader operation::0.0
+techniques and technologies::0.0
+verified this hypothesis::0.0
+accommodate drifts::0.0
+gbytes windows::0.0
+stochastic inversion problem::0.0
+limited::0.0
+comparatively::0.0
+model the indoor::0.0
+dubendorfer::0.0
+framework aim::0.0
+combined overall average::0.0
+guiding::0.0
+consistent::0.0
+estimates::0.0
+direct::0.0
+estimated::0.0
+identification technology::0.0
+selected::0.0
+signals received::0.0
+6.2.4 power::0.0
+accurate estimates::0.0
+path::0.0
+heuristics are performed::0.0
+changed::0.0
+selected topics::0.0
+report algorithm achieve::0.0
+abundance::0.0
+locality theoretically::0.0
+matching the onboard::0.0
+drive invisible technologies::0.0
+ignore the fact::0.0
+end::0.0
+return power end::0.0
+sensitivities varied::0.0
+differential-driving::0.0
+parallel::0.0
+amin::0.0
+francis group::0.0
+complexity::0.0
+algorithms::0.0
+executed::0.0
+read phase::0.0
+hx2490 pocket::0.0
+ims::0.0
+drawback::0.0
+iswpc::0.0
+sensitivities can substantially::0.0
+illustrates this parallel::0.0
+tag positions::0.0
+oriented rfid tags::0.0
+lasting::0.0
+dongle::0.0
+combining::0.0
+explicitly compute::0.0
+adjust::0.0
+complex geometry::0.0
+accommodating various error::0.0
+associate::0.0
+sensitivity of ostensibly::0.0
+pseudo-code::0.0
+inexpensive::0.0
+epc gen2 passive::0.0
+industrial::0.0
+readers linear::0.0
+accurate localization::0.0
+philosophical::0.0
+difference estimation::0.0
+0.20.6::0.0
+ceiling::0.0
+pp.277288::0.0
+tool::0.0
+propose practical::0.0
+level to power::0.0
+abowd::0.0
+kalman filtering::0.0
+rao::0.0
+ram::0.0
+inherent in determining::0.0
+report input::0.0
+speed localisation::0.0
+oriented::0.0
+2006a::0.0
+effectiveness::0.0
+rfid indoor positioning::0.0
+peers::0.0
+-based::0.0
+yang::0.0
+describe the underlying::0.0
+random::0.0
+radio::0.0
+solutions::0.0
+fuzzy::0.0
+delays::0.0
+reader and reference::0.0
+localise the mobile::0.0
+report::0.0
+record the unique::0.0
+minimise possible localisation::0.0
+automatic::0.0
+sensitivities across identical::0.0
+tags results::0.0
+approach::0.0
+discovery::0.0
+schilit::0.0
+localization scheme based::0.0
+improve::0.0
+algorithm sweeps::0.0
+intersection-ofregions::0.0
+tagged environments::0.0
+editorial boards::0.0
+variance::0.0
+expense::0.0
+analysis of multi-tags::0.0
+conference::0.0
+quickly::0.0
+comprised of reference::0.0
+skalak::0.0
+approach closely approximates::0.0
+evaluation and results::0.0
+platform calibration::0.0
+affixed::0.0
+enterprises::0.0
+checking the power::0.0
+dramatically affect::0.0
+usable::0.0
+report combined approach::0.0
+infrequently::0.0
+interface to visualise::0.0
+complex::0.0
+inventory::0.0
+radio wave localisation::0.0
+portal::0.0
+varying detection::0.0
+cycle::0.0
+5.1.1::0.0
+fusion::0.0
+5.1.2::0.0
+components and avoiding::0.0
+w.c::0.0
+probability density function::0.0
+proposed::0.0
+onboard monocular::0.0
+scattering::0.0
+explanatory::0.0
+mega-utilities drive::0.0
+algorithms for estimating::0.0
+advances::0.0
+probabilities than parallel::0.0
+advanced::0.0
+identical commercial tags::0.0
+readers location::0.0
+resulting object::0.0
+friis transmission::0.0
+knowing the power::0.0
+slower speeds::0.0
+algorithmic::0.0
+observed empirical powerdistance::0.0
+chapter::0.0
+limitation::0.0
+trustworthy::0.0
+ensure::0.0
+efforts::0.0
+runtime::0.0
+problem of object::0.0
+low-cost::0.0
+obtaining::0.0
+upgradethe::0.0
+accommodate::0.0
+rely::0.0
+lower the average::0.0
+comparing::0.0
+compromise key::0.0
+6.2.2 localisation::0.0
+previous research works::0.0
+successfully::0.0
+found this linear::0.0
+differences::0.0
+calibration of tags::0.0
+wireless::0.0
+refereed publications::0.0
+milella::0.0
+simplifying::0.0
+cpu ram::0.0
+check::0.0
+constructed::0.0
+setting::0.0
+tags affects::0.0
+papers::0.0
+iacc::0.0
+robots using lego::0.0
+powerstep end end::0.0
+experimental testbed::0.0
+lower positioning::0.0
+fuzzy inference::0.0
+include algorithms::0.0
+longer::0.0
+constituent tags::0.0
+control onboard::0.0
+focus::0.0
+vary the reader::0.0
+environment::0.0
+reports a lower::0.0
+pp.10351040::0.0
+broadly::0.0
+fontelo::0.0
+level::0.0
+densely arranged::0.0
+quick::0.0
+approach is equally::0.0
+slower::0.0
+localisation phase phase::0.0
+relationship in section::0.0
+algorithms localise tags::0.0
+goel::0.0
+robins 5.1.2 multi-tag::0.0
+real-time measurements::0.0
+learn::0.0
+qualitycontrol check::0.0
+unknown locations::0.0
+direction estimation::0.0
+leads to efficient::0.0
+desired localisation::0.0
+approach for localising::0.0
+parameters for optimisation::0.0
+levels obtained::0.0
+insights::0.0
+figure::0.0
+chip threshold power::0.0
+performed::0.0
+self-localization with rfid::0.0
+requirements::0.0
+fourth::0.0
+affect the localisation::0.0
+huge::0.0
+compare prior-obtained training::0.0
+receptivity::0.0
+heavily utilise::0.0
+utilise non-rfid::0.0
+bring into question::0.0
+sensors for local::0.0
+scanner combined::0.0
+achieve a desired::0.0
+presence::0.0
+platform::0.0
+tags using phase::0.0
+application scenarios::0.0
+enables only uniformly::0.0
+science board::0.0
+enhance the localisation::0.0
+recognitions::0.0
+operating range::0.0
+errors enabled::0.0
+approximates::0.0
+environment and objects::0.0
+seoul::0.0
+factors::0.0
+wiley::0.0
+power varying direction::0.0
+pp.350362::0.0
+motion::0.0
+turn::0.0
+place::0.0
+waves::0.0
+computed::0.0
+localisation framework depends::0.0
+plastic::0.0
+returns::0.0
+fusion system::0.0
+outlines key lessons::0.0
+implicitly determines::0.0
+faraday cycle analysis::0.0
+wide::0.0
+require::0.0
+impact on localisation::0.0
+cards::0.0
+outcome::0.0
+local position::0.0
+readers by measuring::0.0
+matching an onboard::0.0
+generality::0.0
+accuracy and running::0.0
+probabilistic sensor model::0.0
+pp.230::0.0
+ideal::0.0
+strengths::0.0
+multiple::0.0
+levels from high::0.0
+step of sorting::0.0
+vector machine::0.0
+falls::0.0
+multi-tags have superior::0.0
+bekkali::0.0
+far-field::0.0
+pda wireless details::0.0
+considered::0.0
+parallel search localisation::0.0
+skew this relationship::0.0
+related research work::0.0
+approach naturally adapts::0.0
+state::0.0
+explicitly::0.0
+high in small::0.0
+technology keep advancing::0.0
+complicated issues::0.0
+responses of two::0.0
+unknown conditions::0.0
+taylor and francis::0.0
+computer-human interaction::0.0
+3-d positioning schemes::0.0
+localization mechanism::0.0
+improved tag::0.0
+detect::0.0
+reliably characterised::0.0
+subsequent::0.0
+end set reader::0.0
+plastic material::0.0
+arrival::0.0
+set of unique::0.0
+densely::0.0
+rapidly::0.0
+mynatt::0.0
+antenna gains::0.0
+region::0.0
+propagation::0.0
+filtering::0.0
+square absolute difference::0.0
+bricks::0.0
+robotics::0.0
+iterations::0.0
+move the mobile::0.0
+densely tagged::0.0
+detected::0.0
+direction::0.0
+international joint::0.0
+call it low::0.0
+iacc international::0.0
+careful::0.0
+shenoy::0.0
+case::0.0
+adverse effects::0.0
+spatial and horizontal::0.0
+localisation strategy::0.0
+commercially obtained::0.0
+coupled::0.0
+simulations::0.0
+inversely proportional::0.0
+varying the power::0.0
+author::0.0
+coarsely::0.0
+kaushik::0.0
+wireless algorithms::0.0
+estimation::0.0
+components::0.0
+model::0.0
+pp.432436::0.0
+previous methods::0.0
+heuristic::0.0
+overlapped::0.0
+icpp::0.0
+relying on non-rfid::0.0
+low-accuracy::0.0
+variability in detection::0.0
+conference on robotics::0.0
+virginia::0.0
+predetermined::0.0
+end return powerset::0.0
+particle::0.0
+respect::0.0
+moot::0.0
+important factor::0.0
+multiple orthogonally oriented::0.0
+discussed::0.0
+developed a visualisation::0.0
+stand::0.0
+communication::0.0
+5.3.2 error heuristic::0.0
+determine::0.0
+localisation error-reducing heuristic::0.0
+theoretically::0.0
+detectable::0.0
+search-based approach::0.0
+usual abundance::0.0
+illuminated::0.0
+active tags::0.0
+fundamentals::0.0
+reduce::0.0
+wave localisation error::0.0
+faster::0.0
+performed two extensive::0.0
+sensitive using read::0.0
+localise readers::0.0
+placing more densely arranged::0.0
+taylor::0.0
+onerous::0.0
+igs::0.0
+densely arranged reference::0.0
+two-step approach::0.0
+separate::0.0
+utilise an onboard::0.0
+bounded::0.0
+necessitated::0.0
+experimental variables::0.0
+placement are key::0.0
+tagpower end end::0.0
+type backend::0.0
+disc::0.0
+gbytes::0.0
+stochastic::0.0
+global::0.0
+icar::0.0
+induce::0.0
+sons::0.0
+automatically calibrates::0.0
+read-range::0.0
+leads::0.0
+evaluation::0.0
+list::0.0
+computing applications depend::0.0
+programme::0.0
+passive rfids::0.0
+employing::0.0
+necessitated rfid-based object::0.0
+design::0.0
+search yields::0.0
+challenges and developed::0.0
+nonlinear::0.0
+sum::0.0
+prior-obtained training::0.0
+report combined::0.0
+tags::0.0
+behaviour::0.0
+directions::0.0
+observing::0.0
+increments::0.0
+d.w::0.0
+analysis tag manufacturing::0.0
+challenge in reliably::0.0
+2004b::0.0
+heuristics for significantly::0.0
+based on probabilistic::0.0
+minpower end::0.0
+minor::0.0
+sonar fusion::0.0
+approach can simultaneously::0.0
+tend to yield::0.0
+empirical calibration measurements::0.0
+equation::0.0
+ineffectual::0.0
+selection this error-reducing::0.0
+blewitt::0.0
+occlusions::0.0
+equipment and protocols::0.0
+niagara::0.0
+arise::0.0
+federation::0.0
+concept::0.0
+2009a::0.0
+goal::0.0
+14b::0.0
+orthogonal::0.0
+occasionally::0.0
+lowtohigh::0.0
+simplicity::0.0
+ubiquitous::0.0
+okal::0.0
+differential-driving mobile::0.0
+empirically determining::0.0
+pp.689700::0.0
+minimum reader power::0.0
+bearing estimation technique::0.0
+developed::0.0
+component cpu::0.0
+pp.5766::0.0
+cryptology::0.0
+resort::0.0
+return::0.0
+orthogonally positioned::0.0
+framework::0.0
+bigger::0.0
+alippi::0.0
+recorded the cumulative::0.0
+rfid multi-tag platform::0.0
+effects of multi-path::0.0
+inherent::0.0
+multiple iterations::0.0
+weight::0.0
+expect::0.0
+organised::0.0
+min min 5.3.2::0.0
+personal and ubiquitous::0.0
+health::0.0
+4pp::0.0
+induced::0.0
+differ::0.0
+programme committees::0.0
+generate::0.0
+unique::0.0
+e.d::0.0
+drive invisible::0.0
+e.g::0.0
+robins related work::0.0
+wimob::0.0
+student::0.0
+leading::0.0
+multiple antennas::0.0
+gps::0.0
+versatility::0.0
+kind::0.0
+related work recent::0.0
+factors that interfere::0.0
+identical commercial::0.0
+outstanding::0.0
+binary search-based::0.0
+tags kit pda::0.0
+0.10.9::0.0
+sidesteps these complicated::0.0
+vire active::0.0
+range of localisation::0.0
+powerstep end return::0.0
+first glance::0.0
+measured::0.0
+windows::0.0
+evaluation showed::0.0
+mechatronics::0.0
+strength and tag::0.0
+uniform::0.0
+omissions bring::0.0
+gains::0.0
+real-time object identification::0.0
+localisation technique based::0.0
+fastest::0.0
+favourably with previous::0.0
+robots onboard::0.0
+orientation of mobile::0.0
+achieved::0.0
+mobile platforms::0.0
+trade off localisation::0.0
+nearest neighbourhood reference::0.0
+muthukrishnan::0.0
+degrading::0.0
+low-tohigh::0.0
+numerous::0.0
+korea::0.0
+initially::0.0
+detection for localization::0.0
+virginia.edu::0.0
+relying::0.0
+robins 5.2.2::0.0
+density::0.0
+simultaneously localise::0.0
+finds::0.0
+arbitrarily::0.0
+uniformly::0.0
+accuracy data::0.0
+spatiality::0.0
+startling::0.0
+12a and 12b::0.0
+due::0.0
+strategy::0.0
+trade-offs including::0.0
+precision::0.0
+batch::0.0
+evaluated::0.0
+root sum::0.0
+international conference intelligent::0.0
+environment by utilising::0.0
+widely::0.0
+higher::0.0
+moving::0.0
+munich::0.0
+locomotion::0.0
+robust::0.0
+expensive or unwieldy::0.0
+lower::0.0
+6.2.3 localisation speed::0.0
+analysis::0.0
+b.n::0.0
+two-step::0.0
+pure-rfid::0.0
+tsunami warning::0.0
+offline pre-processing qualitycontrol::0.0
+hhnel::0.0
+additional number::0.0
+sound-based::0.0
+intersection of radio::0.0
+u.s national::0.0
+located onboard::0.0
+depicts four::0.0
+systematically::0.0
+ignore::0.0
+empirically::0.0
+sensors in combination::0.0
+pp.17271732::0.0
+naturally adapts::0.0
+gradually::0.0
+read the reference::0.0
+rfid antenna rfid::0.0
+localise the active::0.0
+algorithms ; power-distance::0.0
+versatility of lego::0.0
+planar orientations increase::0.0
+siam outstanding paper::0.0
+reader attenuates inversely::0.0
+values of virtual::0.0
+range::0.0
+orientations of two::0.0
+tag sensitivity analysis::0.0
+infer::0.0
+question::0.0
+long::0.0
+technique reader::0.0
+applicable::0.0
+read counts ranged::0.0
+deployed::0.0
+control experimental::0.0
+feature detection algorithm::0.0
+describes the runtime::0.0
+objects by comparing::0.0
+made of lego::0.0
+position estimate errors::0.0
+startling and unexpected::0.0
+nice::0.0
+generates::0.0
+generated::0.0
+sensitive reference tags::0.0
+shorter distances::0.0
+proximate::0.0
+level tagpower tagpower::0.0
+eds::0.0
+issues::0.0
+repeat power::0.0
+algorithm takes::0.0
+include::0.0
+dramatically::0.0
+notes::0.0
+noted::0.0
+limitations::0.0
+smaller::0.0
+sukhatme::0.0
+tools we designed::0.0
+techniques to localise::0.0
+concludes::0.0
+generate higher resolution::0.0
+localisation errors occur::0.0
+networks::0.0
+impact::0.0
+online magazine::0.0
+desired::0.0
+observed power-distance relationship::0.0
+target and reference::0.0
+issnip::0.0
+minimum power reader::0.0
+online post-processing::0.0
+metre::0.0
+low-to-high::0.0
+level required::0.0
+batch of four::0.0
+api::0.0
+advanced robotics::0.0
+simplicity in algorithmic::0.0
+expected::0.0
+powerstep output::0.0
+depicted::0.0
+chip::0.0
+sort::0.0
+determines the read-range::0.0
+antenna rfid multi-tag::0.0
+antennas::0.0
+information processing::0.0
+control tools::0.0
+engels::0.0
+tag::0.0
+pp.328::0.0
+serial::0.0
+two separate::0.0
+framework figure::0.0
+hexahedron::0.0
+speed limitations::0.0
+shows orthogonal::0.0
+line-of-sight::0.0
+efficient for localising::0.0
+algorithm achieve comparable::0.0
+neighbourhood active::0.0
+collision resolution::0.0
+superior::0.0
+estimating::0.0
+covered::0.0
+13b::0.0
+13a::0.0
+material::0.0
+combine these localisation::0.0
+adapts::0.0
+unpredictable::0.0
+transmitted::0.0
+including collision::0.0
+j.s::0.0
+research directions::0.0
+related::0.0
+system that transmits::0.0
+joint conference::0.0
+out::0.0
+scheme based::0.0
+tagid::0.0
+behaviours::0.0
+moving at higher::0.0
+york::0.0
+variables as tag::0.0
+search algorithms search::0.0
+algorithm in low-to-high::0.0
+finer-granularity::0.0
+unknown::0.0
+technical programme::0.0
+proximity maps::0.0
+siam::0.0
+number cns-0716635::0.0
+virginia.edu *corresponding author::0.0
+diminish::0.0
+rfids::0.0
+occlusion environmental::0.0
+signal strengths::0.0
+physical world::0.0
+search timeout::0.0
+strategies tag::0.0
+location and proximity::0.0
+localization using rfid::0.0
+centre::0.0
+minor variations::0.0
+power is required::0.0
+self-localization::0.0
+tag placement strategies::0.0
+systems for ubiquitous::0.0
+components is based::0.0
+locations of reference::0.0
+radio noise::0.0
+indian institute::0.0
+ids encountered::0.0
+surroundings-enabling::0.0
+nearer::0.0
+return tagpower::0.0
+operational::0.0
+target mobile::0.0
+smallest::0.0
+placing active::0.0
+local::0.0
+cube::0.0
+confluence of radio::0.0
+tags as-is::0.0
+words::0.0
+2008b linear::0.0
+chips::0.0
+rfid hardware functionality::0.0
+pragmatic relative::0.0
+rf-based approaches::0.0
+non-functional::0.0
+ascertain::0.0
+view::0.0
+determining minimum::0.0
+sum square absolute::0.0
+closer::0.0
+arguably::0.0
+identification::0.0
+neighbouring reference::0.0
+variability::0.0
+ability::0.0
+hypothesis::0.0
+havinga::0.0
+timeout occurs::0.0
+utilising::0.0
+due to interferences::0.0
+two stages::0.0
+level estimation::0.0
+environments::0.0
+table::0.0
+responds::0.0
+varies the power::0.0
+sidesteps::0.0
+sufficient::0.0
+hard disc::0.0
+maps are generated::0.0
+present::0.0
+maximum possible localisation::0.0
+problem of localising::0.0
+depicted in figures::0.0
+member::0.0
+adverse::0.0
+onboard the objects::0.0
+rfid-handbook::0.0
+contactless::0.0
+difficult::0.0
+direction powerdirection output::0.0
+pp.218231::0.0
+automation::0.0
+romer::0.0
+tagid and current::0.0
+yield the smallest::0.0
+two-tuple::0.0
+sensing::0.0
+excessive::0.0
+heavily::0.0
+sum square::0.0
+operational speed::0.0
+12b::0.0
+rapid::0.0
+5.2.4 reader localisation::0.0
+capabilities::0.0
+resulting in high::0.0
+smart::0.0
+earthquakes::0.0
+identical::0.0
+reliable rfid-based localisation::0.0
+cumbersome non-rfid::0.0
+variants::0.0
+vary the power::0.0
+helpful::0.0
+power level power::0.0
+empirical approach naturally::0.0
+framework was designed::0.0
+y-axis::0.0
+searching::0.0
+yield much higher::0.0
+foundation young investigator::0.0
+platforms::0.0
+faraday::0.0
+tagid power varying::0.0
+uncover startling::0.0
+expensive::0.0
+manner of operation::0.0
+locate::0.0
+analysed::0.0
+low read::0.0
+converging::0.0
+individually::0.0
+methods also require::0.0
+outlines key::0.0
+sub-sections::0.0
+localise tags::0.0
+robins reader::0.0
+volume::0.0
+contradictory::0.0
+automated::0.0
+figures 12a::0.0
+made::0.0
+localisation environment::0.0
+record::0.0
+provide object localisation::0.0
+heuristics localisation errors::0.0
+compare favourably::0.0
+greater detail::0.0
+calibration::0.0
+book::0.0
+impact effective::0.0
+conclusion::0.0
+sensitivities become invisible::0.0
+inherently::0.0
+finkenzeller::0.0
+tzeng::0.0

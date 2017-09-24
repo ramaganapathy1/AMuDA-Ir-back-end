@@ -1,0 +1,787 @@
+c TÜBİTAK
+Turk J Elec Eng & Comp Sci, Vol.18, No.2, 2010, 
+doi:10.3906/elk-0904-3
+
+An RFID based indoor tracking method for navigating
+visually impaired people
+Ruşen ÖKTEM and Elif AYDIN
+Department of Electrical & Electronics Engineering, Atılım University,
+İncek, 06836, Ankara-TURKEY
+e-mail: rusen@atilim.edu.tr, eaydin@atilim.edu.tr
+
+Abstract
+This paper tackles the RFID based tracking problem in an obscured indoor environment. The proposed
+solution is an integral part of a navigation aid for guiding visually impaired people in a store. It uses RF
+signal strengths and is based on the Bayes Decision Theory. An observation vector is formed by received radio
+signal strength indication values, transmitted from three transmitters at distinct frequencies in the UHF band.
+The indoor area is divided into square grids, where each grid is considered as a class. The problem of tracking
+is expressed as classifying the observed radio signal strengths to the most likely class. A classiﬁcation rule is
+formulated by incorporating a priori assumptions appropriate for the studied model. The proposed approach
+is tested in a laboratory environment. The results prove that the proposed approach is promising in tracking
+especially when the tracked person is guided by a system.
+Key Words: Tracking, location estimation, RF signals, Bayes, RFID, classiﬁcation.
+
+1.
+
+Introduction
+
+Several studies have been conducted to improve the navigation of visually impaired people in both indoor and
+outdoor environments [1-8]. A major challenge of navigation devices lies behind the requirement for a reliable
+positioning method in order to be able to guide the user in the correct direction. Location estimation algorithms
+are particularly exploited by services providing navigation aids, or by those tracking a person or an object in
+a certain environment. The technology used in location estimation and tracking depends on the type of the
+subject environment (indoor, outdoor, large scale, etc.) and also on the application. For example, Global
+Positioning System (GPS) or Geographic Information System (GIS) based systems are often utilized for large
+scale outdoor environments [1,2]. On the other hand, a pair of AM radio signal transmitters and a receiver,
+producing beep sounds when triggered, is preferred for the sake of simplicity and low cost, when a person wants
+to know the location of a particular object in a small scale outdoor environment [3]. For indoor environments,
+multiple ultrasound or infrared transmitters mounted on the walls or at the ceiling can be used [1,4]. Such a
+185
+
+Turk J Elec Eng & Comp Sci, Vol.18, No.2, 2010
+
+system enables estimation of the location of the receiver, by using received signal strength. However, line-ofsight requirement of ultrasound and infrared sensors limit their use in obscured environments. Use of passive
+Radio Frequency Identiﬁcation (RFID) tags in a grid like structure is another alternative to track or estimate
+the location with respect to the nearest transmitter [5]. The radio signals do not require line-of-sight, and
+radio signal transmitters are easy to integrate into wireless networks. Hence, they have been particularly used
+for network based location estimation and tracking purposes [6-9]. By the term “network based” we refer to
+monitoring the location of a subject through a network.
+Several localization and tracking systems proposed in the literature utilize distance measurement functions
+[10,11]. The distance measurement function measures the distance between a receiver and a transmitter. The
+Time Diﬀerence of Arrival (TDOA), the Time of Arrival (TOA) and the Received Signal Strength (RSS) are
+among the functions used for distance estimations. Takizawa et al. [10] state that TDOA distance measurement
+requires two diﬀerent wireless media such as sound and radio waves and TOA distance measurement needs highly
+accurate time synchronization technology. On the other hand, RSS exploits either theoretical or empirical
+calculations for mapping the signal strength measurements to distance. However, radio signals are subject to
+reﬂections, diﬀractions and scattering in obscured environments. These result in multipath eﬀect and time
+variance of the observation, hence performance decrease in the estimation. Statistical modeling approaches are
+incorporated for improving the performance in such cases [7-14]. These approaches include maximum likelihood
+[6,7,13] and Bayesian methods [8,9,12,14]. Generally, a radio signal propagation model is assumed ﬁrst, and then
+statistical approaches are used to estimate the model parameters. The model and the formulations may change
+according to the application. For example, in order to estimate the distance to access points, the parameters of
+log-distance path loss model is extracted using the Bayesian Theorem in [8]. A hierarchical Bayesian graphical
+model improves the performance, when Wi-Fi signals collected by multiple terminals are processed for tracking
+device and personnel in a three ﬂoor building [9].
+In this work, a medium scale obscured indoor environment is focused on. The aim is to monitor the
+location of a visually impaired person, by processing RSS indication (RSSI) levels sensed by an RFID tag
+carried by the visually impaired person. The tag collects signals from three RF transmitters broadcasting at
+distinct frequencies. The user is guided to follow a certain route by a tactile compass. The directions pointed
+out by the compass are exploited as a priori information by the location estimation algorithm. The subject
+environment and data collection system studied in this work are described in Section 2. Next, we introduce
+the path loss model and compare the measured RSS values with empirically generated ones in Section 3. The
+developed Bayes decision based tracking algorithm and its performance are presented in Sections 4 and 5,
+respectively.
+
+2.
+
+Subject environment and data collection
+
+Location estimation and tracking systems are often composed of two units: data collection and data processing.
+Data collection hardware can be composed of active or passive sensors such as infrared, ultrasound, RF or
+Wi-Fi transceivers. The selection depends on the type and scale of the environment and whether line-of-sight
+is required or not. Infrared and ultrasound sensors require line of sight which is not appropriate for large scale
+or obstacle ﬁlled environments [15]. In this work, we use radio signal transmitters and a single active RFID
+tag, which do not require line-of-sight. An RFID tag is an object that can be carried by being attached to or
+186
+
+ÖKTEM, AYDIN: An RFID based indoor tracking method for...,
+
+incorporated into a product, object, animal, or person for the purpose of identiﬁcation using radio waves. RFID
+tags can be programmed to store and transmit data to be used for market or location sensing applications. There
+exist passive and active tags, where passive tags require no power source, and active tags do [16]. LANDMARC
+[17] is an RFID based location-sensing system which exploits a number of active tags separately for reference
+and tracking purposes. Its location reference tags are used to help location calibration, whereas tracking tags
+are attached to objects. The accuracy of the system is one to three meters. However, considering that four
+RFID readers are used for an indoor area in the scale of 36m 2 , the expense of RFID readers will not justify
+deploying the system in a larger scale. Moreover, the placement and number of reference tags should be carefully
+designed since they aﬀect the system performance.
+In this work, we assume that an active RFID tag is attached to a compact portable hardware unit, and
+that unit is carried by a visually impaired person. The visually impaired person is navigated around in an indoor
+environment and is directed to follow a certain route. The environment considered in this work is a laboratory
+in the scale of (6.8, 19.5, 2.9)m. The area includes obstacles, which cause scattering and reﬂection of radio
+waves. Obstacles are walls, windows, wooden tables with 73 cm height and steel shelves (180x60x192cm), etc.
+One side of the room is covered with windows and the room walls are made of concrete blocks while the room
+ceiling is made of concrete with 2cm plaster and ﬂoor of concrete with 4cm chipboard. Measured data include
+recordings of RSS indicator (RSSI) levels from three UHF transmitters. RSSI measurements are carried out with
+the use of an active RFID tag and reader, and 3 transmitter-beacons. Each of the three transmitters is located
+at distant locations of the subject environment as in Figure 1, on the walls, in a way to form a triangle. The
+coordinates of TX1, TX2 and TX3 are (5.75, 0, 2.35)m, (1.2, 10.5, 2.9)m and (5.75, 19.5, 2.35)m, respectively.
+Each transmitter transmits RF signals at UHF band, with distinct frequencies (433.056 MHz, 433.344 MHz and
+433.680 MHz) and with -10dBm. The tag is assumed to be carried by the person to be tracked, and it collects
+signal strengths from the three transmitters. The RSSI sensed by the tag is transferred to a computer via
+RFID reader by use of proprietary data collection software, and is processed by the computer (data processing
+system). RSSI values are directly proportional to the RSS levels; hence they possess a correspondence to the
+distance between the tag and the transmitter.
+
+transmitters
+obstacles
+
+Figure 1. An example indoor environment and positioning of transmitters.
+
+Special attention is required for adjusting the power levels of the transmitters. If the power level is too
+high, RSSI readings at the neighboring locations may become indistinct. If the power level is too low, RSSI
+readings from the most distant locations will be at noise level. As the scale of the subject environment exceeds
+the coverage of the transmitters, number of transmitters can be increased so that at least three transmitters
+have coverage at all locations. However, increase in number of transmitters may increase the duration of RSSI
+readings and hence may limit the responsiveness of the system. A high performance system can be designed by
+187
+
+Turk J Elec Eng & Comp Sci, Vol.18, No.2, 2010
+
+increasing both the number of the transmitters and the readers for larger scale environments.
+
+3.
+
+Path loss model for indoor environment
+
+RSS is location dependent as it is aﬀected by factors such as attenuation due to the distance from the transmitter
+and existing obstacles. Buildings represent a complex environment of very large dimensions compared to
+wavelength. Reﬂection, diﬀraction and scattering of radio waves by structures inside a building result in the
+transmitted signal to reach the receiver through more than one path [18]. There are several approaches to
+indoor propagation prediction. In one approach, electromagnetic theory is applied using ray-tracing techniques.
+In this method, propagation predictions can be applied without performing propagation measurements ﬁrst.
+However, computation times on personal computers can be long, and then, the predictions cannot be obtained
+interactively or with algorithms for estimating user locations. In the alternative approach, propagation models
+related to those for describing free-space propagation are empirically or statistically ﬁtted to the measurement
+data. The resulting models are generally straightforward to apply, and prediction results can be computed
+quickly [18].
+Note that RSS is a measure of the power received by the RFID tag from a transmitter and provides
+information as to location of the person carrying it. The received signal consists of direct, reﬂected, scattered
+and diﬀracted waves. According to Friis’ formula, RSS is expressed in the following form:
+Pr = Pt − PL + Gr + Gt
+
+(1)
+
+where Pr is the received signal power (dB), Pt is the transmitted signal power (dB), PL (d) is the path loss
+(dB), and Gr and Gt are receiving and transmitting antenna gains, respectively.
+For indoor environments, log-distance path loss model, among diﬀerent path-loss models, in its simplest
+form often used for electromagnetic signals can be expressed as:
+PL(dB) = PL (d0 ) + 10n log(d/d0).
+
+(2)
+
+In (2), n is the path loss exponent depending on the building and surrounding medium, which indicates the
+rate of path loss with the increase of distance; d0 is the reference distance, and d is the distance between the
+transmitter and the receiver. In our system, convenient empirical model equation is used, making the following
+assumptions [19]
+PL(dB) = A + B log(d)
+
+(3)
+
+where A and B are unknown values. Some location estimation techniques in the literature aim to estimate
+the unknown parameters of (2) or similar log-distance path loss model, by use of statistical approaches [20,21].
+The RADAR system uses the nearest neighbor method to infer a user’s location [22]. Each signal strength
+sample is compared against the radio map and the coordinates of the best matches are averaged to give the
+location estimation. The accuracy of RADAR is about three meters with ﬁfty percent probability. In this
+work, we start with estimating A and B values in equation (3) to form the empirical path-loss expression.
+For this purpose, we used an extensive set of measurements collected at 192 diﬀerent locations in the subject
+environment. Figure 2 shows the measured RSS levels (through a spectrum analyzer) and the plot obtained
+by substituting empirically driven parameters in (3), for a single transmitter. The solid line refers to the
+plot generated through (3), and the stars refer to the measured levels. The plots exhibit similar behavior for
+188
+
+ÖKTEM, AYDIN: An RFID based indoor tracking method for...,
+
+the other two transmitters. Figure 3 represents the distribution of errors between empirically generated and
+experimentally measured RSS levels. The plots show that although the expected value of the error between the
+measured values and the empirically generated ones is close to zero, the standard deviation is unacceptably high.
+The average percentage of error is 32, 59, and 45, respectively for the three transmitters. The deviations are due
+to the fact that radio waves are aﬀected by reﬂection, diﬀraction and scattering, and the subject environment is
+designed with many obstructions. As the distance between the tag and the transmitter increases, the deviation
+gets higher, due to increased probability of obstacles in between. As a result, the accuracy of location estimation
+will be very low if merely the path loss model and the nearest neighbor methods are used. This calls for the
+development of a new approach, where a priori information can be incorporated.
+7
+-35
+6
+-40
+5
+
+Power (dbm)
+
+-45
+-50
+
+4
+
+-55
+3
+
+-60
+
+2
+
+-65
+-70
+-75
+
+1
+0
+
+200 400 600 800 1000 1200 1400 1600 1800 2000
+Distance (cm)
+
+Figure 2. Comparison of experimental and empirically
+generated signal strength values.
+
+4.
+
+0
+-15
+
+-10
+
+-5
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Figure 3. Histogram of error between the experimental
+and empirically generated signal strength values.
+
+Location estimation with bayesian approach
+
+When the signal propagation environment diﬀers signiﬁcantly from ideal conditions, RSS measurements are
+unreliable. In order to overcome this problem, we try to incorporate statistical signal processing techniques.
+
+4.1.
+
+Bayes Decision Theory
+
+The Bayes Theorem is essentially an expression of conditional probabilities. Consider an experimental study
+where the outcome (observation) is a feature vector x corresponding to a pattern. Assume that there exist N
+classes C1 , C2, ..., CN where the observed pattern belongs to either one of these classes. The problem is stated
+as ﬁnding the class Ci , to which the observed pattern is most likely to belong [23]. For this purpose, often a
+discriminant function g(x) is used as:
+classify x in Ci if gi(x) > gj(x) ∀j = i.
+The discriminant function gi(x) is often deﬁned as;
+gi (x) = ln (p(x |Ci ) · P (Ci ) ) = ln (p(x |Ci ) ) + ln (P (Ci ))
+
+(4)
+189
+
+Turk J Elec Eng & Comp Sci, Vol.18, No.2, 2010
+
+where p(x |Ci ) and P (Ci ) refer to conditional probability density function and probability of the ith class,
+respectively. Equation 4 is known as the maximum aposteriori (MAP) decision rule since it chooses the
+hypothesis which has the highest posterior probability.
+
+4.2.
+
+Problem formulation
+
+Let us assume that the received signal strength identiﬁcation levels from the three transmitters by the RFID tag
+constitute feature vectors x. Equation (4) shows that a probability model for the feature vectors of each class
+is required. For this purpose, the indoor environment shown in Figure 4 is divided into 120cmx120cm (2λx2 λ)
+square grids. The degree of signal attenuation especially depends on the dominant signal path (line-of-sight
+path). The power of the line-of-sight path decays with distance squared [18]. Hence, in our application a signal
+level change occurs with less than 22 from the center of a grid to the center of a neighbor grid.
+TX3
+Table route1
+Table
+
+route2
+
+Table
+
+Non Accessible
+
+Table
+Table
+Table
+
+Non Accessible
+
+Table
+
+route3
+Table
+
+TX2
+Table
+Non Accessible
+
+Entrance
+
+Table
+
+Table
+Table
+
+Non Accessible
+
+Table
+
+Wall
+
+Table
+Non Accessible
+
+Table
+TX1
+
+Figure 4. Part of the subject environment.
+
+y
+x
+
+ ‘s represent transmitters.
+
+We assumed each grid as a class. For each class, we recorded 52 measurements from each transmitter,
+at the corners and at the center of the class, and when the person carrying the tag, and hence the tag’s
+embedded small-sized spiral dipole antenna is facing in diﬀerent orientations. A helical antenna is attached
+to each transmitter. We investigated the histograms of these recordings for each class and decided to use the
+Gaussian distribution assumption. As displayed in Figure 5, the Gaussian probability density function does not
+always perfectly match the RSSI distributions, but will be a good enough assumption for our application, when
+the number of samples is suﬃcient.
+190
+
+ÖKTEM, AYDIN: An RFID based indoor tracking method for...,
+
+50
+
+50
+
+0
+20
+
+30
+
+40
+
+0
+20
+
+50
+
+30
+
+40
+
+50
+
+40
+
+50
+
+20
+0
+
+20
+
+30
+
+40
+
+0
+30
+
+50
+
+35
+
+40
+
+45
+
+50
+
+40
+50
+
+20
+0
+
+20
+
+30
+
+40
+
+0
+15
+
+50
+
+20
+
+40
+
+10
+
+20
+
+0
+15
+
+20
+
+25
+
+30
+
+35
+
+20
+
+0
+30
+
+40
+
+35
+
+25
+
+30
+
+35
+
+40
+
+45
+
+40
+
+50
+
+40
+20
+0
+
+50
+20
+
+30
+
+0
+
+40
+
+20
+
+30
+
+40
+
+Figure 5. RSSI distribution for some of the classes for diﬀerent transmitters, where x axes refer to RSSI levels and y
+axes refer to number of occurrences.
+
+Then, the conditional probability distribution model for the feature vector x given class Ci will be
+p(x |Ci ) =
+
+
+
+1
+(2π)3/2 |Σi |
+
+1/2
+
+1
+T
+exp − (x − μi )Σ−1
+i (x − μi )
+2
+
+
+,
+
+(5)
+
+where Σi and μi refer to the conditional covariance matrix and conditional mean vector of the feature vector
+x given class Ci , respectively. Note that the signal strength transmitted by each transmitter is independent.
+Hence, the covariance matrix becomes diagonal and the joint probability density function (5) can be expressed
+as;
+
+
+3
+
+1
+1
+2
+p(x |Ci ) =
+(6)
+exp − 2 (xl − μli )
+2σli
+(2π)1/2 σli
+l=1
+
+The statistics σli2 and μli are evaluated by computing sample variances and sample means for each class and
+each transmitter, by use of the recorded measurements. We assume that the person carrying the RFID tag starts
+navigating in the environment from a known location at time t = 0 . This is the location where the navigation
+aid will be presented to the user and will be activated. The observations (feature vectors) are received at
+constant time intervals Δt (around 1 sec). At every Δt interval, the previous location of the person is assumed
+to be known. Note that the RSSI levels are collected by the tag and are transmitted to a remote PC through a
+wireless channel. The remote PC executes the Bayes Theory based tracking algorithm to estimate the current
+position of the user, and determines the direction (out of 8, north, south, east, west and the ones in between)
+191
+
+Turk J Elec Eng & Comp Sci, Vol.18, No.2, 2010
+
+that the user should follow in his/her next step in order to reach his/her destination. That direction is signaled
+to the user via a tactile compass, of which knob is sensed by the thumb of the user. Hence, we also assume
+that the user is most likely to follow this signaled direction than moving to an unpredictable direction. Based
+on this assumption, (4) is updated as;
+gi (x) = ln (p(x |Ci ) ) + ln (P (Cik ))
+
+(7)
+
+Substituting (6) into (7), we obtain the decision function as
+
+gi (x) =
+
+3
+
+l=1
+
+
+
+1
+2
++ ln (P (Cik ))
+ln
+exp − 2 (xl − μli )
+2σli
+(2π)1/2 σli
+
+
+1
+
+(8)
+
+where P (Cik ) refers to the transition probability, that is, probability that the user used to be in class Ck (where
+k is the index of the class that the user is in) in the previous time of reading and displaced to class Ci (where
+Ci are the accessible classes near to Ck), at the current time of reading. Two diﬀerent ways on how to assign
+P (Cik ) in our case is proposed in the next section. Our proposal can also be used for more general cases where
+a user is being guided by a system via directions. x l is the observed RSS at the current location for the lth
+transmitter. Then, given the previous location of the RFID tag, the current location of it is estimated as the
+Ci that achieves
+gi (x) ≥ gj (x), ∀i, j ∈ A, i = j
+(9)
+where A refers to the set of available classes.
+A similar work which is based on Bayesian approach and carries out indoor localization by using wireless
+Ethernet is presented in [14]. It aims localization in hallways of a building where locations in the hallways are
+spaced roughly 1.5m apart. Aiming diﬀerent application areas and using wireless Ethernet, the work in [14]
+has a quite diﬀerent hardware setup than our work. Although the observation in their case consists of pairs
+of base station addresses and signal strengths that are similar to our work, the number of replies is diﬀerent
+from the number of base stations (each base station may not reply at all or may reply up to four times at each
+reading). As a result, [14] incorporates number of counts in their probability model and does not include a
+priori information in the form of a direction to a certain orientation as in our case. Hence, we come up with
+a diﬀerent state space model and a diﬀerent decision function than the proposal of [14]. Yet, being based on
+similar principles we compare our results with that of [14] in the next section.
+
+5.
+
+Experimental results
+
+The proposed method is tested in the indoor environment presented by Figure 4 with the following a priori
+information and assumptions:
+• The statistics (conditional mean and conditional variance) of each class are available.
+• The user’s displacement at Δt time interval is limited.
+• The locations of NON ACCESSIBLE classes are known by the tracking system.
+192
+
+ÖKTEM, AYDIN: An RFID based indoor tracking method for...,
+
+• The initial location of the user is known. This is reasonable since the portable hardware unit carried
+by the user will be presented at a certain location. That location can safely be considered as the initial
+location where the device will be turned on and the tracking algorithm will start to execute.
+The tracking system is executed on a computer, which receives RSSI levels from the RFID reader. The statistics
+(mean and variance values) of each class is pre-computed from the pre-collected data, and are stored in the
+computer together with the map of the subject environment. A set of routes between diﬀerent cells are deﬁned.
+The tracking algorithm performance is tested on these routes for two diﬀerent cases. 9 routes are tested for the
+subject environment. Three of the tested routes are presented in Figure 4. Route 1 and route 2 starts from one
+end and ends at the other end of the environment where route 3 starts at one end and ends in the midway of
+the environment. In the ﬁrst case, transition probabilities between the classes are assumed to be equal except
+for the current class. The probability of staying at the same class is assumed to be lower (half the probability
+of each other transition) than the probability of displacement. In the second case, it is assumed that the user
+is navigated to follow a certain route; hence a bias favoring a certain class exists (considering that the tactile
+compass will be guiding the user). Then, the transition probabilities between classes are arranged according to
+the following principles
+• the probability of staying at the same class is a/2
+• the probability of transition from the previous class to the directed class is 2a
+• the probability of transition from the previous class to all other accessible classes is a
+• the sum of all transition probabilities add up to 1.
+Note that there exists an underlying assumption that the user cannot displace faster than a class between two
+readings.
+We recorded estimated and actual positions of the user along each route. Then, we calculated the error
+between the estimated and actual locations. In [14], similar tests are carried out where the actual and estimated
+positions are recorded while walking up and down the hallways of the tested building. Since the plot of error
+along the route cannot be compared to the test results of others, we preferred to present cumulative probability
+plots for measured error between the actual and estimated positions. Figure 6-7 present test results (cumulative
+probability plots) as compared to the listed test results of the algorithm presented in [14] for two hallways.
+Note that the plots corresponding to the results of [14] are the same both in Figure 6 and Figure 7. Figure 6
+shows the performance of our proposed method without any bias compared to that of [14]. Figure 6 shows that
+without any bias, the user can be tracked from one end to the other end of the area, with at most 3.8m error,
+which is similar to the best listed case in [14] although the overall performance is slightly worse than the best of
+[14]. When a bias favoring the directed class exists (Figure 7), the tracking performance increases signiﬁcantly
+(at most 3m error). This performance increase illustrated in Figure 7 shows that use of direction information
+as a bias contributes signiﬁcantly to the estimation problem.
+The experimental results show that statistical processing of the RSS levels enables compensation of noisy
+measurements in a tracking application, especially when a bias favoring a certain direction of displacement
+exists. In order to comment on the robustness of the method with respect to environmental changes, there
+has been a period between the collection of data and conduction of experiments where small changes in the
+193
+
+Turk J Elec Eng & Comp Sci, Vol.18, No.2, 2010
+
+environment such as number of persons present in the environment (changed only by three or four), replacement
+of small furniture such as chair or boxes have occurred. Yet, it should be noted that major changes such as
+replacement of big shelves or walls will require a recollection of data and recomputation of the statistics.
+
+.95
+
+1
+
+.90
+
+.95
+
+.85
+
+cumulative probability
+
+cumulative probability
+
+1
+
+.80
+.75
+.70
+
+.90
+.85
+.80
+.75
+.70
+
+.65
+.65
+.60
+.60
+1
+
+2
+
+3
+
+4
+Error (m)
+
+5
+
+6
+
+7
+
+proposed method
+first hallway route example in [14]
+second hallway example in [14]
+
+Figure 6. Cumulative probability vs error with no bias.
+
+6.
+
+1
+
+2
+
+3
+
+4
+Error (m)
+
+5
+
+6
+
+7
+
+proposed method
+first hallway route example in [14]
+second hallway example in [14]
+
+Figure 7. Cumulative probability vs error with bias.
+
+Conclusions
+
+An indoor tracking method for obscured environment is proposed. The method is developed as an integral part
+of a navigation aid for guiding visually impaired people. The method is based on the Bayes Decision rule, where
+an observed feature vector is classiﬁed to a class among the set of available ones. The classes are modeled as
+accessible square grids in an indoor environment. The feature vector is composed of signal strength indicator
+levels received from three transmitters working at distinct frequencies in the UHF band. The technique is
+tested by using an extensive set of recorded measurements. The performance of the tracking method is tested
+for diﬀerent routes in the environment. The increase in tracking performance with the assumption of a bias
+guiding the user to a certain direction is recorded.
+
+Acknowledgements
+This work is supported in the scope of project ID 105E130 by the Scientiﬁc and Technological Research Council
+of Turkey (TÜBİTAK).
+194
+
+ÖKTEM, AYDIN: An RFID based indoor tracking method for...,
+
+References
+[1] L. Ran, A. Helal, S. E. Moore, “Drishti: An Integrated Indoor/Outdoor Blind Navigation System and Service”,
+Proc. 2nd IEEE Annual Conference on Pervasive Computing and Communications, pp. 23-30, 2004.
+[2] T. Strothotte, H. Petrie, V. Johnson, L. Reichet, “MoBIC: An Aid to Increase the Independent Mobility of Blind
+and Elderly Travellers”, 2nd TIDE Congress, Paris, La Villette, 26 - 28 April 1995.
+[3] P. Blenkhorn, D.G. Evans, “A System for Enabling Blind People to Identify Landmarks: The Sound Buoy”, IEEE
+Trans. on Rehab. Eng., vol. 5, no. 3, pp. 276-278, 1997.
+[4] Y. Sonnenblick, “An Indoor Navigation System for Blind Individuals”, Technology and Persons with Disabilities
+Conference, 1998. url:http://www.dinf.ne.jp/doc/english/Us Eu/conf/csun 98/csun98 008.htm.
+[5] S. Willis, S. Helal, “RFID Information Grid for Blind Navigation and Wayﬁnding”, 9th IEEE Int’l Symposium on
+Wearable Computers, 2005.
+[6] T. Roos, P. Myllymaki, H. Tirri, “A Statistical Modelling Approach to Location Estimation”, IEEE Trans on Mobile
+Computing, vol. 11, no.1, pp. 59-69, 2002.
+[7] K. Azuma, K. Matsumoto, T. Hattori, “A Proposal of Location Estimation with Maximum Likelihood Function
+Using Joint PDF of Received Signals and Prior Measured Signals”, IEEE 3rd Vehicular Technology Conference,
+vol. 2, pp. 599-602, 2006.
+[8] W.W. Shen, Z.X. Fang, Z.X. Wang, “Two-Step Multi-user Indoor Location Estimation Based on Bayesian Approach” 2nd International Conference on Mobile Technology, Applications and Systems, 2005.
+[9] D. Madigan, E. Elnahrawy, R.P. Martin, W. Ju, P. Krishnan, A.S. Krishnakumar,”Bayesian Indoor Positioning
+Sytems”, IEEE Infocom, March 2005.
+[10] Y. Takizawa, P. Davis, M. Kawai, H. Iwai, A. Yamaguchi, S. Obana, “Self-organizing location estimation method
+using received signal strength”, IEICE Trans. Com., vol. E89-B, no.10, pp. 2687-2695, October 2006.
+[11] N. Priyantha., A. Miu, H. Balakrishnan, S. Teller, “The Cricket Compass for Context Aware Mobile Applications”,
+MOBICOM 2001, July 2001.
+[12] S. Ito, N. Kawaguchi, “Bayesian Based Location Estimation System Using Wireless LAN”, 3rd IEEE Int’l Conf. on
+Pervasive Computing and Communications Workshops, pp. 273-278, 2005.
+[13] A.A. Rodriquez, M. Lazaro, L. Tong, “Target Location Estimation in Sensor Networks Using Range Information”,
+IEEE Sensor Array and Multichannel Signal Processing Workshop, pp. 608-612, 2004.
+[14] A.M. Ladd, K. E. Bekris, A.P. Rudys, D.S. Wallach, L.E. Kavraki, “On the Feasibility of Using Wireless Ethernet
+for Indoor Localization”, IEEE Transactions on Robotics and Automation, vol. 20, no. 3, pp. 555-559, June 2004.
+[15] K. Muthukrishnan, M. Lijding, and P. Havinga, “Towards Smart Surroundings: Enabling Techniques and Technologies for Localization”, 1st International Workshop on Location and Context Awareness, pp. 350-362, Oberpfaffenhofen, Germany, 2005.
+[16] N. Raza, V. Bradshaw, M. Hague, “Applications of RFID Technology”, IEE Colloquium on RFID Technology, pp.
+1-5, 1999.
+
+195
+
+Turk J Elec Eng & Comp Sci, Vol.18, No.2, 2010
+
+[17] L.M. Ni, Y. Liu., Y.C. Lau, A.P. Patil, “LANDMARC: Indoor Location Sensing Using Active RFID”, Special Issue
+on Pervasive Computing and Communications, vol.10, pp. 701-710, Kluwer Academic Publisher, 2004.
+[18] W.K Tam, V.N. Tran, “Propagation Modeling for Indoor Wireless Communication”, Electronics and Comm. Eng.
+Journal, pp. 221-228, October 1995.
+[19] K.S. Leong, M.L. Ng, P.H. Cole “The Reader Collision Problem in RFID Systems”, IEEE Int’l Symposium on
+Microwave, Antenna, Propagation and EMC Technologies for Wireless Communications, pp. 658-661, 2005.
+[20] M. Robinson, I. Psaromiligkos, “Received Signal Strength Based Location Estimation of a Wireless LAN Client”,
+IEEE Communications Society, pp. 2350-2354, 2005.
+[21] K. M-K. Chu, J. K-Y. Ng, K.R.P.H Leung, “A New Approach for Locating Mobile Stations Under the Statistical
+Directional Propagation Model”, 20 th Int’l Conf. on Advanced Information Networking and Applications, vol. 1,
+pp. 932-940, 18-20 April 2006.
+[22] P. Bahl, V.N. Padmanahban, “RADAR: An In Building RF-based User Location and Tracking System”, IEEE
+INFOCOM, vol.2, pp.775-784, March 2000.
+[23] S. Theodoridis, K. Koutroumbas, Pattern Recognition, Third Edition, Academic Press, 2006.
+
+196
+
+

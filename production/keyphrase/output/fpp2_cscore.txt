@@ -1,0 +1,5387 @@
+user feedback::76.0
+computing and information sciences::48.0
+human-centric computing and information::48.0
+training area::44.0
+user anchor::42.0
+feedback model::31.0
+user feedback model::28.529325013
+wi-fi rss::25.0
+system anchor::24.0
+3:2 http::23.0
+percentage of confidence::19.0195500087
+computing and information::19.0195500087
+rss fingerprint::19.0
+knowledgeable and helpful user::18.0
+baseline system::18.0
+positioning error::18.0
+knowledgeable and helpful::17.4345875079
+human-centric collaborative feedback::17.4345875079
+wi-fi scan::17.0
+non-training area::17.0
+negative feedback::17.0
+wi-fi rss fingerprint::15.8496250072
+indoor positioning::15.0
+positive feedback::15.0
+user anchor point::14.2646625065
+system anchors::14.0
+collaborative feedback::14.0
+system performance::14.0
+number of wi-fi scan::14.0
+positioning system::14.0
+helpful user feedback::12.6797000058
+anchor point::12.0
+user anchors::12.0
+number of wi-fi scans::12.0
+system precision::12.0
+wi-fi scans::12.0
+collaborative feedback model::11.094737505
+user anchor points::11.094737505
+malicious user::11.0
+rss measurement::10.0
+human-centric collaborative feedback model::10.0
+providing malicious user feedback::10.0
+mobile device::10.0
+human-centric collaborative::10.0
+department of computer science::10.0
+top-k anchors::10.0
+temporary user anchor::9.50977500433
+indoor positioning system::9.50977500433
+rss data::9.0
+wi-fi fingerprinting::9.0
+international conference on mobile::8.0
+confidence in training area::8.0
+blue curves::8.0
+true position::8.0
+mobile devices::8.0
+survey position::8.0
+conclusions and future work::8.0
+department of computer::7.92481250361
+plotted in figure::7.92481250361
+baseline wi-fi fingerprinting::7.92481250361
+average positioning error::7.92481250361
+malicious feedback::7.0
+indoor environments::7.0
+average positioning::7.0
+anchor points::7.0
+helpful user::7.0
+knowledgable and helpful::6.33985000288
+wi-fi scan number::6.33985000288
+existing user anchor::6.33985000288
+wi-fi rss data::6.33985000288
+number of wi-fi::6.33985000288
+wi-fi rss fingerprints::6.33985000288
+rss variance::6.0
+wi-fi rss fingerprint similarity::6.0
+training phase::6.0
+helpful feedback::6.0
+rss vector::6.0
+section conclusions and future::6.0
+green and blue curves::6.0
+system training::6.0
+two user anchor points::6.0
+proposed user feedback model::6.0
+based positioning::6.0
+four rounds::5.0
+rss fingerprints::5.0
+computer science::5.0
+grid cell::5.0
+red curve::5.0
+estimated position::5.0
+green curves::5.0
+positioning phase::5.0
+rss measurements::5.0
+international conference::5.0
+future work::5.0
+current wi-fi rss::4.75488750216
+feedback from users::4.75488750216
+number of scans::4.75488750216
+rss fingerprint similarity::4.75488750216
+negative user feedback::4.75488750216
+proposed user feedback::4.75488750216
+types of user::4.75488750216
+positive user feedback::4.75488750216
+user anchor aui::4.75488750216
+based indoor positioning system::4.0
+user anchor points aui::4.0
+memorial university of newfoundland::4.0
+indoor positioning using human-centric::4.0
+wi-fi fingerprinting indoor positioning::4.0
+points aui and auj::4.0
+grid space::4.0
+insufficient wi-fi rss data::4.0
+positioning using human-centric collaborative::4.0
+fingerprints in the database::4.0
+transmitted by nearby wi-fi::4.0
+conference on mobile systems::4.0
+malicious users::4.0
+international conference on computer::4.0
+provided by the users::4.0
+merged with an existing::4.0
+respect to malicious feedback::4.0
+due to insufficient wi-fi::4.0
+fingerprinting indoor positioning system::4.0
+gaussian kernel::4.0
+provide feedback::4.0
+fingerprinting for indoor positioning::4.0
+baseline wi-fi::4.0
+wi-fi sampling::4.0
+positive and negative feedback::4.0
+ability of the model::4.0
+wi-fi infrastructure::4.0
+system accuracy::4.0
+fingerprint for each survey::4.0
+confidence in non-training area::4.0
+effects of signal propagation::4.0
+rss vectors::4.0
+baseline wi-fi fingerprinting indoor::4.0
+user interface::4.0
+section human-centric collaborative feedback::4.0
+iphone and ipod touch::4.0
+blue curves are close::4.0
+current wi-fi rss measurement::4.0
+due to the infeasibility::4.0
+conference on computer communications::4.0
+knowledgeable and helpful feedback::4.0
+curves are very close::4.0
+current wi-fi::4.0
+red curves::4.0
+based on their knowledge::4.0
+scan number::4.0
+beacon frame::4.0
+wi-fi fingerprinting-based indoor positioning::4.0
+apple iphone and ipod::4.0
+times of the day::4.0
+position of the user::4.0
+temporary user::4.0
+wi-fi fingerprinting for indoor::4.0
+number of users::3.16992500144
+robust and efficient::3.16992500144
+real indoor environments::3.16992500144
+ieee international conference::3.16992500144
+respect to malicious::3.16992500144
+small initial value::3.16992500144
+wi-fi fingerprinting-based indoor::3.16992500144
+based indoor positioning::3.16992500144
+university of regina::3.16992500144
+value of parameter::3.16992500144
+complex indoor environments::3.16992500144
+similar user anchors::3.16992500144
+average of rss::3.16992500144
+generate an rss::3.16992500144
+wi-fi infrastructure alteration::3.16992500144
+received signal strength::3.16992500144
+due to insufficient::3.16992500144
+fingerprinting-based indoor positioning::3.16992500144
+feedback was provided::3.16992500144
+baseline system evaluation::3.16992500144
+baseline system accuracy::3.16992500144
+positions were selected::3.16992500144
+generated during lunch::3.16992500144
+iphone and ipod::3.16992500144
+enhancing wi-fi fingerprinting::3.16992500144
+robust with respect::3.16992500144
+curves in figure::3.16992500144
+supervised its analysis::3.16992500144
+baseline system precision::3.16992500144
+conference on mobile::3.16992500144
+edited the manuscript::3.16992500144
+analysis and edited::3.16992500144
+recover from incorrect::3.16992500144
+similar user anchor::3.16992500144
+evolve the mode::3.16992500144
+user feedback generated::3.16992500144
+solve this problem::3.16992500144
+provided in section::3.16992500144
+subsequent helpful feedback::3.16992500144
+ability to recover::3.16992500144
+current wi-fi environment::3.16992500144
+curve in figure::3.16992500144
+reliable user feedback::3.16992500144
+factor is updated::3.16992500144
+positive and negative::3.16992500144
+rounds of feedback::3.16992500144
+system is incorrect::3.16992500144
+calculate the likelihood::3.16992500144
+system anchor asi::3.16992500144
+rmk ; rfk::3.16992500144
+section human-centric collaborative::3.16992500144
+improve system performance::3.16992500144
+order to solve::3.16992500144
+system to learn::3.16992500144
+generated to confirm::3.16992500144
+fingerprint similarity::3.0
+positioning process::3.0
+users provide::3.0
+related work::3.0
+similar user::3.0
+training data::3.0
+system estimation::3.0
+four scans::3.0
+electronic devices::3.0
+signal propagation::3.0
+memorial university::3.0
+user fingerprint::3.0
+positioning accuracy::3.0
+positioning systems::3.0
+anchor aui::3.0
+positive user::3.0
+wi-fi fingerprinting-based::3.0
+section conclusions::3.0
+open access::3.0
+two user::3.0
+first created::3.0
+human-centric feedback::3.0
+correct feedback::3.0
+null feedback::3.0
+experimental field::3.0
+wi-fi environment::3.0
+system evaluation::3.0
+feedback model in order::2.0
+euclidean distance between anchors::2.0
+maintenance of the rss::2.0
+reliable as system anchors::2.0
+fingerprinting-based indoor positioning system::2.0
+robust user feedback model::2.0
+results of our preliminary::2.0
+approach to the vertex::2.0
+social networking and entertainment::2.0
+integrated in various electronic::2.0
+found in many public::2.0
+complex indoor office environment::2.0
+advantage of the knowledge::2.0
+generated by extracting features::2.0
+neglected in the training::2.0
+position could be arbitrary::2.0
+simulate the wi-fi scans::2.0
+lead to a cumulative::2.0
+likelihood of system anchors::2.0
+helpful feedback from users::2.0
+implementation of this baseline::2.0
+voronoi cell naturally represents::2.0
+system anchors were reduced::2.0
+students using the system::2.0
+number of users provide::2.0
+frames from different aps::2.0
+feedback can be generated::2.0
+described in the literature::2.0
+terms of wi-fi rss::2.0
+entity localization and tracking::2.0
+archive adequate system performance::2.0
+wlan location determination system::2.0
+growing an organic indoor::2.0
+correct location and suggest::2.0
+user behaviour::2.0
+highly motivated to provide::2.0
+user was then collected::2.0
+effects from outlier user::2.0
+mixed together to feed::2.0
+overview of the related::2.0
+system evaluation was conducted::2.0
+wireless network interface cards::2.0
+divided into a grid::2.0
+system can be evaluated::2.0
+anchors at the beginning::2.0
+resulting anchor takes advantages::2.0
+floor of the engineering::2.0
+improved from approximately 2.5m::2.0
+reply on the convergence::2.0
+choice with a double::2.0
+continuously adapt to environmental::2.0
+cluster different user feedback::2.0
+situations where malicious feedback::2.0
+devised for integrating human-centric::2.0
+reduced by the discounting::2.0
+insufficient wi-fi::2.0
+provide feedback to facilitate::2.0
+work and an overview::2.0
+variances in the rss::2.0
+system without user feedback::2.0
+utilized as the weight::2.0
+feedback illustrates the ability::2.0
+impractical within a limited::2.0
+evaluation process::2.0
+wi-fi measurement::2.0
+user collaboration::2.0
+generate significant precision improvement::2.0
+metric for system performance::2.0
+detect the environmental interference::2.0
+similar to an existing::2.0
+estimations could be close::2.0
+investigate a new method::2.0
+conducted during the summer::2.0
+measurement data to generate::2.0
+modify the system results::2.0
+manufacture technologies in wireless::2.0
+rss fluctuation and obtain::2.0
+comparable to the training::2.0
+mob compu::2.0
+raw wi-fi rss data::2.0
+en-2017 en-2015 en-2011 en-2012::2.0
+precision of the baseline::2.0
+factor enable the system::2.0
+en-2021 en-2018 en-2020 en-2019::2.0
+en-2s03 en-2028 en-2029 en-2030::2.0
+alterations are not uncommon::2.0
+converted to a list::2.0
+integrating human-centric collaborative feedback::2.0
+curves and blue curves::2.0
+en-2037 en-2026 en-2027 en-2038::2.0
+high accuracy and resolution::2.0
+scan numbers for generating::2.0
+real indoor::2.0
+broadcasting periods or severe::2.0
+users whenever its confidence::2.0
+field tests::2.0
+fingerprint fi in system::2.0
+23rd ieee international conference::2.0
+originally used in support::2.0
+feedback and could bring::2.0
+user rejects the position::2.0
+chosen as the top-k::2.0
+sampling period::2.0
+chance of either providing::2.0
+updating through user feedback::2.0
+generate an rss fingerprint::2.0
+represent a good estimate::2.0
+discuss a more general::2.0
+suppose the system delivers::2.0
+average positioning error yielded::2.0
+end users for free::2.0
+nserc discovery grants held::2.0
+malicious users should exist::2.0
+assigned low compensation power::2.0
+conference on mobile computing::2.0
+wi-fi scans to evaluate::2.0
+entire implementation and experiments::2.0
+total wi-fi scan number::2.0
+clustering algorithms to filter::2.0
+step is to collect::2.0
+collaborative feedback model evaluation::2.0
+increased as more user::2.0
+siam j appl math::2.0
+information regarding the actual::2.0
+temporary user anchor points::2.0
+gaussian rbf::2.0
+positions of mobile devices::2.0
+results within the non-training::2.0
+step utilizes the information::2.0
+methodology as the previous::2.0
+due to the diversity::2.0
+conference on pervasive computing::2.0
+incorrect or malicious feedback::2.0
+diagram of the setting::2.0
+system is the system::2.0
+reliable as more rss::2.0
+feedback model will depend::2.0
+recovered from the low::2.0
+wireless local::2.0
+variance for this fingerprint::2.0
+wider variety of user::2.0
+number of different scenarios::2.0
+integrating knowledgeable user feedback::2.0
+yielding fairly good system::2.0
+generate different rss data::2.0
+similarity in the range::2.0
+indoor received signal strength::2.0
+match the true position::2.0
+real life::2.0
+database for each type::2.0
+feedback reduces the trustworthiness::2.0
+note that the non-training::2.0
+proposed user::2.0
+en-2014 en-2016 en-2017 en-2015::2.0
+anchors as negative feedback::2.0
+en-2031a en-2031c en-2031b en-2024::2.0
+feedback model before discussing::2.0
+problem domain::2.0
+grid as their position::2.0
+ranking these anchors based::2.0
+anchor aui is first::2.0
+defined as a vector::2.0
+increases until it reaches::2.0
+characteristics of the current::2.0
+suggest a location based::2.0
+infrastructure for indoor positioning::2.0
+location fingerprinting::2.0
+estimated position is accurate::2.0
+model is also shown::2.0
+area lacks valid system::2.0
+systems such as wikipedia::2.0
+imply a high system::2.0
+submit your next manuscript::2.0
+indoor environments may result::2.0
+enhanced by the factor::2.0
+feedback from the system::2.0
+negative feedback of suggesting::2.0
+method to utilize user::2.0
+generate an wi-fi rss::2.0
+performance is highly dependent::2.0
+user anchor point based::2.0
+order to continuously adapt::2.0
+original work is properly::2.0
+benefits of the core::2.0
+interests the authors declare::2.0
+distributed under the terms::2.0
+mechanisms to the positioning::2.0
+feedback on a system::2.0
+periods or severe signal::2.0
+compensated by our user::2.0
+proposed human-centric collaborative feedback::2.0
+location to be incorrect::2.0
+study of the system::2.0
+aspect of a mobile::2.0
+unsupervised or instances-based approach::2.0
+en-2008 en-2010 en-2021a figure::2.0
+kernel-based positioning in wireless::2.0
+assigned a high weight::2.0
+note that when rmk::2.0
+fingerprints are sufficiently similar::2.0
+manuscript ; yc defined::2.0
+patterns among different mobile::2.0
+cluster each user anchor::2.0
+position information::2.0
+shortcomings not only imply::2.0
+wi-fi based indoor positioning::2.0
+rfk is an impossible::2.0
+user feedback model adjusts::2.0
+order to carefully explore::2.0
+raw wi-fi::2.0
+means that the user::2.0
+en-2031 en-2031a en-2031c en-2031b::2.0
+focus on the adaptation::2.0
+feedback in fingerprint-based wi-fi::2.0
+feedback within a baseline::2.0
+intrusive way to provide::2.0
+scans during the positioning::2.0
+reliable user anchors fill::2.0
+anchor point that minimizes::2.0
+unreliable or misleading user::2.0
+generated by different wi-fi::2.0
+baseline system is qualified::2.0
+early system integrating user::2.0
+en-2025a en-2031 en-2031a en-2031c::2.0
+summary of the primary::2.0
+raw wi-fi measurement data::2.0
+frames transmitted by nearby::2.0
+in-building rf-based user location::2.0
+feedback are often mixed::2.0
+rss readings and calculate::2.0
+school of graduate studies::2.0
+proceedings of international conference::2.0
+weight of these anchors::2.0
+assume that the accuracy::2.0
+optimally trained after four::2.0
+based on the likelihood::2.0
+process under this environmental::2.0
+model should take advantage::2.0
+generating outliers is considerably::2.0
+feedback overpowering the system::2.0
+based on location fingerprinting::2.0
+rss mean of k-th::2.0
+knowledgeable user::2.0
+traversal of all grid::2.0
+logs a time series::2.0
+likelihood of the i-th::2.0
+explored the potential applicability::2.0
+ethernet for indoor localization::2.0
+employ some supervised classification::2.0
+anchors from the users::2.0
+scans of the wi-fi::2.0
+represented by a user::2.0
+model reduces their likelihood::2.0
+larger than subsequent users::2.0
+systems can also reuse::2.0
+model merges all similar::2.0
+space because the system::2.0
+adjustable parameter that determines::2.0
+proceedings of 23rd ieee::2.0
+parameter controlling the initial::2.0
+method in section evaluation::2.0
+negative effects from outlier::2.0
+bloat the model significantly::2.0
+define a system anchor::2.0
+mobile device to scan::2.0
+positioning in wireless local::2.0
+describe the specific location::2.0
+aps and a gaussian::2.0
+suitable for comparison purposes::2.0
+early phase consists scans::2.0
+improved via integrating knowledgeable::2.0
+kernel or radial basis::2.0
+stored for these top-k::2.0
+result of environment alteration::2.0
+anatomy of a context-aware::2.0
+reaches its optimal performance::2.0
+users and the degree::2.0
+rss fingerprint-based positioning system::2.0
+early indoor positioning technologies::2.0
+small number of scans::2.0
+subsequent users::2.0
+annual conference on pervasive::2.0
+anchors asi and asj::2.0
+addition of the user::2.0
+speed of the model::2.0
+rss measurements are stable::2.0
+feedback to benefit subsequent::2.0
+ubiquitous and inexpensive nature::2.0
+estimate the fluctuation level::2.0
+access points::2.0
+framework using a wider::2.0
+likelihood calculation::2.0
+due to system malfunctions::2.0
+positions of all temporary::2.0
+anchors become valid candidate::2.0
+disturbed by the malicious::2.0
+users percentage of confidence::2.0
+fully control our evaluation::2.0
+width of the gaussian::2.0
+determine the smallest number::2.0
+wi-fi infrastructure for indoor::2.0
+anchor point or merged::2.0
+position of a system::2.0
+en-2022a en-2021b en-2021 en-2018::2.0
+precision is also reduced::2.0
+system delivers a position::2.0
+improved the system performance::2.0
+carefully explore the benefits::2.0
+propagation introduced by complex::2.0
+likelihood is calculated based::2.0
+information to the system::2.0
+click on the correct::2.0
+adaptation of wi-fi infrastructure::2.0
+terms of the creative::2.0
+fastest with the first::2.0
+data incrementally for future::2.0
+work the wi-fi-based positioning::2.0
+technologies in wireless network::2.0
+integration of human-centric feedback::2.0
+random effects of signal::2.0
+widely used to provide::2.0
+details of the proposed::2.0
+baseline system is suitable::2.0
+user feedback as completely::2.0
+representative from these top-k::2.0
+en-2024 en-2s04 en-2036 en-2022::2.0
+means that a scan::2.0
+users who are providing::2.0
+weighted with the likelihood::2.0
+parameters in the feedback::2.0
+incorrect feedback is provided::2.0
+survey position to scan::2.0
+wi-fi rss fingerprint-based positioning::2.0
+mac address in fingerprint::2.0
+system with the integration::2.0
+user feedback in field::2.0
+proposed prototype::2.0
+depend on the number::2.0
+system precision is significantly::2.0
+results are mostly close::2.0
+based on the current::2.0
+large count value means::2.0
+generated in the positioning::2.0
+similar if they satisfy::2.0
+end of the article::2.0
+feedback model is tested::2.0
+forget outdated or unreliable::2.0
+added into the database::2.0
+behaviour is not typical::2.0
+construct the wi-fi rss::2.0
+knowledgable and helpful end::2.0
+knowledgable and helpful feedback::2.0
+reduce the grid space::2.0
+presented to the user::2.0
+section baseline wi-fi fingerprinting::2.0
+considered to be fairly::2.0
+incorrect feedback::2.0
+nearby aps::2.0
+blue curves in figure::2.0
+effort has been made::2.0
+uncertainty associated with prediction::2.0
+based on their rss::2.0
+sensitivity of our user::2.0
+valid system or user::2.0
+grid space or increasing::2.0
+performance in field tests::2.0
+created in the training::2.0
+level is very high::2.0
+general and efficient framework::2.0
+indoor localization::2.0
+anchor in the system::2.0
+studies at memorial university::2.0
+feedback model in detail::2.0
+models for different times::2.0
+indicator for the reliability::2.0
+en-2035 en-2034 en-2040 en-2037::2.0
+includes both the training::2.0
+data than the first::2.0
+precision to a normal::2.0
+negative feedback will affect::2.0
+convey the systems spatial::2.0
+works in the future::2.0
+reproduction in any medium::2.0
+en-2022 en-2024a en-2018a en-2023::2.0
+user anchors become sufficiently::2.0
+lack of system anchors::2.0
+feedback generated::2.0
+pervasive and mob compu::2.0
+feedback to fingerprinting-based positioning::2.0
+accurate feedback::2.0
+data plotted in figure::2.0
+collaborative feedback yan luo1::2.0
+ongoing maintenance::2.0
+anchor merge mechanism proposed::2.0
+likelihood will be reduced::2.0
+creates a temporary user::2.0
+close to users true::2.0
+negative user feedback factor::2.0
+yielded by the best-performing::2.0
+generated when users reject::2.0
+sum of n equally::2.0
+live measurement vector rps::2.0
+generated in the environment::2.0
+share the same geometric::2.0
+evaluation of a user::2.0
+system anchors were created::2.0
+open access article distributed::2.0
+training area average positioning::2.0
+system error starts out::2.0
+credibility of this positive::2.0
+selection a nave approach::2.0
+due to the lack::2.0
+user anchors become valid::2.0
+represent realistic user behaviour::2.0
+problem can be explored::2.0
+existing user::2.0
+evolution of the model::2.0
+provide feedback to benefit::2.0
+construction and continual maintenance::2.0
+needed for the system::2.0
+set smaller grid space::2.0
+human-centric collaborative feedback yan::2.0
+bodies and electronic devices::2.0
+efficient model is devised::2.0
+developed that dynamically learn::2.0
+positioning technologies used infrared::2.0
+model improves the system::2.0
+variance contains the variance::2.0
+knowledgable and helpful user::2.0
+trust their individual estimation::2.0
+denoted as t rss::2.0
+similar user anchor points::2.0
+training is normally required::2.0
+ratio tts also reflects::2.0
+denoted as user fingerprint::2.0
+endowed with a high::2.0
+result of the positive::2.0
+performance after approximately four::2.0
+explanation for each field::2.0
+users train the system::2.0
+negative feedback from users::2.0
+values for i max::2.0
+accuracy of user feedback::2.0
+system a fast learning::2.0
+system returns a correct::2.0
+horus wlan location determination::2.0
+receives and processes human-centric::2.0
+building at memorial university::2.0
+1.5m after just four::2.0
+model also has fast::2.0
+concludes in section conclusions::2.0
+quickly corrects the significant::2.0
+mobile devices as tracking::2.0
+information from the collaborative::2.0
+assume that the model::2.0
+rss over the sampling::2.0
+improved because many reliable::2.0
+adjusts the positioning results::2.0
+phase and a positioning::2.0
+field trials::2.0
+section human-centric::2.0
+query the fingerprint database::2.0
+trained after four rounds::2.0
+research open access enhancing::2.0
+implemented the proposed prototype::2.0
+required to achieve high::2.0
+cell if their fingerprints::2.0
+users are highly motivated::2.0
+update the systems knowledge::2.0
+merge a newly generated::2.0
+based on the received::2.0
+goal fulfillment to social::2.0
+feedback model were conducted::2.0
+working on using wi-fi::2.0
+fingerprint for each system::2.0
+rfk is the rss::2.0
+plotted the positioning accuracy::2.0
+position due to insufficient::2.0
+large variance::2.0
+fact becomes an outlier::2.0
+anchors should they receive::2.0
+feedback events::2.0
+article abstract position information::2.0
+described the theoretic human-centric::2.0
+diversity of manufacture technologies::2.0
+model adjusts the positioning::2.0
+fulfillment to social networking::2.0
+provide redundant true position::2.0
+position likelihood::2.0
+four users much larger::2.0
+reasonable choice for situations::2.0
+services for indoor settings::2.0
+worse than the 0.7m::2.0
+i-th scan will generate::2.0
+system training and maintenance::2.0
+determined by two aspects::2.0
+training phase the system::2.0
+user as being knowledgable::2.0
+future by providing feedback::2.0
+reduces the system precision::2.0
+creative commons attribution license::2.0
+enhanced in a number::2.0
+contained only system anchors::2.0
+reduced significantly by relying::2.0
+terms of initial configuration::2.0
+generate a large error::2.0
+stable using just four::2.0
+large number of scans::2.0
+propagation effects of signal::2.0
+infeasibility of indoor triangulation::2.0
+helpful user feedback illustrates::2.0
+accumulation of negative feedback::2.0
+system location is incorrect::2.0
+introduce a forgetting mechanism::2.0
+centre of a grid::2.0
+learn from user feedback::2.0
+cost of typical clustering::2.0
+select the wi-fi scan::2.0
+estimation and is assigned::2.0
+optimal performance after approximately::2.0
+represents what would occur::2.0
+gaussian kernel or radial::2.0
+denotes the gaussian kernel::2.0
+training area with sufficient::2.0
+occurrence or the value::2.0
+scans to evaluate system::2.0
+approach to network location::2.0
+system has an error::2.0
+highly dependent::2.0
+approaches refine the existing::2.0
+earlier in section human-centric::2.0
+untrained positions for testing::2.0
+noise from other devices::2.0
+baseline method in section::2.0
+performance is further improved::2.0
+initial likelihood distribution calculated::2.0
+en-2031c en-2031b en-2024 en-2s04::2.0
+great deal of effort::2.0
+adapt to new information::2.0
+systems estimation::2.0
+note that a single::2.0
+sensitivity of the page::2.0
+system training was conducted::2.0
+accuracy as a fully::2.0
+propose a wi-fi based::2.0
+quickly recover by incorporating::2.0
+minimizes the maximum distances::2.0
+employed a wi-fi fingerprinting-based::2.0
+test within the non-training::2.0
+likelihood calculation is finished::2.0
+lack of informative rss::2.0
+fingerprinting-based indoor::2.0
+environments such as building::2.0
+average of the wi-fi::2.0
+feedback in more moderate::2.0
+feedback occurs when users::2.0
+plotted as the bottom::2.0
+rss features and locations::2.0
+systems in the literature::2.0
+fingerprinting-based approach::2.0
+consistent time of day::2.0
+users do not affect::2.0
+en-2013 en-2009 en-2022a en-2021b::2.0
+rss properties called wi-fi::2.0
+knowledge about the wi-fi::2.0
+large amount::2.0
+robust localization over large-scale::2.0
+phases of wi-fi sampling::2.0
+en-2039 en-2035 en-2034 en-2040::2.0
+estimated by the system::2.0
+testing each possible combination::2.0
+tracking targets to locate::2.0
+newly generated positive feedback::2.0
+points controlled by individual::2.0
+real wi-fi rss data::2.0
+stable once a sufficient::2.0
+non-training area lacks valid::2.0
+feedback will be assigned::2.0
+discrete locations by dividing::2.0
+helpful to provide positive::2.0
+arbitrary combination of positive::2.0
+distance from the centre::2.0
+dividing the study area::2.0
+user believes::2.0
+result in large positioning::2.0
+error within the training::2.0
+conducted on apple iphone::2.0
+assumed that the rss::2.0
+rss vectors likelihood calculation::2.0
+world percentage of confidence::2.0
+performance of the baseline::2.0
+reaches an upper limit::2.0
+feedback follows the normal::2.0
+theoretic human-centric feedback model::2.0
+rejects the position estimated::2.0
+size of the current::2.0
+lunch time may mislead::2.0
+weighted average of rss::2.0
+provided by the vertex-1::2.0
+send their rss measurements::2.0
+conducted for each survey::2.0
+vary throughout the day::2.0
+green curves and blue::2.0
+feedback to this estimated::2.0
+fuj are wi-fi rss::2.0
+people within the building::2.0
+wireless local area networks::2.0
+user knowledgable and helpful::2.0
+users provide correct feedback::2.0
+system can not assess::2.0
+hoeber2 and yuanzhu chen2,3*::2.0
+large number::2.0
+user anchors are generated::2.0
+large interference to future::2.0
+en-2028 en-2029 en-2030 en-2032::2.0
+bookmarking have achieved huge::2.0
+shown to be robust::2.0
+space and the computational::2.0
+existing wi-fi rss fingerprint-based::2.0
+refine the existing wi-fi::2.0
+mixed feedback::2.0
+decrease from the initial::2.0
+signal propagation model-based distance::2.0
+work in this article::2.0
+data at each survey::2.0
+rmk is the rss::2.0
+feedback from a knowledgeable::2.0
+system selects the top-k::2.0
+explored how the proposed::2.0
+positioning error and precision::2.0
+constructed during the training::2.0
+reliability of system anchors::2.0
+outliers is considerably high::2.0
+discrepancy with the system::2.0
+estimation for the position::2.0
+wireless network::2.0
+proceedings of the 10th::2.0
+asi is the sum::2.0
+system training is conducted::2.0
+stored in the timestamp::2.0
+system will prompt users::2.0
+receives negative user feedback::2.0
+anchor since a users::2.0
+positioning precision in figure::2.0
+position selection a nave::2.0
+area improved from approximately::2.0
+training of the system::2.0
+modeling of indoor positioning::2.0
+create an rss fingerprint::2.0
+data or large variance::2.0
+end users::2.0
+field trials are discussed::2.0
+en-2018b en-2013 en-2009 en-2022a::2.0
+compensate the rss fluctuation::2.0
+convergence effects of large::2.0
+signals can not reach::2.0
+experimental settings the system::2.0
+affect the compensation ability::2.0
+training process and ongoing::2.0
+users are more capable::2.0
+applications have been confined::2.0
+provided by these facilities::2.0
+baseline wi-fi fingerprinting-based indoor::2.0
+noise level in training::2.0
+propagation model-based distance estimation::2.0
+scans provide a reasonable::2.0
+redundant true position information::2.0
+wireless ethernet for indoor::2.0
+formula the same increment::2.0
+en-2030 en-2032 en-2033 en-2039::2.0
+precision is significantly increased::2.0
+innovative indoor positioning techniques::2.0
+positive feedback suppose likelihood::2.0
+feedback model thus designed::2.0
+wi-fi based positioning systems::2.0
+grid using a 33m::2.0
+user to select grid::2.0
+performance of instance-based approaches::2.0
+analyzing the wi-fi rss::2.0
+probability of generating outliers::2.0
+newly created user anchor::2.0
+respects to the systems::2.0
+permanent random interfering factors::2.0
+likelihood distribution in terms::2.0
+selected the positioning precision::2.0
+primary contribution::2.0
+top curve in figure::2.0
+wi-fi rss fingerprinting based::2.0
+curves which are closer::2.0
+robust and efficient model::2.0
+includes all rss vectors::2.0
+problem domain and refined::2.0
+positioning phase may generate::2.0
+trained system::2.0
+calculate the and factors::2.0
+potential applicability of similar::2.0
+devices as tracking targets::2.0
+compensates the increasing velocity::2.0
+continuous malicious or unreliable::2.0
+observation of our preliminary::2.0
+training and maintenance costs::2.0
+choosing the vertex 1-centre::2.0
+opportunities for innovative indoor::2.0
+described in the previous::2.0
+grid cells for positive::2.0
+user feedback also recovers::2.0
+precision in both regions::2.0
+consisted of two phases::2.0
+frames from all nearby::2.0
+current wi-fi rss features::2.0
+system to quickly adapt::2.0
+accuracy is significantly improved::2.0
+sufficiently similar::2.0
+providing this user feedback::2.0
+information is an important::2.0
+user suggested positive feedback::2.0
+top-k anchors to affect::2.0
+anchor is first created::2.0
+utilizes the information collected::2.0
+cost-effective in real indoor::2.0
+feedback in field tests::2.0
+article concludes in section::2.0
+precision is also significantly::2.0
+location in the future::2.0
+en-2024a en-2018a en-2023 en-2018b::2.0
+training round::2.0
+four rounds of user-involved::2.0
+provided in section conclusions::2.0
+provided the original work::2.0
+variance of the measured::2.0
+discussing the user feedback::2.0
+user anchor points falling::2.0
+choose not to provide::2.0
+introduced by continuous malicious::2.0
+feedback follows the systems::2.0
+en-2009 en-2022a en-2021b en-2021::2.0
+provide a reasonable trade-off::2.0
+activities at other times::2.0
+speed up the rate::2.0
+falls below a threshold::2.0
+note that the baseline::2.0
+power when first created::2.0
+update the training data::2.0
+users provide negative feedback::2.0
+recovers the system precision::2.0
+en-2034 en-2040 en-2037 en-2026::2.0
+processes human-centric collaborative feedback::2.0
+model can be consistently::2.0
+system estimation is provided::2.0
+positioning system that includes::2.0
+training area and non-training::2.0
+suppose the total wi-fi::2.0
+user feedback model improves::2.0
+self-correcting based on subsequent::2.0
+environment with small rss::2.0
+error after each scan::2.0
+en-2036 en-2022 en-2024a en-2018a::2.0
+scans used during system::2.0
+shown as the red::2.0
+feedback generates user anchors::2.0
+environments such as airports::2.0
+vector rps and rfk::2.0
+decrease their likelihoods simultaneously::2.0
+rss vector is formed::2.0
+feedback model which receives::2.0
+accuracy of the system::2.0
+rss value::2.0
+location-aware services have gradually::2.0
+feasibility of using wireless::2.0
+en-2031b en-2024 en-2s04 en-2036::2.0
+users can take advantage::2.0
+user anchor points share::2.0
+infeasibility of signal propagation::2.0
+en-2016 en-2017 en-2015 en-2011::2.0
+note that the resolution::2.0
+error due to lack::2.0
+region that was neglected::2.0
+providing knowledgeable and helpful::2.0
+visibility within the eld::2.0
+utilization of user feedback::2.0
+found in non-training area::2.0
+improved if the diversity::2.0
+rss measurements to vary::2.0
+evaluation consisted of two::2.0
+newly create user anchor::2.0
+reuse these mobile devices::2.0
+equally to this work::2.0
+fingerprints database::2.0
+feedback suppose the system::2.0
+reliability of user anchors::2.0
+placing a compensation mask::2.0
+green curves are similar::2.0
+approximately 2.5m to 1.5m::2.0
+likelihood for each system::2.0
+nearby wi-fi access points::2.0
+average of rss variance::2.0
+baseline system is similar::2.0
+positive feedback is generated::2.0
+robustness when a large::2.0
+lower than later scans::2.0
+infeasible for mobile devices::2.0
+baseline system accuracy ranged::2.0
+explain how to calculate::2.0
+value of is inversely::2.0
+current wi-fi rss measurements::2.0
+user location and tracking::2.0
+feedback is not considered::2.0
+logistic regression or svm::2.0
+designed for this purpose::2.0
+calculated by the positioning::2.0
+position has a small::2.0
+system precision is stabilized::2.0
+proper weight or credibility::2.0
+types of mobile devices::2.0
+anchor point should gradually::2.0
+based positioning is essentially::2.0
+system receives a user-suggested::2.0
+en-2029 en-2030 en-2032 en-2033::2.0
+contributions all authors contributed::2.0
+added and the relative::2.0
+anchor with the highest::2.0
+positions for testing purposes::2.0
+shared by other top-k::2.0
+labeling whether the user::2.0
+server can then update::2.0
+wikipedia or delicious social::2.0
+phase the system training::2.0
+anchors become sufficiently reliable::2.0
+self-learning capability and positioning::2.0
+accuracy for the number::2.0
+access enhancing wi-fi fingerprinting::2.0
+model evaluation in order::2.0
+location when the system::2.0
+model is optimally trained::2.0
+remainder of our experiments::2.0
+green curves for scan::2.0
+mentioned earlier in section::2.0
+rss fingerprint containing aps::2.0
+prompt users to provide::2.0
+interference from other people::2.0
+improved when integrating knowledgeable::2.0
+aspect of user feedback::2.0
+merged with the existing::2.0
+system training from users::2.0
+introducing a baseline wi-fi::2.0
+en-2023 en-2018b en-2013 en-2009::2.0
+en-2019 en-2014 en-2016 en-2017::2.0
+specific types of behaviours::2.0
+denoted the non-training area::2.0
+efficient for rss vectors::2.0
+position can also provide::2.0
+proposed in our user::2.0
+evaluations of the proposed::2.0
+important metric for system::2.0
+feedback are from malicious::2.0
+selected as untrained positions::2.0
+baseline wi-fi fingerprinting framework::2.0
+result influences the service::2.0
+fluctuations or access point::2.0
+refinement of this approach::2.0
+baseline system was calculated::2.0
+based on the observations::2.0
+update the wi-fi rss::2.0
+level in training dataset::2.0
+encouraged to provide feedback::2.0
+likelihood of the returned::2.0
+occurs when users choose::2.0
+sufficient number of feedback::2.0
+greater than a threshold::2.0
+state by integrating helpful::2.0
+1-centre for our positioning::2.0
+selects the top-k system::2.0
+defined the problem domain::2.0
+area and non-training area::2.0
+user believes this location::2.0
+positioning errors::2.0
+positioning results via placing::2.0
+value in the count::2.0
+first introducing a baseline::2.0
+simplify the problem domain::2.0
+algorithms such as logistic::2.0
+rounds of collecting user::2.0
+user anchor is merged::2.0
+provide a global description::2.0
+collected within a human-centric::2.0
+average of rss readings::2.0
+inclusion of human-centric feedback::2.0
+rss fingerprints of user::2.0
+formed by other system::2.0
+university of western ontario::2.0
+characteristic of such systems::2.0
+wi-fi access points controlled::2.0
+related work is provided::2.0
+combination of different types::2.0
+likelihood vector::2.0
+location-related wi-fi rss properties::2.0
+degree of system robustness::2.0
+location system::2.0
+position of the device::2.0
+examine how the system::2.0
+trust of those users::2.0
+capability of the factor::2.0
+en-2026 en-2027 en-2038 en-2025::2.0
+due to two technical::2.0
+mechanism is the cosine::2.0
+properties of indoor received::2.0
+temporal or permanent random::2.0
+integrating and processing user::2.0
+improve system::2.0
+significant costs in terms::2.0
+prototype system was developed::2.0
+interference from human bodies::2.0
+authors contributions all authors::2.0
+integrating knowledgeable::2.0
+effects of large amount::2.0
+provide researchers with great::2.0
+representative of the top-k::2.0
+terms of our baseline::2.0
+survey point::2.0
+provided for four rounds::2.0
+described in this experiment::2.0
+corrects the significant positioning::2.0
+discussed in section conclusions::2.0
+address situations where malicious::2.0
+14m as a result::2.0
+naturally represents the spatial::2.0
+observations from the users::2.0
+algorithmic approach to network::2.0
+user feedback model luo::2.0
+user feedback contains information::2.0
+user feedback model compensates::2.0
+mask over the likelihood::2.0
+system performance is significantly::2.0
+distance between anchors asi::2.0
+mechanism can be integrated::2.0
+description about the current::2.0
+estimation receives negative user::2.0
+limiting the candidate luo::2.0
+positioning system we start::2.0
+positioning system is improved::2.0
+en-2021b en-2021 en-2018 en-2020::2.0
+factor i to reduce::2.0
+discrimination ability of gaussian::2.0
+collect a large amount::2.0
+idea of our user::2.0
+malicious or unreliable user::2.0
+system overhead and training::2.0
+feedback a much higher::2.0
+natural variation when indoors::2.0
+collect raw wi-fi rss::2.0
+system error::2.0
+accept the updated information::2.0
+producing the data plotted::2.0
+respect to other similar::2.0
+present the general idea::2.0
+result in large rss::2.0
+en-2027 en-2038 en-2025 stairwell::2.0
+initial and maximum values::2.0
+require very large storage::2.0
+scale deployment of indoor::2.0
+number of interesting ways::2.0
+allowed us to validate::2.0
+performance could be improved::2.0
+user feedback non-training area::2.0
+system error is large::2.0
+user anchors which avoids::2.0
+resolution of this grid::2.0
+time-related changes in human::2.0
+rss data or large::2.0
+system anchors as negative::2.0
+trials within a real-world::2.0
+extracted from the raw::2.0
+systems based on location::2.0
+resulting approach remains efficient::2.0
+clustering approach with predefined::2.0
+information from the users::2.0
+errors for this experiment::2.0
+blue curves and green::2.0
+measured at one scan::2.0
+reducing the grid space::2.0
+size of the voronoi::2.0
+react to different types::2.0
+costs can be reduced::2.0
+reject the estimated position::2.0
+based on subsequent helpful::2.0
+selected within the hallways::2.0
+ieee international::2.0
+effect of the small::2.0
+reduce the positioning likelihood::2.0
+magnification factor of parameter::2.0
+dynamically learn the features::2.0
+beginning of the test::2.0
+weight the first four::2.0
+system or user anchors::2.0
+helpful and knowledgeable feedback::2.0
+ipod touch::2.0
+denoted the training area::2.0
+capability and positioning compensation::2.0
+feedback in indoor positioning::2.0
+characterizes the current wi-fi::2.0
+grid space between system::2.0
+curves and green curves::2.0
+malicious feedback was provided::2.0
+vulnerability to environmental alteration::2.0
+enhanced with multiple similar::2.0
+scan for the beacon::2.0
+ieee trans wireless commun::2.0
+complexity at this point::2.0
+targets to locate users::2.0
+interfering factors of complex::2.0
+order to archive adequate::2.0
+fingerprints for each measured::2.0
+mobile devices is considered::2.0
+overhead and training cost::2.0
+red curves in figure::2.0
+quickly increases to 14m::2.0
+gradually penetrated into real::2.0
+dependent upon the elaborate::2.0
+reasonable trade-off between performance::2.0
+previously trained became comparable::2.0
+future plans for real-world::2.0
+result of the malicious::2.0
+anchor in the model::2.0
+outdated or unreliable knowledge::2.0
+scans and much smaller::2.0
+rationale for this design::2.0
+widely used and integrated::2.0
+grid cell is represented::2.0
+similar to the positive::2.0
+list of author information::2.0
+reliable user::2.0
+inexpensive nature of wi-fi::2.0
+received signal::2.0
+performance with an arbitrary::2.0
+kernel method was originally::2.0
+control our evaluation process::2.0
+due to complicated indoor::2.0
+approach is to perform::2.0
+process and ongoing maintenance::2.0
+rss fluctuations or access::2.0
+improves the system performance::2.0
+estimation indicating a negative::2.0
+similar services for indoor::2.0
+training area with respect::2.0
+moderate or general cases::2.0
+based on helpful user::2.0
+difficult due to two::2.0
+0.7m to 4m average::2.0
+significantly reduces the calculation::2.0
+training the baseline system::2.0
+accuracy after five rounds::2.0
+helpful and malicious feedback::2.0
+eliminate the negative effect::2.0
+updated via the user::2.0
+due to the interference::2.0
+chose this experimental field::2.0
+prediction of the bound::2.0
+positive feedback and negative::2.0
+database to become inefficient::2.0
+limitation in field validation::2.0
+based on their similarity::2.0
+recovering to the starting::2.0
+conducted during semester break::2.0
+negatively affected by unreliable::2.0
+provide accurate and positive::2.0
+feedback to the positioning::2.0
+position within a grid::2.0
+proceedings of the 8th::2.0
+compensated before being presented::2.0
+motivated to provide accurate::2.0
+returns a correct position::2.0
+intensively trained horus system::2.0
+crucial that the feedback::2.0
+proceedings of the first::2.0
+initial configuration and ongoing::2.0
+organic indoor location system::2.0
+equally weighted density functions::2.0
+collect multiple wi-fi scans::2.0
+mechanism which could remove::2.0
+systems use a fingerprinting::2.0
+number of feedback events::2.0
+modification to the positioning::2.0
+recovering based on helpful::2.0
+analyzing these two performance::2.0
+data provided by users::2.0
+user feedback for fast::2.0
+ability of gaussian rbf::2.0
+smallest number of wi-fi::2.0
+clustering in the user::2.0
+en-2018 en-2020 en-2019 en-2014::2.0
+user suggested::2.0
+users for their location::2.0
+reliability of each cluster::2.0
+survey position is characterized::2.0
+location in the training::2.0
+en-2032 en-2033 en-2039 en-2035::2.0
+performance of our baseline::2.0
+productivity and goal fulfillment::2.0
+competing interests the authors::2.0
+configuration and ongoing maintenance::2.0
+contributions of this work::2.0
+wi-fi scans to generate::2.0
+suggesting a random false::2.0
+collected by these wi-fi::2.0
+types of user input::2.0
+threshold for wi-fi rss::2.0
+rss for nearby aps::2.0
+positioning accuracy and precision::2.0
+close to the true::2.0
+provided by the school::2.0
+trend can be found::2.0
+scans for each position::2.0
+human feedback to fingerprinting-based::2.0
+fluctuation and obtain complete::2.0
+likelihood estimate::2.0
+measurement generated during lunch::2.0
+devices makes this approach::2.0
+system accuracy is significantly::2.0
+recover by incorporating subsequent::2.0
+user feedback also reduces::2.0
+proceedings of ubiquitous positioning::2.0
+area with sufficient user::2.0
+estimations by providing suggestion::2.0
+ubiquity of wi-fi-capable devices::2.0
+accurate and positive feedback::2.0
+sensitivity of the user::2.0
+baseline system to determine::2.0
+describing the wi-fi characteristics::2.0
+note that these estimations::2.0
+database updating through user::2.0
+significantly improved when integrating::2.0
+feedback within the positioning::2.0
+system performance in field::2.0
+estimation of the position::2.0
+user anchors were added::2.0
+algorithms to filter outliers::2.0
+weight if the suggested::2.0
+good as the training::2.0
+robust to malicious user::2.0
+funded by scholarships provided::2.0
+baseline system without user::2.0
+settings the system evaluation::2.0
+observe that the system::2.0
+returning a single estimation::2.0
+count is the number::2.0
+design of our user::2.0
+wi-fi chips::2.0
+baseline wi-fi fingerprinting system::2.0
+knowledge of the surroundings::2.0
+value of the factor::2.0
+effect introduced by continuous::2.0
+user feedback model improved::2.0
+user feedback model merges::2.0
+accurate within the training::2.0
+anchors would truly represent::2.0
+timestamp within the rss::2.0
+10th annual international conference::2.0
+perform cross platform validation::2.0
+system returns a position::2.0
+resolution of entire system::2.0
+fingerprints of user anchor::2.0
+social bookmarking have achieved::2.0
+strength for wlan location::2.0
+classify the malicious users::2.0
+computational cost of typical::2.0
+propose a user promotion::2.0
+user anchor and factor::2.0
+gradually reduce the likelihood::2.0
+ongoing maintenance in order::2.0
+user anchor is regarded::2.0
+tracking in gps-less environments::2.0
+shared by previous users::2.0
+measurements will be collected::2.0
+resolution of the positioning::2.0
+kernel and the centre::2.0
+amount of real wi-fi::2.0
+variance of the current::2.0
+represents the spatial uncertainty::2.0
+anchor has a likelihood::2.0
+type of mobile device::2.0
+model improved the system::2.0
+wide range of applications::2.0
+improved after four rounds::2.0
+knowledgeable feedback::2.0
+feedback should be eliminated::2.0
+negative user::2.0
+due to the temporal::2.0
+system returns::2.0
+lead to a weak::2.0
+network infrastructure is found::2.0
+workshop on mobile entity::2.0
+mobile and ubiquitous systems::2.0
+value of the proposed::2.0
+access point::2.0
+user feedback is integrated::2.0
+interference to future positioning::2.0
+overview of future work::2.0
+applicability of similar services::2.0
+variable number of wi-fi::2.0
+based on a voronoi::2.0
+services have gradually penetrated::2.0
+helpful end users percentage::2.0
+provided in section related::2.0
+reduced by a small::2.0
+beginning and as completely::2.0
+human-centric collaborative feedback system::2.0
+feedback as completely malicious::2.0
+confined to outdoor environments::2.0
+outcomes can be compensated::2.0
+precision after four scans::2.0
+deployment of indoor location-awareness::2.0
+engineering building at memorial::2.0
+values have a natural::2.0
+efficient and robust user::2.0
+integrating helpful and knowledgeable::2.0
+types of user feedback::2.0
+error was rather large::2.0
+manuscript to a journal::2.0
+vertex-1 centre of top-k::2.0
+series of rss vectors::2.0
+anchors will be reducing::2.0
+factor could affect user::2.0
+plans for real-world field::2.0
+contribution of this work::2.0
+assign each individual feedback::2.0
+feedback from malicious users::2.0
+rss fingerprint is defined::2.0
+geometric centre::2.0
+temporal aspect of user::2.0
+evaluations with this feedback::2.0
+devices can also degrade::2.0
+user positive or negative::2.0
+depends on the distance::2.0
+approach are its size::2.0
+integrated human-centric collaborative feedback::2.0
+phase in the positioning::2.0
+positive feedback generates user::2.0
+note that the system::2.0
+provide any further information::2.0
+indoor localization through user::2.0
+approved the final manuscript::2.0
+user provides null feedback::2.0
+history of both positive::2.0
+user feedback could require::2.0
+ubiquitous positioning indoor navigation::2.0
+fixed number of wi-fi::2.0
+rss measurements are changing::2.0
+user anchors and enhances::2.0
+ieee trans::2.0
+indoor location::2.0
+automatically adjust rss patterns::2.0
+positive or negative feedback::2.0
+feedback whenever the system::2.0
+positioning within the training::2.0
+comparison to the baseline::2.0
+en-2s04 en-2036 en-2022 en-2024a::2.0
+en-2012 en-2008 en-2010 en-2021a::2.0
+fact only marginally worse::2.0
+ability of the system::2.0
+phase of this experiment::2.0
+likelihood distribution::2.0
+incorporating subsequent corrective feedback::2.0
+data in these regions::2.0
+system only prompts users::2.0
+cells for positive feedback::2.0
+create individual fingerprints database::2.0
+position could be pulled::2.0
+obtain complete ap information::2.0
+helps to efficiently reduce::2.0
+precision is also improved::2.0
+based on cyclical activities::2.0
+based on these principles::2.0
+numbers for generating fingerprints::2.0
+integrating knowledgeable and helpful::2.0
+describe a baseline wi-fi::2.0
+axis than red curves::2.0
+interface allows the user::2.0
+discussed in section human-centric::2.0
+activities in a wide::2.0
+incorporate collaboration in order::2.0
+enhanced with a self-learning::2.0
+means that the magnification::2.0
+graduate studies at memorial::2.0
+day to avoid temporal-based::2.0
+vector generated at location::2.0
+based indoor::2.0
+end of the training::2.0
+large amount of real::2.0
+saving these suggestions separately::2.0
+phase was to analyze::2.0
+rss measurement is provided::2.0
+fairly good system performance::2.0
+proceedings of the 3rd::2.0
+increasing the grid resolution::2.0
+blue and green curves::2.0
+model contained only system::2.0
+location p as rps::2.0
+storing arbitrary user feedback::2.0
+ability to forget outdated::2.0
+position from the top-k::2.0
+includes an integrated human-centric::2.0
+affect the system estimation::2.0
+feedback in a real::2.0
+four will not generate::2.0
+working on a partially::2.0
+introduced by complex indoor::2.0
+devices carried by people::2.0
+propose a simple credibility::2.0
+users to provide feedback::2.0
+approaches could be developed::2.0
+current rss::2.0
+properties called wi-fi rss::2.0
+fingerprinting-based indoor positioning due::2.0
+administrators use a mobile::2.0
+feedback suppose likelihood calculation::2.0
+represented by the centre::2.0
+receives a user-suggested location::2.0
+merges all similar user::2.0
+analysis of our baseline::2.0
+argue that the system::2.0
+orland hoeber2 and yuanzhu::2.0
+anchor and factor enable::2.0
+existing user anchor auj::2.0
+temporary user anchor aui::2.0
+proceedings of 19th ieee::2.0
+en-2015 en-2011 en-2012 en-2008::2.0
+depending on the wi-fi::2.0
+results in significant costs::2.0
+scenarios that represent specific::2.0
+en-2011 en-2012 en-2008 en-2010::2.0
+investigate how the user::2.0
+en-2033 en-2039 en-2035 en-2034::2.0
+analyze the algorithm complexity::2.0
+system anchors as candidates::2.0
+uncommon due to system::2.0
+system integrating user feedback::2.0
+aui is first created::2.0
+environmental changes and wi-fi::2.0
+middle of the wi-fi::2.0
+define the user anchor::2.0
+indoor use because gps::2.0
+expensive problem for general::2.0
+reference points to determine::2.0
+en-2020 en-2019 en-2014 en-2016::2.0
+positive feedback is provided::2.0
+user anchor is first::2.0
+point in the physical::2.0
+open access enhancing wi-fi::2.0
+feedback and negative feedback::2.0
+position can be estimated::2.0
+system anchors the statistics::2.0
+received but subsequent helpful::2.0
+related work the wi-fi-based::2.0
+number greater than four::2.0
+indicating a negative feedback::2.0
+positioning precision::2.0
+factors of complex indoor::2.0
+14m and extremely low::2.0
+helpful feedback quickly corrects::2.0
+means for indoor positioning::2.0
+influences the service quality::2.0
+gradually update the systems::2.0
+negative feedback is received::2.0
+point in a two-step::2.0
+system creates a temporary::2.0
+order to improve system::2.0
+integrated to automatically adjust::2.0
+performance is significantly lower::2.0
+round as a traversal::2.0
+similarity between two user::2.0
+instances of the user::2.0
+first acm international workshop::2.0
+likelihood and the positioning::2.0
+discuss how to update::2.0
+sparse vectors::2.0
+centre of the cell::2.0
+nature of wi-fi infrastructure::2.0
+area average positioning error::2.0
+simplest but efficient approach::2.0
+positioning model::2.0
+feedback suppose::2.0
+due to the small::2.0
+apple iphone::2.0
+benefits of the collaborative::2.0
+factor whenever a temporary::2.0
+existing user anchor point::2.0
+mobile computing and networking::2.0
+live measurement::2.0
+trustworthiness of an anchor::2.0
+full list of author::2.0
+complex indoor::2.0
+indoor positioning systems based::2.0
+significantly increased as plotted::2.0
+noise level::2.0
+subsequent scan should lead::2.0
+influence on the evolution::2.0
+indoor navigation and location::2.0
+navigation and location based::2.0
+feedback generated during lunch::2.0
+reduced to an unacceptable::2.0
+localization through user collaboration::2.0
+factor will be increased::2.0
+malicious user provides null::2.0
+preliminary experiments::2.0
+first phase::2.0
+authors read and approved::2.0
+part of the 2nd::2.0
+ieee trans mob compu::2.0
+systems knowledge and guide::2.0
+respect to mixed feedback::2.0
+anchor merge a newly::2.0
+high degree of system::2.0
+conducted in an complex::2.0
+experiment might be rarely::2.0
+factor to gradually reduce::2.0
+feedback has been received::2.0
+similar in many respects::2.0
+positioning result::2.0
+diversity of wi-fi chips::2.0
+performance of the system::2.0
+prototype and conducted experiments::2.0
+international workshop on mobile::2.0
+weight of the system::2.0
+model reaches its optimal::2.0
+summarized from the current::2.0
+mislead the positioning activities::2.0
+quality of service provided::2.0
+proposed approach have allowed::2.0
+feedback model is robust::2.0
+fingerprint-based wi-fi location systems::2.0
+chips in different mobile::2.0
+feedback events are received::2.0
+location and tracking system::2.0
+collaboration is the defining::2.0
+copyright to your article::2.0
+variety of user feedback::2.0
+users reject the estimated::2.0
+curves for scan 5,10::2.0
+system will be compensated::2.0
+integration of human-centric collaborative::2.0
+en-2018a en-2023 en-2018b en-2013::2.0
+stops at each survey::2.0
+malicious at the beginning::2.0
+scans is not improved::2.0
+reduced by the factor::2.0
+best-performing but intensively trained::2.0
+efficiently reduce the grid::2.0
+scans as the top::2.0
+approach is to create::2.0
+waiting for a positioning::2.0
+work with a summary::2.0
+mac address::2.0
+conducted using the apple::2.0
+likelihood estimate between rps::2.0
+measurements to a remote::2.0
+step is to choose::2.0
+order to provide redundant::2.0
+developed the system evaluation::2.0
+users could provide feedback::2.0
+position likelihood is calculated::2.0
+situations of time-varying rss::2.0
+manuscript ; oh analyzed::2.0
+accurate state by integrating::2.0
+anchor points are similar::2.0
+scenarios were somewhat contrived::2.0
+approach with predefined centres::2.0
+beacon frame broadcasting periods::2.0
+treated as an area::2.0
+level of the current::2.0
+knowledge shared by previous::2.0
+rounds of user-involved positioning::2.0
+gap between system anchors::2.0
+vectors of n dimensions::2.0
+feedback model are explained::2.0
+generated to the evolve::2.0
+position is enabled directly::2.0
+selection of the position::2.0
+bottom curve in figure::2.0
+parameter setting will weight::2.0
+start by first introducing::2.0
+characterized by location-related wi-fi::2.0
+work is properly cited::2.0
+fact provides the worst-case::2.0
+performance in an area::2.0
+indication that the data::2.0
+advantage of the timestamp::2.0
+day or different dates::2.0
+beacon frames::2.0
+anchors are reference points::2.0
+en-2040 en-2037 en-2026 en-2027::2.0
+curves shown in figure::2.0
+system anchors are reference::2.0
+articles freely available online::2.0
+consists of a training::2.0
+credibility of a newly::2.0
+behaviour in this case::2.0
+pervasive computing and communications::2.0
+positioning process is finished::2.0
+anchors fill the gap::2.0
+store every user anchor::2.0
+recover from incorrect feedback::2.0
+worst case scenario study::2.0
+rss fingerprinting based positioning::2.0
+fingerprinting-based positioning process active::2.0
+produce a reasonably accurate::2.0
+large number of users::2.0
+claim that two user::2.0
+suggested position::2.0
+results show the ability::2.0
+directly in the user::2.0
+experimentation at a consistent::2.0
+estimated position and suggest::2.0
+university to the first::2.0
+approaches is in fact::2.0
+database via positive user::2.0
+centre of top-k anchors::2.0
+fingerprint had been generated::2.0
+user feedback in fingerprint-based::2.0
+area as the training::2.0
+estimation of its rss::2.0
+problem domain and assumed::2.0
+penetrated into real life::2.0
+feedback could be estimated::2.0
+signal strength for wlan::2.0
+generate an rss vector::2.0
+positioning process active campus::2.0
+conducted experiments to evaluate::2.0
+wi-fi scans in order::2.0
+dataset or the noise::2.0
+result with a decreasing::2.0
+improve upon the positioning::2.0
+large amount of users::2.0
+aui is thus merged::2.0
+query the positioning system::2.0
+people and their electronic::2.0
+anchors as the estimation::2.0
+candidates as the systems::2.0
+multiple similar feedback events::2.0
+controlled by individual users::2.0
+confidence in its prediction::2.0
+occur in real world::2.0
+field contains its mac::2.0
+factors for these top-k::2.0
+space between system anchors::2.0
+anchor points are generated::2.0
+previous experiments::2.0
+wi-fi access::2.0
+system could be refined::2.0
+compensation power when first::2.0
+error becomes relatively stable::2.0
+location based::2.0
+human bodies and electronic::2.0
+rest of this article::2.0
+level of the entire::2.0
+four rounds of knowledgeable::2.0
+anchor is sufficiently similar::2.0
+show that the baseline::2.0
+contribution is the presentation::2.0
+blind acceptance or rejection::2.0
+multiple anchors already exist::2.0
+performance with a large::2.0
+scan number is small::2.0
+realistic situations of time-varying::2.0
+user feedback in indoor::2.0
+researchers have been working::2.0
+gaussian kernel to calculate::2.0
+scans in the remainder::2.0
+reject the same set::2.0
+suggestions separately would bloat::2.0
+provided to the user::2.0
+rss data to simulate::2.0
+positioning results::2.0
+model the user feedback::2.0
+3:2 submit your manuscript::2.0
+19th ieee international conference::2.0
+pace of the increase::2.0
+achieving the same level::2.0
+location determination system::1.58496250072
+rss measurement generated::1.58496250072
+aspect for refinement::1.58496250072
+terms of wi-fi::1.58496250072
+number is small::1.58496250072
+model will depend::1.58496250072
+position was inaccurate::1.58496250072
+likelihood is reduced::1.58496250072
+weight the first::1.58496250072
+reliability or credibility::1.58496250072
+users could carry::1.58496250072
+location-related wi-fi rss::1.58496250072
+incrementally for future::1.58496250072
+developed that dynamically::1.58496250072
+define a system::1.58496250072
+higher credibility weight::1.58496250072
+3.1.2 ; experiments::1.58496250072
+fulfillment to social::1.58496250072
+merges all similar::1.58496250072
+statistics are extracted::1.58496250072
+implemented the proposed::1.58496250072
+penetrated into real::1.58496250072
+scan will generate::1.58496250072
+behaviours of users::1.58496250072
+choose to accept::1.58496250072
+nature of wi-fi::1.58496250072
+benign or malicious::1.58496250072
+reliable user anchors::1.58496250072
+space between system::1.58496250072
+number of occurrences::1.58496250072
+true position information::1.58496250072
+abstract position information::1.58496250072
+accuracy and resolution::1.58496250072
+system their estimations::1.58496250072
+testing and experimentation::1.58496250072
+feedback model luo::1.58496250072
+absorb new knowledge::1.58496250072
+point that minimizes::1.58496250072
+experiments and evaluations::1.58496250072
+early phase consists::1.58496250072
+wi-fi-capable devices makes::1.58496250072
+feedback contains information::1.58496250072
+aps that describe::1.58496250072
+first few instances::1.58496250072
+subsequent corrective feedback::1.58496250072
+open access article::1.58496250072
+increased as plotted::1.58496250072
+rss data provided::1.58496250072
+movement of people::1.58496250072
+type of mobile::1.58496250072
+user into knowledgable::1.58496250072
+achieved huge successes::1.58496250072
+feedback from malicious::1.58496250072
+authors contributed equally::1.58496250072
+rps and rfk::1.58496250072
+avoid temporal-based variances::1.58496250072
+precision is significantly::1.58496250072
+support vector machines::1.58496250072
+propose a wi-fi::1.58496250072
+situations where users::1.58496250072
+wi-fi location systems::1.58496250072
+infrastructure is found::1.58496250072
+hoeber2 and yuanzhu::1.58496250072
+based on location::1.58496250072
+fingerprinting based positioning::1.58496250072
+users suggested position::1.58496250072
+carried by people::1.58496250072
+selection the number::1.58496250072
+train the system::1.58496250072
+learn from user::1.58496250072
+en-2039 en-2035 en-2034::1.58496250072
+degree of system::1.58496250072
+ability of gaussian::1.58496250072
+introduced by complex::1.58496250072
+feedback to benefit::1.58496250072
+tested and evaluated::1.58496250072
+process and ongoing::1.58496250072
+funded by scholarships::1.58496250072
+likelihood by updating::1.58496250072
+en-2020 en-2019 en-2014::1.58496250072
+interference from human::1.58496250072
+ignore this dimension::1.58496250072
+productivity and goal::1.58496250072
+domain and refined::1.58496250072
+large storage space::1.58496250072
+order to carefully::1.58496250072
+environments may result::1.58496250072
+order to continuously::1.58496250072
+feedback is provided::1.58496250072
+virtual user positive::1.58496250072
+anchor is merged::1.58496250072
+blue and green::1.58496250072
+utilizes the information::1.58496250072
+generated when users::1.58496250072
+negative feedback received::1.58496250072
+system only prompts::1.58496250072
+signal propagation introduced::1.58496250072
+benefit subsequent users::1.58496250072
+indoor location system::1.58496250072
+probability of generating::1.58496250072
+large error due::1.58496250072
+start by first::1.58496250072
+en-2019 en-2014 en-2016::1.58496250072
+due to complicated::1.58496250072
+value of count::1.58496250072
+first rss vector::1.58496250072
+suggest a location::1.58496250072
+testing each position::1.58496250072
+likelihood of asi::1.58496250072
+ieee microw mag::1.58496250072
+en-2021b en-2021 en-2018::1.58496250072
+system integrating user::1.58496250072
+cell as aui::1.58496250072
+design the factor::1.58496250072
+stabilize the average::1.58496250072
+experiments to evaluate::1.58496250072
+helps to efficiently::1.58496250072
+freely available online::1.58496250072
+rss live measurement::1.58496250072
+precision is low::1.58496250072
+users to provide::1.58496250072
+reduce the positioning::1.58496250072
+commons attribution license::1.58496250072
+perform cross platform::1.58496250072
+en-2016 en-2017 en-2015::1.58496250072
+process is finished::1.58496250072
+en-2031b en-2024 en-2s04::1.58496250072
+framework is endowed::1.58496250072
+inclusion of human-centric::1.58496250072
+in-building rf-based user::1.58496250072
+characterized by location-related::1.58496250072
+set the value::1.58496250072
+building at memorial::1.58496250072
+extremely low precision::1.58496250072
+indoor positioning due::1.58496250072
+processes human-centric collaborative::1.58496250072
+received but subsequent::1.58496250072
+provide a reasonable::1.58496250072
+factor could affect::1.58496250072
+approach to network::1.58496250072
+collect raw wi-fi::1.58496250072
+iphone os 3.1.2::1.58496250072
+collective rss variance::1.58496250072
+2.5m to 1.5m::1.58496250072
+numbers for generating::1.58496250072
+error starts out::1.58496250072
+performance and positioning::1.58496250072
+order to stabilize::1.58496250072
+cluster is compensated::1.58496250072
+en-2031c en-2031b en-2024::1.58496250072
+trained after four::1.58496250072
+address in fingerprint::1.58496250072
+define the similarity::1.58496250072
+decrease their likelihoods::1.58496250072
+work was funded::1.58496250072
+area and non-training::1.58496250072
+trans wireless commun::1.58496250072
+overview of future::1.58496250072
+nearby wi-fi aps::1.58496250072
+general and efficient::1.58496250072
+begin by identifying::1.58496250072
+voronoi cell naturally::1.58496250072
+generate system anchors::1.58496250072
+curves for scan::1.58496250072
+positioning determination phase::1.58496250072
+greater than four::1.58496250072
+aui and auj::1.58496250072
+system may create::1.58496250072
+feedback will affect::1.58496250072
+estimate the fluctuation::1.58496250072
+define a round::1.58496250072
+costs in terms::1.58496250072
+targets to locate::1.58496250072
+system to find::1.58496250072
+provide a global::1.58496250072
+exist as outliers::1.58496250072
+returns a position::1.58496250072
+user provides null::1.58496250072
+correct position estimation::1.58496250072
+variation when indoors::1.58496250072
+best-performing but intensively::1.58496250072
+en-2035 en-2034 en-2040::1.58496250072
+malicious user feedback::1.58496250072
+elaborate training process::1.58496250072
+reduce its likelihood::1.58496250072
+set smaller grid::1.58496250072
+increase the accuracy::1.58496250072
+select grid cells::1.58496250072
+users much larger::1.58496250072
+diversity of manufacture::1.58496250072
+estimations by providing::1.58496250072
+area average positioning::1.58496250072
+query the fingerprint::1.58496250072
+curves and green::1.58496250072
+aui is first::1.58496250072
+claim that two::1.58496250072
+tts also reflects::1.58496250072
+mobile entity localization::1.58496250072
+individual fingerprints database::1.58496250072
+similar precision trend::1.58496250072
+indoor received signal::1.58496250072
+rss data patterns::1.58496250072
+scan number greater::1.58496250072
+anchor points share::1.58496250072
+large shopping centre::1.58496250072
+performance in field::1.58496250072
+significant positioning errors::1.58496250072
+render it infeasible::1.58496250072
+model thus designed::1.58496250072
+wi-fi fingerprinting indoor::1.58496250072
+denoted the non-training::1.58496250072
+creating the fingerprint::1.58496250072
+random propagation effects::1.58496250072
+error is large::1.58496250072
+define an efficient::1.58496250072
+order to archive::1.58496250072
+computing and networking::1.58496250072
+represent realistic user::1.58496250072
+choice for situations::1.58496250072
+method in section::1.58496250072
+future positioning queries::1.58496250072
+phase includes scans::1.58496250072
+bring large interference::1.58496250072
+order to provide::1.58496250072
+small rss variance::1.58496250072
+approach especially cost-effective::1.58496250072
+providing this user::1.58496250072
+supervised classification algorithms::1.58496250072
+performance is highly::1.58496250072
+reaches its optimal::1.58496250072
+providing null feedback::1.58496250072
+outlier user feedback::1.58496250072
+fact highly dependent::1.58496250072
+gap between system::1.58496250072
+precision is improved::1.58496250072
+negative feedback suppose::1.58496250072
+trans mob compu::1.58496250072
+training data incrementally::1.58496250072
+system is similar::1.58496250072
+compensates the increasing::1.58496250072
+environmental interference level::1.58496250072
+system to improve::1.58496250072
+discussed in section::1.58496250072
+indoor positioning techniques::1.58496250072
+approximately four rounds::1.58496250072
+19th ieee international::1.58496250072
+facilitate the construction::1.58496250072
+simple credibility rating::1.58496250072
+model is tested::1.58496250072
+scan is plotted::1.58496250072
+introducing a baseline::1.58496250072
+location is incorrect::1.58496250072
+configuration and ongoing::1.58496250072
+earlier in section::1.58496250072
+occur in real::1.58496250072
+phase may generate::1.58496250072
+metric for system::1.58496250072
+ongoing maintenance efforts::1.58496250072
+calculate the variances::1.58496250072
+aspect of user::1.58496250072
+propose a user::1.58496250072
+8th international conference::1.58496250072
+four wi-fi scans::1.58496250072
+model is optimally::1.58496250072
+trust their individual::1.58496250072
+en-2034 en-2040 en-2037::1.58496250072
+identifying three types::1.58496250072
+provided for four::1.58496250072
+worst case scenario::1.58496250072
+system an ability::1.58496250072
+deployment of indoor::1.58496250072
+en-2025a en-2031 en-2031a::1.58496250072
+anchors to affect::1.58496250072
+definition and explanation::1.58496250072
+adjust the rate::1.58496250072
+partition the data::1.58496250072
+designed and implemented::1.58496250072
+raw wi-fi measurement::1.58496250072
+system will react::1.58496250072
+increases to 14m::1.58496250072
+provide location-aware services::1.58496250072
+quickly recovering based::1.58496250072
+robust and suitable::1.58496250072
+positioning service based::1.58496250072
+effects from outlier::1.58496250072
+model is robust::1.58496250072
+system in environments::1.58496250072
+determine the representative::1.58496250072
+negative feedback reduces::1.58496250072
+en-2018b en-2013 en-2009::1.58496250072
+yzchen @ mun.ca::1.58496250072
+en-2011 en-2012 en-2008::1.58496250072
+lack of system::1.58496250072
+types of feedback::1.58496250072
+anchors as negative::1.58496250072
+bodies and electronic::1.58496250072
+based positioning systems::1.58496250072
+analyzing these two::1.58496250072
+en-2021 en-2018 en-2020::1.58496250072
+similar feedback events::1.58496250072
+ieee annual conference::1.58496250072
+researchers have employed::1.58496250072
+location based service::1.58496250072
+vulnerability to environmental::1.58496250072
+essentially an unsupervised::1.58496250072
+determines one dimension::1.58496250072
+wireless local area::1.58496250072
+practical robust localization::1.58496250072
+fingerprints of user::1.58496250072
+access points controlled::1.58496250072
+simulate the wi-fi::1.58496250072
+defined a number::1.58496250072
+aps are received::1.58496250072
+feedback also recovers::1.58496250072
+positive feedback suppose::1.58496250072
+experiments were conducted::1.58496250072
+number of people::1.58496250072
+environments with time-related::1.58496250072
+promising application prospect::1.58496250072
+generate different models::1.58496250072
+reuse these mobile::1.58496250072
+indicating a negative::1.58496250072
+zero-configuration indoor localization::1.58496250072
+deployed for indoor::1.58496250072
+created user anchor::1.58496250072
+random false position::1.58496250072
+rss of k-th::1.58496250072
+show the ability::1.58496250072
+large rss fluctuations::1.58496250072
+merge mechanism proposed::1.58496250072
+quickly self-correcting based::1.58496250072
+scans to generate::1.58496250072
+features and locations::1.58496250072
+supply specific information::1.58496250072
+includes all rss::1.58496250072
+rejects the position::1.58496250072
+eliminate the negative::1.58496250072
+rss fingerprinting based::1.58496250072
+distribution in terms::1.58496250072
+feed the model::1.58496250072
+represent a good::1.58496250072
+send their rss::1.58496250072
+change was observed::1.58496250072
+order to evaluate::1.58496250072
+position is enabled::1.58496250072
+require very large::1.58496250072
+raw wi-fi rss::1.58496250072
+defined the problem::1.58496250072
+scan should lead::1.58496250072
+calculation is finished::1.58496250072
+current rss measurement::1.58496250072
+fuj are wi-fi::1.58496250072
+large scale deployment::1.58496250072
+system accuracy ranged::1.58496250072
+measurement is provided::1.58496250072
+fast learning ability::1.58496250072
+make any modification::1.58496250072
+updating through user::1.58496250072
+overhead and training::1.58496250072
+user is benign::1.58496250072
+large indoor environments::1.58496250072
+enhanced with multiple::1.58496250072
+resulting likelihood estimate::1.58496250072
+create an rss::1.58496250072
+feedback is generated::1.58496250072
+total wi-fi scan::1.58496250072
+user suggested position::1.58496250072
+true position due::1.58496250072
+user anchor due::1.58496250072
+update the systems::1.58496250072
+phases of wi-fi::1.58496250072
+multiple wi-fi scans::1.58496250072
+suitable for integrating::1.58496250072
+cluster each user::1.58496250072
+anchor and factor::1.58496250072
+compensate the rss::1.58496250072
+positive feedback model::1.58496250072
+employed a wi-fi::1.58496250072
+received and converted::1.58496250072
+location-awareness can increase::1.58496250072
+based on subsequent::1.58496250072
+multiple similar feedback::1.58496250072
+en-2031 en-2031a en-2031c::1.58496250072
+collected rss values::1.58496250072
+similarity is determined::1.58496250072
+work the wi-fi-based::1.58496250072
+feedback model compensates::1.58496250072
+recover by incorporating::1.58496250072
+order to speed::1.58496250072
+conducted all testing::1.58496250072
+equally weighted density::1.58496250072
+first acm international::1.58496250072
+similar to knn::1.58496250072
+gps is widely::1.58496250072
+two similarity conditions::1.58496250072
+en-2040 en-2037 en-2026::1.58496250072
+mobile devices context::1.58496250072
+feedback quickly corrects::1.58496250072
+collecting user feedback::1.58496250072
+generated at location::1.58496250072
+first three scans::1.58496250072
+cell is represented::1.58496250072
+positive or negative::1.58496250072
+system evaluation consisted::1.58496250072
+performance after approximately::1.58496250072
+users to evolve::1.58496250072
+accept the updated::1.58496250072
+positioning accuracy increased::1.58496250072
+misleading user feedback::1.58496250072
+wikipedia or delicious::1.58496250072
+baseline wi-fi fingerprinting-based::1.58496250072
+reasonable to deduce::1.58496250072
+receives negative user::1.58496250072
+factor to gradually::1.58496250072
+human-centric positioning system::1.58496250072
+utilize user feedback::1.58496250072
+challenges provide researchers::1.58496250072
+applicability of similar::1.58496250072
+count value means::1.58496250072
+estimation receives negative::1.58496250072
+inefficient and result::1.58496250072
+data to simulate::1.58496250072
+wi-fi indoor environments::1.58496250072
+wi-fi measurement data::1.58496250072
+fluctuation and obtain::1.58496250072
+area with sufficient::1.58496250072
+confined to outdoor::1.58496250072
+assess the reliability::1.58496250072
+trusting the results::1.58496250072
+wi-fi rss properties::1.58496250072
+en-2026 en-2027 en-2038::1.58496250072
+case scenario study::1.58496250072
+en-2017 en-2015 en-2011::1.58496250072
+level of accuracy::1.58496250072
+range of applications::1.58496250072
+complete ap information::1.58496250072
+weak discrimination ability::1.58496250072
+quality of service::1.58496250072
+fui and fuj::1.58496250072
+large system overhead::1.58496250072
+inaccurate positioning outcomes::1.58496250072
+influences the service::1.58496250072
+collect a large::1.58496250072
+feedback suppose likelihood::1.58496250072
+en-2008 en-2010 en-2021a::1.58496250072
+four scans provide::1.58496250072
+acceptance or rejection::1.58496250072
+nearby wi-fi access::1.58496250072
+users could provide::1.58496250072
+store every user::1.58496250072
+anchor merge mechanism::1.58496250072
+en-2018a en-2023 en-2018b::1.58496250072
+partially trained system::1.58496250072
+increasing the grid::1.58496250072
+low accurate state::1.58496250072
+wi-fi fingerprinting framework::1.58496250072
+yuanzhu chen2,3* *correspondence::1.58496250072
+receives a user-suggested::1.58496250072
+en-2023 en-2018b en-2013::1.58496250072
+rss vectors likelihood::1.58496250072
+system and trusting::1.58496250072
+increased the sensitivity::1.58496250072
+larger than subsequent::1.58496250072
+limited time period::1.58496250072
+suppose likelihood calculation::1.58496250072
+services for indoor::1.58496250072
+en-2012 en-2008 en-2010::1.58496250072
+evaluation experimental settings::1.58496250072
+tracking in gps-less::1.58496250072
+improved the system::1.58496250072
+contained only system::1.58496250072
+model to self-recover::1.58496250072
+position is accurate::1.58496250072
+designed and developed::1.58496250072
+researchers with great::1.58496250072
+distances are weighted::1.58496250072
+provide positive feedback::1.58496250072
+characterizes the current::1.58496250072
+fingerprint-based wi-fi location::1.58496250072
+occurs when users::1.58496250072
+malicious or unreliable::1.58496250072
+positions of mobile::1.58496250072
+made by researchers::1.58496250072
+en-2029 en-2030 en-2032::1.58496250072
+degrade the accuracy::1.58496250072
+needed to create::1.58496250072
+anchors become sufficiently::1.58496250072
+set of aps::1.58496250072
+selects the top-k::1.58496250072
+model are explained::1.58496250072
+shared by previous::1.58496250072
+anchor is first::1.58496250072
+believes this location::1.58496250072
+number of researchers::1.58496250072
+system evaluation process::1.58496250072
+fact only marginally::1.58496250072
+canada full list::1.58496250072
+k=1 where rmk::1.58496250072
+remove user feedback::1.58496250072
+variety of user::1.58496250072
+model to improve::1.58496250072
+good system performance::1.58496250072
+signal propagation model-based::1.58496250072
+users true position::1.58496250072
+capture beacon frames::1.58496250072
+robust to malicious::1.58496250072
+limitation in field::1.58496250072
+rps and fingerprint::1.58496250072
+work is properly::1.58496250072
+sufficiently large number::1.58496250072
+conference on computer::1.58496250072
+user feedback non-training::1.58496250072
+estimate between rps::1.58496250072
+determine the positions::1.58496250072
+fluctuations or access::1.58496250072
+process active campus::1.58496250072
+system a fast::1.58496250072
+represents the spatial::1.58496250072
+networking and services::1.58496250072
+services have gradually::1.58496250072
+performance is significantly::1.58496250072
+collecting both positive::1.58496250072
+database via positive::1.58496250072
+degree of trust::1.58496250072
+position is characterized::1.58496250072
+discussing the user::1.58496250072
+user promotion mechanism::1.58496250072
+scan the rss::1.58496250072
+improved when integrating::1.58496250072
+centre of top-k::1.58496250072
+work is provided::1.58496250072
+feedback is integrated::1.58496250072
+investigate the relationship::1.58496250072
+number of interesting::1.58496250072
+evaluate system performance::1.58496250072
+user fingerprint summarized::1.58496250072
+concludes in section::1.58496250072
+access enhancing wi-fi::1.58496250072
+conducted an experiment::1.58496250072
+realistic user behaviour::1.58496250072
+organic indoor location::1.58496250072
+propose a mechanism::1.58496250072
+user to select::1.58496250072
+classify the malicious::1.58496250072
+positioning using human-centric::1.58496250072
+based on cyclical::1.58496250072
+system can accept::1.58496250072
+return the position::1.58496250072
+training from users::1.58496250072
+acknowledgements this work::1.58496250072
+select the wi-fi::1.58496250072
+feedback in field::1.58496250072
+en-2022a en-2021b en-2021::1.58496250072
+significantly more accurate::1.58496250072
+guide the system::1.58496250072
+consisted of two::1.58496250072
+collaborative feedback provided::1.58496250072
+period of sampling::1.58496250072
+ieee trans mob::1.58496250072
+approximately two minutes::1.58496250072
+plans for real-world::1.58496250072
+accuracy of positioning::1.58496250072
+users provide feedback::1.58496250072
+providing negative feedback::1.58496250072
+separately would bloat::1.58496250072
+distance between anchors::1.58496250072
+reliability of user::1.58496250072
+selected as untrained::1.58496250072
+users are prompted::1.58496250072
+factors in detail::1.58496250072
+wi-fi-based positioning technology::1.58496250072
+fingerprint is stored::1.58496250072
+collaborative feedback system::1.58496250072
+system is enhanced::1.58496250072
+anchors and enhances::1.58496250072
+vector is formed::1.58496250072
+results via placing::1.58496250072
+factor increases fastest::1.58496250072
+user feedback based::1.58496250072
+high system overhead::1.58496250072
+decade of research::1.58496250072
+updating the factors::1.58496250072
+workshop on mobile::1.58496250072
+live wi-fi measurements::1.58496250072
+model can eliminate::1.58496250072
+experiment are plotted::1.58496250072
+training and maintenance::1.58496250072
+technologies in wireless::1.58496250072
+test the model::1.58496250072
+cumulative estimation result::1.58496250072
+wi-fi is widely::1.58496250072
+update the reliability::1.58496250072
+ubiquitous positioning indoor::1.58496250072
+grid-based clustering approach::1.58496250072
+query the positioning::1.58496250072
+user interface provided::1.58496250072
+convenient online submission::1.58496250072
+tune the value::1.58496250072
+improve the performance::1.58496250072
+describe a baseline::1.58496250072
+access article distributed::1.58496250072
+first four users::1.58496250072
+wlan location fingerprinting::1.58496250072
+positioning process active::1.58496250072
+results in significant::1.58496250072
+refined and enhanced::1.58496250072
+types of behaviours::1.58496250072
+malicious user knowledgable::1.58496250072
+en-2014 en-2016 en-2017::1.58496250072
+centre is rfk::1.58496250072
+svm to classify::1.58496250072
+position likelihood distribution::1.58496250072
+system estimation indicating::1.58496250072
+processing user feedback::1.58496250072
+computationally expensive problem::1.58496250072
+day to avoid::1.58496250072
+list of 3-tuples::1.58496250072
+system without user::1.58496250072
+presentation and evaluation::1.58496250072
+provided in support::1.58496250072
+scenarios that represent::1.58496250072
+setting is provided::1.58496250072
+real world percentage::1.58496250072
+arbitrary user feedback::1.58496250072
+complicated indoor environments::1.58496250072
+rounds of knowledgeable::1.58496250072
+positioning result influences::1.58496250072
+scans in order::1.58496250072
+training area improved::1.58496250072
+similar in position::1.58496250072
+combination is impractical::1.58496250072
+points are similar::1.58496250072
+publication on acceptance::1.58496250072
+likelihood is calculated::1.58496250072
+two technical challenges::1.58496250072
+nearby aps due::1.58496250072
+gradually become reliable::1.58496250072
+list of author::1.58496250072
+analyze the algorithm::1.58496250072
+define the user::1.58496250072
+training the baseline::1.58496250072
+candidates in order::1.58496250072
+suggest new positions::1.58496250072
+provide location information::1.58496250072
+choose a representative::1.58496250072
+initial positioning error::1.58496250072
+integration of human-centric::1.58496250072
+space was divided::1.58496250072
+improved by collecting::1.58496250072
+points are generated::1.58496250072
+corrects the significant::1.58496250072
+effects of signal::1.58496250072
+rss fingerprints database::1.58496250072
+improved after four::1.58496250072
+set of anchors::1.58496250072
+evolve the model::1.58496250072
+properties called wi-fi::1.58496250072
+indoor positioning systems::1.58496250072
+feedback to facilitate::1.58496250072
+positioning information shared::1.58496250072
+conduct experiments testing::1.58496250072
+users is cost-effective::1.58496250072
+average positioning accuracy::1.58496250072
+provided in figure::1.58496250072
+anchors were added::1.58496250072
+wi-fi access points::1.58496250072
+refined the system::1.58496250072
+grants the system::1.58496250072
+creates a temporary::1.58496250072
+extend this work::1.58496250072
+journal and benet::1.58496250072
+represent specific types::1.58496250072
+modelled the user::1.58496250072
+described the theoretic::1.58496250072
+red curves shown::1.58496250072
+introduced by continuous::1.58496250072
+hallways for training::1.58496250072
+feedback in fingerprint-based::1.58496250072
+includes an integrated::1.58496250072
+3rd international conference::1.58496250072
+ipod touch devices::1.58496250072
+two performance metrics::1.58496250072
+user can participate::1.58496250072
+anchor is sufficiently::1.58496250072
+wi-fi network infrastructure::1.58496250072
+system to determine::1.58496250072
+reduce such costs::1.58496250072
+network location problems::1.58496250072
+transmitted by nearby::1.58496250072
+weight or credibility::1.58496250072
+rate of change::1.58496250072
+position is plotted::1.58496250072
+fingerprinting for indoor::1.58496250072
+indicating the precision::1.58496250072
+prototype and conducted::1.58496250072
+suppose the system::1.58496250072
+unable to make::1.58496250072
+purpose of evaluation::1.58496250072
+affect the evolution::1.58496250072
+real-world field trials::1.58496250072
+training area due::1.58496250072
+incorporating subsequent corrective::1.58496250072
+33m cell size::1.58496250072
+problem for general::1.58496250072
+assist human activities::1.58496250072
+annual international conference::1.58496250072
+system and user::1.58496250072
+storing arbitrary user::1.58496250072
+en-2030 en-2032 en-2033::1.58496250072
+positive feedback represented::1.58496250072
+experimental results show::1.58496250072
+domain and assumed::1.58496250072
+article is organized::1.58496250072
+unreliable user feedback::1.58496250072
+bookmarking have achieved::1.58496250072
+illustrating three phases::1.58496250072
+fingerprinting approach based::1.58496250072
+real-world positioning domain::1.58496250072
+infeasibility of signal::1.58496250072
+adjust rss patterns::1.58496250072
+auj is greater::1.58496250072
+user anchor auj::1.58496250072
+large positioning errors::1.58496250072
+mobile devices carried::1.58496250072
+weighted mean position::1.58496250072
+analyze the performance::1.58496250072
+anchor points falling::1.58496250072
+visiting and testing::1.58496250072
+large count value::1.58496250072
+fine-grained system training::1.58496250072
+system to absorb::1.58496250072
+determines the width::1.58496250072
+vertex p-centres problem::1.58496250072
+determine its ability::1.58496250072
+reason we chose::1.58496250072
+scans is needed::1.58496250072
+prompted to send::1.58496250072
+integrating user feedback::1.58496250072
+providing suggestion positions::1.58496250072
+rigorous peer review::1.58496250072
+wi-fi infrastructure alterations::1.58496250072
+acm international workshop::1.58496250072
+kernel or radial::1.58496250072
+collaboration in order::1.58496250072
+mislead the positioning::1.58496250072
+similarity between two::1.58496250072
+learn useful information::1.58496250072
+negative effect introduced::1.58496250072
+informative rss data::1.58496250072
+feedback in indoor::1.58496250072
+section related work::1.58496250072
+system has recovered::1.58496250072
+users can click::1.58496250072
+situations of time-varying::1.58496250072
+diversity of wi-fi::1.58496250072
+wi-fi coverage area::1.58496250072
+result in large::1.58496250072
+positioning indoor navigation::1.58496250072
+indoor positioning mechanisms::1.58496250072
+estimated by analyzing::1.58496250072
+sufficient user feedback::1.58496250072
+due to two::1.58496250072
+method was originally::1.58496250072
+employing user feedback::1.58496250072
+anchors are reference::1.58496250072
+suggesting a random::1.58496250072
+feedback before moving::1.58496250072
+en-2033 en-2039 en-2035::1.58496250072
+localization through user::1.58496250072
+user provides feedback::1.58496250072
+research and development::1.58496250072
+number of feedback::1.58496250072
+explained and discussed::1.58496250072
+developed for iphone::1.58496250072
+expect similar results::1.58496250072
+resulting approach remains::1.58496250072
+experiment to investigate::1.58496250072
+en-2015 en-2011 en-2012::1.58496250072
+gaussian kernel method::1.58496250072
+work well indoors::1.58496250072
+reach indoor receivers::1.58496250072
+feedback to fingerprinting-based::1.58496250072
+navigation and location::1.58496250072
+typical clustering algorithms::1.58496250072
+provide any feedback::1.58496250072
+parameter was set::1.58496250072
+system should reduce::1.58496250072
+helpful feedback quickly::1.58496250072
+similar systems described::1.58496250072
+dividing the study::1.58496250072
+fingerprint is defined::1.58496250072
+carry different types::1.58496250072
+current voronoi cell::1.58496250072
+confirming this choice::1.58496250072
+smaller grid space::1.58496250072
+evaluate the benefits::1.58496250072
+types of users::1.58496250072
+contributions all authors::1.58496250072
+cite this article::1.58496250072
+read and approved::1.58496250072
+affect user anchors::1.58496250072
+location and tracking::1.58496250072
+incrementally to query::1.58496250072
+rounds of visiting::1.58496250072
+qualified to evaluate::1.58496250072
+system anchor point::1.58496250072
+evaluated in comparison::1.58496250072
+system is considered::1.58496250072
+built a prototype::1.58496250072
+anchors as candidates::1.58496250072
+data to generate::1.58496250072
+natural measurement mechanism::1.58496250072
+limiting the candidate::1.58496250072
+achieve high accuracy::1.58496250072
+permanent random interfering::1.58496250072
+users to update::1.58496250072
+provide valuable information::1.58496250072
+include sufficient anchors::1.58496250072
+interference to future::1.58496250072
+delivers a position::1.58496250072
+random interfering factors::1.58496250072
+current rss fingerprint::1.58496250072
+due to system::1.58496250072
+space or increasing::1.58496250072
+human-centric feedback model::1.58496250072
+fully trained system::1.58496250072
+newly create user::1.58496250072
+theoretic human-centric feedback::1.58496250072
+receive negative feedback::1.58496250072
+rss in dbm::1.58496250072
+severe signal fading::1.58496250072
+experimental field includes::1.58496250072
+evaluate the value::1.58496250072
+systems spatial confidence::1.58496250072
+wi-fi fingerprinting-based approach::1.58496250072
+en-2037 en-2026 en-2027::1.58496250072
+resolution of entire::1.58496250072
+system to produce::1.58496250072
+model which receives::1.58496250072
+ultrasonic range finders::1.58496250072
+existing wi-fi rss::1.58496250072
+matching the fingerprint::1.58496250072
+user feedback mechanisms::1.58496250072
+represent the positions::1.58496250072
+error of 14m::1.58496250072
+chose this experimental::1.58496250072
+precision in figure::1.58496250072
+outdated or unreliable::1.58496250072
+fill the gap::1.58496250072
+factor is a+1::1.58496250072
+reflects the credibility::1.58496250072
+knowledgeable user feedback::1.58496250072
+retaining the copyright::1.58496250072
+en-2032 en-2033 en-2039::1.58496250072
+rounds of user-involved::1.58496250072
+interference and noise::1.58496250072
+turn the user::1.58496250072
+approach remains efficient::1.58496250072
+rmk or rfk::1.58496250072
+update the training::1.58496250072
+returns a correct::1.58496250072
+effects of large::1.58496250072
+relying on knowledgable::1.58496250072
+prepared the manuscript::1.58496250072
+beacon frames transmitted::1.58496250072
+considered as similar::1.58496250072
+reduce the likelihood::1.58496250072
+unreliable positioning results::1.58496250072
+self-learning ability adapting::1.58496250072
+validate the ability::1.58496250072
+cells for positive::1.58496250072
+order to estimate::1.58496250072
+bloat the model::1.58496250072
+remote positioning server::1.58496250072
+learning with kernels::1.58496250072
+precision of first::1.58496250072
+system precision significantly::1.58496250072
+system is significantly::1.58496250072
+approach with predefined::1.58496250072
+accuracy is significantly::1.58496250072
+positioning is essentially::1.58496250072
+anchor is denoted::1.58496250072
+grid cell centre::1.58496250072
+estimation is provided::1.58496250072
+time-varying rss measurement::1.58496250072
+selected the positioning::1.58496250072
+vector of 5-tuples::1.58496250072
+null feedback occurs::1.58496250072
+experiments are conducted::1.58496250072
+situations where malicious::1.58496250072
+helpful or malicious::1.58496250072
+locations by dividing::1.58496250072
+valid candidate positions::1.58496250072
+analyzed and described::1.58496250072
+negative factor model::1.58496250072
+mechanism to convey::1.58496250072
+value in order::1.58496250072
+means for indoor::1.58496250072
+result is correct::1.58496250072
+factor gradually increases::1.58496250072
+make any suggestion::1.58496250072
+create individual fingerprints::1.58496250072
+helpful and knowledgeable::1.58496250072
+wireless local positioning::1.58496250072
+wi-fi scan numbers::1.58496250072
+evaluated with respect::1.58496250072
+feedback as completely::1.58496250072
+researchers to reduce::1.58496250072
+anchors were enhanced::1.58496250072
+threshold for wi-fi::1.58496250072
+increase the quality::1.58496250072
+ability to forget::1.58496250072
+enhances their reliability::1.58496250072
+rss compensation mechanism::1.58496250072
+shown in figure::1.58496250072
+conclusions and future::1.58496250072
+similarity between aui::1.58496250072
+describing a set::1.58496250072
+submit your manuscript::1.58496250072
+scanned rss data::1.58496250072
+capable of describing::1.58496250072
+baseline system performance::1.58496250072
+model to determine::1.58496250072
+delicious social bookmarking::1.58496250072
+top-k system anchors::1.58496250072
+model the user::1.58496250072
+radial basis function::1.58496250072
+simulated positioning process::1.58496250072
+feedback is received::1.58496250072
+research has explored::1.58496250072
+accuracy and precision::1.58496250072
+create new anchors::1.58496250072
+physical position similarity::1.58496250072
+first four::1.0
+two similarity::1.0
+two minutes::1.0
+normal distribution::1.0
+articles freely::1.0
+wireless ethernet::1.0
+en-2015 en-2011::1.0
+scanned rss::1.0
+anchors asi::1.0
+point based::1.0
+helpful information::1.0
+ubiquitous systems::1.0
+instance-based approaches::1.0
+users feedback::1.0
+starting accuracy::1.0
+wi-fi based::1.0
+temporal-based variances::1.0
+location-related wi-fi::1.0
+wi-fi aps::1.0
+p-centres problem::1.0
+mentioned earlier::1.0
+multiple anchors::1.0
+anchor takes::1.0
+random false::1.0
+en-2018 en-2020::1.0
+factor gradually::1.0
+feedback generates::1.0
+smaller grid::1.0
+measurement vector::1.0
+en-2034 en-2040::1.0
+cambridge haeberlen::1.0
+provide correct::1.0
+arbitrary user::1.0
+entity localization::1.0
+devices carried::1.0
+accuracy increased::1.0
+feedback overpowering::1.0
+fingerprint-based wi-fi::1.0
+collecting user::1.0
+greater influence::1.0
+self-correcting based::1.0
+feedback system::1.0
+trained area::1.0
+takes advantages::1.0
+human-centric positioning::1.0
+predefined centres::1.0
+fairly disturbed::1.0
+similar feedback::1.0
+service provided::1.0
+scale deployment::1.0
+authors declare::1.0
+article distributed::1.0
+specific scenarios::1.0
+system integrating::1.0
+planning phases::1.0
+continuously adapt::1.0
+real environment::1.0
+previous section::1.0
+perform cross::1.0
+fingerprint summarized::1.0
+production environments::1.0
+en-2040 en-2037::1.0
+en-2024 en-2s04::1.0
+shopping centre::1.0
+marginally worse::1.0
+users choose::1.0
+system results::1.0
+providing negative::1.0
+significant precision::1.0
+fairly good::1.0
+appl math::1.0
+evaluations represents::1.0
+likelihood value::1.0
+horus wlan::1.0
+determination system::1.0
+two-step process::1.0
+model significantly::1.0
+untrained positions::1.0
+peer review::1.0
+interface provided::1.0
+inversely related::1.0
+end luo::1.0
+two indices::1.0
+algorithm complexity::1.0
+systems knowledge::1.0
+error starts::1.0
+unacceptable level::1.0
+important metric::1.0
+user knowledgable::1.0
+fully control::1.0
+basis function::1.0
+worst case::1.0
+rss readings::1.0
+four users::1.0
+discrete locations::1.0
+author details::1.0
+approach consists::1.0
+unreliable knowledge::1.0
+large system::1.0
+area due::1.0
+access article::1.0
+classification algorithms::1.0
+indoor navigation::1.0
+en-2008 en-2010::1.0
+en-2036 en-2022::1.0
+authors contributed::1.0
+feedback based::1.0
+helpful end::1.0
+self-learning capability::1.0
+locate users::1.0
+generating fingerprints::1.0
+false position::1.0
+indoor location-awareness::1.0
+propagation model-based::1.0
+correct position::1.0
+feedback yan::1.0
+sufficiently large::1.0
+informative rss::1.0
+experimental settings::1.0
+1-centre problem::1.0
+anchor due::1.0
+robust localization::1.0
+yuanzhu chen2,3*::1.0
+positioning activities::1.0
+outdoor environments::1.0
+weighted density::1.0
+returned location::1.0
+cell size::1.0
+research open::1.0
+computational cost::1.0
+performance metrics::1.0
+propagation effects::1.0
+system creates::1.0
+dynamically learn::1.0
+completely informative::1.0
+precision improvement::1.0
+cumulative effect::1.0
+experimental purposes::1.0
+2nd floor::1.0
+classify data::1.0
+signal strength::1.0
+factor set::1.0
+confidence falls::1.0
+physical position::1.0
+positioning techniques::1.0
+access enhancing::1.0
+optimal performance::1.0
+social networking::1.0
+entire system::1.0
+fast learning::1.0
+similar precision::1.0
+random interfering::1.0
+outlier feedback::1.0
+continuous malicious::1.0
+estimation result::1.0
+valuable information::1.0
+primary contributions::1.0
+points aui::1.0
+feedback provided::1.0
+model compensates::1.0
+great deal::1.0
+en-2023 en-2018b::1.0
+large interference::1.0
+fingerprinting-based positioning::1.0
+scenario study::1.0
+important aspect::1.0
+instance-based learning::1.0
+timestamp field::1.0
+en-2039 en-2035::1.0
+grid-based clustering::1.0
+equally weighted::1.0
+network location::1.0
+sufficient user::1.0
+processes human-centric::1.0
+cross platform::1.0
+natural measurement::1.0
+prediction based::1.0
+range finders::1.0
+algorithmic approach::1.0
+interesting ways::1.0
+relative weight::1.0
+receives negative::1.0
+credibility weight::1.0
+experiments show::1.0
+wi-fi location::1.0
+training cells::1.0
+application prospect::1.0
+providing suggestion::1.0
+large count::1.0
+wi-fi-capable devices::1.0
+expensive problem::1.0
+rmk rfk::1.0
+updated information::1.0
+global description::1.0
+collected rss::1.0
+model constructed::1.0
+approach based::1.0
+fast adaptability::1.0
+rss generated::1.0
+authors read::1.0
+quickly adapt::1.0
+current location::1.0
+wide range::1.0
+users true::1.0
+address situations::1.0
+field includes::1.0
+individual estimation::1.0
+general idea::1.0
+local area::1.0
+real-world positioning::1.0
+fingerprinting-based approaches::1.0
+maximum distances::1.0
+denoted auj::1.0
+specific types::1.0
+generated positive::1.0
+aps due::1.0
+bound space::1.0
+collective rss::1.0
+existing wi-fi::1.0
+gps-less environments::1.0
+initial likelihood::1.0
+service quality::1.0
+international workshop::1.0
+training grid::1.0
+fingerprinting framework::1.0
+system selects::1.0
+environmental setting::1.0
+integrated human-centric::1.0
+10th annual::1.0
+rarely observed::1.0
+quickly corrects::1.0
+indoor receivers::1.0
+nearby regions::1.0
+accurate state::1.0
+negatively affected::1.0
+model reaches::1.0
+initial value::1.0
+chen2,3* *correspondence::1.0
+large indoor::1.0
+logistic regression::1.0
+variable number::1.0
+en-2024a en-2018a::1.0
+en-2025a en-2031::1.0
+provide positive::1.0
+highest likelihood::1.0
+inaccurate positioning::1.0
+en-2027 en-2038::1.0
+consistently updated::1.0
+vertex 1-centre::1.0
+efficient approach::1.0
+field validation::1.0
+increasing velocity::1.0
+device logs::1.0
+users suggestions::1.0
+smallest number::1.0
+en-2029 en-2030::1.0
+magnification capability::1.0
+fingerprinting approach::1.0
+likelihood ranking::1.0
+scholarships provided::1.0
+en-2025 stairwell::1.0
+knowledge shared::1.0
+small value::1.0
+feedback factor::1.0
+wi-fi characteristics::1.0
+wi-fi indoor::1.0
+compensation mechanism::1.0
+rss compensation::1.0
+value depends::1.0
+equipment upgrades::1.0
+en-2013 en-2009::1.0
+green triangles::1.0
+system location::1.0
+good system::1.0
+location problems::1.0
+licensee springer::1.0
+fluctuation level::1.0
+cosine similarity::1.0
+likelihood estimated::1.0
+en-2035 en-2034::1.0
+user-suggested location::1.0
+en-2016 en-2017::1.0
+significantly lower::1.0
+higher weight::1.0
+optimal combination::1.0
+initial configuration::1.0
+en-2021b en-2021::1.0
+triangulation-based approaches::1.0
+ultrasonic range::1.0
+33m cell::1.0
+large positioning::1.0
+consists scans::1.0
+corrective feedback::1.0
+coverage area::1.0
+broadcasting periods::1.0
+two aspects::1.0
+top-k candidates::1.0
+devices makes::1.0
+user-involved positioning::1.0
+gridbased clustering::1.0
+human feedback::1.0
+data stored::1.0
+compensation works::1.0
+compensation power::1.0
+prompts users::1.0
+social bookmarking::1.0
+systems based::1.0
+gradually update::1.0
+subsequent helpful::1.0
+convenient online::1.0
+represent realistic::1.0
+individual feedback::1.0
+discounting effect::1.0
+en-2031b en-2024::1.0
+commons attribution::1.0
+factor model::1.0
+provide valuable::1.0
+mechanism proposed::1.0
+error decreased::1.0
+independent parameter::1.0
+temporal aspect::1.0
+extracting features::1.0
+environmental alteration::1.0
+curves shown::1.0
+virtual user::1.0
+en-2032 en-2033::1.0
+anchor auj::1.0
+provide researchers::1.0
+potential pitfall::1.0
+en-2012 en-2008::1.0
+random effects::1.0
+error yielded::1.0
+similar services::1.0
+learning ability::1.0
+generates user::1.0
+yan luo1::1.0
+network interface::1.0
+unreliable user::1.0
+density functions::1.0
+significantly reduces::1.0
+measurement mechanism::1.0
+capture beacon::1.0
+en-2022 en-2024a::1.0
+approach remains::1.0
+total wi-fi::1.0
+individual fingerprints::1.0
+create individual::1.0
+single scan::1.0
+data provided::1.0
+incorporate collaboration::1.0
+vertex p-centres::1.0
+phenomena described::1.0
+abstract position::1.0
+3:2 submit::1.0
+outliers exist::1.0
+current voronoi::1.0
+devices context::1.0
+collect multiple::1.0
+grid resolution::1.0
+first author::1.0
+shopping centres::1.0
+based service::1.0
+evaluation consisted::1.0
+positioning domain::1.0
+mentioned figure::1.0
+difficult due::1.0
+baseline method::1.0
+rss fluctuations::1.0
+effect introduced::1.0
+folksonomy-like systems::1.0
+normal level::1.0
+network infrastructure::1.0
+quickly self-correcting::1.0
+location systems::1.0
+conduct experiments::1.0
+testing purposes::1.0
+position estimated::1.0
+low-naintenance geolocationing::1.0
+evolution speed::1.0
+model improved::1.0
+accuracy ranged::1.0
+model improves::1.0
+represent specific::1.0
+current environment::1.0
+fingerprint-based positioning::1.0
+rss patterns::1.0
+positioning technology::1.0
+candidate positions::1.0
+training process::1.0
+rss properties::1.0
+context-aware application::1.0
+real-world field::1.0
+core contribution::1.0
+en-2033 en-2039::1.0
+unreliable positioning::1.0
+storing arbitrary::1.0
+top-k due::1.0
+positioning query::1.0
+scan 5,10::1.0
+permits unrestricted::1.0
+storage space::1.0
+online submission::1.0
+time-varying rss::1.0
+delicious social::1.0
+two performance::1.0
+wi-fi-based positioning::1.0
+feedback occurs::1.0
+first introducing::1.0
+large storage::1.0
+recent years::1.0
+en-2018a en-2023::1.0
+en-2037 en-2026::1.0
+provide negative::1.0
+intensively trained::1.0
+compensation ability::1.0
+maximum values::1.0
+fingerprinting system::1.0
+value means::1.0
+cyclical activities::1.0
+efficiently reduce::1.0
+similar systems::1.0
+author information::1.0
+process active::1.0
+inexpensive nature::1.0
+system delivers::1.0
+newly generated::1.0
+en-2038 en-2025::1.0
+similarity conditions::1.0
+large luo::1.0
+low compensation::1.0
+merge mechanism::1.0
+simply turning::1.0
+complicated indoor::1.0
+improved significantly::1.0
+feedback mechanisms::1.0
+en-2030 en-2032::1.0
+initial positioning::1.0
+early morning::1.0
+3rd international::1.0
+scan numbers::1.0
+physical space::1.0
+first step::1.0
+rf-based user::1.0
+rss fingerprinting::1.0
+vector generated::1.0
+newly create::1.0
+feedback quickly::1.0
+position due::1.0
+western ontario::1.0
+main reason::1.0
+providing knowledgeable::1.0
+23rd ieee::1.0
+experiments testing::1.0
+results show::1.0
+anchors fill::1.0
+position similarity::1.0
+sufficient anchors::1.0
+signal fading::1.0
+simple credibility::1.0
+active campus::1.0
+tracking system::1.0
+integrating human-centric::1.0
+upper limit::1.0
+naturally represents::1.0
+kernel method::1.0
+engineering building::1.0
+authors contributions::1.0
+fingerprinting based::1.0
+ubiquitous positioning::1.0
+real world::1.0
+future users::1.0
+negative effect::1.0
+first refinement::1.0
+red discs::1.0
+folksonomy-like approach::1.0
+two factors::1.0
+fixed number::1.0
+enhancing wi-fi::1.0
+manufacture technologies::1.0
+user stops::1.0
+system page::1.0
+prototype implementation::1.0
+suppose likelihood::1.0
+previous subsection::1.0
+conducted experiments::1.0
+provide location::1.0
+mobile entity::1.0
+zero-configuration indoor::1.0
+prompt users::1.0
+likelihoods simultaneously::1.0
+cell centre::1.0
+estimated result::1.0
+users reject::1.0
+springeropen.com page::1.0
+information provided::1.0
+radial basis::1.0
+discrimination ability::1.0
+mit press::1.0
+public facilities::1.0
+initial phase::1.0
+location determination::1.0
+suggestion positions::1.0
+wireless networks::1.0
+subsequent scan::1.0
+future plans::1.0
+trans mob::1.0
+frame broadcasting::1.0
+count field::1.0
+model-based distance::1.0
+system overhead::1.0
+voronoi diagram::1.0
+suggested positive::1.0
+inaccurate feedback::1.0
+simulation testbed::1.0
+last phase::1.0
+system administrators::1.0
+rss fingerprint-based::1.0
+scans provide::1.0
+similar methodology::1.0
+case scenario::1.0
+university cafeteria::1.0
+user positive::1.0
+grid cells::1.0
+obtain complete::1.0
+integrating helpful::1.0
+platform validation::1.0
+spend waiting::1.0
+section baseline::1.0
+reference points::1.0
+extremely low::1.0
+rss fluctuation::1.0
+significant costs::1.0
+distance estimation::1.0
+accurate result::1.0
+incorporating subsequent::1.0
+en-2021 en-2018::1.0
+redundant true::1.0
+straightforward solution::1.0
+database based::1.0
+building geometries::1.0
+vectors likelihood::1.0
+human bodies::1.0
+impossible value::1.0
+original likelihood::1.0
+feedback non-training::1.0
+annual international::1.0
+university campus::1.0
+suggestions separately::1.0
+technical challenges::1.0
+robust user::1.0
+positioning indoor::1.0
+eventually achieving::1.0
+positioning due::1.0
+specifically designed::1.0
+affect user::1.0
+human activities::1.0
+wireless environment::1.0
+en-2019 en-2014::1.0
+factor enable::1.0
+precision significantly::1.0
+provide redundant::1.0
+realistic user::1.0
+remains efficient::1.0
+set smaller::1.0
+enabled directly::1.0
+multiple similar::1.0
+fully trained::1.0
+users percentage::1.0
+users estimation::1.0
+actual location::1.0
+severe signal::1.0
+points falling::1.0
+wirel netw::1.0
+completely malicious::1.0
+en-2022a en-2021b::1.0
+red cross::1.0
+important indicator::1.0
+higher credibility::1.0
+wlan location::1.0
+user promotion::1.0
+en-2017 en-2015::1.0
+defining characteristic::1.0
+rss features::1.0
+typical clustering::1.0
+19th ieee::1.0
+user moves::1.0
+gps signals::1.0
+en-2s04 en-2036::1.0
+cluster formed::1.0
+clustering algorithms::1.0
+area average::1.0
+properly cited::1.0
+vector rps::1.0
+two technical::1.0
+adjust rss::1.0
+indoor settings::1.0
+competing interests::1.0
+frames transmitted::1.0
+estimation indicating::1.0
+reliable estimation::1.0
+potentially effective::1.0
+high accuracy::1.0
+en-2014 en-2016::1.0
+horus system::1.0
+grid-based selection::1.0
+prototype system::1.0
+article abstract::1.0
+valid candidate::1.0
+interfering factors::1.0
+avoids labeling::1.0
+en-2018b en-2013::1.0
+en-2020 en-2019::1.0
+en-2028 en-2029::1.0
+full list::1.0
+include sufficient::1.0
+en-2s03 en-2028::1.0
+points share::1.0
+voronoi cell::1.0
+anchor merge::1.0
+high visibility::1.0
+nearby wi-fi::1.0
+position selection::1.0
+error due::1.0
+achieve high::1.0
+position errors::1.0
+cell naturally::1.0
+maintenance costs::1.0
+result influences::1.0
+potential applicability::1.0
+bottom curve::1.0
+precision trend::1.0
+complex approaches::1.0
+significantly increased::1.0
+entire environment::1.0
+sufficient number::1.0
+user input::1.0
+summer semester::1.0
+model adjusts::1.0
+value domain::1.0
+meaningless point::1.0
+original work::1.0
+reach indoor::1.0
+mac field::1.0
+small discrepancy::1.0
+top-k system::1.0
+location-aware applications::1.0
+gradually penetrated::1.0
+location-aware services::1.0
+measured location::1.0
+automatically adjust::1.0
+negative factor::1.0
+measured rss::1.0
+positioning outcomes::1.0
+theoretic human-centric::1.0
+promotion mechanism::1.0
+accuracy stabilizes::1.0
+first acm::1.0
+article submit::1.0
+quickly recover::1.0
+decreasing error::1.0
+distribution calculated::1.0
+double tap::1.0
+consists::0.0
+provide location-aware::0.0
+behaviours::0.0
+fine-grained::0.0
+curves are similar::0.0
+updated::0.0
+hakimi::0.0
+summarized::0.0
+affect::0.0
+school::0.0
+commons::0.0
+vector::0.0
+math::0.0
+consistent::0.0
+rigorous::0.0
+machines::0.0
+blue::0.0
+employ::0.0
+user-suggested::0.0
+pace::0.0
+en-2031a::0.0
+en-2031b::0.0
+en-2031c::0.0
+contributed::0.0
+conduct::0.0
+required::0.0
+construction::0.0
+active::0.0
+entire::0.0
+finders::0.0
+cyclical::0.0
+fingerprint-based::0.0
+elaborate::0.0
+guide::0.0
+complicated::0.0
+suitable::0.0
+auj::0.0
+reliability of system::0.0
+classification::0.0
+explained::0.0
+insufficient wi-fi rss::0.0
+experimentation::0.0
+blind acceptance::0.0
+type::0.0
+modification::0.0
+griswold::0.0
+continual::0.0
+ward::0.0
+outdated::0.0
+dbm::0.0
+springer::0.0
+permits::0.0
+work::0.0
+location-aware::0.0
+illustrates the ability::0.0
+provide accurate::0.0
+vulnerability::0.0
+attribution::0.0
+end::0.0
+straightforward::0.0
+methodology::0.0
+earlier::0.0
+diagram::0.0
+types::0.0
+effective::0.0
+facilitate::0.0
+algorithms::0.0
+ethernet::0.0
+vary::0.0
+netw::0.0
+saving::0.0
+top-k::0.0
+production::0.0
+eventually::0.0
+affected::0.0
+combination::0.0
+break::0.0
+effects::0.0
+reasonable::0.0
+interfering::0.0
+fairly::0.0
+principles::0.0
+solution::0.0
+network::0.0
+plataniotis::0.0
+cluster different user::0.0
+enable::0.0
+newly::0.0
+turning::0.0
+devised for integrating::0.0
+candidate::0.0
+indices::0.0
+carried::0.0
+corrects::0.0
+accumulation of negative::0.0
+estimate::0.0
+hand::0.0
+aps::0.0
+recovering::0.0
+created::0.0
+starts::0.0
+inexpensive::0.0
+creates::0.0
+disturbed::0.0
+measurements are stable::0.0
+features::0.0
+render::0.0
+state by integrating::0.0
+low compensation power::0.0
+horus wlan location::0.0
+electronic::0.0
+service::0.0
+similarly::0.0
+top::0.0
+approximately::0.0
+confirming::0.0
+observations::0.0
+percentage::0.0
+enhancing::0.0
+permanent random::0.0
+14m and extremely::0.0
+match the true::0.0
+scenario::0.0
+grid-cell::0.0
+gridbased::0.0
+extracting::0.0
+controlled by individual::0.0
+interests::0.0
+assist human::0.0
+untrained::0.0
+recovers::0.0
+traditionally::0.0
+ledlie::0.0
+convenient::0.0
+feedback for fast::0.0
+simulated::0.0
+nserc discovery grants::0.0
+simplify::0.0
+errors::0.0
+phase::0.0
+acknowledgements::0.0
+two user anchor::0.0
+spend::0.0
+points::0.0
+incorporate::0.0
+selected::0.0
+simulate::0.0
+random::0.0
+infrared::0.0
+wiebking::0.0
+proposed::0.0
+implementation::0.0
+explain::0.0
+positioning mechanisms::0.0
+utilization::0.0
+networking::0.0
+users are highly::0.0
+fingerprinting-based positioning process::0.0
+discs::0.0
+weighted average::0.0
+reference::0.0
+edited::0.0
+random propagation::0.0
+sensitivity::0.0
+testing::0.0
+alterations::0.0
+depends::0.0
+result::0.0
+activities::0.0
+techniques::0.0
+vertex-1::0.0
+simplest::0.0
+early system integrating::0.0
+previous::0.0
+reducing the grid::0.0
+discovery::0.0
+nature::0.0
+weak::0.0
+improve::0.0
+suggested::0.0
+cos::0.0
+growing an organic::0.0
+uncertainty::0.0
+incorrect or malicious::0.0
+feedback also reduces::0.0
+terms of initial::0.0
+variance::0.0
+contribution::0.0
+argue::0.0
+2nd::0.0
+represented::0.0
+applicability::0.0
+trust::0.0
+conference::0.0
+basis::0.0
+quickly::0.0
+correct location::0.0
+temporal or permanent::0.0
+life::0.0
+anchors become valid::0.0
+entire implementation::0.0
+improved via integrating::0.0
+detect the environmental::0.0
+euclidean::0.0
+suppose::0.0
+anchor::0.0
+procedure::0.0
+highly motivated::0.0
+positioning information::0.0
+devices as tracking::0.0
+kariv::0.0
+reuse::0.0
+networking and entertainment::0.0
+memorial::0.0
+perform::0.0
+suggest::0.0
+make::0.0
+cumulative::0.0
+potentially::0.0
+avoids::0.0
+infeasible::0.0
+doi:10.1186 cite this article::0.0
+evolve::0.0
+social::0.0
+kushki::0.0
+strength::0.0
+learn the features::0.0
+centres::0.0
+non-training::0.0
+kaemarungsi::0.0
+assigned::0.0
+human::0.0
+low-naintenance::0.0
+calculated based::0.0
+regarded::0.0
+information sciences::0.0
+eld::0.0
+anchors were reduced::0.0
+scans to evaluate::0.0
+lacks valid system::0.0
+informative::0.0
+night::0.0
+rarely::0.0
+wlan location determination::0.0
+deal::0.0
+refinement::0.0
+database updating::0.0
+unsupervised or instances-based::0.0
+specific::0.0
+fingerprinting::0.0
+total::0.0
+bottom::0.0
+unavoidable::0.0
+training dataset::0.0
+ubiquity::0.0
+wi-fi rss features::0.0
+evaluation was conducted::0.0
+self-recover::0.0
+core::0.0
+sparse::0.0
+negative effects::0.0
+peer::0.0
+factor of parameter::0.0
+bahl::0.0
+limitation::0.0
+proposed approach::0.0
+positioning systems based::0.0
+efforts::0.0
+human-centric::0.0
+soh::0.0
+refined::0.0
+rounds::0.0
+support::0.0
+people::0.0
+created user::0.0
+medium::0.0
+true::0.0
+modify the system::0.0
+en-2025a::0.0
+vectors likelihood calculation::0.0
+computing::0.0
+abstract::0.0
+proceedings of 23rd::0.0
+exist::0.0
+proper weight::0.0
+discovery grants::0.0
+harter::0.0
+constructed::0.0
+setting::0.0
+goal fulfillment::0.0
+variable::0.0
+assume::0.0
+wi-fi fingerprinting system::0.0
+maintenance efforts::0.0
+efficient model::0.0
+receives and processes::0.0
+global::0.0
+focus::0.0
+reliable as system::0.0
+weighted density functions::0.0
+schlkopf::0.0
+creative::0.0
+environment::0.0
+points to determine::0.0
+compensate::0.0
+provided by users::0.0
+brown::0.0
+advantage::0.0
+system was developed::0.0
+choice::0.0
+additional::0.0
+generate an wi-fi::0.0
+collect::0.0
+determination phase::0.0
+accumulation::0.0
+upper::0.0
+illustrating::0.0
+occurrence::0.0
+trend::0.0
+overpowering the system::0.0
+cost::0.0
+incrementally::0.0
+defining::0.0
+collaborative feedback yan::0.0
+representative::0.0
+current::0.0
+shared::0.0
+model-based::0.0
+university of newfoundland::0.0
+address::0.0
+bolliger::0.0
+change::0.0
+positioning service::0.0
+infrastructure for indoor::0.0
+ratio tts::0.0
+determined by two::0.0
+vectors::0.0
+funded::0.0
+power when first::0.0
+plotted::0.0
+absorb::0.0
+returning::0.0
+yuanzhu::0.0
+working::0.0
+positive::0.0
+give::0.0
+live::0.0
+iphone::0.0
+result of environment::0.0
+selects::0.0
+en-2022a::0.0
+marginally::0.0
+press::0.0
+organized::0.0
+acceptable::0.0
+research open access::0.0
+3:2::0.0
+cases::0.0
+reduces the trustworthiness::0.0
+p-centres::0.0
+location-awareness::0.0
+originally::0.0
+user anchors fill::0.0
+rudys::0.0
+believes::0.0
+values::0.0
+webster::0.0
+provide redundant true::0.0
+trans::0.0
+touch devices::0.0
+environmental interference::0.0
+figure::0.0
+heard::0.0
+refine::0.0
+en-2009::0.0
+allowed::0.0
+system is suitable::0.0
+monitoring::0.0
+discussion::0.0
+infrastructure alterations::0.0
+hoffmann::0.0
+providing feedback::0.0
+misleading::0.0
+ubiquitous and inexpensive::0.0
+parameter::0.0
+10th annual international::0.0
+early indoor positioning::0.0
+3rd::0.0
+mac::0.0
+designed::0.0
+mag::0.0
+natural::0.0
+four::0.0
+user rejects::0.0
+p-centers::0.0
+provide::0.0
+automatically::0.0
+tts::0.0
+unacceptable::0.0
+years::0.0
+location-related::0.0
+interesting::0.0
+platform::0.0
+decreased::0.0
+main::0.0
+specific information::0.0
+introduce::0.0
+lunch::0.0
+overpowering::0.0
+held::0.0
+teller::0.0
+discrimination::0.0
+efficient framework::0.0
+stabilize::0.0
+january::0.0
+realistic::0.0
+classify::0.0
+domain::0.0
+weighted::0.0
+prompted::0.0
+gaussian::0.0
+summary::0.0
+canada::0.0
+shown::0.0
+space::0.0
+interference::0.0
+increase::0.0
+contained::0.0
+rational::0.0
+suggesting::0.0
+formula::0.0
+future by providing::0.0
+charrow::0.0
+clustering::0.0
+complex indoor office::0.0
+queries::0.0
+mechanisms::0.0
+statistics::0.0
+advantages::0.0
+wi-fi::0.0
+remainder::0.0
+training::0.0
+introduce a forgetting::0.0
+turn::0.0
+grants held::0.0
+promotion::0.0
+blind::0.0
+wlan::0.0
+information shared::0.0
+describing::0.0
+local positioning::0.0
+submit::0.0
+carry::0.0
+impossible::0.0
+ways::0.0
+open::0.0
+minimizes::0.0
+size::0.0
+properties::0.0
+limited::0.0
+weekdays::0.0
+suitable for comparison::0.0
+returns::0.0
+cost-effective::0.0
+cite::0.0
+cited::0.0
+contrived::0.0
+public::0.0
+continuous::0.0
+generate system::0.0
+eliminated::0.0
+en-2021a figure::0.0
+beacon frame broadcasting::0.0
+wide::0.0
+impractical::0.0
+modelled::0.0
+future::0.0
+support vector::0.0
+suggestions::0.0
+enhanced::0.0
+location and suggest::0.0
+dynamically::0.0
+confidence in training::0.0
+locations::0.0
+generate different rss::0.0
+area lacks valid::0.0
+pervasive computing::0.0
+recover::0.0
+fingerprint-based positioning system::0.0
+respect to mixed::0.0
+computationally::0.0
+efficient::0.0
+orland::0.0
+complexity::0.0
+note::0.0
+sciences::0.0
+potential::0.0
+performance::0.0
+begin::0.0
+multiple::0.0
+normal::0.0
+k=1::0.0
+decreasing::0.0
+falls::0.0
+importantly::0.0
+rationale::0.0
+en-2014::0.0
+en-2017::0.0
+en-2010::0.0
+en-2011::0.0
+en-2012::0.0
+en-2013::0.0
+computer communications::0.0
+wireless::0.0
+11,13,14::0.0
+considered::0.0
+average::0.0
+order::0.0
+school of graduate::0.0
+typically::0.0
+width::0.0
+rating::0.0
+interests the authors::0.0
+threshold::0.0
+feedback::0.0
+ratio::0.0
+office::0.0
+choosing the vertex::0.0
+state::0.0
+implemented::0.0
+first::0.0
+generate a large::0.0
+geometric::0.0
+algorithms to filter::0.0
+morning::0.0
+london::0.0
+discussing::0.0
+update the wi-fi::0.0
+training area average::0.0
+readings and calculate::0.0
+innovative::0.0
+maximum::0.0
+relative::0.0
+devices::0.0
+rmk::0.0
+encouraged::0.0
+detect::0.0
+ieee microw::0.0
+subsequent::0.0
+review::0.0
+user feedback illustrates::0.0
+large error::0.0
+bring large::0.0
+infrastructure::0.0
+august::0.0
+receivers::0.0
+feedback model merges::0.0
+filter::0.0
+opportunities for innovative::0.0
+continuously::0.0
+article::0.0
+wi-fi rss measurement::0.0
+model evaluation::0.0
+recovered::0.0
+non-training area lacks::0.0
+ignore::0.0
+successes::0.0
+region::0.0
+adjustable parameter::0.0
+present::0.0
+position to scan::0.0
+overview::0.0
+sampling::0.0
+low accurate::0.0
+grants::0.0
+learning::0.0
+reduce the grid::0.0
+low precision::0.0
+corrective::0.0
+capable::0.0
+workshop::0.0
+st.johns::0.0
+prototype::0.0
+systems::0.0
+mobile and ubiquitous::0.0
+resulting likelihood::0.0
+formed::0.0
+readings::0.0
+observe::0.0
+error and precision::0.0
+case::0.0
+adjusts the positioning::0.0
+en-2010 en-2021a figure::0.0
+ongoing::0.0
+promising::0.0
+independent::0.0
+metric::0.0
+en-2s03::0.0
+discrepancy::0.0
+archive adequate system::0.0
+receives::0.0
+return::0.0
+technology::0.0
+propagation::0.0
+archive::0.0
+triangles::0.0
+physical::0.0
+bring::0.0
+events::0.0
+wi-fi rss fingerprint-based::0.0
+disadvantages::0.0
+require::0.0
+validate::0.0
+wirel::0.0
+feedback illustrates::0.0
+minimize::0.0
+costs::0.0
+solve::0.0
+model::0.0
+nearby::0.0
+researchers::0.0
+four wi-fi::0.0
+summer::0.0
+knowledgeable::0.0
+likelihood distribution calculated::0.0
+en-2029::0.0
+describe the specific::0.0
+aspect::0.0
+touch::0.0
+en-2020::0.0
+en-2022::0.0
+explore the benefits::0.0
+en-2024::0.0
+en-2027::0.0
+system that includes::0.0
+weak discrimination::0.0
+adaptation of wi-fi::0.0
+real::0.0
+ladd::0.0
+model merges::0.0
+aspects::0.0
+represents::0.0
+read::0.0
+period::0.0
+test::0.0
+grid::0.0
+world::0.0
+accepted::0.0
+calculate::0.0
+malfunctions::0.0
+depot::0.0
+identifying::0.0
+large scale::0.0
+server::0.0
+amount of real::0.0
+gps-less::0.0
+significant positioning::0.0
+reduced::0.0
+calculated::0.0
+deduce::0.0
+respect::0.0
+matching::0.0
+users::0.0
+provided::0.0
+regina::0.0
+scholarships::0.0
+dimensions::0.0
+confirm::0.0
+noon::0.0
+models::0.0
+conference on pervasive::0.0
+23rd::0.0
+power::0.0
+challenges provide::0.0
+update::0.0
+reject the estimated::0.0
+padmanabhan::0.0
+system malfunctions::0.0
+achieved huge::0.0
+euclidean distance::0.0
+hicks::0.0
+discussed::0.0
+acm::0.0
+side::0.0
+practical::0.0
+mixed::0.0
+integration::0.0
+cambridge::0.0
+providing malicious::0.0
+inclusion::0.0
+huge successes::0.0
+considerably high::0.0
+indoor office::0.0
+determine::0.0
+nave::0.0
+control our evaluation::0.0
+collect raw::0.0
+logs::0.0
+area::0.0
+lack of informative::0.0
+credibility rating::0.0
+supply specific::0.0
+start::0.0
+anchors are generated::0.0
+cosine::0.0
+open access enhancing::0.0
+low::0.0
+employing user::0.0
+complete::0.0
+agrawala::0.0
+intensively::0.0
+unreliable::0.0
+technologies::0.0
+improved::0.0
+required to achieve::0.0
+robustness::0.0
+rest::0.0
+yielding fairly good::0.0
+contributed equally::0.0
+directly::0.0
+quickly increases::0.0
+describe::0.0
+returning a single::0.0
+convey the systems::0.0
+scanned::0.0
+controlled::0.0
+factor increases::0.0
+moves::0.0
+suppose the total::0.0
+incorrect::0.0
+storage::0.0
+graduate::0.0
+valid::0.0
+spatial::0.0
+tap::0.0
+collaborative::0.0
+vertex::0.0
+cost of typical::0.0
+includes::0.0
+wi-fi-capable::0.0
+coverage::0.0
+users should exist::0.0
+building::0.0
+evaluation in order::0.0
+feedback yan luo1::0.0
+remote::0.0
+curve::0.0
+positioning error yielded::0.0
+krishnamurthy::0.0
+model in detail::0.0
+anchor takes advantages::0.0
+starting::0.0
+initial likelihood distribution::0.0
+represent::0.0
+forget::0.0
+gradually reduce::0.0
+lack::0.0
+encouraged to provide::0.0
+quickly recovering::0.0
+settings the system::0.0
+opportunities::0.0
+controlling the initial::0.0
+interference level::0.0
+newly created user::0.0
+section evaluation::0.0
+presentation::0.0
+adapt::0.0
+en-2036::0.0
+en-2037::0.0
+en-2034::0.0
+en-2035::0.0
+en-2032::0.0
+worse::0.0
+en-2030::0.0
+high weight::0.0
+describing the wi-fi::0.0
+ethernet for indoor::0.0
+integrating human-centric collaborative::0.0
+en-2038::0.0
+provided the original::0.0
+worst::0.0
+specific location::0.0
+list::0.0
+service based::0.0
+large::0.0
+generate significant precision::0.0
+adjust::0.0
+en-2021a::0.0
+variances::0.0
+study::0.0
+employing::0.0
+rate::0.0
+design::0.0
+query::0.0
+returned::0.0
+minimizes the maximum::0.0
+sum::0.0
+method::0.0
+movement::0.0
+benet::0.0
+full::0.0
+ranged::0.0
+continual maintenance::0.0
+settings::0.0
+modify::0.0
+behaviour::0.0
+beacon::0.0
+i.e::0.0
+redpin-adaptive::0.0
+systems spatial::0.0
+amount::0.0
+indoor positioning technologies::0.0
+published::0.0
+correct::0.0
+geolocationing::0.0
+semester::0.0
+indoors::0.0
+analyzing::0.0
+trained::0.0
+conducted on apple::0.0
+select::0.0
+candidate luo::0.0
+takes::0.0
+two::0.0
+magnification::0.0
+system was calculated::0.0
+achieving::0.0
+localization::0.0
+tested::0.0
+controlling::0.0
+area with respect::0.0
+producing::0.0
+minkov::0.0
+inefficient::0.0
+cluster::0.0
+science::0.0
+a+1::0.0
+receive negative::0.0
+huge::0.0
+carefully::0.0
+history::0.0
+prompt::0.0
+scan::0.0
+anchor asi::0.0
+share::0.0
+anchors the statistics::0.0
+reduces the system::0.0
+proposed human-centric collaborative::0.0
+numbers::0.0
+method to utilize::0.0
+adequate system performance::0.0
+lacks::0.0
+axis::0.0
+information::0.0
+goal::0.0
+utilize::0.0
+occasionally::0.0
+influences::0.0
+reject::0.0
+feedback model improves::0.0
+practical robust::0.0
+fingerprinting indoor positioning::0.0
+infeasibility of indoor::0.0
+ubiquitous::0.0
+plans::0.0
+section related::0.0
+evaluations::0.0
+shortcomings::0.0
+k-means::0.0
+indoor office environment::0.0
+mislead::0.0
+broadcasting::0.0
+information collected::0.0
+environment alteration::0.0
+radar::0.0
+intelligently::0.0
+utilizes::0.0
+overhead::0.0
+complex::0.0
+evaluate system::0.0
+good::0.0
+motivated::0.0
+eliminate::0.0
+propose::0.0
+points controlled::0.0
+microw mag::0.0
+primary::0.0
+framework::0.0
+kernel-based positioning::0.0
+trustworthiness::0.0
+newfoundland::0.0
+ifs::0.0
+characterizes::0.0
+presented::0.0
+system receives::0.0
+system robustness::0.0
+labeling::0.0
+data incrementally::0.0
+capability::0.0
+radial::0.0
+found::0.0
+likelihoods::0.0
+characterized::0.0
+likelihood of system::0.0
+en-2040::0.0
+delicious::0.0
+weight::0.0
+wi-fi network::0.0
+wiehardt::0.0
+events are received::0.0
+reduce::0.0
+idea::0.0
+helpful to provide::0.0
+expect::0.0
+measurement::0.0
+positioning technologies::0.0
+denotes::0.0
+approach have allowed::0.0
+denoted::0.0
+evaluation::0.0
+occurs::0.0
+individual users::0.0
+assist::0.0
+arbitrary combination::0.0
+en-2039::0.0
+efficient for rss::0.0
+reason::0.0
+developed the system::0.0
+instances-based::0.0
+asi::0.0
+beginning::0.0
+generate::0.0
+definition::0.0
+benefits::0.0
+e.g::0.0
+trained became comparable::0.0
+positioning::0.0
+round::0.0
+conducted::0.0
+reasonable trade-off::0.0
+neglected::0.0
+assign::0.0
+feed::0.0
+probability::0.0
+number::0.0
+explored::0.0
+instances::0.0
+utilized::0.0
+general::0.0
+changing::0.0
+increases fastest::0.0
+two phases::0.0
+plotted the positioning::0.0
+tracking targets::0.0
+introduction::0.0
+construct::0.0
+fine-grained system::0.0
+assumption::0.0
+accept::0.0
+show::0.0
+store::0.0
+gps::0.0
+park::0.0
+positioning determination::0.0
+part::0.0
+efficient and robust::0.0
+integrating knowledgeable user::0.0
+level::0.0
+determines::0.0
+create user::0.0
+position and suggest::0.0
+determined::0.0
+treated::0.0
+declare::0.0
+good estimate::0.0
+precision is stabilized::0.0
+null::0.0
+relationship::0.0
+patterns::0.0
+model luo::0.0
+voronoi::0.0
+real wi-fi rss::0.0
+severe::0.0
+rounds of collecting::0.0
+penetrated::0.0
+generates user anchors::0.0
+venetsanopoulos::0.0
+added::0.0
+approaches refine::0.0
+reach::0.0
+react::0.0
+significant::0.0
+compu::0.0
+services::0.0
+self-correcting::0.0
+approved::0.0
+unsupervised::0.0
+mobile::0.0
+significantly by relying::0.0
+exp::0.0
+velocity::0.0
+consisted::0.0
+technical::0.0
+western::0.0
+authors::0.0
+hopper::0.0
+*correspondence::0.0
+rizos::0.0
+dimension::0.0
+assigned low::0.0
+denoted the training::0.0
+access::0.0
+top curve::0.0
+positioning in wireless::0.0
+anchors based::0.0
+dividing::0.0
+series::0.0
+fingerprint containing aps::0.0
+distributed::0.0
+19th::0.0
+subsection::0.0
+factor::0.0
+en-2015::0.0
+merged::0.0
+realistic situations::0.0
+cafeteria::0.0
+measurement vector rps::0.0
+distance::0.0
+dependent::0.0
+en-2013 en-2009 en-2022a::0.0
+en-2021b::0.0
+anchors which avoids::0.0
+valuable::0.0
+competing::0.0
+anchor is regarded::0.0
+unrestricted::0.0
+newly generated positive::0.0
+en-2028::0.0
+worst-case::0.0
+alteration::0.0
+investigate::0.0
+mun.ca::0.0
+logistic::0.0
+rfk::0.0
+characteristics::0.0
+satisfy::0.0
+set::0.0
+achieved::0.0
+enabled::0.0
+employ some supervised::0.0
+technologies used infrared::0.0
+en-2021::0.0
+theoretic::0.0
+en-2023::0.0
+nserc discovery::0.0
+visiting::0.0
+localization over large-scale::0.0
+speed::0.0
+libraries::0.0
+smallest::0.0
+en-2026::0.0
+conditions::0.0
+outlier user::0.0
+creating::0.0
+large shopping::0.0
+en-2027 en-2038 en-2025::0.0
+interface::0.0
+mobile systems::0.0
+relying::0.0
+10th::0.0
+rf-based user location::0.0
+annual::0.0
+data patterns::0.0
+improves::0.0
+approximately two::0.0
+periods or severe::0.0
+context::0.0
+reply::0.0
+indoor triangulation::0.0
+experimental::0.0
+large-scale::0.0
+simple::0.0
+proceedings of international::0.0
+simply::0.0
+adaptation::0.0
+model in order::0.0
+improvement::0.0
+feedback of suggesting::0.0
+expensive::0.0
+kernels::0.0
+significantly improved::0.0
+sufficiently reliable::0.0
+found in non-training::0.0
+create::0.0
+acceptance::0.0
+due::0.0
+maintenance::0.0
+collected::0.0
+single estimation::0.0
+users train::0.0
+construction and continual::0.0
+simulated positioning::0.0
+precision::0.0
+accuracy of user::0.0
+determination::0.0
+i-th::0.0
+extracted::0.0
+positions for testing::0.0
+raw::0.0
+reliable::0.0
+estimations::0.0
+evaluated::0.0
+forgetting::0.0
+early indoor::0.0
+integrating and processing::0.0
+attribution license::0.0
+interface cards::0.0
+fuj::0.0
+fui::0.0
+larger::0.0
+wi-fi rss measurements::0.0
+curtis::0.0
+trials are discussed::0.0
+stairwell::0.0
+hoeber2::0.0
+baseline::0.0
+fading::0.0
+benign::0.0
+imply a high::0.0
+horus::0.0
+higher::0.0
+development::0.0
+literature::0.0
+temporary::0.0
+suggestion::0.0
+create user anchor::0.0
+general cases::0.0
+moving::0.0
+user::0.0
+recent::0.0
+knn::0.0
+instances-based approach::0.0
+lower::0.0
+database::0.0
+navigation::0.0
+depending::0.0
+en-2024 en-2s04 en-2036::0.0
+analysis::0.0
+double::0.0
+discovery grants held::0.0
+unreliable or misleading::0.0
+two-step::0.0
+system or user::0.0
+distances::0.0
+high system::0.0
+approaches::0.0
+spatial confidence::0.0
+annual conference::0.0
+networks::0.0
+positioning queries::0.0
+adjustable::0.0
+mob::0.0
+based::0.0
+nave approach::0.0
+conclusions::0.0
+signals::0.0
+location::0.0
+reaches an upper::0.0
+context-aware::0.0
+input::0.0
+engineering::0.0
+march::0.0
+newly created::0.0
+evaluate::0.0
+collect multiple wi-fi::0.0
+submission::0.0
+signal::0.0
+studies at memorial::0.0
+separately::0.0
+communications::0.0
+indication::0.0
+collective::0.0
+wi-fi based indoor::0.0
+discrete::0.0
+en-2031a en-2031c en-2031b::0.0
+anchor points aui::0.0
+experiments::0.0
+users for free::0.0
+cross platform validation::0.0
+scale::0.0
+aui::0.0
+measurements::0.0
+benefit::0.0
+expect similar::0.0
+best-performing::0.0
+assigned low compensation::0.0
+based on helpful::0.0
+model before discussing::0.0
+processing::0.0
+makes this approach::0.0
+outdoor::0.0
+produce::0.0
+step::0.0
+steggles::0.0
+proceedings of ubiquitous::0.0
+simulation::0.0
+previous users::0.0
+range::0.0
+user suggested positive::0.0
+gallagher::0.0
+propose a simple::0.0
+computational::0.0
+model reduces::0.0
+strength for wlan::0.0
+retaining::0.0
+evaluation experimental::0.0
+provide correct feedback::0.0
+infrastructure alteration::0.0
+frames::0.0
+scenarios::0.0
+robust::0.0
+ontario::0.0
+system is improved::0.0
+fast::0.0
+fact highly::0.0
+analyze::0.0
+k-th::0.0
+manufacture::0.0
+considerably::0.0
+doi:10.1186::0.0
+reduces their likelihood::0.0
+properly::0.0
+redpin::0.0
+youssef::0.0
+deployed::0.0
+observation::0.0
+approximately four::0.0
+data or large::0.0
+rejection::0.0
+characteristic::0.0
+lacks valid::0.0
+generating::0.0
+1.5m::0.0
+fluctuations::0.0
+similar::0.0
+storing::0.0
+partition::0.0
+choosing::0.0
+introducing::0.0
+defined::0.0
+minutes::0.0
+includes scans::0.0
+influence::0.0
+en-2s04::0.0
+single::0.0
+grid-based::0.0
+research::0.0
+future positioning::0.0
+modeling::0.0
+creative commons attribution::0.0
+8th international::0.0
+malicious::0.0
+application::0.0
+department::0.0
+vector machines::0.0
+en-2025::0.0
+generates::0.0
+feedback represented::0.0
+problems::0.0
+prepared::0.0
+propagation introduced::0.0
+generated::0.0
+yielding fairly::0.0
+denoted as user::0.0
+phase consists scans::0.0
+computationally expensive::0.0
+selection a nave::0.0
+algorithm::0.0
+train::0.0
+hossain::0.0
+hallways::0.0
+international::0.0
+combination of positive::0.0
+degrade::0.0
+maintenance in order::0.0
+measurements are changing::0.0
+illustrates::0.0
+green::0.0
+first rss::0.0
+en-2009 en-2022a en-2021b::0.0
+results::0.0
+existing::0.0
+stops::0.0
+contributions::0.0
+remove user::0.0
+effort::0.0
+description::0.0
+helps::0.0
+stable::0.0
+include::0.0
+indicating::0.0
+placing a compensation::0.0
+ranking these anchors::0.0
+office environment::0.0
+deal of effort::0.0
+multiple wi-fi::0.0
+distribution::0.0
+wi-fi-based::0.0
+system is qualified::0.0
+moderate::0.0
+positions::0.0
+dempster::0.0
+time-related::0.0
+proceedings of 19th::0.0
+discounting::0.0
+simultaneously::0.0
+small::0.0
+compensated::0.0
+helpful and malicious::0.0
+participate::0.0
+licensee::0.0
+imply::0.0
+compensates::0.0
+concludes::0.0
+rss for nearby::0.0
+click::0.0
+developed::0.0
+close to users::0.0
+helpful end users::0.0
+find::0.0
+cell::0.0
+consistently::0.0
+waiting::0.0
+significant precision improvement::0.0
+real-world::0.0
+intrusive::0.0
+university::0.0
+chose::0.0
+simplify the problem::0.0
+en-2036 en-2022 en-2024a::0.0
+indicator::0.0
+highly::0.0
+growing::0.0
+explore::0.0
+trade-off::0.0
+great::0.0
+copyright::0.0
+comparison purposes::0.0
+receive::0.0
+dates::0.0
+adjusts::0.0
+en-2018 en-2020 en-2019::0.0
+resulting::0.0
+natural variation::0.0
+situations::0.0
+system to quickly::0.0
+makes::0.0
+weekends::0.0
+ieee trans wireless::0.0
+system error starts::0.0
+generated by extracting::0.0
+apple::0.0
+avoid temporal-based::0.0
+claim::0.0
+outcomes::0.0
+provide negative feedback::0.0
+decrease::0.0
+extremely::0.0
+confidence::0.0
+haeberlen::0.0
+commun::0.0
+network interface cards::0.0
+small number::0.0
+equipment::0.0
+process::0.0
+estimated::0.0
+en-2018::0.0
+reflects::0.0
+filter outliers::0.0
+comparison::0.0
+zero-configuration::0.0
+visibility::0.0
+33m::0.0
+magnification factor::0.0
+0.7m::0.0
+adequate system::0.0
+en-2019::0.0
+adequate::0.0
+stabilized::0.0
+integrating::0.0
+reducing::0.0
+prompts::0.0
+small rss::0.0
+field::0.0
+cost-effective in real::0.0
+point::0.0
+calculation::0.0
+purposes::0.0
+high::0.0
+fulfillment::0.0
+innovative indoor positioning::0.0
+14m::0.0
+fingerprinting indoor::0.0
+misleading user::0.0
+purpose::0.0
+determine the smallest::0.0
+wi-fi coverage::0.0
+occur::0.0
+regions::0.0
+traversal::0.0
+endowed::0.0
+due to lack::0.0
+optimally trained::0.0
+supervised::0.0
+green and blue::0.0
+training was conducted::0.0
+world percentage::0.0
+wi-fi rss fingerprinting::0.0
+outlier::0.0
+confined::0.0
+feedback and negative::0.0
+permanent::0.0
+parameter controlling::0.0
+promising application::0.0
+yielded::0.0
+tracking::0.0
+efficiently::0.0
+section baseline wi-fi::0.0
+computing and communications::0.0
+redundant::0.0
+en-2016::0.0
+increasing::0.0
+holidays::0.0
+divided::0.0
+fastest::0.0
+3.1.2::0.0
+anchors already exist::0.0
+approved the final::0.0
+knowledgable::0.0
+human-centric computing::0.0
+feasibility::0.0
+mentioned::0.0
+parameters::0.0
+clustering approach::0.0
+present the general::0.0
+positioning likelihood::0.0
+position estimation::0.0
+chosen::0.0
+generate significant::0.0
+temporal::0.0
+send::0.0
+previously::0.0
+algorithmic::0.0
+choose::0.0
+forgetting mechanism::0.0
+freely::0.0
+remote positioning::0.0
+parameter setting::0.0
+crucial::0.0
+elaborate training::0.0
+bodies::0.0
+fingerprint::0.0
+false::0.0
+day::0.0
+articles::0.0
+airports::0.0
+en-2031 en-2031a::0.0
+merge::0.0
+number greater::0.0
+mode::0.0
+references::0.0
+processes::0.0
+affect the system::0.0
+real wi-fi::0.0
+remove::0.0
+parameter that determines::0.0
+creative commons::0.0
+license::0.0
+entertainment::0.0
+en-2028 en-2029 en-2030::0.0
+en-2024a en-2018a en-2023::0.0
+recovers the system::0.0
+max::0.0
+shopping::0.0
+final manuscript::0.0
+integrated::0.0
+red::0.0
+experiment::0.0
+vertex-1 centre::0.0
+feedback received::0.0
+ipod::0.0
+cell naturally represents::0.0
+completely::0.0
+early::0.0
+springeropen.com::0.0
+likelihood::0.0
+early system::0.0
+organic::0.0
+applications::0.0
+gulden::0.0
+times::0.0
+starts out::0.0
+fingerprinting-based::0.0
+assumed::0.0
+time-varying::0.0
+model were conducted::0.0
+5-tuples::0.0
+degree::0.0
+manuscript::0.0
+widely::0.0
+kernel-based::0.0
+phase the system::0.0
+positive feedback generates::0.0
+reaches::0.0
+university of western::0.0
+occurrences::0.0
+processing user::0.0
+quality::0.0
+smaller::0.0
+publication::0.0
+i-th scan::0.0
+data::0.0
+system::0.0
+free::0.0
+siam::0.0
+final::0.0
+flannery::0.0
+scans::0.0
+pervasive::0.0
+explanation::0.0
+studies::0.0
+construct the wi-fi::0.0
+environmental::0.0
+trans wireless::0.0
+wi-fi based positioning::0.0
+july::0.0
+reduced significantly::0.0
+updating::0.0
+rss::0.0
+observed::0.0
+utilize user::0.0
+instance-based::0.0
+bloat::0.0
+measurement generated::0.0
+measured::0.0
+frame broadcasting periods::0.0
+limiting::0.0
+inversely::0.0
+cards::0.0
+compensation::0.0
+individual::0.0
+point or merged::0.0
+negatively::0.0
+providing::0.0
+resulting anchor takes::0.0
+collecting::0.0
+select grid::0.0
+anatomy::0.0
+fluctuation::0.0
+trusting::0.0
+improved from approximately::0.0
+curves::0.0
+yielding::0.0
+en-2009 en-2022a::0.0
+ultrasonic::0.0
+close::0.0
+intensively trained horus::0.0
+utilization of user::0.0
+end users percentage::0.0
+setting will weight::0.0
+proposed human-centric::0.0
+mechanism::0.0
+en-2011 en-2012::0.0
+rejects::0.0
+regression or svm::0.0
+incorporating::0.0
+increment::0.0
+90dbm::0.0
+point should gradually::0.0
+mit::0.0
+accuracy::0.0
+wireless commun::0.0
+centre::0.0
+estimation receives::0.0
+collaboration::0.0
+sfu::0.0
+prediction::0.0
+feedback could require::0.0
+30dbm::0.0
+preliminary::0.0
+device::0.0
+feedback model improved::0.0
+reproduction::0.0
+en-2031a en-2031c::0.0
+triangulation::0.0
+reduces::0.0
+system will prompt::0.0
+pulled::0.0
+redundant true position::0.0
+confidence in non-training::0.0
+proceedings::0.0
+properties of indoor::0.0
+error::0.0
+archive adequate::0.0
+built::0.0
+typical::0.0
+fact::0.0
+reduces the calculation::0.0
+optimal::0.0
+selection::0.0
+en-2008::0.0
+wikipedia::0.0
+indoor::0.0
+trained horus system::0.0
+planning::0.0
+decade::0.0
+knowledge::0.0
+improves the system::0.0
+microw::0.0
+supervised classification::0.0
+surroundings::0.0
+unable::0.0
+candidates::0.0
+assign each individual::0.0
+tune::0.0
+local::0.0
+bekris::0.0
+achieve::0.0
+pitfall::0.0
+feedback model adjusts::0.0
+user location::0.0
+training cost::0.0
+means::0.0
+5,10::0.0
+vossiek::0.0
+entity::0.0
+chips::0.0
+evolution::0.0
+initial::0.0
+enable the system::0.0
+anchors were created::0.0
+adaptability::0.0
+approach::0.0
+en-2033::0.0
+benefit subsequent::0.0
+device to scan::0.0
+convergence effects::0.0
+rf-based::0.0
+fixed::0.0
+cells::0.0
+diversity::0.0
+enhances::0.0
+model is devised::0.0
+measurements to vary::0.0
+moderate or general::0.0
+previously trained::0.0
+frame::0.0
+asi and asj::0.0
+in-building::0.0
+1-centre::0.0
+employed::0.0
+wider variety::0.0
+terms::0.0
+closer::0.0
+valid system::0.0
+phases::0.0
+computer::0.0
+extend::0.0
+temporal-based::0.0
+ieee::0.0
+similar results::0.0
+trained horus::0.0
+training is conducted::0.0
+location information::0.0
+orland hoeber2::0.0
+forget outdated::0.0
+local area networks::0.0
+luo::0.0
+curves are close::0.0
+comparable::0.0
+area lacks::0.0
+bound::0.0
+ability::0.0
+online::0.0
+en-2031c en-2031b::0.0
+system we start::0.0
+kernel to calculate::0.0
+area networks::0.0
+configuration::0.0
+merges::0.0
+refine the existing::0.0
+en-2s03 en-2028 en-2029::0.0
+fingerprints are sufficiently::0.0
+april::0.0
+producing the data::0.0
+section::0.0
+estimation::0.0
+luo1::0.0
+rps::0.0
+wallach::0.0
+author::0.0
+high degree::0.0
+environments::0.0
+fingerprint database::0.0
+robust user feedback::0.0
+geometries::0.0
+en-2s04 en-2036 en-2022::0.0
+addition::0.0
+arbitrary::0.0
+live measurement vector::0.0
+users provide correct::0.0
+outliers::0.0
+define::0.0
+en-2038 en-2025 stairwell::0.0
+adapting::0.0
+wi-fi measurements::0.0
+feedback reduces::0.0
+optimally::0.0
+infeasible for mobile::0.0
+received::0.0
+generating outliers::0.0
+mobile computing::0.0
+sufficient::0.0
+essentially::0.0
+phase consists::0.0
+finished::0.0
+bhasker::0.0
+model-based distance estimation::0.0
+falling::0.0
+negative::0.0
+last::0.0
+article abstract position::0.0
+battat::0.0
+affected by unreliable::0.0
+prospect::0.0
+laser::0.0
+examine::0.0
+value::0.0
+specifically::0.0
+middle::0.0
+reliability::0.0
+fairly good system::0.0
+rbf::0.0
+measurement data::0.0
+area improved::0.0
+spatial uncertainty::0.0
+initial and maximum::0.0
+kernel::0.0
+testbed::0.0
+small initial::0.0
+providing null::0.0
+nserc::0.0
+en-2031::0.0
+devices is considered::0.0
+regression::0.0
+ability adapting::0.0
+greater::0.0
+capture::0.0
+types of mobile::0.0
+productivity::0.0
+users suggested::0.0
+conducted during semester::0.0
+feedback non-training area::0.0
+cross::0.0
+ieee annual::0.0
+en-2026 en-2027::0.0
+compensation mask::0.0
+fill::0.0
+positioning server::0.0
+difficult::0.0
+automatically adjust rss::0.0
+early phase::0.0
+anchor point based::0.0
+providing malicious user::0.0
+effect::0.0
+doi:10.1186 cite::0.0
+curves and blue::0.0
+assigned a high::0.0
+feedback model evaluation::0.0
+implementation and experiments::0.0
+feedback generates user::0.0
+fully::0.0
+facilities::0.0
+partially trained::0.0
+qualified::0.0
+graduate studies::0.0
+performance of instance-based::0.0
+credibility::0.0
+position::0.0
+rss live::0.0
+loss::0.0
+siam j appl::0.0
+triangulation-based::0.0
+ranking::0.0
+accurate::0.0
+order to improve::0.0
+obtain::0.0
+stored::0.0
+user-involved::0.0
+3-tuples::0.0
+density::0.0
+supply::0.0
+depend::0.0
+discuss::0.0
+self-learning ability::0.0
+challenges::0.0
+match::0.0
+motivated to provide::0.0
+organic indoor::0.0
+tests::0.0
+user feedback factor::0.0
+increased::0.0
+kavraki::0.0
+devised::0.0
+integrated to automatically::0.0
+recovering based::0.0
+reasonable choice::0.0
+en-2018a::0.0
+increases::0.0
+en-2018b::0.0
+deployment::0.0
+trade-off between performance::0.0
+svm::0.0
+helpful::0.0
+saving these suggestions::0.0
+infeasibility::0.0
+fingerprints::0.0
+smola::0.0
+step utilizes::0.0
+works::0.0
+page::0.0
+survey::0.0
+cumulative estimation::0.0
+study area::0.0
+upgrades::0.0
+phenomena::0.0
+wider::0.0
+23rd ieee international::0.0
+timestamp::0.0
+convey::0.0
+proper::0.0
+carefully explore::0.0
+merge a newly::0.0
+integrating user::0.0
+resulting anchor::0.0
+learn::0.0
+lead::0.0
+sufficiently::0.0
+avoid::0.0
+students::0.0
+floor::0.0
+gradually::0.0
+transmitted::0.0
+analyzed::0.0
+en-2024a::0.0
+locate::0.0
+noise::0.0
+inaccurate::0.0
+en-2022 en-2024a en-2018a::0.0
+journal::0.0
+pervasive and mob::0.0
+amount of users::0.0
+simplest but efficient::0.0
+similarity::0.0
+described::0.0
+bookmarking::0.0
+environment with small::0.0
+article concludes::0.0
+positioning compensation::0.0
+actual::0.0
+precision after four::0.0
+http::0.0
+count value::0.0
+integrated human-centric collaborative::0.0
+important::0.0
+insufficient::0.0
+introduced::0.0
+uncommon due::0.0
+equally::0.0
+explored the potential::0.0
+yan::0.0
+dataset::0.0
+assess::0.0
+knowledge and guide::0.0
+indoor received::0.0
+users provide negative::0.0
+chen2,3*::0.0
+asj::0.0
+generated positive feedback::0.0
+significantly::0.0
+placing::0.0
+outliers is considerably::0.0
+van::0.0
+gradually increases::0.0
+yzchen::0.0
+appl::0.0
+localization and tracking::0.0
+in-building rf-based::0.0
+factors of complex::0.0
+accurate and positive::0.0
+naturally::0.0
+function::0.0
+wireless network interface::0.0
+adapt to environmental::0.0
+affect the compensation::0.0
+administrators::0.0
+semester break::0.0
+related::0.0
+systems described::0.0
+convergence::0.0
+delivers::0.0
+highest::0.0
+partially::0.0
+count::0.0
+made::0.0
+metrics::0.0
+series of rss::0.0
+live wi-fi::0.0
+converted::0.0
+limit::0.0
+analyzing the wi-fi::0.0
+problem::0.0
+2.5m::0.0
+mask::0.0
+meaningless::0.0
+canada full::0.0
+control::0.0
+targets::0.0
+periods::0.0
+folksonomy-like::0.0
+propagation model-based distance::0.0
+innovative indoor::0.0
+campus::0.0
+anchors::0.0
+acm international::0.0
+rigorous peer::0.0
+functions::0.0
+ubiquity of wi-fi-capable::0.0
+variety::0.0
+trials::0.0
+detail::0.0
+virtual::0.0
+level in training::0.0
+rss fingerprint-based positioning::0.0
+axis than red::0.0
+details::0.0
+resulting approach::0.0
+en-2010 en-2021a::0.0
+out::0.0
+modeling of indoor::0.0
+predefined::0.0
+subsequent corrective::0.0
+respects::0.0
+remains::0.0
+variation::0.0
+chance::0.0
+capability and positioning::0.0
+uncommon::0.0
+gap::0.0
+data plotted::0.0
+needed::0.0
+model contained::0.0
+approximately 2.5m::0.0
+denotes the gaussian::0.0
+phase includes::0.0
+experimental results::0.0
+resolution::0.0
+factors::0.0
+stabilizes::0.0
+original::0.0
+self-learning::0.0
+suggested positive feedback::0.0
+heide::0.0
+validation::0.0
+rss values::0.0
+large rss::0.0
+8th::0.0

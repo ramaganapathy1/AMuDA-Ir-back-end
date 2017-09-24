@@ -1,0 +1,3035 @@
+room residences and visitors
+location determination system
+aid the location
+techniques to derive
+aims at locating users
+surrounding
+target device by finding
+bluelon bt-002
+bluetooth devices relies
+entropy
+discoverable
+types
+hien nguyen
+rooms of size 4m6m
+location uncertainty
+localized
+flannery
+room every hour
+wireless ethernet
+bluetooth dongles
+permission to make
+summarizes
+updated
+dynamic
+pages
+dutch
+fresh training fingerprints obtained
+inflicts low power consumption
+2nd and 4th
+integrate smoothly
+wifi technology
+affect
+carried out location estimations
+helpful comments
+snoeck
+rest of the paper
+backend server
+include rss
+solution direction
+requires prior specific permission
+contextual information to central
+straight
+fhs
+determination method
+phones
+5.12s
+estimate movement detection
+estimates
+shut
+location of gps enabled
+obtain and use fresh
+two rooms of size
+conclusion and future
+probability mass
+machines
+theory
+established
+classification problem
+measure to deviate enormously
+estimate for duration
+fact
+method to change
+contributed
+adhoc
+wegdam
+establishes
+contextual information
+increasing
+denote the set
+frequency of received measurements
+y.-c
+coverage and partial sensor
+accurate indoor location
+gpscapable mobile
+system where remote
+scans for paging
+approximates the location
+systems capture
+user terminals
+terms our location determination
+telin.nl
+number of paradigm shifts
+active
+deal with a time-variant
+inquiry responses
+length of 5.12s
+obtained
+evaluate the performance
+solution we conducted
+adopted an irr
+telin.nl robert.degroote @ telin.nl
+generally requires
+reports
+hilbert space
+integrate smoothly with existing
+two modes
+resurrected
+figure
+mobility
+test day
+localization systems
+movement
+bargh robert de groote
+inquiry response
+room of the bluetooth
+deviate enormously
+presents
+method in two
+fact that users pcs
+fingerprint of a target
+inquirers
+non-deterministically
+depicts accuracy
+techniques process
+retrieves
+carried out
+inquiry packets
+type
+system to estimate
+requires prior specific
+infrastructure and system
+main
+standardized
+successful
+defined as the frequency
+determine location
+international conference on mobile
+journal of ieee pervasive
+phone
+measure in that jsd
+real-time
+provide
+device in room-1
+top-1 or top-2
+springer
+bottom two
+dongles compatible
+work
+fuglede
+interesting research
+top-1 estimate for duration
+partial coverage
+performance is shown
+irr in the room
+applications distributed general terms
+publish-subscribe system where remote
+give
+signals non-deterministically
+window of wl seconds
+room irr
+solution by carrying out
+approaches is presented
+times
+preferably
+change of training data
+extension to examine
+end
+aims at determining location
+graphs the training periods
+discoverable target
+bluetooth enabled
+updated training
+location estimation location estimate
+room and a room
+control mechanism
+fingerprint detection location
+opportunity
+minimized
+retrieves information
+hardware installation
+existing localization approaches
+process must have minimum
+robert.degroote @ telin.nl provoked
+meaningful
+rss of inquiry
+location sensing
+discover the device
+based approach for two
+empirical binary
+bluelon
+effective
+propagation which is required
+maintain
+algorithms
+buildings with overlapping
+ethernet
+deployable indoor
+order
+test results and shows
+dongles compatible with bluetooth
+interpretation
+office
+distance for bluetooth
+june-2 july
+conference on mobile computing
+responsive
+null the bluetooth
+two rooms
+approaches and our bluetooth
+personal
+fix
+make digital
+run so-called
+variance of irr measurements
+mobile device
+eventually
+window size
+combination
+management framework
+selfreferencing
+coworkers in our office
+average of irr
+neighboring rooms have bluetooth
+effects
+sensor information
+sensor coverage
+results based
+freeband
+divided into two categories
+netherlands
+main system components
+accurate model of indoor
+multiple bluetooth dongles
+task of the bluetooth
+out at points
+feature of commercial mobile
+dongles
+top-1
+cmf
+commercial mobile
+selfreferencing to cross-referencing
+higher
+estimate of the target
+background information over existing
+localization solution
+bluetooth v1.2 standard
+series
+correct location estimate
+area of research
+solution
+training data
+combining
+inquiry result
+aid the location determination
+inquiry has completed
+literature
+network
+realtime
+fingerprint that best resembles
+localizing the same reference
+vector
+bluetooth based solutions rely
+metal bookshelf
+independence
+lateration and angulation
+performance indications are shown
+barrier
+system distinguishes
+standard
+small
+obtaining rrs
+training
+sensors
+bluetooth localization system architecture
+information over existing localization
+telin.nl robert.degroote
+context source
+discovered by every bluetooth
+dutch government under contract
+measurements were carried out
+full bluetooth
+defined as a vector
+inquirers or a higher
+part of this work
+user
+pcs of users
+connection with the scanning
+target data to collect
+scanning device
+rank
+floors
+determination system
+density of bluetooth sensors
+training periods are chosen
+devices relies
+fingerprints indicate the spatial
+interesting
+comparing their observed fingerprints
+similarly
+indoor localization systems
+top
+finding the room
+needed
+percentage
+fee provided that copies
+remote
+digital or hard copies
+sensitive to training
+relies on bluetooth
+data obtained
+fact that users
+locations and localize
+effective solution to determine
+model of indoor
+task
+full and partial converge
+network-based approach
+function of localization window
+scanning devices can choose
+target
+showed
+categories and subject descriptors
+device for training
+database
+enabled
+put a target
+project
+characteristics used for fingerprinting
+deployment of wireless
+design
+scans
+solely
+sever multi-path
+common feature of mobile
+obtained using dedicated
+obtain these fingerprints
+localization system architecture
+bluetooth based indoor localization
+indoors
+established between the two
+bluetooth based localization solution
+propagation using accurate
+desktop pcs
+partial bluetooth
+lateration and angulation techniques
+system determines
+v1.2 standard
+systems distributed applications distributed
+based approaches
+terminal upgrade has guided
+require establishing any connectivity
+effect of partial bluetooth
+set in each hour
+system architecture
+paper we propose
+divergence and hilbert
+distance from that access
+average and variance
+philadelphia
+seventh international conference
+object
+developed around user
+eliminates
+profit or commercial
+kpper
+enabled mobile
+power consumption on mobile
+evaluated based on estimation
+effect of partial
+tse
+verification keywords indoor localization
+information that the inquirer
+metal
+respect to distance
+points
+room where the user
+systems can be divided
+target device was relocated
+method is a fingerprint-based
+inquirers increases
+users at a room
+mahtab
+provided by the target
+random
+telematica instituut
+method that relies
+radio
+solutions
+keywords
+exploits
+terms of power consumption
+modified version
+colleague radar
+finally
+cellular phone
+frequency hop
+assume independence
+device using information
+freeband awareness project
+topological
+localization system
+propagation using accurate indoor
+room fingerprints
+bluetooth based solution
+low power consumption
+rooms all with dongles
+oct
+solutions are based
+bluetooth access points
+due to several important
+cheng
+localizing
+data collected
+yunye
+wireless broadband wireless
+fingerprint detection
+homogeneity
+publish contextual
+reference devices
+test room every hour
+provide also the rss
+impose low
+fingerprints were obtained
+training data was excluded
+doing location
+obtained using dedicated reference
+acknowledgments
+send the results
+architecture
+metric for location estimation
+connected to remote pcs
+inflicts low power
+outdoor environments global
+bluetooth context-sources
+walls between the rooms
+reference
+guided us to adopt
+result in optimum entropy
+achieves
+sensors installed
+detection
+generally shut
+users requesting a users
+maarten wegdam
+parameters of radio signals
+observed
+subject
+estimate movement
+distributed for profit
+bluetooth rss
+dead reckoning
+based on estimation
+out some experiments
+m=1
+irr
+class and type
+keywords indoor localization
+estimate is room-k
+upgraded
+web
+work that bases
+acm international conference
+described in detail
+addition to training
+approach
+terms
+list of discovered object
+fingerprint-based localization
+weak
+fingerprint locations
+rooms with full
+dongle coverage
+hilbert space embedding
+slightly lower
+ieee pervasive
+received
+based localization solution
+determine location fingerprints
+bray
+uncertainty
+entire office building
+accuracy characterization for metropolitan-scale
+fingerprints of the reference
+connection is generally
+faces
+variance
+contribution
+reference device of room
+frequency of inquiries
+pre
+phones in terms
+granularity
+two bluetooth devices
+packets and the discoverable
+2nd
+tests in room-1
+device class and type
+ladd a.m
+deviation or distortion
+san
+conference
+location fingerprint detection location
+methods for training
+remote machines run so-called
+correct location
+room irr fingerprints
+object device
+location
+indications are shown
+detected the reference
+upgrade to mobile algorithms
+density of bluetooth cells
+resulting from an imprecise
+wireless signals
+inquiry frequency
+cmf is a publish-subscribe
+room across the hall
+access points
+connectivity between bluetooth devices
+involves devising
+robotics-based
+chawathe
+dongles used to record
+maintain devices in discoverable
+straight line
+radar that locates
+emergence of gpscapable mobile
+future research
+cross-referencing
+calculated using the kullback-leibler
+study
+gpscapable
+successful and widely
+radio location fingerprinting
+gps enabled
+interesting extension
+room fingerprinting
+robust localization
+derived during training
+fingerprinting
+pervasive computing
+fuse the bluetooth sensor
+sensor data
+seattle
+floors and each floor
+sever
+results showed
+simple and accurate
+prior
+environments affect the propagation
+make
+inquired continuously
+two bluetooth
+method in two rooms
+global
+infeasible
+spatial density of bluetooth
+independent
+full bluetooth sensor coverage
+points and the backend
+solution aims at determining
+bluetooth based indoor
+room residences
+full coverage localization
+hand
+fuse
+ubiquitous computing
+delegated to bluetooth infrastructure
+suitable
+fee provided
+inquiring sensors
+possibly
+list of bluetooth
+systems must integrate
+journal of wireless networks
+paradigm
+system to accurately
+left
+protocol
+proposed
+higher inquiry
+hall ptr
+binary distribution
+devices relies on inquiry
+telin.nl provoked
+n70
+abstract location
+outdoor environments global positioning
+robert.degroote
+previous
+research nowadays
+irr decreases
+classification
+top-1 estimation accuracy
+applications developed around user
+two technologies that impose
+cheng y.-c
+computing and networking
+divergence and hilbert space
+bluetooth infrastructure
+estimation performance is evaluated
+sensing using wireless
+types of sensor
+reliably due
+radio signals
+makes sense
+room fingerprint
+based systems use techniques
+based indoor localization solution
+irr parameter
+background
+imposed
+bargh
+fingerprints are derived
+closest room
+received measurements
+mobile systems
+match determines the location
+fed to the colleague
+technology for indoor localization
+niels
+wee-seng
+specific
+estimate is correct
+dongles detect a discoverable
+evaluated based
+rest of paper
+bluetooth standard
+right
+wee-seng soh
+deal
+remote machines
+propose a method
+wifi scans
+calculate klk
+dead
+bluetooth device
+meters
+solution achieves
+detection location
+exists
+based and fingerprint based
+solution that determines
+total
+fingerprinting include rss
+bottom
+comments
+shown by top
+due to its reliance
+number 1-2
+describes our solution
+seconds bluetooth
+switches dongles
+link quality
+developments like emergence
+top-2
+bluetooth access
+considered as an empirical
+automatically obtain
+predefined events
+meter apart and considered
+profit or commercial advantage
+post
+inquiry response rate
+takes
+real-time and fed
+limitation
+groote telematica instituut
+fingerprint method that relies
+decreases with increasing
+divergence is defined
+estimate with respect
+indoor localization
+international conference
+respect to total number
+permission
+definition
+slightly
+preferably require no upgrade
+automatically
+connectivity between two bluetooth
+two probability
+services provided
+distinguished into two categories
+area of research nowadays
+obtaining
+room-1 and room-2
+measures as top-1
+chosen to present
+signal propagation
+rely
+widely deployable
+reliance
+introduction of web
+system to accurately determine
+rss information of bluetooth
+class
+april-june
+subsequently a connection
+room where all neighboring
+fingerprinted by inquiry rrs
+location estimate is room-k
+eventually replies
+indoor environments affect
+context-sources run inquiries periodically
+colleague radar application
+machines run so-called context-sources
+wireless
+target device scans
+average of irr variance
+lncs
+evaluate a fingerprint method
+dongles given the location
+binary random variables
+capture fingerprints
+component called location estimator
+devices
+work is motivated
+note
+approach approximates the location
+implemented on top
+minor
+results and shows
+inquiring
+permission to make digital
+average
+combining these sources
+niels snoeck
+adopt
+random variables
+computing
+devices are being discovered
+abstract
+training window size
+bluetooth based
+evaluate a fingerprint
+xiii
+exist
+mobile phones in terms
+fingerprints of bluetooth technology
+70-84
+physical
+context-sources run inquiries
+graphs in figure
+floor
+device being stationary
+out their systems
+fingerprint based systems capture
+characteristics like received
+digital
+approach faces
+power aspects
+reference or target
+experiments show
+observed fingerprint
+locations when the users
+device of room
+location based application
+irr is defined
+signatures of those locations
+result in optimum
+location estimation and found
+show the performance
+constitutes a dynamic
+robotics-based location sensing
+assume
+moved
+packets
+deployed in our entire
+localization methods
+signals like rss
+broadband
+room fingerprint detection radio
+back
+definition of rss
+comparing their observed
+mortaza.bargh
+1st
+concept
+approach of fingerprinting
+localization solution that determines
+out of scope
+contributed to resurgence
+switches
+weak indicator of distance
+device for localizing
+multiple sources
+approach on the mobile
+out the services
+devising a control mechanism
+locations of stationary mobile
+sensor coverage and partial
+a.k.m
+localization using multiple
+data to collect localization
+k.e
+based on response rate
+data in each room
+impose low power
+inquiring dongles
+based approach faces
+systems use techniques
+advantage
+jensen shannon
+dynamicity
+based systems capture fingerprints
+estimation of the target
+inquiries periodically
+approach uses inquiry
+dongles are the inquiring
+room
+distance measure
+indoor signal propagation
+systems that deliver lbss
+multiple bluetooth
+angulation techniques to derive
+process is delegated
+fhs packet
+connectivity between devices
+approach does not require
+based solutions rely
+types of bluetooth devices
+two training
+fingerprint method
+practical robust localization
+concept of information
+discover the bluetooth
+discover
+received signal strength
+cost
+installed on users pcs
+dongles connected to remote
+targets
+based on a realistic
+rest of the data
+assistance
+measurements measured
+outputs of dongles
+current
+discoverable mobile
+seventh
+international
+widely deployable indoor localization
+1st and 3rd
+kullback-leibler
+martin wibbels
+frequency of received
+moves between rooms
+location estimate with respect
+test
+radar that locates coworkers
+dongle coverage is shown
+rssi
+feature of mobile devices
+change
+box
+rate of bluetooth inquiries
+device class
+location of a target
+contract bsik
+rooms of size
+mortaza.bargh @ telin.nl
+bluetooth enabled devices
+e61
+wegdam for their assistance
+indoor applications
+interrelating
+jensen-shannon divergence
+users log
+partial dongle coverage
+method with updated
+dongles detect
+wireless networks
+terminal
+preferably require
+working
+detect a discoverable mobile
+two reasons
+determines the location
+addresses that were discovered
+estimation component
+scope
+10th acm international
+connection is generally shut
+deliver lbss
+information about the services
+bases its location
+organized
+inquirer retrieves information
+homogeneity exists
+rss of inquiry responses
+physical location
+graphs mentioned
+type of context information
+maarten
+rudys
+irrs of multiple
+evaluated a bluetooth
+growing
+location-based
+updated training data
+deployment of wireless broadband
+dedicated
+training data set
+discoverable bluetooth device
+training in this paper
+increase as the frequency
+sample
+heard
+indoor environments
+htc-p3300
+sensor network connected
+localization devices
+performance was obtained
+applications distributed
+location is known a-priori
+requirements
+fingerprint-based
+result shows minor
+divided
+central component
+location of gps
+parameter
+upgrade of user terminals
+find out
+d.s
+information to central machines
+solution achieves top-1
+choose for connectable mode
+fed
+terminal upgrade
+radio signals like rss
+explored
+fingerprinting of rooms
+designed
+fresh fingerprints
+reference devices are mobile
+method for top-1
+locates coworkers
+physical location is characterized
+paper is organized
+schematically
+localization data
+distributed general terms
+two devices
+performance of our solution
+positioning system
+taxonomy of fingerprint based
+excessive hardware
+based services
+room-k
+room fingerprint and added
+made or distributed
+feature
+experiments
+devices average of irr
+partial converge
+hall and the room
+measurements of network
+ieee
+mobile users
+machine
+devices to be upgraded
+aid
+jin
+connected through ethernet
+wallach
+encompasses
+coordinates
+platform
+window
+constitutes
+soh
+barrier to maintain devices
+dongles and mobile
+environments global
+proposed solution
+top-2 accuracy
+obtained during paging
+irrs
+location determination method
+robust localization over large-scale
+discover the bluetooth enabled
+total number
+symposium
+reckoning
+hall
+rate of bluetooth
+graphs the training
+location is determined
+january
+responses to total inquiries
+establishing
+high spatial density
+realistic
+bluetooth hardware
+means that tracking users
+delegated to bluetooth
+verification keywords indoor
+bluetooth sensors
+dynamic sensor network
+compatible with bluetooth v1.2
+infrastructure-based and network-based
+log out
+room with a dongle
+approximates
+network characteristic
+paging
+context information
+shown
+location fingerprint
+3rd
+application-oriented
+profit
+systems generally
+interference
+partly resulting
+increase
+estimate movement detection figure
+reliance on bluetooth technology
+internet
+instituut
+obtaining rrs in bluetooth
+context management
+correct
+shows
+target device being detected
+series of inquiry
+mechanisms
+mapping
+california
+systems capture fingerprints
+null the bluetooth localization
+note that this performance
+achieves top-1
+solution was implemented
+mode is lower
+list of bluetooth addresses
+rate as the sole
+momentary network characteristics
+distributed applications
+weak indicator
+groote telematica instituut p.o
+place
+connectivity between corresponding devices
+sturman
+success in using bluetooth
+obtained during inquiry
+combination allow the system
+bluetooth are two
+localization methods that work
+location and context
+fingerprinting approach
+variables
+tests in two rooms
+noise and interference
+telematica instituut p.o
+predefined
+size
+obtaining bluetooth
+log m || tkm
+shows how irr
+categories and subject
+broadband wireless services
+collection of location fingerprints
+mobicom
+gps enabled mobile
+finding
+bluetooth localization system
+calculate
+bits
+moved every hour
+discovered object devices
+meaningful granularity
+dongles and mobile devices
+finding the room fingerprint
+result is a list
+inquiries mortaza
+ieee international conference
+users are assumed
+scheme uses another distribution
+transmits a series
+two categories
+packet
+detection figure
+localization with wifi
+copy
+localization process
+realistic case where training
+wide
+awareness project
+devices to be localized
+dongles of the surrounding
+require
+impacts of interference
+note that all dongles
+modified
+journal of ieee
+3rd international conference
+bluetooth sensors installed
+irr variance of irr
+technologies that impose low
+unlike kl divergence
+proactive
+q||p
+barrier to maintain
+dedicated reference
+inquiry mechanism
+distance of devices
+deployed pervasively nowadays
+kjrgaard
+locations
+infrastructure and network-based
+estimation process
+inquiry done
+prentice hall
+based on estimation accuracy
+geometry of the building
+resembles the observed location
+collected from the reference
+user acceptance barrier
+periodically scans
+june-2
+devices in connectable
+bluetooth sensor
+parameters
+full bluetooth sensor
+performance
+important and relevant
+fact that power aspects
+positioning system to estimate
+multiple
+total inquiries
+bargh robert
+generally requires establishing connectivity
+compress
+based on the concept
+visitors
+obtaining the irr
+fresh training fingerprints
+locations of these dongles
+proximity detection
+location fingerprints
+function of training window
+exploits the inquiry
+considered
+inquiry and paging
+null null
+mobisys
+graphs of figure
+gps devices
+solution we conducted two
+journal of wireless
+wi-fi
+users to maintain
+techniques like lateration
+tkm
+evaluation of the proposed
+dutch government
+wide range
+assumed to be stationary
+experiments in an infrastructure
+data
+line
+upgrade
+detected in real-time
+k=1
+angulation techniques
+installed on users
+connection towards the target
+bluetooth are two technologies
+short
+measurements were carried
+implemented
+proceedings of the 10th
+architecture encompasses the main
+pcs are located
+distortion from the real
+awareness
+first
+room fingerprints are derived
+device the approach commonly
+8-11
+isit
+irr with respect
+distortion
+metropolitan-scale
+estimation in room-2
+localization process is delegated
+sensor
+subcomponent is out
+approach for two
+partial sensor
+yield
+requesting
+enabled mobile devices
+derive
+characteristic
+maintain their devices
+based approach
+requires users
+arrival
+physically
+irr based approach
+distance location
+relative
+localization approaches localization systems
+location estimation process
+discoverable target device
+approaches localization systems
+mortaza s bargh
+detect
+enschede the netherlands
+replies with a frequency
+ways
+space embedding
+symbols will result
+bluetooth dongle coverage
+impose low power consumption
+sensor systems
+lbss
+inquiries
+prentice
+full sensor
+notice
+infrastructure
+infeasible to construct
+due to sever
+approach commonly
+method whose performance
+full coverage
+solution aims
+installation
+solution our bluetooth
+range of indoor
+important to investigate
+solutions rely on network
+responsive system and possibly
+contract
+radar application
+propagation
+systems generally rely
+embedding
+sole network
+machines have a fixed
+central component called location
+jevring and maarten wegdam
+require no upgrade
+location is fingerprinted
+estimate is fed
+present our results based
+wt=5
+bluelon bt-002 body tags
+parameters of radio
+subscribed
+subscriber
+defined
+rss in the bluetooth
+tests in two
+location of the closest
+require establishing
+quality of service
+direction
+system architecture is shown
+wl=3
+widely deployable indoor
+techniques process different parameters
+bt-002
+observe
+7500an enschede the netherlands
+shows minor sensitivity
+practice we determine location
+system and possibly
+wt=10
+case
+partial dongle
+method with updated training
+dongles between two
+bsik
+compress the same sequence
+two bottom
+yield a more responsive
+estimate in room-1
+investigating
+higher inquiry frequency
+environments global positioning
+characteristics
+metric
+wide metal bookshelf
+strong relation
+technology that is pervasively
+process different parameters
+technology
+give any particular location
+binary
+bellavista
+deployed in our office
+device is detected
+markus jevring and maarten
+shifts
+pervasively
+inquiry
+coworkers
+location estimation process solely
+element tkm
+multiple wireless
+solely on the irr
+international symposium
+devices are mobile devices
+4m6m
+discovered by the inquiring
+rely on dedicated software
+irr measurements
+conference on mobile
+inquirer transmits
+spatial density
+fingerprinting solutions
+overlapping bluetooth
+estimation
+localized differed
+modes
+markus
+non-deterministically due to sever
+interesting extension to examine
+components
+mobile algorithms
+establishes another connection
+system uses relative entropy
+copies bear
+devices and target devices
+key technology
+solution our bluetooth positioning
+fingerprinting include
+bluetooth sensor coverage
+generally
+guided
+commonly used in literature
+rest
+relevant
+introduction location
+bluetooth context
+prior specific permission
+subsequently
+fixed location
+characterization
+desktop
+wall
+setting
+samples
+recent years
+real room
+source produces
+real
+ladd
+application called colleague radar
+aspects
+requires mobile
+system uses relative
+heterogeneity of bluetooth hardware
+locating users
+approach hereto
+relation between distance
+wireless services
+upgrade has guided
+assuming the same inquiry
+work well with short
+years due
+effective solution
+connectivity between two
+data compression
+small training and localization
+infeasible when the number
+devices differ
+distributed applications distributed general
+infrastructure deployed
+classroom use is granted
+output
+relies on only irr
+device scans for paging
+solution achieves top-1 estimation
+zigbee
+common feature of commercial
+moving
+detected a target device
+sponsored by the dutch
+multi-target
+duration
+discoverable bluetooth
+devises localization
+provided
+work for personal
+accuracy in rooms
+proceedings of the ieee
+location is characterized
+commercial mobile devices
+performance is evaluated
+reliance on bluetooth
+resurgence
+process
+power
+require for target
+seconds
+manufactured
+relevant context
+training fingerprints
+irrs of multiple bluetooth
+found
+central
+users at room-level
+permission and a fee
+full and partial
+ptr
+acm
+practical
+estimator
+number of inquiry
+strong relation between distance
+rss
+showed that the solution
+e61 and n70
+device are examined
+sensing using wireless ethernet
+duration of the test
+references
+determine
+interesting direction
+devices and the inquirer
+training and localization devices
+room we put
+approach that exploits
+located at a specific
+area
+proposed a bluetooth
+subscribes
+two tests in two
+low
+takes place
+resembles the observed
+target devices
+localization window sizes
+full and partial coverage
+estimation and found
+two training window sizes
+version called jensen
+method gives the correct
+room-2 with partial coverage
+fingerprints for that room
+international conference on ubiquitous
+technologies
+room-2
+characteristic to fingerprint locations
+location of the object
+978-1-60558-189-7
+sequence of such symbols
+training window sizes
+device types
+solution is a fingerprinting
+location information
+devices and only requires
+inquiry rate
+bluetooth mobile devices
+residences and visitors
+connect
+well-explored
+measurement
+mobile computing
+general
+examine
+full sensor coverage
+moves
+cables
+explored wifi
+accurately determine the location
+localization systems must integrate
+systems must integrate smoothly
+user acceptance
+test was carried out
+collect training
+binary distribution with parameter
+spatial
+acceptance
+devising a control
+divided into two
+deviation
+active area
+symbol
+ts=10s
+important
+growing technology
+coverage
+fresh
+located in floor
+building
+minutes for the tests
+accurate model
+due to sever multi-path
+sever multi-path effects
+requires
+collect localization data
+granularity for a wide
+access point was heard
+mass
+resembles
+devices are devices
+two rooms with full
+practice training
+divergence measures
+short fingerprints
+based solutions
+estimation component in figure
+results of our evaluation
+irr decreases with increasing
+partial
+establish a bluetooth connection
+conference on ubiquitous
+information obtained
+shifts that have contributed
+conclusions and future research
+encompasses the main
+rate of bluetooth technology
+produces symbols
+function of localization
+v1.1
+relies on bluetooth technology
+v1.2
+heterogeneity
+device to be localized
+processing based
+providing contextual information
+challenge and opportunity
+compress a sequence
+multi-floor buildings with overlapping
+jensen
+function of rss
+nguyen van
+multi-path
+difference
+application aims at locating
+obtain a list
+issue
+optimum entropy rate
+relative entropy
+list
+dongle
+dongles inquiry
+wl=3 and wt=10
+bluetooth in our office
+bear this notice
+pervasively nowadays
+rely on dedicated
+neighborhood
+choose for two
+dongles installed on users
+protocol and logic
+fresh training
+device being inquired continuously
+users location
+ways to deal
+government under contract bsik
+frequency hop synchronization
+rooms in total
+prior work that bases
+size 4m6m
+context management framework
+location estimate
+adopted its modified version
+constitutes a dynamic sensor
+target device in room-1
+section
+shows how irr decreases
+radio location
+version
+issues
+irr and distance
+two different devices
+dongles connected
+top-1 estimate in room-1
+method
+advantage and that copies
+government under contract
+full
+successful and widely deployable
+emergence of gpscapable
+tags
+component
+users requesting
+directions
+i.e
+strong
+table
+ikm nt nt ikm
+hour in each position
+solution by carrying
+fingerprints for the graphs
+dedicated reference devices
+terminals
+design of a location
+outdoor environments
+heterogeneity of bluetooth
+beginning of every hour
+main component
+location based services
+aims at determining
+doing location estimation
+reference devices and target
+scheme achieves
+wifi
+dynamic sensor
+working on a number
+solutions rely
+4th from top
+conducted two
+establish
+wireless broadband wireless services
+distributed applications distributed
+infrastructure-based and network-based approach
+order to be localized
+network-based
+device distance
+bluetooth context source
+two
+existing fingerprints
+comparing
+solution to determine location
+challenge of a target
+process of establishing
+unsafe by most users
+signals non-deterministically due
+excluded
+inquiries mortaza s bargh
+descriptors
+tested
+providing contextual
+approach faces the challenge
+basically
+movement detection
+literature e.g
+realistic case
+hour
+digital or hard
+e.g
+devices by comparing
+klk
+detected the reference device
+personal or classroom
+top-1 estimate accuracy
+environments affect
+minimum deviation
+principles
+mobile terminal upgrade
+compare
+impacts
+device being inquired
+8-11 oct
+located at topological
+collection of location
+training periods
+minimum
+sense
+information
+requires establishing
+architecture encompasses
+shown by two graphs
+location estimation
+inquiry at a fix
+surrounding rooms
+determines user locations
+require any upgrade
+estimation location
+detection location estimation location
+located at topological locations
+training and localization device
+results of experiments
+presents our conclusions
+practical robust
+device by finding
+ubiquitous
+exists among the bluetooth
+source produces symbols
+derived
+compare figures
+tracking
+connectivity
+seconds dongles
+response
+specific distance
+propagation of wireless signals
+estimate for both full
+fingerprint detection location estimation
+adopt an infrastructure-based
+melt08
+minor sensitivity
+granted
+replied
+paging mechanisms
+14-45
+september
+developed
+servers or to redistribute
+characterization for metropolitan-scale wi-fi
+installed
+radar
+paper
+replies
+rss and access point
+service requirements
+based localization
+fixed length
+due to the limitation
+practice training and localization
+jevring
+location fingerprinting
+detected
+two fingerprint
+differed
+provoked by predefined events
+architecture is shown
+colleague
+partial bluetooth dongle coverage
+motivated
+indicator of distance
+conclusion and future work
+propose
+discovered object
+redistribute
+framework
+walls
+divergence or relative entropy
+bluetooth propagation
+applications developed
+level
+based indoor localization
+binary random
+fingerprint-based localization solution
+remote pcs
+estimate accuracy
+characterized
+decreases with increasing distance
+relative entropy measure
+technology since the internet
+hard
+dongles to miss
+deployable
+investigated
+bluetooth technology for indoor
+information with other types
+operation
+inquired
+estimation accuracy
+closest
+data was excluded
+fixed length of 5.12s
+robert
+surrounded
+angulation
+obtained when different device
+publish
+research
+devices in discoverable
+pervasive technology
+inquirer
+system does not give
+positioning system was implemented
+evaluation
+respect to the radio
+acceptance barrier
+famous gps
+1-2
+estimation location estimate
+localization
+copies bear this notice
+accuracy relates
+quality of service requirements
+pre-recorded
+effect
+consumption on mobile terminals
+base
+information obtained during paging
+examined with respect
+dongle room
+put
+jensen-shannon distance measure
+beginning
+scans at a specific
+prior work
+service
+total number of estimations
+positioning
+mobile devices
+introduction
+conducted
+bookshelf behind the wall
+number of inquirers increases
+contextsources
+madhavapeddy
+imprecise definition of rss
+training fingerprints obtained
+rooms have bluetooth dongles
+probability
+number
+l.e
+location estimator that compares
+done
+mobile
+miss
+differ
+findings
+mobile adhoc and sensor
+propagation of wireless
+implemented and tested
+measurements of network characteristics
+construct
+a-priori location information
+room level
+interesting research question
+station
+connect without cables
+impact of our approach
+show
+general terms our location
+difference measure
+locating users at room-level
+gps
+markus jevring
+relies
+upgrade to mobile
+reference device to collect
+wall between the hall
+ieee international
+part
+authors
+momentary network
+context awareness
+scheme
+determines
+pcs
+beginning of the test
+evaluated the performance
+aims
+collect training data
+determined
+sole
+indoor localization solution
+low cost infrastructure
+match determines
+motivation
+wl=1.5
+seconds for the target
+rest of each day
+requires establishing connectivity
+machines run so-called
+categorized
+events
+null
+rate of every ts=10
+wireless signals non-deterministically due
+determination takes
+paging mechanism
+based solution
+terms our location
+rooms are called room-1
+information to central
+work is part
+reference device for localizing
+part of the freeband
+taxonomy of fingerprint
+localization window size
+jsd
+added
+bluetooth addresses
+signal strength
+measures
+sequence
+systems
+sponsored
+number of locations
+fingerprint detection radio
+services
+sources could aid
+infrastructures
+measured
+model
+two technologies
+non-deterministically due
+accuracy of top-1
+accuracy of top-2
+fingerprint l is defines
+eliminates the location
+system was implemented
+indoor localization using multiple
+connection is established
+top-1 or top-2 accuracy
+computer-communication-networks
+connected to remote
+85-89
+pages the target
+so-called context-sources which publish
+fingerprint tk is defined
+bluetooth based solutions
+converge
+irr sample
+relation
+compression scheme
+location-based services
+techniques mentioned
+observed fingerprints
+central machines
+mobile terminals
+impact
+performance indications
+indicator
+location estimate movement detection
+copyright
+sensitive to training data
+obtaining bluetooth rss
+existing localization
+scanning devices
+freeband awareness
+received signal
+keywords indoor
+show the top-1 accuracy
+inquirer establishes another connection
+accurate
+prentice hall ptr
+device to collect training
+automatically obtain these fingerprints
+gps uses lateration
+distance
+location determination takes
+irr fingerprints
+assumed
+technologies that impose
+scheme for the test
+famous
+jensen-shannon
+adopted the js method
+devising
+top-1 estimation
+control protocol and logic
+contextual
+aims at locating
+applications distributed general
+sources
+gps enabled mobile devices
+application aims
+maintain devices
+derive the coordinates
+richer applications developed
+fingerprinted by inquiry
+investigate
+infrastructure-based
+methods for training window
+locating
+signatures
+scanning
+ik1
+system is based
+lamarca
+irr based approach faces
+data compression scheme
+information from multiple sources
+two bottom graphs
+devices due
+arg
+component called location
+training window
+preparation
+variance of irr
+inquirer establishes
+rss for localization
+based and fingerprint
+due to the fact
+excluded when doing
+approach approximates
+bt-002 body
+addition to training data
+beginning of each test
+estimator that subscribes
+coverage even if wt=5
+feature of commercial
+commercial
+developed around user location
+requesting a users location
+shown by two
+ikm
+divergence
+depicts
+10th
+last
+generally requires establishing
+density
+robert de groote telematica
+top-1 accuracy
+sensitive
+connection
+context
+collect
+higher number
+symposium on information theory
+localization device
+observed location
+topsoe
+point
+simple
+estimate the location
+introduction location based
+proceedings of international
+nokia e61 and n70
+conducted two tests
+note that kl divergence
+discoverable mode
+recent years due
+backend
+miss the replies
+described
+effective indoors
+location is considered
+shown in figure
+due
+indoor signal
+existing context management
+study of bluetooth
+describes
+based on response
+evaluated a bluetooth based
+meeting
+information from multiple
+partly
+percentage of inquiry
+back to the future
+measure considering the heterogeneity
+determination
+location as an output
+devices in connectable mode
+considered as a classification
+publish-subscribe system
+presented
+robotics-based location
+require mobile devices
+scans for inquiries
+reliable
+estimations
+empirical
+evaluated
+match
+reliably
+hereto
+solution that works
+bluetooth devices
+relevant context information
+services that a target
+studied
+vol
+studied and ways
+10th acm international conference
+commonly
+excessive hardware installation
+interrelating several targets
+low power
+global positioning system
+taxonomy
+mortaza.bargh @ telin.nl robert.degroote
+target devices are devices
+estimate
+government
+based systems capture
+current approach of fingerprinting
+results of experiments show
+widely
+based application called colleague
+localization solution that relies
+day
+relates to the power
+lateration
+methods that work
+fingerprint based systems
+devices used for room
+considered as signatures
+strength
+fingerprinting approach that exploits
+localization approaches
+location fingerprint detection
+robust
+coverage and partial
+recent
+dongle that are located
+lower
+inquiry and paging mechanisms
+result shows
+processing based systems generally
+localize target
+increases
+show the top-1
+approach for two reasons
+person
+adopted an irr based
+scheme is improved
+involves
+application called colleague
+enschede
+global positioning
+users pcs
+test room
+hien nguyen van
+detection radio
+bluetooth inquiries mortaza
+practice we determine
+networks
+estimation process solely
+determine location of gps
+krumm
+mode which implies
+findings indicate that rss
+basically involves devising
+show the results
+results of these inquiries
+system determines user
+conclusions
+metropolitan-scale wi-fi localization
+signals
+source
+out location
+irr of a target
+smoothly with existing
+rss in bluetooth
+zigbee and bluetooth
+device moves
+minimum deviation or distortion
+evaluate
+bluetooth irr is defined
+wireless technologies
+chosen in the beginning
+involves devising a control
+place in a central
+deployable indoor localization
+emergence
+establishing connectivity
+bluetooth connection
+partial sensor coverage
+faces the challenge
+user is moving
+signal
+devices average
+installed in a multi-floor
+rrs in bluetooth v1.1
+devices in discoverable mode
+approach a target
+room-1 or room-2
+entropy measure
+present our results
+target devices by comparing
+measure to deviate
+methods
+wireless broadband
+metropolitan-scale wi-fi
+based systems generally rely
+location determination
+paper we design
+san francisco
+localize target devices
+server
+subscribed to that type
+p||q
+based scheme achieves
+out location estimations
+symposium on location
+information over existing
+context-sources run
+existing context management framework
+measurements
+yunye jin
+room-level
+started every ts=10s
+3rd international
+distributed general
+achieves top-1 estimation accuracy
+indoor localization based
+run so-called context-sources
+scope of this paper
+meeting room
+room-level where users
+run
+processing
+pages the target device
+outdoor
+fact that power
+haeberlen
+bt-002 body tags
+shows minor
+full citation
+hilbert
+seconds bluetooth access
+works
+consumption
+include dongles
+row
+stationary
+top-2 estimate
+distribution with parameter ikm
+range
+extensions
+respect to distance location
+based systems generally
+determines user
+inquired continuously will increase
+indications
+servers
+commercial advantage
+localization using multiple wireless
+enabled devices
+stationary mobile
+cost infrastructure
+question
+redistribute to lists
+rooms and the hall
+machines run
+conference on mobile systems
+multi-floor
+localized and it inflicts
+locations is high
+multi-path effects
+link
+localization based
+dongles installed
+affect the propagation
+wt=5 and wl=1.5
+deployed
+fed to a location
+content-oriented
+irr measurements measured
+two training window
+continuously will increase
+metric for location
+estimation and found out
+taxonomy for radio
+technology for indoor
+transmits
+access
+reference device
+two probability mass
+model of indoor signal
+verification
+machines that have subscribed
+continuously
+contextual information from multiple
+calculated
+located
+inquirer to discover
+discoverable mobile device
+target device is detected
+standardized in detail
+unsafe
+devices are mobile
+information gain
+feature of mobile
+log out their systems
+rrs in bluetooth
+mass functions
+process of establishing connectivity
+assume these pcs
+performance is evaluated based
+training fingerprint
+defines
+data and partial
+future research directions
+measured irr
+observed location fingerprint
+network characteristic to fingerprint
+accurate indoor location mapping
+plugged
+mobile phones
+application
+access point
+result shows minor sensitivity
+device the approach
+outputs
+deviate
+resurrected in recent
+empirical binary distribution
+bluetooth sensor information
+location estimations
+target data
+smoothly
+granted without fee
+distributed
+measured irr with respect
+seconds bluetooth access points
+bluetooth irr
+optimum entropy
+distance of devices average
+nguyen
+implies
+rooms have bluetooth
+required
+suitable for multi-floor
+radio map
+c.f
+divergence is a distance
+carrying
+hossain
+find out the services
+jensen-shannon distance
+imprecise
+rooms with full bluetooth
+office building
+coverage localization
+results
+existing
+eds
+mortaza
+locations and localize target
+colleague radar that locates
+systems that deliver
+hardware in available devices
+connectable mode which implies
+3rd from top
+motivation and principles
+switches dongles between two
+subject descriptors
+deployed pervasively
+eliminates the location uncertainty
+device scans
+include dongles connected
+include
+relocated
+indoor location determination
+higher number of inquirers
+characteristics like received signal
+bluetooth mobile
+device moves between rooms
+hall outside the dongle
+based on rss
+cellular
+inflicts low
+differed from those devices
+categories
+entire
+existing context
+hereto is to obtain
+positions
+aspects are not standardized
+bluetooth inquiries
+accuracy of top-2 estimate
+context-sources
+topological locations
+bits per symbol
+telematica
+defined as the percentage
+location at a room
+rrs
+c.2.4
+content-oriented to application-oriented
+reckoning and proximity
+rate
+responsive system
+imprecise definition
+nokia e61
+find
+main system
+number of paradigm
+based scheme
+bottom graphs of figure
+body
+approaches proposed
+reference or target devices
+types of sensor data
+a-priori location
+data and partial dongle
+target device using information
+accuracy measures
+window sizes
+upgrade of mobile devices
+estimation accuracy relates
+rss and access
+instituut p.o
+low cost
+device to collect
+location estimator that subscribes
+indoor location
+arg min
+resulting
+fastest growing
+sense if one devises
+makes
+systems distributed
+two graphs
+room-1 was located
+bluelon bt-002 body
+target device being stationary
+addresses
+device in the room
+wi-fi localization
+bits more on average
+loca
+device being detected
+device using information obtained
+determines the location estimate
+wireless signals non-deterministically
+bluetooth positioning system
+inquirer pages
+target device was moved
+fee
+inquirer pages the target
+performance of the solution
+usa
+examined
+periodically
+room-2 with partial
+mortaza s bargh robert
+length
+rely on network
+abstract location is considered
+started
+periodically scans for inquiries
+integrate
+principles our work
+design and evaluate
+top of an existing
+done by these dongles
+inquirer needs to establish
+accurately
+challenge
+hien
+reactive to proactive
+distance for indoors
+thin
+test results
+difference of arrival
+control
+environments global positioning system
+angle of arrival
+proceedings of the seventh
+research question
+irr measurements were carried
+number of times
+high
+inquiries have a fixed
+current approach
+wide range of indoor
+run inquiries
+based indoor
+compatible
+connectable
+locates
+devices and target
+devices in its neighborhood
+estimator that compares
+row of table
+famous gps uses lateration
+10th acm
+multi-floor buildings
+issues and extensions
+buildings with overlapping bluetooth
+buildings
+determines the locations
+characteristic to fingerprint
+proceedings of the 3rd
+movement detection figure
+publish contextual information
+specific permission
+robert de groote
+accuracy that is defined
+fingerprints of bluetooth
+accuracy characterization
+rely on network characteristics
+top-1 estimate
+reports the average
+element
+network characteristics
+basically involves
+fingerprinted
+replies of reference
+two bluetooth devices relies
+fastest
+acm 978-1-60558-189-7
+increasing distance
+two fingerprint types
+inquirer transmits a series
+response rate of bluetooth
+meter
+symbols
+localization solution that works
+require mobile
+jevring and maarten
+sensor network
+room-2 as rooms
+mentioned
+relocated in the test
+mobile devices due
+target device
+method that eliminates
+chosen
+component of the systems
+collect localization
+based on the inquiry
+indoor location mapping
+context management frame
+location estimation component
+location estimation location
+time-variant
+bluetooth cells
+limitation of the technology
+bluetooth propagation using accurate
+nokia
+training and localization
+obtained in the rest
+fingerprint
+helal
+replied by a discoverable
+notice and the full
+irr fingerprints of bluetooth
+republish
+proceedings of international symposium
+fingerprinted for the duration
+background information
+7500an
+solution does not require
+taxonomy for radio location
+mode
+copies are not made
+response rate
+motivated by the design
+office buildings
+subset
+consumption of a mobile
+map
+research directions
+bluetooth
+discoverable and connectable
+base station
+recent findings
+dongles in wt seconds
+measure
+relates
+stationary mobile users
+divergence or relative
+shannon
+out
+relation of irr
+nowadays
+consumption on mobile devices
+common
+subset of dongles
+respect to total
+robert.degroote @ telin.nl
+put a target device
+obtained in the beginning
+determination takes place
+approaches
+collection
+accuracy of js method
+require for target devices
+networking
+delegated
+existing technologies
+establish a bluetooth
+acknowledgments this work
+well-explored for fingerprinting
+applications
+geometry
+determining
+wibbels
+responses to total
+mahtab hossain
+4th
+discoverable mode is lower
+preparation of the infrastructure
+international symposium on information
+ik2
+target device moves
+solution is based
+set
+achieves top-1 estimation
+requires mobile devices
+quality
+dongles between two modes
+management
+two graphs of figure
+location sensing using wireless
+detection radio map
+system
+adopted
+irr based
+inquiries to their subscriber
+information of bluetooth inquiries
+number of estimations
+carrying out
+sensitivity
+simple and accurate model
+pervasive
+classroom
+discovered
+sole network characteristic
+control protocol
+completed
+surrounded by rooms
+lists
+compression
+choose for connectable
+july
+run inquiries periodically
+momentary
+symposium on information
+location estimator
+fingerprints obtained
+7500an enschede
+generally rely on dedicated
+distinguishes
+richer
+data set
+establishing connectivity between two
+l||tk
+room-2 with full
+telin.nl provoked by predefined
+providing
+resurrected in recent years
+distinguished
+granted without fee provided
+result
+localization of a target
+p.p
+mechanism allows the inquirer
+p.o
+internet or the cellular
+paper we proposed
+processing based systems
+a-priori
+user is physically
+bluetooth positioning
+approach uses inquiry response
+angle
+location and context awareness
+min
+optimum
+overlapping bluetooth cells
+insight into the impact
+mechanism
+respect to the reference
+devices can choose
+imposed by the irrs
+sensitivity of js method
+based systems
+provoked
+localization window
+techniques
+important developments
+accuracy
+percentage of inquiry responses
+groote
+richer applications
+system components
+percentage of times
+reckoning and proximity detection
+small training
+connected
+groote telematica
+subcomponent
+device
+encompasses the main system
+test was carried
+multi-floor building
+so-called
+show that our solution
+neighboring
+mobile computing and networking
+large-scale
+user locations
+graphs
+proceedings
+system determines user locations
+wide metal
+make digital or hard
+inquirer retrieves
+determining location
+number of inquirers
+evaluation to evaluate
+citation on the first
+device localization
+indoor
+active area of research
+ts=10 seconds
+device with the location
+process solely
+estimation location estimate movement
+distribution with parameter
+based
+knowledge
+location uncertainty imposed
+range of indoor applications
+fingerprint detection radio map
+produces
+detail in section
+carried out location
+adopted its modified
+reactive
+scanning devices must choose
+bases
+bekris
+user location
+fingerprint locations and localize
+means
+bear
+general terms
+ts=10
+summarizes the test results
+years
+deployable indoor localization systems
+reliable measure
+inquirers called dongles
+uncertainty imposed
+establishing connectivity between devices
+fixed
+proposed a bluetooth based
+finally section
+object device distance
+detected by many bluetooth
+connectable mode
+localization based on response
+entire office
+frame
+two probability mass functions
+dead reckoning and proximity
+test results showed
+device was relocated
+international symposium on location
+determine the location
+number of inquiry done
+responses
+common feature
+mobile terminal
+record
+solution does not exist
+bases its location estimation
+null null the bluetooth
+detected a target
+types of bluetooth
+investigated the relation
+approach a target device
+a.m
+deliver
+tracking users
+power consumption
+key
+accuracy measures as top-1
+users
+problem
+solution to determine
+189-204
+dynamic sensor network connected
+construct a simple
+periods are chosen
+solution in detail
+figures
+localization devices differ
+context-sources which publish contextual
+function of training
+combination with rss
+information of bluetooth
+hour with respect
+detect a discoverable
+environments
+localization with wifi technology
+coverage is shown
+decreases
+respect
+device distance of devices
+users are stationary
+pervasively available nowadays
+addition
+copies
+number of issues
+devices as a reference
+dongles were manufactured
+choose
+4m6m in our office
+citation
+management frame
+bluetooth localization
+bluetooth dongle
+irr variance
+method for top-1 estimate
+information obtained during inquiry
+entropy rate
+improved
+exploits the inquiry response
+locations of stationary
+present
+consumption on mobile
+unlike
+bluetooth v1.1
+obtained reliably due
+bluetooth v1.2
+two tests
+requires prior
+context-sources which publish
+sturman c.f
+multiple wireless technologies
+fingerprint types
+location mapping
+inflicts
+ubicomp
+hardware
+distinguished into two
+means that tracking
+body tags
+mobile adhoc
+bottom graphs
+capture
+relies on inquiry
+insight
+connectivity between bluetooth
+choose for two modes
+object devices
+inquiry frequency will yield
+accurately determine
+rss indicator
+single-target to multi-target
+conference on mobile adhoc
+1-8
+point was heard
+practice
+http
+subscribes to all bluetooth
+logic
+functions
+frequency will yield
+bottom two graphs
+localization over large-scale
+systems distributed applications
+excluded when doing location
+test in room-1
+density of bluetooth
+descriptors c.2.4
+bluetooth context-sources run inquiries
+information theory
+fingerprint of the target
+provided that copies
+position
+accuracy can be determined
+sensing
+send
+requires users to maintain
+inquiries or the number
+packet contains all information
+excessive
+enormously
+interference and mobility
+proximity
+subset of dongles detect
+obtain
+stored in a database
+device was moved
+first page
+stored
+rooms
+unlike previous
+localize
+cells in each room
+log in and log
+investigating whether the dongles
+fuse the bluetooth
+implemented and evaluated
+study of bluetooth propagation
+case where training
+central machine
+ieee pervasive computing
+room-1
+reasons
+version called jensen shannon
+developments
+compares
+publish-subscribe
+determination is an active
+requesting a users
+approach of fingerprinting locations
+tests
+fastest growing technology
+freeband is sponsored
+modified version called jensen
+kavraki
+results of the top-1
+dead-spots
+type of context
+based approaches is presented
+room fingerprint detection
+processing based and fingerprint
+hop synchronization
+so-called context-sources
+opportunity the process
+deployment
+found out
+devises
+determination is the main
+location estimate movement
+approaches localization
+helpful
+success
+sizes
+future
+fingerprints
+change of training
+window of wt seconds
+components in the central
+martin
+kullback-leibler function
+component in figure
+based application
+important developments like emergence
+fingerprint based
+page
+distinguishes between different types
+subject descriptors c.2.4
+summarizes the test
+terms of power
+record the fingerprints
+carried out at points
+compares it with room
+localization approaches localization
+adhoc and sensor systems
+adhoc and sensor
+implies also being discoverable
+upgrade of mobile
+solution that relies
+obtained reliably
+assistance in preparation
+hard copies
+network characteristics like received
+fingerprint and added
+assuming
+device with appropriate quality
+noise
+system where remote machines
+bluetooth based localization
+series of inquiry packets
+journal
+fingerprints using rather small
+broadband wireless
+residences
+estimation performance
+accuracy for a localization
+training set
+carried
+extension
+impose
+high spatial
+bluetooth context-sources run
+network connected
+dedicated software
+resurgence of lbss
+suitable for multi-floor buildings
+synchronization
+generally rely
+beigl
+accuracy of our location
+software
+jensen-shannon divergence and hilbert
+required for the techniques
+139-156
+location determination takes place
+washington
+consumption of the mobile
+network connected through ethernet
+required for the application
+carrying out some experiments
+test rooms
+single-target
+neighboring rooms
+van
+compatible with bluetooth
+conclusions and future
+training data and partial
+fix rate
+requires these devices
+doing
+paradigm shifts
+provoked by predefined
+probability mass functions
+characterization for metropolitan-scale
+establishing any connectivity
+function
+sensors that are plugged
+devises localization methods
+acceptance barrier to maintain
+overlapping
+volume
+collected
+gain
+bookshelf
+characteristics of that device
+prior specific
+note that the training
+made
+fingerprinting solutions are based
+inquiry responses to total
+hop
+cells
+partial bluetooth dongle
+considered unsafe
+post on servers
+hall were thin
+fingerprinting locations
+rss information
+location based
+frequency
+solution is infrastructure
+distribution
+minutes
+future work
+introduction location based services
+conference on ubiquitous computing
+denote
+inquiry rrs
+periods
+gpscapable mobile devices
+mobile device being inquired
+important and relevant context
+acm international
+detection location estimation
+devices must choose
+detail
+accurate indoor
+independence between the binary
+training and localization window
+springer lncs
+upgrade of user
+conclusion
+list of discovered
+location of the target
+francisco
+set of the dongles
+reference device the approach
+rooms on the right
+remote machines run
+log
+bluetooth contextsources
+m.b
+parameter ikm
+seventh international
+data to collect
+space
+verification keywords
+bluetooth technology
+fingerprint based approaches
+concept of information gain
+accuracy of top-1 estimate

@@ -1,0 +1,1334 @@
+IEEE TRANSACTIONS ON SYSTEMS, MAN, AND CYBERNETICS—PART C: APPLICATIONS AND REVIEWS, VOL. 37, NO. 6, NOVEMBER 2007
+
+1067
+
+Survey of Wireless Indoor Positioning
+Techniques and Systems
+Hui Liu, Student Member, IEEE, Houshang Darabi, Member, IEEE, Pat Banerjee, and Jing Liu
+
+Abstract—Wireless indoor positioning systems have become very
+popular in recent years. These systems have been successfully used
+in many applications such as asset tracking and inventory management. This paper provides an overview of the existing wireless
+indoor positioning solutions and attempts to classify different techniques and systems. Three typical location estimation schemes of
+triangulation, scene analysis, and proximity are analyzed. We also
+discuss location fingerprinting in detail since it is used in most current system or solutions. We then examine a set of properties by
+which location systems are evaluated, and apply this evaluation
+method to survey a number of existing systems. Comprehensive
+performance comparisons including accuracy, precision, complexity, scalability, robustness, and cost are presented.
+Index Terms—Indoor location sensing, location fingerprinting,
+positioning algorithm, radio frequency (RF), wireless localization.
+
+I. INTRODUCTION
+NDOOR location sensing systems have become very popular in recent years. These systems provide a new layer of
+automation called automatic object location detection. Realworld applications depending on such automation are many. To
+name a few, one can consider the location detection of products
+stored in a warehouse, location detection of medical personnel
+or equipment in a hospital, location detection of firemen in a
+building on fire, detecting the location of police dogs trained to
+find explosives in a building, and finding tagged maintenance
+tools and equipment scattered all over a plant.
+The primary progress in indoor location sensing systems has
+been made during the last ten years. Therefore, both the research
+and commercial products in this area are new, and many people
+in academia and industry are currently involved in the research
+and development of these systems. This survey paper aims to
+provide the reader with a comprehensive review of the wireless
+location sensing systems for indoor applications. When possible, the paper compares the related techniques and systems. The
+authors hope that this paper will act as a guide for researchers,
+users, and developers of these systems, and help them identify the potential research problems and future products in this
+emerging area.
+
+I
+
+Manuscript received September 27, 2005; revised March 26, 2006. This
+work was supported in part by the National Institute of Standards and
+Technology/Advanced Technology Program Grant and in part by the Illinois
+Law Enforcement Alarm System under a Department of Homeland Security
+grant. This paper was recommended by Associate Editor P. Samz.
+H. Liu is with the Department of Electrical and Computer Engineering, University of Illinois at Chicago, Chicago, IL 60612 USA (e-mail: hliu13@uic.edu).
+H. Darabi and P. Banerjee are with the Department of Mechanical and Industrial Engineering, University of Illinois at Chicago, Chicago, IL 60607 USA
+(e-mail: hdarabi@uic.edu; banerjee@uic.edu).
+J. Liu is with General Motors, Warren, MI 48090 USA (e-mail: jing.liu@
+gm.com).
+Digital Object Identifier 10.1109/TSMCC.2007.905750
+
+An astonishing growth of wireless systems has been witnessed in recent years. Wireless technologies have entered the
+realms of consumer applications, as well as medical, industrial,
+public safety, logistics, and transport system along with many
+other applications. Self-organizing sensor networks, location
+sensitive billing, ubiquitous computing, context-dependent information services, tracking, and guiding are some of the numerous possible application areas. Since wireless information
+access is now widely available, there is a high demand for accurate positioning in wireless networks, including indoor and
+outdoor environments [1], [2]. The process of determining a location is called location sensing, geolocation, position location,
+or radiolocation, if it uses wireless technologies.
+Different applications may require different types of location information. The main types discussed in this paper are
+physical location, symbolic location, absolute location, and relative location [1]. Physical location is expressed in the form of
+coordinates, which identify a point on a 2-D/3-D map. The
+widely used coordinate systems are degree/minutes/seconds
+(DMS), degree decimal minutes, and universal transverse mercator (UTM) system. Symbolic location expresses a location in
+a natural-language way, such as in the office, in the third-floor
+bedroom, etc. Absolute location uses a shared reference grid for
+all located objects. A relative location depends on its own frame
+of reference. Relative location information is usually based on
+the proximity to known reference points or base stations.
+Various wireless technologies are used for wireless indoor
+location. These may be classified based on: 1) the location positioning algorithm, i.e., the method of determining location,
+making use of various types of measurement of the signal such
+as Time Of Flight (TOF), angle, and signal strength; 2) the
+physical layer or location sensor infrastructure, i.e., the wireless
+technology used to communicate with the mobile devices or
+static devices. In general, measurement involves the transmission and reception of signals between hardware components of
+the system. An indoor wireless positioning system consists of
+at least two separate hardware components: a signal transmitter
+and a measuring unit. The latter usually carries the major part
+of the system “intelligence.”
+There are four different system topologies for positioning systems [3]. The first one is the remote positioning system, whose
+signal transmitter is mobile and several fixed measuring units
+receive the transmitter’s signal. The results from all measuring
+units are collected, and the location of the transmitter is computed in a master station. The second is self-positioning in which
+the measuring unit is mobile. This unit receives the signals of
+several transmitters in known locations, and has the capability to
+compute its location based on the measured signals. If a wireless
+
+1094-6977/$25.00 © 2007 IEEE
+
+1068
+
+IEEE TRANSACTIONS ON SYSTEMS, MAN, AND CYBERNETICS—PART C: APPLICATIONS AND REVIEWS, VOL. 37, NO. 6, NOVEMBER 2007
+
+data link is provided in a positioning system, it is possible to
+send the measurement result from a self-positioning measuring
+unit to the remote side, and this is called indirect remote positioning, which is the third system topology. If the measurement
+result is sent from a remote positioning side to a mobile unit via
+a wireless data link, this case is named indirect self-positioning,
+which is the fourth system topology.
+Our paper is different from the previous survey papers [1]
+and [2] in several ways. Comparing with the previous survey
+paper [1], our paper focuses on indoor application of wireless
+location positioning while [1] just generally describes the location systems for ubiquitous computing, without addressing
+different types of location algorithms, especially for wireless
+location methods. Also, the paper [2] presents a slight out-ofdate overview of the technologies for wireless indoor location
+solutions, and does not offer much detail about them and performance benchmarking for indoor wireless positioning system.
+The publication date of this paper is 2002, and since then, several wireless indoor positioning systems or solutions have been
+developed. In this paper, we present the latest developed systems
+or solutions, and their location algorithms. Our main purpose is
+to provide a qualitative overview for them. When possible, we
+also offer a quantitive comparison of these systems or solutions.
+This review paper is organized as follows. Section II shows
+the measuring principles for location sensing and the positioning algorithms corresponding to different measuring principles.
+Performance metrics for indoor positioning techniques are explained in Section III. Section IV presents current wireless indoor positioning systems and solutions, and their performance
+comparison. Finally, Section V concludes the paper and gives
+possible future directions for research on wireless positioning
+systems for indoor environments.
+II. MEASURING PRINCIPLES AND POSITIONING ALGORITHMS
+It is not easy to model the radio propagation in the indoor
+environment because of severe multipath, low probability for
+availability of line-of-sight (LOS) path, and specific site parameters such as floor layout, moving objects, and numerous reflecting surfaces. There is no good model for indoor radio multipath
+characteristic so far [2]. Except using traditional triangulation,
+positioning algorithms using scene analysis or proximity are
+developed to mitigate the measurement errors. Targeting different applications or services, these three algorithms have unique
+advantages and disadvantages. Hence, using more than one type
+of positioning algorithms at the same time could get better
+performance.
+A. Triangulation
+Triangulation uses the geometric properties of triangles to
+estimate the target location. It has two derivations: lateration
+and angulation. Lateration estimates the position of an object
+by measuring its distances from multiple reference points. So, it
+is also called range measurement techniques. Instead of measuring the distance directly using received signal strengths (RSS),
+time of arrival (TOA) or time difference of arrival (TDOA) is
+usually measured, and the distance is derived by computing the
+
+Fig. 1.
+
+Positioning based on TOA/RTOF measurements.
+
+attenuation of the emitted signal strength or by multiplying the
+radio signal velocity and the travel time. Roundtrip time of flight
+(RTOF) or received signal phase method is also used for range
+estimation in some systems. Angulation locates an object by
+computing angles relative to multiple reference points. In this
+survey, we focus on the aforementioned measurements in the
+shorter range, low-antenna, and indoor environment.
+1) Lateration Techniques:
+a) TOA: The distance from the mobile target to the measuring unit is directly proportional to the propagation time. In
+order to enable 2-D positioning, TOA measurements must be
+made with respect to signals from at least three reference points,
+as shown in Fig. 1 [4]. For TOA-based systems, the one-way
+propagation time is measured, and the distance between measuring unit and signal transmitter is calculated. In general, direct
+TOA results in two problems. First, all transmitters and receivers
+in the system have to be precisely synchronized. Second, a timestamp must be labeled in the transmitting signal in order for the
+measuring unit to discern the distance the signal has traveled.
+TOA can be measured using different signaling techniques such
+as direct sequence spread-spectrum (DSSS) [22], [23] or ultrawide band (UWB) measurements [78].
+A straightforward approach uses a geometric method to compute the intersection points of the circles of TOA. The position
+of the target can also be computed by minimizing the sum of
+squares of a nonlinear cost function, i.e., least-squares algorithm [4], [5]. It assumes that the mobile terminal, located at
+(x0 , y0 ), transmits a signal at time t0 , the N base stations located at (x1 , y1 ), (x2 , y2 ), . . . ,(xN , yN ) receive the signal at time
+t1 , t2 , . . . , tN . As a performance measure, the cost function can
+be formed by
+F (x) =
+
+N
+
+
+αi2 fi2 (x)
+
+(1)
+
+i=1
+
+where αi can be chosen to reflect the reliability of the signal
+received at the measuring unit i, and fi (x) is given as follows.
+
+fi (x) = c(ti − t) − (xi − x)2 + (yi − y)2
+(2)
+where c is the speed of light, and x = (x, y, t)T . This function is
+formed for each measuring unit, i = 1, . . . , N, and fi (x) could
+be made zero with the proper choice of x, y, and t. The location
+estimate is determined by minimizing the function F (x).
+There are other algorithms for TOA-based indoor location
+system such as closest-neighbor (CN) and residual weighting
+(RWGH) [5]. The CN algorithm estimates the location of the
+
+LIU et al.: SURVEY OF WIRELESS INDOOR POSITIONING TECHNIQUES AND SYSTEMS
+
+1069
+
+Fig. 3. Positioning based on RSS, where LS 1 , LS 2 , and LS 3 denote the
+measured path loss.
+
+received signals over a time period T
+
+1 T
+R̂x i ,x j (τ ) =
+xi (t)xj (t − τ )dt.
+T 0
+Fig. 2.
+
+Positioning based on TDOA measurements.
+
+user as the location of the base station or reference point that
+is located closest to that user. The RWGH algorithm can be
+basically viewed as a form of weighted least-squares algorithm.
+It is suitable for LOS, non-LOS (NLOS) and mixed LOS/NLOS
+channel conditions.
+b) TDOA: The idea of TDOA is to determine the relative
+position of the mobile transmitter by examining the difference
+in time at which the signal arrives at multiple measuring units,
+rather than the absolute arrival time of TOA. For each TDOA
+measurement, the transmitter must lie on a hyperboloid with a
+constant range difference between the two measuring units. The
+equation of the hyperboloid is given by
+Ri,j =
+
+
+
+(xi − x)2 + (yi − y)2 + (zi − z)2
+
+− (xj − x)2 + (yj − y)2 + (zj − z)2
+
+(3)
+
+where (xi , yi , zi ) and (xj , yj , zj ) represent the fixed receivers
+i and j; and (x, y, z) represent the coordinate of the target [3].
+Except the exact solutions to the hyperbolic TDOA equation
+shown in (3) through nonlinear regression, an easier solution
+is to linearize the equations through the use of a Taylor-series
+expansion and create an iterative algorithm [6].
+A 2-D target location can be estimated from the two intersections of two or more TDOA measurements, as shown in Fig. 2.
+Two hyperbolas are formed from TDOA measurements at three
+fixed measuring units (A, B, and C) to provide an intersection
+point, which locates the target P.
+The conventional methods for computing TDOA estimates
+are to use correlation techniques. TDOA can be estimated from
+the cross correlation between the signals received at a pair of
+measuring units. Suppose that for the transmitted signal s(t), the
+received signal at measuring unit i is xi (t). Assume that xi (t)
+is corrupted by the noise ni (t) and delayed by di , then xi (t) =
+s(t − di ) + ni (t). Similarly, the signal xj (t) = s(t − dj )+
+nj (t), which arrives at measuring unit j, is delayed by dj and
+corrupted by the noise nj (t). The cross-correlation function
+of these signals is given by integrating the lag product of two
+
+(4)
+
+The TDOA estimate is the value τ that maximizes Rx i ,x j (τ ),
+i.e., the range differences. This approach requires that the measuring units share a precise time reference and reference signals, but does not impose any requirement on the mobile target. Frequency domain processing techniques are usually used
+to calculate τ . Except the previous TDOA methods, a delay
+measurement-based TDOA measuring method was proposed
+in [23] for 802. 11 wireless LANs, which eliminates the requirement of initial synchronization in the conventional methods.
+c) RSS-Based (or Signal Attenuation-Based) Method:
+The above two schemes have some drawbacks. For indoor environments, it is difficult to find a LOS channel between the
+transmitter and the receiver. Radio propagation in such environments would suffer from multipath effect. The time and angle of
+an arrival signal would be affected by the multipath effect; thus,
+the accuracy of estimated location could be decreased. An alternative approach is to estimate the distance of the mobile unit
+from some set of measuring units, using the attenuation of emitted signal strength. Signal attenuation-based methods attempt
+to calculate the signal path loss due to propagation. Theoretical and empirical models are used to translate the difference
+between the transmitted signal strength and the received signal
+strength into a range estimate, as shown in Fig. 3.
+Due to severe multipath fading and shadowing present in
+the indoor environment, path-loss models do not always hold.
+The parameters employed in these models are site-specific. The
+accuracy of this method can be improved by utilizing the premeasured RSS contours centered at the receiver [7] or multiple
+measurements at several base stations. A fuzzy logic algorithm
+shown in [8] is able to significantly improve the location accuracy using RSS measurement.
+d) RTOF: This method is to measure the time-of-flight of
+the signal traveling from the transmitter to the measuring unit
+and back, called the RTOF (see Fig. 1). For RTOF, a more moderate relative clock synchronization requirement replaces the
+above synchronization requirement in TOA. Its range measurement mechanism is the same as that of the TOA. The measuring
+unit is considered as a common radar. A target transponder
+responds to the interrogating radar signal, and the complete
+roundtrip propagation time is measured by the measuring units.
+However, it is still difficult for the measuring unit to know the
+exact delay/processing time caused by the responder in this
+case. In long-range or medium-range systems, this delay could
+
+1070
+
+IEEE TRANSACTIONS ON SYSTEMS, MAN, AND CYBERNETICS—PART C: APPLICATIONS AND REVIEWS, VOL. 37, NO. 6, NOVEMBER 2007
+
+Fig. 4.
+
+Positioning based on signal phase.
+
+Fig. 5.
+
+Positioning based on AOA measurement.
+
+be ignored if it is small, compared with the transmission time.
+However, for short-range systems, it cannot be ignored. An alternative approach is to use the concept of modulated reflection [9],
+which is only suited for short-range systems. An algorithm to
+measure RTOF of wireless LAN packets is presented in [10]
+with the result of a measurement error of a few meters. The
+positioning algorithms for TOA can be directly applicable for
+RTOF.
+e) Received Signal Phase Method: The received signal
+phase method uses the carrier phase (or phase difference) to
+estimate the range. This method is also called phase of arrival
+(POA) [2]. Assuming that all transmitting stations emit pure
+sinusoidal signals that are of the same frequency f , with zero
+phase offset, in order to determine the phases of signals received at a target point, the signal transmitted from each transmitter to the receiver needs a finite transit delay. In Fig. 4, the
+transmitter stations A up to D are placed at particular locations
+within an imaginary cubic building. The delay is expressed as
+a fraction of the signal’s wavelength, and is denoted with the
+symbol φi = (2πf Di )/c in equation Si (t) = sin(2πf t + φi ),
+where i ∈ (A, B, C, D), and c is the speed of light. As long
+as the transmitted signal’s wavelength is longer than the diagonal of the cubic building, i.e., 0 < φi < 2π, we can get the
+range estimation Di = (cφi )/(2πf ). Then, we can use the same
+positioning algorithms using TOA measurement. The receiver
+may measure phase differences between two signals transmitted by pairs of stations, and positioning systems are able to
+adopt the algorithms using TDOA measurement to locate the
+target.
+For an indoor positioning system, it is possible to use
+the signal phase method together with TOA/TDOA or RSS
+method to fine-tune the location positioning. However, the received signal phase method has one problem of ambiguous carrier phase measurements to overcome. It needs an LOS signal path, otherwise it will cause more errors for the indoor
+environment.
+
+2) Angulation Techniques (AOA Estimation): In AOA, the
+location of the desired target can be found by the intersection of
+several pairs of angle direction lines, each formed by the circular
+radius from a base station or a beacon station to the mobile target.
+As shown in Fig. 5, AOA methods may use at least two known
+reference points (A, B), and two measured angles θ1 , θ2 to derive
+the 2-D location of the target P . Estimation of AOA, commonly
+referred to as direction finding (DF), can be accomplished either
+with directional antennae or with an array of antennae.
+The advantages of AOA are that a position estimate may be
+determined with as few as three measuring units for 3-D positioning or two measuring units for 2-D positioning, and that
+no time synchronization between measuring units is required.
+The disadvantages include relatively large and complex hardware requirement(s), and location estimate degradation as the
+mobile target moves farther from the measuring units. For accurate positioning, the angle measurements need to be accurate,
+but the high accuracy measurements in wireless networks may
+be limited by shadowing, by multipath reflections arriving from
+misleading directions, or by the directivity of the measuring
+aperture. Some literatures also call AOA as direction of arrival
+(DOA). For more detailed discussions on AOA estimation algorithms and their properties, see [11]–[13].
+B. Scene Analysis
+RF-based scene analysis refers to the type of algorithms that
+first collect features (fingerprints) of a scene and then estimate
+the location of an object by matching online measurements with
+the closest a priori location fingerprints. RSS-based location
+fingerprinting is commonly used in scene analysis.
+Location fingerprinting refers to techniques that match the
+fingerprint of some characteristic of a signal that is location
+dependent. There are two stages for location fingerprinting:
+offline stage and online stage (or run-time stage). During the
+offline stage, a site survey is performed in an environment. The
+location coordinates/labels and respective signal strengths from
+nearby base stations/measuring units are collected. During the
+online stage, a location positioning technique uses the currently
+observed signal strengths and previously collected information
+to figure out an estimated location. The main challenge to the
+techniques based on location fingerprinting is that the received
+signal strength could be affected by diffraction, reflection, and
+scattering in the propagation indoor environments.
+There are at least five location fingerprinting-based positioning algorithms using pattern recognition technique so far: probabilistic methods, k-nearest-neighbor (kNN), neural networks,
+support vector machine (SVM), and smallest M-vertex polygon
+(SMP).
+1) Probabilistic Methods: One method considers positioning as a classification problem. Assuming that there are n location candidates L1 , L2 , L3 , . . . , Ln , and s is the observed signal
+strength vector during the online stage, the following decision
+rule can be obtained:
+Choose Li if P (Li |s) > P (Lj |s),
+for i, j = 1, 2, 3, . . . , n,
+
+j = i.
+
+LIU et al.: SURVEY OF WIRELESS INDOOR POSITIONING TECHNIQUES AND SYSTEMS
+
+Here, P (Li |s) denotes the probability that the mobile node
+is in location Li , given that the received signal vector is s. Also
+assume that P (Li ) is the probability that the mobile node is
+in location Li . The given decision rule is based on posteriori
+probability. Using Bayes’ formula, and assuming that P (Li ) =
+P (Lj ) for i, j = 1, 2, 3, . . . , n we have the following decision
+rule based on the likelihood that (P (s|Li ) is the probability that
+the signal vector s is received, given that the mobile node is
+located in location Li )
+Choose Li if P (s|Li ) > P (s|Lj),
+for i, j = 1, 2, 3, . . . , n,
+
+j = i.
+
+In addition to the histogram approach, kernel approach is
+used in calculating likelihood. Assuming that the likelihood of
+each location candidate is a Gaussian distribution, the mean and
+standard deviation of each location candidate can be calculated.
+If the measuring units in the environment are independent, we
+can calculate the overall likelihood of one location candidate
+by directly multiplying the likelihoods of all measuring units.
+Therefore, the likelihood of each location candidate can be calculated from observed signal strengths during the online stage,
+and the estimated location is to be decided by the previous decision rule. However, this is applicable only for discrete location
+candidates. Mobile units could be located at any position, not
+just at the discrete points. The estimated 2-D location (x̂, ŷ)
+given by (5) may interpolate the position coordinates and give
+more accurate results. It is a weighted average of the coordinates
+of all sampling locations
+(x̂, ŷ) =
+
+n
+
+
+(P(Li |s)(xL i , yL i )) .
+
+(5)
+
+i=1
+
+Other probabilistic modeling techniques for location-aware
+and location-sensitive applications in wireless networks may
+involve pragmatically important issues like calibration, active learning, error estimation, and tracking with history. So
+Bayesian-network-based and/or tracking-assisted positioning
+has been proposed [48].
+2) kNN: The kNN averaging uses the online RSS to search
+for k closest matches of known locations in signal space from
+the previously-built database according to root mean square
+errors principle. By averaging these k location candidates with
+or without adopting the distances in signal space as weights, an
+estimated location is obtained via weighted kNN or unweighted
+kNN. In this approach, k is the parameter adapted for better
+performance.
+3) Neural Networks: During the offline stage, RSS and the
+corresponding location coordinates are adopted as the inputs
+and the targets for the training purpose. After training of neural
+networks, appropriate weights are obtained. Usually, a multilayer perceptron (MLP) network with one hidden layer is used
+for neural-networks-based positioning system. The input vector
+of signal strengths is multiplied by the trained input weight matrix, and then added with input layer bias if bias is chosen. The
+result is put into the transfer function of the hidden layer neuron.
+The output of this transfer function is multiplied by the trained
+hidden layer weight matrix, and then added to the hidden layer
+
+1071
+
+bias if it is chosen. The output of the system is a two-element
+vector or a three-elements vector, which means the 2-D or 3-D
+of the estimated location.
+4) SVM: SVM is a new and promising technique for data
+classification and regression. It is a tool for statistical analysis
+and machine learning, and it performs very well in many classification and regression applications. SVMs have been used extensively for a wide range of applications in science, medicine, and
+engineering with excellent empirical performance [15], [16].
+The theory of SVM is found in [17] and [18]. Support vector classification (SVC) of multiple classes and support vector
+regression (SVR) have been used successfully in location fingerprinting [19], [20].
+5) SMP: SMP uses the online RSS values to search for candidate locations in signal space with respect to each signal transmitter separately. M-vertex polygons are formed by choosing at
+least one candidate from each transmitter (suppose total of M
+transmitters). Averaging the coordinates of vertices of the smallest polygon (which has the shortest perimeter) gives the location
+estimate. SMP has been used in MultiLoc [74].
+C. Proximity
+Proximity algorithms provide symbolic relative location information. Usually, it relies upon a dense grid of antennas, each
+having a well-known position. When a mobile target is detected by a single antenna, it is considered to be collocated with
+it. When more than one antenna detects the mobile target, it
+is considered to be collocated with the one that receives the
+strongest signal. This method is relatively simple to implement.
+It can be implemented over different types of physical media.
+In particular, the systems using infrared radiation (IR) and radio
+frequency identification (RFID) are often based on this method.
+Another example is the cell identification (Cell-ID) or cell of
+origin (COO) method. This method relies on the fact that mobile cellular networks can identify the approximate position of
+a mobile handset by knowing which cell site the device is using
+at a given time. The main benefit of Cell-ID is that it is already
+in use today and can be supported by all mobile handsets.
+III. PERFORMANCE METRICS
+It is not enough to measure the performance of a positioning
+technique only by observing its accuracy. Referring to [21] and
+considering the difference between the indoor and outdoor wireless geolocation, we provide the following performance benchmarking for indoor wireless location system: accuracy, precision, complexity, scalability, robustness, and cost. Thereafter,
+we make a comparison among different systems and solutions
+in Section IV.
+A. Accuracy
+Accuracy (or location error) is the most important requirement of positioning systems. Usually, mean distance error
+is adopted as the performance metric, which is the average
+Euclidean distance between the estimated location and the true
+location. Accuracy can be considered to be a potential bias, or
+
+1072
+
+IEEE TRANSACTIONS ON SYSTEMS, MAN, AND CYBERNETICS—PART C: APPLICATIONS AND REVIEWS, VOL. 37, NO. 6, NOVEMBER 2007
+
+systematic effect/offset of a positioning system. The higher the
+accuracy, the better the system; however, there is often a tradeoff
+between accuracy and other characteristics. Some compromise
+between “suitable” accuracy and other characteristics is needed.
+B. Precision
+Accuracy only considers the value of mean distance errors.
+However, location precision considers how consistently the system works, i.e., it is a measure of the robustness of the positioning technique as it reveals the variation in its performance
+over many trials. We also notice that some literatures define the
+location precision as the standard deviation in the location error
+or the geometric dilution of precision (GDOP), but we prefer
+it as the distribution of distance error between the estimated
+location and the true location.
+Usually, the cumulative probability functions (CDF) of the
+distance error is used for measuring the precision of a system.
+When two positioning techniques are compared, if their accuracies are the same, we prefer the system with the CDF graph,
+which reaches high probability values faster, because its distance error is concentrated in small values. In practice, CDF is
+described by the percentile format. For example, one system has
+a location precision of 90% within 2.3 m (the CDF of distance
+error of 2.3 m is 0.9), and 95% within 3.5 m; another one has a
+precision of 50% within 2.3 m and 95% within 3.3 m. We could
+choose the former system because of its higher precision.
+C. Complexity
+Complexity of a positioning system can be attributed to hardware, software, and operation factors. In this paper, we emphasize on software complexity, i.e., computing complexity of
+the positioning algorithm. If the computation of the positioning
+algorithm is performed on a centralized server side, the positioning could be calculated quickly due to the powerful processing
+capability and the sufficient power supply. If it is carried out on
+the mobile unit side, the effects of complexity could be evident.
+Most of the mobile units lack strong processing power and long
+battery life; so, we would prefer positioning algorithms with
+low complexity. Usually, it is difficult to derive the analytic
+complexity formula of different positioning techniques; thus,
+the computing time is considered. Location rate is an important
+indicator for complexity. The dual of location rate is location
+lag, which is the delay between a mobile target moving to a
+new location and reporting the new location of that target by the
+system.
+D. Robustness
+A positioning technique with high robustness could function
+normally even when some signals are not available, or when
+some of the RSS value or angle character are never seen before.
+Sometimes, the signal from a transmitter unit is totally blocked,
+so the signal cannot be obtained from some measuring units.
+The only information to estimate the location is the signal from
+other measuring units. Sometimes, some measuring units could
+be out of function or damaged in a harsh environment. The
+
+positioning techniques have to use this incomplete information
+to compute the location.
+E. Scalability
+The scalability character of a system ensures the normal positioning function when the positioning scope gets large. Usually, the positioning performance degrades when the distance
+between the transmitter and receiver increases. A location system may need to scale on two axes: geography and density.
+Geographic scale means that the area or volume is covered.
+Density means the number of units located per unit geographic
+area/space per time period. As more area/space is covered or
+units are crowded in an area/space, wireless signal channels
+may become congested, more calculation may be needed to
+perform location positioning, or more communication infrastructure may be required. Another measure of scalability is the
+dimensional space of the system. The current system can locate
+the objects in 2-D or 3-D space. Some systems can support both
+2-D and 3-D spaces.
+F. Cost
+The cost of a positioning system may depend on many factors.
+Important factors include money, time, space, weight, and energy. The time factor is related to installation and maintenance.
+Mobile units may have tight space and weight constraints. Measuring unit density is considered to be a space cost. Sometimes,
+we have to consider some sunk costs. For example, a positioning system layered over a wireless network may be considered
+to have no hardware cost if all the necessary units of that network have already been purchased for other purposes. Energy
+is an important cost factor of a system. Some mobile units (e.g.,
+electronic article surveillance (EAS) tags and passive RFID
+tags, which are addressed later) are completely energy passive.
+These units only respond to external fields and, thus, could have
+an unlimited lifetime. Other mobile units (e.g., devices with
+rechargeable battery) have a lifetime of several hours without
+recharging.
+IV. SURVEY OF SYSTEMS AND SOLUTIONS
+Having identified the common measuring principles, the positioning algorithms and the important performance metrics of
+location positioning systems, we are able to discuss specific systems. There are two basic approaches to designing a wireless
+geolocation system. The first approach is to develop a signaling system and a network infrastructure of location measuring
+units focused primarily on wireless location application. The
+second approach is to use an existing wireless network infrastructure to locate a target. The advantage of the first approach
+is that the designers are able to control physical specification
+and, consequently, the quality of the location sensing results.
+The tag with the target can be designed as a very small wearable
+tag or sticker, and the density of the sensor can be adjusted to
+the required positioning accuracy. The advantage of the second
+approach is that it avoids expensive and time-consuming deployment of infrastructure. These systems, however, may need
+
+LIU et al.: SURVEY OF WIRELESS INDOOR POSITIONING TECHNIQUES AND SYSTEMS
+
+1073
+
+tracking sensitivity beyond −158 dBm4 . Its performance is not
+reported so far.
+Locata Corporation has invented a new positioning technology called Locata [26], for precision positioning both indoors and outside. Part of the “Locata technology” consists of a
+time-synchronized pseudolite transceiver called a LocataLite. A
+network of LocataLites forms a LocataNet, which transmits
+GPS-like signals that allow single-point positioning using
+carrier-phase measurements for a mobile device (a Locata). The
+Satellite Navigation And Positioning (SNAP) Group at the University of New South Wales has assisted in the development of a
+Locata and testing of the new technology. The test experiments
+demonstrate proof-of-concept for the “Locata technology,” and
+show that carrier-phase point positioning (without radio modem
+data links) is possible with subcentimeter precision [26].
+Fig. 6.
+
+Outline of current wireless-based positioning systems.
+
+B. RFID
+to use more intelligent algorithms to compensate for the low
+accuracy of the measured metrics. Several types of wireless
+technologies are used for indoor location. Fig. 6 depicts a rough
+outline of the current wireless-based positioning systems, which
+is a modified version of [24, Fig. 2]. It is beyond the scope of this
+paper to provide a complete overview of systems available till
+now. We focus on the wireless positioning systems primarily for
+indoor situations. There are some classification approaches to
+surveying the indoor positioning system, such as application environments (such as 2-D/3-D positioning in office, warehouse,
+etc.), positioning algorithms, and wireless technologies. In this
+paper, we adopt the wireless technologies scheme, also addressing their positioning algorithms and their application situation.
+A. GPS-Based
+Global positioning system (GPS), or its differential complement DGPS [25], is one of the most successful positioning
+systems in outdoor environments. However, poor coverage of
+satellite signal for indoor environments decreases its accuracy
+and makes it unsuitable for indoor location estimation.
+SnapTrack,1 a Qualcomm Company, pioneered wireless assisted GPS (A-GPS) to overcome the limitations of conventional
+GPS, and provide GPS indoors technique with an average of
+5–50 m accuracy in most indoor environments. A-GPS technology uses a location server with a reference GPS receiver that can
+simultaneously detect the same satellites as the wireless handset
+(or mobile station) with a partial GPS receiver, to help the partial GPS receiver find weak GPS signals. The wireless handset
+collects measurements from both the GPS constellation and the
+wireless mobile network. These measurements are combined by
+the location server to produce a position estimation.
+Recently, Atmel2 and U-blox3 announced the availability of a
+new GPS weak signal tracking technology, called SuperSense.
+With this new GPS software, GPS navigation becomes possible
+in building interiors and deep urban canyons because of its
+
+RFID is a means of storing and retrieving data through electromagnetic transmission to an RF compatible integrated circuit
+and is now being seen as a means of enhancing data handling
+processes [27]. An RFID system has several basic components,
+including a number of RFID readers, RFID tags, and the communication between them. The RFID reader is able to read the
+data emitted from RFID tags. RFID readers and tags use a defined RF and protocol to transmit and receive data. RFID tags
+are categorized as either passive or active.
+Passive RFID tags operate without a battery. They are mainly
+used to replace the traditional barcode technology and are much
+lighter, smaller in volume, and less expensive than active tags.
+They reflect the RF signal transmitted to them from a reader and
+add information by modulating the reflected signal. However,
+their ranges are very limited. The typical reading range is 1–2 m,
+and the cost of the readers is relatively high. Passive RFID systems usually make use of four frequency bands: LF (125 kHz),
+HF (13.56 MHz), UHF (433, 868–915 MHz), and microwave
+frequency (2.45 GHz, 5.8 GHz).20 Bewator5 is a known passive
+RFID manufacturer.
+Active RFID tags are small transceivers, which can actively
+transmit their ID (or other additional data) in reply to an interrogation. Frequency ranges used are similar to the passive RFID
+case except the low-frequency and high-frequency ranges. The
+advantages of active RFID are with the smaller antennae and in
+the much longer range (can be tens of meters). Active tags are
+ideally suited for the identification of high-unit-value products
+moving through a harsh assembly process. WaveTrend Technologies6 is one of the famous Active RFID manufacturers. A
+well-known location sensing system using the RFID technology is SpotON [28]. SpotON uses an aggregation algorithm for
+3-D location sensing based on radio signal strength analysis.
+SpotON researchers designed and built hardware that serves
+as object location tags. In the SpotON approach, objects are
+located by homogenous sensor nodes without central control,
+i.e., Ad Hoc manner. SpotON tags use received RSS value as
+
+1 SnapTrack.
+
+4 Atmel/U-blox.
+
+2 Atmel
+
+5 Bewator
+
+http://www.snaptrack. com/
+Corporation. http://www.atmel. com/
+3 U-blox AG. http://www.u-blox. com
+
+http://www.automotivedesignline.com/products/164901239
+Ltd. http://www.bewator.com/uk/
+6 WaveTrend Technologies Ltd. http://www.wavetrend. co.za/
+
+1074
+
+IEEE TRANSACTIONS ON SYSTEMS, MAN, AND CYBERNETICS—PART C: APPLICATIONS AND REVIEWS, VOL. 37, NO. 6, NOVEMBER 2007
+
+a sensor measurement for estimating inter-tag distance. They
+exploit the density of tags and correlation of multiple measurements to improve both accuracy and precision. Another system
+is called LANDMARC (indoor location sensing using active
+RFID) [29]. Its prototype uses the RFID reader’s operating frequency with 308 MHz. In order to increase accuracy without
+placing more readers, the system employs the idea of having
+extra fixed location reference tags to help location calibration.
+These reference tags serve as reference points in the system.
+The LANDMARC approach requires signal strength information from each tag to readers. The kNN method is adopted to
+calculate the location of the RFID tags. It is reported that the 50
+percentile has an error distance of around 1 m while the maximum error distances are less than 2 m for LANDMARC system.
+C. Cellular-Based
+A number of systems have used global system of mobile/code
+division multiple access (GSM/CDMA) mobile cellular network
+to estimate the location of outdoor mobile clients. However, the
+accuracy of the method using cell-ID or enhanced observed time
+difference (E-OTD) is generally low (in the range of 50–200 m),
+depending on the cell size. Generally speaking, the accuracy is
+higher in densely covered areas (e.g, urban places) and much
+lower in rural environments [30].
+Indoor positioning based on mobile cellular network is possible if the building is covered by several base stations or one
+base station with strong RSS received by indoor mobile clients.
+Otsasen et al. presented a GSM-based indoor localization system in [31]. Their key idea that makes accurate GSM-based indoor localization possible is the use of wide signal-strength fingerprints. The wide fingerprint includes the six strongest GSM
+cells and readings of up to 29 additional GSM channels, most of
+which are strong enough to be detected but too weak to be used
+for efficient communication. The higher dimensionality introduced by the additional channel dramatically increases localization accuracy. They present results for experiments conducted
+on signal-strength fingerprints collected from three multifloor
+buildings using weighted kNN technique. The results show that
+their indoor localization system can differentiate between floors
+and achieve median within-floor accuracy as low as 2.5 m. The
+same method could be applied in IS-95 CDMA and 3G mobile
+network.
+D. UWB
+UWB is based on sending ultrashort pulses (typically
+<1 ns), with a low duty cycle (typically 1 : 1000). On the spectral domain, the system, thus, uses an UWB (even >500 MHz
+wide). UWB location has the following advantages [32]. Unlike conventional RFID systems, which operate on single bands
+of the radio spectrum, UWB transmits a signal over multiple
+bands of frequencies simultaneously, from 3.1 to 10.6 GHz.
+UWB signals are also transmitted for a much shorter duration
+than those used in conventional RFID. UWB tags consume less
+power than conventional RF tags and can operate across a broad
+area of the radio spectrum. UWB can be used in close proximity to other RF signals without causing or suffering from
+
+interference because of the differences in signal types and radio
+spectrum used. UWB short duration pulses are easy to filter in
+order to determine which signals are correct and which are generated from multipath. At the same time, the signal passes easily
+through walls, equipment and clothing. However metallic and
+liquid materials cause UWB signal interference. Use of more
+UWB readers and strategic placement of UWB readers could
+overcome this disadvantage. Short-pulse waveforms permit an
+accurate determination of the precise TOA and, namely, the precise TOF of a burst transmission from a short-pulse transmitter
+to a corresponding receiver [33], [32]. UWB location exploits
+the characteristics of time synchronization of UWB communication to achieve very high indoor location accuracy (20 cm).
+So it is suitable for high-precision real-time 2-D and 3-D location. 3-D location positioning can be performed by using two
+different measuring means: TDOA, which is measuring the time
+difference between a UWB pulse arriving at multiple sensors,
+and AOA. The advantage of using both means in conjunction
+is that a location can be determined from just two sensors decreasing the required sensor density over systems that just use
+TDOA. More UWB knowledge and products are given in7 and
+their related references.
+To date, several UWB precision localization systems have
+been fielded [34].8 , 9 , 10 The Ubisense system8 is a unidirectional
+UWB location platform with a conventional bidirectional time
+division multiple access (TDMA) control channel. The tags
+transmit UWB signals to networked receivers and are located
+using AOA and TDOA. Ubisense works by creating sensor cells.
+Each cell requires at least four sensors or readers. Throughout
+buildings or collections of buildings, an unlimited number of
+readers can be networked together in a manner similar to cellular
+phone networks. The readers receive data from the tags, from
+as far as 150 ft, and send it through the Ubisense Smart Space
+software platform.
+Microwave frequency, covered by the UWB frequency band,
+is used in Siemens local position radar (LPR) [24]. Siemens LPR
+is an RTOF system, in which the RTOF between a transponder
+unit and measuring units/base stations is measured via the frequency modulated continuous wave (FMCW) radar principle. It
+was launched for industrial applications like crane and forklift
+positioning. It is applicable only for LOS environment.
+E. WLAN (IEEE 802.11)
+This midrange wireless local area network (WLAN) standard, operating in the 2.4-GHz Industrial, Scientific and Medical (ISM) band, has become very popular in public hotspots
+and enterprise locations during the last few years. With a typical
+gross bit rate of 11, 54, or 108 Mbps and a range of 50–100 m,
+IEEE 802.11 is currently the dominant local wireless networking standard. It is, therefore, appealing to use an existing WLAN
+infrastructure for indoor location as well, by adding a location
+7 Intel Corporation. http://www.intel.com/technology/comms/uwb/. And
+Ultrawideband planet: http://www.ultrawidebandplanet.com
+8 UbiSense Company. http://www.ubisense.net
+9 Aether Wire & Location, Inc. http://www.aetherwire.com
+10 Time Domain Company. http://www.timedomain.com
+
+LIU et al.: SURVEY OF WIRELESS INDOOR POSITIONING TECHNIQUES AND SYSTEMS
+
+server. The accuracy of typical WLAN positioning systems using RSS is approximatly 3 to 30 m, with an update rate in the
+range of few seconds.
+Bahl et al. [35] proposed an in-building user location and
+tracking system—RADAR, which adopts the nearest neighbor(s) in signal-space technique, which is the same as the kNN.
+The authors proposed two kinds of approaches to determine
+the user location. The first one depends on the empirical measurement of access point signal strength in offline phase. By
+these experiments, it is reported that user orientations, number
+of nearest neighbors used, number of data points, and number of samples in real-time phase would affect the accuracy of
+location determination. The second one is signal propagation
+modeling. Wall attenuation factor (WAF) and floor attenuation
+factor (FAF) propagation model is used, instead of Rayleigh
+fading model and Rician distribution model, which are used in
+outdoor situation. WAF takes into consideration the number of
+walls (obstructions). The accuracy of RADAR system is about
+2–3 m. In their following work [36], RADAR was enhanced by
+a Viterbi-like algorithm. Its result is that the 50 percentile of the
+RADAR system is around 2.37–2.65 m and its 90 percentile is
+around 5.93–5.97 m.
+Horus system [37], [38] offered a joint clustering technique
+for location estimation, which uses the probabilistic method
+described previously. Each candidate location coordinate is regarded as a class or category. In order to minimize the distance
+error, location Li is chosen while its likelihood is the highest.
+The experiment results show that this technique can acquire
+an accuracy of more than 90% to within 2.1 m. Increasing the
+number of samples at each sampling location could improve
+its accuracy because increasing the number of samples would
+improve the estimation for means and standard deviations of
+Gaussian distribution. Roos et al. [39] developed a grid-based
+Bayesian location-sensing system over a small region of their
+office building, achieving localization and tracking to within
+1.5 m over 50% of the time. Nibble [40], one of the first systems of this generation, used a probabilistic approach (based on
+Bayesian network) to estimate a device’s location.
+In [41], Battiti et al. proposed a location determination
+method by using neural-network-based classifier. They adopted
+multilayer perceptron (MLP) architecture and one-step secant
+(OSS) training method. They chose the three-layer architecture
+with three input units, eight hidden layer units, and two outputs, since this architecture could acquire the lowest training
+and testing error, and it is less sensitive to the “overfitting” effect. They reported that only five samples of signal strengths
+in different locations are sufficient to get an average distance
+error of 3 m. Increasing the number of training examples helps
+decrease the average distance error to 1.5 m. The authors in [42]
+compared the neural-networks-based classifier with the nearest neighbor classifier and probabilistic method. It is reported
+in [42] that neural networks give an error of 1 m with 72%
+probability.
+Wireless location-sensing is actually a specialized case of
+a well-studied problem in mobile robotics, that of robot
+localization—determining the position of a mobile robot given
+inputs from the robot’s various sensors (possibly including GPS,
+
+1075
+
+sonar, vision, and ultrasound sensors). Robot-based or trackingassisting wireless localization has been studied by many researchers [43]. Ladd et al. [44], [45] propose a grid-based
+Bayesian robot localization algorithm that uses the IEEE 802.11
+infrastructure. In the first step of the algorithm, a host uses a
+probabilistic model to compute the likelihood of its location for
+a number of different locations, based on the RSS from nine
+APs. The second step exploits the limited maximum speed of
+mobile users to refine the results (of the first step) and reject
+solutions with significant change in the location of the mobile host. Depending on whether the second step is used or
+not, 83% and 77% of the time, hosts can predict their location within 1.5 m. Haeberlen et al. [46] presented a practical
+robust Bayesian method for topological localization over the
+entirety of an 802.11 network deployed within a multistorey
+office building. They have shown that the use of a topological model can dramatically reduce the time required to train
+the localizer, while the resulting accuracy is still sufficient for
+many location-aware applications. Siddiqi et al. [47] used Monte
+Carlo localization technique, and obtained similar result to that
+of [44]. Kontkanen et al. also introduced a tracking-assistant
+positioning system [48]. This system was used to develop the
+Ekahau system,11 a commercial wireless location-sensing system that combines Bayesian networks, stochastic complexity
+and online competitive learning, to provide positioning information through a central location server. In [49], Xiang et al.
+proposed a model-based signal propagation distribution training
+scheme and a tracking-assistant positioning algorithm in which
+a state machine is used to adaptively transfer between tracking
+and nontracking status to achieve more accuracy. This system
+is reported to achieve 2 m accuracy with 90% probability for
+static position determination. For a walking mobile device, 5 m
+accuracy with 90% probability is achieved.
+While most systems based on WLAN are using signal
+strength, AeroScout (formerly BlueSoft) [50] uses 802.11-based
+TDOA location solution. It requires the same radio signal to be
+received at three or more separate points, timed very accurately
+(to a few nanoseconds) and processed using the TDOA algorithm to determine the location.
+There are several other location systems using WLAN [7],
+[51]–[54]. For space limitations, we do not discuss their details
+here.
+F. Bluetooth (IEEE 802.15)
+Bluetooth operates in the 2.4-GHz ISM band. Compared
+to WLAN, the gross bit rate is lower (1 Mbps), and the range
+is shorter (typically 10–15 m). On the other hand, Bluetooth
+is a “lighter” standard, highly ubiquitous (embedded in most
+phones, personal digital assistants (PDAs), etc.) and supports
+several other networking services in addition to IP. Bluetooth
+tags are small size transceivers. As any other Bluetooth device,
+each tag has a unique ID. This ID can be used for locating the
+Bluetooth tag. [74]. The BlueTags tag is a typical Bluetooth
+tag.12
+11 Ekahau,
+12 Bluelon
+
+Inc. Ekahau Positioning Engine 2.0. http://www.ekahau.com/
+Company. www.bluetags. com
+
+1076
+
+IEEE TRANSACTIONS ON SYSTEMS, MAN, AND CYBERNETICS—PART C: APPLICATIONS AND REVIEWS, VOL. 37, NO. 6, NOVEMBER 2007
+
+The Topaz local positioning solution13 is based on Tadlys’
+Bluetooth infrastructure and accessory products. This modular positioning solution is made up of three types of elements:
+positioning server(s), wireless access points, and wireless tags.
+The system’s performance makes it suitable for tracking humans and assets. This system provides roomwise accuracy (or,
+alternatively, 2-m spatial accuracy), with 95% reliability. The
+positioning delay is 15–30 s. The performance is further enhanced in their new generation Topaz system that integrates
+infrared and other transducers, with the Bluetooth positioning
+and communication capabilities.
+Antti et al. present the design and implementation of a Bluetooth Local Positioning Application (BLPA) [55]. First, they
+convert the received signal power levels to distance estimates
+according to a simple propagation model, and then, they use the
+extended kalman filter (EKF) to compute 3-D position estimate
+on the basis of distance estimates. The accuracy of BLPA is reported to be 3.76 m. A similar work has been done by Hallberg
+et al. [56].
+G. Others
+1) Proprietary Solutions Using Ultra High Frequency
+(UHF): The UHF location systems operate, typically either at
+the 433-MHz band (medical telemetry) or at the 868-MHz and
+2.4-GHz ISM band. At such frequency ranges, walls have a
+moderate attenuation.
+Some proprietary solutions such as the 3-D-ID system from
+PinPoint [57] or the TDOA system from WhereNet14 have similar performance as the WLAN systems mentioned later. However, the specially designed hardware and a protocol with longer
+power down periods allows for minimal power consumption in
+the mobile. For example, WhereNet, a real-time locating system (RTLS), uses the same 2.4 GHz band as the IEEE 802.11
+and Bluetooth systems, but it uses a dedicated standard protocol (ANSI 371.1) optimized for low-power spread-spectrum
+location. It works by timing the signals transmitted from tags
+to a network of receivers. 3D-ID is a commercial location system produced by PinPoint. Pinpoint uses RTOF to do ranging. It
+uses an installed array of antennas at known positions to perform
+multilateration. When a mobile tag receives a broadcast, the tag
+immediately rebroadcasts it on a different frequency, modulated
+with the tag’s identifier. A cell controller cycles through the antennas, collecting a set of ranges to the tag. Using a 40 MHz
+signal, this system achieves a 30-m range, 1-m precision, and
+5-s location update rate.
+Commercial indoor positioning systems using mesh network
+techniques such as MeshNetwork positioning system (MPS)15
+are also worth to mention. The MPS technology leverages the
+patented position location and determination methods built into
+MeshNetwork Quadrature Division Multiple Access (QDMA)
+radio technology, which uses direct sequence spread spectrum
+(DSSS) and operates in the ISM 2.4-GHz bands. It is reported
+
+that MPS position location information, accurate to within 10 m,
+is generated in less than 1 s at mobility speeds of up to 200 mi/h.
+2) Positioning Using Multiple Media: Designing a location
+system for a single environment presents difficulties when the
+system is applied to other environments. To successfully bridge
+the differences among different types of sensors and overcome
+the limitations of a single type of positioning sensor, hybrid
+systems attempt to compensate for the shortcomings of a single
+technology by using multiple sensor types. HP Labs SmartLOCUS [58] uses synchronized RF and ultrasound differential
+time-of-flight measurements to determine the internodal range
+between any two nodes. HP Labs researchers developed several techniques to create relative coordinate geometries with
+little user intervention. To create an absolute frame of reference
+and tie internodal topology to building geometry, a minimum
+of three or four nodes (for 2-D or 3-D localizations) must be
+preassigned to suitable fixed locations. All the remaining nodes
+are free to move, and locations are continuously updated and
+known to the rest of the system. The well-known cricket indoor
+location system also uses RF and ultrasound media [59].
+Infrared Radiation (IR) wireless is the use of wireless technology in devices or systems that convey data through infrared
+radiation. IR is used in wireless personal area network (WPAN)
+since it is a short-range narrow-transmission-angle beam suitable for aiming and selective reception of signals. Most of the
+Infrared Data Association (IrDA) wireless system is based on
+the LOS mode. Considering the high room accuracy of the IR
+location [60], and the high availability of the UHF location, it
+makes sense to combine the two methods into a hybrid location
+system. Several other companies like Radianse16 and Versus17
+use a combination of RF and IR signals to perform location positioning. Their tags emit IR and RF signals containing a unique
+identifier for each person or asset being tracked. The use of RF
+allows coarse-grain positioning (e.g., floor) while the IR signals
+provide additional resolution (e.g., room). The EIRIS local positioning system18 uses an IRFID triple technology that combines
+IR, RF (UHF), and LF (RF low-frequency transponder) signals.
+It combines the advantages of each technology, i.e., the room
+location of IR, the wide range of RF, and the tailored range sensitivity of LF. However, comparing to RF and IR hybrid system,
+it could be more costly.
+3) Positioning Using Cordless Phone System: Cordless
+phone system is a modern wireless communication infrastructure. Schwaighofer et al. [61] used digital enhanced cordless
+telecommunications (DECT) cellular network to solve the indoor positioning problem. They used Gaussian process (GP)
+algorithm to calculate the phone location based on the RSS of
+phones in the DECT network. They showed that their Gaussian
+process positioning system (GPPS) can provide sufficient accuracy of 7.5 m when used within a DECT network. They
+also used kNN to compare with the GP method, and showed
+that kNN can reach an accuracy of 7 m for DECT cellular
+network.
+
+13 Topaz
+
+16 Radianse,
+
+14 WhereNet
+
+17 Versus
+
+local positioning solution. http://www.tadlys.com
+Company. http://www.wherenet.com/
+15 MPS. http://mesh.nowwireless.com/index.htm
+
+Inc. Radianse Indoor Positioning. http://www.radianse.com
+Technology. http://www.versustech.com
+18 EIRIS System. http://www.elcomel.com.ar/english/eiris.htm
+
+LIU et al.: SURVEY OF WIRELESS INDOOR POSITIONING TECHNIQUES AND SYSTEMS
+
+1077
+
+TABLE I
+WIRELESS-BASED INDOOR POSITIONING SYSTEM AND SOLUTION
+
+The Locus system uses RSS and scene analysis to locate specific personal handyphone system (PHS) wireless devices [62].
+Locus is overlaid on the basic PHS cellular service. To refine
+location beyond cell proximity, Locus uses a signal propagation
+model to account for some multipath effects. They report a mean
+error of 40–50 m.
+
+4) Positioning Using Wireless Sensor Network Techniques:
+Dramatic advances in RF and microelectromechanical (MEMS)
+IC design have made possible the use of large networks of
+wireless sensors for a variety of new monitoring and control applications [63], [64]. Accurate and low-cost sensor
+localization is a critical requirement for the deployment of
+
+1078
+
+IEEE TRANSACTIONS ON SYSTEMS, MAN, AND CYBERNETICS—PART C: APPLICATIONS AND REVIEWS, VOL. 37, NO. 6, NOVEMBER 2007
+
+wireless sensor networks in a wide variety of applications,
+including indoor location positioning [65]. Such systems using
+wireless sensor network have been described as “cooperative,”
+“relative,” “multi-hop,” “GPS-free,” or “network” localization;
+“ad-hoc” or “sensor” positioning; and “self-localization” in
+various papers. Communication and measurements between
+many pairs of sensors are required to achieve localization
+for all sensors. We refer the readers to [14] for more details
+about cooperative localization. Up to now, two major sensor
+network standards are the IEEE 802.15.4 physical (PHY) layer
+and medium access control (MAC) layer standard for low-rate
+wireless personal-area networks (LR-WPANs), and the ZigBee
+networking and application layer standard [67]. These standards
+allow for localization information to be measured between pairs
+of sensors. In particular, RSS can be measured in the 802.15.4
+PHY standard via the link quality indication (LQI), which
+reports the signal strength associated with a received packet
+to higher layers. Most of the sensor-network-based location
+estimations use RSS measurement [68], [69]. Some systems
+also use TOA measurement [68], [70]. Others take AOA
+measurement such as ad hoc positioning system (APS) [71].
+Table I briefly compares the current systems and solutions.
+The systems solutions shown in this table are mainly the ones
+whose specifications have been reported by their developers.
+We have excluded the cases in which little or no information on
+them has been made available.
+V. CONCLUSION AND FUTURE TRENDS
+This paper surveys the current indoor positioning techniques
+and systems. Different performance measurement criteria are
+discussed and several tradeoffs among them are observed. For
+example, the one between complexity and accuracy/precision
+needs careful consideration when we choose positioning systems and techniques for different applications environments
+such as warehousing, robotics, or emergency. Usually, location fingerprinting scheme is better for open areas while Active
+RFID is suitable for dense environments. In terms of scalability
+and availability, these positioning techniques and systems have
+their own important characteristics when applied in real environments. The choice of technique and technology significantly
+affects the granularity and accuracy of the location information.
+Future trends of wireless indoor positioning systems are as
+follows.
+1) New or hybrid position algorithms are needed. A few of
+the works have already been started supporting such algorithms. For example, a calibration-free location algorithm
+based on triangulation, triangular interpolation and extrapolation (TIX), is introduced in [75]. A hybrid algorithm
+is presented in [76] for indoor positioning using WLAN
+that aims to combine the benefits of the RF propagation
+loss model and fingerprinting method. The same work has
+been done in [77]. The selective fusion location estimation (SELFLOC) [72] algorithm infers the user location
+by selectively fusing location information from multiple
+wireless technologies and/or multiple classical location
+algorithms in a theoretically optimal manner.
+
+2) Internetworking of different wireless positioning systems
+is a research and practical topic in order to extend the
+positioning range.
+3) Wireless combined with other technologies such as optical
+(e.g., IR), inertial, dc electromagnetic and ultrasonic for
+indoor location is another trend. How to combine these
+technologies into a practical system is a topic of sensor
+fusion.
+4) How to deploy sensors to improve the positioning accuracy, how to finish deploying wireless positioning system
+in a short time, especially for emergency responder application is also worth considering [73].
+5) Wireless indoor location using UWB (from 3.1 to
+10.6 GHz) techniques19 and indoor positioning using mobile cellular network are other promising research topics [31].
+6) How to integrate indoor and outdoor positioning system
+is another area of research.20 This integration may help
+in developing more efficient and robust detection systems
+for positioning of mobile computing nodes. In this case,
+a mobile node will be tracked indoor or outdoor using the
+same detection system.
+REFERENCES
+[1] J. Hightower and G. Borriello, “Location systems for ubiquitous computing” Computer, vol. 34, no. 8, Aug. 2001.
+[2] K. Pahlavan, X. Li, and J. Makela, “Indoor geolocation science and technology,” IEEE Commun. Mag., vol. 40, no. 2, pp. 112–118, Feb. 2002.
+[3] C. Drane, M. Macnaughtan, and C. Scott, “Positioning GSM telephones,”
+IEEE Commun. Mag., vol. 36, no. 4, pp. 46–54, 59, Apr. 1998.
+[4] B. Fang, “Simple solution for hyperbolic and related position fixes,” IEEE
+Trans. Aerosp. Electron. Syst., vol. 26, no. 5, pp. 748–753, Sep. 1990.
+[5] M. Kanaan and K. Pahlavan, “A comparison of wireless geolocation algorithms in the indoor environment,” in Proc. IEEE Wireless Commun.
+Netw. Conf., 2004, vol. 1, pp. 177–182.
+[6] D. Torrieri, “Statistical theory of passive location systems,” IEEE Trans.
+Aerosp. Electron. Syst., vol. 20, no. 2, pp. 183–197, Mar. 1984.
+[7] J. Zhou, K. M.-K. Chu, and J. K.-Y. Ng, “Providing location services within
+a radio cellular network using ellipse propagation model,” in Proc. 19th
+Int. Conf. Adv. Inf. Netw. Appl., Mar. 2005, pp. 559–564.
+[8] A. Teuber and B. Eissfeller, “A two-stage fuzzy logic approach for wireless
+LAN indoor positioning,” in Proc. IEEE/ION Position Location Navigat.
+Symp., Apr. 2006, vol. 4, pp. 730–738.
+[9] M. Kossel, H. R. Benedickter, R. Peter, and W. Bachtold, “Microwave
+backscatter modulation systems,” IEEE MTT-S Dig., vol. 3, pp. 1427–
+1430, Jun. 2000.
+[10] A. Gunther and C. Hoene, “Measuring round trip times to determine the
+distance between WLAN nodes,” in Proc. Netw. 2005., Waterloo, ON,
+Canada, May 2005, pp. 768–779
+[11] B. D. Van Veen and K. M. Buckley, “Beamforming: A versatile approach
+to spatial filtering,” IEEE ASSP Mag., vol. 5, no. 2, pp. 4–24, Apr. 1988.
+[12] P. Stoica and R. L. Moses, Introduction to Spectral Analysis. Englewood
+Cliffs, NJ: Prentice-Hall, 1997.
+[13] B. Ottersten, M. Viberg, P. Stoica, and A. Nehorai, “Exact and large
+sample ML techniques for parameter estimation and detection in array
+processing,” in Radar Array Processing, S. S. Haykin, J. Litva, and
+T. J. Shepherd, Eds. New York: Springer-Verlag, 1993, pp. 99–151.
+[14] N. Patwari, J. Ash, S. Kyperountas, A. O. Hero, R. M. Moses, and
+N. S. Correal, “Locating the nodes: Cooperative localization in wireless
+sensor networks,” IEEE Signal Process. Mag., vol. 22, no. 4, pp. 54–69,
+Jul. 2005.
+
+19 Sapphire DART UWB-based Real-Time Location Systems. http://www.
+multispectral.com/
+20 Place Lab, a privacy-observant location system. http://placelab.org
+
+LIU et al.: SURVEY OF WIRELESS INDOOR POSITIONING TECHNIQUES AND SYSTEMS
+
+[15] N. Cristianini and J. Shawe-Taylor, An Introduction to Support Vector Machines, Cambridge Univ. Press, 2000. [Online]. Available:
+http://www.support-vector.net
+[16] H. Liu, A. Kshirsagar, J. Ku, D. Lamb, and C. Niederberger, “Computational models of intracytoplasmic sperm injection prognosis,” in Proc.
+13th Eur. Symp. Artif. Neural Netw., Bruges, Belgium, Apr. 2005, pp. 115–
+120.
+[17] V. Kecman, Learning and Soft Computing. Cambridge, MA: MIT Press,
+2001.
+[18] V. Vapnik, The Nature of Statistical Learning Theory. New York: Springer,
+1995.
+[19] M. Brunato and R. Battiti, “Statistical learning theory for location fingerprinting in wireless LANs,” Comput. Netw., vol. 47, pp. 825–845,
+2005.
+[20] C. L. Wu, L. C. Fu, and F. L. Lian, “WLAN location determination in ehome via support vector classification,” in Proc. IEEE Int. Conf. Netw.,
+Sens. Control, 2004, vol. 2, pp. 1026–1031.
+[21] S. Tekinay, E. Chao, and R. Richton, “Performance benchmarking for
+wireless location systems,” IEEE Commun. Mag., vol. 36, no. 4, pp. 72–
+76, Apr. 1998.
+[22] B. B. Peterson, C. Kmiecik, R. Hartnett, P. M. Thompson, J. Mendoza,
+and H. Nguyen, “Spread spectrum indoor geolocation,” J. Inst. Navigat.,
+vol. 45, no. 2, pp. 97–102, 1998.
+[23] X. Li, K. Pahlavan, M. Latva-aho, and M. Ylianttila, “Comparison of
+indoor geolocation methods in DSSS and OFDM wireless LAN,” in Proc.
+IEEE Veh. Technol. Conf., Sep. 2000, vol. 6, pp. 3015–3020.
+[24] M. Vossiek, M. Wiebking, L. Gulden, P. Weighardt, and J. Hoffmann,
+“Wireless local positioning—Concepts, solutions, applications,” in Proc.
+IEEE Wireless Commun. Netw. Conf., Aug. 2003, pp. 219–224.
+[25] P. K. Engee, “The global positioning system: Signals, measurements and
+performance,” Int. J. Wireless Inf. Netw., vol. 1, no. 2, pp. 83–105,
+1994.
+[26] J. Barnes, C. Rizos, J. Wang, D. Small, G. Voigt, and N. Gambale.
+(2003). Locata: The positioning technology of the future? presented at
+6th Int. Symp. Satellite Navig. Technol. Incl. Mobile Positioning Location Services, Melbourne, Australia [Online]. pp. 49–62. Available:
+http://www.gmat.unsw.edu.au/snap/snap.htm
+[27] M. Chiesa, R. Genz, F. Heubler, K. Mingo, and C. Noessel,
+RFID, (2002, Mar.). [Online]. Available: http://people.interactionivrea.it/c.noessel/RFID/research.html
+[28] J. Hightower, R. Want, and G. Borriello, “SpotON: An indoor 3D location sensing technology based on RF signal strength,” Univ. Washington,
+Seattle, Tech. Rep. UW CSE 2000–02-02, Feb. 2000.
+[29] L. M. Ni, Y. Liu, Y. C. Lau, and A. P. Patil, “LANDMARC: Indoor location
+sensing using active RFID,” Wireless Netw., vol. 10, no. 6, pp. 701–710,
+Nov. 2004.
+[30] J. J. Caffery and G. L. Stuber, “Overview of radiolocation in CDMA
+cellular system,” IEEE Commun. Mag., vol. 36, no. 4, pp. 38–45, Apr.
+1998.
+[31] V. Otsason, A. Varshavsky, A. LaMarca, and E. de Lara, “Accurate GSM
+indoor localization,” UbiComp 2005, Lecture Notes Computer Science,
+Springer-Varlag, vol. 3660, pp. 141–158, 2005.
+[32] S. Gezici, Z. Tian, G. V. Giannakis, H. Kobaysahi, A. F. Molisch,
+H. V. Poor, and Z. Sahinoglu, “Localization via ultra-wideband radios:
+A look at positioning aspects for future sensor networks,” IEEE Signal
+Process. Mag., vol. 22, no. 4, pp. 70–84, Jul. 2005.
+[33] R. J. Fontana, “Recent system applications of short-pulse ultra-wideband
+(UWB) technology,” IEEE Trans. Microw. Theory Tech., vol. 52, no. 9,
+pp. 2087–2104, Sep. 2004.
+[34] R. J. Fontana, E. Richley, and J. Barney, “Commercialization of an ultra wideband precision asset location system,” in Proc. IEEE Ultra
+Wideband Syst. Technol. Conf., Reston, VA, Nov. 2003, pp. 369–373.
+[Online]. Available: http://www.multispectral.com
+[35] P. Bahl and V. N. Padmanabhan, “RADAR: An in-building RF-based user
+location and tracking system,” in Proc. IEEE INFOCOM 2000, Mar.,
+vol. 2, pp. 775–784.
+[36] P. Bahl and V. N. Padmanabhan, “Enhancements to the RADAR user
+location and tracking system,” Microsoft Corp., Tech. Rep. MSR-TR2000–12, Feb. 2000.
+[37] M. Youssef, A. Agrawala, and A. Udaya Shankar, “WLAN location determination via clustering and probability distributions,” IEEE Int. Conf.
+Pervasive Comput. Commun., Mar. 2003, pp. 143–151.
+[38] M. Youssef and A. K. Agrawala, “Handling samples correlation in the
+Horus system,” IEEE INFOCOM 2004, Hong Kong, vol. 2, pp. 1023–
+1031, Mar. 2004.
+
+1079
+
+[39] T. Roos, P. Myllymaki, H. Tirri, P. Misikangas, and J. Sievanan, “A probabilistic approach to WLAN user location estimation,” Int. J. Wireless Inf.
+Netw., vol. 9, no. 3, pp. 155–164, Jul. 2002.
+[40] P. Castro, P. Chiu, T. Kremenek, and R. R. Muntz, “A probabilistic room
+location service for wireless networked environments,” in Proc. 3rd Int.
+Conf. Ubiquitous Comput., Atlanta, GA, Sep. 2001, pp. 18–34.
+[41] R. Battiti, T. L. Nhat, and A. Villani, “Location-aware computing: A neural
+network model for determining location in wireless LANs,” Tech. Rep.
+DIT-02–0083, 2002.
+[42] S. Saha, K. Chaudhuri, D. Sanghi, and P. Bhagwat, “Location determination of a mobile device using IEEE 802.11b access point
+signals,”
+in Proc. IEEE Wireless Commun. Netw. Conf., Mar.
+2003, vol. 3, pp. 1987–1992.
+[43] S. Thrun, “Probabilistic algorithms in robotics,” AI Mag., vol. 21, no. 4,
+pp. 93–109, 2000.
+[44] A. M. Ladd, K. E. Bekris, G. Marceau, A. Rudys, L. E. Kavraki, and
+D. S. Wallach, “Using wireless ethernet for localization,” in Proc.
+2002 IEEE/RJS Int. Conf. Intell. Robots Syst., 2002, vol. 1, pp. 402–
+408.
+[45] A. M. Ladd, K. E. Bekris, A. Rudys, L. E. Kavraki, and D. S. Wallach, “On
+the feasibility of using wireless ethernet for indoor localization,” IEEE
+Trans. Robot. Autom., vol. 20, no. 3, pp. 555–559, Jun. 2004.
+[46] A. Haeberlen, E. Flannery, A. M. Ladd, A. Rudys, D. S. Wallach, and
+L. E. Kavraki, “Practical robust localization over large-scale 802.11 wireless networks,” in Proc. 10th ACM Int. Conf. Mobile Comput. Netw.,
+Philadelphia, PA, Sep. 26–Oct. 1, 2004, pp. 70–84.
+[47] S. Siddiqi, G. S. Sukhatme, and A. Howard, “Experiment in Monte-Carlo
+localization using WiFi signal strength,” in Proc. Int. Conf. Adv. Robot.,
+Combra, Portugal, 2003, pp. 210–223.
+[48] P. Kontkanen, P. Myllymäki, T. Roos, H. Tirri, K. Valtonen, and H. Wettig,
+“Topics in probabilistic location estimation in wireless networks,” in Proc.
+15th IEEE Symp. Pers., Indoor, Mobile Radio Commun., Barcelona, Spain,
+Sep. 2004, vol. 2, pp. 1052–1056.
+[49] Z. Xiang, S. Song, J. Chen, H. Wang, J. Huang, and X. Gao.
+(2004, Sep./Nov.). A WLAN based indoor positioning technology.
+IBM J. Res. Develop. [Online]. Available: http://researchweb.watson.
+ibm.com/journal/rd/485/xiang.html
+[50] AeroScout Company. [Online]. Available: http://www.aeroscout.com/
+[51] S. Manapure, H. Darabi, V. Patel, and P. Banerjee, “A comparative study
+of radio frequency-based indoor location systems,” in Proc. IEEE Int.
+Conf. Netw., Sens. Control, 2004, vol. 2, pp. 1265–1270.
+[52] P. Krishnan, A. S. Krishnakumar, W.-H. Ju, C. Mallows, and S. Ganu, “A
+system for LEASE: Location estimation assisted by stationary emitters
+for indoor RF wireless networks,” in Proc. IEEE INFOCOM, Mar. 2004,
+pp. 21–32.
+[53] M. Eallbaum, “Wheremops: An indoor geolocation system,” in Proc.
+IEEE Int. Symp. Pers., Indoor, Mobile Radio Commun., Sep. 2002, vol. 4,
+pp. 1967–1971.
+[54] A. Smailagic, D. P. Siewiorek, J. Anhalt, D. Kogan, and Y. Wang, “Location sensing and privacy in a context aware computing environment,”
+in Proc. Int. Conf. Pervasive Comput., May 2001, pp. 10–17.
+[55] A. Kotanen, M. Hannikainen, H. Leppakoski, and T. D. Hamalainen,
+“Experiments on local positioning with Bluetooth,” in Proc. IEEE Int.
+Conf. Inf. Technol.: Comput. Commun., Apr. 2003, pp. 297–303.
+[56] J. Hallberg, M. Nilsson, and K. Synnes, “Positioning with Bluetooth,”
+in Proc. IEEE 10th Int. Conf. Telecommun., Mar. 2003, vol. 2, pp. 954–
+958.
+[57] J. Werb and C. Lanzl, “Designing a position system finding things
+and people indoors,” IEEE Spectr., vol. 35, no. 9, pp. 71–78, Sep.
+1998.
+[58] HP SmartLOCUS. [Online]. Available: http://www.rfidjournal.com/article
+/articleview/1211/1/50/.
+[59] MIT Cricket Indoor Location System. [Online]. Available: http://nms.lcs.
+mit.edu/cricket/.
+[60] R. Want, A. Hopper, V. Falcao, and J. Gibbons, “The active badge location
+system,” ACM Trans. Inf. Syst., pp. 91–102, Jan. 1992.
+[61] A. Schwaighofer, M. Grigoras, V. Tresp, and C. Hoffmann, “GPPS: A
+Gaussian process positioning system for cellular networks,” in Advances
+in Neural Information Processing Systems. Cambridge, MA: MIT Press,
+2004.
+[62] H. Koshima and J. Hoshen, “Personal locator services emerge,” IEEE
+Spectr., vol. 37, no. 2, pp. 41–48, Feb. 2000.
+[63] I. Akyildiz, W. Su, Y. Sankarasubramaniam, and E. Cayirci, “Wireless
+sensor networks: A survey,” Comput. Netw. J., vol. 38, no. 4, pp. 393–
+422, Mar. 2002.
+
+1080
+
+IEEE TRANSACTIONS ON SYSTEMS, MAN, AND CYBERNETICS—PART C: APPLICATIONS AND REVIEWS, VOL. 37, NO. 6, NOVEMBER 2007
+
+[64] B. J. Feder. (2004, Jul. 26). Wireless sensor networks spread to new
+territory. New York Times [Online]. Available: http://www.nytimes.com/
+2004/07/26/business/26sensor.html
+[65] A. Brooks, A. Makarenko, T. Kaupp, S. Williams, and H. Durrant-Whyte,
+“Implementation of an indoor active sensor network,” in Proc. 9th Int.
+Symp. Exp. Robot. 2004, Singapore, Jun. 18–21, 2004, pp. 37–46.
+[66] C. Savarese, J. M. Rabaey, and J. Beutel, “Locationing in distributed
+ad-hoc wireless sensor networks,” in Proc. IEEE ICASSP, May 2001,
+pp. 2037–2040.
+[67] ZigBeeTMAlliance. (2004, Dec.). Network specification version 1.0.
+Tech. Rep. 02130r10 [Online]. Available: http://www.zigbee.org
+[68] N. Patwari, A. O. Hero, M. Perkins, N. S. Correal, and R. J. O’Dea,
+“Relative location estimation in wireless sensor networks,” IEEE Trans.
+Signal Process., vol. 51, no. 8, pp. 2137–2148, Aug. 2003.
+[69] J. N. Ash and L. C. Potter, “Sensor network localization via received signal strength measurements with directional antennas,” in Proc. Allerton
+Conf. Commun., Control, Comput., Sep. 2004, pp. 1861–1870.
+[70] A. Savvides, C. C. Han, and M. B. Srivastava, “Danamic fine-grained
+localization in ad-hoc wireless sensor networks,” in Proc. ACM Int.
+Conf. Mobile Comput. Netw., May 2001, pp. 166–179.
+[71] D. Niculescu and B. Nath, “Ad Hoc Positioning System (APS) using
+AoA,” in Proc. IEEE INFOCOM, San Francisco, CA, Apr. 2003, vol. 3,
+pp. 1734–1743.
+[72] Y. Gwon, R. Jain, and T. Kawahara, “Robust indoor location estimation
+of stationary and mobile users,” in Proc. IEEE INFOCOM, Mar. 2004,
+vol. 2, pp. 1032–1043.
+[73] H. Liu, H. Darabi, and P. Banerjee, “A new rapid sensor deployment
+approach for first responders,” Int. J. Intell. Control Syst., vol. 10, no. 2,
+pp. 131–142, Jun. 2005.
+[74] P. Prasithsangaree, P. Krishnamurthi, and P. K. Chrysanthis, “On indoor
+position with wireless LANs,” in Proc. IEEE Int. Symp. Pers. Indoor,
+Mobile Radio Commun., Sep. 2002, vol. 2, pp. 720–724.
+[75] Y. Gwon and R. Jain, “Error characteristic and calibaration-free techniques for wireless LAN-based location estimation,” in Proc. MobiWac’04, Philadelphia, PA, Oct. 1, 2004, pp. 2–9.
+[76] J. Kwon, B. Dundar, and P. Varaiya, “Hybrid algorithm for indoor positioning using wireless LAN,” IEEE Veh. Technol. Conf., vol. 7, pp. 4625–4629,
+Sep. 2004.
+[77] B. Li, A. Dempster, C. Rizos, and J. Barnes, “Hybrid method for localization using WLAN,” in Proc. Spatial Sci. Conf., Melbourne, Australia,
+Sep. 2005, pp. 341–350.
+[78] N. S. Correal, S. Kyperountas, Q. Shi, and M. Welborn, “An ultra wideband
+relative location system,” in Proc. IEEE Conf. Ultra Wideband Syst.
+Technol., Nov. 2003, pp. 394–397.
+
+Hui Liu (S’) received the B.S. degree in electrical engineering from North China Electric Power
+University, BaoDing, China, the Master’s degree in
+electrical engineering from the Beijing University of
+Telecommunications and Posts, Beijing, China. He is
+currently working toward the Ph.D. degree in electrical and computer engineering at the University of
+Illinois, Chicago.
+His research interests include communication, statistical signal processing, control and automation, and
+artificial intelligence.
+
+Houshang Darabi received the B.S. degree in industrial engineering from Technology and science University, Tehran, Iran, M.S. degree in industrial enginerring from Sharif University of Technology, Tehran,
+Iran, and the Ph.D. degree in industrial engineering
+from Rutgers University, New Brunswick, NJ.
+He is currently an Associate Professor with the
+Department of Mechanical and Industrial Engineering, University of Illinois, Chicago. His research interests include application of discrete-event systems
+control theory in modeling and analysis of service
+and manufacturing systems, computer-integrated manufacturing, supply chain
+networks, and manufacturing information systems. He is the author of many
+papers published in several journals and conference proceedings.
+Dr. Darabi is a Senior Member of the Institute of Industrial Engineers, and a
+member of the Institute for Operations Research and the Management Sciences.
+
+Pat Banerjee received the B.Tech. degree in mechanical engineering from the Indian Institute of Technology, Kanpur, in 1984, and the M.S. and Ph.D. degrees
+in industrial engineering from Purdue University,
+West Lafayette, IN, in 1987 and 1990, respectively.
+He is currently a Professor in the Department of
+Mechanical and Industrial Engineering and of Computer Science with the University of Illinois, Chicago.
+He was on the 2002 Research Visionary Board at
+Motorola Laboratories. His current research interests
+include virtual reality applications; haptics applications; sensors, diagnostics, and prognostics; immersive learning effectiveness
+and display interfaces; and linear and nonlinear design optimization models. He
+is the author of over 100 publications, including a textbook Virtual Manufacturing (Wiley, 2001). He was a Department Editor of the IIE Transactions.
+Prof. Banerjee is a Fellow of the American Society of Mechanical Engineers
+(ASME). He received the ASME MED/MHED Best Technical Paper Award.
+He was an Associate Editor of the IEEE TRANSACTIONS ON ROBOTICS AND
+AUTOMATION.
+
+Jing Liu received the B.S. degree in chemical engineering from the Hebei University of Technology,
+Tianjin, China, the M.S. degree in mechanical engineering from the Beijing University of Posts and
+Telecommunications, Beijing, China, and the Ph.D.
+degree in industrial engineering from the University
+of Illinois, Chicago, in 2005.
+She is currently a Researcher in General Motors
+R&D Center, Warren, MI, USA. Her research interests include application of discrete-event systems
+control theory in modeling and analysis of manufacturing systems, and plant floor system controls.
+Dr. Liu is a member of the Institute of Electrical and Electronics Engineers,
+Phi Kappa Phi, and the Institute of Industrial Engineers.
+
+

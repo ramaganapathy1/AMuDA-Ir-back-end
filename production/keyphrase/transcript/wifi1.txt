@@ -1,0 +1,1323 @@
+The Journal of Systems and Software 84 (2011) 442–451
+
+Contents lists available at ScienceDirect
+
+The Journal of Systems and Software
+journal homepage: www.elsevier.com/locate/jss
+
+A comparison of deterministic and probabilistic methods for indoor localization
+Brett Dawes, Kwan-Wu Chin ∗
+University of Wollongong, Northﬁelds Ave, Wollongong, Australia
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 28 April 2010
+Received in revised form 6 October 2010
+Accepted 3 November 2010
+Available online 21 November 2010
+Keywords:
+Localization
+IEEE 802.11
+Wireless local area networks
+RSSI ﬁngerprinting
+
+a b s t r a c t
+Received signal strength indication ﬁngerprinting (RSSIF) is an indoor localization technique that exploits
+the prevalence of wireless local area networks (WLANs). Past research into RSSIF systems has seen the
+development of a number of algorithmic methods that provide effective indoor positioning. A key limitation, however, is that the performance of these methods is heavily dependent on practical implementation
+parameters and the nature of the test-bed environment. As a result, past research has tend to only compare algorithms of the same paradigm using a speciﬁc test-bed, and thus making it difﬁcult to judge and
+compare their performance objectively. There is, therefore, a critical need for a study that addresses this
+gap in the literature. To this end, this paper compares a range of RSSIF methods, drawn from both probabilistic and deterministic paradigms, on a common test-bed. We evaluate their localization efﬁciency
+and accuracy, and also propose a number of improvements and modiﬁcations. In particular, we report
+on the impact of dense and transient access points (APs) – two problems that stem from the popularity
+of WLANs. Our results show methods that average the distance to the k nearest neighbors in signal space
+perform well with reduced dimensions. Moreover, we show the beneﬁts of using the standard deviation
+of RSSI values to exclude transient APs. Other than that, we outline a shortcoming of the Bayesian algorithm in uncontrolled environments with highly variable APs and RSSI values, and propose an extension
+that uses a mode ﬁlter to restore its accuracy with increasing samples.
+© 2010 Elsevier Inc. All rights reserved.
+
+1. Introduction
+In the last decade, there has been a substantial increase in the
+number of mobile, networked devices. This has created a demand
+for a new generation of smart, context-aware applications that
+rely on localization to provide users with value added services.
+For example, they may rely on outdoor systems such as Global
+Positioning System (GPS) (Getting, 1993) and E911 (Zagami et al.,
+1998) to provide targeted advertisements, or to pinpoint a person’s location during an emergency. For indoors, these applications
+may use Active Badge (Wang et al., 1992), Cricket (Priyantha et al.,
+2000), Active Bat (Harter et al., 1999), Smart Floor (Orr and Abowd,
+2000), AwareMedia and AwarePhone (Bardraml et al., 2006). The
+main limitation of these systems is that they require specialized
+hardware and in many cases the installation of a new and independent infrastructure to support localization sensors. For example,
+Cricket requires the installation of beacons whereas AwareMedia
+and AwarePhone require existing wired networks to be augmented
+with Bluetooth (Haartsen et al., 1998). Active Bat and Active Badge
+require the installation of a new wired network. In particular,
+
+∗ Corresponding author.
+E-mail addresses: bmd034@uow.edu.au (B. Dawes), kwanwu@uow.edu.au
+(K.-W. Chin).
+0164-1212/$ – see front matter © 2010 Elsevier Inc. All rights reserved.
+doi:10.1016/j.jss.2010.11.888
+
+Active Bat requires sensors to be placed in a grid pattern on the
+ceiling.
+To address the aforementioned limitation, the authors of Bahl
+and Padmanabhan (2000) propose a system, called RADAR, that
+uses the access points (APs) in wireless local area networks
+(WLANs) for localization. Speciﬁcally, referring to Fig. 1, there are
+two phases. In the ofﬂine phase, the system designer builds a
+map of RSSI ﬁngerprints for a given building or ﬂoor. For example, a ﬁngerprint can be collected and associated with each cell
+of a ﬂoor that has been divided into a grid of 1 m × 1 m cells. This
+information is then used by users who want to obtain their location in the online phase. Their portable device will ﬁrst record
+a number of RSSI readings, so called ﬁngerprints, from multiple
+APs, and with the use of the map, attempts to ﬁnd a location
+or cell that has a similar ﬁngerprint. The matching location or
+cell is then returned to the users. Note that RSSI is preferred
+over signal to noise ratio (SNR) because it is a stronger function
+of location than SNR. This is because SNR suffers from random
+ﬂuctuation due to noise and interference from other devices operating in the same frequency band (Bahl and Padmanabhan, 2000).
+In addition, RSSI is available readily from all wireless network
+interface cards. Interestingly, besides WLANs, one can also use
+signals from base stations (Varshavsky et al., 2007). This is particularly advantages in indoor environments with little or no
+APs.
+
+B. Dawes, K.-W. Chin / The Journal of Systems and Software 84 (2011) 442–451
+
+443
+
+Fig. 1. Overview of RSSI ﬁngerprinting.
+
+Advantageously, RADAR does not require the installation of new
+hardware and rely solely on software. On the other hand, its key disadvantage stems from the use of RSSI values, which are inherently
+noisy and varies over time due to non-negligible multipath fading,
+especially in indoors environments. As a result, the precision and
+accuracy of the system depends on how far apart ﬁngerprints are
+in signal space, rather than physical space. Just because two ﬁngerprints are far apart in physical space, does not necessarily mean
+they are very far apart in signal space. In fact, they may be very
+close. Apart from that, system designers need to spend a signiﬁcant
+amount of time initially to build the map or ﬁngerprint database of
+a given environment. To this end, researchers have considered the
+use of strategically positioned anchors, theoretical modeling of signal space, and calibration to quickly build the database (Barsocchi
+et al., 2009; Lim et al., 2006). Nonetheless, the construction of the
+RSSIF database is a once off cost but accuracy of different classes of
+localization algorithms remains a key issue.
+To this end, as shown in Table 1, researchers have proposed a
+number of solutions, which can be divided into deterministic and
+probabilistic methods. Deterministic techniques, such as k-nearest
+neighbor (see Section 2.1), provide acceptable performance given
+their simplicity. In general, probabilistic methods offer superior
+
+localization performance. This, however, is achieved at the expense
+of higher computational requirements as they rely on a higher number of RSSI samples taken per position, which effects their training
+time and cost. In addition, the total number of positions in the
+search space also has a signiﬁcant impact on their computation
+time. Table 1 also shows the impact of APs on accuracy and precision. RSSI system performance ranges from an accuracy of within
+2.2 m 38% of the time if there are a minimum of three APs (Bahl and
+Padmanabhan, 2000) to within 2.5 m 90% of the time using 10 APs
+(Roos et al., 2002).
+From Table 1, it is clear that previous research has demonstrated the effectiveness of RSSIF techniques for indoor localization
+using deterministic and probabilistic methods. However, there is
+very little quantitative comparison between these two paradigms
+under the same experimental condition, which makes it difﬁcult
+for context-aware applications developers to determine the best
+approach to employ. In addition, prior works have not outlined an
+effective strategy for the inclusion of APs in ﬁngerprint databases.
+This is of importance because we found APs tend to drift in and out
+of range frequently. As a result, a number of APs may be missing
+during data collection and localization. Moreover, we found each
+ﬁngerprint contain an average of 17.5 APs. Hence, in the interest of
+
+Table 1
+Comparison of existing RSSIF systems (Kaemarungsi, 2005).
+System
+
+Algorithm
+
+Number of APs
+
+Precision and % of the time attained
+
+Prasithsangaree et al. (2002)
+Battiti et al. (2005)
+Heaberlen et al. (2004)
+Roos et al. (2002)
+RADAR enhancements (Bahl et al., 2000)
+RADAR (Bahl and Padmanabhan, 2000)
+Youssef et al. (2003)
+Xiang et al. (2004)
+Ladd et al. (2002)
+Saha et al. (2003)
+
+Weighted k-nearest neighbor
+Neural network and weighted k-nearest neighbor
+Bayesian
+Bayesian
+Nearest neighbor with environment proﬁling
+Nearest neighbor
+Bayesian
+Bayesian with RSS distribution model
+Bayesian
+Nearest neighbor and neural network
+
+2–7
+6
+15–33
+10
+5
+3
+4
+5
+5
+3
+
+7.2 m at 75%, 12.2 m at 95%
+4.9 m to 5.2 m at 90%
+3 m at 97%
+2.5 m at 90%
+3.16 m at 90%
+2.1 m at 38%
+2.1 m at 90%
+1.8 m at 90%
+1.5 m at 77%
+2 m at 90%
+
+444
+
+B. Dawes, K.-W. Chin / The Journal of Systems and Software 84 (2011) 442–451
+
+computation overheads and reliability, we must ensure only a subset of APs are used for localization. This is in contrast to prior works
+that only have a small number of anchors in each ﬁngerprint; e.g.
+(Barsocchi et al., 2009). Lastly, we showed that the Bayesian method
+does not work well in environments with high variability. In particular, we found that its accuracy does not improve with additional
+samples. Henceforth, this paper makes the following contributions:
+• We objectively compare both deterministic and probabilistic
+methods on the same test-bed.
+• We study the impact and provide solutions to the following key
+issues: (i) high number of APs, (ii) transient APs, and (iii) highly
+variable RSSI values.
+• We propose four new variants that address a key shortcoming
+with methods that compute a position estimate using k nearest
+neighbors.
+• We evaluate the beneﬁts of combining k-nearest neighbor methods with those that use the probability distribution of RSSI values.
+• We show the effectiveness of using the standard deviation of RSSI
+values in order to exclude transient APs.
+• We modiﬁed the Bayesian algorithm to use a mode ﬁlter in order
+to address its shortcomings in environments with high variability.
+In the next section, we will ﬁrst describe existing deterministic
+and probabilistic methods. After that, in Section 3, we present our
+testbed, and the methodology used to collect and sanitize RSSI data.
+This is followed by experimental results, and discussion in Section
+4. Finally, Section 5 presents our conclusions.
+2. Background
+In each section, we ﬁrst provide an overview of a given approach
+before surveying prior works.
+2.1. Deterministic
+Deterministic ﬁngerprinting was ﬁrst used in Bahl and
+Padmanabhan (2000), Bahl et al. (2000) and Hossain et al. (2007). To
+create a location ﬁngerprint, RADAR (Bahl and Padmanabhan, 2000)
+collects signal strength data, position, and orientation information
+for 70 distinct physical locations from three APs. The authors of
+RADAR also considered host’s orientation, because during data collection, the user’s body may form an obstruction between the host
+and APs. The ﬁngerprints are created by taking the average RSSI
+value for each combination of orientation and position, which are
+then stored as a tuple in the form x, y, d, si , where (x, y) is the
+physical location, d is one of four distinct orientations of the host,
+and si is the average RSS from AP i, where i ∈ 1, 2, 3. Apart from that,
+the authors also proposed a modiﬁcation whereby they calculate
+the mean RSS for each of the four orientations and then taking the
+maximum for each AP.
+Given a ﬁngerprint s1 , s2 , s3 , and an observed signal strength
+tuple s1o , s2o , s3o , a mobile device estimates its location by calculating the Euclidean distance between its observed signal strength
+tuple and those in the ﬁngerprint database. This means a mobile
+device will pick the location corresponding to the ﬁngerprint with
+the smallest Euclidean distance in signal space. Recall that the
+Euclidean distance is deﬁned as,
+
+
+
+D=
+
+(s1 − s1o )2 + (s2 − s2o )2 + (s3 − s3o )2 .
+
+Fig. 2. Localization using the KOLA algorithm, where k = 3; N1 , N2 and N3 are the
+three nearest neighbors; T is the mobile host’s true location; and E is the estimate from KOLA, which is closer to the true location than any of the single nearest
+neighbors.
+Table 2
+Nearest neighbor search results for Fig. 4, listed in ascending order from the closest
+match. The results also include multiple instances of location four and ﬁve, which
+are at different orientations.
+Location
+
+1
+
+3
+
+5
+
+5
+
+5
+
+4
+
+4
+
+4
+
+2
+
+X-Coord.
+Y-Coord.
+
+1
+2
+
+3
+2
+
+4
+3
+
+4
+3
+
+4
+3
+
+3
+4
+
+3
+4
+
+3
+4
+
+1
+3
+
+location. Note that during localization, some of the APs in the
+observation vector may not be present in the ﬁngerprint. In our
+investigation described in Section 3, we only use the APs in the
+observation vector that are also contained in the ﬁngerprint vector.
+Instead of localizing to only one ﬁngerprint/location, the authors
+of Bahl and Padmanabhan (2000) consider the average distance
+to k nearest neighbors in signal space; referred to as KOLA. This
+extension reduces the median distance error by 28%; see Fig. 2. In
+this respect, we have developed three modiﬁcations to KOLA. All of
+them implement the same general location averaging technique,
+differing only in how each of the k nearest neighbors contribute
+towards the average distance. These modiﬁcations are needed
+because KOLA may select the ﬁngerprints, each associated with
+a given orientation, of a physical location. Hence, KOLA may not
+produce an estimate from k unique physical locations.
+The ﬁrst modiﬁcation, called unweighted KOLA (UWKOLA),
+takes the sorted nearest neighbor results shown in Table 2 and
+then selects the ﬁrst k unique locations. Once a location is selected,
+UWKOLA ignores any subsequent appearances. Hence, it ignores
+ﬁngerprints that represent different orientations. In this example, UWKOLA will average all ﬁve locations, with each location
+weighted equally towards the average, even though location four
+and ﬁve appear in the list multiple times.
+The second modiﬁcation is called Iteration Weighted KOLA
+(IWKOLA) and adds a weight to each location depending on how
+many times it appears before k unique locations are found. From
+Fig. 3 and Table 2, IWKOLA averages all ﬁve locations with location
+four and location ﬁve weighed three times higher than the other
+locations as they appear in the list three times.
+
+(1)
+
+This basic nearest neighbor in signal space (NNSS) method, however, suffers from problems such as aliasing and large ﬂuctuations
+in estimation error distance due to variations in RSSI. Here, aliasing
+refers to the scenario where D is close in signal space to another
+
+Fig. 3. Estimates produced by KOLA modiﬁcations.
+
+B. Dawes, K.-W. Chin / The Journal of Systems and Software 84 (2011) 442–451
+Table 3
+A summary of deterministic algorithms.
+Algorithm
+
+Key features
+
+a
+
+Shortest Euclidean distance to a single ﬁngerprint/location
+Takes the average of the k nearest location
+Similar to UWKOLA but considers orientation. That is, it
+gives more weight to locations that appears multiple times
+in the sorted list
+Similar to UWKOLA but ignores repeated locations (i.e.,
+those described by different ﬁngerprint)
+Fingerprint of a location is set to the orientation with the
+best signal strength
+Returns the location that is closest in signal space to all
+four orientations
+
+NNSS
+UWKOLA
+IWKOLA
+
+WKOLA
+OINNSSa
+NNSSO
+a
+
+Indicates existing algorithms.
+
+The third modiﬁcation is called Weighted KOLA (WKOLA). It ﬁrst
+determines k unique locations using the same method as UWKOLA.
+Using Fig. 3 and Table 2, all ﬁve locations will be selected in the
+following order: one, three, ﬁve, four and two. Location one has
+the smallest distance between the observation vector and the ﬁngerprint, and location two has the largest distance. WKOLA adds a
+weight of ﬁve to location one, four to location three, three to location ﬁve, two to location four and one to location two, such that
+the most probable location is weighed k times higher than the least
+probable location.
+The authors of Bahl and Padmanabhan (2000) also introduced
+an orientation independent method, called OINNSS, which analyzes
+each AP in the ﬁngerprint vector across the four orientations and
+selecting the maximum value to form a new ﬁngerprint. We have
+also designed an improvement, called NNSSO, that estimates physical positions independently of orientation. Instead of treating each
+orientation separately, NNSSO sums the distance across all four
+orientations for each physical location as follows,
+D=
+
+ n
+4
+
+
+j=1
+
+1/2
+(sko
+
+− sj,k )
+
+2
+
+(2)
+
+k=1
+
+where sj,k corresponds to the signal strength value from AP k at
+orientation j. The algorithm then returns the location or ﬁngerprint
+that results in the smallest D value.
+Table 3 summarizes the key features of the aforementioned
+algorithms. Although NNSS is simple to implement, it only returns
+the closest ﬁngerprint in signal space. However, as we showed
+using Fig. 3 and Table 2, further improvements can be made if
+we consider the k closest ﬁngerprints. For example, IWKOLA gives
+more weight to a location that appears multiple times. The assumption here is that a close match to multiple orientations of a location
+implies the mobile device is probably at the said location. Lastly,
+we propose a novel method that combines the information from all
+four orientations. This modiﬁcation therefore exploits information
+provided by different orientations as opposed to only one speciﬁc
+orientation, as in OINSS.
+2.2. Probabilistic
+The probabilistic ﬁngerprinting techniques presented in
+Hossain et al. (2007), Heaberlen et al. (2004) and Youssef et al.
+(2003) offer an advantage over deterministic methods because
+they include more information about the statistical range of Radio
+Frequency (RF) characteristics of a given location. Deterministic
+methods contain a single vector which represents an estimated
+average RSS for a given location, while probabilistic techniques
+provide a probability distribution function (PDF) estimate of the
+RSSI for a given location. Speciﬁcally, the location ﬁngerprint is a
+conditional probability P(O|S), where O represents an observed RSS
+
+445
+
+vector and S denotes a known location or cell. The ﬁngerprint P(O|S)
+is called a likelihood function because it represents the probability of an user observing an RSS vector O when the user is at the
+location or state S (Roos et al., 2002). Apart from that, researchers
+(Hossain et al., 2007; Heaberlen et al., 2004; Youssef et al., 2003)
+have also implemented numerous version of the Bayesian algorithm, which represents the probability an observation belongs to
+a given location.
+In the next section, we ﬁrst discuss the normal PDF algorithm;
+referred to as NPDF. We then review Bayesian techniques that work
+in conjunction with NPDF. Apart from that, we also review a number
+of improvements in Section 2.2.2.
+2.2.1. Normal PDF (NPDF)
+Let O ={o1 , o2 , . . ., on } be the set of all possible observations, and
+S ={s1 , s2 , . . ., sn } be the set of state si corresponding to the user
+at location i. Speciﬁcally, si ={f1 (, ) . . . fm (, )} comprising of
+1 . . . m APs with RSSI values represented by a normal distribution
+with mean  and standard deviation . In this method, the mean
+and standard deviation stored in the ﬁngerprint database are calculated by ﬁtting a normal distribution to the sampled RSSI values
+from each AP. The estimate that a user is at location i is given by,
+i =
+
+m
+
+
+P(oj |fj (, ))
+
+(3)
+
+j=1
+
+ is given as the location i in which
+The user’s location estimation 
+Eq. (3) has a maximum value.
+We can also combine KOLA or WKOLA with NPDF to further boost its performance. These algorithms, KNPDF and WKPDF
+respectively, consider the PDF from only k APs that meet the criteria outlined in Section 2.1. For example, a mobile device using
+KOLA will ﬁrst iterate through all ﬁngerprints to determine one
+that maximizes Eq. (3). This ﬁngerprint is then removed from the
+database, and the process is repeated until it ﬁnds the next k − 1
+closest ﬁngerprints. Once all k ﬁngerprints are found, the mobile
+device averages the X and Y coordinates of all k ﬁngerprints to yield
+its position.
+2.2.2. Bayesian
+The Bayesian localization algorithm we implemented combines
+the NDPF method described in Section 2.2.1 with Baye’s rule. Baye’s
+rule deﬁnes P(S|O) as the conditional probability that the user is in
+state S given observation O, which is dependent on P(O|S), the conditional probability of seeing an observation O from state S. P(S)
+is the prior probability that the user was in state S before observing O and P(O) which is a normalizing constant and represents the
+marginal probability of observing O. In other words, we have
+P(S|O) =
+
+P(O|S)P(S)
+P(O)
+
+(4)
+
+n
+
+where P(O) =
+P(O|Si )P(Si ).
+i=1
+For each observation, the NPDF algorithm is used to determine
+P(oj |si ). Then Baye’s rule, i.e., Eq. (4), is applied on each observation where P(S) = i , which denotes the probability for the previous
+observation in which the user is at location i. A new likelihood
+  corresponds to the location i that maximizes
+estimate 
+i
+ i =
+
+
+៭i
+P(oj |si )
+
+
+
+
+(5)
+
+n
+i
+where  =
+P(oj |si )
+i=1
+From preliminary results, which used n samples per observation,
+we found that the estimated location ﬂuctuated around the correct
+location over the course of n samples. The modal value for the estimation was often more accurate than the nth value. Henceforth, we
+
+446
+
+B. Dawes, K.-W. Chin / The Journal of Systems and Software 84 (2011) 442–451
+
+modiﬁed the aforementioned Bayesian algorithm to instead run for
+n iterations, producing one location estimate based on n observations. In each iteration, a list of n preliminary location estimates
+were generated. We then return the mode of these n estimates as
+the user’s location.
+3. Research methodology
+We ﬁrst present our test-bed in Section 3.1 before outlining
+how RSSI values are collected and used to generate ﬁngerprints
+in Sections 3.2 and 3.3 respectively.
+3.1. Testbed
+Our testbed and experimental site was located on the ﬁrst ﬂoor
+of the University of Wollongong (UoW) library. This site was chosen for two reasons: the ﬁrst, was the high density of WLAN access
+points. The second, was that the site layout differs greatly from
+those in previous research. In particular, we have no control of
+APs’ position or their transmission range. The layout of the ﬁrst
+ﬂoor, see Fig. 4, consists of a large open indoor space with no internal walls, unlike the areas used in prior research, and primarily
+consists of small ofﬁce rooms and corridors. The space measures
+36.6 m × 61.0 m for a total area of approximately 2160 m2 . The area
+is multi-use in nature, consisting mostly of book shelves as well
+
+Fig. 4. University of Wollongong (UoW) testbed.
+
+as computer areas and quiet study areas with desks and chairs.
+Although the space is considered open because of the absence of
+any internal walls, the way in which people move about in the space
+is largely limited by the arrangement of book shelves, which divides
+the area primarily into rows running north–south, with a number
+of pathways running east–west.
+Table 4 compares the test-beds used in previous studies, and
+lists their total area and the number of ﬁngerprint locations. The
+ﬁngerprint density is calculated as the total area divided by the
+number of locations and represents area covered by a single ﬁngerprint. Fingerprint density is expected to have a signiﬁcant effect
+on the interpretation of localization results. The average distance
+between evenly spaced ﬁngerprints is approximately equal to the
+square root of ﬁngerprint density. A ﬁngerprint density of 39 m
+gives an average spacing between ﬁngerprints of 6.2 m while a ﬁngerprint density of 9 m yields a spacing of 3 m. An error distance of
+6.2 m in this study represents at worst the location of the adjacent
+cell to the actual location.
+3.2. Data collection
+This stage involves scanning all 11 channels in the 802.11 spectrum in order to identify all available APs. Data collection also
+required time correlated sampling of the 802.11 band in order to
+build a robust picture of the signal strength characteristics of APs.
+We developed a command-line based program using the native
+WiFi application programming interface (API), called ‘wlanapi’, in
+Windows Vista. This API is designed to manage both wireless network proﬁles and wireless network connections (WLAN API) and
+provides direct access to a signiﬁcant amount of networking information; e.g., RSSI values in dBm of all in-range APs.
+We also developed a program, called RSSI Logger, to handle data
+collection – it is based on an open source program called WiFi Card
+Manager (WCM); see (SourceForge). RSSI Logger is a lite version of
+WCM, which uses only one function call to wlanapi, and includes
+data logging services. The ﬁrst stage in developing RSSI Logger is to
+determine the Globally Unique Identiﬁer (GIUD) of our Sony Vaio
+laptop’s wireless Network Interface Card (NIC). This is achieved
+using a wlanapi function called WlanEnumInterfaces, which enumerates all of the wireless NICs and their GIUD. We then store the
+GUID for the desired NIC, in this case “Intel® Pro/Wireless 3945ABG
+Network Connection”. The RSSI Logger program makes use of the
+function called WlanGetBssList to retrieve the basic service set (BSS)
+of all the wireless networks detected on the interfaced identiﬁed by
+the GUID. The BSS includes a large amount of information relating
+to the properties and status of each detected WiFi network. However, the only information relevant to us is the MAC address of APs
+and RSSI values. The WlanGetBssList function returns a pointer to
+a structure, which contains a list of BSS entries alongside information related to the total size and the number of entries in the list. To
+facilitate the data collection process, the WlanGetBssList function is
+called every 0.25 s over a period of 2 min to collect 480 RSSI samples
+for each detected AP.
+After each 2 min scan, the entire RSSI sample database is logged
+to a tab delimited text ﬁle. A truncated example of this ﬁle is shown
+in Table 5. The top row contains the MAC addresses of APs. After
+that, each entry contains the recorded RSSI samples in dBm for the
+corresponding AP. The zero entries in Table 5 indicate that an AP is
+not detected during this time period. For example, the second AP
+with the address 01EF6833130 is seen switching in and out during
+the course of the scan. Another example is 00DBD1FB12E, which
+appeared towards the end of the scan.
+Over a period of eight weeks, 224 scans were carried out on the
+ﬁrst ﬂoor of the UoW library at 56 unique physical locations, i.e.,
+the red circles in Fig. 4, with each location requiring four scans representing the north, south, east, and west orientations. Each of the
+
+B. Dawes, K.-W. Chin / The Journal of Systems and Software 84 (2011) 442–451
+
+447
+
+Table 4
+Localization test-bed ﬁngerprint density.
+Study
+
+Area (m2 )
+
+Number of locations
+
+Fingerprint density
+
+Fingerprint spacing (m)
+
+UoW-Testbed
+RADAR (Bahl and Padmanabhan, 2000)
+RADAR-enhanced (Bahl et al., 2000)
+Youssef et al. (2003)
+Hossain et al. (2007)
+
+2160
+980
+940
+1768
+540
+
+56
+70
+49
+110
+62
+
+1:39
+1:14
+1:19
+1:16
+1:9
+
+6.2
+3.7
+4.4
+4
+3
+
+224 scans was performed for 2 min, which corresponds to a total
+of 480 RSSI samples, recorded at a rate of four samples per second.
+The entire set of scans represents a total of 7.5 h of RSSI readings.
+It was not possible to build multiple distinct environmental proﬁles that reﬂect busy and slow periods of human trafﬁc within the
+library because of time limitations to carry out the RSSI recordings and the uncontrolled library environment. Instead, every effort
+was made to carry out the scans at both different times of the day
+and different days of the week, so as to build a robust RSSI proﬁle
+that incorporates many different environmental variables during
+busy and slow periods in the library. The success of the localization
+algorithms with such a data collection paradigm would also indicate the robustness of the localization system to function with data
+collected in uncontrolled and varied conditions. In previous work
+(Bahl and Padmanabhan, 2000), researchers had complete control
+over the building being localized and could easily record all ﬁngerprints over a constant environment. At the conclusion of the 224
+scans, a total of 150 unique APs were detected. However, many of
+these APs are transients; i.e., they are likely to be located in nearby
+buildings, and frequently switch in and out during our 2 min scans.
+As a result, our RSSI sample database would be ﬁlled with zeros
+for periods when APs switched out of range. In addition, some APs
+have a RSSI values that are at least 20 standard deviation from the
+mean.
+3.3. Generating ﬁngerprint databases
+This step involves processing the raw RSSI sample database into
+location metrics speciﬁc to each localization algorithm. The metric used by deterministic localization algorithms is the mean RSSI
+value for each AP across all samples in a speciﬁc scan. Probabilistic algorithms use a slightly more complex metric, where the RSSI
+samples for each AP in a speciﬁc scan are ﬁrst ﬁtted to a normal
+distribution before taking the mean and standard deviation. A conditional probability distribution can then be calculated for each
+ﬁngerprint, which is then used to determine the likelihood that an
+observed RSS vector falls within the range of RSSI samples for that
+ﬁngerprint scan. These metrics, which are extracted from the raw
+RSSI data, essentially become the ﬁngerprints for each location and
+orientation and are placed in a new database. The new database
+called the ﬁngerprint database is organized as shown in Fig. 5. The
+ﬁrst axis consists of the metric for each of the four orientations,
+namely, north, south, east and west. The second is the ordered list
+Table 5
+Raw RSSI values (in dBm).
+00DBD1FB4AC
+
+01EF6833130
+
+00D6572C38A
+
+...
+
+00DBD1FB12E
+
+−169
+−169
+−169
+−169
+−169
+...
+−171
+−171
+−171
+
+−179
+−179
+−179
+0
+0
+...
+−179
+−179
+−179
+
+−179
+−178
+−179
+−180
+−179
+...
+−180
+−180
+−179
+
+...
+...
+...
+...
+...
+...
+...
+...
+...
+
+0
+0
+0
+0
+0
+...
+−145
+−145
+−145
+
+Fig. 5. Fingerprint database.
+
+of APs from the RSSI sample database (Table 5), and the ﬁnal axis
+corresponds to the physical location number; i.e., 1–56.
+An important step when generating the ﬁngerprint database is
+the removal of erroneous APs from both databases (ﬁngerprint and
+RSSI sample database) if their performance over the duration of the
+scan is not desirable. During our data collection, we found many
+APs connect and disconnect during each scan. These APs are not
+constantly visible and hence offer a poor localization metric if they
+are relied upon as part of the ﬁngerprint database. Some APs also
+demonstrated very irregular RSSI readings with large variation in
+magnitude over the scan period. The lack of consistency in RSSI
+readings of these APs argues for their removal from the ﬁngerprint
+database, while leaving the more desirable APs intact. An important consideration in selecting which APs to remove is the relative
+independent performance of APs across all individual ﬁngerprints.
+A speciﬁc AP might perform badly in one ﬁngerprint but at a different location, the same AP might perform very well. This could be
+due to the relative proximity of the AP to each ﬁngerprint location
+or related to their locations within the building. Hence, we remove
+undesirable APs for each of the 224 ﬁngerprints independently.
+Erroneous APs are removed using a range of standard deviation cut-offs, i.e., 1–20. That is, we exclude an AP if the standard
+deviation of its RSSI samples exceeded a given cut-off. In fact, from
+the 150 APs detected during the scanning stage, only 100 of these
+APs are included in the ﬁngerprint database with a standard deviation cut-off of 20. This suggests that approximately 50 or 2/3 of
+the APs detected during the data collection stage were undesirable
+transients. The standard deviation cut-off of 20 produces an average of 17.5 APs per ﬁngerprint, substantially less that the total of
+100 APs present in the database. The signiﬁcant different between
+the total APs in the data set and the average number present in an
+individual ﬁngerprint indicates that in this environment, there is
+a large amount of variation in the APs seen at each location. This
+is an important consideration as it suggests that in contrast with
+variations in the RSSI samples from a common set of APs seen at all
+locations, the different physical locations in this environment may
+be better differentiated by the APs observed at each location.
+4. Results
+We used Matlab to test the algorithms described in Section 2.
+We randomly select 5000 RSSI sample vectors from the 100,000
+in our sample database to represent the user’s RSSI observations.
+
+448
+
+B. Dawes, K.-W. Chin / The Journal of Systems and Software 84 (2011) 442–451
+
+20
+
+16
+14
+12
+10
+8
+
+25
+20
+15
+10
+5
+
+6
+4
+
+NNSS
+NNSSO
+OINNSS
+
+30
+
+Mean Error Distance (meter)
+
+18
+
+Mean Error Distance (meter)
+
+35
+
+NNSS
+NNSSO
+OINNSS
+
+0
+
+5
+
+10
+
+15
+
+0
+
+20
+
+0
+
+5
+
+Standard Deviation Cut-Off
+Fig. 6. Performance of NNSS variants.
+
+The performance of the three NNSS variants described in Section
+2 are shown in Fig. 6. There is a constant increase in performance
+using all three methods until a standard deviation cut-off of approximately six. At this point, there are approximately 100 APs in
+the ﬁngerprint database, which means the localization algorithms
+are operating in 100 dimensions. The NNSS algorithm operates at
+an error distance of 4.5 m, outperforming the NNSSO method by
+approximately 0.8 m and the OINNSS method by 4.1 m. Although
+there is still variation in their performance, it is clear that the NNSS
+method consistently produces more accurate results than the other
+two alternatives. The mean error distance for the three alternative
+algorithms averaged over a standard deviation cut-off between six
+and 20 is shown in Table 6.
+From our experimentations, we noticed that each ﬁngerprint
+contains a large number of APs; an average of 17.5. Moreover, not all
+APs are present when an observation vector is presented for localization. We, therefore, investigate whether they are any advantages
+in reducing the number of APs used by deterministic methods.
+Normally, in so called standard dimension, the Euclidean distance
+between the ﬁngerprint and observation vector is calculated over
+all APs even if some of these APs are not present. Speciﬁcally, if
+an AP in the observation vector is not present, the distance in this
+dimension is given as the magnitude of the observation vector. This
+means all APs present in the observation contribute to the localization estimation. On the other hand, in reduced dimension, only the
+APs in the observation vector that are also contained in the ﬁngerprint vector are used in the Euclidean distance calculation. This
+means the Euclidean distance calculation now works with fewer
+APs or reduced dimensions as it ignores missing APs. In the rest of
+
+Table 6
+Average performance of NNSS variants. The range of standard deviation for standard
+and reduced dimension is 6–20 and 8–20 respectively.
+
+NNSS
+NNSSO
+OINNSS
+
+Improvement
+
+Standard dimensions
+
+Reduced dimensions
+
+4.5
+5.3
+8.6
+
+3.5
+4.5
+9.1
+
+20
+
+22%
+15%
+−6%
+
+the paper, we will use the sufﬁx R to denote algorithms that work
+with vectors with reduced dimension; e.g., NNSSR.
+The NNSS algorithm, see Fig. 7, with reduced dimension, has
+the best performance given its 22% decrease in mean error distance.
+This indicates NNSS performs well when only a subset of APs is used
+for localization. Apart from that, we can see that NNSS outperforms
+OINNSS with an error distance of 3.5 m as compared to 8.6 m. This
+result indicates OINNSS is unsuitable for use in combination with
+KNNSS.
+The results thus far suggest that NNSS and NNSSR produce the
+most accurate estimations, and as such may increase the performance of KOLA algorithms. In order to conduct a comparative
+analysis with RADAR (Bahl and Padmanabhan, 2000), we also simulated OINNSS in combination with the KOLA algorithm.
+Over the course of 5000 simulations, UWKOLA, IWKOLA and
+KOLA all performed identically, which suggests that in our test-bed,
+the k ﬁngerprints with the smallest distance from the observation
+vector naturally represent k unique locations. This means no extra
+processing is necessary to ensure there are k unique locations.
+Fig. 8 shows the performance of KOLA and WKOLA in combination with NNSS, NNSSR, OINNSS and OINNSSR. This means if we
+combine KOLA and NNSS (or KNNSS), the resulting algorithm picks
+k locations that have the smallest Euclidean distance. Similarly, for
+KNNSSR, the k locations are computed by only considering APs in
+10
+
+KNNSS
+KNNSSR
+WKNNSS
+WKNNSSR
+8
+KOINNSS
+KOINNSSR
+7
+9
+
+Mean Error Distance (meter)
+
+4.1. Deterministic algorithms
+
+Error distance (m)
+
+15
+
+Fig. 7. Performance of NNSS variants with reduced dimensions.
+
+The 5000 RSSI vectors chosen were randomly distributed across all
+of the 56 locations and four orientations. We then report on the
+median (50th percentile) error distance.
+
+Algorithm
+
+10
+
+Standard Deviation Cut-Off
+
+6
+5
+4
+3
+2
+1
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+k
+Fig. 8. Performance of KOLA variants. The combination of the following techniques
+are displayed: NNSS with KOLA represented as KNNSS, NNSSR with KOLA as KNNSSR,
+NNSS with WKOLA as WKNNSS, NNSSR with WKOLA as WKNNSSR, OINNSS with
+KOLA as KOINNSS, and OINNSSR with KOLA as KOINNSSR.
+
+B. Dawes, K.-W. Chin / The Journal of Systems and Software 84 (2011) 442–451
+
+4
+
+KNPDF
+WKNPDF
+
+3.8
+
+12
+
+Mean Error Distance (meter)
+
+Mean Error Distance (meter)
+
+14
+
+10
+8
+6
+4
+2
+
+449
+
+3.6
+3.4
+3.2
+3
+2.8
+2.6
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+2.4
+
+10
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+k
+
+Standard Deviation Cut-Off
+Fig. 9. NPDF performance.
+
+Fig. 10. KNDPF performance.
+
+the observation vector that are also contained in the ﬁngerprint
+vector. Again, with reduced dimensions, all algorithms have a better performance with the exception of KNNSSIOR. The performance
+increase of KNNSSR and WKNNSSR begins to decrease as k becomes
+larger, which suggests only the ﬁrst few location estimates generated by the reduced dimension algorithms maintain a performance
+advantage. The highest performing algorithm is KNNSSR, which
+uses the basic NNSS method with reduced dimensions in combination with KNNSS. The KNNSSR algorithm, which yields 2.0 m
+accuracy represents an improvement of 43% over NNSSR, which
+only managed to yield an accuracy of 3.5 m. KNNSSR also has the
+advantage of requiring the least calculation because it only uses two
+to three locations. This also indicates NNSS produces very accurate
+results, with the true location most likely contained within the ﬁrst
+one to three estimations.
+
+bilistic and determinitic methods to further improve localization
+performance.
+Fig. 11 shows the performance of Bayesian methods. With mode
+ﬁltering, the basic algorithm provides a performance increase of
+1.0 m after two samples have been processed, and with one sample
+recorded every 0.25 s, this represents a delay in 0.5 s before the location estimation becomes available. On the other hand, with mode
+ﬁltering, the algorithm takes twice as long to reach this accuracy,
+which required four samples. Although the basic algorithm outperforms mode ﬁltered version during the ﬁrst second of operation,
+the mode ﬁltered algorithm continues to increase in accuracy with
+additional samples. At 20 samples, which represents a delay of 5 s,
+the Bayesian method with mode ﬁlter converges onto a mean error
+distance of 2.3 m. In contrast, without mode ﬁltering, the Bayesian
+algorithm reaches its peak performance after two samples, and
+remains constant with the addition of new samples.
+
+4.2. Probabilistic
+4.3. Discussion
+The standard deviation cut-off technique removes undesirable
+APs from the database in a way that maximizes localization performance without requiring sophisticated data collection methods.
+The APs detected during the data collection stage are primarily
+separated into two groups, one with a RSSI sample standard deviation of below 6–8 and another with a standard deviation greater
+than 20. The signiﬁcant standard deviation gap between these two
+
+4.5
+
+Mean Error Distance (meter)
+
+The mean error distance of NPDF, as shown in Fig. 9, shows
+it converging more rapidly to a stable value and at a lower standard deviation cut-off than NNSS variants; viz. Figs. 6 and 7. The
+normal probability distribution function is undeﬁned for standard
+deviations of zero. This property of NPDF also means it inherently
+operates with a reduced dimension ﬁngerprint set.
+The primary advantage of NPDF is its ability to produce comparative performance with fewer APs than NNSS alternatives. A
+standard deviation cut-off of one results in an average of 13 APs
+per ﬁngerprint with NPDF producing an error distance of 12.5 m.
+This result is comparable to NNSS variants, which generate an error
+distance of approximately 13 m at the same standard deviation cut
+off; see Fig. 6. However, NNSS variants operate with the entire ﬁngerprint database of 41 APs at this cut-off in order to produce this
+result. When NNSSR variants operate with 13 APs per ﬁngerprint,
+they produce an error distance in the vicinity of 30 m. With a comparable number of APs utilized, the NPDF performs almost 2.5 times
+better than NNSSR. The ability to perform effectively with fewer APs
+means NPDF is better suited to environments with a lower base
+station density than deterministic methods.
+Fig. 10 shows further improvement can be had when we combine kth location averaging with NPDF; i.e., KOLA with NPDF, where
+the k most probable locations are used for localization. WKNPDF
+consistently produces a mean error distance of 2.6 m after averaging k = 4 most likely user locations. This represents an improvement
+of 38% over NPDF, which operates with an error distance in the
+region of 4 m. Notably, KOLA + NPDF’s performance increased by
+38%. These results, therefore, argue in favor of combining proba-
+
+Bayesian
+Bayesian with Mode Filter
+
+4
+
+3.5
+
+3
+
+2.5
+
+2
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+Number of Samples
+Fig. 11. Effect of mode ﬁlter on Bayesian algorithm.
+
+18
+
+20
+
+450
+
+B. Dawes, K.-W. Chin / The Journal of Systems and Software 84 (2011) 442–451
+
+Fig. 12. The rank of all tested localization algorithms.
+
+groups allows them to be easily separated. The standard dimension
+and more dramatically, the reduced dimension of nearest neighbor variants highlight that localization performance continues to
+increase as the standard deviation cut-off increases. This increase
+in performance plateaus at a standard deviation cut-off of six for the
+standard dimension and eight for reduced dimension variants. The
+relatively consistent performance after this cut-off indicates that
+all the desirable APs have been included in the ﬁngerprint database
+at this point. This technique will allow the effective implementation of localization systems in uncontrolled environments where
+transient and erroneous APs may be detected, as well as building
+robust ﬁngerprint databases, where only the most desirable APs are
+included.
+Our results show that localization methods work well with
+reduced dimensions. With standard dimension, i.e., all APs, the
+presence of an AP in an observation vector can either positively
+or negatively affect the distance metric used to calculate the nearest neighbor. This is because if an AP is observed, it will be factored
+into the distance calculation of all ﬁngerprints, even if it is not presence in our ﬁngerprint database or observation vector. The reduced
+dimension method, however, only uses APs from the observation
+vector. As a consequence, missing APs do not have any impact on
+the resulting calculation.
+Nearest neighbor variants and the NPDF method display reasonably good localization performance when only the most probable
+ﬁngerprint is factored into the location estimation. KOLA, which
+incorporates the k most probable ﬁngerprints into the location estimation, has the best performance. Moreover, when paired with
+NPDF and NNSSR, KOLA achieved an improvement of 38% and 43%
+respectively. The RADAR (Bahl and Padmanabhan, 2000) system,
+however, only achieved a 28% increase with the KOLA algorithm.
+Our results show that OINNSS, a method implemented in RADAR,
+has inferior performance to the method that combines NNSSR and
+KOLA. Recall that OINNSS is used ensure k unique locations. However, we did not observe this problem in our experimentation,
+which suggests that this issue is dependent on the test-bed and
+localization environment, and is not an issue faced by all localization systems. Fig. 12 shows the error distance of all tested
+localization algorithms. Recall that the reported error distance is
+the median from our simulation of 5000 sample points. Note, the
+performance of KNNSSSR and WKNNSSR is taken at k = 4. With a
+higher k value, as shown in Fig. 8, their accuracy reduces to 3.2 and
+2.8 m respectively.
+Investigation of NPDF highlighted a signiﬁcant advantage over
+nearest neighbor methods. Our results show NPDF to have comparable error distance performance but utilizes signiﬁcantly fewer
+APs than nearest neighbor variants. For example, with only 13 APs
+per ﬁngerprint, NDPF has an error distance of 12.5 m as compared to
+30 m for NNSSR. Although this error distance is signiﬁcantly higher
+than the best result achieved, it clearly suggests that probabilistic methods are better suited to environments with very low AP
+density.
+
+The Bayesian algorithm has a lower than expected performance
+as compared to results in previous studies. For example, the authors
+of Heaberlen et al. (2004) reported a continuous performance
+increase with additional samples. In our case, its performance
+peaked after two samples, which suggests that the environment
+and ﬁngerprints used possess a very large amount of variability.
+Hence, these variabilities, both in the ﬁngerprint and observation
+vectors, limit the ability of Bayesian methods to deliver increasingly accurate position estimations. The peak performance of the
+Bayesian method after only two samples suggests that when more
+than two observation samples are considered, there is too much
+variation within the samples to make a more accurate position
+estimation. This limitation, however, is addressed effectively by
+incorporating a mode ﬁlter.
+5. Conclusion
+This paper has evaluated two classes of localization methods
+that exploit the ubiquity of WLANs on a common test-bed. In
+addition, it identiﬁes and provides solution to the following key
+issues: high number of APs, which increases the dimension of
+RSSI ﬁngerprints, transient APs that “drift” in and out of range
+constantly, and variable RSSI values – the latter two issues are particularly important as they render localization methods ineffective.
+To address these issues, we have proposed numerous enhancements to existing localization methods, and argue the importance
+of removing transient APs. In this respect, our standard deviation
+cut-off technique generated favorable results when tested with
+both deterministic and probabilistic ﬁngerprints. Apart from that,
+we found methods based on probability distributions to perform
+poorly in environments that display highly variable signal strength
+characteristics – as is the case on our testbed. This is due to the
+variation of RSSI samples across the sample set, which negates
+the advantage of using multiple RSSI samples to calculate a position estimate. In such environments, algorithms based on nearest
+neighbors, which calculate position estimations based on a single
+RSSI observation vector, offer greater efﬁciency in terms of accuracy versus computational cost. The kth order location averaging
+technique or KOLA offers signiﬁcant performance enhancement in
+highly variable environments. Moreover, it is simple, effective and
+proven to increase localization accuracy by up to 43%. Lastly, the
+proposed mode ﬁltering technique proved very effective in reducing the error distance of the Bayesian algorithm. In particular, it
+addresses a key limitation with the Bayesian algorithm when operating in uncontrolled environments which have high variability in
+terms of RSSI and APs.
+Acknowledgment
+We like to give our sincere thanks to the anonymous reviewers
+for helping us improve the presentation of this paper.
+
+B. Dawes, K.-W. Chin / The Journal of Systems and Software 84 (2011) 442–451
+
+References
+Bahl, P., Padmanabhan, V., 2000. RADAR: an in-building RF-based user location and
+tracking system. In: Proceedings of the IEEE INFOCOM’2000, Tel-Aviv, Israel.
+Bahl, P., Balachandran, A., Padmanabhan, V., 2000. Enhancements to the RADAR user
+location and tracking system. Microsoft Technical Report, February 2000.
+Bardram1, J.E., Hansen1, T.R., Mogensen1, M., Soegaard, M., 2006. UbiComp, Chapter
+Experiences from Real World Deployment of Context-Aware Technologies in a
+Hospital Environment. Lecture Notes in Computer Science.
+Barsocchi, P., Lenzi, S., Chessa, S., Giunta, G., 2009. Virtual calibration for RSSI-based
+indoor localization with IEEE 802.15.4. In: IEEE ICC, Dresden, Germany, June
+2009.
+Battiti, R., Brunato, M., Villani, A., 2005. Statistical learning theory for location ﬁngerprinting in wireless LANs. Computer Networks and ISDN Systems 47, 825–845.
+Getting, I., 1993. Perspective on navigation: the global positioning system. IEEE
+Spectrum 30, 36–38.
+Haartsen, J., Naghshineh, M., Inouye, J., Joeressen, O.J., Allen, W., 1998. Bluetooth:
+vision, goals, and architecture. ACM Mobile Computing and Communications
+Review 2 (4 (October)).
+Harter, A., Hopper, A., Steggles, P., Ward, A., Webster, P., 1999. The anatomy of
+context-aware application. In: ACM MOBICOM, Seattle, USA, October 1999.
+Haeberlen, A., Flannery, E., Ladd, A., Rudys, A., Wallach, D., Kavraki, L., 2004. Practical robust localization over large-scale 802.11 wireless networks. In: ACM
+MOBICOM, Philadelphia, USA, October 2004.
+Hossain, M., Van, H., Jin, Y., Soh, W., 2007. Indoor localization using multiple wireless
+technologies. In: IEEE MASS, Pisa, Italy, October 2007.
+Kaemarungsi, K., 2005. Design of indoor positioning systems based on location ﬁngerprinting technique. PhD Thesis.
+Ladd, A., Bekris, K., Rudys, A., Marceau, G., Kavraki, L., Wallach, D., 2002. Roboticsbased location sensing using wireless ethernet. In: IEEE MOBICOM, Atlanta, USA,
+2002.
+Lim, H., Kung, L., Hou, J., Luo, H., 2006. Zeroconﬁguration, robust indoor localization:
+theory and experimentation. In: IEEE INFOCOM, Barcelona, Spain, April 2006.
+Orr, R.J., Abowd, G.D., 2000. The smart ﬂoor: a mechanism for natural user identiﬁcation and tracking. In: ACM Conf. on Human Factors in Computing Systems,
+Netherlands, April 2000.
+Prasithsangaree, P., Krishnamurthy, P., Chrysanthis, P., 2002. On indoor position
+location with wireless LANs. In: IEEE PIMRC, Portugal, September 2002.
+Priyantha, N., Chakraborty, A., Balakrishnan, H., 2000. The cricket location system.
+In: ACM MOBICOM, Boston, USA, October 2000.
+
+451
+
+Roos, T., Myllymaki, P., Tirri, H., Misikangas, P., Sievanen, J., 2002. A probabilistic
+approach to WLAN user location estimation. International Journal of Wireless
+Information Networks 9 (July), 155–164.
+Saha, S., Chaudhuri, K., Sanghi, D., Bhagwat, P., 2003. Location determination of a
+mobile device using IEEE 802.11b access point signals. In: IEEE WCNC 2003,
+New Orleans, USA, March 2003.
+SourceForge. WiFi Card Manager. http://sourceforge.net/projects/wiﬁcardmanager/.
+Varshavsky, A., de Lara, E., Hightower, J., LaMarca, A., Otsason, V., 2007. GSM indoor
+localization. Elsevier Pervasive and Mobile Computing 3 (6), 698–720.
+Wang, R., Hooper, A., Falcao, V., Gibbons, J., 1992. The active badge location system.
+ACM Transactions on Information Systems 10, 91–102.
+Microsoft. WLAN API. Software Documentation. http://msdn.microsoft.com/enus/library/ms706556%28VS.85%29.aspx.
+Xiang, Z., Song, S., Chen, J., Wang, H., Huang, J., Gao, X., 2004. A wireless LAN based
+indoor positioning technology. IBM Journal Research Development 48 (March),
+617–626.
+Youssef, M., Agrawala, A., Shankar, A.U., 2003. WLAN location determination via
+clustering and probability distributions. In: IEEE Wireless Communications and
+Networking Conference (WCNC’03), New Orleans, USA, March 2003.
+Zagami, J., Parl, S., Bussgang, J., Melillo, K., 1998. Providing universal location service
+using a wireless e911 location network. IEEE Communications Magazine 36,
+66–71.
+Brett Dawes graduated with a Bachelor of Electrical Engineering (Honours) from
+the University of Wollongong in 2009. He received a high distinction for his honous thesis on indoor localization methods. His main interests included localization
+algorithms, and positioning algorithms for indoor environments.
+Kwan-Wu Chin is currently an Associate Professor at the School of Electrical,
+COmputers, and Telecommunications Engineering, at the University of Wollongong, Australia. He obtained his PhD from Curtin University of Technology, Western
+Australia, in 2000. After that, he joined the Motorola Australia Research Center as a
+Senior Research Engineer, where he designed zero-conﬁguration and wireless sensor networks protocols. He holds four US patents, and has published more than 45
+conference and journal papers in various areas of wireless networks, ranging from
+RFID to dimensioning Voice over IP calls. His current interests include designing
+approximation algorithms to NP-hard problems and resource allocation problems
+in single and multi-hop wireless networks.
+
+

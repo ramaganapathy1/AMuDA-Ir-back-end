@@ -1,0 +1,3871 @@
+sequence number::14.0
+rfid tag::13.0
+cache table::11.0
+knowledge base::8.0
+data dissemination::8.0
+rfid tags::8.0
+user memory bank::6.33985000288
+memory bank starting address::6.0
+resource discovery::6.0
+traveled hops::6.0
+parameter membank wordptr wordcount::6.0
+semantic annotation::6.0
+node receives an advertisement::6.0
+memory bank parameter membank::6.0
+epc code::6.0
+rfid reader::6.0
+bank parameter membank wordptr::6.0
+memory bank::6.0
+bank starting address read::6.0
+cache content::6.0
+membank wordptr wordcount value::6.0
+epcglobal rfid::5.0
+solicit pdu::5.0
+field layer::5.0
+resource description::5.0
+advertisement pdu::5.0
+knowledge representation::5.0
+demand pdu::5.0
+semantically annotated description::4.75488750216
+wordptr wordcount value::4.75488750216
+memory bank parameter::4.75488750216
+cache content pdu::4.75488750216
+starting address read::4.75488750216
+semantic enabled tags::4.75488750216
+content pdu::4.0
+last hop sequence number::4.0
+semantic annotations from tags::4.0
+node processing the request::4.0
+user memory bank parameter::4.0
+solicit packet::4.0
+echo of the advertisement::4.0
+description user memory bank::4.0
+user memory::4.0
+carry out an advanced::4.0
+unique and fixed knowledge::4.0
+u-kb the proposed framework::4.0
+dissemination protocol::4.0
+proposed framework::4.0
+read command to extract::4.0
+metadata stored in rfid::4.0
+number of the node::4.0
+pdu fields::4.0
+equipped with rfid tags::4.0
+node receives::4.0
+nearby nodes::4.0
+advertisement packet::4.0
+user memory bank starting::4.0
+out an advanced matchmaking::4.0
+tag field layer rfid::4.0
+set by a requester::4.0
+field layer rfid epcglobal::4.0
+semantically annotated::4.0
+discovery layer::4.0
+tags in its radio::4.0
+annotations from tags::3.16992500144
+semantic sensor net::3.16992500144
+last node processing::3.16992500144
+bank starting address::3.16992500144
+equipped with rfid::3.16992500144
+fixed knowledge bases::3.16992500144
+ubiquitous knowledge base::3.16992500144
+out an advanced::3.16992500144
+maintains the ordinary::3.16992500144
+ubiquitous computing applications::3.16992500144
+bank parameter membank::3.16992500144
+membank wordptr wordcount::3.16992500144
+electronic product code::3.16992500144
+lack of space::3.16992500144
+shown in table::3.16992500144
+tag field layer::3.16992500144
+order to reduce::3.16992500144
+number of hops::3.16992500144
+memory bank starting::3.16992500144
+components and operations::3.16992500144
+data dissemination phase::3.16992500144
+stored in rfid::3.16992500144
+knowledge representation system::3.16992500144
+max adv jitter::3.16992500144
+advanced resource discovery::3.16992500144
+max adv diameter::3.16992500144
+hop sequence number::3.16992500144
+tid memory bank::3.16992500144
+description user memory::3.16992500144
+receiving a solicit::3.16992500144
+advertisement period default::3.16992500144
+semantic-enhanced epcglobal rfid::3.16992500144
+due to lack::3.16992500144
+number of resource::3.16992500144
+number of requests::3.16992500144
+wordptr wordcount::3.0
+ubiquitous knowledge::3.0
+rfid epcglobal::3.0
+mobile host::3.0
+proposed approach::3.0
+resource descriptions::3.0
+tag field::3.0
+pervasive computing::3.0
+advanced resource::3.0
+representation system::3.0
+description logic::3.0
+address read::3.0
+smart environment::3.0
+requester node::3.0
+read command::3.0
+default rtime::3.0
+data propagation::3.0
+semantic web::3.0
+source address::3.0
+previous work::3.0
+radio range::3.0
+semantic enabled::3.0
+max adv::3.0
+semantic annotations::3.0
+rfid tag tag field::2.0
+u-kb approach::2.0
+mobile and ubiquitous computing::2.0
+case of rfid tags::2.0
+ouuid ; semantic annotation::2.0
+framework presents a two::2.0
+area can access information::2.0
+overview of ad hoc::2.0
+distributed and decentralized knowledge::2.0
+structure of an advertisement::2.0
+rfid epcglobal rfid tag::2.0
+accurate descriptions of raw::2.0
+content pdu in unicast::2.0
+specifies the ontology identifier::2.0
+engine was a single::2.0
+approach can be extended::2.0
+directly from tags located::2.0
+max retries maximum number::2.0
+original request::2.0
+receives an advertisement frame::2.0
+waited when forwarding advertisement::2.0
+approach to carry out::2.0
+extraction of goods parameters::2.0
+directly on tags attached::2.0
+retrieval on rfid tags::2.0
+updates will be automatically::2.0
+mobile rfid readers equipped::2.0
+vast majority of applications::2.0
+scan of semantic enabled::2.0
+description sl flag set::2.0
+architecture as it advertises::2.0
+dissemination has an upper::2.0
+entity through a gateway::2.0
+parameters referred to tags::2.0
+memory of forwarding nodes::2.0
+single point of failure::2.0
+autonomic creation and maintenance::2.0
+model of the data::2.0
+ack rtt::2.0
+scan the same tag::2.0
+transmission error has occurred::2.0
+reduce the collision probability::2.0
+entries matching parameters contained::2.0
+description tid memory bank::2.0
+node the solicit cames::2.0
+inclusion of the 96-bit::2.0
+retrieval of advertised semantic::2.0
+tags and wireless sensors::2.0
+contexts if an internet::2.0
+definition of the components::2.0
+reader which has inventoried::2.0
+defined before object annotation::2.0
+hop sequence::2.0
+table entries::2.0
+internet and protocol technology::2.0
+code of a specific::2.0
+areas of rfid technology::2.0
+carried out::2.0
+dl-based ontology languages originally::2.0
+presents a two level::2.0
+hop wait timer set::2.0
+focuses on the definition::2.0
+wireless lan medium access::2.0
+means of a case::2.0
+computing environment::2.0
+tags in the reader::2.0
+select command with parameters::2.0
+located on the objects::2.0
+definition of an individual::2.0
+framework name default rtime::2.0
+spurious leave-enter event pairs::2.0
+alignment protocol between caches::2.0
+refers to an ontology::2.0
+advanced matchmaking using metadata::2.0
+transmission of the advertisement::2.0
+differences and performance issues::2.0
+tag and reader mobility::2.0
+detected in every consecutive::2.0
+enabled tags are preselected::2.0
+interval between two consecutive::2.0
+descriptions directly on tags::2.0
+networks specific requirements part::2.0
+advertisement pdu is sketched::2.0
+demand pdus::2.0
+discovery in pervasive contexts::2.0
+object properties and purposes::2.0
+museums and archaeological sites::2.0
+order to extract implicit::2.0
+systems designed for wired::2.0
+size of the packet::2.0
+terms of what functions::2.0
+advertises individuals it sees::2.0
+ontology language::2.0
+provide not only monitoring::2.0
+reader does not receive::2.0
+build a u-kb system::2.0
+resource discovery is supported::2.0
+epcs of the tags::2.0
+propagation and retrieval framework::2.0
+phase and of semantic::2.0
+epcglobal standard for class::2.0
+emerging yet challenging technology::2.0
+presence of other nodes::2.0
+application-specific and context-aware information::2.0
+knowledge embedded into semantic-enhanced::2.0
+inference procedures::2.0
+dissemination protocol to enable::2.0
+means of a unique::2.0
+long as large computing::2.0
+dissemination phase odically send::2.0
+telecommunications and information exchange::2.0
+advertisement or a cache::2.0
+marks the last reference::2.0
+data alignment and prevents::2.0
+wide range of objects::2.0
+pointer to the compressed::2.0
+sequence number resource description::2.0
+descriptions of raw materials::2.0
+integrate and extend logic-based::2.0
+components in our approach::2.0
+integration of semanticenhanced epcglobal::2.0
+knowledge in the form::2.0
+node sending the packet::2.0
+managed resources are considered::2.0
+attributes from user memory::2.0
+simulation environment::2.0
+table management each reader::2.0
+cache memory::2.0
+identifier of the original::2.0
+tinelli politecnico di bari::2.0
+knowledge embedded within rfid::2.0
+locate suitable descriptions directly::2.0
+replies to the demand::2.0
+knowledge base has two::2.0
+manages a cache table::2.0
+on-demand retrieval of suitable::2.0
+vision a u-kb layer::2.0
+decision support to clinicians::2.0
+benefit from easier inventory::2.0
+based on centralized control::2.0
+share the system infrastructure::2.0
+dipped in the environment::2.0
+lead to an unacceptable::2.0
+tid memory bank starting::2.0
+starting a resource matchmaking::2.0
+number of resource handles::2.0
+advertisement packets one hop::2.0
+approach using ns-2 simulation::2.0
+enabled tags parameter target::2.0
+node located at discovery::2.0
+cache or if managed::2.0
+epc memory initial address::2.0
+regulates the frame travel::2.0
+dissemination phase::2.0
+rfid reader and tag::2.0
+minimizes transmissions for data::2.0
+values for context aware::2.0
+change during normal system::2.0
+requester node receives information::2.0
+track of the freshness::2.0
+identifier of the reference::2.0
+phase max retries maximum::2.0
+suitable descriptions::2.0
+case of new items::2.0
+interface specifications for knowledge::2.0
+epcglobal object naming service::2.0
+number of the last::2.0
+replies to the requester::2.0
+performed either by hosts::2.0
+adaptation of reasoning procedures::2.0
+case study::2.0
+pdu fig::2.0
+layer rfid epcglobal rfid::2.0
+stored in the cache::2.0
+web and grid services::2.0
+individuals in the environment::2.0
+waits for the echo::2.0
+analytical model::2.0
+command as in table::2.0
+international journal of internet::2.0
+data propagation and retrieval::2.0
+management each reader manages::2.0
+e..l 4..7 reserved advertisement::2.0
+operations in our u-kb::2.0
+knowledge discovery in home::2.0
+trigger spurious leave-enter event::2.0
+metadata stored::2.0
+semantic-based sensory data dissemination::2.0
+experience in using knowledge::2.0
+wireless semantic sensor networks::2.0
+smart environments m ruta::2.0
+transmissions for data alignment::2.0
+system to enable rfid::2.0
+exposing a high-level interface::2.0
+readers receiving a cache::2.0
+detail the data structures::2.0
+last hop::2.0
+code in the case::2.0
+reasoning is carried out::2.0
+membank pointer length mask::2.0
+object categories can co-exist::2.0
+remaining time to live::2.0
+update their own cache::2.0
+constant values::2.0
+lifecycle of industrial products::2.0
+information storage are utterly::2.0
+proposed framework type bit::2.0
+number for the advertisement::2.0
+compressed semantic::2.0
+address of the resource::2.0
+tags attached to objects::2.0
+applications and the internet::2.0
+semantic web and information::2.0
+period default::2.0
+tags populating a smart::2.0
+nodes forward the packet::2.0
+tags in its range::2.0
+packet is silently discarded::2.0
+structure of a typical::2.0
+advertises contextual parameters referred::2.0
+effective only as long::2.0
+performed following a data::2.0
+maximum number of retransmissions::2.0
+function of tag population::2.0
+scheduled after a longer::2.0
+address of the rfid::2.0
+identifier for the specific::2.0
+involved in the data::2.0
+ontology languages originally conceived::2.0
+matchmaking using metadata stored::2.0
+approaches based on description::2.0
+annotated compressed object description::2.0
+advanced solutions for e.g::2.0
+set of data-oriented attributes::2.0
+stored in rfid tags::2.0
+expensive investments in infrastructure::2.0
+advertisements max adv jitter::2.0
+characteristics from field layer::2.0
+introduction in pervasive contexts::2.0
+u-kb layer::2.0
+collision or a transmission::2.0
+leveraging the lightweight infrastructure::2.0
+reasoning over a knowledge::2.0
+exchange between systems local::2.0
+host receives a demand::2.0
+updated and the maximum::2.0
+code of the single::2.0
+knowledge by using inference::2.0
+live of a resource::2.0
+total hops::2.0
+description logics::2.0
+providing cache table entries::2.0
+rfid tags and wireless::2.0
+hoc networks::2.0
+starts an rfid scan::2.0
+contextual attributes::2.0
+knowledge representation system specification::2.0
+pointer length mask value::2.0
+access to knowledge embedded::2.0
+rfid tag field layer::2.0
+information is more recent::2.0
+address of the reader::2.0
+prevents the well-known issue::2.0
+problem within the domain::2.0
+embedded into semantic-enhanced epcglobal::2.0
+supported by a dissemination::2.0
+generated by data dissemination::2.0
+arpa knowledge sharing effort::2.0
+motivation of our paper::2.0
+form of an ontology::2.0
+implied by the information::2.0
+notify individuals to neighboring::2.0
+characteristics of pervasive computing::2.0
+metropolitan area networks specific::2.0
+base has two components::2.0
+contained in an ontology::2.0
+specifically in pervasive computing::2.0
+devices such as rfid::2.0
+tags are then scanned::2.0
+resource providers peri fig::2.0
+granted to local visitors::2.0
+diameter current search diameter::2.0
+developed an analytical model::2.0
+discovery approach for pervasive::2.0
+individual is a semantically::2.0
+precision agriculture and disaster::2.0
+route the pdu suggests::2.0
+content pdu an entry::2.0
+means of this frame::2.0
+out in a reduced::2.0
+attribute it is interested::2.0
+rich description and discovery::2.0
+supported by a suitable::2.0
+application-layer protocol for dissemination::2.0
+responsible for u-kb creation::2.0
+bank of the tag::2.0
+addresses of hosts owning::2.0
+rfid tags without unique::2.0
+details of the semantic-enhanced::2.0
+technologies help break barriers::2.0
+individuals through sequence numbers::2.0
+feasibility study using ibm::2.0
+radio range and tags::2.0
+ontology universally unique identifiers::2.0
+wordcount value::2.0
+request to a local::2.0
+layer rfid epcglobal fig::2.0
+reader sets this value::2.0
+proportionally with the number::2.0
+processing capability and short-range::2.0
+lightweight infrastructure already deployed::2.0
+update or individual removal::2.0
+resource provider::2.0
+lacking unique and fixed::2.0
+traffic generated by data::2.0
+pdu fields are outlined::2.0
+annotations from tags memories::2.0
+random error communication link::2.0
+access to local cache::2.0
+maintains the ordinary meaning::2.0
+descriptions directly from tags::2.0
+u-kb creation and management::2.0
+system allows autonomic creation::2.0
+verifies if the received::2.0
+anti-collision performance of gen2::2.0
+base where the factual::2.0
+extend logic-based reasoning services::2.0
+large number of heterogeneous::2.0
+solutions for the integration::2.0
+power and cost constraints::2.0
+discovery in smart environments::2.0
+inference procedures that determine::2.0
+network layers we adopt::2.0
+table for entries compatible::2.0
+analogous to the advertising::2.0
+knowledge that is specific::2.0
+aware of all individuals::2.0
+hops for the advertisement::2.0
+rfid readers are adopted::2.0
+size lifetime timestamp traveled::2.0
+connected through the internet::2.0
+byte   source::2.0
+entry of the cache::2.0
+advanced resource discovery framework::2.0
+sensitivity to topology variations::2.0
+linear function of tag::2.0
+epcglobal rfid into mobile::2.0
+grants each mobile node::2.0
+codes of semantic based::2.0
+description and discovery layer::2.0
+maximum value for random::2.0
+led to expensive information::2.0
+resource description epc fig::2.0
+sends the same advertisement::2.0
+end user memory bank::2.0
+present a general framework::2.0
+reads the semantically annotated::2.0
+dissemination and query processing::2.0
+node forwarding the packet::2.0
+maintains the ordinary structure::2.0
+needed to enable advanced::2.0
+generally attempts to cover::2.0
+individuals avoids unnecessary data::2.0
+exploited at the field::2.0
+readers attempt to scan::2.0
+abox containing extensional knowledge::2.0
+communication between the tag::2.0
+reasoning services with application-specific::2.0
+stored as a compressed::2.0
+explicit assertions of terminological::2.0
+management is greatly improved::2.0
+framework to carry out::2.0
+procedures can be executed::2.0
+advertisement pdu to notify::2.0
+level infrastructure where rfid::2.0
+typical sequence and involved::2.0
+proposed approach are revised::2.0
+total hops the pdu::2.0
+number of advertised resources::2.0
+detailed and formal interface::2.0
+located at discovery diameter::2.0
+central repositories where knowledge::2.0
+u-kbs can actually populate::2.0
+advertisement packet transmissions polling::2.0
+advertisement packet it originally::2.0
+analogous to the previous::2.0
+coincides with the previous::2.0
+supported by a knowledge::2.0
+pervasive technologies help break::2.0
+content of each field::2.0
+cache contents reception hop::2.0
+submit any ask-type request::2.0
+interaction for advanced resource::2.0
+table where it stores::2.0
+node receiving a solicit::2.0
+semantically annotated compressed object::2.0
+scenario with a partition-free::2.0
+table is fully updated::2.0
+requester has no resource::2.0
+tag tag field layer::2.0
+recur in our definition::2.0
+mechanism grants each mobile::2.0
+cache table for entries::2.0
+spent into the adaptation::2.0
+reference to the entry::2.0
+objects equipped with rfid::2.0
+web and information systems::2.0
+monitoring and sensing technologies::2.0
+epcglobal standard was enhanced::2.0
+individuals to neighboring hosts::2.0
+gateway exposing a high-level::2.0
+information about the resources::2.0
+assuring on-demand knowledge availability::2.0
+hospital and at home::2.0
+aspects of the proposed::2.0
+identifier and a range::2.0
+object characteristics from field::2.0
+state where every host::2.0
+ontology describing general concepts::2.0
+description update or individual::2.0
+record in the reader::2.0
+structures and protocol devised::2.0
+host in the area::2.0
+waiting for cache contents::2.0
+aim at assuring on-demand::2.0
+operations of a u-kb::2.0
+resource discovery is based::2.0
+bank starting::2.0
+forwarded using mac broadcasts::2.0
+demand pdu when starting::2.0
+terminological knowledge and information::2.0
+depending on the number::2.0
+tid memory::2.0
+international workshop on description::2.0
+alignment and prevents propagation::2.0
+evaluation of the proposed::2.0
+distinguish different solicit requests::2.0
+conceived for the semantic::2.0
+neighbor for ack rtt::2.0
+rfid protocol::2.0
+agriculture and disaster recovery::2.0
+starting address::2.0
+building on our previous::2.0
+forward a solicit packet::2.0
+remaining flags are reserved::2.0
+break barriers between patient::2.0
+rfid tag rfid tag::2.0
+echo of the advertisements::2.0
+membank wordptr::2.0
+referred to the last::2.0
+descriptions from field level::2.0
+rfid protocol data exchange::2.0
+data structures::2.0
+epcglobal rfid tags populating::2.0
+reader manages a cache::2.0
+matchmaking using semantic metadata::2.0
+stored within the rfid::2.0
+knowledge of the problem::2.0
+command able to extract::2.0
+international journal of web::2.0
+tests have been carried::2.0
+knowledge bases::2.0
+tag data dissemination phase::2.0
+coping with the characteristics::2.0
+networks are hardly adaptable::2.0
+extract the compressed semantic::2.0
+performing an extensive simulation::2.0
+providing the intensional knowledge::2.0
+original requester node receives::2.0
+studied specifically in pervasive::2.0
+sensing technologies beyond rfid::2.0
+parameter target action membank::2.0
+advertisement pdu in figure::2.0
+cache containing the advertisements::2.0
+maximum number of hops::2.0
+object discovery in smart::2.0
+generating a solicit packet::2.0
+advertisement period::2.0
+exposing system data structures::2.0
+demand and solicit pdus::2.0
+reconstruct a local subset::2.0
+updated and the host::2.0
+centralized control and information::2.0
+tables provides ip addresses::2.0
+packet it originally transmitted::2.0
+paper presents an extended::2.0
+performance of gen2 air::2.0
+endowed with very low::2.0
+soliciting mechanism is analogous::2.0
+tags of an ontology::2.0
+related to the inter-reader::2.0
+provide any acknowledgment frame::2.0
+stems from our experience::2.0
+annotation from user memory::2.0
+tag rfid tag field::2.0
+tbox and the abox::2.0
+detected for an existing::2.0
+domain ; an abox::2.0
+object annotation and u-kb::2.0
+depending on a centralized::2.0
+type bit set pdu::2.0
+timestamp traveled hops sequence::2.0
+protocol in random error::2.0
+readers exploits the semantic-enhanced::2.0
+granting a theoretically acceptable::2.0
+bari via re david::2.0
+duration of service discovery::2.0
+estimate whether the inclusion::2.0
+suitable values for context::2.0
+object discovery::2.0
+dig description logic interface::2.0
+present in its cache::2.0
+format of a solicit::2.0
+field and readers exploits::2.0
+group of the arpa::2.0
+end of the loop::2.0
+code is not detected::2.0
+destination address::2.0
+effort is being spent::2.0
+frame for broadcast transmission::2.0
+monitoring but also decision::2.0
+percentage of successful resource::2.0
+impractical in such scenarios::2.0
+approach for pervasive environments::2.0
+neighbor ack rtt timer::2.0
+workshop on description logics::2.0
+ran across a shorter::2.0
+assertions of terminological knowledge::2.0
+layers in the proposed::2.0
+knowledge representation we exploit::2.0
+duplication within the environment::2.0
+aware of the network::2.0
+plays a central role::2.0
+support storage and retrieval::2.0
+discovery framework::2.0
+field of the advertisement::2.0
+semantic-enhanced epcglobal::2.0
+physically tied to micro::2.0
+action membank pointer length::2.0
+conforming to the epcglobal::2.0
+preliminary assessment of resource::2.0
+descriptions in its cache::2.0
+command to extract contextual::2.0
+dig ; a set::2.0
+discovery framework is supported::2.0
+inventoried by a reader::2.0
+requester can fetch ontology::2.0
+selection allows to choose::2.0
+advanced matchmaking using semantic::2.0
+semantic annotation from user::2.0
+epc codes of semantic::2.0
+allowing to exactly locate::2.0
+order to reduce power::2.0
+receives a demand pdu::2.0
+epc code not present::2.0
+contents reception hop traversal::2.0
+scattered within a smart::2.0
+frameworks for ubiquitous computing::2.0
+area networks specific requirements::2.0
+scenarios with both fixed::2.0
+populating a smart environment::2.0
+avoids unnecessary data transfers::2.0
+embedded into a physical::2.0
+freshness of advertised individuals::2.0
+request by using resource::2.0
+application to the enterprise::2.0
+ontology providing the intensional::2.0
+unicast toward the node::2.0
+framework architecture we hypothesize::2.0
+protocol for m-commerce applications::2.0
+deployed in the field::2.0
+node forwards the packet::2.0
+assuming that a collision::2.0
+shorter than the previously::2.0
+ttl of corresponding cache::2.0
+u-kb if not renewed::2.0
+semantic-based descriptions from field::2.0
+field layer to discovery::2.0
+table entries matching parameters::2.0
+command able to detect::2.0
+functional and non-functional requirements::2.0
+require a preliminary retrieval::2.0
+extraction of resource annotations::2.0
+tied to micro devices::2.0
+maximum number::2.0
+local or remote reasoning::2.0
+scanned individually and ttl::2.0
+phase odically send advertisement::2.0
+advanced matchmaking::2.0
+reference ontology::2.0
+ontology support in ubiquitous::2.0
+adopt ontology universally unique::2.0
+lifetime timestamp traveled hops::2.0
+variable length::2.0
+bank to compare table::2.0
+table entries are refreshed::2.0
+compatible with the request::2.0
+unambiguously labels the pdu::2.0
+inventoried a tag series::2.0
+revised ; in section::2.0
+ordinary structure and functionality::2.0
+packets one hop wait::2.0
+ouuid from the tid::2.0
+populate the same environment::2.0
+based on three stages::2.0
+told to the system::2.0
+u-kb layer provides access::2.0
+proceedings of the 16th::2.0
+host specifies the ontology::2.0
+traveled hops sequence number::2.0
+web sevices of rpc::2.0
+physical environment by means::2.0
+knowledge-based system::2.0
+description of a resource::2.0
+lan medium access control::2.0
+initial knowledge acquisition phase::2.0
+central component for reasoning::2.0
+status flag to distinguish::2.0
+identification frameworks for ubiquitous::2.0
+descriptions directly::2.0
+epc among those listed::2.0
+phenomenon can trigger spurious::2.0
+pdu has to skip::2.0
+formally described and tracked::2.0
+environments where a wide::2.0
+rfid-based u-kb the proposed::2.0
+address number of bits::2.0
+reference ontology the resource::2.0
+size of this field::2.0
+discovery of knowledge embedded::2.0
+resource discovery in pervasive::2.0
+framework comprises the specification::2.0
+flag set in case::2.0
+semantic-enhanced rfid protocol proposed::2.0
+annotations were placed simultaneously::2.0
+issue an advertisement pdu::2.0
+ouuid size lifetime timestamp::2.0
+metadata stored in rfids::2.0
+discovery diameter current search::2.0
+individual to the ontology::2.0
+academy of marketing science::2.0
+listed in the pdu::2.0
+application areas of rfid::2.0
+node generating a solicit::2.0
+target action membank pointer::2.0
+owning all the individuals::2.0
+control and information storage::2.0
+amount of useful information::2.0
+resource handles the pdu::2.0
+specifications for knowledge representation::2.0
+meet the specified criteria::2.0
+systems allow to un-tell::2.0
+data structures and protocol::2.0
+tags in a manet-based::2.0
+centralized repository and coordination::2.0
+semantic-enhanced epcglobal rfid tags::2.0
+discovery frameworks for objects::2.0
+bluetooth-rfid interaction for advanced::2.0
+cache fig::2.0
+show the typical sequence::2.0
+readers equipped with ieee::2.0
+pervasive contexts::2.0
+protocol does not provide::2.0
+addition to the epc::2.0
+nodes in its neighborhood::2.0
+representation we exploit dl-based::2.0
+description-logic knowledge representation system::2.0
+ontology file and filtered::2.0
+fragment in the dl-based::2.0
+enable rfid object discovery::2.0
+unambiguously and to associate::2.0
+send a solicit pdu::2.0
+file and filtered individuals::2.0
+scenarios all application areas::2.0
+max retries::2.0
+cache memory of forwarding::2.0
+attributes and a compressed::2.0
+number of requested resource::2.0
+network infrastructure are granted::2.0
+resource in the manet::2.0
+evaluation of the approach::2.0
+pdu to notify individuals::2.0
+quality control can exploit::2.0
+environments the tbox seldom::2.0
+number resource description epc::2.0
+data dissemination phase odically::2.0
+designed for wired networks::2.0
+individual in a u-kb::2.0
+agricultural and food products::2.0
+smart semantic-based content fruition::2.0
+identified for kb management::2.0
+scattered among objects disseminated::2.0
+compressed object description stored::2.0
+annotated description is missing::2.0
+case of description update::2.0
+pda rfid::2.0
+foundations of a functional::2.0
+individuals from their respective::2.0
+study using ibm websphere::2.0
+remaining of the paper::2.0
+cache content pdu update::2.0
+address ouuid size lifetime::2.0
+advertised individuals through sequence::2.0
+descriptions from their respective::2.0
+timer set::2.0
+destination node::2.0
+epcglobal rfid protocol data::2.0
+resources and a stable::2.0
+allowing an on-demand retrieval::2.0
+support of apulia project::2.0
+memory initial address number::2.0
+data alignment::2.0
+objects represent kb individuals::2.0
+u-kb is a distributed::2.0
+data propagation among readers::2.0
+carry out::2.0
+host scans rfid tags::2.0
+bits bit mask clear::2.0
+globally unique item identifier::2.0
+build up a multi-hop::2.0
+node needs to process::2.0
+ack after a solicit::2.0
+stored in rfids lacking::2.0
+hops from the requester::2.0
+storage are utterly impractical::2.0
+odically send advertisement packets::2.0
+production environments the tbox::2.0
+data dissemination and query::2.0
+path than the existing::2.0
+micro devices::2.0
+memories of the nodes::2.0
+scalability to the system::2.0
+retrieval of suitable descriptions::2.0
+electronic product::2.0
+epcglobal rfid tag rfid::2.0
+advertisement packets::2.0
+embedded within rfid tags::2.0
+data structures and low-level::2.0
+detects a new epc::2.0
+acknowledge support of apulia::2.0
+operations require a preliminary::2.0
+pdu suggests is shorter::2.0
+information satisfying the solicit::2.0
+unicast the corresponding semantically::2.0
+depend on object properties::2.0
+current krss are characterized::2.0
+properties of the reference::2.0
+entry could be added::2.0
+tag field and readers::2.0
+receiving a cache content::2.0
+general concepts and properties::2.0
+retransmissions before a reader::2.0
+field and discovery layers::2.0
+information exchange between systems::2.0
+source address ouuid size::2.0
+devices in its communication::2.0
+means of a select::2.0
+assessment of resource requirements::2.0
+acknowledgment frame for broadcast::2.0
+resources are considered insufficient::2.0
+semantic-enhanced bluetooth discovery protocol::2.0
+fallback mechanism for ontology::2.0
+requester node after sending::2.0
+table whenever the node::2.0
+support in ubiquitous computing::2.0
+endowed with rfid table::2.0
+back a cache content::2.0
+readers able to receive::2.0
+frameworks for objects equipped::2.0
+functional approach to knowledge::2.0
+contextual attributes from user::2.0
+information about nearby nodes::2.0
+motivation for this paper::2.0
+file containing the dig::2.0
+fixed and moving readers::2.0
+reader and tag mobility::2.0
+special issue on rfid::2.0
+adv jitter maximum value::2.0
+enable ubiquitous knowledge bases::2.0
+detect only semantic enabled::2.0
+ouuid and contextual attributes::2.0
+principles of semantic networks::2.0
+query processing are needed::2.0
+discovery phase max retries::2.0
+hops sequence number resource::2.0
+section we present motivation::2.0
+characteristics of both tags::2.0
+contained within the solicit::2.0
+tags in their radio::2.0
+consecutive advertisement packet transmissions::2.0
+non-functional requirements of mobile::2.0
+hosts in the local::2.0
+host waits a random::2.0
+enhanced by a semantically::2.0
+number of the destination::2.0
+means of the triple::2.0
+journal on semantic web::2.0
+considered insufficient to satisfy::2.0
+variable length field depending::2.0
+demand e..l 4..7 reserved::2.0
+improved in those scenarios::2.0
+present work we aim::2.0
+number of heterogeneous micro::2.0
+naming service::2.0
+discovery layer is related::2.0
+international journal on semantic::2.0
+semantic-enhanced epcglobal rfid protocol::2.0
+overview and its application::2.0
+max adv jitter maximum::2.0
+adopted as cluster-heads w.r.t::2.0
+rfid transponder the object::2.0
+domain can be inserted::2.0
+paper ; in section::2.0
+extracted from the rfid::2.0
+simulation campaign in ns-2::2.0
+manufacturing and quality control::2.0
+pdu fields are analogous::2.0
+exploited in the proposed::2.0
+sequence and involved actors::2.0
+provider and cache holder::2.0
+rtime meaning time interval::2.0
+enhanced to support storage::2.0
+choose only semantically compatible::2.0
+pdu fields is summarized::2.0
+maintenance of a virtual::2.0
+advertisement can be scheduled::2.0
+waits for an acknowledgment::2.0
+finally the epc code::2.0
+listens to the echo::2.0
+requests from nearby nodes::2.0
+forward them to nearby::2.0
+interactions with epcglobal rfid::2.0
+abox by explicit assertions::2.0
+cache table is fully::2.0
+adhere to the classic::2.0
+framework has been studied::2.0
+disseminated within the environment::2.0
+cache content frame arrives::2.0
+epcglobal gen-2 uhf rfid::2.0
+layers we adopt ieee::2.0
+local and metropolitan area::2.0
+specific to the individuals::2.0
+ubiquitous computing::2.0
+fruition can be granted::2.0
+information only on micro::2.0
+pda rfid tag tag::2.0
+receive the transmitted data::2.0
+procedures to resource-constrained mobile::2.0
+diffusion allows to cope::2.0
+number of bits bit::2.0
+approach to knowledge representation::2.0
+acknowledgment from each neighbor::2.0
+enabled tags::2.0
+determine if the meaning::2.0
+annotation and u-kb deployment::2.0
+operations on the u-kb::2.0
+general framework to carry::2.0
+issue of rfid event::2.0
+approaches based on centralized::2.0
+marks the specific reference::2.0
+compact equivalent of owl-dl1::2.0
+owl web ontology language::2.0
+asset management is greatly::2.0
+due to rfid reader::2.0
+node in the network::2.0
+report here our early::2.0
+traversed by the packet::2.0
+frame the requester elicits::2.0
+receiving a solicit pdu::2.0
+architecture of the proposed::2.0
+mask clear otherwise bank::2.0
+number of resources handles::2.0
+wait for the ttl::2.0
+show how these problems::2.0
+services can be provided::2.0
+meaning of the query::2.0
+air protocol in random::2.0
+home and office appliances::2.0
+fields are the resource::2.0
+developed for a preliminary::2.0
+two consecutive advertisement packet::2.0
+code in each resource::2.0
+management and can introduce::2.0
+sending a solicit packet::2.0
+products equipped with rfid::2.0
+set max adv diameter=4::2.0
+systems local and metropolitan::2.0
+implemented by most krss::2.0
+presents an extended framework::2.0
+rfid scan of semantic::2.0
+discovery and reasoning tasks::2.0
+cache and recursively sends::2.0
+issues in the case::2.0
+advertisements in their cache::2.0
+exploits the semantic-enhanced epcglobal::2.0
+depots benefit from easier::2.0
+cache entry::2.0
+added to the cache::2.0
+application scenarios all application::2.0
+international journal::2.0
+cache table entries matching::2.0
+operations a dl knowledge::2.0
+replies with a cache::2.0
+unicast using apposite demand::2.0
+knowledge embedded::2.0
+longer timeout in order::2.0
+reader this field value::2.0
+cache table is updated::2.0
+rfid into mobile ad-hoc::2.0
+outline the proposed data::2.0
+node waiting for ack::2.0
+manage any information satisfying::2.0
+architectural differences and performance::2.0
+conveying a small amount::2.0
+entry with a fresh::2.0
+advertisement travel::2.0
+tid memory bank parameter::2.0
+address of the last::2.0
+due to technical reasons::2.0
+actors of the data::2.0
+contexts intelligence is embedded::2.0
+meaning of introduced pdu::2.0
+ack rtt timer set::2.0
+tags parameter target action::2.0
+address of the destination::2.0
+framework type bit set::2.0
+ibm websphere rfid middleware::2.0
+level to the discovery::2.0
+traffic is a linear::2.0
+number within the packet::2.0
+exploit dl-based ontology languages::2.0
+components of a u-kb::2.0
+semantic enabled tags parameter::2.0
+receive requests from nearby::2.0
+discovery protocol for m-commerce::2.0
+model has been developed::2.0
+control can exploit accurate::2.0
+means of a data::2.0
+advertisement every default rtime::2.0
+update the cache memory::2.0
+protocol to enable ubiquitous::2.0
+exploiting two read commands::2.0
+journal of the academy::2.0
+basic functions were identified::2.0
+resource advertisement could lead::2.0
+case study rfid-based u-kb::2.0
+handles the pdu transports::2.0
+individuals are physically tied::2.0
+protocol devised to build::2.0
+reasoning procedures to resource-constrained::2.0
+well-known issue of rfid::2.0
+due to architectural differences::2.0
+sends back a cache::2.0
+entry in the cache::2.0
+remote methods into operations::2.0
+perform the data dissemination::2.0
+structures and low-level operations::2.0
+management in the hospital::2.0
+deployed for internal inventory::2.0
+confirmation of the presence::2.0
+proceedings of the international::2.0
+based on description logics::2.0
+structure of a record::2.0
+make the overall nodes::2.0
+barriers between patient management::2.0
+provisioning of kb individuals::2.0
+mobile hosts::2.0
+sees in its proximity::2.0
+international symposium on applications::2.0
+entity which is immediately::2.0
+case it will extract::2.0
+problems can be mitigated::2.0
+reserved for future purposes::2.0
+knowledge-based system to enable::2.0
+mechanism for ontology support::2.0
+elicits information about nearby::2.0
+depends on the number::2.0
+tag will be stored::2.0
+extended to other monitoring::2.0
+ability to remove information::2.0
+replying to the requester::2.0
+recent or has ran::2.0
+plays an architectural role::2.0
+individuals in our system::2.0
+technology telecommunications and information::2.0
+structure and functionality::1.58496250072
+fields is summarized::1.58496250072
+entries matching parameters::1.58496250072
+transparent to users::1.58496250072
+trigger spurious leave-enter::1.58496250072
+case of description::1.58496250072
+sending a solicit::1.58496250072
+exploit accurate descriptions::1.58496250072
+procedures that determine::1.58496250072
+journal of internet::1.58496250072
+on-demand knowledge availability::1.58496250072
+point of failure::1.58496250072
+provide to applications::1.58496250072
+tag tag field::1.58496250072
+odically send advertisement::1.58496250072
+low-throughput wireless links::1.58496250072
+context-aware information processing::1.58496250072
+normal system activity::1.58496250072
+remote reasoning engine::1.58496250072
+retrieval should depend::1.58496250072
+issue an advertisement::1.58496250072
+database management system::1.58496250072
+node receives information::1.58496250072
+matchmaking using metadata::1.58496250072
+dissemination protocol allowing::1.58496250072
+full protocol stack::1.58496250072
+adapt kr tools::1.58496250072
+executed in order::1.58496250072
+carrying semantic-based descriptions::1.58496250072
+kind of pdu::1.58496250072
+last resource provider::1.58496250072
+original requester node::1.58496250072
+scattered among objects::1.58496250072
+layers we adopt::1.58496250072
+nodes fully aware::1.58496250072
+drugs and patients::1.58496250072
+maximum hops number::1.58496250072
+journal on semantic::1.58496250072
+mark ontologies unambiguously::1.58496250072
+approach is effective::1.58496250072
+detail the data::1.58496250072
+send advertisement packets::1.58496250072
+integrating knowledge discovery::1.58496250072
+regulates the frame::1.58496250072
+paradigm has led::1.58496250072
+number of requested::1.58496250072
+advertised by means::1.58496250072
+tied to micro::1.58496250072
+suggests is shorter::1.58496250072
+expensive information duplication::1.58496250072
+cache and recursively::1.58496250072
+extract implicit knowledge::1.58496250072
+mechanism for ontology::1.58496250072
+case of match::1.58496250072
+tools and technologies::1.58496250072
+semantic metadata stored::1.58496250072
+values for context::1.58496250072
+easier inventory management::1.58496250072
+framework is supported::1.58496250072
+enhanced to support::1.58496250072
+wireless pervasive technologies::1.58496250072
+hops the packet::1.58496250072
+formal interface specifications::1.58496250072
+sale depots benefit::1.58496250072
+polling time milliseconds::1.58496250072
+fields are analogous::1.58496250072
+discovery in pervasive::1.58496250072
+specifies the ontology::1.58496250072
+leveraging the lightweight::1.58496250072
+support in ubiquitous::1.58496250072
+medium access control::1.58496250072
+journal of web::1.58496250072
+bit mask clear::1.58496250072
+micro devices deployed::1.58496250072
+tag population size::1.58496250072
+due to power::1.58496250072
+barriers between patient::1.58496250072
+interactions with epcglobal::1.58496250072
+send a solicit::1.58496250072
+handles the pdu::1.58496250072
+proposed framework comprises::1.58496250072
+shows the format::1.58496250072
+semantic web effort::1.58496250072
+due to architectural::1.58496250072
+embedded into semantic-enhanced::1.58496250072
+equivalent of owl-dl1::1.58496250072
+universally unique identifiers::1.58496250072
+pdu in order::1.58496250072
+transponder the object::1.58496250072
+embedded within rfid::1.58496250072
+range and tags::1.58496250072
+extended framework supported::1.58496250072
+requester node waiting::1.58496250072
+introduced pdu fields::1.58496250072
+number of neighbors::1.58496250072
+neighbor for ack::1.58496250072
+methods into operations::1.58496250072
+web and information::1.58496250072
+study rfid-based u-kb::1.58496250072
+protocol for dissemination::1.58496250072
+tags parameter target::1.58496250072
+pdu types exploited::1.58496250072
+epcglobal rfid tags::1.58496250072
+kbs to u-kbs::1.58496250072
+context aware parameters::1.58496250072
+reader will advertise::1.58496250072
+reader are advertised::1.58496250072
+populating a smart::1.58496250072
+epcglobal ratified specification::1.58496250072
+krss are characterized::1.58496250072
+creation and management::1.58496250072
+insufficient to satisfy::1.58496250072
+generated by data::1.58496250072
+frame for broadcast::1.58496250072
+extend logic-based reasoning::1.58496250072
+globally unique item::1.58496250072
+pre-filtered on-demand provisioning::1.58496250072
+universe of marketing::1.58496250072
+storage are utterly::1.58496250072
+due to technical::1.58496250072
+framework to carry::1.58496250072
+describing general concepts::1.58496250072
+principles of semantic::1.58496250072
+packet is higher::1.58496250072
+carrying object characteristics::1.58496250072
+enable rfid object::1.58496250072
+distributed application-layer protocol::1.58496250072
+reader be familiar::1.58496250072
+work we aim::1.58496250072
+choose only semantically::1.58496250072
+packet by broadcasting::1.58496250072
+lan medium access::1.58496250072
+ubiquitous knowledge bases::1.58496250072
+characteristics from field::1.58496250072
+objects could talk::1.58496250072
+type bit set::1.58496250072
+process and forward::1.58496250072
+ability to remove::1.58496250072
+logic-based reasoning services::1.58496250072
+proposed data propagation::1.58496250072
+single large entity::1.58496250072
+ack rtt seconds::1.58496250072
+set in case::1.58496250072
+semantic sensor networks::1.58496250072
+case of rfid::1.58496250072
+functions were identified::1.58496250072
+manet is labeled::1.58496250072
+dl-based language dig::1.58496250072
+finally the epc::1.58496250072
+initial address number::1.58496250072
+specifications for knowledge::1.58496250072
+needed to adapt::1.58496250072
+extract semantic annotations::1.58496250072
+investments in infrastructure::1.58496250072
+assuming the reader::1.58496250072
+require a preliminary::1.58496250072
+led to expensive::1.58496250072
+withouth expensive investments::1.58496250072
+table for entries::1.58496250072
+introduction in pervasive::1.58496250072
+system data structures::1.58496250072
+ontologys unique identifier::1.58496250072
+agriculture and disaster::1.58496250072
+concepts and properties::1.58496250072
+resource-constrained mobile devices::1.58496250072
+host can issue::1.58496250072
+reader node waits::1.58496250072
+reception hop traversal::1.58496250072
+forwards the packet::1.58496250072
+cyclic advertisement diffusion::1.58496250072
+forwarding the packet::1.58496250072
+attempts to cover::1.58496250072
+end user memory::1.58496250072
+semantic annotations retrieval::1.58496250072
+content pdu update::1.58496250072
+standard was enhanced::1.58496250072
+flags are reserved::1.58496250072
+tag rfid tag::1.58496250072
+receives a demand::1.58496250072
+cache content packet::1.58496250072
+enabling to provide::1.58496250072
+located at discovery::1.58496250072
+number resource description::1.58496250072
+discovery phase max::1.58496250072
+discovery in home::1.58496250072
+show the typical::1.58496250072
+build the tbox::1.58496250072
+depend on object::1.58496250072
+matchmaking using semantic::1.58496250072
+u-kb the proposed::1.58496250072
+query is implied::1.58496250072
+processing are needed::1.58496250072
+described and tracked::1.58496250072
+traveled hops field::1.58496250072
+lower network layers::1.58496250072
+propagation among readers::1.58496250072
+referred to tags::1.58496250072
+designed for wired::1.58496250072
+starts an rfid::1.58496250072
+receive any echo::1.58496250072
+abox containing extensional::1.58496250072
+demand and solicit::1.58496250072
+phase max retries::1.58496250072
+bank to compare::1.58496250072
+unique advertisement pdu::1.58496250072
+support of apulia::1.58496250072
+packets one hop::1.58496250072
+descriptions are required::1.58496250072
+rfids lacking unique::1.58496250072
+node sequence number::1.58496250072
+advertisement is forwarded::1.58496250072
+tags whose descriptions::1.58496250072
+hop wait timer::1.58496250072
+default rtime milliseconds::1.58496250072
+knowledge dissemination protocol::1.58496250072
+source address ouuid::1.58496250072
+prevents propagation issues::1.58496250072
+procedures to resource-constrained::1.58496250072
+rfid is exploited::1.58496250072
+mere identification codes::1.58496250072
+previously told explicitly::1.58496250072
+rfid tags populating::1.58496250072
+neighbor ack rtt::1.58496250072
+integration of semanticenhanced::1.58496250072
+target action membank::1.58496250072
+retrieval of suitable::1.58496250072
+smart semantic-based content::1.58496250072
+cambridge university press::1.58496250072
+node can send::1.58496250072
+semantically annotated compressed::1.58496250072
+semantic-enhanced rfid protocol::1.58496250072
+action membank pointer::1.58496250072
+demand pdu fig::1.58496250072
+readers is performed::1.58496250072
+websphere rfid middleware::1.58496250072
+high-throughput network link::1.58496250072
+paper is organized::1.58496250072
+expanding the universe::1.58496250072
+requester host specifies::1.58496250072
+table entries matching::1.58496250072
+number of heterogeneous::1.58496250072
+frame the requester::1.58496250072
+multiple readers attempt::1.58496250072
+format is depicted::1.58496250072
+file and filtered::1.58496250072
+information about individuals::1.58496250072
+rfid protocol data::1.58496250072
+providing the intensional::1.58496250072
+experience has shown::1.58496250072
+translating remote methods::1.58496250072
+waits a random::1.58496250072
+recursively sends back::1.58496250072
+closes the paper::1.58496250072
+generating a solicit::1.58496250072
+infrastructure where rfid::1.58496250072
+e..l 4..7 reserved::1.58496250072
+gen-2 uhf rfid::1.58496250072
+layer provides access::1.58496250072
+reader cache fig::1.58496250072
+order to distinguish::1.58496250072
+conveying a small::1.58496250072
+inventoried a tag::1.58496250072
+architecture we hypothesize::1.58496250072
+function of tag::1.58496250072
+challenges and directions::1.58496250072
+reader radio range::1.58496250072
+ontology describing general::1.58496250072
+requirements of mobile::1.58496250072
+cache table entries::1.58496250072
+fetch ontology file::1.58496250072
+pdu to notify::1.58496250072
+typical read rates::1.58496250072
+large computing resources::1.58496250072
+discovery diameter hops::1.58496250072
+remote procedure call::1.58496250072
+structures and protocol::1.58496250072
+technologies to functional::1.58496250072
+reported pdu fields::1.58496250072
+enable ubiquitous knowledge::1.58496250072
+sequence and involved::1.58496250072
+ibm websphere rfid::1.58496250072
+ubiquitous computing contexts::1.58496250072
+avoids unnecessary data::1.58496250072
+severe resource limitations::1.58496250072
+resources are considered::1.58496250072
+parameter target action::1.58496250072
+tag data dissemination::1.58496250072
+distinction between tbox::1.58496250072
+significant theoretical aspects::1.58496250072
+led to detailed::1.58496250072
+support to clinicians::1.58496250072
+host scans rfid::1.58496250072
+approach for pervasive::1.58496250072
+presents an extended::1.58496250072
+introduce ubiquitous commerce::1.58496250072
+generation uhf tags::1.58496250072
+plays an architectural::1.58496250072
+parameters as shown::1.58496250072
+devised to build::1.58496250072
+provided to purchasers::1.58496250072
+defines in detail::1.58496250072
+solicit pdu basically::1.58496250072
+specific reference ontology::1.58496250072
+reduced simulation environment::1.58496250072
+freshness of advertised::1.58496250072
+length field depending::1.58496250072
+granting a theoretically::1.58496250072
+explicit knowledge declaration::1.58496250072
+gen2 air protocol::1.58496250072
+home and office::1.58496250072
+recall that mac::1.58496250072
+epcglobal architecture framework::1.58496250072
+representational state transfer::1.58496250072
+detect only semantic::1.58496250072
+characterized in terms::1.58496250072
+knowledge representation systems::1.58496250072
+smart identification frameworks::1.58496250072
+contents reception hop::1.58496250072
+bit set pdu::1.58496250072
+individual is characterized::1.58496250072
+service oriented architecture::1.58496250072
+fields are outlined::1.58496250072
+proposed framework presents::1.58496250072
+forward a solicit::1.58496250072
+forwarded using mac::1.58496250072
+host is aware::1.58496250072
+local cache tables::1.58496250072
+ontologies are defined::1.58496250072
+phenomenon can trigger::1.58496250072
+low storage space::1.58496250072
+compressed document fragment::1.58496250072
+management is greatly::1.58496250072
+semantically annotated object::1.58496250072
+marks the specific::1.58496250072
+table is fully::1.58496250072
+service discovery sessions::1.58496250072
+enable advanced solutions::1.58496250072
+managed reference ouuid::1.58496250072
+field and discovery::1.58496250072
+exploit dl-based ontology::1.58496250072
+tags in range::1.58496250072
+sake of conciseness::1.58496250072
+preliminary retrieval phase::1.58496250072
+reads the semantically::1.58496250072
+receives an advertisement::1.58496250072
+semanticbased bluetooth-rfid interaction::1.58496250072
+codes of semantic::1.58496250072
+scan of semantic::1.58496250072
+web ontology language::1.58496250072
+benefit from easier::1.58496250072
+epcglobal rfid technology::1.58496250072
+host advertises individuals::1.58496250072
+resource description epc::1.58496250072
+echo within polling::1.58496250072
+protocol keeps track::1.58496250072
+hops sequence number::1.58496250072
+differences and performance::1.58496250072
+readers sequence number::1.58496250072
+ontology the resource::1.58496250072
+environment by means::1.58496250072
+infrastructure are granted::1.58496250072
+advertisement every default::1.58496250072
+proposal is explained::1.58496250072
+range of objects::1.58496250072
+cover the request::1.58496250072
+mobile and ubiquitous::1.58496250072
+data dissemination paradigm::1.58496250072
+requester elicits information::1.58496250072
+content frame arrives::1.58496250072
+approach we preserve::1.58496250072
+read its ouuid::1.58496250072
+due to collisions::1.58496250072
+random time waited::1.58496250072
+cache and forward::1.58496250072
+two basic functions::1.58496250072
+dissemination phase odically::1.58496250072
+frameworks for objects::1.58496250072
+basic elements recur::1.58496250072
+address ouuid size::1.58496250072
+automated inference procedures::1.58496250072
+8802-11 first edn::1.58496250072
+forwarding advertisement packets::1.58496250072
+node generally attempts::1.58496250072
+broadcasts an advertisement::1.58496250072
+components and processes::1.58496250072
+description-logic knowledge representation::1.58496250072
+field value coincides::1.58496250072
+description logic interface::1.58496250072
+telecommunications and information::1.58496250072
+multi-hop communication infrastructure::1.58496250072
+environment and share::1.58496250072
+scenarios where retrieval::1.58496250072
+rfid event flickering2::1.58496250072
+unnecessary data transfers::1.58496250072
+compressed semantic-based annotation::1.58496250072
+update the cache::1.58496250072
+languages originally conceived::1.58496250072
+pervasive rfid environments::1.58496250072
+reader and tag::1.58496250072
+parallel research effort::1.58496250072
+advertisement pdu type::1.58496250072
+node must firstly::1.58496250072
+wait timer set::1.58496250072
+satisfy the request::1.58496250072
+semantic-based content fruition::1.58496250072
+sketched in figure::1.58496250072
+number of bits::1.58496250072
+dependency on context::1.58496250072
+manage any information::1.58496250072
+manet-based computing environment::1.58496250072
+cache is updated::1.58496250072
+simple mechanism grants::1.58496250072
+epcglobal gen-2 uhf::1.58496250072
+layer is related::1.58496250072
+intelligence is embedded::1.58496250072
+assessment of resource::1.58496250072
+apposite demand pdus::1.58496250072
+structures and low-level::1.58496250072
+specifically in pervasive::1.58496250072
+labeled by means::1.58496250072
+jitter maximum value::1.58496250072
+table is updated::1.58496250072
+extract contextual attributes::1.58496250072
+bits bit mask::1.58496250072
+scans rfid tags::1.58496250072
+reader this field::1.58496250072
+characterized by user::1.58496250072
+object description stored::1.58496250072
+pervasive computing scenarios::1.58496250072
+maximum advertisement diameter::1.58496250072
+inter-reader ad-hoc communication::1.58496250072
+preserve the distinction::1.58496250072
+outline the proposed::1.58496250072
+cache content frame::1.58496250072
+deployed for internal::1.58496250072
+approach to knowledge::1.58496250072
+technologies for tracking::1.58496250072
+waiting for ack::1.58496250072
+total traffic generated::1.58496250072
+individuals are physically::1.58496250072
+advertised semantic annotations::1.58496250072
+tbox and individuals::1.58496250072
+semantically compatible services::1.58496250072
+individuals through sequence::1.58496250072
+dig description logic::1.58496250072
+section we present::1.58496250072
+max req diameter::1.58496250072
+remote clients connected::1.58496250072
+membank pointer length::1.58496250072
+two level infrastructure::1.58496250072
+meaning time interval::1.58496250072
+96-bit epc code::1.58496250072
+heterogeneous micro devices::1.58496250072
+tbox and abox::1.58496250072
+motivated by means::1.58496250072
+u-kbs kb components::1.58496250072
+ack rtt timer::1.58496250072
+allowing an on-demand::1.58496250072
+explained and motivated::1.58496250072
+dissemination and discovery::1.58496250072
+pdu when starting::1.58496250072
+hypothesize each resource::1.58496250072
+suitable dissemination protocol::1.58496250072
+abox is scattered::1.58496250072
+environment and readers::1.58496250072
+decentralized knowledge base::1.58496250072
+operations are transparent::1.58496250072
+local and metropolitan::1.58496250072
+layer rfid epcglobal::1.58496250072
+semantically annotated descriptions::1.58496250072
+retransmit the advertisement::1.58496250072
+hosts store advertisements::1.58496250072
+knowledge-based systems designed::1.58496250072
+advertisements are forwarded::1.58496250072
+unacceptable network overhead::1.58496250072
+stored in rfids::1.58496250072
+16th international workshop::1.58496250072
+data alignment protocol::1.58496250072
+epcglobal rfid protocol::1.58496250072
+description logic handbook::1.58496250072
+semantically rich description::1.58496250072
+workshop on description::1.58496250072
+knowledge acquisition phase::1.58496250072
+receive the transmitted::1.58496250072
+existing local entry::1.58496250072
+entries are refreshed::1.58496250072
+tracking of agricultural::1.58496250072
+theoretically acceptable scalability::1.58496250072
+fresh sequence number::1.58496250072
+represent kb individuals::1.58496250072
+associate each individual::1.58496250072
+resource data dissemination::1.58496250072
+suitable descriptions directly::1.58496250072
+causing incorrect removal::1.58496250072
+system to enable::1.58496250072
+reported here due::1.58496250072
+tagged objects represent::1.58496250072
+hops already traversed::1.58496250072
+solicit pdu fig::1.58496250072
+meaning of introduced::1.58496250072
+information technology telecommunications::1.58496250072
+specification of components::1.58496250072
+receiving a cache::1.58496250072
+manufacturing and quality::1.58496250072
+build a u-kb::1.58496250072
+directly on tags::1.58496250072
+resource discovery approach::1.58496250072
+ubiquitous knowledge-based system::1.58496250072
+interconnect tags dipped::1.58496250072
+adv jitter maximum::1.58496250072
+outline pdu fields::1.58496250072
+updating stored data::1.58496250072
+rfid protocol proposed::1.58496250072
+proximity via rfid::1.58496250072
+obtain a confirmation::1.58496250072
+demand e..l 4..7::1.58496250072
+protocol to enable::1.58496250072
+two read commands::1.58496250072
+solicit packet waits::1.58496250072
+field and readers::1.58496250072
+rfid into mobile::1.58496250072
+expire before removing::1.58496250072
+retrieved in unicast::1.58496250072
+fixed central component::1.58496250072
+timeout in order::1.58496250072
+adds cache entries::1.58496250072
+functional and non-functional::1.58496250072
+semantic based tags::1.58496250072
+object is clung::1.58496250072
+solutions for e.g::1.58496250072
+pdu an entry::1.58496250072
+nearby nodes forward::1.58496250072
+annotated compressed object::1.58496250072
+compressed semantic annotation::1.58496250072
+ieee communications magazine::1.58496250072
+dl-based ontology languages::1.58496250072
+advertisement could lead::1.58496250072
+set of attributes::1.58496250072
+requested resource descriptions::1.58496250072
+pda rfid tag::1.58496250072
+retrieval of advertised::1.58496250072
+shows the structure::1.58496250072
+unique and fixed::1.58496250072
+number of tags::1.58496250072
+host will wait::1.58496250072
+memory initial address::1.58496250072
+reduce power consumption::1.58496250072
+tag and reader::1.58496250072
+successful resource retrieval::1.58496250072
+require in unicast::1.58496250072
+value for random::1.58496250072
+maintains a cache::1.58496250072
+adaptation of reasoning::1.58496250072
+initial knowledge acquisition::1.58496250072
+expect valuable insight::1.58496250072
+ttl to expire::1.58496250072
+variable length field::1.58496250072
+based on description::1.58496250072
+command to extract::1.58496250072
+exposing system data::1.58496250072
+approach is needed::1.58496250072
+back a cache::1.58496250072
+packet increases proportionally::1.58496250072
+object naming service::1.58496250072
+tbox is contained::1.58496250072
+virtual knowledge base::1.58496250072
+individuals that meet::1.58496250072
+presented an approach::1.58496250072
+satisfying the solicit::1.58496250072
+kind of transmission::1.58496250072
+spurious leave-enter event::1.58496250072
+mobile ad-hoc networks::1.58496250072
+repositories where knowledge::1.58496250072
+pointer length mask::1.58496250072
+smart post-sale services::1.58496250072
+cope with tag::1.58496250072
+hypothesize that ontologies::1.58496250072
+number of resources::1.58496250072
+default rtime meaning::1.58496250072
+flag to distinguish::1.58496250072
+data dissemination protocol::1.58496250072
+depicted in figure::1.58496250072
+ns-2 simulation environment::1.58496250072
+enabled tags parameter::1.58496250072
+information about nearby::1.58496250072
+field is reported::1.58496250072
+distinguish the kind::1.58496250072
+destination sequence number::1.58496250072
+pervasive contexts intelligence::1.58496250072
+proposed framework architecture::1.58496250072
+performance of gen2::1.58496250072
+starting a matchmaking::1.58496250072
+food products equipped::1.58496250072
+requester ip address::1.58496250072
+maximum travel diameter::1.58496250072
+pda rfid reader::1.58496250072
+uni or broadcast::1.58496250072
+ceur workshop proceedings::1.58496250072
+semanticenhanced epcglobal rfid::1.58496250072
+living with classic::1.58496250072
+pervasive computing environments::1.58496250072
+tags per reader::1.58496250072
+resource descriptions stored::1.58496250072
+semantic-based discovery frameworks::1.58496250072
+functions they provide::1.58496250072
+max retries retries::1.58496250072
+simultaneously on tags::1.58496250072
+cache table management::1.58496250072
+epcglobal rfid tag::1.58496250072
+extensive simulation campaign::1.58496250072
+matched against requests::1.58496250072
+hops the frame::1.58496250072
+removing the entry::1.58496250072
+stable network infrastructure::1.58496250072
+gen-2 uhf::1.0
+knowledge-based systems::1.0
+requested resource::1.0
+end user::1.0
+u-kb components::1.0
+extensive simulation::1.0
+krss group::1.0
+steady state::1.0
+heterogeneous micro::1.0
+database management::1.0
+frame travel::1.0
+automated inference::1.0
+systems local::1.0
+number resource::1.0
+longer timeout::1.0
+context aware::1.0
+paper stems::1.0
+description size::1.0
+simulation campaign::1.0
+updating stored::1.0
+consecutive advertisement::1.0
+large entity::1.0
+frame arrives::1.0
+network link::1.0
+object description::1.0
+resources handles::1.0
+exploit accurate::1.0
+computing contexts::1.0
+ibm websphere::1.0
+key words::1.0
+advertises individuals::1.0
+told explicitly::1.0
+rfid event::1.0
+resource annotations::1.0
+field value::1.0
+physical layer::1.0
+representation systems::1.0
+minimizes transmissions::1.0
+extract contextual::1.0
+exploiting two::1.0
+increases proportionally::1.0
+framework comprises::1.0
+framework presents::1.0
+system data::1.0
+identification frameworks::1.0
+table management::1.0
+content frame::1.0
+languages originally::1.0
+annotated object::1.0
+distributed approach::1.0
+bit set::1.0
+cache entries::1.0
+object categories::1.0
+compressed file::1.0
+node waiting::1.0
+initial selection::1.0
+tags memories::1.0
+maximum advertisement::1.0
+cache tables::1.0
+proposed data::1.0
+select command::1.0
+workshop proceedings::1.0
+ouuid matching::1.0
+initial knowledge::1.0
+on-demand provisioning::1.0
+technology telecommunications::1.0
+ratified specification::1.0
+readers exploits::1.0
+u-kb deployment::1.0
+ouuid size::1.0
+paper presents::1.0
+description update::1.0
+well-known issue::1.0
+sensor networks::1.0
+annotations retrieval::1.0
+upper bound::1.0
+data-oriented attributes::1.0
+hop traversal::1.0
+automatically build::1.0
+solicit pdus::1.0
+smart environments::1.0
+reasoning procedures::1.0
+application-layer protocol::1.0
+sensing technologies::1.0
+enable rfid::1.0
+information technology::1.0
+outline pdu::1.0
+provider address::1.0
+8802-11 first::1.0
+resource limitations::1.0
+reader assumes::1.0
+error communication::1.0
+knowledge dissemination::1.0
+address ouuid::1.0
+node forwards::1.0
+w3c recommendation::1.0
+host advertises::1.0
+query processing::1.0
+non-functional requirements::1.0
+notify individuals::1.0
+lower network::1.0
+cache contents::1.0
+physical environment::1.0
+respective owners::1.0
+contents reception::1.0
+gateway exposing::1.0
+unique identifiers::1.0
+resource locators::1.0
+pervasive rfid::1.0
+discovery sessions::1.0
+partition-free network::1.0
+motivation motivation::1.0
+cluster-heads w.r.t::1.0
+rfid-based scenarios::1.0
+compare table::1.0
+central component::1.0
+ieee communications::1.0
+remote reasoning::1.0
+centralized control::1.0
+multiple readers::1.0
+neighbors value::1.0
+consecutive scan::1.0
+node sequence::1.0
+elements recur::1.0
+membank pointer::1.0
+event pairs::1.0
+rtime meaning::1.0
+semantic-enhanced rfid::1.0
+fallback mechanism::1.0
+compressed object::1.0
+epc memory::1.0
+physically tied::1.0
+carrying semantic-based::1.0
+typical sequence::1.0
+flag set::1.0
+disaster recovery::1.0
+annotation refers::1.0
+access control::1.0
+reception hop::1.0
+ontology support::1.0
+traffic generated::1.0
+field depending::1.0
+detected epc::1.0
+diameter current::1.0
+send advertisement::1.0
+springer berlin::1.0
+physical space::1.0
+ontology w.r.t::1.0
+framework architecture::1.0
+mask clear::1.0
+apposite demand::1.0
+wireless networks::1.0
+neighbor ack::1.0
+web ontology::1.0
+extended framework::1.0
+kl-one-like language::1.0
+architecture framework::1.0
+reported pdu::1.0
+mask value::1.0
+semantic metadata::1.0
+reader listens::1.0
+extract ouuid::1.0
+international workshop::1.0
+owl web::1.0
+readers attempt::1.0
+reader involved::1.0
+spurious leave-enter::1.0
+ad-hoc communication::1.0
+2000ms 50ms::1.0
+advertised individuals::1.0
+accurate descriptions::1.0
+quality control::1.0
+architectural role::1.0
+resource life::1.0
+poliba.it abstract::1.0
+explicit assertions::1.0
+object characteristics::1.0
+protocol devised::1.0
+ontology identifier::1.0
+automatically removed::1.0
+present work::1.0
+current search::1.0
+16th international::1.0
+knowledge sharing::1.0
+context-aware parameter::1.0
+document fragment::1.0
+retries maximum::1.0
+tbox seldom::1.0
+compact equivalent::1.0
+parameters contained::1.0
+advanced solutions::1.0
+valuable insight::1.0
+local entry::1.0
+expect valuable::1.0
+hosts owning::1.0
+rtt timer::1.0
+typical entry::1.0
+large number::1.0
+read commands::1.0
+medium access::1.0
+office appliances::1.0
+early findings::1.0
+reasoning engine::1.0
+compatible services::1.0
+wide range::1.0
+retrieval phase::1.0
+food products::1.0
+acquisition phase::1.0
+two read::1.0
+advertisement diameter::1.0
+framework type::1.0
+dissemination paradigm::1.0
+resource data::1.0
+memory initial::1.0
+multiple u-kbs::1.0
+research effort::1.0
+smart identification::1.0
+remote entity::1.0
+epc codes::1.0
+compressed semantic-based::1.0
+depots benefit::1.0
+parameters referred::1.0
+wired networks::1.0
+host replies::1.0
+unambiguously labels::1.0
+resource advertisement::1.0
+object properties::1.0
+96-bit epc::1.0
+packet waits::1.0
+remote clients::1.0
+received information::1.0
+pointer length::1.0
+objects disseminated::1.0
+tag rfid::1.0
+assuring on-demand::1.0
+pervasive environments::1.0
+production environments::1.0
+bluetooth discovery::1.0
+hops sequence::1.0
+local manet::1.0
+resource requirements::1.0
+first value::1.0
+metropolitan area::1.0
+ouuid value::1.0
+network sends::1.0
+small amount::1.0
+resource retrieval::1.0
+greatly improved::1.0
+nodes forward::1.0
+interconnect tags::1.0
+centralized repository::1.0
+resources inventoried::1.0
+sharing effort::1.0
+entries compatible::1.0
+factual knowledge::1.0
+first edn::1.0
+jitter maximum::1.0
+fixed central::1.0
+automatically propagated::1.0
+rfids lacking::1.0
+packet transmissions::1.0
+mobile ad-hoc::1.0
+item identifier::1.0
+host scans::1.0
+local storage::1.0
+gen2 air::1.0
+contextual parameters::1.0
+ontology provisioning::1.0
+introduced pdu::1.0
+communications magazine::1.0
+packet transports::1.0
+peri fig::1.0
+stored data::1.0
+contexts intelligence::1.0
+paper focuses::1.0
+formal interface::1.0
+devices deployed::1.0
+wireless semantic::1.0
+network infrastructure::1.0
+transmissions polling::1.0
+omit details::1.0
+ceur workshop::1.0
+ontology languages::1.0
+suitable dissemination::1.0
+on-demand knowledge::1.0
+maximum travel::1.0
+on-demand retrieval::1.0
+state transfer::1.0
+hosts store::1.0
+set max::1.0
+action membank::1.0
+4..7 reserved::1.0
+devised solutions::1.0
+service discovery::1.0
+sends back::1.0
+semantic sensor::1.0
+acknowledgment frame::1.0
+target action::1.0
+pdu transports::1.0
+tag mobility::1.0
+hit ratio::1.0
+operations require::1.0
+travel diameter::1.0
+address number::1.0
+storage space::1.0
+u-kb individuals::1.0
+knowledge availability::1.0
+information storage::1.0
+semantic-enhanced bluetooth::1.0
+mechanism grants::1.0
+network overhead::1.0
+generated traffic::1.0
+patient management::1.0
+logic interface::1.0
+filtered individuals::1.0
+semantic-based discovery::1.0
+decision support::1.0
+uhf rfid::1.0
+semantic-based sensory::1.0
+low-level operations::1.0
+transponders conforming::1.0
+extensible framework::1.0
+network simulator::1.0
+semantically compatible::1.0
+reference domain::1.0
+anti-collision performance::1.0
+semanticenhanced epcglobal::1.0
+requester elicits::1.0
+elicits information::1.0
+semantic networks::1.0
+oriented architecture::1.0
+i-70125 bari::1.0
+logic handbook::1.0
+cache tuples::1.0
+asset management::1.0
+explicit knowledge::1.0
+length field::1.0
+ontology universally::1.0
+communication range::1.0
+remove information::1.0
+shorter path::1.0
+service oriented::1.0
+type bit::1.0
+globally unique::1.0
+wireless connectivity::1.0
+rfid readers::1.0
+stores characteristics::1.0
+special issue::1.0
+store advertisements::1.0
+descriptions stored::1.0
+remaining life::1.0
+tags populating::1.0
+previously stored::1.0
+destination sequence::1.0
+epcglobal standard::1.0
+functionality tests::1.0
+transmitted data::1.0
+approaches based::1.0
+knowledge declaration::1.0
+random error::1.0
+annotated compressed::1.0
+suitable values::1.0
+pdu payload::1.0
+advertised semantic::1.0
+advertises contextual::1.0
+rfid transponder::1.0
+discovery frameworks::1.0
+retries retries::1.0
+ontology file::1.0
+description-logic knowledge::1.0
+data exchange::1.0
+remote methods::1.0
+limited time-to-live::1.0
+resource parameters::1.0
+objects equipped::1.0
+uhf tags::1.0
+unique item::1.0
+intensional knowledge::1.0
+adopt ontology::1.0
+discovery diameter::1.0
+cost constraints::1.0
+hop wait::1.0
+locate suitable::1.0
+entries matching::1.0
+field depends::1.0
+resource records::1.0
+exploit dl-based::1.0
+hops number::1.0
+technical overview::1.0
+pdu type::1.0
+conclusion building::1.0
+tags dipped::1.0
+area networks::1.0
+basic functions::1.0
+dl-based ontology::1.0
+matching parameters::1.0
+communication link::1.0
+tag tag::1.0
+present motivation::1.0
+adds cache::1.0
+exposing system::1.0
+extracts information::1.0
+utterly impractical::1.0
+node verifies::1.0
+discovery protocol::1.0
+length mask::1.0
+epcglobal gen-2::1.0
+rich description::1.0
+involved actors::1.0
+products equipped::1.0
+timestamp traveled::1.0
+internet connection::1.0
+simple mechanism::1.0
+node generating::1.0
+support storage::1.0
+resource-constrained mobile::1.0
+recursively sends::1.0
+solicit frame::1.0
+mere identification::1.0
+moving readers::1.0
+enable ubiquitous::1.0
+specific ontology::1.0
+causing incorrect::1.0
+reader range::1.0
+description epc::1.0
+wait timer::1.0
+rfid scan::1.0
+internal inventory::1.0
+adv jitter::1.0
+sensory data::1.0
+two consecutive::1.0
+traditional applications::1.0
+epc identifier::1.0
+february 10th::1.0
+u-kb operations::1.0
+initial address::1.0
+annotated description::1.0
+information satisfying::1.0
+processing capability::1.0
+epcglobal ratified::1.0
+networks specific::1.0
+semantically rich::1.0
+problem domain::1.0
+ad-hoc networks::1.0
+numeric identifier::1.0
+traditional krss::1.0
+reasoning tasks::1.0
+last fields::1.0
+protocol data::1.0
+data extracted::1.0
+specific resource::1.0
+reduce power::1.0
+matches message::1.0
+technical report::1.0
+tags parameter::1.0
+respective providers::1.0
+information exchange::1.0
+host detects::1.0
+acknowledge support::1.0
+specific reference::1.0
+general concepts::1.0
+system evaluation::1.0
+single tag::1.0
+network content::1.0
+technical reasons::1.0
+typical scenario::1.0
+incorrect removal::1.0
+max req::1.0
+healthcare applications::1.0
+rfid technology::1.0
+two level::1.0
+advertisements max::1.0
+theoretically acceptable::1.0
+network load::1.0
+bank parameter::1.0
+dig description::1.0
+artificial intelligence::1.0
+centralized infrastructure::1.0
+remote procedure::1.0
+object naming::1.0
+unique identifier::1.0
+identification codes::1.0
+layer rfid::1.0
+internet workshops::1.0
+originally conceived::0.0
+limited::0.0
+desirable::0.0
+dubendorfer::0.0
+presents::0.0
+updated::0.0
+manet::0.0
+50ms::0.0
+vast::0.0
+membank::0.0
+shows::0.0
+feasibility::0.0
+clinicians::0.0
+specification::0.0
+preselected::0.0
+metadata::0.0
+simultaneously::0.0
+reported::0.0
+path::0.0
+granting::0.0
+items::0.0
+museums::0.0
+diameter::0.0
+campaign::0.0
+mobility::0.0
+explained::0.0
+archaeological::0.0
+total::0.0
+call::0.0
+asset::0.0
+type::0.0
+annotations::0.0
+declaration is required::0.0
+composite::0.0
+ontology::0.0
+aware::0.0
+berlin::0.0
+language::0.0
+work::0.0
+bechhofer::0.0
+concepts::0.0
+organized::0.0
+recovery::0.0
+provide::0.0
+travel::0.0
+hop::0.0
+symposium::0.0
+ordinary::0.0
+lan::0.0
+minimizes::0.0
+parallel::0.0
+types::0.0
+providing cache::0.0
+ramanathan::0.0
+attempt::0.0
+effective::0.0
+scenarios all application::0.0
+updates::0.0
+operations::0.0
+production::0.0
+fig::0.0
+schmidt::0.0
+easier::0.0
+cluster-heads::0.0
+node receiving::0.0
+fragment::0.0
+break::0.0
+bank::0.0
+pervasive::0.0
+preliminary assessment::0.0
+timeout::0.0
+area can access::0.0
+principles::0.0
+carry::0.0
+extract::0.0
+forwarding::0.0
+network::0.0
+content::0.0
+reader::0.0
+logic-based reasoning::0.0
+linear::0.0
+associate::0.0
+depots::0.0
+sensory::0.0
+descriptions of raw::0.0
+sensors::0.0
+universally::0.0
+post-sale::0.0
+exposing::0.0
+starts::0.0
+gen-2::0.0
+iso::0.0
+wordptr::0.0
+stewart::0.0
+industrial::0.0
+electronic::0.0
+payload::0.0
+annotated::0.0
+pdu in unicast::0.0
+guinness::0.0
+specific requirements part::0.0
+needed::0.0
+rates::0.0
+listed::0.0
+percentage::0.0
+recent::0.0
+mobile rfid::0.0
+rfid readers equipped::0.0
+distance::0.0
+structures::0.0
+enabled::0.0
+terminological::0.0
+reader pda::0.0
+10th::0.0
+extracting::0.0
+sees::0.0
+ran::0.0
+marks the last::0.0
+areas of rfid::0.0
+forced::0.0
+implemented::0.0
+approach using ns-2::0.0
+oriented::0.0
+owl-dl1::0.0
+object::0.0
+university press::0.0
+inventory management::0.0
+phase::0.0
+yang::0.0
+enterprise::0.0
+control and information::0.0
+labels::0.0
+attempts::0.0
+radio::0.0
+solutions::0.0
+availability::0.0
+arpa::0.0
+rich::0.0
+integrate::0.0
+oct::0.0
+scans::0.0
+abox by explicit::0.0
+reconstruct a local::0.0
+report::0.0
+reconstruct::0.0
+net::0.0
+8802-11::0.0
+analytical::0.0
+told::0.0
+bustein::0.0
+disaster::0.0
+reference::0.0
+depends::0.0
+on-demand::0.0
+propagated::0.0
+discovery::0.0
+preserve::0.0
+poliba.it::0.0
+terms::0.0
+extend::0.0
+retrieval framework::0.0
+topology::0.0
+suggested::0.0
+extracts::0.0
+extraction of resource::0.0
+receives::0.0
+distinction::0.0
+requests::0.0
+apulia project::0.0
+telecommunications::0.0
+extraction::0.0
+trigger::0.0
+basic::0.0
+rtime milliseconds::0.0
+life::0.0
+drugs::0.0
+provide any acknowledgment::0.0
+feasibility study::0.0
+max retries maximum::0.0
+commerce::0.0
+air::0.0
+aim::0.0
+metropolitan::0.0
+partition-free::0.0
+stems::0.0
+perform::0.0
+make::0.0
+description sl flag::0.0
+inventory::0.0
+avoids::0.0
+filtered::0.0
+command with parameters::0.0
+sarma::0.0
+computing environments::0.0
+96-bit::0.0
+manet-based::0.0
+suitable::0.0
+scenario::0.0
+disseminated::0.0
+control can exploit::0.0
+materials::0.0
+paradigm::0.0
+epc::0.0
+framework name default::0.0
+order to extract::0.0
+protocol::0.0
+proposed::0.0
+data-oriented::0.0
+starting::0.0
+previous::0.0
+studied specifically::0.0
+maximum hops::0.0
+tuples::0.0
+ijipt::0.0
+unique::0.0
+advanced::0.0
+ouuid ; semantic::0.0
+grid services::0.0
+wireless pervasive::0.0
+sends::0.0
+proportionally::0.0
+unnecessary::0.0
+advertise::0.0
+tracked::0.0
+fully aware::0.0
+vast majority::0.0
+repository::0.0
+marketing::0.0
+architectural::0.0
+manufacturing::0.0
+properties::0.0
+environments m ruta::0.0
+magazine::0.0
+automatically::0.0
+presence::0.0
+description tid memory::0.0
+discovery diameter current::0.0
+long as large::0.0
+reserved for future::0.0
+waits::0.0
+un-tell::0.0
+support::0.0
+initial::0.0
+share the system::0.0
+overhead::0.0
+compressed object description::0.0
+ontologys::0.0
+form::0.0
+forming::0.0
+differences::0.0
+wireless::0.0
+failure::0.0
+removed::0.0
+prevents::0.0
+attached::0.0
+maximum::0.0
+devices::0.0
+museums and archaeological::0.0
+stages::0.0
+extract semantic::0.0
+computing::0.0
+abstract::0.0
+physical::0.0
+generally::0.0
+successful::0.0
+role::0.0
+tags for epcglobal gen-2::0.0
+tid::0.0
+providing cache table::0.0
+node::0.0
+autonomic::0.0
+update::0.0
+variable::0.0
+pre-filtered::0.0
+issue of rfid::0.0
+current search diameter::0.0
+transmissions for data::0.0
+base has two::0.0
+interval::0.0
+packets::0.0
+reception::0.0
+neighbors::0.0
+cache contents reception::0.0
+managed::0.0
+skip::0.0
+remaining flags::0.0
+manages::0.0
+layers::0.0
+depend::0.0
+environment::0.0
+finally::0.0
+marks::0.0
+analogous::0.0
+workshops::0.0
+sensor net::0.0
+springer::0.0
+application::0.0
+protocol technology::0.0
+presented::0.0
+item::0.0
+science::0.0
+submit any ask-type::0.0
+epc memory initial::0.0
+findings::0.0
+reader pda rfid::0.0
+two basic::0.0
+cost::0.0
+populating::0.0
+purchasers::0.0
+adds::0.0
+lifecycle of industrial::0.0
+current::0.0
+classic tell model::0.0
+satisfy::0.0
+change::0.0
+wait::0.0
+studied::0.0
+basic elements::0.0
+semanticbased::0.0
+node generally::0.0
+tasks::0.0
+inference::0.0
+working::0.0
+peri::0.0
+scenarios::0.0
+live::0.0
+readers::0.0
+criteria::0.0
+theoretical::0.0
+sharing::0.0
+sessions::0.0
+acceptable::0.0
+annotated descriptions::0.0
+access to local::0.0
+ibm::0.0
+originally::0.0
+single large::0.0
+values::0.0
+length mask value::0.0
+figure::0.0
+attribute::0.0
+exploit::0.0
+zinkhan::0.0
+e.tinelli::0.0
+performed::0.0
+conversely::0.0
+requirements::0.0
+managed reference::0.0
+provisioning::0.0
+vision a u-kb::0.0
+familiar::0.0
+extraction of goods::0.0
+parameter::0.0
+product::0.0
+max::0.0
+goods parameters::0.0
+applications::0.0
+designed::0.0
+rfid tag rfid::0.0
+reader sets::0.0
+data::0.0
+hoc::0.0
+aware parameters::0.0
+talk::0.0
+tagged::0.0
+resource discovery framework::0.0
+requests from nearby::0.0
+unacceptable::0.0
+random error communication::0.0
+ttl::0.0
+pointer::0.0
+tags are preselected::0.0
+acknowledge::0.0
+reader mobility::0.0
+broadcasts::0.0
+4..7 reserved advertisement::0.0
+factual::0.0
+conveying::0.0
+introduce::0.0
+records::0.0
+transmissions::0.0
+matched::0.0
+contextual parameters referred::0.0
+individually::0.0
+domain::0.0
+revised::0.0
+pdus::0.0
+transmission error::0.0
+wireless lan medium::0.0
+mobile node::0.0
+living::0.0
+shown::0.0
+collisions::0.0
+contained::0.0
+internet::0.0
+expensive investments::0.0
+receiving::0.0
+sensor::0.0
+byte::0.0
+rfid epcglobal fig::0.0
+vision::0.0
+waited::0.0
+first::0.0
+schramek::0.0
+directly::0.0
+comprises::0.0
+ons::0.0
+message::0.0
+size::0.0
+summarized::0.0
+bits::0.0
+donini::0.0
+cope::0.0
+krss::0.0
+broadcast::0.0
+holder::0.0
+tags located::0.0
+population::0.0
+wide::0.0
+retrieval on rfid::0.0
+impractical::0.0
+require::0.0
+future::0.0
+arpa knowledge sharing::0.0
+constraints::0.0
+phy::0.0
+diameter=4::0.0
+medium::0.0
+grants each mobile::0.0
+clung::0.0
+epcglobal object naming::0.0
+note::0.0
+equipment::0.0
+protocol between caches::0.0
+low-throughput::0.0
+performance::0.0
+properties and purposes::0.0
+integrate and extend::0.0
+semantic-enhanced::0.0
+multiple::0.0
+normal::0.0
+track::0.0
+information duplication::0.0
+technologies help break::0.0
+context-aware information::0.0
+visitors::0.0
+baader::0.0
+mcguinness::0.0
+inserted::0.0
+kl-one-like::0.0
+adopt::0.0
+steady::0.0
+sale::0.0
+order::0.0
+resource providers peri::0.0
+professional::0.0
+duplication::0.0
+sequence::0.0
+search diameter::0.0
+show::0.0
+tinelli politecnico::0.0
+executed::0.0
+sending the packet::0.0
+ratio::0.0
+office::0.0
+soliciting::0.0
+node located::0.0
+explicitly::0.0
+apulia::0.0
+equipped::0.0
+large computing::0.0
+easier inventory::0.0
+pervasive technologies::0.0
+resource::0.0
+computing applications::0.0
+ad-hoc::0.0
+seldom::0.0
+16th::0.0
+silently::0.0
+physically::0.0
+considered::0.0
+significant theoretical::0.0
+system infrastructure::0.0
+ieee::0.0
+advertises contextual parameters::0.0
+extract implicit::0.0
+satisfying::0.0
+kawakita::0.0
+review::0.0
+agricultural::0.0
+sites::0.0
+websphere::0.0
+refreshed::0.0
+endowed with rfid::0.0
+infrastructure::0.0
+advertised resources::0.0
+parameter membank::0.0
+receive requests::0.0
+enabling::0.0
+nearby::0.0
+last reference::0.0
+incorrect removal of u-kb::0.0
+overview::0.0
+period::0.0
+grants::0.0
+broadcast transmission::0.0
+4..7::0.0
+ordinary meaning::0.0
+berthon::0.0
+classic::0.0
+mark::0.0
+workshop::0.0
+exposing a high-level::0.0
+knowledge declaration is required::0.0
+enable::0.0
+ceur::0.0
+reader radio::0.0
+traversal::0.0
+declaration::0.0
+tags attached::0.0
+implicit knowledge::0.0
+uhf::0.0
+defined before object::0.0
+endowed::0.0
+symposium on applications::0.0
+technology::0.0
+detailed and formal::0.0
+ontology languages originally::0.0
+propagation::0.0
+number of retransmissions::0.0
+granted::0.0
+verifies::0.0
+document::0.0
+status::0.0
+rfid::0.0
+flickering2::0.0
+packet increases::0.0
+wired::0.0
+sequence numbers::0.0
+advertisement::0.0
+rfid reader pda rfid::0.0
+identifiers::0.0
+severe::0.0
+extensible::0.0
+components::0.0
+reader manages::0.0
+hospital::0.0
+interface::0.0
+reference ouuid::0.0
+set pdu::0.0
+locate suitable descriptions::0.0
+ontology describing::0.0
+intensional::0.0
+ordinary structure::0.0
+time-to-live::0.0
+unambiguously::0.0
+actors::0.0
+extensive::0.0
+scheduled::0.0
+aspects::0.0
+read::0.0
+epcs::0.0
+early::0.0
+traffic::0.0
+distributed and decentralized::0.0
+individuals to neighboring::0.0
+discarded::0.0
+benefit::0.0
+reduced::0.0
+assertions::0.0
+specifies::0.0
+simulator::0.0
+moving::0.0
+propagation and retrieval::0.0
+duration::0.0
+leave-enter event pairs::0.0
+matching::0.0
+typical read::0.0
+propagation issues::0.0
+memories::0.0
+acceptable scalability::0.0
+provider::0.0
+semantically::0.0
+withouth::0.0
+granted to local::0.0
+processing the request::0.0
+power::0.0
+seconds::0.0
+equivalent::0.0
+refers::0.0
+exploits the semantic-enhanced::0.0
+ack::0.0
+meaning::0.0
+iso 8802-11::0.0
+greatly::0.0
+neighbor::0.0
+tinelli::0.0
+cambridge::0.0
+inclusion::0.0
+communication::0.0
+references::0.0
+determine::0.0
+theoretically::0.0
+addresses of hosts::0.0
+performing::0.0
+logics::0.0
+forwarded::0.0
+area::0.0
+assumed::0.0
+low::0.0
+series::0.0
+mobile rfid readers::0.0
+reader node::0.0
+conciseness::0.0
+standard for class::0.0
+detect::0.0
+technologies::0.0
+longer::0.0
+unicast using apposite::0.0
+default::0.0
+individuals avoids unnecessary::0.0
+ontologies::0.0
+owl web ontology::0.0
+detailed::0.0
+engine::0.0
+barthel::0.0
+host waits::0.0
+deem::0.0
+file::0.0
+ouuid::0.0
+incorrect::0.0
+storage::0.0
+field::0.0
+rtt seconds::0.0
+performance issues::0.0
+requested::0.0
+epcglobal object::0.0
+moller::0.0
+requester::0.0
+soliciting mechanism::0.0
+building::0.0
+attributes from user::0.0
+remote::0.0
+reduce the collision::0.0
+mask::0.0
+prevents propagation::0.0
+procedure::0.0
+f.scioscia::0.0
+w3c::0.0
+original::0.0
+represent::0.0
+semantic::0.0
+assessment::0.0
+low storage::0.0
+introduce ubiquitous::0.0
+reasoning::0.0
+carrying object::0.0
+resource matchmaking::0.0
+removal::0.0
+brachman::0.0
+wordcount::0.0
+solicit::0.0
+application-layer::0.0
+nodes::0.0
+case::0.0
+reasoning services::0.0
+advertisement diffusion::0.0
+route the pdu::0.0
+autonomic creation::0.0
+large::0.0
+bluetooth-rfid::0.0
+hogan::0.0
+small::0.0
+study::0.0
+neighborhood::0.0
+dl-based language::0.0
+translating::0.0
+sets this value::0.0
+campaign in ns-2::0.0
+section::0.0
+challenging technology::0.0
+knowledge sharing effort::0.0
+acknowledgments::0.0
+cache holder::0.0
+full::0.0
+tags::0.0
+un-told::0.0
+component::0.0
+unique advertisement::0.0
+approach to carry::0.0
+lack::0.0
+lightweight infrastructure::0.0
+compressed::0.0
+directions::0.0
+standard::0.0
+search::0.0
+readers receiving::0.0
+experience::0.0
+amount::0.0
+advertising::0.0
+action::0.0
+disciascio::0.0
+technologies beyond rfid::0.0
+appliances::0.0
+content packet::0.0
+sensitivity to topology::0.0
+estimate::0.0
+destination::0.0
+two::0.0
+characteristics::0.0
+silently discarded::0.0
+protocol in random::0.0
+semanticbased bluetooth-rfid::0.0
+unnecessary data::0.0
+adapt::0.0
+flag::0.0
+basically::0.0
+foundations::0.0
+mark ontologies::0.0
+descriptions from field::0.0
+management system::0.0
+recall::0.0
+e.g::0.0
+rodrigues::0.0
+compare::0.0
+percentage of successful::0.0
+challenging::0.0
+scan::0.0
+lightweight::0.0
+share::0.0
+proposed framework type::0.0
+individually and ttl::0.0
+collision::0.0
+confirmation::0.0
+numbers::0.0
+information::0.0
+respective::0.0
+interconnect::0.0
+ratified::0.0
+transfers::0.0
+crowther::0.0
+generation uhf::0.0
+traveled hops sequence::0.0
+ubiquitous::0.0
+long::0.0
+max adv diameter=4::0.0
+connectivity::0.0
+m-commerce::0.0
+lifecycle::0.0
+jitter::0.0
+starting a resource::0.0
+lifetime timestamp traveled::0.0
+central repositories::0.0
+broadcasting::0.0
+retrieval::0.0
+protocol data exchange::0.0
+tag data::0.0
+developed::0.0
+entries::0.0
+ijswis::0.0
+paper::0.0
+replies::0.0
+smart::0.0
+locators::0.0
+forwards::0.0
+ouuids::0.0
+systems::0.0
+access information::0.0
+motivated::0.0
+food::0.0
+timestamp::0.0
+reader pda rfid reader::0.0
+framework::0.0
+mechanism is analogous::0.0
+short-range::0.0
+coping::0.0
+fully::0.0
+level::0.0
+storage and retrieval::0.0
+inter-reader::0.0
+capability::0.0
+micro::0.0
+node forwarding::0.0
+parameters::0.0
+phase odically send::0.0
+characterized::0.0
+referred::0.0
+dig::0.0
+generation::0.0
+reduce::0.0
+numeric::0.0
+two components::0.0
+international symposium::0.0
+expensive information::0.0
+expect::0.0
+sketched::0.0
+central role::0.0
+event::0.0
+research::0.0
+assertions of terminological::0.0
+ask-type request::0.0
+conceived::0.0
+base::0.0
+forward the packet::0.0
+definition::0.0
+pairs::0.0
+service::0.0
+dl03::0.0
+extend logic-based::0.0
+mobile devices::0.0
+fetch ontology::0.0
+consequence::0.0
+framework supported::0.0
+probability::0.0
+upper::0.0
+ontology providing::0.0
+fruition::0.0
+number::0.0
+traveled::0.0
+well-known::0.0
+resnick::0.0
+notify::0.0
+last hop sequence::0.0
+set of data-oriented::0.0
+knowledge and information::0.0
+introduction::0.0
+annotation and u-kb::0.0
+saint::0.0
+developed an analytical::0.0
+store::0.0
+semantic-based annotation::0.0
+comprises the specification::0.0
+recursively::0.0
+size lifetime timestamp::0.0
+tracking::0.0
+ansi std::0.0
+internet and protocol::0.0
+semantic-based sensory data::0.0
+diffusion::0.0
+kind::0.0
+cyclic::0.0
+high-level interface::0.0
+contrary::0.0
+system allows autonomic::0.0
+creation and maintenance::0.0
+motivation::0.0
+high-throughput network::0.0
+lan medium::0.0
+depending::0.0
+advertisement frame::0.0
+original requester::0.0
+conforming::0.0
+extracted::0.0
+internal::0.0
+build::0.0
+command::0.0
+size lifetime::0.0
+added::0.0
+populate::0.0
+reserved advertisement::0.0
+evaluation::0.0
+readers are adopted::0.0
+computing resources::0.0
+rfid table::0.0
+model::0.0
+marketing science::0.0
+apposite::0.0
+t.dinoia::0.0
+clear::0.0
+coincides::0.0
+traditional::0.0
+part::0.0
+scioscia::0.0
+discovery phase::0.0
+phenomenon::0.0
+scattered::0.0
+rtt::0.0
+current krss::0.0
+providers peri::0.0
+infrastructure already deployed::0.0
+distributed::0.0
+transmitting::0.0
+repository and coordination::0.0
+tag series::0.0
+traub::0.0
+accurate::0.0
+std::0.0
+tbox::0.0
+hit::0.0
+break barriers::0.0
+spurious::0.0
+interaction for advanced::0.0
+valuable::0.0
+reply::0.0
+ns-2::0.0
+contextual::0.0
+code not present::0.0
+bytes::0.0
+knowledge-based::0.0
+remove::0.0
+matchmaking::0.0
+activity::0.0
+set::0.0
+intelligence::0.0
+sevices of rpc::0.0
+descriptions::0.0
+present a general::0.0
+2000ms::0.0
+pdu update::0.0
+i-70125::0.0
+project::0.0
+removal of u-kb::0.0
+exchange::0.0
+cyclic advertisement::0.0
+diameter current search::0.0
+types exploited::0.0
+consecutive::0.0
+previously told::0.0
+discovery and reasoning::0.0
+initially::0.0
+scalability::0.0
+reader pda rfid tag::0.0
+remaining::0.0
+last::0.0
+pdu::0.0
+connection::0.0
+acquisition::0.0
+context::0.0
+pda::0.0
+patel-schneider::0.0
+load::0.0
+content fruition::0.0
+regulates::0.0
+point::0.0
+simple::0.0
+address::0.0
+application areas::0.0
+adaptation::0.0
+expensive::0.0
+forwarding nodes::0.0
+iso 8802-11 first edn::0.0
+collision probability::0.0
+req diameter::0.0
+assuring::0.0
+local visitors::0.0
+maintenance::0.0
+generating::0.0
+annotation from user::0.0
+sending::0.0
+precision::0.0
+adaptable::0.0
+demand::0.0
+resource providers::0.0
+m.ruta::0.0
+directly from tags::0.0
+unicast::0.0
+networks specific requirements::0.0
+raw::0.0
+solicit requests::0.0
+technical::0.0
+error::0.0
+abox::0.0
+loop::0.0
+based on centralized::0.0
+smart semantic-based::0.0
+m-commerce applications::0.0
+reads::0.0
+triple::0.0
+italy::0.0
+mac broadcasts::0.0
+shorter::0.0
+ruta::0.0
+contents::0.0
+higher::0.0
+arrives::0.0
+attached to objects::0.0
+u-kbs::0.0
+dbms::0.0
+timestamp traveled hops::0.0
+user::0.0
+stack::0.0
+objects are endowed::0.0
+allgair::0.0
+lower::0.0
+information systems::0.0
+database::0.0
+spent::0.0
+precision agriculture::0.0
+flags::0.0
+entry::0.0
+responsible::0.0
+exploits::0.0
+frameworks for ubiquitous::0.0
+case study rfid-based::0.0
+ontology universally unique::0.0
+nardi::0.0
+alignment::0.0
+tables::0.0
+majority::0.0
+advertisements::0.0
+description and discovery::0.0
+representational::0.0
+source::0.0
+causing::0.0
+heidelberg::0.0
+lacking::0.0
+format::0.0
+mattern::0.0
+rfid-based u-kb::0.0
+host specifies::0.0
+bit::0.0
+provider and cache::0.0
+formal::0.0
+sciascio::0.0
+communications::0.0
+individuals::0.0
+node sending::0.0
+update or individual::0.0
+ouuid size lifetime::0.0
+methods::0.0
+rfid reader pda::0.0
+creation::0.0
+back::0.0
+schoch::0.0
+describing::0.0
+decision::0.0
+integration::0.0
+semantic-based content::0.0
+u-kb creation::0.0
+patient::0.0
+dissemination and query::0.0
+processing::0.0
+goods::0.0
+dl-based::0.0
+simulation::0.0
+sake::0.0
+range::0.0
+value coincides::0.0
+i.e::0.0
+based tags::0.0
+error has occurred::0.0
+inventoried::0.0
+services::0.0
+number of advertised::0.0
+pda rfid reader pda::0.0
+general framework::0.0
+level infrastructure::0.0
+removal of u-kb individuals::0.0
+procedure call::0.0
+handles::0.0
+submit::0.0
+translating remote::0.0
+aim at assuring::0.0
+handbook::0.0
+wireless lan::0.0
+forward::0.0
+calvanese::0.0
+description is missing::0.0
+memory::0.0
+link::0.0
+deployed::0.0
+representational state::0.0
+zhu::0.0
+wireless sensors::0.0
+middleware::0.0
+mobile::0.0
+environments the tbox::0.0
+heterogeneous::0.0
+manets::0.0
+constant::0.0
+prevents the well-known::0.0
+defined::0.0
+globally::0.0
+solicit cames::0.0
+single::0.0
+topology variations::0.0
+application-specific and context-aware::0.0
+codes::0.0
+compressed document::0.0
+low-throughput wireless::0.0
+system activity::0.0
+functionality::0.0
+retract::0.0
+elements::0.0
+users::0.0
+provided::0.0
+sensory data dissemination::0.0
+problems::0.0
+generated::0.0
+allowing::0.0
+utterly::0.0
+communication infrastructure::0.0
+structure::0.0
+required::0.0
+integrating knowledge::0.0
+requester node receives::0.0
+implied::0.0
+requester host::0.0
+international::0.0
+code::0.0
+adhere::0.0
+edn::0.0
+needed to enable::0.0
+cheung::0.0
+pdu is sketched::0.0
+logic-based::0.0
+query::0.0
+issues::0.0
+compact::0.0
+reasoning is carried::0.0
+annotated object description::0.0
+effort::0.0
+description::0.0
+send::0.0
+languages::0.0
+capability and short-range::0.0
+representation system specification::0.0
+mistugi::0.0
+stable::0.0
+resources::0.0
+random::0.0
+clear otherwise bank::0.0
+end::0.0
+transponders::0.0
+grid::0.0
+population size::0.0
+withouth expensive::0.0
+specific::0.0
+categories::0.0
+discovery is based::0.0
+inter-reader ad-hoc::0.0
+transmission::0.0
+originally transmitted::0.0
+description tid::0.0
+discovery of knowledge::0.0
+archaeological sites::0.0
+polling::0.0
+locate::0.0
+cambridge university::0.0
+emerging yet challenging::0.0
+application-specific::0.0
+anti-collision::0.0
+ouuid and contextual::0.0
+monitoring and sensing::0.0
+retries maximum number::0.0
+node processing::0.0
+plays::0.0
+systems designed::0.0
+gen2::0.0
+labeled::0.0
+networks::0.0
+access::0.0
+waiting::0.0
+rfid object::0.0
+discovery approach::0.0
+majority of applications::0.0
+focuses::0.0
+led::0.0
+matches::0.0
+leveraging::0.0
+agricultural and food::0.0
+objects::0.0
+levesque::0.0
+implicit::0.0
+rtime::0.0
+weinstein::0.0
+receive::0.0
+involved::0.0
+readers equipped::0.0
+suggests::0.0
+epc fig::0.0
+products::0.0
+sale depots::0.0
+rfid middleware::0.0
+set max adv::0.0
+decentralized::0.0
+objects represent::0.0
+context-aware::0.0
+description-logic::0.0
+manage::0.0
+network layers::0.0
+frame::0.0
+redi::0.0
+tools::0.0
+gateway::0.0
+event flickering2::0.0
+adopt ieee::0.0
+consumption::0.0
+read rates::0.0
+management::0.0
+depicted::0.0
+expanding::0.0
+length::0.0
+representation we exploit::0.0
+milliseconds::0.0
+formally::0.0
+generally attempts::0.0
+occurred::0.0
+node after sending::0.0
+carrying::0.0
+specific requirements::0.0
+u-kb system::0.0
+central::0.0
+detects::0.0
+transponder::0.0
+discovery in smart::0.0
+carried::0.0
+retries::0.0
+defines::0.0
+tags and wireless::0.0
+integrating::0.0
+decentralized knowledge::0.0
+hops field::0.0
+clients::0.0
+industrial products::0.0
+wireless links::0.0
+krs::0.0
+meet::0.0
+fetch::0.0
+control::0.0
+protocol stack::0.0
+resource-constrained::0.0
+reserved::0.0
+links::0.0
+providers::0.0
+process::0.0
+information processing::0.0
+requester can fetch::0.0
+renewed::0.0
+tag::0.0
+wireless semantic sensor::0.0
+leave-enter::0.0
+parameter membank wordptr::0.0
+located::0.0
+interval between two::0.0
+listens::0.0
+specifications::0.0
+object annotation::0.0
+power and cost::0.0
+tied::0.0
+pdu types::0.0
+discovery layers::0.0
+monitoring::0.0
+distributed application-layer::0.0
+extensional::0.0
+last resource::0.0
+watson::0.0
+post-sale services::0.0
+labels the pdu::0.0
+healthcare::0.0
+presents a two::0.0
+fallback::0.0
+description user::0.0
+attempt to scan::0.0
+access to knowledge::0.0
+insight::0.0
+kbs::0.0
+characteristics of pervasive::0.0
+ontologies unambiguously::0.0
+manages a cache::0.0
+architectural differences::0.0
+memory of forwarding::0.0
+rfid-based::0.0
+w.r.t::0.0
+choose::0.0
+readers sequence::0.0
+ubiquitous commerce::0.0
+pdu basically::0.0
+cover::0.0
+lifetime timestamp::0.0
+transparent::0.0
+epcglobal architecture::0.0
+freshness::0.0
+transmitted::0.0
+tags without unique::0.0
+fields::0.0
+identifier::0.0
+subset::0.0
+issue on rfid::0.0
+assuring on-demand knowledge::0.0
+semantically annotated object description::0.0
+categories can co-exist::0.0
+related::0.0
+bluetooth::0.0
+packet is silently::0.0
+agriculture::0.0
+out::0.0
+acknowledgment::0.0
+req::0.0
+forwarding advertisement::0.0
+traversed::0.0
+interactions::0.0
+retrieved::0.0
+maintains::0.0
+semanticenhanced::0.0
+stable network::0.0
+approaches::0.0
+fresh sequence::0.0
+trends::0.0
+extract the compressed::0.0
+interaction::0.0
+updating::0.0
+route::0.0
+mac::0.0
+timer::0.0
+david::0.0
+phase odically::0.0
+removing::0.0
+barriers::0.0
+enable advanced::0.0
+adopted as cluster-heads::0.0
+exploiting two read::0.0
+severe resource::0.0
+product code::0.0
+echo::0.0
+borgida::0.0
+reached::0.0
+quality::0.0
+discovery is supported::0.0
+owning::0.0
+error communication link::0.0
+adv diameter=4::0.0
+odically::0.0
+system::0.0
+adopted::0.0
+annotation::0.0
+nodes fully::0.0
+reader cache::0.0
+sensitivity::0.0
+udp::0.0
+academy::0.0
+architecture::0.0
+purposes::0.0
+multi-hop::0.0
+rfids::0.0
+requirements part::0.0
+outline::0.0
+rfid epcglobal rfid::0.0
+pre-filtered on-demand::0.0
+describing general::0.0
+knowledge discovery::0.0
+patients::0.0
+individual::0.0
+assumes::0.0
+providing::0.0
+explicit::0.0
+bari::0.0
+computing scenarios::0.0
+component for reasoning::0.0
+node the solicit::0.0
+politecnico di bari::0.0
+system specification::0.0
+packet transmissions polling::0.0
+advertisements max adv::0.0
+mechanism::0.0
+e..l 4..7::0.0
+future purposes::0.0
+pdu suggests::0.0
+target::0.0
+rfid tag field::0.0
+fixed knowledge::0.0
+plays a central::0.0
+packet it originally::0.0
+connected::0.0
+adopt ontology universally::0.0
+preliminary::0.0
+device::0.0
+epcglobal fig::0.0
+class::0.0
+rfid object discovery::0.0
+description epc fig::0.0
+neighboring::0.0
+unacceptable network::0.0
+request::0.0
+preliminary retrieval::0.0
+proceedings::0.0
+high-throughput::0.0
+study rfid-based::0.0
+duration of service::0.0
+emerging::0.0
+selection::0.0
+existing local::0.0
+field level::0.0
+interface specifications::0.0
+centralized::0.0
+artificial::0.0
+high-level::0.0
+equipped with ieee::0.0
+based::0.0
+knowledge::0.0
+hops::0.0
+diameter hops::0.0
+bases::0.0
+trigger spurious::0.0
+noia::0.0
+local::0.0
+interested::0.0
+approach are revised::0.0
+terminological knowledge::0.0
+means::0.0
+providers peri fig::0.0
+suen::0.0
+parallel research::0.0
+parameter target::0.0
+words::0.0
+entity::0.0
+procedures::0.0
+areas::0.0
+liu::0.0
+processes::0.0
+embedded::0.0
+approach::0.0
+non-functional::0.0
+fixed::0.0
+caches::0.0
+special::0.0
+web effort::0.0
+packet::0.0
+identified::0.0
+enhanced::0.0
+recently::0.0
+clients connected::0.0
+closes::0.0
+exploited::0.0
+missing::0.0
+semantic-based descriptions::0.0
+dls::0.0
+state::0.0
+identification::0.0
+sevices::0.0
+tagged objects::0.0
+luo::0.0
+hops the pdu::0.0
+bound::0.0
+ability::0.0
+addresses::0.0
+u-kb::0.0
+individuals it sees::0.0
+power consumption::0.0
+air protocol::0.0
+key::0.0
+group::0.0
+commands::0.0
+cache::0.0
+considered insufficient::0.0
+attributes::0.0
+due to rfid::0.0
+hypothesize::0.0
+environments::0.0
+distinguish::0.0
+rpc::0.0
+two consecutive advertisement::0.0
+table::0.0
+websphere rfid::0.0
+local or remote::0.0
+ubiquitous knowledge-based::0.0
+addition::0.0
+co-exist::0.0
+e..l::0.0
+detected::0.0
+demand e..l::0.0
+proposal::0.0
+retransmissions::0.0
+web and grid::0.0
+received::0.0
+local cache::0.0
+semantic-enhanced bluetooth discovery::0.0
+academy of marketing::0.0
+improved::0.0
+general::0.0
+present::0.0
+distinguish different solicit::0.0
+survey::0.0
+contexts::0.0
+tag population::0.0
+value::0.0
+specifically::0.0
+frameworks::0.0
+scanned::0.0
+virtual knowledge::0.0
+fixed and moving::0.0
+piscitelli::0.0
+layer::0.0
+outlined::0.0
+smart post-sale::0.0
+pitt::0.0
+lifetime::0.0
+politecnico::0.0
+swartout::0.0
+extensional knowledge::0.0
+metropolitan area networks::0.0
+supported::0.0
+change during normal::0.0
+unique item identifier::0.0
+knowledge acquisition::0.0
+linear function::0.0
+leave-enter event::0.0
+manet-based computing::0.0
+resource handles::0.0
+http::0.0
+elicits::0.0
+logic::0.0
+neighboring hosts::0.0
+romer::0.0
+uni::0.0
+investments::0.0
+node waits::0.0
+responsible for u-kb::0.0
+epcglobal::0.0
+local subset::0.0
+formally described::0.0
+study using ibm::0.0
+mitigated::0.0
+scanned individually::0.0
+bluetooth-rfid interaction::0.0
+sets::0.0
+firstly::0.0
+sensing::0.0
+fully updated::0.0
+advertises::0.0
+stores::0.0
+managed resources::0.0
+proximity::0.0
+obtain::0.0
+select::0.0
+stored::0.0
+full protocol::0.0
+cames::0.0
+rest::0.0
+coordination::0.0
+low-level::0.0
+adv::0.0
+web::0.0
+protocol proposed::0.0
+omit::0.0
+advertisement packet transmissions::0.0
+capabilities::0.0
+reasons::0.0
+application scenarios::0.0
+exchange between systems::0.0
+arpa knowledge::0.0
+framework type bit::0.0
+match::0.0
+tests::0.0
+increased::0.0
+scans rfid::0.0
+devised::0.0
+semantic-based::0.0
+february::0.0
+increases::0.0
+deployment::0.0
+press::0.0
+immediately::0.0
+exploiting::0.0
+ontologys unique::0.0
+adv diameter::0.0
+hosts::0.0
+receives information::0.0
+university::0.0
+representation::0.0
+alignment and prevents::0.0
+retransmit::0.0
+repositories::0.0
+existing::0.0
+matching parameters contained::0.0
+rfid environments::0.0
+status flag::0.0
+recommendation::0.0
+home::0.0
+phase max::0.0
+web sevices::0.0
+language dig::0.0
+lead::0.0
+rtt timer set::0.0
+bits bit::0.0
+garrett::0.0
+consecutive advertisement packet::0.0
+normal system::0.0
+assuming::0.0
+limitations::0.0
+successful resource::0.0
+sequence number resource::0.0
+journal::0.0
+area networks specific::0.0
+likewise::0.0
+host::0.0
+expire::0.0
+individuals avoids::0.0
+described::0.0
+protocol for m-commerce::0.0
+maximum value::0.0
+alignment protocol::0.0
+recur::0.0
+ansi::0.0
+universe::0.0
+theoretical aspects::0.0
+compatible::0.0
+dependency::0.0
+insufficient::0.0
+introduced::0.0
+host receives::0.0
+owl::0.0
+rfid tag tag::0.0
+fresh::0.0
+avoids unnecessary::0.0
+previously::0.0
+universally unique::0.0
+functional::0.0
+due::0.0
+data transfers::0.0
+single point::0.0
+owners::0.0
+mere::0.0
+bluetooth discovery protocol::0.0
+tags for epcglobal::0.0
+functional approach::0.0
+transfer::0.0
+ask-type::0.0
+function::0.0
+last node::0.0
+extended::0.0
+volume::0.0
+management each reader::0.0
+automated::0.0
+significant::0.0
+challenges::0.0
+multi-hop communication::0.0
+variations::0.0
+reduced simulation::0.0
+record::0.0
+performing an extensive::0.0
+services with application-specific::0.0
+waited when forwarding::0.0
+problem::0.0
+issue::0.0
+iso 8802-11 first::0.0
+replying::0.0
+ns-2 simulation::0.0
+dissemination::0.0
+protocol allowing::0.0
+waiting for cache::0.0
+naming::0.0
+dipped::0.0
+functions::0.0
+field layer rfid::0.0
+pdu in figure::0.0
+detail::0.0
+virtual::0.0
+odically send::0.0
+details::0.0
+conclusion::0.0
+u-commerce::0.0
+description stored::0.0
+individual removal::0.0
+perform the data::0.0
+advertised::0.0
+lacking unique::0.0
+total traffic::0.0
+transports::0.0
+space::0.0
+semantic based::0.0
+bit mask::0.0
+raw materials::0.0
+layer to discovery::0.0
+typical::0.0

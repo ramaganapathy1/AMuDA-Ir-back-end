@@ -1,0 +1,3590 @@
+ble::0.040197409538
+multipath mitigation::0.0152768961169
+ble beacons::0.013888087379
+ble beacon::0.0124992786411
+beaconing rate::0.0111104699032
+bluetooth low energy::0.0106853873455
+advertising channels::0.00972166116527
+ble data::0.00972166116527
+university of cambridge::0.00865978044834
+fast fading::0.00833285242738
+wifi::0.00772097663132
+batch::0.00760571742083
+mitigation::0.00750514305523
+beaconing::0.00750514305523
+bluetooth low::0.00712359156369
+ble fingerprinting::0.00694404368948
+wifi access::0.0062678767431
+batch of data::0.00624963932053
+path length differences::0.00624963932053
+density and geometry::0.00624963932053
+low energy::0.00591555799398
+channels::0.0058776036639
+wifi access points::0.00587613444665
+signal coverage::0.00555523495159
+ble signals::0.00555523495159
+batch window::0.00555523495159
+ble rss::0.00555523495159
+wifi access point::0.00519586826901
+beacon::0.00508594982208
+fades::0.00486083058264
+advertising::0.00475414329333
+path length::0.00461854957245
+posterior distribution::0.00461854957245
+institute of navigation::0.00457945171952
+low energy ble::0.00457945171952
+metre::0.00457945171952
+positioning performance::0.00438843996308
+fingerprint::0.00432304632345
+positioning sensor fusion::0.00416642621369
+channel information::0.00416642621369
+accurate ble fingerprinting::0.00416642621369
+rule of thumb::0.00416642621369
+multipath mitigation processing::0.00416642621369
+gaussian processes regression::0.00416642621369
+ble rss measurements::0.00416642621369
+iphone ble data::0.00416642621369
+ble channels::0.00416642621369
+fading multipath interference::0.00416642621369
+bandwidth of ble::0.00416642621369
+multipath mitigation scheme::0.00416642621369
+long battery lives::0.00416642621369
+measurements are returned::0.00416642621369
+wifi and ble::0.00416642621369
+length differences::0.00416642621369
+mitigation scheme::0.00416642621369
+tracking mode::0.00416642621369
+fast fading multipath::0.00416642621369
+energy ble beacons::0.00416642621369
+ble signal strength::0.00416642621369
+ble measurements::0.00416642621369
+advantage of ble::0.00416642621369
+effect of fingerprint::0.00416642621369
+performance is provided::0.00416642621369
+number of interior::0.00416642621369
+nashville tn september::0.00416642621369
+batch size::0.00416642621369
+detect close proximity::0.00416642621369
+active wi-fi scanning::0.00416642621369
+listen for advertisements::0.00416642621369
+fingerprint size::0.00416642621369
+provide a single::0.00416642621369
+radio positioning::0.00416642621369
+signal strength map::0.00380285871041
+beacons::0.00376737023858
+rss::0.00374530582432
+window size::0.00368186419332
+window::0.00365590254966
+good signal::0.00346391217934
+indoor positioning applications::0.00346391217934
+faragher::0.00346391217934
+shows the output::0.00346391217934
+shows the effect::0.00346391217934
+measurement noise::0.0033803188537
+indoor positioning::0.00335657795782
+metres::0.00322163116915
+test area::0.00313393837155
+conveyor belt::0.00313393837155
+iphone::0.00313393837155
+energy ble::0.00305296781301
+international technical meeting::0.00305296781301
+multipath interference::0.00305296781301
+existing wifi infrastructure::0.00305296781301
+channel::0.00280092128719
+mitigation processing::0.00277761747579
+receiver moves::0.00277761747579
+proximity measurement::0.00277761747579
+receiving device::0.00277761747579
+spatial scale::0.00277761747579
+noticeable improvement::0.00277761747579
+ble channel::0.00277761747579
+wi-fi scanning::0.00277761747579
+cellular measurements::0.00277761747579
+low bandwidth::0.00277761747579
+signal geometry::0.00277761747579
+𝑖=1(𝑅𝑖 −𝑀𝑖::0.00277761747579
+fingerprint measurements::0.00277761747579
+wavelengths::0.00277761747579
+ble device::0.00277761747579
+wifi channels::0.00277761747579
+ble signal::0.00277761747579
+battery lives::0.00277761747579
+body effect::0.00277761747579
+constructive interference::0.00277761747579
+r.k. smartslam::0.00277761747579
+bae systems::0.00277761747579
+batch processing::0.00277761747579
+beacon ranges::0.00277761747579
+ramsey faragher::0.00277761747579
+advertising mode::0.00277761747579
+fingerprint measurement::0.00277761747579
+current fingerprint::0.00277761747579
+“one shot”::0.00277761747579
+beacon rates::0.00277761747579
+iphone ble::0.00277761747579
+interior walls::0.00277761747579
+fades occur::0.00277761747579
+interior partition::0.00277761747579
+accurate ble::0.00277761747579
+active wi-fi::0.00277761747579
+processes regression::0.00277761747579
+ble advertising::0.00277761747579
+total power::0.00277761747579
+signal fingerprinting::0.00277761747579
+beaconing rates::0.00277761747579
+detect close::0.00277761747579
+ble specification::0.00277761747579
+power 𝑃𝑚𝑖𝑛::0.00277761747579
+𝐹= √::0.00277761747579
+wall 𝐴𝑤𝑎𝑙𝑙::0.00277761747579
+fading multipath::0.00277761747579
+advertising rate::0.00277761747579
+power 𝑃𝑇𝑥::0.00277761747579
+close proximity::0.00276139814499
+posterior::0.00255992331179
+advertisement::0.00253523914028
+strength map::0.00253523914028
+active bat::0.00244363347457
+ground truth::0.00231483593429
+rss measurements::0.00231483593429
+wifi data::0.00230927478623
+destructive::0.00230927478623
+wifi scanning::0.00230927478623
+dynamic range::0.00230927478623
+navigation ion::0.00230927478623
+radio band::0.00230927478623
+college cambridge::0.00230927478623
+processing window::0.00230927478623
+gaussian kernel::0.00230927478623
+mhz::0.00226782485964
+wifi signals::0.00219421998154
+positioning accuracy::0.00216152316172
+bandwidth::0.00213817929025
+multipath::0.00213527476033
+differences the number::0.00208321310684
+low beaconing rates::0.00208321310684
+environment fingerprinting fingerprinting::0.00208321310684
+promise of long::0.00208321310684
+caused by reflectors::0.00208321310684
+smoothing exhibits noticeable::0.00208321310684
+characteristics of ble::0.00208321310684
+3hz update rate::0.00208321310684
+previous section note::0.00208321310684
+left hand image::0.00208321310684
+recent smartphone implementations::0.00208321310684
+alan jones andy::0.00208321310684
+device that information::0.00208321310684
+range estimation figure::0.00208321310684
+rate and wifi::0.00208321310684
+measurements and data::0.00208321310684
+mitigation and exhibits::0.00208321310684
+bayesian likelihood function::0.00208321310684
+size on position::0.00208321310684
+taking the median::0.00208321310684
+early experimentation demonstrated::0.00208321310684
+stable radio environment::0.00208321310684
+confidence ultrasonic ground::0.00208321310684
+tracking we considered::0.00208321310684
+assume a modest::0.00208321310684
+reference active bat::0.00208321310684
+investigated the impact::0.00208321310684
+2012 pp 2408-2416::0.00208321310684
+manually taking readings::0.00208321310684
+required during ble::0.00208321310684
+provided as needed::0.00208321310684
+impact of bluetooth::0.00208321310684
+visiting a series::0.00208321310684
+batch measurements processing::0.00208321310684
+advertising channels resulting::0.00208321310684
+minimum detectable power::0.00208321310684
+choose a window::0.00208321310684
+advertisement is repeated::0.00208321310684
+attractive to retailers::0.00208321310684
+constructed by manually::0.00208321310684
+performance was limited::0.00208321310684
+𝑃𝑚𝑖𝑛::0.00208321310684
+positioning using fingerprints::0.00208321310684
+beacon is highlighted::0.00208321310684
+behaviour of ble::0.00208321310684
+operating systems report::0.00208321310684
+signal geometry afforded::0.00208321310684
+greg jarvis murray::0.00208321310684
+mode the uniform::0.00208321310684
+defines many core::0.00208321310684
+simultaneous wifi scanning::0.00208321310684
+effect can result::0.00208321310684
+thumb to determine::0.00208321310684
+range as shown::0.00208321310684
+shown that significant::0.00208321310684
+positioning since 2000::0.00208321310684
+solving the larger::0.00208321310684
+constantly scanning figure::0.00208321310684
+won the bae::0.00208321310684
+coverage whereas optimal::0.00208321310684
+reflection coming straight::0.00208321310684
+rate of 50hz::0.00208321310684
+andy ward alan::0.00208321310684
+achieved an accuracy::0.00208321310684
+constructive and destructive::0.00208321310684
+processing of median::0.00208321310684
+achieve a good::0.00208321310684
+positioning schemes early::0.00208321310684
+maximum value i.e::0.00208321310684
+queens’ college cambridge::0.00208321310684
+simulated conveyor belt::0.00208321310684
+formed a baseline::0.00208321310684
+ramsey faragher ramsey::0.00208321310684
+experimental and predicted::0.00208321310684
+suggests that batch::0.00208321310684
+case the reported::0.00208321310684
+present a challenge::0.00208321310684
+items of interest::0.00208321310684
+penetrates different media::0.00208321310684
+determine whether ble::0.00208321310684
+single rss metric::0.00208321310684
+entire 80mhz band::0.00208321310684
+determined by summing::0.00208321310684
+recorded wifi rss::0.00208321310684
+rss values varying::0.00208321310684
+high beaconing rate::0.00208321310684
+set up figure::0.00208321310684
+report the channel::0.00208321310684
+optimal radio positioning::0.00208321310684
+positioning scheme readily::0.00208321310684
+ion conferences robert::0.00208321310684
+signals further complicating::0.00208321310684
+calculate the total::0.00208321310684
+uniformly distributed specifically::0.00208321310684
+user slower users::0.00208321310684
+typically be set::0.00208321310684
+spectrum and destructive::0.00208321310684
+ion gnss+ 2013::0.00208321310684
+apparent high noise::0.00208321310684
+fading and beaconing::0.00208321310684
+navsop opportunistic positioning::0.00208321310684
+switch between channels::0.00208321310684
+enable a tracking::0.00208321310684
+coverage i introduction::0.00208321310684
+trigger a location-based::0.00208321310684
+horus a wlan-based::0.00208321310684
+square and pink::0.00208321310684
+rates and lower::0.00208321310684
+ios the experiments::0.00208321310684
+rss at approximately::0.00208321310684
+accounting for furniture::0.00208321310684
+rss can vary::0.00208321310684
+density of people::0.00208321310684
+repeatable rss profiles::0.00208321310684
+time the boosted::0.00208321310684
+issues the batch::0.00208321310684
+mahesh rubin dimitri::0.00208321310684
+unrestricted indoor positioning::0.00208321310684
+rss data circles::0.00208321310684
+means that traditional::0.00208321310684
+single channel processing::0.00208321310684
+set of spurious::0.00208321310684
+objects or items::0.00208321310684
+out by channel::0.00208321310684
+mitigation processing window::0.00208321310684
+channel was determined::0.00208321310684
+issue for micro-location::0.00208321310684
+bae systems advanced::0.00208321310684
+data exhibits lower::0.00208321310684
+robert harle robert::0.00208321310684
+set of monochromatic::0.00208321310684
+environment only first-bounce::0.00208321310684
+sig bluetooth specification::0.00208321310684
+provided by “one::0.00208321310684
+typical walking pace::0.00208321310684
+fast beaconing rate::0.00208321310684
+infrastructure-based and infrastructure-free::0.00208321310684
+simple conveyor belt::0.00208321310684
+ble bandwidth starts::0.00208321310684
+exploiting machine learning::0.00208321310684
+noise the gaussian::0.00208321310684
+demonstrates ble fading::0.00208321310684
+fingerprint construction technique::0.00208321310684
+fading can result::0.00208321310684
+measurement we observe::0.00208321310684
+reliably report ble::0.00208321310684
+acquisition position estimate::0.00208321310684
+bullock j blake::0.00208321310684
+data was segmented::0.00208321310684
+signals are accounted::0.00208321310684
+maximum positioning performance::0.00208321310684
+transmitter a positioning::0.00208321310684
+severe for wifi::0.00208321310684
+signals could reflect::0.00208321310684
+series of infrastructure-based::0.00208321310684
+good signal coverage::0.00208321310684
+located in order::0.00208321310684
+combined with frequency-dependent::0.00208321310684
+sites and manually::0.00208321310684
+single ble channel::0.00208321310684
+introduction of low-cost::0.00208321310684
+ghz radio signals::0.00208321310684
+fact that signal::0.00208321310684
+typically a good::0.00208321310684
+receiving device adopts::0.00208321310684
+beacons to avoid::0.00208321310684
+exhibits lower apparent::0.00208321310684
+output and low::0.00208321310684
+results without consideration::0.00208321310684
+technical and financial::0.00208321310684
+power then small::0.00208321310684
+factors including movement::0.00208321310684
+multimodality and reduced::0.00208321310684
+scheme two priors::0.00208321310684
+mhz wifi channels::0.00208321310684
+spatial scale metre::0.00208321310684
+position we chose::0.00208321310684
+area along routes::0.00208321310684
+short range energy-efficient::0.00208321310684
+assess the effect::0.00208321310684
+reduced beacon rates::0.00208321310684
+mmse in general::0.00208321310684
+specific location based::0.00208321310684
+ghz ii ble::0.00208321310684
+requirements long battery::0.00208321310684
+broadcasts of similar::0.00208321310684
+base-10 logarithmic units::0.00208321310684
+good multipath mitigation::0.00208321310684
+beacon per window::0.00208321310684
+resilience to fast::0.00208321310684
+ble fingerprinting system::0.00208321310684
+signals alone provide::0.00208321310684
+batch filtering multiple::0.00208321310684
+provided by 10hz::0.00208321310684
+provided a comparison::0.00208321310684
+ble beacon set::0.00208321310684
+generate a probability::0.00208321310684
+ble fingerprinting performance::0.00208321310684
+cell which accounted::0.00208321310684
+test a ble::0.00208321310684
+slow conveyor belt::0.00208321310684
+frequencies experience constructive::0.00208321310684
+observed that taking::0.00208321310684
+consumption this allowed::0.00208321310684
+senior research associate::0.00208321310684
+provide positioning accuracy::0.00208321310684
+samples without noticeable::0.00208321310684
+contained many surfaces::0.00208321310684
+energy bluetooth low::0.00208321310684
+strength measurements recorded::0.00208321310684
+previous ion conferences::0.00208321310684
+flexibility and portability::0.00208321310684
+gnss-denied positioning sensor::0.00208321310684
+figure 4 comparable::0.00208321310684
+effectively drawn randomly::0.00208321310684
+transceivers the beaconing::0.00208321310684
+maximum signal coverage::0.00208321310684
+indoor environment fingerprinting::0.00208321310684
+low-cost low-power bluetooth::0.00208321310684
+beacons three wifi::0.00208321310684
+simple multipath interference::0.00208321310684
+report each connectable::0.00208321310684
+domain the iphone::0.00208321310684
+large square open::0.00208321310684
+project sponsors csr::0.00208321310684
+smooth and repeatable::0.00208321310684
+ensure maximum signal::0.00208321310684
+ideally for radio::0.00208321310684
+circle the pink::0.00208321310684
+fingerprinting schemes require::0.00208321310684
+device agnostic solution::0.00208321310684
+found that recent::0.00208321310684
+simple proximity sensing::0.00208321310684
+required for maximum::0.00208321310684
+early career engineer::0.00208321310684
+expected to require::0.00208321310684
+kernel to generate::0.00208321310684
+rate the receiver::0.00208321310684
+system exploiting machine::0.00208321310684
+future should record::0.00208321310684
+gathering a batch::0.00208321310684
+systems advanced technology::0.00208321310684
+source the frequencies::0.00208321310684
+generate a wifi::0.00208321310684
+disabled these spurious::0.00208321310684
+radio positioning performance::0.00208321310684
+25th international technical::0.00208321310684
+turetzky greg jarvis::0.00208321310684
+wi-fi network access::0.00208321310684
+conveyor belt experiment::0.00208321310684
+smearing mitigation techniques::0.00208321310684
+hours to give::0.00208321310684
+states the wavelengths::0.00208321310684
+error when coupled::0.00208321310684
+source for ble::0.00208321310684
+45m by 12m::0.00208321310684
+mems dead reckoning,::0.00208321310684
+ble advertising channels::0.00208321310684
+reflect including walls::0.00208321310684
+low-power bluetooth low::0.00208321310684
+fix without multipath::0.00208321310684
+users can exploit::0.00208321310684
+beacons and power::0.00208321310684
+room the test::0.00208321310684
+specifically to ensure::0.00208321310684
+provided by gathering::0.00208321310684
+learning algorithms cambridge::0.00208321310684
+ble data displayed::0.00208321310684
+rates these messages::0.00208321310684
+navigation ion gnss+::0.00208321310684
+deployment with access::0.00208321310684
+walls the floor::0.00208321310684
+significant measurement error::0.00208321310684
+messages with minimal::0.00208321310684
+impact on unrestricted::0.00208321310684
+metre of user::0.00208321310684
+ceiling and floor::0.00208321310684
+importantly the ble::0.00208321310684
+lives are expected::0.00208321310684
+jones andy hopper::0.00208321310684
+multipath mitigation improves::0.00208321310684
+high transmission powers::0.00208321310684
+plotted some frequencies::0.00208321310684
+band the green::0.00208321310684
+applications r faragher::0.00208321310684
+values varying rapidly::0.00208321310684
+ble rss error::0.00208321310684
+future 5g wifi::0.00208321310684
+gnss 2012 nashville::0.00208321310684
+advertising and simple::0.00208321310684
+requires a minimum::0.00208321310684
+channels and hope::0.00208321310684
+ground truth referencing::0.00208321310684
+beacons in realistic::0.00208321310684
+machine-tomachine communication protocol::0.00208321310684
+depending on transmit::0.00208321310684
+shows the experimental::0.00208321310684
+current mobile operating::0.00208321310684
+gaussian process survey::0.00208321310684
+length differences caused::0.00208321310684
+cell-ids or wifi::0.00208321310684
+radio power output::0.00208321310684
+indoor positioning sensor::0.00208321310684
+performance for iphone::0.00208321310684
+region of space::0.00208321310684
+users to estimate::0.00208321310684
+cellular network magnetometer::0.00208321310684
+developed the navsop::0.00208321310684
+fast-fade mitigation scheme::0.00208321310684
+established wifi access::0.00208321310684
+mhz ble channel::0.00208321310684
+order of magnitude::0.00208321310684
+cambridge uk ramsey::0.00208321310684
+wifi rss data::0.00208321310684
+positioning with ble::0.00208321310684
+mode on fingerprint-based::0.00208321310684
+body is typically::0.00208321310684
+reported some current::0.00208321310684
+observed a small::0.00208321310684
+walk see figure::0.00208321310684
+typical length scales::0.00208321310684
+signal has propagated::0.00208321310684
+faragher ramsey faragher::0.00208321310684
+rarely any signal::0.00208321310684
+deep multipath fades::0.00208321310684
+good signal geometries::0.00208321310684
+attenuation iii channel::0.00208321310684
+fusion and machine::0.00208321310684
+grateful to reinoud::0.00208321310684
+body attenuation iii::0.00208321310684
+chowdhary mahesh rubin::0.00208321310684
+ble data separated::0.00208321310684
+channel number triangles::0.00208321310684
+ble advertising beacons::0.00208321310684
+efficient smartphone indoor::0.00208321310684
+pairs of consecutive::0.00208321310684
+geometry for positioning::0.00208321310684
+frequencies the fades::0.00208321310684
+powers and dense::0.00208321310684
+95% confidence ultrasonic::0.00208321310684
+abstract this study::0.00208321310684
+environment and dense::0.00208321310684
+estimate their beacon::0.00208321310684
+solution vii fingerprinting::0.00208321310684
+simple “nearme” applications::0.00208321310684
+levels of wifi::0.00208321310684
+velocity doppler effects::0.00208321310684
+verified in simulation::0.00208321310684
+mitigation is highly::0.00208321310684
+continuous signal strength::0.00208321310684
+batched together intentionally::0.00208321310684
+hopping to communicate::0.00208321310684
+out of phase::0.00208321310684
+advertisements the precise::0.00208321310684
+ultrasonic ground truth::0.00208321310684
+bae systems early::0.00208321310684
+lower power degrade::0.00208321310684
+beacons for proximity::0.00208321310684
+learning and opportunistic::0.00208321310684
+~10 db reduction::0.00208321310684
+multipath interference event::0.00208321310684
+paper has explored::0.00208321310684
+balachandran a 2000::0.00208321310684
+environments of typical::0.00208321310684
+ghz licence-free band::0.00208321310684
+problem is amplified::0.00208321310684
+data many times::0.00208321310684
+full of walls::0.00208321310684
+set of transmitters::0.00208321310684
+wifi signals exhibit::0.00208321310684
+comparison experimental set::0.00208321310684
+pink::0.00208321310684
+show the bayesian::0.00208321310684
+rate their high::0.00208321310684
+wifi scanning disabled::0.00208321310684
+detectable power 𝑃𝑚𝑖𝑛::0.00208321310684
+magnetometer data provide::0.00208321310684
+spatial location varies::0.00208321310684
+concentrated our studies::0.00208321310684
+perspective deep fades::0.00208321310684
+fluctuations than wifi::0.00208321310684
+single wifi channel::0.00208321310684
+maps using data::0.00208321310684
+energy-efficient machine-tomachine communication::0.00208321310684
+segmented into batches::0.00208321310684
+channels are nominally::0.00208321310684
+number of constructive::0.00208321310684
+key to producing::0.00208321310684
+multipath mitigation performance::0.00208321310684
+analysis with ble::0.00208321310684
+priors were tested::0.00208321310684
+time as environmental::0.00208321310684
+posterior was multi-modal::0.00208321310684
+pattern of radio::0.00208321310684
+i.e the maps::0.00208321310684
+pace this leads::0.00208321310684
+fingerprints and maps::0.00208321310684
+rss fingerprint measurements::0.00208321310684
+due to interference::0.00208321310684
+exploiting these capabilities::0.00208321310684
+good signal geometry::0.00208321310684
+dimitri leimer donald::0.00208321310684
+deployment of beacons::0.00208321310684
+shows ble data::0.00208321310684
+exploit lower beaconing::0.00208321310684
+close to objects::0.00208321310684
+overhead the standard::0.00208321310684
+positions of walls::0.00208321310684
+wi-fi and mems::0.00208321310684
+viii ble deployment::0.00208321310684
+easy to detect::0.00208321310684
+calculated we estimated::0.00208321310684
+2mhz ble channels::0.00208321310684
+mobile operating systems::0.00208321310684
+desire for metre-level::0.00208321310684
+walls and partitions::0.00208321310684
+sensing targeted advertising::0.00208321310684
+receiver coming back::0.00208321310684
+scan continues indefinitely::0.00208321310684
+data was filtered::0.00208321310684
+databases are commonly::0.00208321310684
+bandwidth wifi access::0.00208321310684
+signal of opportunity::0.00208321310684
+bayesian estimator provided::0.00208321310684
+hand image shows::0.00208321310684
+typically the battery::0.00208321310684
+apple iphone running::0.00208321310684
+scanning and wi-fi::0.00208321310684
+referencing system indoor::0.00208321310684
+size on multipath::0.00208321310684
+advertising channels pausing::0.00208321310684
+information theory inference::0.00208321310684
+triggers adverts vouchers::0.00208321310684
+require regular re-surveying::0.00208321310684
+demonstrated in figure::0.00208321310684
+examined the data::0.00208321310684
+fingerprint was assigned::0.00208321310684
+donald turetzky greg::0.00208321310684
+complex signal environment::0.00208321310684
+dead reckoning, proceedings::0.00208321310684
+ble beacon ranges::0.00208321310684
+total signal power::0.00208321310684
+interests in indoor::0.00208321310684
+shape vi fingerprinting::0.00208321310684
+frequency selective fading::0.00208321310684
+positioning than wifi::0.00208321310684
+providing fingerprint-based positioning::0.00208321310684
+chunks however ble::0.00208321310684
+shows a repeat::0.00208321310684
+generate a continuous::0.00208321310684
+distant signal sources::0.00208321310684
+effect of window::0.00208321310684
+micro-location proximity applications::0.00208321310684
+drops in power::0.00208321310684
+ble signals compared::0.00208321310684
+series of survey::0.00208321310684
+indoor positioning schemes::0.00208321310684
+outliers see figure::0.00208321310684
+environment the cluttered::0.00208321310684
+pedestrian who walked::0.00208321310684
+postprocessed the data::0.00208321310684
+slowly walked back::0.00208321310684
+bulkier than ble::0.00208321310684
+conferences robert harle::0.00208321310684
+provided to permit::0.00208321310684
+improvement in positioning::0.00208321310684
+higher than expected::0.00208321310684
+measurements processing data::0.00208321310684
+mmse and map::0.00208321310684
+first walk data::0.00208321310684
+positioning accuracy increases::0.00208321310684
+complicating the range::0.00208321310684
+errors in ble::0.00208321310684
+recording the measurements::0.00208321310684
+smearing the measurements::0.00208321310684
+fast-fade and smearing::0.00208321310684
+signals exhibit greater::0.00208321310684
+lower apparent measurement::0.00208321310684
+shows a position::0.00208321310684
+shows the wifi::0.00208321310684
+i.e mounted close::0.00208321310684
+iphone running ios::0.00208321310684
+batches of consecutive::0.00208321310684
+college cambridge previously::0.00208321310684
+limits of measurement::0.00208321310684
+rss measurements varying::0.00208321310684
+rubin dimitri leimer::0.00208321310684
+access points positioned::0.00208321310684
+“one shot” fixes::0.00208321310684
+reduce the large::0.00208321310684
+varies with frequency::0.00208321310684
+perform more fine-grained::0.00208321310684
+half the signal::0.00208321310684
+𝑒 −2𝜎2 equation::0.00208321310684
+band ble measurements::0.00208321310684
+cambridge and fellow::0.00208321310684
+awards at previous::0.00208321310684
+beaconing or advertising::0.00208321310684
+representing the full::0.00208321310684
+radio frequency spectrum::0.00208321310684
+reflectors walls ceiling::0.00208321310684
+optimal positioning performance::0.00208321310684
+distance using received::0.00208321310684
+ensure the accuracy::0.00208321310684
+ways to achieve::0.00208321310684
+places a constraint::0.00208321310684
+uniform prior carried::0.00208321310684
+80mhz band measured::0.00208321310684
+floor and ceiling::0.00208321310684
+beacons per fingerprint::0.00208321310684
+returned by smartphones::0.00208321310684
+wifi as observed::0.00208321310684
+poor signal geometry::0.00208321310684
+result in rss::0.00208321310684
+data is shown::0.00208321310684
+wifi constantly scanning::0.00208321310684
+posterior distribution figure::0.00208321310684
+exhibits noticeable improvement::0.00208321310684
+multipath resilience figure::0.00208321310684
+data that identify::0.00208321310684
+environment the experiment::0.00208321310684
+offers high-accuracy ground::0.00208321310684
+wifi will makes::0.00208321310684
+high beacon rates::0.00208321310684
+transmitter the receiver::0.00208321310684
+including simple proximity::0.00208321310684
+master’s thesis norwegian::0.00208321310684
+acknowledgments the range::0.00208321310684
+unit distance travelled::0.00208321310684
+tracking route guidance::0.00208321310684
+reduced positioning performance::0.00208321310684
+walks the operating::0.00208321310684
+skewed s4 data::0.00208321310684
+furniture and miscellaneous::0.00208321310684
+walls and objects::0.00208321310684
+route guidance unrestricted::0.00208321310684
+extend this idea::0.00208321310684
+report ble measurements::0.00208321310684
+systems early career::0.00208321310684
+selective fading phenomena::0.00208321310684
+typically wifi signals::0.00208321310684
+scan lasts longer::0.00208321310684
+random initial phase::0.00208321310684
+determine ble beacon::0.00208321310684
+assigned a position::0.00208321310684
+devices in advertising::0.00208321310684
+large scale beacon::0.00208321310684
+increase in positioning::0.00208321310684
+conveyor belt furniture::0.00208321310684
+expected positioning accuracy::0.00208321310684
+construct fingerprint maps::0.00208321310684
+– the density::0.00208321310684
+wlan-based indoor location::0.00208321310684
+tests was examined::0.00208321310684
+channel is unspecified::0.00208321310684
+benefit of multipath::0.00208321310684
+number of internal::0.00208321310684
+location in space::0.00208321310684
+error for ble::0.00208321310684
+purposes will typically::0.00208321310684
+posteriori map probability::0.00208321310684
+evidence to suggest::0.00208321310684
+consideration of real-world::0.00208321310684
+protocol bluetooth low::0.00208321310684
+result this places::0.00208321310684
+needed to produce::0.00208321310684
+approximately one week::0.00208321310684
+19-beacon deployment slower::0.00208321310684
+assume this channel::0.00208321310684
+ble indoor positioning::0.00208321310684
+similar frequency cellular::0.00208321310684
+reduction in rss::0.00208321310684
+traditional fingerprinting schemes::0.00208321310684
+reduction with range::0.00208321310684
+cupboards etc latapy::0.00208321310684
+conveyer belt apparatus::0.00208321310684
+interval multiple sightings::0.00208321310684
+represent two standard::0.00208321310684
+reported signal strength::0.00208321310684
+appears to stem::0.00208321310684
+spurious measurements approximately::0.00208321310684
+signals indoors note::0.00208321310684
+performance with fingerprint::0.00208321310684
+fingerprints but cellular::0.00208321310684
+gnss-denied tracking technologies::0.00208321310684
+data in short::0.00208321310684
+caused by interior::0.00208321310684
+measurements by batch::0.00208321310684
+carried no correlations::0.00208321310684
+idea to longer::0.00208321310684
+smartphones an iphone::0.00208321310684
+expected we concentrated::0.00208321310684
+guidance unrestricted navigation::0.00208321310684
+provide the fingerprints::0.00208321310684
+laboratory the advantage::0.00208321310684
+weak wifi signal::0.00208321310684
+phase 2 metres::0.00208321310684
+static environment understanding::0.00208321310684
+positions of furniture::0.00208321310684
+figure 3 references::0.00208321310684
+signal geometry repeating::0.00208321310684
+signal fingerprinting perspective::0.00208321310684
+good acquisition performance::0.00208321310684
+ble the data::0.00208321310684
+pseudorandomly to transmit::0.00208321310684
+running android 4.4.2::0.00208321310684
+high-accuracy ground truth::0.00208321310684
+information is unavailable::0.00208321310684
+fingerprinting the authors::0.00208321310684
+working on gnss-denied::0.00208321310684
+process that cycles::0.00208321310684
+assessed to determine::0.00208321310684
+beacon ranges depending::0.00208321310684
+reality fingerprints inevitably::0.00208321310684
+spectrum are out::0.00208321310684
+detrimental to fingerprinting::0.00208321310684
+conditions once fast::0.00208321310684
+walked back ble::0.00208321310684
+reflecting surface exists::0.00208321310684
+strength measurements careful::0.00208321310684
+fingerprints were formed::0.00208321310684
+high power output::0.00208321310684
+high noise level::0.00208321310684
+pausing to listen::0.00208321310684
+achieved by taking::0.00208321310684
+interference is dependent::0.00208321310684
+simple 3d model::0.00208321310684
+user motion assuming::0.00208321310684
+affect their usefulness::0.00208321310684
+map the colour::0.00208321310684
+positioning a bayesian::0.00208321310684
+walk this formed::0.00208321310684
+exact distances travelled::0.00208321310684
+out of working::0.00208321310684
+system the problem::0.00208321310684
+rss is expected::0.00208321310684
+channels to broadcast::0.00208321310684
+high dynamic range::0.00208321310684
+1hz or slower::0.00208321310684
+ubiquity of wifi::0.00208321310684
+core capabilities including::0.00208321310684
+coverage from access::0.00208321310684
+cells of length::0.00208321310684
+seldom located ideally::0.00208321310684
+signal path length::0.00208321310684
+user ble advertising::0.00208321310684
+channels exhibit fades::0.00208321310684
+scanning off removed::0.00208321310684
+shows the benefit::0.00208321310684
+fast fading effects::0.00208321310684
+difference between pairs::0.00208321310684
+manually in post::0.00208321310684
+corridor see figure::0.00208321310684
+beaconing rate affects::0.00208321310684
+ble input data::0.00208321310684
+black circle shows::0.00208321310684
+location is shown::0.00208321310684
+objects the rss::0.00208321310684
+gps” problem bluetooth::0.00208321310684
+order to assess::0.00208321310684
+deploy an overspecified::0.00208321310684
+estimate of 5-10::0.00208321310684
+2013 pp 1006-1019::0.00208321310684
+freely locate beacons::0.00208321310684
+comparison between wifi::0.00208321310684
+scheme that matched::0.00208321310684
+ble advertisement channels::0.00208321310684
+dominates the volume::0.00208321310684
+leimer donald turetzky::0.00208321310684
+powers and found::0.00208321310684
+fingerprinting with representative::0.00208321310684
+acknowledge the technical::0.00208321310684
+station locating master’s::0.00208321310684
+order to maximise::0.00208321310684
+positioning using signal::0.00208321310684
+reported ble rss::0.00208321310684
+fingerprint measurement noise::0.00208321310684
+higher than wifi::0.00208321310684
+effect of batch::0.00208321310684
+advanced technology centre::0.00208321310684
+network magnetometer data::0.00208321310684
+behaviour is verified::0.00208321310684
+ble scan continues::0.00208321310684
+signal strength reduces::0.00208321310684
+user being track::0.00208321310684
+provided channel information::0.00208321310684
+lower beaconing rates::0.00208321310684
+channel the fact::0.00208321310684
+susceptible to fast::0.00208321310684
+completely not trusted::0.00208321310684
+multiple beacon measurements::0.00208321310684
+access point deployment::0.00208321310684
+coming straight back::0.00208321310684
+beacons for fingerprint::0.00208321310684
+positioning of introducing::0.00208321310684
+effects of sporadic::0.00208321310684
+smoothing the ble::0.00208321310684
+batch is allowed::0.00208321310684
+power level steers::0.00208321310684
+processing window size::0.00208321310684
+significant positioning improvement::0.00208321310684
+image the true::0.00208321310684
+geometry an advantage::0.00208321310684
+median filter applied::0.00208321310684
+datasets to provide::0.00208321310684
+advertisement is reported::0.00208321310684
+shows a simulated::0.00208321310684
+ble follows bluetooth::0.00208321310684
+experiments we determined::0.00208321310684
+fluctuations in signal::0.00208321310684
+correlations through time::0.00208321310684
+movement rate fast::0.00208321310684
+batch smoothing exhibits::0.00208321310684
+suggest that active::0.00208321310684
+data each batch::0.00208321310684
+usefulness for providing::0.00208321310684
+positioning the left::0.00208321310684
+system indoor positioning::0.00208321310684
+adopts a scanning::0.00208321310684
+fingerprinting was conducted::0.00208321310684
+faragher r.m. harle::0.00208321310684
+ranges indoors 𝐷::0.00208321310684
+experimentally-derived rss reduction::0.00208321310684
+positioning performance compared::0.00208321310684
+system ph.d dissertation::0.00208321310684
+channels and future::0.00208321310684
+produce the coverage::0.00208321310684
+assuming typical walking::0.00208321310684
+murray continuous indoor::0.00208321310684
+wifi data exhibits::0.00208321310684
+cellular fashion ble::0.00208321310684
+asses the effect::0.00208321310684
+minimal infrastructure deployment::0.00208321310684
+ble see figure::0.00208321310684
+occur at difference::0.00208321310684
+values was recorded::0.00208321310684
+harle robert harle::0.00208321310684
+∑𝑁 𝑖=1(𝑅𝑖 −𝑀𝑖::0.00208321310684
+√ 𝑁 equation::0.00208321310684
+performance see figure::0.00208321310684
+beacons their fast::0.00208321310684
+beacon this fingerprint::0.00208321310684
+fashion ble rss::0.00208321310684
+event a reflection::0.00208321310684
+process survey maps::0.00208321310684
+wifi fingerprinting schemes::0.00208321310684
+rss metric produced::0.00208321310684
+tested a uniform::0.00208321310684
+turning the simultaneous::0.00208321310684
+iii channel bandwidth::0.00208321310684
+truth reference active::0.00208321310684
+traditional indoor positioning::0.00208321310684
+bat positioning system::0.00208321310684
+fingerprints is good::0.00208321310684
+20hz advertising rate::0.00208321310684
+provide extra insight::0.00208321310684
+level of multipath::0.00208321310684
+moderate or high::0.00208321310684
+parameters by post-processing::0.00208321310684
+compromise the receiver::0.00208321310684
+circles the black::0.00208321310684
+flexible deployment options::0.00208321310684
+displayed the expected::0.00208321310684
+easy to remove::0.00208321310684
+harle r.k. smartslam::0.00208321310684
+proximity to ble::0.00208321310684
+fingerprinting results comparison::0.00208321310684
+broadcasting their identifier::0.00208321310684
+noise in reality::0.00208321310684
+scale beacon deployment::0.00208321310684
+fast fades occur::0.00208321310684
+smartphones reliably report::0.00208321310684
+accuracy of bluetooth::0.00208321310684
+maps using simultaneous::0.00208321310684
+dense wifi coverage::0.00208321310684
+batch processing window::0.00208321310684
+period as coming::0.00208321310684
+mhz wide broadcasting::0.00208321310684
+ghz ism radio::0.00208321310684
+energy 4 devices::0.00208321310684
+units ix conclusions::0.00208321310684
+fluctuations from fast::0.00208321310684
+simulated the signals::0.00208321310684
+energy for indoor::0.00208321310684
+ground truth reference::0.00208321310684
+data using reduced::0.00208321310684
+identify the region::0.00208321310684
+rate fast fading::0.00208321310684
+chance to scan::0.00208321310684
+vouchers and information::0.00208321310684
+experimental output shown::0.00208321310684
+erhorst who developed::0.00208321310684
+fall and subsequent::0.00208321310684
+shows the spectrum::0.00208321310684
+fingerprint measurements pulling::0.00208321310684
+processing on ble::0.00208321310684
+wifi fingerprint map::0.00208321310684
+performance rapidly drops::0.00208321310684
+simulation a multipath::0.00208321310684
+time with wifi::0.00208321310684
+function 𝐹 𝐿::0.00208321310684
+“indoor gps” problem::0.00208321310684
+monitor three channels::0.00208321310684
+band as wifi::0.00208321310684
+infrastructure-free solutions abstract::0.00208321310684
+sinusoid narrow channels::0.00208321310684
+partitions this means::0.00208321310684
+walls for broadcasts::0.00208321310684
+advertising mode permitted::0.00208321310684
+errors are removed::0.00208321310684
+attenuation per metre::0.00208321310684
+data and iphone::0.00208321310684
+uk; r harle::0.00208321310684
+deployment slower rates::0.00208321310684
+beacon density required::0.00208321310684
+problem bluetooth low::0.00208321310684
+communication protocol characterised::0.00208321310684
+low radio power::0.00208321310684
+differences of interfering::0.00208321310684
+offline time window::0.00208321310684
+region was divided::0.00208321310684
+positioning accuracy combining::0.00208321310684
+demonstrated that smartphones::0.00208321310684
+matched the online::0.00208321310684
+jarvis murray continuous::0.00208321310684
+made to locate::0.00208321310684
+fittings shelving cupboards::0.00208321310684
+degrade the positioning::0.00208321310684
+map per source::0.00208321310684
+attenuator at wifi::0.00208321310684
+samples per beacon::0.00208321310684
+positions the exact::0.00208321310684
+positioning this paper::0.00208321310684
+ward alan jones::0.00208321310684
+ism radio band::0.00208321310684
+testing has demonstrated::0.00208321310684
+space and consists::0.00208321310684
+peaks and troughs::0.00208321310684
+fingerprint window size::0.00208321310684
+improves the ambiguity::0.00208321310684
+discovered that turning::0.00208321310684
+map using gaussian::0.00208321310684
+channels in quick::0.00208321310684
+provide good signal::0.00208321310684
+“one shot” positioning::0.00208321310684
+size on positioning::0.00208321310684
+handset with wifi::0.00208321310684
+interior partition walls::0.00208321310684
+smartphone is required::0.00208321310684
+typical indoor dimensions::0.00208321310684
+process the batch::0.00208321310684
+construct the maps::0.00208321310684
+likelihood function 𝐹::0.00208321310684
+paper in track::0.00208321310684
+previous epoch’s posterior::0.00208321310684
+placing a beacon::0.00208321310684
+highlighted in blue::0.00208321310684
+mitigation to aid::0.00208321310684
+reference the positioning::0.00208321310684
+developed the conveyer::0.00208321310684
+range energy-efficient machine-tomachine::0.00208321310684
+beacons to provide::0.00208321310684
+density of beacons::0.00208321310684
+data the issue::0.00208321310684
+rise in rss::0.00208321310684
+exhibit greater dynamic::0.00208321310684
+apparatus and collected::0.00208321310684
+fusion and wireless::0.00208321310684
+sizes were tested::0.00208321310684
+deviation should tend::0.00208321310684
+week apart figure::0.00208321310684
+exists an arbitrary::0.00208321310684
+tracking solution vii::0.00208321310684
+low energy devices::0.00208321310684
+calculations the resulting::0.00208321310684
+deployment also allowed::0.00208321310684
+consecutive mean values::0.00208321310684
+comparison of wifi::0.00208321310684
+large measurement variation::0.00208321310684
+vii fingerprinting results::0.00208321310684
+leads to batch::0.00208321310684
+channel bandwidth wifi::0.00208321310684
+asset tracking route::0.00208321310684
+expected walking speed::0.00208321310684
+desire for indoor::0.00208321310684
+require low radio::0.00208321310684
+general the results::0.00208321310684
+continuous indoor positioning::0.00208321310684
+reduces the effects::0.00208321310684
+mobile station locating::0.00208321310684
+batch of measurements::0.00208321310684
+avoid this issue::0.00208321310684
+5—18 minute walks::0.00208321310684
+accuracy in specific::0.00208321310684
+rss is effectively::0.00208321310684
+location is plotted::0.00208321310684
+experiments were carried::0.00208321310684
+form an rss::0.00208321310684
+3dbm per wall::0.00208321310684
+generated by placing::0.00208321310684
+shows the experimentally-derived::0.00208321310684
+ability to freely::0.00208321310684
+interior partition wall::0.00208321310684
+advertise its identifier::0.00208321310684
+steers the beacon::0.00208321310684
+square open area::0.00208321310684
+ranging performance rapidly::0.00208321310684
+rate the experiments::0.00208321310684
+version of android::0.00208321310684
+extra beacon coverage::0.00208321310684
+batch window size::0.00208321310684
+location specific triggers::0.00208321310684
+calculated different window::0.00208321310684
+clear that good::0.00208321310684
+experiments the error::0.00208321310684
+grid with square::0.00208321310684
+posterior to enable::0.00208321310684
+measurements per fingerprint::0.00208321310684
+figure 8 figure::0.00208321310684
+signals the left::0.00208321310684
+static batch measurements::0.00208321310684
+corridor in line::0.00208321310684
+loss per wall::0.00208321310684
+metre the body::0.00208321310684
+range and anisotropy::0.00208321310684
+generally much bulkier::0.00208321310684
+simulator is shown::0.00208321310684
+wifi tracking scheme::0.00208321310684
+spectrum the path::0.00208321310684
+positioning using gnss::0.00208321310684
+results comparison –::0.00208321310684
+travelled by reflected::0.00208321310684
+transmission power 𝑃𝑇𝑥::0.00208321310684
+developing a series::0.00208321310684
+window and fast-fade::0.00208321310684
+short unsolicited message::0.00208321310684
+data separated out::0.00208321310684
+values typically wifi::0.00208321310684
+fading in environments::0.00208321310684
+fingerprints inevitably degrade::0.00208321310684
+times the positions::0.00208321310684
+coverage however access::0.00208321310684
+recorded multipath mitigation::0.00208321310684
+producing an accurate::0.00208321310684
+succession the receiving::0.00208321310684
+fading effects figure::0.00208321310684
+1997 pp 42-47::0.00208321310684
+remove data manually::0.00208321310684
+results the highly::0.00208321310684
+gsm mobile station::0.00208321310684
+cells with moderate::0.00208321310684
+include the channel::0.00208321310684
+set of beacons::0.00208321310684
+data the test::0.00208321310684
+cambridge the experiment::0.00208321310684
+system to investigate::0.00208321310684
+university of maryland::0.00208321310684
+active bat coverage::0.00208321310684
+windowing process smearing::0.00208321310684
+beaconing rate correlated::0.00208321310684
+signal can vary::0.00208321310684
+maintenance requirements long::0.00208321310684
+fingerprinting perspective deep::0.00208321310684
+spectrum are shorter::0.00208321310684
+ble beacon combined::0.00208321310684
+introduction the introduction::0.00208321310684
+starts to provide::0.00208321310684
+beacon interval multiple::0.00208321310684
+points the motion::0.00208321310684
+received this information::0.00208321310684
+online algorithm— i.e::0.00208321310684
+intentionally to form::0.00208321310684
+needed v fingerprints::0.00208321310684
+data were logged::0.00208321310684
+fades are notably::0.00208321310684
+solution on subsequent::0.00208321310684
+beacons with parameters::0.00208321310684
+thesis norwegian university::0.00208321310684
+introducing ble beacons::0.00208321310684
+regression the training::0.00208321310684
+measurements careful consideration::0.00208321310684
+improvement over single::0.00208321310684
+current fingerprint measurement::0.00208321310684
+inference & learning::0.00208321310684
+achieve metre-level accuracy::0.00208321310684
+typical metropolitan indoor::0.00208321310684
+set to 20hz::0.00208321310684
+signals were constructed::0.00208321310684
+shown for comparison::0.00208321310684
+localisation the indoor::0.00208321310684
+locating master’s thesis::0.00208321310684
+separate tracking solution::0.00208321310684
+investigation we discovered::0.00208321310684
+navigation and rapid::0.00208321310684
+posterior i.e minimum::0.00208321310684
+26th international technical::0.00208321310684
+re-surveying to ensure::0.00208321310684
+iphone was moved::0.00208321310684
+navigation an associate::0.00208321310684
+handset running android::0.00208321310684
+set a high::0.00208321310684
+capabilities including simple::0.00208321310684
+maps were based::0.00208321310684
+mitigation when positioning::0.00208321310684
+dbm this sensitivity::0.00208321310684
+positioning the tracking::0.00208321310684
+area and recording::0.00208321310684
+𝐹= √ 𝑁::0.00208321310684
+fingerprint size occurs::0.00208321310684
+fades are evident::0.00208321310684
+precise time spent::0.00208321310684
+significantly different centre::0.00208321310684
+channels the physics::0.00208321310684
+−𝑀𝑖  𝐹=::0.00208321310684
+access points communicate::0.00208321310684
+media and interacts::0.00208321310684
+travelled the beaconing::0.00208321310684
+experience constructive interference::0.00208321310684
+produced very similar::0.00208321310684
+coverage we made::0.00208321310684
+scale metre level::0.00208321310684
+located near power::0.00208321310684
+represents the performance::0.00208321310684
+measurements with rss::0.00208321310684
+series of factors::0.00208321310684
+flexible update rates::0.00208321310684
+channels the ble::0.00208321310684
+power-hungry protocol bluetooth::0.00208321310684
+initial phase spread::0.00208321310684
+calculated the difference::0.00208321310684
+smartphone implementations switch::0.00208321310684
+beacons since wifi::0.00208321310684
+nearest beacon importantly::0.00208321310684
+dbm the experimental::0.00208321310684
+measurement of distance::0.00208321310684
+gnss+ 2013 nashville::0.00208321310684
+measurement the measurement::0.00208321310684
+metropolitan indoor environment::0.00208321310684
+transmitter whereas out::0.00208321310684
+ble deployment density::0.00208321310684
+system wifi fingerprints::0.00208321310684
+density our testing::0.00208321310684
+distribution between measurement::0.00208321310684
+ble ranging precision::0.00208321310684
+vary so dramatically::0.00208321310684
+body also attenuates::0.00208321310684
+maps wifi measurements::0.00208321310684
+impact on solving::0.00208321310684
+back ble data::0.00208321310684
+locate the ble::0.00208321310684
+understanding and dealing::0.00208321310684
+greater dynamic range::0.00208321310684
+entire indoor environment::0.00208321310684
+dampen the frequency::0.00208321310684
+interference with ble::0.00208321310684
+proximity sensing targeted::0.00208321310684
+ble standard enables::0.00208321310684
+previous one note::0.00208321310684
+affects the battery::0.00208321310684
+depth of fades::0.00208321310684
+smartphones a fingerprint::0.00208321310684
+miscellaneous objects figure::0.00208321310684
+case for ble::0.00208321310684
+simple simulated experiment::0.00208321310684
+indoor propagation characteristics::0.00208321310684
+schemes require regular::0.00208321310684
+reasonable proximity measurement::0.00208321310684
+𝐿 = 𝑒::0.00208321310684
+active bat positioning::0.00208321310684
+positioning result significantly::0.00208321310684
+canteen a wifi::0.00208321310684
+pulling the user::0.00208321310684
+rss error data::0.00208321310684
+mhz it moves::0.00208321310684
+analysis the wifi::0.00208321310684
+filtering multiple beacon::0.00208321310684
+building the power::0.00208321310684
+bluetooth specification version::0.00208321310684
+found that near-optimal::0.00208321310684
+typical indoor environments::0.00208321310684
+loss per interior::0.00208321310684
+time this performance::0.00208321310684
+office environment accounting::0.00208321310684
+award for developing::0.00208321310684
+analysis is shown::0.00208321310684
+aid accurate ble::0.00208321310684
+removed the result::0.00208321310684
+underlying this behaviour::0.00208321310684
+constraints fingerprint databases::0.00208321310684
+apparent measurement error::0.00208321310684
+cell was determined::0.00208321310684
+bandwidth and channel::0.00208321310684
+larger “indoor gps”::0.00208321310684
+removed these outliers::0.00208321310684
+rss values typically::0.00208321310684
+ble fading due::0.00208321310684
+static tests moving::0.00208321310684
+r.m. harle r.k.::0.00208321310684
+square error mmse::0.00208321310684
+state-of-the-art indoor positioning::0.00208321310684
+channel hopping issues::0.00208321310684
+including movement rate::0.00208321310684
+spectrum increases figure::0.00208321310684
+cluttered space contained::0.00208321310684
+system for static::0.00208321310684
+metre-level positioning suggests::0.00208321310684
+system 6 offers::0.00208321310684
+chose to construct::0.00208321310684
+shows an improvement::0.00208321310684
+specific triggers adverts::0.00208321310684
+wavelengths for 2.48ghz::0.00208321310684
+maximise signal coverage::0.00208321310684
+pink cross show::0.00208321310684
+simple single-reflection experiment::0.00208321310684
+coordinate of interest::0.00208321310684
+relying on continuous::0.00208321310684
+coverage for minimal::0.00208321310684
+algorithms cambridge university::0.00208321310684
+waves with random::0.00208321310684
+deep fades present::0.00208321310684
+environments the path::0.00208321310684
+measurement the variance::0.00208321310684
+ble over wifi::0.00208321310684
+geometries for radio::0.00208321310684
+window is determined::0.00208321310684
+case i.e mounted::0.00208321310684
+lengthy 5—18 minute::0.00208321310684
+environment we propose::0.00208321310684
+populated three times::0.00208321310684
+notably less severe::0.00208321310684
+developing navsop faragher::0.00208321310684
+wifi signal coverage::0.00208321310684
+fingerprint the choice::0.00208321310684
+expected to vary::0.00208321310684
+rates and good::0.00208321310684
+provided the positioning::0.00208321310684
+observed above corridor::0.00208321310684
+post-processing the data::0.00208321310684
+device to detect::0.00208321310684
+ble signals indoors::0.00208321310684
+blake chowdhary mahesh::0.00208321310684
+4.4.4 a conclusion::0.00208321310684
+indoor dimensions figure::0.00208321310684
+maps were thresholded::0.00208321310684
+significantly although rarely::0.00208321310684
+wifi and addresses::0.00208321310684
+rates to gather::0.00208321310684
+fingerprint-based indoor positioning::0.00208321310684
+𝑃𝑚𝑖𝑛 +𝑃𝑇𝑥 −𝑊×𝐴𝑤𝑎𝑙𝑙::0.00208321310684
+cellular to ble::0.00208321310684
+ghz wifi transceivers::0.00208321310684
+report an average::0.00208321310684
+unlike wifi access::0.00208321310684
+received signal amplitude::0.00208321310684
+small but significant::0.00208321310684
+values as low::0.00208321310684
+simulated and experimental::0.00208321310684
+fellow of queens’::0.00208321310684
+building fingerprinting relies::0.00208321310684
+window we choose::0.00208321310684
+rates and transmission::0.00208321310684
+hertz for positioning::0.00208321310684
+power and loss::0.00208321310684
+ble beacon rollout::0.00208321310684
+strength rss values::0.00208321310684
+channels are shown::0.00208321310684
+ion gnss 2012::0.00208321310684
+longer path length::0.00208321310684
+opportunistic positioning suite::0.00208321310684
+signal identity information::0.00208321310684
+low maintenance requirements::0.00208321310684
+samples in unit::0.00208321310684
+motion assuming typical::0.00208321310684
+modest measurement noise::0.00208321310684
+colour bar scale::0.00208321310684
+rate the desire::0.00208321310684
+processing window contained::0.00208321310684
+considered the performance::0.00208321310684
+receiver and source::0.00208321310684
+selected an offline::0.00208321310684
+red a ble::0.00208321310684
+baseline to compare::0.00208321310684
+environmental changes occur::0.00208321310684
+positioning and wifi::0.00208321310684
+repeating this analysis::0.00208321310684
+ceiling the conveyor::0.00208321310684
+opportunistic sensing, proceedings::0.00208321310684
+fingerprinting comparison experimental::0.00208321310684
+desired beacon power::0.00208321310684
+advertisement is received::0.00208321310684
+positioning system exploiting::0.00208321310684
+beacon power level::0.00208321310684
+reflections were simulated::0.00208321310684
+commercial use case::0.00208321310684
+truth referencing system::0.00208321310684
+determination system ph.d::0.00208321310684
+wifi mac addresses::0.00208321310684
+beacon ranges indoors::0.00208321310684
+schemes early experimentation::0.00208321310684
+official ble specification::0.00208321310684
+set to give::0.00208321310684
+argument the window::0.00208321310684
+tracking mode reduces::0.00208321310684
+aim to sample::0.00208321310684
+pedestrian will walk::0.00208321310684
+benefit to extra::0.00208321310684
+sponsors csr limited::0.00208321310684
+fingerprinting::0.00206512752914
+corridor::0.00205888411064
+transmission powers::0.00203531187534
+highly dependent::0.00203531187534
+fingerprinting schemes::0.00203531187534
+rss fingerprint::0.00203531187534
+satellite division::0.00203531187534
+ghz ism::0.00203531187534
+technical meeting::0.00203531187534
+gaussian processes::0.00203531187534
+wifi rss::0.00203531187534
+international technical::0.00203531187534
+robert harle::0.00203531187534
+position fix::0.00203531187534
+user motion::0.00203531187534
+positioning::0.0020259135259
+access points::0.00191804454733
+fading::0.00188368511929
+uniform prior::0.00184093209666
+proximity detection::0.00184093209666
+positioning sensor::0.00184093209666
+long battery::0.00184093209666
+typical indoor::0.00184093209666
+cambridge his research::0.00173195608967
+furniture and walls::0.00173195608967
+accuracy in order::0.00173195608967
+localisation and mapping::0.00173195608967
+shows the location::0.00173195608967
+fellow of downing::0.00173195608967
+vector of received::0.00173195608967
+ground truth position::0.00173195608967
+error bars represent::0.00173195608967
+specification version 4.0::0.00173195608967
+personal communications vol::0.00173195608967
+time and distance::0.00173195608967
+distribution was calculated::0.00173195608967
+large rss fluctuations::0.00173195608967
+navigation ion gnss::0.00173195608967
+maximum a posteriori::0.00173195608967
+slowly over time::0.00173195608967
+indoor positioning scheme::0.00173195608967
+units of dbm::0.00173195608967
+set of static::0.00173195608967
+degrade over time::0.00173195608967
+minimum mean square::0.00173195608967
+desired positioning accuracy::0.00173195608967
+ghz ism band::0.00173195608967
+smartphone indoor positioning::0.00173195608967
+distribution of samples::0.00173195608967
+work this paper::0.00173195608967
+scheme is proposed::0.00173195608967
+constructive::0.00173195608967
+shows the rss::0.00173195608967
+attempt was made::0.00173195608967
+estimated the position::0.00173195608967
+downing college cambridge::0.00173195608967
+wifi and cellular::0.00173195608967
+low energy bluetooth::0.00173195608967
+bluetooth sig bluetooth::0.00173195608967
+points are rarely::0.00173195608967
+compared to wifi::0.00173195608967
+worked on indoor::0.00173195608967
+ios::0.00173195608967
+provide a level::0.00173195608967
+shows the locations::0.00173195608967
+bahl p. padmanabhan::0.00173195608967
+measurements were collected::0.00173195608967
+belt::0.00171573675886
+power output::0.00169015942685
+harle::0.00169015942685
+positioning applications::0.00169015942685
+interior::0.00169015942685
+wifi infrastructure::0.00169015942685
+existing wifi::0.00169015942685
+shown in figure::0.00168909872438
+signal strength measurements::0.00164793974431
+geometry::0.00158243175566
+cambridge::0.00157626335812
+length::0.0015757095166
+conveyor::0.00156696918577
+indoor positioning system::0.00156681537842
+band::0.00155041937455
+ph.d dissertation university::0.00152648390651
+provide a high::0.00152648390651
+give good results::0.00152648390651
+signal strength decreases::0.00152648390651
+combining this information::0.00152648390651
+proposed and tested::0.00152648390651
+estimate the user’s::0.00152648390651
+data to generate::0.00152648390651
+active bat system::0.00152648390651
+indoor office environment::0.00152648390651
+large indoor space::0.00152648390651
+order to satisfy::0.00152648390651
+rates::0.00149170594719
+line of sight::0.00149170594719
+human body::0.00146281332103
+fluctuations::0.00146281332103
+spectrum::0.00144316127431
+ghz::0.00144101544115
+rss values::0.0014217807396
+𝑃𝑇𝑥::0.0013888087379
+batch filtering::0.0013888087379
+highly detrimental::0.0013888087379
+cambridge uk;::0.0013888087379
+error data::0.0013888087379
+region ble::0.0013888087379
+experimental output::0.0013888087379
+exhibit fades::0.0013888087379
+simplest ways::0.0013888087379
+ray-tracing simulator::0.0013888087379
+ble standard::0.0013888087379
+iphone moving::0.0013888087379
+length scales::0.0013888087379
+beacon density::0.0013888087379
+systems early::0.0013888087379
+experimental area::0.0013888087379
+spatial location::0.0013888087379
+signal obstructions::0.0013888087379
+single contribution::0.0013888087379
+channels pausing::0.0013888087379
+established wifi::0.0013888087379
+windowing process::0.0013888087379
+machine-tomachine communication::0.0013888087379
+ble advertisement::0.0013888087379
+smoothing process::0.0013888087379
+signal amplitude::0.0013888087379
+radio environment::0.0013888087379
+green channels::0.0013888087379
+distances travelled::0.0013888087379
+maintenance requirements::0.0013888087379
+frequency cellular::0.0013888087379
+flexible deployment::0.0013888087379
+sporadic errors::0.0013888087379
+scale beacon::0.0013888087379
+tests moving::0.0013888087379
+desired bandwidth::0.0013888087379
+advanced technology::0.0013888087379
+variance data::0.0013888087379
+data representing::0.0013888087379
+scheme readily::0.0013888087379
+experiment shown::0.0013888087379
+beacon importantly::0.0013888087379
+partition walls::0.0013888087379
+additional loss::0.0013888087379
+signals exhibit::0.0013888087379
+simulated conveyor::0.0013888087379
+device agnostic::0.0013888087379
+dense wifi::0.0013888087379
+experimentally-derived rss::0.0013888087379
+reflect including::0.0013888087379
+destructive events::0.0013888087379
+rate affects::0.0013888087379
+comparison red::0.0013888087379
+−𝑀𝑖::0.0013888087379
+geometry figure::0.0013888087379
+ranging uncertainty::0.0013888087379
+short unsolicited::0.0013888087379
+scanning disabled::0.0013888087379
+minimal overhead::0.0013888087379
+vary rapidly::0.0013888087379
+number triangles::0.0013888087379
+identity information::0.0013888087379
+signal penetrates::0.0013888087379
+ble fading::0.0013888087379
+viii ble::0.0013888087379
+larger fluctuations::0.0013888087379
+−2𝜎2 equation::0.0013888087379
+single ble::0.0013888087379
+typical metropolitan::0.0013888087379
+greater dynamic::0.0013888087379
+maximise signal::0.0013888087379
+slower rates::0.0013888087379
+mobile operating::0.0013888087379
+norwegian university::0.0013888087379
+experience constructive::0.0013888087379
+commonly constructed::0.0013888087379
+navsop faragher::0.0013888087379
+murray continuous::0.0013888087379
+sinusoidal transition::0.0013888087379
+official ble::0.0013888087379
+triggers adverts::0.0013888087379
+rapid fluctuations::0.0013888087379
+navsop::0.0013888087379
+early experimentation::0.0013888087379
+receiver speed::0.0013888087379
+interval multiple::0.0013888087379
+fingerprinting comparison::0.0013888087379
+individuallyinterfering carriers::0.0013888087379
+lower apparent::0.0013888087379
+bae::0.0013888087379
+gps” problem::0.0013888087379
+donald turetzky::0.0013888087379
+post processing::0.0013888087379
+smartphone implementations::0.0013888087379
+wellsurveyed environment::0.0013888087379
+fingerprints inevitably::0.0013888087379
+level steers::0.0013888087379
+interference event::0.0013888087379
+location varies::0.0013888087379
+band measured::0.0013888087379
+open environment::0.0013888087379
+exhibits multimodality::0.0013888087379
+simulated experiment::0.0013888087379
+square open::0.0013888087379
+valid assumption::0.0013888087379
+iphone running::0.0013888087379
+mitigation techniques::0.0013888087379
+location-based event::0.0013888087379
+senior lecturer::0.0013888087379
+opportunistic positioning::0.0013888087379
+apparent high::0.0013888087379
+schemes early::0.0013888087379
+rate correlated::0.0013888087379
+𝑒 −2𝜎2::0.0013888087379
+measurement epochs::0.0013888087379
+belt apparatus::0.0013888087379
+static tests::0.0013888087379
+environment understanding::0.0013888087379
+freely locate::0.0013888087379
+optimal radio::0.0013888087379
+dimensions figure::0.0013888087379
+larger “indoor::0.0013888087379
+experiment demonstrates::0.0013888087379
+80mhz band::0.0013888087379
+low maintenance::0.0013888087379
+vary smoothly::0.0013888087379
+bandwidth starts::0.0013888087379
+exploit lower::0.0013888087379
+indoors note::0.0013888087379
+slowly walked::0.0013888087379
+spurious values::0.0013888087379
+map probability::0.0013888087379
+bye fellow::0.0013888087379
+received advert::0.0013888087379
+channel bandwidth::0.0013888087379
+state-of-the-art indoor::0.0013888087379
+extra beacon::0.0013888087379
+coherence length::0.0013888087379
+guidance unrestricted::0.0013888087379
+section note::0.0013888087379
+sensing, proceedings::0.0013888087379
+∑𝑁 𝑖=1(𝑅𝑖::0.0013888087379
+reality fingerprints::0.0013888087379
+stable radio::0.0013888087379
+survey sites::0.0013888087379
+boosted accuracy::0.0013888087379
+including movement::0.0013888087379
+channels resulting::0.0013888087379
+channel number::0.0013888087379
+receiver coming::0.0013888087379
+bayesian mmse::0.0013888087379
+offers high-accuracy::0.0013888087379
+deep fades::0.0013888087379
+mems dead::0.0013888087379
+study investigated::0.0013888087379
+typically located::0.0013888087379
+experimental approach::0.0013888087379
+identifier bssid::0.0013888087379
+19-beacon deployment::0.0013888087379
+ghz wifi::0.0013888087379
+experimental set::0.0013888087379
+end office::0.0013888087379
+motion assuming::0.0013888087379
+centre frequencies::0.0013888087379
+sensing targeted::0.0013888087379
+centimetres::0.0013888087379
+coming straight::0.0013888087379
+detected fingerprints::0.0013888087379
+longer path::0.0013888087379
+wifi frequencies::0.0013888087379
+i.e maximum::0.0013888087379
+performance rapidly::0.0013888087379
+bandwidth increases::0.0013888087379
+ism radio::0.0013888087379
+lasts longer::0.0013888087379
+blake chowdhary::0.0013888087379
+arbitrary point::0.0013888087379
+loss values::0.0013888087379
+developing navsop::0.0013888087379
+adverts vouchers::0.0013888087379
+faragher university::0.0013888087379
+wifi constantly::0.0013888087379
+movement importantly::0.0013888087379
+metre-level accuracy::0.0013888087379
+single rss::0.0013888087379
+greg jarvis::0.0013888087379
+multipath errors::0.0013888087379
+designed primarily::0.0013888087379
+recorded wifi::0.0013888087379
+continuous signal::0.0013888087379
+system indoor::0.0013888087379
+truth reference::0.0013888087379
+milliseconds figure::0.0013888087379
+previous epoch’s::0.0013888087379
+protocol characterised::0.0013888087379
+detectable power::0.0013888087379
+simple proximity::0.0013888087379
+smearing::0.0013888087379
+micro-location proximity::0.0013888087379
+doppler effects::0.0013888087379
+data shown::0.0013888087379
+bluetooth standards::0.0013888087379
+reduced positioning::0.0013888087379
+measurements pulling::0.0013888087379
+system wifi::0.0013888087379
+near-optimal results::0.0013888087379
+demonstrates ble::0.0013888087379
+energy compromise::0.0013888087379
+total signal::0.0013888087379
+short set::0.0013888087379
+aid accurate::0.0013888087379
+radio channel::0.0013888087379
+achieve metre-level::0.0013888087379
+result significantly::0.0013888087379
+cross show::0.0013888087379
+traditional fingerprinting::0.0013888087379
+schemes require::0.0013888087379
+advertisement report::0.0013888087379
+measurements varying::0.0013888087379
+constraints fingerprint::0.0013888087379
+2000 developing::0.0013888087379
+scanning process::0.0013888087379
+improve matters::0.0013888087379
+good acquisition::0.0013888087379
+comparison experimental::0.0013888087379
+rss measures::0.0013888087379
+wifi channel::0.0013888087379
+rapid localisation::0.0013888087379
+channel processing::0.0013888087379
+energy-efficient machine-tomachine::0.0013888087379
+drawn randomly::0.0013888087379
+ion gnss+::0.0013888087379
+i.e mounted::0.0013888087379
+career engineer::0.0013888087379
+extra insight::0.0013888087379
+increases figure::0.0013888087379
+apparent measurement::0.0013888087379
+power-hungry protocol::0.0013888087379
+indoors 𝐷::0.0013888087379
+reflecting surface::0.0013888087379
+cambridge previously::0.0013888087379
+values produced::0.0013888087379
+maps wifi::0.0013888087379
+data separated::0.0013888087379
+phase spread::0.0013888087379
+expected fall::0.0013888087379
+mitigation improves::0.0013888087379
+user ble::0.0013888087379
+arbitrary period::0.0013888087379
+metric produced::0.0013888087379
+principal scientist::0.0013888087379
+device adopts::0.0013888087379
+corridor tests::0.0013888087379
+construct fingerprint::0.0013888087379
+october 1997::0.0013888087379
+signal environment::0.0013888087379
+capabilities including::0.0013888087379
+small typically::0.0013888087379
+extreme ends::0.0013888087379
+clear benefit::0.0013888087379
+signals compared::0.0013888087379
+attenuation iii::0.0013888087379
+fingerprint map::0.0013888087379
+nearest beacon::0.0013888087379
+fading phenomena::0.0013888087379
+points communicate::0.0013888087379
+pink cross::0.0013888087379
+modest measurement::0.0013888087379
+“nearme” applications::0.0013888087379
+i.e minimum::0.0013888087379
+median filter::0.0013888087379
+subsequent walks::0.0013888087379
+fast-fade::0.0013888087379
+colour bar::0.0013888087379
+surface exists::0.0013888087379
+ble positioning::0.0013888087379
+wifi achieved::0.0013888087379
+exhibits noticeable::0.0013888087379
+scan lasts::0.0013888087379
+reflected signals::0.0013888087379
+reference active::0.0013888087379
+distant signal::0.0013888087379
+batch measurements::0.0013888087379
+band ble::0.0013888087379
+faragher won::0.0013888087379
+unlike wifi::0.0013888087379
+permit users::0.0013888087379
+bat positioning::0.0013888087379
+differences caused::0.0013888087379
+low-power bluetooth::0.0013888087379
+ble input::0.0013888087379
+greater density::0.0013888087379
+high dynamic::0.0013888087379
+times faster::0.0013888087379
+specific zones::0.0013888087379
+low radio::0.0013888087379
+truth referencing::0.0013888087379
+√ 𝑁::0.0013888087379
+good attenuator::0.0013888087379
+prior carried::0.0013888087379
+shot”::0.0013888087379
+environment fingerprinting::0.0013888087379
+pink square::0.0013888087379
+process smearing::0.0013888087379
+6-8 beacons::0.0013888087379
+ble bandwidth::0.0013888087379
+fast beaconing::0.0013888087379
+requirements long::0.0013888087379
+confidently trigger::0.0013888087379
+data provide::0.0013888087379
+choice driven::0.0013888087379
+typical length::0.0013888087379
+map cells::0.0013888087379
+devices; wifi::0.0013888087379
+opportunistic sensing,::0.0013888087379
+low-cost low-power::0.0013888087379
+first-bounce reflections::0.0013888087379
+fingerprint window::0.0013888087379
+system ph.d::0.0013888087379
+scale metre::0.0013888087379
+95% confidence::0.0013888087379
+determine ble::0.0013888087379
+simple simulated::0.0013888087379
+coming back::0.0013888087379
+september 2013::0.0013888087379
+ble fingerprints::0.0013888087379
+beacon deployment::0.0013888087379
+iii channel::0.0013888087379
+points positioned::0.0013888087379
+chowdhary mahesh::0.0013888087379
+base-10 logarithmic::0.0013888087379
+provided channel::0.0013888087379
+highly skewed::0.0013888087379
+gnss-denied positioning::0.0013888087379
+bayesian likelihood::0.0013888087379
+deep multipath::0.0013888087379
+harle r.k.::0.0013888087379
+running ios::0.0013888087379
+expected positioning::0.0013888087379
+fingerprint refers::0.0013888087379
+subsequent rise::0.0013888087379
+fingerprinting perspective::0.0013888087379
+energy devices::0.0013888087379
+magnetometer data::0.0013888087379
+wide broadcasting::0.0013888087379
+overspecified set::0.0013888087379
+reliably report::0.0013888087379
+maximum signal::0.0013888087379
+established due::0.0013888087379
+power sources::0.0013888087379
+systems report::0.0013888087379
+ranges depending::0.0013888087379
+frequency explains::0.0013888087379
+project sponsors::0.0013888087379
+mitigation performance::0.0013888087379
+harle university::0.0013888087379
+reinoud erhorst::0.0013888087379
+algorithm— i.e::0.0013888087379
+transmitters distributed::0.0013888087379
+great resilience::0.0013888087379
+channel hopping::0.0013888087379
+estimator provided::0.0013888087379
+difference positions::0.0013888087379
+weak wifi::0.0013888087379
+channels pseudorandomly::0.0013888087379
+positioning improvement::0.0013888087379
+metre corridor::0.0013888087379
+slow pace::0.0013888087379
+potential accuracy::0.0013888087379
+varying rapidly::0.0013888087379
+user's body::0.0013888087379
+indoor dimensions::0.0013888087379
+frequency-dependent fading::0.0013888087379
+corridor test::0.0013888087379
+hopping issues::0.0013888087379
+scanning figure::0.0013888087379
+ble ranging::0.0013888087379
+beacon set::0.0013888087379
+fingerprint assuming::0.0013888087379
+geometry repeating::0.0013888087379
+licence-free band::0.0013888087379
+epoch’s posterior::0.0013888087379
+2000 enhancements::0.0013888087379
+ble makes::0.0013888087379
+logarithmic units::0.0013888087379
+channel ble::0.0013888087379
+inevitably degrade::0.0013888087379
+providing fingerprint-based::0.0013888087379
+nominally labelled::0.0013888087379
+scan continues::0.0013888087379
+𝑁 equation::0.0013888087379
+25th international::0.0013888087379
+compare ble::0.0013888087379
+12m section::0.0013888087379
+large square::0.0013888087379
+mhz ble::0.0013888087379
+user moved::0.0013888087379
+similar argument::0.0013888087379
+reduced beacon::0.0013888087379
+lengthy 5—18::0.0013888087379
+reflectors walls::0.0013888087379
+metre-level::0.0013888087379
+continues indefinitely::0.0013888087379
+require regular::0.0013888087379
+measurements approximately::0.0013888087379
+remove data::0.0013888087379
+hand image::0.0013888087379
+occur –::0.0013888087379
+large fluctuations::0.0013888087379
+random initial::0.0013888087379
+results comparison::0.0013888087379
+navsop opportunistic::0.0013888087379
+3hz update::0.0013888087379
+exploiting machine::0.0013888087379
+spatial positions::0.0013888087379
+acquisition position::0.0013888087379
+beacon power::0.0013888087379
+bat coverage::0.0013888087379
+data manually::0.0013888087379
+signal identity::0.0013888087379
+channel occupied::0.0013888087379
+shot” fixes::0.0013888087379
+survey maps::0.0013888087379
+co-located figure::0.0013888087379
+jarvis murray::0.0013888087379
+rapidly drops::0.0013888087379
+experimentation demonstrated::0.0013888087379
+range energy-efficient::0.0013888087379
+ranging precision::0.0013888087379
+monochromatic waves::0.0013888087379
+predicted loss::0.0013888087379
+size occurs::0.0013888087379
+10hz beaconing::0.0013888087379
+𝑃𝑚𝑖𝑛 +𝑃𝑇𝑥::0.0013888087379
+full scan::0.0013888087379
+broadcast advertise::0.0013888087379
+short messages::0.0013888087379
+update rates::0.0013888087379
+function 𝐹::0.0013888087379
+dimitri leimer::0.0013888087379
+spectrum increases::0.0013888087379
+high transmission::0.0013888087379
+mounted close::0.0013888087379
+harle robert::0.0013888087379
+flexible update::0.0013888087379
+algorithms cambridge::0.0013888087379
+shelving cupboards::0.0013888087379
+simple single-reflection::0.0013888087379
+metre level::0.0013888087379
+belt furniture::0.0013888087379
+minimal infrastructure::0.0013888087379
+faragher r.m.::0.0013888087379
+poor signal::0.0013888087379
+26th international::0.0013888087379
+metres represents::0.0013888087379
+ghz radio::0.0013888087379
+space contained::0.0013888087379
+infrastructure-free solutions::0.0013888087379
+separate tracking::0.0013888087379
+quick succession::0.0013888087379
+cambridge working::0.0013888087379
++𝑃𝑇𝑥 −𝑊×𝐴𝑤𝑎𝑙𝑙::0.0013888087379
+cellular cell-ids::0.0013888087379
+alan jones::0.0013888087379
+simultaneous wifi::0.0013888087379
+iphone data::0.0013888087379
+manually visiting::0.0013888087379
+back ble::0.0013888087379
+wifi mac::0.0013888087379
+experiment provided::0.0013888087379
+entire band::0.0013888087379
+map estimate::0.0013888087379
+fittings shelving::0.0013888087379
+roundtrip walk::0.0013888087379
+returned individually::0.0013888087379
+channels shows::0.0013888087379
+resilience figure::0.0013888087379
+seldom located::0.0013888087379
+power degrade::0.0013888087379
+window contained::0.0013888087379
+spatial separation::0.0013888087379
+systems advanced::0.0013888087379
+ghz licence-free::0.0013888087379
+rss variation::0.0013888087379
+frequency selective::0.0013888087379
+nashville::0.0013888087379
+measurements recorded::0.0013888087379
+problem bluetooth::0.0013888087379
+fingerprinting relies::0.0013888087379
+wi-fi radio::0.0013888087379
+ramsey::0.0013888087379
+signal wavelengths::0.0013888087379
+previous ion::0.0013888087379
+user velocity::0.0013888087379
+large measurement::0.0013888087379
+regular re-surveying::0.0013888087379
+bar scale::0.0013888087379
+station locating::0.0013888087379
+resulting function::0.0013888087379
+system exploiting::0.0013888087379
+signal interfere::0.0013888087379
+optimal positioning::0.0013888087379
+original path::0.0013888087379
+fading due::0.0013888087379
+high-accuracy ground::0.0013888087379
+2012 nashville::0.0013888087379
+maximum positioning::0.0013888087379
+unrestricted navigation::0.0013888087379
+data circles::0.0013888087379
+gnss-denied tracking::0.0013888087379
+pink circle::0.0013888087379
+body attenuation::0.0013888087379
+battery dominates::0.0013888087379
+reckoning, proceedings::0.0013888087379
+test suggests::0.0013888087379
+recorded multipath::0.0013888087379
+beacon rollout::0.0013888087379
+5—18 minute::0.0013888087379
+ble source::0.0013888087379
+steady increase::0.0013888087379
+leimer donald::0.0013888087379
+conferences robert::0.0013888087379
+fingerprinting performance::0.0013888087379
+entire 80mhz::0.0013888087379
+previous analysis::0.0013888087379
+walls ceiling::0.0013888087379
+ble lies::0.0013888087379
+mode permitted::0.0013888087379
+multiple sightings::0.0013888087379
+fashion ble::0.0013888087379
+significant set::0.0013888087379
+repeatable rss::0.0013888087379
+typically wifi::0.0013888087379
+oscillations::0.0013888087379
+objects figure::0.0013888087379
+strongest advertisement::0.0013888087379
+gnss 2012::0.0013888087379
+simple multipath::0.0013888087379
+straight back::0.0013888087379
+velocity doppler::0.0013888087379
+continuous indoor::0.0013888087379
+ideally reduce::0.0013888087379
+performance provided::0.0013888087379
+walking experiments::0.0013888087379
+multipath resilience::0.0013888087379
+construction technique::0.0013888087379
+resilience::0.0013888087379
+wifi tracking::0.0013888087379
+𝐹=::0.0013888087379
+part due::0.0013888087379
+ranges indoors::0.0013888087379
+require low::0.0013888087379
+measurement variation::0.0013888087379
+frequencies experience::0.0013888087379
+small motions::0.0013888087379
+queens’ college::0.0013888087379
+mahesh rubin::0.0013888087379
+agnostic solution::0.0013888087379
+length scale::0.0013888087379
+smearing mitigation::0.0013888087379
+lower beaconing::0.0013888087379
+standard enables::0.0013888087379
+acquisition performance::0.0013888087379
+accuracy combining::0.0013888087379
+handset running::0.0013888087379
+rate fast::0.0013888087379
+tracking solution::0.0013888087379
+typical walking::0.0013888087379
+coloured circles::0.0013888087379
+interfering signals::0.0013888087379
+circle shows::0.0013888087379
+minimum detectable::0.0013888087379
+cellular fashion::0.0013888087379
+performance compared::0.0013888087379
+ble experiments::0.0013888087379
+high beaconing::0.0013888087379
+reasonable proximity::0.0013888087379
+distributed specifically::0.0013888087379
+manually taking::0.0013888087379
+bayesian estimator::0.0013888087379
+distance larger::0.0013888087379
+android 4.4.4::0.0013888087379
+technology centre::0.0013888087379
+miscellaneous objects::0.0013888087379
+introducing ble::0.0013888087379
+process survey::0.0013888087379
+density required::0.0013888087379
+signal wavelength::0.0013888087379
+case i.e::0.0013888087379
+posterior i.e::0.0013888087379
+smartslam::0.0013888087379
+network magnetometer::0.0013888087379
+calculated power::0.0013888087379
+slow conveyor::0.0013888087379
+building fingerprinting::0.0013888087379
+expected walking::0.0013888087379
+fades present::0.0013888087379
+sickle shape::0.0013888087379
+conveyer belt::0.0013888087379
+performed out::0.0013888087379
+metropolitan indoor::0.0013888087379
+left image::0.0013888087379
+separated out::0.0013888087379
+cluttered space::0.0013888087379
+solution vii::0.0013888087379
+implementations switch::0.0013888087379
+square cells::0.0013888087379
+2013 nashville::0.0013888087379
+network access::0.0013888087379
+fast-fade mitigation::0.0013888087379
+royal institute::0.0013888087379
+movement rate::0.0013888087379
+short chunks::0.0013888087379
+locate beacons::0.0013888087379
+thesis norwegian::0.0013888087379
+core capabilities::0.0013888087379
+user slower::0.0013888087379
+connectable beacon::0.0013888087379
+locating master’s::0.0013888087379
+efficient smartphone::0.0013888087379
+sparse deployment::0.0013888087379
+gnss-denied::0.0013888087379
+similar frequency::0.0013888087379
+including simple::0.0013888087379
+belt experiment::0.0013888087379
+simple “nearme”::0.0013888087379
+unrestricted indoor::0.0013888087379
+radio power::0.0013888087379
+geometry afforded::0.0013888087379
+online algorithm—::0.0013888087379
+building full::0.0013888087379
+sinusoid narrow::0.0013888087379
+map estimators::0.0013888087379
+tracking scheme::0.0013888087379
+fingerprint-based indoor::0.0013888087379
+offline time::0.0013888087379
+including walls::0.0013888087379
+data displayed::0.0013888087379
+high beacon::0.0013888087379
+issue appears::0.0013888087379
+“indoor gps”::0.0013888087379
+smoothing exhibits::0.0013888087379
+effectively drawn::0.0013888087379
+environment accounting::0.0013888087379
+prior based::0.0013888087379
+typical desire::0.0013888087379
+measurements processing::0.0013888087379
+presentation awards::0.0013888087379
+ultrasonic ground::0.0013888087379
+fast fades::0.0013888087379
+wifi baseline::0.0013888087379
+rubin dimitri::0.0013888087379
+spatial range::0.0013888087379
+width depends::0.0013888087379
+taking readings::0.0013888087379
+low beaconing::0.0013888087379
+narrow channels::0.0013888087379
+physics underlying::0.0013888087379
+jones andy::0.0013888087379
+corridor increasing::0.0013888087379
+channels exhibit::0.0013888087379
+single-reflection experiment::0.0013888087379
+strength reduces::0.0013888087379
+received samples::0.0013888087379
+practice depends::0.0013888087379
+exact distances::0.0013888087379
+good result::0.0013888087379
+android-based samsung::0.0013888087379
+data figure::0.0013888087379
+theory inference::0.0013888087379
+located ideally::0.0013888087379
+high noise::0.0013888087379
+values varying::0.0013888087379
+ble deployment::0.0013888087379
+tracking route::0.0013888087379
+shows ble::0.0013888087379
+wifi transceivers::0.0013888087379
+multipath fades::0.0013888087379
+walked back::0.0013888087379
+institute’s journal::0.0013888087379
+metre-level positioning::0.0013888087379
+android 4.4.2::0.0013888087379
+ble indoor::0.0013888087379
+2mhz ble::0.0013888087379
+simple conveyor::0.0013888087379
+mhz channels::0.0013888087379
+gnss wi-fi::0.0013888087379
+standard smartphones::0.0013888087379
+“one::0.0013888087379
+vii fingerprinting::0.0013888087379
+realistic locations::0.0013888087379
+typical commercial::0.0013888087379
+recent smartphone::0.0013888087379
+batch windows::0.0013888087379
+slower users::0.0013888087379
+rss profiles::0.0013888087379
+protocol bluetooth::0.0013888087379
+rss reduction::0.0013888087379
+non-connectable beacons::0.0013888087379
+exhibit greater::0.0013888087379
+comparison –::0.0013888087379
+mhz wifi::0.0013888087379
+error distributions::0.0013888087379
+bandwidth wifi::0.0013888087379
+batch smoothing::0.0013888087379
+𝐹 𝐿::0.0013888087379
+static batch::0.0013888087379
+report ble::0.0013888087379
+metres depends::0.0013888087379
+beacon interval::0.0013888087379
+perspective deep::0.0013888087379
+average power::0.0013888087379
+𝐴𝑤𝑎𝑙𝑙::0.0013888087379
+significant measurement::0.0013888087379
+ble scan::0.0013888087379
+ward alan::0.0013888087379
+r.m. harle::0.0013888087379
+csr limited::0.0013888087379
+rss error::0.0013888087379
+shot” positioning::0.0013888087379
+real-world issues::0.0013888087379
+fingerprint vectors::0.0013888087379
+technologies operate::0.0013888087379
+working hours::0.0013888087379
+signal geometries::0.0013888087379
+high variance::0.0013888087379
+wall led::0.0013888087379
+deployment slower::0.0013888087379
+unsolicited message::0.0013888087379
+20hz advertising::0.0013888087379
+single wifi::0.0013888087379
+dead reckoning,::0.0013888087379
+walk data::0.0013888087379
+specific triggers::0.0013888087379
+ion conferences::0.0013888087379
+assuming typical::0.0013888087379
+turetzky greg::0.0013888087379
+gnss+ 2013::0.0013888087379
+ibeacon purposes::0.0013888087379
+ideal density::0.0013888087379
+exhibits lower::0.0013888087379
+representative hardware::0.0013888087379
+iphone datasets::0.0013888087379
+spurious measurements::0.0013888087379
+partition wall::0.0013888087379
+provide extra::0.0013888087379
+positioning suggests::0.0013888087379
+positioning suite::0.0013888087379
+mode reduces::0.0013888087379
+measurements careful::0.0013888087379
+non-line-of-sight signal::0.0013888087379
+early career::0.0013888087379
+faragher ramsey::0.0013888087379
+smartphones reliably::0.0013888087379
+desired beacon::0.0013888087379
+confidence ultrasonic::0.0013888087379
+solutions abstract::0.0013888087379
+reported ble::0.0013888087379
+first walk::0.0013888087379
+rss caused::0.0013888087379
+sponsors csr::0.0013888087379
+filter applied::0.0013888087379
+latest version::0.0013888087379
+reflection coming::0.0013888087379
+bluetooth::0.00138164837433
+test was performed::0.00138069907249
+performance of indoor::0.00138069907249
+ion::0.00138069907249
+indoor location determination::0.00138069907249
+number of beacons::0.00138069907249
+travelled::0.00138069907249
+handset::0.00138069907249
+office ieee personal::0.00138069907249
+walk::0.00137328312026
+body::0.00135637007628
+fingerprints::0.0013185795835
+walls::0.00129645201611
+signal strength rss::0.00129492620282
+office environment::0.00129300627489
+measurement error::0.00129300627489
+slower::0.00126761957014
+walks::0.00126761957014
+vector of signal::0.00126761957014
+epoch::0.00126761957014
+active office ieee::0.00126761957014
+fast::0.00126056761328
+data collected::0.00122181673728
+smartphones::0.00122181673728
+standard deviation::0.00118219751859
+cellular::0.00118219751859
+based on wifi::0.00117522688933
+centre::0.00117522688933
+positioning systems based::0.00117522688933
+bat::0.00115741796715
+true location::0.00115741796715
+smoothing::0.00115741796715
+signal power::0.00115741796715
+position estimate::0.00115741796715
+destructive interference::0.00115463739311
+consecutive samples::0.00115463739311
+black circle::0.00115463739311
+processing data::0.00115463739311
+learning algorithms::0.00115463739311
+distribution figure::0.00115463739311
+complex signal::0.00115463739311
+output shown::0.00115463739311
+deployment density::0.00115463739311
+bluetooth classic::0.00115463739311
+listen::0.00115463739311
+error mmse::0.00115463739311
+time spent::0.00115463739311
+route guidance::0.00115463739311
+ranging error::0.00115463739311
+image shows::0.00115463739311
+positioning uncertainty::0.00115463739311
+traditional indoor::0.00115463739311
+selective fading::0.00115463739311
+small room::0.00115463739311
+fingerprinting results::0.00115463739311
+shorter distance::0.00115463739311
+advertising beacons::0.00115463739311
+version 4.0::0.00115463739311
+wifi fingerprints::0.00115463739311
+rss metric::0.00115463739311
+effects figure::0.00115463739311
+accuracy increases::0.00115463739311
+small fraction::0.00115463739311
+inverse square::0.00115463739311
+beacon measurements::0.00115463739311
+referencing system::0.00115463739311
+devices operate::0.00115463739311
+spatial domain::0.00115463739311
+beacon combined::0.00115463739311
+fingerprint distance::0.00115463739311
+advertisement channels::0.00115463739311
+deployment options::0.00115463739311
+operating region::0.00115463739311
+truth position::0.00115463739311
+continuous tracking::0.00115463739311
+signal sources::0.00115463739311
+rss fluctuations::0.00115463739311
+sig bluetooth::0.00115463739311
+internal walls::0.00115463739311
+posteriori map::0.00115463739311
+standard defines::0.00115463739311
+desired positioning::0.00115463739311
+fingerprint-based positioning::0.00115463739311
+constantly scanning::0.00115463739311
+filtering multiple::0.00115463739311
+estimation figure::0.00115463739311
+fingerprint databases::0.00115463739311
+rarely deployed::0.00115463739311
+fingerprint construction::0.00115463739311
+proximity applications::0.00115463739311
+spurious::0.00115463739311
+values typically::0.00115463739311
+entire indoor::0.00115463739311
+bars represent::0.00115463739311
+lives::0.00115463739311
+data exhibits::0.00115463739311
+september 2012::0.00115463739311
+single channel::0.00115463739311
+fingerprinting fingerprinting::0.00115463739311
+initial phase::0.00115463739311
+experiments consisted::0.00115463739311
+fingerprint maps::0.00115463739311
+proximity sensing::0.00115463739311
+left hand::0.00115463739311
+ranging performance::0.00115463739311
+financial support::0.00115463739311
+point deployment::0.00115463739311
+targeted advertising::0.00115463739311
+band range::0.00115463739311
+unit distance::0.00115463739311
+andy ward::0.00115463739311
+multiple beacon::0.00115463739311
+large rss::0.00115463739311
+computer laboratory::0.00115463739311
+apple iphone::0.00115463739311
+beacon coverage::0.00115463739311
+ensure maximum::0.00115463739311
+positioning result::0.00115463739311
+minute walks::0.00115463739311
+wider range::0.00115463739311
+downing college::0.00115463739311
+energy bluetooth::0.00115463739311
+fine-grained positioning::0.00115463739311
+good multipath::0.00115463739311
+significant positioning::0.00115463739311
+distribution calculated::0.00115463739311
+median::0.0011303083969
+access point::0.00113021107157
+i.e::0.00109862649621
+strength measurements::0.00109862649621
+location determination system::0.00109710999077
+cambridge university press::0.00109710999077
+york ny usa::0.00109710999077
+increasing the number::0.00109710999077
+figure::0.00105856217917
+density::0.00105225588378
+truth::0.00104454358562
+sensor fusion::0.00104454358562
+rarely::0.00102944205532
+ieee personal communications::0.00102944205532
+university of science::0.00102944205532
+coverage::0.00102905066507
+propagation characteristics::0.00101765593767
+mmse::0.00101765593767
+provide good::0.00101765593767
+wifi coverage::0.00101765593767
+desire::0.00101765593767
+simultaneous localisation::0.00101765593767
+running android::0.00101765593767
+apparent::0.00101765593767
+communication protocol::0.00101765593767
+noise level::0.00101765593767
+signals indoors::0.00101765593767
+effects caused::0.00101765593767
+andy hopper::0.00101765593767
+parameters set::0.00101765593767
+sight conditions::0.00101765593767
+tracking technologies::0.00101765593767
+location specific::0.00101765593767
+walking pace::0.00101765593767
+infrastructure deployment::0.00101765593767
+wlan-based indoor::0.00101765593767
+bat system::0.00101765593767
+current locations::0.00101765593767
+previously proposed::0.00101765593767
+fingerprint location::0.00101765593767
+sample data::0.00101765593767
+research associate::0.00101765593767
+indoor propagation::0.00101765593767
+strength decreases::0.00101765593767
+signal fading::0.00101765593767
+positioning purposes::0.00101765593767
+significant impact::0.00101765593767
+ion gnss::0.00101765593767
+accounted::0.00101765593767
+window sizes::0.00101765593767
+dissertation university::0.00101765593767
+error bars::0.00101765593767
+wifi fingerprint::0.00101765593767
+year award::0.00101765593767
+thumb::0.00101765593767
+positioning schemes::0.00101765593767
+bluetooth specification::0.00101765593767
+distance travelled::0.00101765593767
+receiver::0.00100483518133
+machine learning::0.000994470631458
+proximity::0.000980784062899
+energy::0.000959022273664
+simulated::0.000947853826399
+samples::0.000920723898309
+good results::0.000920466048329
+factors including::0.000920466048329
+area figure::0.000920466048329
+positioning scheme::0.000920466048329
+lower power::0.000920466048329
+fingerprint positioning::0.000920466048329
+operating systems::0.000920466048329
+give good::0.000920466048329
+similar results::0.000920466048329
+gsm mobile::0.000920466048329
+opportunistic::0.000920466048329
+range estimate::0.000920466048329
+indoor office::0.000920466048329
+lower density::0.000920466048329
+cellular network::0.000920466048329
+wifi measurements::0.000920466048329
+ph.d dissertation::0.000920466048329
+reported signal::0.000920466048329
+likelihood function::0.000920466048329
+smartphone indoor::0.000920466048329
+exceed::0.000920466048329
+coverage map::0.000920466048329
+fading effects::0.000920466048329
+bluetooth sig::0.000920466048329
+frequency spectrum::0.000920466048329
+position error::0.000920466048329
+information theory::0.000920466048329
+logged::0.000920466048329
+exhibits::0.000916362552962
+slow::0.000916362552962
+number of samples::0.000916362552962
+radar user location::0.000916362552962
+scanning::0.000904052066863
+measurements::0.000890676143892
+shows::0.000880831967781
+rate::0.000872453271469
+strength rss::0.000863284135214
+maps::0.000861344096972
+fingerprint-based::0.000845079713425
+fingerprinting system::0.000845079713425
+radio spectrum::0.000845079713425
+open area::0.000845079713425
+behaviour::0.000845079713425
+uniformly distributed::0.000845079713425
+current mobile::0.000845079713425
+hopping::0.000845079713425
+specification version::0.000845079713425
+static environment::0.000845079713425
+noticeable::0.000845079713425
+user’s position::0.000845079713425
+large indoor::0.000845079713425
+ghz band::0.000845079713425
+office ieee::0.000845079713425
+careful consideration::0.000845079713425
+deep::0.000845079713425
+transmit data::0.000845079713425
+robert::0.000845079713425
+mhz wide::0.000845079713425
+communications vol::0.000845079713425
+magnetometer::0.000845079713425
+senior research::0.000845079713425
+andy::0.000845079713425
+master’s thesis::0.000845079713425
+update rate::0.000845079713425
+dense deployment::0.000845079713425
+mobile station::0.000845079713425
+frequency hopping::0.000845079713425
+time window::0.000845079713425
+active office::0.000845079713425
+experimental tests::0.000845079713425
+expected::0.000844549362188
+spatial::0.000839144489456
+good::0.000830224733388
+fellow::0.000823969872155
+wi-fi::0.000823800378585
+scheme::0.000787854758298
+pace::0.000783484592887
+rss data::0.000783484592887
+signal path::0.000783484592887
+unrestricted::0.000783484592887
+simulator::0.000783484592887
+standard deviations::0.000783484592887
+positioning error::0.000783484592887
+walking speed::0.000783484592887
+precise time::0.000783484592887
+baseline::0.000783484592887
+high power::0.000783484592887
+advertisements::0.000783484592887
+range estimation::0.000783484592887
+ends::0.000783484592887
+meeting::0.000783484592887
+smartphone::0.000783407689212
+radio signal strength::0.000783407689212
+interference::0.000762832048921
+performance::0.000762790453201
+wall::0.000753474047716
+furniture::0.000745852973594
+image::0.000745852973594
+coming::0.000745852973594
+indoor::0.000738972785877
+ism band::0.000731406660513
+determination system::0.000731406660513
+transmit power::0.000731406660513
+college::0.000731406660513
+wifi signal::0.000731406660513
+provide positioning::0.000731406660513
+specific location::0.000731406660513
+user moves::0.000731406660513
+wi-fi network::0.000731406660513
+android::0.000731406660513
+short range::0.000731406660513
+university press::0.000731406660513
+ground::0.000720507720574
+improvement::0.000720251120061
+recorded::0.000720251120061
+source::0.000719266705248
+allowed::0.0007108903698
+95%::0.0007108903698
+manually::0.0007108903698
+access::0.00070879813881
+licence-free::0.000694404368948
+bulkier::0.000694404368948
+summing::0.000694404368948
+sickle::0.000694404368948
+vouchers::0.000694404368948
+10hz::0.000694404368948
+45m::0.000694404368948
+highly-accurate::0.000694404368948
+~10::0.000694404368948
+2408-2416::0.000694404368948
+uk;::0.000694404368948
+sporadic::0.000694404368948
+42-47::0.000694404368948
+1006-1019::0.000694404368948
+advert::0.000694404368948
+detrimental::0.000694404368948
+argument::0.000694404368948
+“nearme”::0.000694404368948
+gnss+::0.000694404368948
+anisotropy::0.000694404368948
+norwegian::0.000694404368948
+postprocessed::0.000694404368948
+dimitri::0.000694404368948
+pausing::0.000694404368948
+steers::0.000694404368948
+sponsors::0.000694404368948
+penetrates::0.000694404368948
+−𝑊×𝐴𝑤𝑎𝑙𝑙::0.000694404368948
+windowing::0.000694404368948
+lasts::0.000694404368948
+bullock::0.000694404368948
+first-bounce::0.000694404368948
+adverts::0.000694404368948
+pseudorandomly::0.000694404368948
+reflector::0.000694404368948
+unsolicited::0.000694404368948
+±1::0.000694404368948
+gps”::0.000694404368948
+turetzky::0.000694404368948
+r.k.::0.000694404368948
+individuallyinterfering::0.000694404368948
+tuner::0.000694404368948
+50hz::0.000694404368948
+𝑒::0.000694404368948
+1hz::0.000694404368948
+murray::0.000694404368948
+fittings::0.000694404368948
+80mhz::0.000694404368948
+machine-tomachine::0.000694404368948
+millimetre::0.000694404368948
+𝐷::0.000694404368948
+confidently::0.000694404368948
+boosted::0.000694404368948
+sensing,::0.000694404368948
+r.m.::0.000694404368948
+afforded::0.000694404368948
+hertz::0.000694404368948
+thresholded::0.000694404368948
+𝐹::0.000694404368948
+batched::0.000694404368948
+coloured::0.000694404368948
+dampen::0.000694404368948
+sinusoid::0.000694404368948
+chunks::0.000694404368948
+erhorst::0.000694404368948
+base-10::0.000694404368948
+mackay::0.000694404368948
+csr::0.000694404368948
+experimentally-derived::0.000694404368948
+single-reflection::0.000694404368948
+jarvis::0.000694404368948
+wellsurveyed::0.000694404368948
+4.4.2::0.000694404368948
+latapy::0.000694404368948
+leimer::0.000694404368948
++𝑃𝑇𝑥::0.000694404368948
+appreciable::0.000694404368948
+𝑖=1(𝑅𝑖::0.000694404368948
+2.48ghz::0.000694404368948
+power-hungry::0.000694404368948
+5—18::0.000694404368948
+sightings::0.000694404368948
+asses::0.000694404368948
+troughs::0.000694404368948
+reckoning,::0.000694404368948
+4.4.4::0.000694404368948
+canteen::0.000694404368948
+cell-ids::0.000694404368948
+priors::0.000694404368948
+reflectors::0.000694404368948
+cupboards::0.000694404368948
+3hz::0.000694404368948
+maryland::0.000694404368948
+reinoud::0.000694404368948
+algorithm—::0.000694404368948
+chowdhary::0.000694404368948
+apparatus::0.000694404368948
+high-accuracy::0.000694404368948
+pulling::0.000694404368948
+blake::0.000694404368948
+donald::0.000694404368948
+bye::0.000694404368948
+overspecified::0.000694404368948
+re-surveying::0.000694404368948
+19-beacon::0.000694404368948
+rollout::0.000694404368948
+nominally::0.000694404368948
+epoch’s::0.000694404368948
+non-connectable::0.000694404368948
+monochromatic::0.000694404368948
+−2𝜎2::0.000694404368948
+queens’::0.000694404368948
+20hz::0.000694404368948
+source;::0.000694404368948
+android-based::0.000694404368948
+micro-location::0.000694404368948
+conveyer::0.000694404368948
+institute’s::0.000694404368948
+intentionally::0.000694404368948
+near-optimal::0.000694404368948
+gaussian::0.000688375843048
+moves::0.000688375843048
+square error::0.000686294703545
+input data::0.000686294703545
+wifi fingerprinting::0.000686294703545
+associate editor::0.000686294703545
+reflected signal::0.000686294703545
+cambridge university::0.000686294703545
+location technique::0.000686294703545
+positioning solution::0.000686294703545
+slowly::0.000686294703545
+received signal strength::0.00068003546662
+map::0.00068003546662
+clear::0.000678185038142
+provided::0.00067111790113
+measurement::0.000668031734331
+ranging::0.000659040302868
+transmitter::0.000659040302868
+taking::0.000659040302868
+square::0.000657659927363
+short::0.000657659927363
+mode::0.000657659927363
+ceiling::0.000647463101411
+walking::0.000647463101411
+wireless sensor networks::0.000647463101411
+localisation::0.000646503137445
+indoor space::0.000646503137445
+powers::0.000646503137445
+degrade::0.000646503137445
+fall::0.000646503137445
+ieee personal::0.000646503137445
+asset tracking::0.000646503137445
+mac addresses::0.000646503137445
+demonstrates::0.000646503137445
+dbm::0.000630283806639
+office::0.000622668550041
+output::0.000622668550041
+occur::0.000618497688992
+indoor positioning systems::0.000618497688992
+signals::0.000616644677844
+messages::0.000610908368642
+radar user::0.000610908368642
+acquisition::0.000610908368642
+filtered::0.000610908368642
+importantly::0.000610908368642
+gaussian process::0.000610908368642
+signal strength::0.000604892673814
+deployment::0.000604475970329
+scan::0.00059938892104
+experiment::0.00059241216847
+effect::0.000591164131876
+specification::0.000591098759294
+institute::0.000591098759294
+rapidly::0.000591098759294
+size::0.000590665115675
+fix::0.000578708983573
+ism::0.000578708983573
+personal communications::0.000578708983573
+switch::0.000578708983573
+width::0.000578708983573
+gnss::0.000578708983573
+pedestrian::0.000578708983573
+reduction::0.000578708983573
+walked::0.000578708983573
+2013::0.000578708983573
+transmission power::0.000578708983573
+indefinitely::0.000577318696556
+succession::0.000577318696556
+asymmetry::0.000577318696556
+25th::0.000577318696556
+devices;::0.000577318696556
+5-10::0.000577318696556
+accounting::0.000577318696556
+3dbm::0.000577318696556
+maximise::0.000577318696556
+downing::0.000577318696556
+rubin::0.000577318696556
+𝐿::0.000577318696556
+agnostic::0.000577318696556
+halfway::0.000577318696556
+retailers::0.000577318696556
+alan::0.000577318696556
+𝑁::0.000577318696556
+batches::0.000577318696556
+∑𝑁::0.000577318696556
+interacts::0.000577318696556
+user's::0.000577318696556
+6–8::0.000577318696556
+referencing::0.000577318696556
+lengthy::0.000577318696556
+segmented::0.000577318696556
+𝜎::0.000577318696556
+repeatable::0.000577318696556
+android;::0.000577318696556
+scientist::0.000577318696556
+greg::0.000577318696556
+labelled::0.000577318696556
+attenuator::0.000577318696556
+unspecified::0.000577318696556
+lecturer::0.000577318696556
+multimodality::0.000577318696556
+correlations::0.000577318696556
+coherence::0.000577318696556
+multi-modal::0.000577318696556
+colour::0.000577318696556
+complicating::0.000577318696556
+mahesh::0.000577318696556
+battery::0.000576200896049
+received signal::0.000570262716296
+uncertainty::0.000565105535787
+benefit::0.000565105535787
+frequencies::0.000550700674439
+indoor environment::0.000550700674439
+power level::0.000549313248103
+battery life::0.000549313248103
+kernel::0.000549313248103
+drops::0.000549313248103
+suggests::0.000549313248103
+2012::0.000549313248103
+typically::0.000544880034944
+schemes::0.000540380790431
+path::0.000534481343632
+scale::0.000534481343632
+low::0.000526308630481
+reported::0.000526127941891
+calculated::0.000526127941891
+loss::0.000526127941891
+back::0.000526127941891
+partition::0.000522271792808
+training data::0.000522271792808
+dense::0.000522271792808
+division::0.000522271792808
+circle::0.000522271792808
+exhibit::0.000522271792808
+report::0.000518890458367
+noise::0.000518890458367
+caused::0.000516806458183
+impact::0.000516806458183
+characterised::0.000508827968835
+carriers::0.000508827968835
+modest::0.000508827968835
+assessed::0.000508827968835
+trusted::0.000508827968835
+centred::0.000508827968835
+royal::0.000508827968835
+6-8::0.000508827968835
+frequency-dependent::0.000508827968835
+nexus::0.000508827968835
+shelving::0.000508827968835
+populated::0.000508827968835
+attenuates::0.000508827968835
+2mhz::0.000508827968835
+week::0.000508827968835
+fixes::0.000508827968835
+grateful::0.000508827968835
+skewed::0.000508827968835
+won::0.000508827968835
+energy-efficient::0.000508827968835
+amplified::0.000508827968835
+portability::0.000508827968835
+connectable::0.000508827968835
+smoothly::0.000508827968835
+bssid::0.000508827968835
+longer::0.000502417590667
+radio signals::0.000497235315729
+systems based::0.000497235315729
+senior::0.000497235315729
+formed::0.000497235315729
+drawn::0.000497235315729
+ideally::0.000497235315729
+returned::0.000497235315729
+windows::0.000497235315729
+consecutive::0.000497235315729
+simultaneous::0.000497235315729
+simulation::0.000497235315729
+consideration::0.000497235315729
+regression::0.000497235315729
+learning::0.000494280227151
+dependent::0.000494280227151
+tests::0.000494280227151
+demonstrated::0.000494280227151
+power::0.000485361929165
+positioning system::0.000479683484237
+user::0.00047674403325
+rapid::0.0004739269132
+established::0.0004739269132
+research interests::0.0004739269132
+removed::0.0004739269132
+subsequent::0.0004739269132
+constructed::0.0004739269132
+large scale::0.0004739269132
+euclidean distance::0.0004739269132
+uniform::0.0004739269132
+circles::0.0004739269132
+bayesian::0.000472712854979
+desired::0.000472712854979
+cells::0.000472712854979
+typical::0.000469782530791
+determined::0.000469782530791
+effects::0.000469194090105
+close::0.000469194090105
+sinusoidal::0.000460233024164
+interfering::0.000460233024164
+infrastructure-free::0.000460233024164
+non-line-of-sight::0.000460233024164
+epochs::0.000460233024164
+triggers::0.000460233024164
+seldom::0.000460233024164
+ray-tracing::0.000460233024164
+wlan-based::0.000460233024164
+ibeacon::0.000460233024164
+roundtrip::0.000460233024164
+bars::0.000460233024164
+matters::0.000460233024164
+stem::0.000460233024164
+mitigated::0.000460233024164
+4.0::0.000460233024164
+assess::0.000460233024164
+promise::0.000460233024164
+26th::0.000460233024164
+test::0.000453356977747
+distribution::0.000453356977747
+office building::0.000452123358761
+exploiting::0.000452123358761
+series::0.000452026033432
+motion::0.000432150672036
+generate::0.000432150672036
+location and tracking::0.000432150672036
+variance::0.000431642067607
+velocity::0.000431642067607
+arbitrary::0.000431642067607
+contained::0.000431642067607
+power levels::0.000431642067607
+early::0.000431642067607
+minimal::0.000431642067607
+transmitters::0.000431642067607
+suite::0.000422539856713
+geometries::0.000422539856713
+argue::0.000422539856713
+miscellaneous::0.000422539856713
+quick::0.000422539856713
+gathering::0.000422539856713
+occupied::0.000422539856713
+steady::0.000422539856713
+notably::0.000422539856713
+financial::0.000422539856713
+cluttered::0.000422539856713
+broadcasting::0.000422539856713
+disabled::0.000422539856713
+repeating::0.000422539856713
+dominates::0.000422539856713
+dominated::0.000422539856713
+doppler::0.000422539856713
+calculations::0.000422539856713
+visiting::0.000422539856713
+scales::0.000422539856713
+official::0.000422539856713
+milliseconds::0.000422539856713
+sig::0.000422539856713
+posteriori::0.000422539856713
+ambiguity::0.000422539856713
+career::0.000422539856713
+acknowledge::0.000422539856713
+estimators::0.000422539856713
+trigger::0.000422539856713
+usefulness::0.000422539856713
+co-located::0.000422539856713
+reflecting::0.000422539856713
+consisted::0.000422539856713
+highly::0.000415112366694
+vary::0.000413025505829
+increases::0.000413025505829
+tested::0.000413025505829
+shorter::0.000412331792661
+power consumption::0.000412331792661
+rule::0.000412331792661
+error::0.000404852792678
+carried out::0.000394065839529
+laboratory::0.000394065839529
+fusion::0.000394065839529
+receiving::0.000394065839529
+wireless sensor::0.000394065839529
+units::0.000394065839529
+sources::0.000394065839529
+logarithmic::0.000391742296443
+turning::0.000391742296443
+viii::0.000391742296443
+metropolitan::0.000391742296443
+advertise::0.000391742296443
+classic::0.000391742296443
+flexibility::0.000391742296443
+permitted::0.000391742296443
+inevitably::0.000391742296443
+routes::0.000391742296443
+engineer::0.000391742296443
+awards::0.000391742296443
+driven::0.000391742296443
+predetermined::0.000391742296443
+dissertation::0.000391742296443
+√::0.000391742296443
+dealing::0.000391742296443
+adopts::0.000391742296443
+unavailable::0.000391742296443
+phenomena::0.000391742296443
+separation::0.000391742296443
+zones::0.000391742296443
+datasets::0.000391742296443
+broadcasts::0.000391742296443
+highlighted::0.000391742296443
+experimental::0.00037824754651
+deviation::0.000376813193
+equation::0.000376813193
+–::0.000376813193
+previous section::0.000376737023858
+indoors::0.000376737023858
+construct::0.000376737023858
+tracking system::0.000376737023858
+located::0.000375355272084
+permit::0.000365703330256
+peaks::0.000365703330256
+sparse::0.000365703330256
+jones::0.000365703330256
+partitions::0.000365703330256
+hope::0.000365703330256
+attribute::0.000365703330256
+concentrated::0.000365703330256
+profiles::0.000365703330256
+verified::0.000365703330256
+recipient::0.000365703330256
+detectable::0.000365703330256
+infrastructure-based::0.000365703330256
+depth::0.000365703330256
+susceptible::0.000365703330256
+continues::0.000365703330256
+apple::0.000365703330256
+amplitude::0.000365703330256
+12m::0.000365703330256
+principal::0.000365703330256
+evident::0.000365703330256
+interfere::0.000365703330256
+freely::0.000365703330256
+outliers::0.000365703330256
+balachandran::0.000365703330256
+distant::0.000365703330256
+flexible::0.000360253860287
+satellite::0.000360253860287
+varying::0.000360253860287
+extra::0.000360253860287
+exploit::0.000360253860287
+communicate::0.000360253860287
+reflected::0.000360253860287
+event::0.000360253860287
+sight::0.000360253860287
+location determination::0.000360253860287
+location based::0.000360253860287
+continuous::0.000359633352624
+comparison::0.000356414197685
+associate::0.000344537638789
+ensure::0.000344537638789
+developing::0.000344537638789
+post-processing::0.000343147351773
+bar::0.000343147351773
+wider::0.000343147351773
+evidence::0.000343147351773
+plotted::0.000343147351773
+year::0.000343147351773
+moderate::0.000343147351773
+selective::0.000343147351773
+radios::0.000343147351773
+physics::0.000343147351773
+enhancements::0.000343147351773
+propagated::0.000343147351773
+cycles::0.000343147351773
+latest::0.000343147351773
+smooth::0.000343147351773
+differences::0.000343016888355
+assume::0.000343016888355
+prior::0.000343016888355
+experiments::0.000335558950565
+active::0.000333720823275
+processing::0.000333720823275
+simple::0.000333720823275
+operate::0.000329520151434
+reduces::0.000329520151434
+purposes::0.000329520151434
+produced::0.000329520151434
+2000::0.000329520151434
+speed::0.000326928020966
+entire::0.000326928020966
+transmission::0.000326928020966
+accuracy::0.000323574619443
+blue::0.000323251568722
+implementations::0.000323251568722
+rise::0.000323251568722
+perimeter::0.000323251568722
+spent::0.000323251568722
+guidance::0.000323251568722
+options::0.000323251568722
+separated::0.000323251568722
+triangles::0.000323251568722
+introducing::0.000323251568722
+displayed::0.000323251568722
+shortcomings::0.000323251568722
+mems::0.000323251568722
+black::0.000323251568722
+sites::0.000323251568722
+compromise::0.000323251568722
+explains::0.000323251568722
+targeted::0.000323251568722
+extreme::0.000323251568722
+overlap::0.000323251568722
+collected::0.000319788989491
+transmit::0.000315141903319
+protocol::0.000315141903319
+mounted::0.000315141903319
+greater::0.000315141903319
+processes::0.000315141903319
+carried::0.000315141903319
+weighted::0.000315141903319
+variation::0.000315141903319
+larger::0.00031133427502
+signal::0.000306674109893
+reliably::0.000305454184321
+aid::0.000305454184321
+post::0.000305454184321
+bound::0.000305454184321
+minute::0.000305454184321
+satisfy::0.000305454184321
+motions::0.000305454184321
+individually::0.000305454184321
+investigation::0.000305454184321
+transition::0.000305454184321
+editor::0.000305454184321
+turned::0.000305454184321
+master’s::0.000305454184321
+discovered::0.000305454184321
+conferences::0.000305454184321
+copies::0.000305454184321
+perspective::0.000305454184321
+vii::0.000305454184321
+internal::0.000305454184321
+transceivers::0.000305454184321
+constraint::0.000305454184321
+led::0.000305454184321
+route::0.000305454184321
+gather::0.000305454184321
+databases::0.000305454184321
+chance::0.000305454184321
+set::0.000302446336907
+navigation::0.000302237985165
+dynamic::0.000301350688954
+machine::0.000301350688954
+running::0.000301350688954
+traditional::0.000301350688954
+radio signal::0.000301350688954
+identifier::0.000301350688954
+capabilities::0.000301350688954
+end::0.000296206084235
+static::0.000296206084235
+experimentation::0.000289354491786
+horus::0.000289354491786
+worked::0.000289354491786
+narrow::0.000289354491786
+appears::0.000289354491786
+monitor::0.000289354491786
+surfaces::0.000289354491786
+careful::0.000289354491786
+estimator::0.000289354491786
+presentation::0.000289354491786
+acknowledgments::0.000289354491786
+readily::0.000289354491786
+surface::0.000289354491786
+producing::0.000289354491786
+positioned::0.000289354491786
+randomly::0.000289354491786
+state-of-the-art::0.000289354491786
+predicted::0.000289354491786
+insight::0.000289354491786
+cross::0.000289354491786
+identity::0.000289354491786
+attractive::0.000289354491786
+magnitude::0.000289354491786
+constantly::0.000289354491786
+samsung::0.000289354491786
+left::0.000288100448024
+moved::0.000288100448024
+september::0.000288100448024
+addresses::0.000288100448024
+cell::0.000288100448024
+survey::0.000288100448024
+building::0.00028604641995
+approximately::0.000281516454063
+region::0.000281516454063
+analysis::0.000275915735013
+attenuation::0.000275350337219
+optimal::0.000275350337219
+operating::0.000275350337219
+award::0.000274656624052
+1997::0.000274656624052
+green::0.000274656624052
+thesis::0.000274656624052
+“indoor::0.000274656624052
+contribution::0.000274656624052
+ubiquity::0.000274656624052
+fraction::0.000274656624052
+representative::0.000274656624052
+half::0.000274656624052
+realistic::0.000274656624052
+message::0.000274656624052
+examined::0.000274656624052
+media::0.000274656624052
+deviations::0.000274656624052
+relying::0.000274656624052
+defines::0.000274656624052
+dramatically::0.000274656624052
+low-power::0.000274656624052
+points::0.000268717376683
+level::0.000268447160452
+lower::0.000268447160452
+objects::0.000268447160452
+radio::0.000267663450831
+device::0.000264249590334
+choice::0.000263063970945
+working::0.000263063970945
+selected::0.000263063970945
+regular::0.000261135896404
+opportunity::0.000261135896404
+dead::0.000261135896404
+coupled::0.000261135896404
+stable::0.000261135896404
+remove::0.000261135896404
+correlated::0.000261135896404
+confidence::0.000261135896404
+red::0.000261135896404
+matched::0.000261135896404
+sizes::0.000261135896404
+repeat::0.000261135896404
+solving::0.000261135896404
+real-world::0.000261135896404
+high::0.000259016040952
+total::0.000253356056518
+true::0.000253356056518
+technical::0.000253356056518
+including::0.000253356056518
+maximum::0.000252165031007
+human::0.000251208795333
+track::0.000251208795333
+positioning systems::0.000251208795333
+floor::0.000251208795333
+ward::0.000248617657865
+confirmed::0.000248617657865
+core::0.000248617657865
+comparable::0.000248617657865
+distributions::0.000248617657865
+october::0.000248617657865
+recording::0.000248617657865
+fashion::0.000248617657865
+gsm::0.000248617657865
+strongest::0.000248617657865
+weak::0.000248617657865
+underlying::0.000248617657865
+ranges::0.000239755568416
+account::0.000239755568416
+user location::0.000239755568416
+assuming::0.000239755568416
+frequency::0.000238372016625
+obstructions::0.0002369634566
+asset::0.0002369634566
+suggest::0.0002369634566
+uniformly::0.0002369634566
+vectors::0.0002369634566
+location-based::0.0002369634566
+wavelength::0.0002369634566
+severe::0.0002369634566
+reflections::0.0002369634566
+inference::0.0002369634566
+youssef::0.0002369634566
+chose::0.0002369634566
+result::0.000235127704597
+sensor networks::0.00022867792557
+indoor environments::0.00022867792557
+update::0.00022867792557
+version::0.00022867792557
+movement::0.00022867792557
+radio frequency::0.00022867792557
+phase::0.00022867792557
+smaller::0.00022867792557
+depends::0.000226678488873
+specific::0.000226678488873
+minimum::0.000226678488873
+fine-grained::0.000226061679381
+potentially::0.000226061679381
+aim::0.000226061679381
+ph.d::0.000226061679381
+understanding::0.000226061679381
+ideal::0.000226061679381
+broadcast::0.000226061679381
+representing::0.000226061679381
+extracted::0.000226061679381
+illustrates::0.000226061679381
+varies::0.000226061679381
+spread::0.000226061679381
+significant::0.00022073258801
+previous::0.000220207991945
+single::0.000220207991945
+levels::0.000217952013978
+simplest::0.000215821033804
+euclidean::0.000215821033804
+inverse::0.000215821033804
+offers::0.000215821033804
+metric::0.000215821033804
+investigated::0.000215821033804
+reflect::0.000215821033804
+straight::0.000215821033804
+shape::0.000215821033804
+deploy::0.000215821033804
+valid::0.000215821033804
+poor::0.000215821033804
+waves::0.000215821033804
+standard::0.000211712435835
+small::0.000211712435835
+give::0.000207556183347
+represents::0.000207556183347
+full::0.000207556183347
+achieved::0.000207556183347
+extend::0.000206165896331
+items::0.000206165896331
+standards::0.000206165896331
+hours::0.000206165896331
+explored::0.000206165896331
+placing::0.000206165896331
+great::0.000206165896331
+york::0.000206165896331
+ultrasonic::0.000206165896331
+affects::0.000206165896331
+limits::0.000206165896331
+suited::0.000206165896331
+places::0.000206165896331
+easy::0.000197470722823
+open::0.000197470722823
+makes::0.000197470722823
+difference::0.000197470722823
+issue::0.000197470722823
+indoor location::0.000197470722823
+previously::0.000197470722823
+data::0.000197090322528
+overhead::0.000197032919765
+assigned::0.000197032919765
+lies::0.000197032919765
+states::0.000197032919765
+mac::0.000197032919765
+external::0.000197032919765
+occurs::0.000197032919765
+paths::0.000197032919765
+investigate::0.000197032919765
+maintenance::0.000197032919765
+unlike::0.000197032919765
+specifically::0.000197032919765
+positions::0.0001906976133
+provide::0.000189975608948
+observed::0.000189123773255
+errors::0.000189123773255
+values::0.000188751861342
+starts::0.000188368511929
+leads::0.000188368511929
+exact::0.000188368511929
+domain::0.000188368511929
+relies::0.000188368511929
+filtering::0.000188368511929
+refers::0.000188368511929
+experience::0.000188368511929
+expect::0.000188368511929
+add::0.000188368511929
+repeated::0.000188368511929
+line::0.000187677636042
+detection::0.000187677636042
+deployed::0.000187677636042
+attempt::0.000180126930144
+reasonable::0.000180126930144
+testing::0.000180126930144
+life::0.000180126930144
+original::0.000180126930144
+share::0.000180126930144
+exists::0.000180126930144
+vector::0.000178160447877
+interest::0.000178160447877
+achieve::0.000178160447877
+resulting::0.000178160447877
+solution::0.000177199534703
+note::0.000177199534703
+probability::0.000177199534703
+similar::0.000176166393556
+strength::0.000174899795508
+position::0.000174899795508
+reality::0.000172268819394
+nearest::0.000172268819394
+theory::0.000172268819394
+ways::0.000172268819394
+observe::0.000172268819394
+faster::0.000172268819394
+pairs::0.000172268819394
+user’s::0.000172268819394
+consumption::0.000172268819394
+completely::0.000172268819394
+likelihood::0.000172268819394
+press::0.000172268819394
+factors::0.000168904037679
+moving::0.000168904037679
+locate::0.000168904037679
+times::0.000165549441008
+project::0.000164760075717
+low-cost::0.000164760075717
+events::0.000164760075717
+assumed::0.000164760075717
+studies::0.000164760075717
+dimensions::0.000164760075717
+challenge::0.000164760075717
+interests::0.000164760075717
+decreases::0.000164760075717
+tend::0.000164760075717
+construction::0.000164760075717
+estimate::0.000161787309722
+affect::0.000159894494746
+advantage::0.000159894494746
+characteristics::0.000159894494746
+range::0.000158909443888
+interval::0.00015757095166
+divided::0.00015757095166
+offline::0.00015757095166
+station::0.00015757095166
+hopper::0.00015757095166
+combining::0.00015757095166
+reflection::0.00015757095166
+avoid::0.00015757095166
+infrastructure::0.000154161169461
+future::0.000151118992582
+reduced::0.000151118992582
+issues::0.000151118992582
+detect::0.000151118992582
+users::0.000151118992582
+affected::0.000150675344477
+enables::0.000150675344477
+effectively::0.000150675344477
+improves::0.000150675344477
+separate::0.000150675344477
+location::0.000148934755474
+current::0.000148009166259
+shown::0.000144463130808
+unit::0.000144050224012
+advanced::0.000144050224012
+bahl::0.000144050224012
+produce::0.000144050224012
+period::0.000144050224012
+padmanabhan::0.000144050224012
+potential::0.000144050224012
+record::0.000144050224012
+limited::0.000143023209975
+estimated::0.000142565679074
+significantly::0.000142565679074
+proceedings::0.000142565679074
+compared::0.000142565679074
+university::0.000139919836407
+calculate::0.00013767516861
+sensitivity::0.00013767516861
+years::0.00013767516861
+training::0.00013767516861
+precise::0.00013767516861
+referred::0.00013767516861
+conducted::0.00013767516861
+locating::0.00013767516861
+providing::0.00013767516861
+technologies::0.000134223580226
+parameters::0.000134223580226
+filter::0.000131531985473
+random::0.000131531985473
+mapping::0.000131531985473
+assumption::0.000131531985473
+precision::0.000131531985473
+choose::0.000131531985473
+environmental::0.000131531985473
+volume::0.000131531985473
+tracking::0.000130016817727
+received::0.000130016817727
+found::0.000126082515503
+commonly::0.000125604397667
+idea::0.000125604397667
+conclusions::0.000125604397667
+primarily::0.000125604397667
+determination::0.000125604397667
+process::0.000120978534763
+properties::0.000119877784208
+generally::0.000119877784208
+threshold::0.000119877784208
+requirements::0.000119877784208
+enable::0.000119877784208
+coordinate::0.000119877784208
+radar::0.000119877784208
+commercial::0.000119877784208
+journal::0.000119877784208
+needed::0.000118133023135
+distributed::0.000118133023135
+large::0.000115570504646
+time::0.000114565196518
+identify::0.000114338962785
+authors::0.000114338962785
+sensor::0.000111006874694
+required::0.000111006874694
+long::0.000110366294005
+existing::0.000110366294005
+passive::0.000108976006989
+combined::0.000108976006989
+depending::0.000108976006989
+constraints::0.000108976006989
+ability::0.000108976006989
+conclusion::0.000108976006989
+space::0.000107858206481
+sample::0.000103778091673
+readings::0.000103778091673
+propose::0.000103778091673
+measures::0.000103778091673
+practice::0.000103778091673
+point::0.000102947481089
+out::0.000102947481089
+reference::0.000102774112974
+international::0.000102774112974
+average::0.000102774112974
+higher::0.000102774112974
+area::0.000101124191565
+paper::0.000100769016256
+abstract::9.87353614117e-05
+detected::9.87353614117e-05
+generated::9.87353614117e-05
+grid::9.87353614117e-05
+pattern::9.87353614117e-05
+require::9.53488066501e-05
+proposed::9.53488066501e-05
+technique::9.53488066501e-05
+multiple::9.53488066501e-05
+developed::9.53488066501e-05
+due::9.49878044738e-05
+personal::9.38388180209e-05
+solutions::9.38388180209e-05
+initial::9.38388180209e-05
+wide::9.38388180209e-05
+accurate::9.07339010721e-05
+perform::8.90802239387e-05
+represent::8.90802239387e-05
+vol::8.90802239387e-05
+input::8.90802239387e-05
+fact::8.80831967781e-05
+made::8.80831967781e-05
+room::8.44520188394e-05
+people::8.44520188394e-05
+reduce::8.44520188394e-05
+order::8.2357984871e-05
+locations::8.2357984871e-05
+devices::8.08936548608e-05
+number::8.01956375627e-05
+distance::7.66685274733e-05
+recent::7.55594962912e-05
+study::7.55594962912e-05
+performed::7.55594962912e-05
+efficient::7.55594962912e-05
+compare::7.55594962912e-05
+conditions::7.55594962912e-05
+usa::7.55594962912e-05
+applied::7.55594962912e-05
+determine::7.40045831293e-05
+network::7.40045831293e-05
+introduction::7.40045831293e-05
+function::7.40045831293e-05
+complex::7.12828395371e-05
+online::7.12828395371e-05
+considered::7.12828395371e-05
+environment::6.75738248667e-05
+communications::6.7111790113e-05
+iii::6.7111790113e-05
+hand::6.30412577517e-05
+means::6.30412577517e-05
+increase::6.30412577517e-05
+work::6.17684886532e-05
+consists::5.90665115675e-05
+include::5.90665115675e-05
+applications::5.77852523231e-05
+results::5.72825982591e-05
+increasing::5.51831470025e-05
+distances::5.51831470025e-05
+form::5.51831470025e-05
+algorithms::5.51831470025e-05
+sensing::5.51831470025e-05
+hardware::5.51831470025e-05
+environments::5.39291032405e-05
+estimation::5.1387056487e-05
+propagation::5.1387056487e-05
+key::5.1387056487e-05
+references::4.7674403325e-05
+model::4.7674403325e-05
+additional::4.7674403325e-05
+show::4.40415983891e-05
+improve::4.40415983891e-05
+general::4.40415983891e-05
+part::4.40415983891e-05
+based::4.25936263741e-05
+designed::4.04852792678e-05
+communication::4.04852792678e-05
+measured::4.04852792678e-05
+networks::4.04852792678e-05
+support::3.70022915646e-05
+present::3.70022915646e-05
+requires::3.70022915646e-05
+problem::3.49799591016e-05
+section::3.49799591016e-05
+computer::3.35896720853e-05
+approach::3.02446336907e-05
+wireless::2.69645516203e-05
+case::2.55561758244e-05
+mobile::2.29130393036e-05
+techniques::1.74899795508e-05
+ieee::1.74899795508e-05
+research::1.70374505496e-05
+first::1.44463130808e-05
+technology::1.14565196518e-05
+information::0.0
+systems::0.0
+system::0.0

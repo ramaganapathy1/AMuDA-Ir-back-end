@@ -1,0 +1,4150 @@
+ferret::0.0403894764105
+offline algorithm::0.0165885349543
+online algorithm::0.0122610910532
+nomadic objects::0.00937612845243
+coverage region::0.00913303317197
+locationing::0.00793364715205
+reader’s coverage region::0.00757302682696
+coverage map::0.00717595463512
+ferret can detect::0.00649116585168
+nomadic::0.00649116585168
+positive reading::0.00649116585168
+negative readings::0.00649116585168
+ferret can refine::0.00613742371055
+location map::0.00576992520149
+offline::0.0056954174219
+reader’s coverage::0.00504868455131
+positive readings::0.00504868455131
+object’s location::0.00504013938829
+coordinate system::0.00492176298252
+refine object locations::0.00490993896844
+error rate::0.00476264251957
+object locations::0.00458194489845
+rfid tags::0.00445096393025
+rfid tagged objects::0.00432744390112
+stream of noisy::0.00432744390112
+prototype system moves::0.00432744390112
+ferret’s::0.00432744390112
+camera::0.00425670581281
+offline ferret::0.00409161580703
+objects that move::0.0039141570737
+minutes with small::0.00368245422633
+nature of multimedia::0.00368245422633
+algorithm for real-time::0.00368245422633
+pervasive multimedia applications::0.00368245422633
+distances exceed 20cm;::0.00368245422633
+online and offline::0.00368245422633
+rfid reader::0.00367532428367
+mobility patterns::0.00360620325093
+locationing algorithm::0.00360620325093
+rfid::0.00347216942598
+volume::0.00344915193319
+video::0.00335884990559
+display::0.00330916349151
+refine object::0.00327329264563
+approximately 2m3::0.00327329264563
+error rate 2.22%);::0.00324558292584
+small error rate::0.00324558292584
+detect nomadic objects::0.00324558292584
+mobility to produce::0.00324558292584
+objects with 100%::0.00324558292584
+rfid reader produces::0.00324558292584
+number of errors::0.00324558292584
+points that describe::0.00324558292584
+user mobility patterns::0.00324558292584
+chance of detecting::0.00324558292584
+camera and rfid::0.00324558292584
+camera coordinate system::0.00324558292584
+world coordinate system::0.00324558292584
+prototype system::0.00320736142891
+region::0.00319229480771
+object::0.00316789448709
+number of objects::0.00311020765969
+reader::0.00305252646091
+detecting a tag::0.00293561780528
+variety of user::0.00293561780528
+probability of detecting::0.00293561780528
+locationing system::0.00288496260075
+rfid tagged::0.00288496260075
+video display::0.00288496260075
+o(n3::0.00288496260075
+system moves::0.00288496260075
+pervasive multimedia::0.00288496260075
+projection area::0.00288496260075
+likelihood threshold::0.00288496260075
+larger threshold::0.00288496260075
+objects::0.00285383788437
+object’s::0.00272519346359
+readings::0.00272136396506
+positive::0.0026532099623
+head-on::0.00252434227565
+tagged objects::0.00246088149126
+leverages the user’s::0.00245496948422
+ferret leverages::0.00245496948422
+algorithms for refining::0.00245496948422
+20cm; and iii::0.00245496948422
+pervasive nature::0.00245496948422
+tag is present::0.00245496948422
+reset the algorithms::0.00245496948422
+knowledge of object::0.00245496948422
+restart the refinement::0.00245496948422
+negative reading::0.00245496948422
+applications with automatic::0.00245496948422
+range the reader::0.00245496948422
+present two alternative::0.00245496948422
+2m3::0.00245496948422
+offline and online::0.00245496948422
+multimedia recording::0.00245496948422
+display the location::0.00245496948422
+reader an online::0.00245496948422
+first positive reading::0.00245496948422
+0.15m3 and 0.05m3::0.00245496948422
+ferret rfid localization::0.00245496948422
+offline technique::0.00245496948422
+offline technique ferret::0.00245496948422
+grid point contained::0.00245496948422
+noisy readings::0.00245496948422
+multimedia recording devices::0.00245496948422
+time in figure::0.00245496948422
+refining a postulation::0.00245496948422
+nomadic and static::0.00245496948422
+algorithms to restart::0.00245496948422
+operate in real-time::0.00245496948422
+multimedia applications::0.00245496948422
+inexpensive and ubiquitous::0.00245496948422
+exceed 20cm;::0.00245496948422
+perform these operations::0.00245496948422
+outperforms the online::0.00245496948422
+negative::0.00240303467391
+computational requirements::0.00239572460361
+coverage::0.00235001952962
+projection::0.00233265574477
+results show::0.00229789604646
+tags::0.00227863241235
+reading::0.00226898437343
+map::0.00224914559534
+algorithm::0.00221868893445
+ferret is designed::0.00216372195056
+detect nomadic::0.00216372195056
+line segments::0.00216372195056
+front of objects::0.00216372195056
+world coordinate::0.00216372195056
+user’s inherent mobility::0.00216372195056
+likelihood location map::0.00216372195056
+show that ferret::0.00216372195056
+volume size::0.00216372195056
+distances exceed::0.00216372195056
+reader’s current position::0.00216372195056
+ferret a scalable::0.00216372195056
+ferret system::0.00216372195056
+thousands of objects::0.00216372195056
+locating nomadic objects::0.00216372195056
+reader produces::0.00216372195056
+tags and displaying::0.00216372195056
+methods for detecting::0.00216372195056
+user in real-time::0.00216372195056
+iii ferret::0.00216372195056
+series of readings::0.00216372195056
+nomadic objects move::0.00216372195056
+detecting when nomadic::0.00216372195056
+performance of ferret::0.00216372195056
+postulation::0.00216372195056
+narrow the region::0.00216372195056
+store the location::0.00216372195056
+augmented with rfid::0.00216372195056
+circular and head-on::0.00216372195056
+ferret device::0.00216372195056
+hähnel w burgard::0.00216372195056
+ferret to estimate::0.00216372195056
+produce a series::0.00216372195056
+rate 2.22%);::0.00216372195056
+multiple vantage points::0.00216372195056
+vantage points::0.00216372195056
+camera coordinate::0.00216372195056
+2.22%); ii ferret::0.00216372195056
+greatly reduces::0.00216372195056
+refinement process::0.00216372195056
+passive rfid tagged::0.00216372195056
+moving distances exceed::0.00216372195056
+real-time we present::0.00216372195056
+repeat the experiment::0.00216372195056
+time secs::0.00216372195056
+spatial requirements::0.00216372195056
+system ferret::0.00216372195056
+map is empty::0.00216372195056
+resulting location map::0.00216372195056
+tag here reader::0.00216372195056
+volume of approximately::0.00216372195056
+infer the locations::0.00216372195056
+convex region::0.00216372195056
+deal with objects::0.00216372195056
+dimensions is straightforward::0.00216372195056
+nomadic objects augmented::0.00216372195056
+circular pattern::0.00216372195056
+contrast passive rfid::0.00216372195056
+ferret’s performance::0.00216372195056
+implementation of ferret::0.00216372195056
+prototype::0.00212182217678
+reader’s::0.00208280939125
+rfid localization::0.00207347177313
+passive rfid::0.00204257426352
+tag::0.00197028396891
+100% accuracy::0.00195707853685
+object has moved::0.00195707853685
+localization for pervasive::0.00195707853685
+user mobility::0.00195707853685
+intersecting::0.00195707853685
+image plane::0.00195707853685
+small error::0.00195707853685
+60% 40% 20%::0.00195707853685
+presents the design::0.00195707853685
+multiple readings::0.00195707853685
+designed to operate::0.00195707853685
+localize an object::0.00195707853685
+mapping and localization::0.00195707853685
+bytes::0.00194346950373
+object location::0.00192259328423
+passive rfid tags::0.00192259328423
+online::0.00191976386714
+refine::0.00184566111845
+epc class::0.0017967934527
+inertial navigation systems::0.0017967934527
+video camera::0.0017967934527
+results are shown::0.0017967934527
+estimate its location::0.0017967934527
+estimate the orientation::0.0017967934527
+camera’s::0.0017967934527
+power output::0.0017967934527
+detecting::0.00168254108958
+refinement::0.00166583100319
+location algorithm::0.00166583100319
+implemented a prototype::0.00166583100319
+objects move::0.00166583100319
+location of objects::0.00166583100319
+burgard d fox::0.00166583100319
+orientation and position::0.00166583100319
+infer the location::0.00166583100319
+produces::0.00166566749197
+straight line::0.00164058766084
+easily maintained::0.00163664632281
+technique ferret::0.00163664632281
+objects ferret::0.00163664632281
+ferret rfid::0.00163664632281
+2.56m::0.00163664632281
+present methods::0.00163664632281
+online offline::0.00163664632281
+first positive::0.00163664632281
+43.5m bytes::0.00163664632281
+locations locally::0.00163664632281
+et.al proposed::0.00163664632281
+first reading::0.00163664632281
+ferret adds::0.00163664632281
+0.05m3 regions::0.00163664632281
+ubiquitous identification::0.00163664632281
+post-processing applications::0.00163664632281
+online refinement::0.00163664632281
+point contained::0.00163664632281
+automatic inexpensive::0.00163664632281
+offline algorithm’s::0.00163664632281
+displaying::0.00163089878071
+threshold::0.00161425274365
+likelihood::0.00158719122957
+patterns::0.00153606892554
+representation::0.00152958280871
+cns-0219520 cns-052072 cns-0447877::0.00147643021579
+cns-0447877 and eia-0098060::0.00147643021579
+equipped with rfid::0.00145918758948
+sample points::0.00145918758948
+probability values::0.00145918758948
+locationing capabilities::0.00144248130037
+threshold ferret::0.00144248130037
+versus time::0.00144248130037
+ferret prototype::0.00144248130037
+relative volume::0.00144248130037
+locationing technologies::0.00144248130037
+designed ferret::0.00144248130037
+prototype ferret::0.00144248130037
+moving distances::0.00144248130037
+ferret works::0.00144248130037
+camera’s lens::0.00144248130037
+perform o(n3::0.00144248130037
+incorporate negative::0.00144248130037
+volume tracks::0.00144248130037
+absolute volume::0.00144248130037
+cricket sensor::0.00144248130037
+likelihood location::0.00144248130037
+evaluate ferret’s::0.00144248130037
+dimensional map::0.00144248130037
+head-on pattern::0.00144248130037
+objects augmented::0.00144248130037
+total space::0.00144248130037
+moving distance::0.00144248130037
+misplaced book::0.00144248130037
+algorithm incurs::0.00144248130037
+inherent mobility::0.00144248130037
+move ferret::0.00144248130037
+resulting location::0.00144248130037
+area projected::0.00144248130037
+coverage range::0.00144248130037
+contrast passive::0.00144248130037
+three-dimensional region::0.00144248130037
+battery-powered locationing::0.00144248130037
+constantly moving::0.00144248130037
+video screen::0.00144248130037
+postulated region::0.00144248130037
+intersection map::0.00144248130037
+locationing systems::0.00144248130037
+detecting tags::0.00144248130037
+current reading::0.00144248130037
+alternative algorithms::0.00144248130037
+head-on patterns::0.00144248130037
+reader’s current::0.00144248130037
+ferret performs::0.00144248130037
+highly compressible::0.00144248130037
+laser-range scanner::0.00144248130037
+object movements::0.00144248130037
+occupancy grids::0.00144248130037
+static rfid::0.00144248130037
+locating nomadic::0.00144248130037
+current map::0.00144248130037
+user’s inherent::0.00144248130037
+multiple vantage::0.00144248130037
+dimensional array::0.00144248130037
+detect human::0.00144248130037
+recording devices::0.00144248130037
+100%::0.00143551420324
+multimedia::0.00143551420324
+image::0.00140961717664
+shown in figure::0.00139662897837
+intersection::0.00131503878325
+location estimation::0.00130508451526
+non-zero probability::0.00130471902457
+60% 40%::0.00130471902457
+o(n2::0.00130471902457
+user’s mobility::0.00130471902457
+lens::0.00130471902457
+recent past::0.00130471902457
+40% 20%::0.00130471902457
+grid point::0.00130471902457
+monte carlo localization::0.00129890250534
+system for locating::0.00129890250534
+circular::0.00123044074563
+digital compass similar::0.00122748474211
+straightforward the first::0.00122748474211
+readings as negative::0.00122748474211
+x|{d1  dn−1::0.00122748474211
+enable new opportunities::0.00122748474211
+store a description::0.00122748474211
+grids for robotic::0.00122748474211
+rfid tags continue::0.00122748474211
+lower power produces::0.00122748474211
+report 00-02-02 university::0.00122748474211
+readings to locate::0.00122748474211
+915mhz a sony::0.00122748474211
+camera from multiple::0.00122748474211
+associates probability values::0.00122748474211
+motion is straightforward;::0.00122748474211
+process we present::0.00122748474211
+produces a negative::0.00122748474211
+outputs requires building::0.00122748474211
+identities while numerous::0.00122748474211
+power outputs requires::0.00122748474211
+results in figure::0.00122748474211
+algorithm in figure::0.00122748474211
+point ferret displays::0.00122748474211
+barrier to providing::0.00122748474211
+rfid reader embedded::0.00122748474211
+system to dynamically::0.00122748474211
+independent ferret device::0.00122748474211
+process an experimental::0.00122748474211
+hundreds or possibly::0.00122748474211
+search operations vision-based::0.00122748474211
+system would work::0.00122748474211
+0.05m3::0.00122748474211
+locations without needing::0.00122748474211
+number of batteries::0.00122748474211
+structure or organization::0.00122748474211
+camera is completely::0.00122748474211
+magazine 4(5):42–47 october::0.00122748474211
+scenario the user::0.00122748474211
+device from exploiting::0.00122748474211
+trade the size::0.00122748474211
+tags’ locations—the offline::0.00122748474211
+rfid localization technique::0.00122748474211
+orientation-sensitive 3d tags::0.00122748474211
+readings are weighted::0.00122748474211
+abstract the pervasive::0.00122748474211
+probability threshold errors::0.00122748474211
+amount of computation::0.00122748474211
+video and image::0.00122748474211
+system has gained::0.00122748474211
+large-scale deployment issues::0.00122748474211
+ferret to support::0.00122748474211
+perception and navigation::0.00122748474211
+performing this transformation::0.00122748474211
+algorithm to trade::0.00122748474211
+2.5m x 2.5m::0.00122748474211
+cameras with rfid::0.00122748474211
+corner and prashant::0.00122748474211
+addition to object::0.00122748474211
+vicinity as ferret::0.00122748474211
+object in 0.15m3::0.00122748474211
+adds our evaluation::0.00122748474211
+offline algorithm’s performance::0.00122748474211
+prototype system cricket::0.00122748474211
+battery-powered locationing hardware::0.00122748474211
+2.56m x 1.74m::0.00122748474211
+positive reading indicates::0.00122748474211
+o(n3  operations::0.00122748474211
+1.5ghz pentiumm processor::0.00122748474211
+tags is easily::0.00122748474211
+require any information::0.00122748474211
+required is 256∗174∗2::0.00122748474211
+objects are uncertain::0.00122748474211
+system ferret benefits::0.00122748474211
+queried in real-time::0.00122748474211
+indicates a negative::0.00122748474211
+2.56m x 1.74m—this::0.00122748474211
+point in relation::0.00122748474211
+intersections the compensation::0.00122748474211
+false nega tives::0.00122748474211
+map and removing::0.00122748474211
+systems for ultrasound::0.00122748474211
+device— this technique::0.00122748474211
+ferret device fraction::0.00122748474211
+imagine attaching tags::0.00122748474211
+reader using multiple::0.00122748474211
+technique to map::0.00122748474211
+continue to drop::0.00122748474211
+equip passive rfid::0.00122748474211
+efficient equipping hundreds::0.00122748474211
+battery-free inexpensive distributed::0.00122748474211
+algorithm’s::0.00122748474211
+reader under ideal::0.00122748474211
+positions of objects::0.00122748474211
+pervasive multimedia technical::0.00122748474211
+calculating and displaying::0.00122748474211
+low-cost identification technologies::0.00122748474211
+proposed a navigation::0.00122748474211
+current prototype ferret::0.00122748474211
+digital imaging technologies::0.00122748474211
+tois 10(1):91–102 january::0.00122748474211
+leaving the interpretation::0.00122748474211
+locations the system::0.00122748474211
+rfid tags designed::0.00122748474211
+subtracts the reader’s::0.00122748474211
+management and privacy::0.00122748474211
+systems that rely::0.00122748474211
+hähnel et.al proposed::0.00122748474211
+identifying objects; ferret::0.00122748474211
+objects to address::0.00122748474211
+ferret device camera::0.00122748474211
+self-identifying rfid tags::0.00122748474211
+trivial the amount::0.00122748474211
+rotate circle online::0.00122748474211
+changing an unmanageable::0.00122748474211
+multiple readings produce::0.00122748474211
+readings than positive::0.00122748474211
+digital camcorders pdas::0.00122748474211
+ferret can locate::0.00122748474211
+offline  online::0.00122748474211
+conduct real-time identification::0.00122748474211
+equivalent to hähnel’s::0.00122748474211
+require any infrastructural::0.00122748474211
+system for analyzing::0.00122748474211
+spoton 8 hightower::0.00122748474211
+ferret combines locationing::0.00122748474211
+database storing data::0.00122748474211
+pervasive multimedia? xiaotao::0.00122748474211
+incorporates a video::0.00122748474211
+query the reader::0.00122748474211
+science foundation grants::0.00122748474211
+method for identifying::0.00122748474211
+reader can determine::0.00122748474211
+object incorporating motion::0.00122748474211
+minutes the volume::0.00122748474211
+reduce the possibilities::0.00122748474211
+locations in relation::0.00122748474211
+ultrasound or uwb::0.00122748474211
+video camera ferret::0.00122748474211
+prototype our results::0.00122748474211
+tag to query::0.00122748474211
+deploys multiple fixed::0.00122748474211
+nearby tags ferret::0.00122748474211
+tags ferret leverages::0.00122748474211
+reading was negative::0.00122748474211
+space inventory tracking::0.00122748474211
+object’s possible locations::0.00122748474211
+describe a greatly::0.00122748474211
+algorithm incurs large::0.00122748474211
+automation 11(3):328–342 june::0.00122748474211
+back-annotate the entire::0.00122748474211
+locations the display::0.00122748474211
+multimedia technical report::0.00122748474211
+advances in digital::0.00122748474211
+maps ferret first::0.00122748474211
+ferret provides systems::0.00122748474211
+amherst ma xiaotaol::0.00122748474211
+commercially available digital::0.00122748474211
+length of 2.75mm::0.00122748474211
+readings are correlated::0.00122748474211
+centroid point ferret::0.00122748474211
+omit the proof::0.00122748474211
+exploit the location::0.00122748474211
+incurs large overhead::0.00122748474211
+find the precise::0.00122748474211
+history as shown::0.00122748474211
+displaying object locations::0.00122748474211
+928mhz and supports::0.00122748474211
+pitch and roll::0.00122748474211
+notion of object::0.00122748474211
+multiple power outputs::0.00122748474211
+objects requiring location::0.00122748474211
+patterns the object::0.00122748474211
+technique greatly reduces::0.00122748474211
+algorithm the primary::0.00122748474211
+749.32ms per reading::0.00122748474211
+contrast if location::0.00122748474211
+volume of 0.1m3::0.00122748474211
+objects our results::0.00122748474211
+batteries—making objects self-locating::0.00122748474211
+identification and location::0.00122748474211
+factor we omit::0.00122748474211
+technologies with pervasive::0.00122748474211
+online algorithm incurs::0.00122748474211
+high and equally::0.00122748474211
+maintained and scales::0.00122748474211
+abilities by equipping::0.00122748474211
+run the offline::0.00122748474211
+office after scanning::0.00122748474211
+entire video stream::0.00122748474211
+measure the pan::0.00122748474211
+tags and displays::0.00122748474211
+volume of 0.01m3::0.00122748474211
+reading the probability::0.00122748474211
+objects—objects that change::0.00122748474211
+require a locationing::0.00122748474211
+reset the locationing::0.00122748474211
+mapping the probability::0.00122748474211
+movements as opposed::0.00122748474211
+uncompressed 320x240 video::0.00122748474211
+requires relative locations::0.00122748474211
+xiaotao liu mark::0.00122748474211
+movement hähnel et.al::0.00122748474211
+amount of computational::0.00122748474211
+tags are remotely::0.00122748474211
+laptops has made::0.00122748474211
+database each option::0.00122748474211
+scales to hundreds::0.00122748474211
+algorithm with drastically::0.00122748474211
+measured the performance::0.00122748474211
+objects e.g. books::0.00122748474211
+final projection area::0.00122748474211
+produce a large::0.00122748474211
+object—a positive reading::0.00122748474211
+xiaotaol mcorner shenoy}@cs.umass.edu::0.00122748474211
+offline algorithm incorporates::0.00122748474211
+offline locationing algorithm::0.00122748474211
+rotation and projection::0.00122748474211
+narrow the location::0.00122748474211
+1watt this reader::0.00122748474211
+method to positive::0.00122748474211
+finds the intersection::0.00122748474211
+volumes of personal::0.00122748474211
+tags eases large-scale::0.00122748474211
+reader implicitly indicates::0.00122748474211
+remotely rewritable ferret::0.00122748474211
+cognition for instance::0.00122748474211
+require location information::0.00122748474211
+line b head−on::0.00122748474211
+number of negative::0.00122748474211
+mobility effects ferret::0.00122748474211
+map will continue::0.00122748474211
+move the camera::0.00122748474211
+shenoy ferret rfid::0.00122748474211
+optical axis projecting::0.00122748474211
+reality and immersive::0.00122748474211
+prior history ferret::0.00122748474211
+technology “m” rfid::0.00122748474211
+algebra and computer::0.00122748474211
+contrast we designed::0.00122748474211
+identification and locationing::0.00122748474211
+object we imagine::0.00122748474211
+elfes using occupancy::0.00122748474211
+verify the online::0.00122748474211
+alien technology “m”::0.00122748474211
+requirements strictly speaking::0.00122748474211
+modifications to tags::0.00122748474211
+tradeoffs storing locations::0.00122748474211
+prevents the device::0.00122748474211
+heading and yaw::0.00122748474211
+showing a single::0.00122748474211
+inventory tracking applications::0.00122748474211
+constant; and iii::0.00122748474211
+emits a signal::0.00122748474211
+combines locationing technologies::0.00122748474211
+reflects the map::0.00122748474211
+robot and rfid::0.00122748474211
+refining location estimates::0.00122748474211
+object see figure::0.00122748474211
+locationing system ferret::0.00122748474211
+tag subsequently multiple::0.00122748474211
+human may move::0.00122748474211
+needing the full::0.00122748474211
+compressible the offline::0.00122748474211
+information is small::0.00122748474211
+locations—the offline algorithm::0.00122748474211
+adds locationing capabilities::0.00122748474211
+correlated by orientation::0.00122748474211
+identifies the object::0.00122748474211
+diameter of 26.7cm::0.00122748474211
+reading the system::0.00122748474211
+devices to conduct::0.00122748474211
+infrastructure requirements strictly::0.00122748474211
+moving tags ferret’s::0.00122748474211
+abilities we present::0.00122748474211
+readings to reduce::0.00122748474211
+20cm;::0.00122748474211
+objects in addition::0.00122748474211
+algorithm costs 749.32ms::0.00122748474211
+greatly simplified version::0.00122748474211
+precise location figure::0.00122748474211
+probability of finding::0.00122748474211
+multimedia? xiaotao liu::0.00122748474211
+grants cns-0219520 cns-052072::0.00122748474211
+location instead ferret::0.00122748474211
+plane is straightforward::0.00122748474211
+show the tags’::0.00122748474211
+secs c display::0.00122748474211
+displaying the uncertainty::0.00122748474211
+locate a misplaced::0.00122748474211
+readings to infer::0.00122748474211
+diameter of 57.6cm::0.00122748474211
+analyzing the data::0.00122748474211
+equipped with self-identifying::0.00122748474211
+offline ferret algorithm::0.00122748474211
+produces a likelihood::0.00122748474211
+batteries in contrast::0.00122748474211
+requires writable tags::0.00122748474211
+refine the location::0.00122748474211
+report 06-22 university::0.00122748474211
+orientation and location::0.00122748474211
+limits the amount::0.00122748474211
+equally likely probabilities::0.00122748474211
+objects ferret leverages::0.00122748474211
+readings both positive::0.00122748474211
+shows that ferret::0.00122748474211
+store the locations::0.00122748474211
+instance if ferret::0.00122748474211
+operating at 915mhz::0.00122748474211
+2m3 to 0.02m3::0.00122748474211
+outperforming the online::0.00122748474211
+small but nonzero::0.00122748474211
+performance and management::0.00122748474211
+foundation grants cns-0219520::0.00122748474211
+hurdles a key::0.00122748474211
+strictly speaking calculating::0.00122748474211
+offline algorithm outperforms::0.00122748474211
+1.74m x 2.56m::0.00122748474211
+ran the offline::0.00122748474211
+intersecting the range::0.00122748474211
+code that uniquely::0.00122748474211
+online algorithm’s error::0.00122748474211
+gained additional knowledge::0.00122748474211
+application of conditional::0.00122748474211
+mcorner shenoy}@cs.umass.edu abstract::0.00122748474211
+reduces the object’s::0.00122748474211
+amount of history::0.00122748474211
+locations the error::0.00122748474211
+reader see figure::0.00122748474211
+refine the locations::0.00122748474211
+ferret can store::0.00122748474211
+ferret the user::0.00122748474211
+describe two alternative::0.00122748474211
+circle online volume::0.00122748474211
+image the captured::0.00122748474211
+camera the system::0.00122748474211
+improves the postulation::0.00122748474211
+location once ferret::0.00122748474211
+compensation for false::0.00122748474211
+ferret can narrow::0.00122748474211
+associates an unknown::0.00122748474211
+refinement time—with prior::0.00122748474211
+raises a number::0.00122748474211
+ferret to narrow::0.00122748474211
+applications can proactively::0.00122748474211
+infrastructural support displaying::0.00122748474211
+device fraction detected::0.00122748474211
+tags the confluence::0.00122748474211
+evaluating the offline::0.00122748474211
+orientation experimental evaluation::0.00122748474211
+single centroid point::0.00122748474211
+tag from multiple::0.00122748474211
+mobility patterns references::0.00122748474211
+output level due::0.00122748474211
+moves and senses::0.00122748474211
+users can locate::0.00122748474211
+receives the first::0.00122748474211
+distance between 5cm::0.00122748474211
+experiments pay specific::0.00122748474211
+algorithm is designed::0.00122748474211
+location only requires::0.00122748474211
+storing locations locally::0.00122748474211
+incorporation of negative::0.00122748474211
+mobile in contrast::0.00122748474211
+equally likely probability::0.00122748474211
+read-only rfid tags::0.00122748474211
+robotic ones demonstrating::0.00122748474211
+form-factor and limited::0.00122748474211
+passive nature raises::0.00122748474211
+options any device::0.00122748474211
+number of readings—most::0.00122748474211
+reader the online::0.00122748474211
+user we show::0.00122748474211
+applications we assume::0.00122748474211
+x.liu m corner::0.00122748474211
+self-locating capabilities simply::0.00122748474211
+pay specific attention::0.00122748474211
+intersecting these ranges::0.00122748474211
+demonstrate that ferret::0.00122748474211
+emergence of low-cost::0.00122748474211
+signal and tags::0.00122748474211
+solution is applying::0.00122748474211
+greatly reduces complexity::0.00122748474211
+communications magazine 4(5):42–47::0.00122748474211
+projecting the image::0.00122748474211
+eases large-scale deployment::0.00122748474211
+deal with nomadic::0.00122748474211
+past in contrast::0.00122748474211
+circular pattern performs::0.00122748474211
+algorithms that refine::0.00122748474211
+identification and search::0.00122748474211
+displays their locations::0.00122748474211
+requirement from 43.5m::0.00122748474211
+system is constantly::0.00122748474211
+1.8mm the camera::0.00122748474211
+ferret ferret combines::0.00122748474211
+distributed and easily::0.00122748474211
+location with rfid::0.00122748474211
+room and moves::0.00122748474211
+address the concerns::0.00122748474211
+ferret’s offline algorithm::0.00122748474211
+figure 3 similarly::0.00122748474211
+affects the location::0.00122748474211
+opposed to robotic::0.00122748474211
+ferret can incorporate::0.00122748474211
+providing locationing information::0.00122748474211
+narrow its location::0.00122748474211
+performance of offline::0.00122748474211
+requirements an offline::0.00122748474211
+camera ferret’s notion::0.00122748474211
+tag greatly reduces::0.00122748474211
+share large volumes::0.00122748474211
+25cm and 20cm::0.00122748474211
+software a sparton::0.00122748474211
+order of 20cm::0.00122748474211
+distance exceeds 25cm::0.00122748474211
+durrant-whyte inertial navigation::0.00122748474211
+non-intuitive this means::0.00122748474211
+handheld video camera::0.00122748474211
+power output level::0.00122748474211
+translation-only movement hähnel::0.00122748474211
+refine its location::0.00122748474211
+operations vision-based applications::0.00122748474211
+environment and assuming::0.00122748474211
+addition to positive::0.00122748474211
+errors as compared::0.00122748474211
+mobile robot perception::0.00122748474211
+devices—enables novel pervasive::0.00122748474211
+mobile robots ieee::0.00122748474211
+camera to infer::0.00122748474211
+movements straight line::0.00122748474211
+locations in real-time::0.00122748474211
+location—as the user::0.00122748474211
+vision and graphics::0.00122748474211
+system while research::0.00122748474211
+start finding objects::0.00122748474211
+fixed focal length::0.00122748474211
+0.01 the number::0.00122748474211
+offline algorithm fig::0.00122748474211
+readings to update::0.00122748474211
+5cm and 200cm::0.00122748474211
+iros’03 pages 206–211::0.00122748474211
+o(n3  false::0.00122748474211
+series of readings;::0.00122748474211
+6ms per positive::0.00122748474211
+current mobile hardware::0.00122748474211
+applications fishkin et.al::0.00122748474211
+2.56m x 2.56m::0.00122748474211
+set to 30dbm::0.00122748474211
+range; by maintaining::0.00122748474211
+handles nomadic objects::0.00122748474211
+display is constantly::0.00122748474211
+negative this approach::0.00122748474211
+scenario will generate::0.00122748474211
+easily maintained method::0.00122748474211
+system the camera::0.00122748474211
+samples for nearby::0.00122748474211
+coverage region fig::0.00122748474211
+line head-on z-line::0.00122748474211
+system to display::0.00122748474211
+object—this greatly reduces::0.00122748474211
+ferret didn’t detect::0.00122748474211
+display will show::0.00122748474211
+positive readings ferret::0.00122748474211
+tune the offline::0.00122748474211
+method for displaying::0.00122748474211
+designed for offline::0.00122748474211
+displaying a location::0.00122748474211
+history ferret starts::0.00122748474211
+transform and share::0.00122748474211
+incorporate human movements::0.00122748474211
+reliance on batteries—making::0.00122748474211
+works with read-only::0.00122748474211
+reduced computational cost::0.00122748474211
+weighted as heavily::0.00122748474211
+system and computes::0.00122748474211
+space—with a locationing::0.00122748474211
+describing an eventual::0.00122748474211
+requiring location information::0.00122748474211
+displays the outline::0.00122748474211
+compared to offline::0.00122748474211
+approach is derived::0.00122748474211
+assuming no prior::0.00122748474211
+pages 206–211 october::0.00122748474211
+overlays the video::0.00122748474211
+map with equally::0.00122748474211
+grants national science::0.00122748474211
+more; iii ferret::0.00122748474211
+modeling of reader::0.00122748474211
+incorporating negative readings::0.00122748474211
+replacement to barcodes::0.00122748474211
+location are predicated::0.00122748474211
+real-time we describe::0.00122748474211
+algorithm’s error rate::0.00122748474211
+locate and identify::0.00122748474211
+2.4mm by 1.8mm::0.00122748474211
+locations of individual::0.00122748474211
+food items furniture::0.00122748474211
+efficient fastslam algorithm::0.00122748474211
+method to reduce::0.00122748474211
+robots ieee transactions::0.00122748474211
+rfid many pervasive::0.00122748474211
+probability and form::0.00122748474211
+refined by intersecting::0.00122748474211
+location the advantage::0.00122748474211
+offline algorithm performance::0.00122748474211
+systems tois 10(1):91–102::0.00122748474211
+tag however ferret::0.00122748474211
+burden of management::0.00122748474211
+rate in locating::0.00122748474211
+stringent latency requirements::0.00122748474211
+heavily as positive::0.00122748474211
+scanner a robot::0.00122748474211
+errors mean volume::0.00122748474211
+locate rfid tags::0.00122748474211
+range with past::0.00122748474211
+display to show::0.00122748474211
+self-locating::0.00122748474211
+highlights a small::0.00122748474211
+content a concurrent::0.00122748474211
+thrun an efficient::0.00122748474211
+nomadic distances exceed::0.00122748474211
+multimedia recording devices—enables::0.00122748474211
+algorithm when objects::0.00122748474211
+pinpointing a misplaced::0.00122748474211
+selects some set::0.00122748474211
+offline algorithm widely::0.00122748474211
+essence any tag::0.00122748474211
+direction for future::0.00122748474211
+head-on z-line rotate::0.00122748474211
+drops from 2m3::0.00122748474211
+orientation-insensitive epc class::0.00122748474211
+postulate that associates::0.00122748474211
+evaluation our experiments::0.00122748474211
+256∗174∗2 = 178k::0.00122748474211
+work use battery-powered::0.00122748474211
+devices can start::0.00122748474211
+object movements straight::0.00122748474211
+searching for ferret’s::0.00122748474211
+depend on modifications::0.00122748474211
+refinement of location::0.00122748474211
+searching for multiple::0.00122748474211
+applications e.g. pinpointing::0.00122748474211
+enables novel pervasive::0.00122748474211
+ieee computer 22(6):46–57::0.00122748474211
+refine and display::0.00122748474211
+reader the output::0.00122748474211
+shelf a user::0.00122748474211
+z-line rotate circle::0.00122748474211
+fixed rfid readers::0.00122748474211
+map one solution::0.00122748474211
+mobility patterns ferret::0.00122748474211
+readings yielding similar::0.00122748474211
+rfid tags eases::0.00122748474211
+query its location::0.00122748474211
+video capture capabilities::0.00122748474211
+offline algorithm costs::0.00122748474211
+professional second edition::0.00122748474211
+calculate and improve::0.00122748474211
+show a comparison::0.00122748474211
+choose a reasonable::0.00122748474211
+household or office::0.00122748474211
+directional video camera::0.00122748474211
+allowing offline querying::0.00122748474211
+pages 268–282 september::0.00122748474211
+hundreds of objects::0.00122748474211
+map the detection::0.00122748474211
+system the world::0.00122748474211
+work on occupancy::0.00122748474211
+issues their passive::0.00122748474211
+ferret first transforms::0.00122748474211
+requires an orientation::0.00122748474211
+management tradeoffs storing::0.00122748474211
+stationary it operates::0.00122748474211
+coverage map shown::0.00122748474211
+rely on location::0.00122748474211
+proliferation of consumer::0.00122748474211
+readings ferret subtracts::0.00122748474211
+moved and reinitialize::0.00122748474211
+research has proposed::0.00122748474211
+drop in price::0.00122748474211
+motion to reduce::0.00122748474211
+static or nomadic::0.00122748474211
+threshold ≤ 0.01::0.00122748474211
+algorithm incorporates information::0.00122748474211
+university of massachusets::0.00122748474211
+rfid reading consumes::0.00122748474211
+instance in figure::0.00122748474211
+simple to capture::0.00122748474211
+display area fig::0.00122748474211
+range are refined::0.00122748474211
+assumed to detect::0.00122748474211
+database the burden::0.00122748474211
+ranges allows ferret::0.00122748474211
+implications for privacy::0.00122748474211
+algorithm’s performance advantage::0.00122748474211
+tags ferret’s offline::0.00122748474211
+combining multiple readings::0.00122748474211
+first reading additionally::0.00122748474211
+provide a method::0.00122748474211
+camera ferret samples::0.00122748474211
+objects as rfid::0.00122748474211
+object in practice::0.00122748474211
+devices with video::0.00122748474211
+standard orientation-insensitive tag::0.00122748474211
+change locations infrequently::0.00122748474211
+future many personal::0.00122748474211
+sensitivity of offline::0.00122748474211
+tagged objects ferret::0.00122748474211
+bytes to 178k::0.00122748474211
+fuses a stream::0.00122748474211
+figure 2 ferret::0.00122748474211
+derived from elfes’s::0.00122748474211
+refine the object::0.00122748474211
+subsequently multiple readings::0.00122748474211
+times the number::0.00122748474211
+device and nomadic::0.00122748474211
+57.6cm ferret’s error::0.00122748474211
+move furthermore ferret::0.00122748474211
+ferret is searching::0.00122748474211
+size of 2.4mm::0.00122748474211
+technical report 00-02-02::0.00122748474211
+proposed orientation systems::0.00122748474211
+minutes we repeat::0.00122748474211
+stationary camera ferret’s::0.00122748474211
+show an outline::0.00122748474211
+grids for mobile::0.00122748474211
+incorporate negative readings—when::0.00122748474211
+decreased this results::0.00122748474211
+user can quickly::0.00122748474211
+objects; ferret adds::0.00122748474211
+reading was positive::0.00122748474211
+pages 407–417 march::0.00122748474211
+update locations ferret::0.00122748474211
+multimedia applications ferret::0.00122748474211
+offline spatial requirements::0.00122748474211
+offline algorithm incurs::0.00122748474211
+bookshelf require location::0.00122748474211
+nsf grants national::0.00122748474211
+cellphones digital camcorders::0.00122748474211
+computed to back-annotate::0.00122748474211
+readings—when the reader::0.00122748474211
+location—this is reflected::0.00122748474211
+barcodes further rfid::0.00122748474211
+ubicomp’04 pages 268–282::0.00122748474211
+object in general::0.00122748474211
+pervasive computing 5(1):25–::0.00122748474211
+computer 22(6):46–57 june::0.00122748474211
+display if ferret::0.00122748474211
+offline algorithm requires::0.00122748474211
+effects ferret exploits::0.00122748474211
+energy efficient equipping::0.00122748474211
+reduced to 250k::0.00122748474211
+modulate the power::0.00122748474211
+errors doesn’t change::0.00122748474211
+tag in relation::0.00122748474211
+points and intersecting::0.00122748474211
+straight line head-on::0.00122748474211
+line intersections figure::0.00122748474211
+realtime on current::0.00122748474211
+“m” rfid tag::0.00122748474211
+devices the offline::0.00122748474211
+uwb to determine::0.00122748474211
+quickly locate refine::0.00122748474211
+real-time to display::0.00122748474211
+offline computational requirements::0.00122748474211
+inertial location system::0.00122748474211
+ferret adds locationing::0.00122748474211
+percom’03 pages 407–417::0.00122748474211
+modulation; however adding::0.00122748474211
+locations the results::0.00122748474211
+option requires writable::0.00122748474211
+producing few negative::0.00122748474211
+algorithm widely outperforms::0.00122748474211
+negative readings yielding::0.00122748474211
+yielding similar performance::0.00122748474211
+ferret design ferret::0.00122748474211
+slightly greater number::0.00122748474211
+thousands of tagged::0.00122748474211
+derive the probability::0.00122748474211
+fishkin et.al proposed::0.00122748474211
+ferret also address::0.00122748474211
+dimensions of 2.56m::0.00122748474211
+individual passive rfid::0.00122748474211
+online external database::0.00122748474211
+5(1):25– 33 january–march::0.00122748474211
+three-dimensional coordinate system::0.00122748474211
+dealing with nomadic::0.00122748474211
+readings; the coverage::0.00122748474211
+power output produces::0.00122748474211
+assumes a stationary::0.00122748474211
+range is decreased::0.00122748474211
+room with self-locating::0.00122748474211
+support a massive::0.00122748474211
+readings from rfid::0.00122748474211
+requirements the prototype::0.00122748474211
+device to operate::0.00122748474211
+multiple fixed rfid::0.00122748474211
+advantage a straight::0.00122748474211
+locationing algorithm formally::0.00122748474211
+number of household::0.00122748474211
+require specific orientation-sensitive::0.00122748474211
+tags one algorithm::0.00122748474211
+recording devices enables::0.00122748474211
+systems we demonstrate::0.00122748474211
+form a pose::0.00122748474211
+ferret must continuously::0.00122748474211
+region this coverage::0.00122748474211
+capabilities the pervasive::0.00122748474211
+small and mobile::0.00122748474211
+algorithm although non-intuitive::0.00122748474211
+online refinement performance::0.00122748474211
+drastically reduced computational::0.00122748474211
+space will enable::0.00122748474211
+projection the basic::0.00122748474211
+algorithm is due::0.00122748474211
+objects self-locating requires::0.00122748474211
+opportunities in vision::0.00122748474211
+generate offline maps::0.00122748474211
+technologies have led::0.00122748474211
+overestimated the performance::0.00122748474211
+infer and refine::0.00122748474211
+navigation ieee computer::0.00122748474211
+sharing across devices::0.00122748474211
+removing any location::0.00122748474211
+designed a system::0.00122748474211
+interactions with rfid-tagged::0.00122748474211
+technical report 06-22::0.00122748474211
+start its refinement::0.00122748474211
+uncertain the system::0.00122748474211
+reader can produce::0.00122748474211
+postulated::0.0011978623018
+computer graphics::0.0011978623018
+scalable system::0.0011978623018
+motion patterns::0.0011978623018
+nearby tags::0.0011978623018
+multiple tags::0.0011978623018
+false negatives::0.0011978623018
+multiple objects::0.0011978623018
+primary goal::0.0011978623018
+current mobile::0.0011978623018
+coordinate::0.00118944939006
+system in proceedings::0.00116794005583
+design and implementation::0.00116794005583
+rfid readers::0.00116769980635
+orientation::0.00112301575334
+dimensional::0.00112151274914
+mobility::0.00111864387022
+reader’s antenna::0.00111055400213
+sample point::0.00111055400213
+inertial navigation::0.00111055400213
+digital compass::0.00111055400213
+rfid-tagged objects::0.00111055400213
+current position::0.00111044499465
+mobile robots::0.00111044499465
+stream::0.00111044499465
+read range::0.00111044499465
+intuitively the circular::0.00108186097528
+maps of large-scale::0.00108186097528
+describes the perimeter::0.00108186097528
+location estimation drops::0.00108186097528
+patterns are interesting::0.00108186097528
+map we reduce::0.00108186097528
+scanner through practical::0.00108186097528
+volume of hundredths::0.00108186097528
+infrastructure and measures::0.00108186097528
+tag ferret moving::0.00108186097528
+queries all tags::0.00108186097528
+metrics the size::0.00108186097528
+move infrequently—commonly referred::0.00108186097528
+change of likelihood::0.00108186097528
+nearness to reference::0.00108186097528
+determine object locations::0.00108186097528
+errors before evaluating::0.00108186097528
+scanning the room::0.00108186097528
+tradeoff in antenna::0.00108186097528
+ferret prototype shows::0.00108186097528
+rotation the prototype::0.00108186097528
+finding the object::0.00108186097528
+ferret to discover::0.00108186097528
+system performed poorly::0.00108186097528
+motion patterns shown::0.00108186097528
+rate is determined::0.00108186097528
+ubiquity of rfid::0.00108186097528
+leverages the fact::0.00108186097528
+balance of error::0.00108186097528
+waving a hand::0.00108186097528
+projection area versus::0.00108186097528
+battery-powered locationing capabilities::0.00108186097528
+system the cricket::0.00108186097528
+readings and improves::0.00108186097528
+cases the mobility::0.00108186097528
+smaller spatial requirements::0.00108186097528
+ability to store::0.00108186097528
+locations of nearby::0.00108186097528
+algorithm only costs::0.00108186097528
+requires every point::0.00108186097528
+ran three experiments::0.00108186097528
+rfid localization system::0.00108186097528
+multiple tags simultaneously::0.00108186097528
+requirements as compared::0.00108186097528
+tags the line::0.00108186097528
+frequently when objects::0.00108186097528
+region this produces::0.00108186097528
+finally ferret projects::0.00108186097528
+powered rfid tags::0.00108186097528
+sum the weight::0.00108186097528
+rapidly for instance::0.00108186097528
+camera’s current position::0.00108186097528
+computes the intersection::0.00108186097528
+ultrasound 3d locationing::0.00108186097528
+ibm x40 laptop::0.00108186097528
+produces the location::0.00108186097528
+absolute volume tracks::0.00108186097528
+representation that describes::0.00108186097528
+opportunity to perform::0.00108186097528
+motion detection ferret::0.00108186097528
+reduce the representation::0.00108186097528
+100% 100% 80%::0.00108186097528
+version our prototype::0.00108186097528
+unobtrusively detect human::0.00108186097528
+locations of rfid::0.00108186097528
+areas are shown::0.00108186097528
+describe the perimeter::0.00108186097528
+interpret the results::0.00108186097528
+cdf of locationing::0.00108186097528
+map and projecting::0.00108186097528
+80% and 50%::0.00108186097528
+dynamically discover update::0.00108186097528
+source these features::0.00108186097528
+ferret—in the evaluation::0.00108186097528
+display the error::0.00108186097528
+describes the coverage::0.00108186097528
+tag that region::0.00108186097528
+projection the threshold::0.00108186097528
+algorithm and compare::0.00108186097528
+algorithm incurs small::0.00108186097528
+detecting the tag::0.00108186097528
+means the complexity::0.00108186097528
+region with 100%::0.00108186097528
+mark d corner::0.00108186097528
+aids ferret’s ability::0.00108186097528
+detection of interactions::0.00108186097528
+identities and locations::0.00108186097528
+doesn’t::0.00108186097528
+formulate a proposition::0.00108186097528
+proceedings of ubicomp’04::0.00108186097528
+past further reducing::0.00108186097528
+facing the object::0.00108186097528
+semi-repeatable motion patterns::0.00108186097528
+reading is intersected::0.00108186097528
+z−line rfid tag::0.00108186097528
+system is co-linear::0.00108186097528
+class 0 epc::0.00108186097528
+compass the camera’s::0.00108186097528
+ferret can localize::0.00108186097528
+rotation e circle::0.00108186097528
+sensors to identify::0.00108186097528
+laptop this cmos-based::0.00108186097528
+encounters an empty::0.00108186097528
+z-line the prototype::0.00108186097528
+automation icra’99 detroit::0.00108186097528
+out possible locations::0.00108186097528
+goal of ferret::0.00108186097528
+performance of locationing::0.00108186097528
+knowledge the process::0.00108186097528
+localizing an object::0.00108186097528
+thresholding and projection::0.00108186097528
+determined through manual::0.00108186097528
+tag here fig::0.00108186097528
+distance and record::0.00108186097528
+vicinity in essence::0.00108186097528
+stream of tag::0.00108186097528
+raw laser range::0.00108186097528
+commonly available compression::0.00108186097528
+threshold will increase::0.00108186097528
+reader coordinate system::0.00108186097528
+ferret moving direction::0.00108186097528
+prototype is based::0.00108186097528
+objects in contrast::0.00108186097528
+incorporate negative regions::0.00108186097528
+missing the object::0.00108186097528
+object; c z-line::0.00108186097528
+evaluated ferret’s performance::0.00108186097528
+antenna data sheet::0.00108186097528
+learn the structure::0.00108186097528
+performs this transformation::0.00108186097528
+researchers have developed::0.00108186097528
+interactions with passive::0.00108186097528
+translation in software::0.00108186097528
+algorithm that performs::0.00108186097528
+likely—once the user::0.00108186097528
+parameter in ferret—in::0.00108186097528
+store long histories::0.00108186097528
+object is contained::0.00108186097528
+requirements our results::0.00108186097528
+record the number::0.00108186097528
+translates the coverage::0.00108186097528
+rotating and translating::0.00108186097528
+circle the prototype::0.00108186097528
+sensor is offset::0.00108186097528
+area while negative::0.00108186097528
+readers to infer::0.00108186097528
+inferring the location::0.00108186097528
+threshold we varied::0.00108186097528
+region would return::0.00108186097528
+applying a likelihood::0.00108186097528
+volume we choose::0.00108186097528
+intersecting two maps::0.00108186097528
+estimation is essentially::0.00108186097528
+track multiple tags::0.00108186097528
+store and display::0.00108186097528
+plot the projection::0.00108186097528
+measured the computational::0.00108186097528
+convex region intersecting::0.00108186097528
+rfid tag operating::0.00108186097528
+system ferret performs::0.00108186097528
+sony motion eye::0.00108186097528
+greatly aids ferret’s::0.00108186097528
+region a concave::0.00108186097528
+intersecting positive readings::0.00108186097528
+locations of nomadic::0.00108186097528
+object motion detection::0.00108186097528
+poorly in detecting::0.00108186097528
+experiments they demonstrated::0.00108186097528
+control the antenna’s::0.00108186097528
+projecting the location::0.00108186097528
+make passive rfid::0.00108186097528
+volume can project::0.00108186097528
+keeping the lens::0.00108186097528
+sony vaio laptop::0.00108186097528
+detecting these nomadic::0.00108186097528
+stations and triangulate::0.00108186097528
+successive reading multiplies::0.00108186097528
+maintaining a history::0.00108186097528
+adjust to deal::0.00108186097528
+system can store::0.00108186097528
+region is greatly::0.00108186097528
+describe the exterior::0.00108186097528
+prototype of ferret::0.00108186097528
+tags to unobtrusively::0.00108186097528
+possibility of false::0.00108186097528
+volume that encompasses::0.00108186097528
+errors in locating::0.00108186097528
+future rfid tags::0.00108186097528
+tracks the total::0.00108186097528
+estimates of object::0.00108186097528
+sense a disturbance::0.00108186097528
+attenuation to estimate::0.00108186097528
+object the results::0.00108186097528
+detecting the absence::0.00108186097528
+previously postulated region::0.00108186097528
+times that ferret::0.00108186097528
+numerous locationing technologies::0.00108186097528
+regions with 80%::0.00108186097528
+estimate the object’s::0.00108186097528
+limited battery life::0.00108186097528
+reader’s rfid antenna::0.00108186097528
+mercury4 rfid reader::0.00108186097528
+environments from raw::0.00108186097528
+device must start::0.00108186097528
+unreasonable if tags::0.00108186097528
+system as negative::0.00108186097528
+focused radiation pattern::0.00108186097528
+reality users move::0.00108186097528
+user each map::0.00108186097528
+pattern and longer::0.00108186097528
+noisy and imprecise::0.00108186097528
+continuously collects readings::0.00108186097528
+detected with lower::0.00108186097528
+reader to formulate::0.00108186097528
+rate ferret automatically::0.00108186097528
+plentiful the system::0.00108186097528
+activities on rfid::0.00108186097528
+intersection of coverage::0.00108186097528
+area versus time::0.00108186097528
+camera’s optical axis::0.00108186097528
+dollar per tag::0.00108186097528
+slightly different coordinate::0.00108186097528
+direction d rotation::0.00108186097528
+shape that describes::0.00108186097528
+knowledge about object::0.00108186097528
+requirements of ferret’s::0.00108186097528
+orientation; d rotation::0.00108186097528
+range are detected::0.00108186097528
+results a sphere::0.00108186097528
+thingmagic monostatic circular::0.00108186097528
+thousands of nomadic::0.00108186097528
+objects and walking::0.00108186097528
+area our results::0.00108186097528
+rfid-tagged objects contained::0.00108186097528
+online to track::0.00108186097528
+transforms the coverage::0.00108186097528
+project an area::0.00108186097528
+worst the circular::0.00108186097528
+ferret our results::0.00108186097528
+illustrated that resulting::0.00108186097528
+transform the intersection::0.00108186097528
+received in multiple::0.00108186097528
+location estimation ferret::0.00108186097528
+size from o(n3::0.00108186097528
+incurs small overhead::0.00108186097528
+reading the rfid::0.00108186097528
+represent the coverage::0.00108186097528
+time to demonstrate::0.00108186097528
+repeats this process::0.00108186097528
+ferret must transform::0.00108186097528
+produce a region::0.00108186097528
+ferret system fig::0.00108186097528
+foreseeable future rfid::0.00108186097528
+ferret can progressively::0.00108186097528
+tag per object::0.00108186097528
+rotating the coverage::0.00108186097528
+camera is constantly::0.00108186097528
+history of tags::0.00108186097528
+composed of smaller::0.00108186097528
+improves its postulation::0.00108186097528
+features make passive::0.00108186097528
+eye web-camera connected::0.00108186097528
+monostatic circular antenna::0.00108186097528
+ferret should adjust::0.00108186097528
+relative volume tracks::0.00108186097528
+proceedings of mobicom’00::0.00108186097528
+probability of reading::0.00108186097528
+data we collected::0.00108186097528
+advantages of allowing::0.00108186097528
+empty location estimation::0.00108186097528
+create a concave::0.00108186097528
+common another result::0.00108186097528
+room the camera::0.00108186097528
+image or approximately::0.00108186097528
+reading a tag::0.00108186097528
+intersecting the coverage::0.00108186097528
+ferret the volume::0.00108186097528
+sensor to combine::0.00108186097528
+bytes to track::0.00108186097528
+make any errors::0.00108186097528
+affect the precision::0.00108186097528
+previous experiment showed::0.00108186097528
+produces a positive::0.00108186097528
+rotates and translates::0.00108186097528
+possibility of future::0.00108186097528
+store the probabilities::0.00108186097528
+performance in detecting::0.00108186097528
+readings from multiple::0.00108186097528
+18000-6b the reader::0.00108186097528
+proposed a technique::0.00108186097528
+tags in spoton::0.00108186097528
+centralized database ferret::0.00108186097528
+vantage::0.00108186097528
+rfid-based indoor locationing::0.00108186097528
+active battery powered::0.00108186097528
+system can build::0.00108186097528
+reader is shown::0.00108186097528
+detected object movements::0.00108186097528
+set of semi-repeatable::0.00108186097528
+algorithm we sample::0.00108186097528
+records all video::0.00108186097528
+move the prototype::0.00108186097528
+map of probabilities::0.00108186097528
+volume this indicates::0.00108186097528
+reduced representation results::0.00108186097528
+walking in front::0.00108186097528
+array the dimensions::0.00108186097528
+multiplies each coordinate::0.00108186097528
+technology in proceedings::0.00108186097528
+object the time::0.00108186097528
+boundary are detected::0.00108186097528
+reinitializes the location::0.00108186097528
+tags using mobile::0.00108186097528
+map ferret rotates::0.00108186097528
+arc while keeping::0.00108186097528
+years these limitations::0.00108186097528
+computing the intersection::0.00108186097528
+objects moving objects::0.00108186097528
+rotating objects moving::0.00108186097528
+algorithm only requires::0.00108186097528
+sparton sp3003d digital::0.00108186097528
+system then reinitializes::0.00108186097528
+systems for mobile::0.00108186097528
+volume monotonically decreases::0.00108186097528
+estimation ferret assumes::0.00108186097528
+ferret can continually::0.00108186097528
+computation and storage::0.00108186097528
+performance is similar::0.00108186097528
+location we reduce::0.00108186097528
+objects we place::0.00108186097528
+reader is set::0.00108186097528
+reasons of cost::0.00108186097528
+threshold can reduce::0.00108186097528
+objects using static::0.00108186097528
+video display ferret::0.00108186097528
+hand in front::0.00108186097528
+simple yet elegant::0.00108186097528
+position the system::0.00108186097528
+queried a tag::0.00108186097528
+tilt and roll::0.00108186097528
+positions the previous::0.00108186097528
+switches to searching::0.00108186097528
+pinpoint their individual::0.00108186097528
+triangulate the position::0.00108186097528
+screen the three-dimensional::0.00108186097528
+increase the likelihood::0.00108186097528
+tag a distance::0.00108186097528
+technique for inferring::0.00108186097528
+balloon shaped radiation::0.00108186097528
+study how individual::0.00108186097528
+directionality of rfid::0.00108186097528
+choose a likelihood::0.00108186097528
+sample this coverage::0.00108186097528
+tend to head::0.00108186097528
+100% 80% 80%::0.00108186097528
+coordinate system ferret::0.00108186097528
+0.4 and ran::0.00108186097528
+motions are composed::0.00108186097528
+reader; b head-on::0.00108186097528
+ferret should detect::0.00108186097528
+change of response::0.00108186097528
+errors almost doubles::0.00108186097528
+indoor locationing systems::0.00108186097528
+iii ferret works::0.00108186097528
+head-on the prototype::0.00108186097528
+reaches the object;::0.00108186097528
+cricket ultrasound system::0.00108186097528
+laser range measurements::0.00108186097528
+project different areas::0.00108186097528
+tag and falling::0.00108186097528
+compass to obtain::0.00108186097528
+information in addition::0.00108186097528
+shrink the volume::0.00108186097528
+detect the existence::0.00108186097528
+objects or pinpoint::0.00108186097528
+region can create::0.00108186097528
+pieces of hardware—there::0.00108186097528
+produces smaller volumes::0.00108186097528
+image plane area::0.00108186097528
+secs::0.00108186097528
+system cannot incorporate::0.00108186097528
+jiang m philipose::0.00108186097528
+shows sample points::0.00108186097528
+covers more disjoint::0.00108186097528
+threshold we run::0.00108186097528
+describing the perimeter::0.00108186097528
+ferret must store::0.00108186097528
+discover update store::0.00108186097528
+battery powered rfid::0.00108186097528
+pattern we ran::0.00108186097528
+object without changing::0.00108186097528
+object does move::0.00108186097528
+precision in locating::0.00108186097528
+view and generally::0.00108186097528
+tracking tag’s nearness::0.00108186097528
+location and directionality::0.00108186097528
+track the points::0.00108186097528
+reader is assumed::0.00108186097528
+centimeter as discussed::0.00108186097528
+expensive battery-powered locationing::0.00108186097528
+perimeter only requires::0.00108186097528
+requires a set::0.00108186097528
+tags as infrastructure::0.00108186097528
+exploits the user’s::0.00108186097528
+algorithm can localize::0.00108186097528
+detect human interactions::0.00108186097528
+approach employed laser-based::0.00108186097528
+patterns to study::0.00108186097528
+measures the tracking::0.00108186097528
+show the computation::0.00108186097528
+translating and rotating::0.00108186097528
+storage the number::0.00108186097528
+readings only shrinks::0.00108186097528
+lens orientation radial::0.00108186097528
+objects their experimental::0.00108186097528
+reduces the storage::0.00108186097528
+plot the volume::0.00108186097528
+reader that queries::0.00108186097528
+camera’s ccd sensor::0.00108186097528
+high probability describing::0.00108186097528
+includes all places::0.00108186097528
+objects we designed::0.00108186097528
+rfid technology ieee::0.00108186097528
+system to control::0.00108186097528
+objects in proceedings::0.00108186097528
+tags of epc::0.00108186097528
+series of line::0.00108186097528
+region and manually::0.00108186097528
+landmarc 9 deploys::0.00108186097528
+estimation versus time::0.00108186097528
+individual patterns affect::0.00108186097528
+shrinks the area::0.00108186097528
+smaller discrete motion::0.00108186097528
+projects the intersection::0.00108186097528
+volume leaving out::0.00108186097528
+decreases as intersecting::0.00108186097528
+tag and cubic::0.00108186097528
+keeping the reader::0.00108186097528
+reinitialize the location::0.00108186097528
+maps were disjoint::0.00108186097528
+left the postulated::0.00108186097528
+changing the orientation::0.00108186097528
+threshold of 0.01::0.00108186097528
+tags are self-identifying::0.00108186097528
+representations are highly::0.00108186097528
+motion eye web-camera::0.00108186097528
+initial location estimates::0.00108186097528
+algorithm for generating::0.00108186097528
+battery power source::0.00108186097528
+readings that generally::0.00108186097528
+pdas and laptops::0.00108186097528
+techniques from linear::0.00108186097528
+proceedings of percom’03::0.00108186097528
+rate of rfid::0.00108186097528
+system we measure::0.00108186097528
+choose a constant::0.00108186097528
+user has stored::0.00108186097528
+multiple readers landmarc::0.00108186097528
+objects do move::0.00108186097528
+head−on c z−line::0.00108186097528
+evaluate ferret’s precision::0.00108186097528
+section and intersects::0.00108186097528
+designed to replace::0.00108186097528
+probabilities while objects::0.00108186097528
+human yet uncontrolled::0.00108186097528
+7.5% and 2.5%::0.00108186097528
+describe the probability::0.00108186097528
+object in contrast::0.00108186097528
+projecting::0.00108186097528
+rate of ferret::0.00108186097528
+static rfid readers::0.00108186097528
+reader is offset::0.00108186097528
+due to reasons::0.00108186097528
+robot-controlled uni-directional antenna::0.00108186097528
+shrinks the volume::0.00108186097528
+online locationing algorithm::0.00108186097528
+map l ferret::0.00108186097528
+supports rfid tags::0.00108186097528
+pattern in reality::0.00108186097528
+region the system::0.00108186097528
+return the complexity::0.00108186097528
+attached a cricket::0.00108186097528
+produce fewer positive::0.00108186097528
+present the results::0.00108186097528
+ferret to deal::0.00108186097528
+books clothing food::0.00108186097528
+measure ferret’s performance::0.00108186097528
+estimation via intersecting::0.00108186097528
+ferret to shrink::0.00108186097528
+algorithm by localizing::0.00108186097528
+dealing with hundreds::0.00108186097528
+display an outline::0.00108186097528
+missing object alerts::0.00108186097528
+threshold step places::0.00108186097528
+pattern we evaluated::0.00108186097528
+2.22%);::0.00108186097528
+circle while keeping::0.00108186097528
+shaped radiation pattern::0.00108186097528
+employed laser-based fastslam::0.00108186097528
+detect human activities::0.00108186097528
+volume in common::0.00108186097528
+ferret incorrectly shrinks::0.00108186097528
+calibrated the origin::0.00108186097528
+coverage map ferret::0.00108186097528
+object in view::0.00108186097528
+beam will produce::0.00108186097528
+prototype ferret system::0.00108186097528
+lens and rfid::0.00108186097528
+heart of ferret::0.00108186097528
+evaluate ferret’s performance::0.00108186097528
+rfid technology ideal::0.00108186097528
+hardware a thingmagic::0.00108186097528
+readings in addition::0.00108186097528
+x40 laptop equipped::0.00108186097528
+hughes computer graphics::0.00108186097528
+scaling to applications::0.00108186097528
+intersection to o(n3::0.00108186097528
+fewer positive readings::0.00108186097528
+80% 80% projection::0.00108186097528
+prototype we plot::0.00108186097528
+tags without expensive::0.00108186097528
+excessively thus missing::0.00108186097528
+object and stops::0.00108186097528
+system called ferret::0.00108186097528
+proceedings of icra’05::0.00108186097528
+report its identify::0.00108186097528
+map that includes::0.00108186097528
+online ferret continuously::0.00108186097528
+circle ferret system::0.00108186097528
+insight in ferret::0.00108186097528
+improve its postulation::0.00108186097528
+set a threshold::0.00108186097528
+stored location information::0.00108186097528
+pixel diameter circle::0.00108186097528
+tracks the size::0.00108186097528
+providing initial location::0.00108186097528
+require battery power::0.00108186097528
+detect a moved::0.00108186097528
+display object locations::0.00108186097528
+coverage maps ferret::0.00108186097528
+80% projection area::0.00108186097528
+reader we deployed::0.00108186097528
+deployed cricket beacons::0.00108186097528
+location algorithm performs::0.00108186097528
+mobility to estimate::0.00108186097528
+camera is set::0.00108186097528
+moving distance exceeds::0.00108186097528
+information systems tois::0.00108186097528
+custom-built from multiple::0.00108186097528
+orientations pan tilt::0.00108186097528
+developed union tag::0.00108186097528
+variable radiation patterns::0.00108186097528
+place a tag::0.00108186097528
+false positives additionally::0.00108186097528
+combine multiple readings::0.00108186097528
+path; e circle::0.00108186097528
+fishkin b jiang::0.00108186097528
+locationing and projection::0.00108186097528
+robot and moving::0.00108186097528
+gps and ultrasound::0.00108186097528
+line without changing::0.00108186097528
+results that show::0.00108186097528
+vicinity—the reader emits::0.00108186097528
+number of hurdles::0.00108186097528
+sensors are expensive::0.00108186097528
+compressible this greatly::0.00108186097528
+mobile robots equipped::0.00108186097528
+bytes to describe::0.00108186097528
+ferret can immediately::0.00108186097528
+diagram shows sample::0.00108186097528
+ferret performs similarly::0.00108186097528
+experiment ten times::0.00108186097528
+ferret by focusing::0.00108186097528
+performance the primary::0.00108186097528
+conduct a detailed::0.00108186097528
+prototype moves straight::0.00108186097528
+intersect two line::0.00108186097528
+line segment representation::0.00108186097528
+store the regions::0.00108186097528
+discrete motion patterns::0.00108186097528
+algorithm must perform::0.00108186097528
+moved to evaluate::0.00108186097528
+detecting translation-only movement::0.00108186097528
+compression tool gzip::0.00108186097528
+opposed to mobile::0.00108186097528
+common coordinate system::0.00108186097528
+thingmagic mercury4 rfid::0.00108186097528
+updates the camera’s::0.00108186097528
+antenna we mounted::0.00108186097528
+roy i sense::0.00108186097528
+times and record::0.00108186097528
+tag the tradeoff::0.00108186097528
+questions for future::0.00108186097528
+move in section::0.00108186097528
+ferret’s location accuracy::0.00108186097528
+varied the likelihood::0.00108186097528
+generate missing object::0.00108186097528
+static rfid tags::0.00108186097528
+class 1 alien::0.00108186097528
+developed rfid-based indoor::0.00108186097528
+cdf of ferret’s::0.00108186097528
+maps of rfid::0.00108186097528
+tag this reader::0.00108186097528
+positives additionally describing::0.00108186097528
+detailed performance evaluation::0.00108186097528
+tags are passive::0.00108186097528
+regions as intersecting::0.00108186097528
+tags are inexpensive::0.00108186097528
+record the volume::0.00108186097528
+computer graphics principles::0.00108186097528
+location the key::0.00108186097528
+describes the probability::0.00108186097528
+reasonable value finally::0.00108186097528
+introduction to rfid::0.00108186097528
+estimates to mobile::0.00108186097528
+tag the proposed::0.00108186097528
+antennas with variable::0.00108186097528
+intersection is o(n2::0.00108186097528
+shrinking over time::0.00108186097528
+addition to translating::0.00108186097528
+ferret continuously collects::0.00108186097528
+mounted the compass::0.00108186097528
+tags in balloon-shaped::0.00108186097528
+accurate 2d maps::0.00108186097528
+translating the map::0.00108186097528
+rfid tag ferret::0.00108186097528
+choi object recognition::0.00108186097528
+likelihood to evaluate::0.00108186097528
+base stations landmarc::0.00108186097528
+camera provides uncompressed::0.00108186097528
+places a minimum::0.00108186097528
+expensive robot system::0.00108186097528
+reduced in size::0.00108186097528
+cover very similar::0.00108186097528
+reader and subsequently::0.00108186097528
+performs an intersection::0.00108186097528
+applications for instance::0.00108186097528
+requirements the computational::0.00108186097528
+ferret can make::0.00108186097528
+users move erratically;::0.00108186097528
+sp3003d digital compass::0.00108186097528
+line the prototype::0.00108186097528
+current reading choosing::0.00108186097528
+threshold ferret reduces::0.00108186097528
+clothing food items::0.00108186097528
+building a map::0.00108186097528
+accuracy the results::0.00108186097528
+tens of dollars::0.00108186097528
+pair of constant::0.00108186097528
+uncontrolled mobility pattern::0.00108186097528
+estimate tag’s distance::0.00108186097528
+relationship we measured::0.00108186097528
+showed the results::0.00108186097528
+problem of estimating::0.00108186097528
+tag can report::0.00108186097528
+maps of static::0.00108186097528
+smallest volume size::0.00108186097528
+object’s rfid tag::0.00108186097528
+camera although attached::0.00108186097528
+reduce the volume::0.00108186097528
+querying and providing::0.00108186097528
+fully working prototype::0.00108186097528
+pattern an alternative::0.00108186097528
+detected with higher::0.00108186097528
+produces a set::0.00108186097528
+location we repeat::0.00108186097528
+location of passive::0.00108186097528
+threshold ferret incorrectly::0.00108186097528
+starting coverage region::0.00108186097528
+total space required::0.00108186097528
+proceedings of iccas’05::0.00108186097528
+tags are developed::0.00108186097528
+proactively generate missing::0.00108186097528
+plot the cdf::0.00108186097528
+array to store::0.00108186097528
+objects these sensors::0.00108186097528
+distance cm fig::0.00108186097528
+hähnel::0.00108186097528
+large-scale cyclic environments::0.00108186097528
+overlay this region::0.00108186097528
+proceedings of iros’03::0.00108186097528
+alerts upon detecting::0.00108186097528
+straight line tangential::0.00108186097528
+object in order::0.00108186097528
+ferret’s error rate::0.00108186097528
+weight is proportional::0.00108186097528
+reduces the volume::0.00108186097528
+discover the location::0.00108186097528
+results and compared::0.00108186097528
+eliminates the possibility::0.00108186097528
+tag it initializes::0.00108186097528
+readings and negative::0.00108186097528
+rfid in proceedings::0.00108186097528
+moving objects waving::0.00108186097528
+smaller commercial version::0.00108186097528
+region with maximum::0.00108186097528
+dollars per sensor::0.00108186097528
+tags to determine::0.00108186097528
+compared the smallest::0.00108186097528
+object’s location likelihood::0.00108186097528
+storage is plentiful::0.00108186097528
+region every centimeter::0.00108186097528
+100% object movements::0.00108186097528
+tag and ferret::0.00108186097528
+readers and laser-range::0.00108186097528
+cricket 10 ultrasound::0.00108186097528
+hundreds and thousands::0.00108186097528
+ceiling and attached::0.00108186097528
+radio signal attenuation::0.00108186097528
+location estimation versus::0.00108186097528
+recognition of robot::0.00108186097528
+reader is paired::0.00108186097528
+region this reduced::0.00108186097528
+force long-range detection::0.00108186097528
+ferret’s locationing algorithm::0.00108186097528
+locating the object::0.00108186097528
+postulated area ferret::0.00108186097528
+room and evaluated::0.00108186097528
+changing its orientation;::0.00108186097528
+instance a user::0.00108186097528
+ferret prototype system::0.00108186097528
+describe an online::0.00108186097528
+time—with prior knowledge::0.00108186097528
+detect 100% object::0.00108186097528
+error rate ferret::0.00108186097528
+location information::0.00106823134326
+store::0.00106801541063
+inexpensive::0.00105721288248
+locate objects::0.00103673588656
+locating objects::0.00103673588656
+precise location::0.00103673588656
+user moves::0.00103673588656
+radiation pattern::0.00103673588656
+convex::0.00103673588656
+discussed in section::0.00100765497168
+cns-052072 cns-0447877::0.000984286810529
+order to test::0.000978539268426
+sequence of readings::0.000978539268426
+measurements in proceedings::0.000978539268426
+test the sensitivity::0.000978539268426
+section we evaluate::0.000978539268426
+section we demonstrate::0.000978539268426
+robots in proceedings::0.000978539268426
+system as shown::0.000978539268426
+nature of rfid::0.000978539268426
+dellaert d fox::0.000978539268426
+determine the exact::0.000978539268426
+estimating the locations::0.000978539268426
+cricket locationsupport system::0.000978539268426
+current mobile devices::0.000978539268426
+track the probability::0.000978539268426
+positive or negative::0.000978539268426
+refining::0.000978539268426
+part by nsf::0.000978539268426
+experiment we show::0.000978539268426
+setup the prototype::0.000978539268426
+results of experiments::0.000978539268426
+online location estimation::0.000978539268426
+performs the worst::0.000978539268426
+ultra-wide band uwb::0.000978539268426
+tag being tracked::0.000978539268426
+technology ieee pervasive::0.000978539268426
+thrun monte carlo::0.000978539268426
+technique to detect::0.000978539268426
+passive rfid technology::0.000978539268426
+strength technical report::0.000978539268426
+localize the robot::0.000978539268426
+averaged the results::0.000978539268426
+locations of objects::0.000978539268426
+prashant shenoy department::0.000978539268426
+designed to deal::0.000978539268426
+move the tag::0.000978539268426
+signal strength technical::0.000978539268426
+tag the reader::0.000978539268426
+related work researchers::0.000978539268426
+experiments are conducted::0.000978539268426
+exceed::0.000978539268426
+rotated and translated::0.000978539268426
+object is observed::0.000978539268426
+office ieee personal::0.000978539268426
+storage::0.000977498407165
+maps::0.000976733064351
+origin::0.000973283379855
+experimental evaluation::0.000972791726323
+thousands::0.000972791726323
+small region::0.000972791726323
+probability::0.000962827273439
+reference tags::0.000961296642117
+circle::0.000925370828871
+contained::0.000917749685227
+compute the likelihood::0.000898396726352
+diameter::0.000898396726352
+ability to locate::0.000898396726352
+algorithms the results::0.000898396726352
+location in addition::0.000898396726352
+information is stored::0.000898396726352
+hundreds or thousands::0.000898396726352
+boston ma august::0.000898396726352
+battery-powered::0.000898396726352
+objects are present::0.000898396726352
+number of sample::0.000898396726352
+positions of reference::0.000898396726352
+increase the error::0.000898396726352
+readers and reference::0.000898396726352
+affect the performance::0.000898396726352
+active office ieee::0.000898396726352
+identify and locate::0.000898396726352
+room::0.000897801900268
+outline::0.000881010735399
+moves::0.000878167482763
+robotics and automation::0.000876692522167
+carlo localization::0.000865935003558
+navigation systems::0.000865935003558
+probabilities::0.000839712476398
+regions::0.00083785577757
+technical report::0.00083785577757
+reset::0.000832915501597
+set of points::0.000832915501597
+fox k fishkin::0.000832915501597
+research was supported::0.000832915501597
+ward a jones::0.000832915501597
+set of objects::0.000832915501597
+affect the system::0.000832915501597
+patil landmarc indoor::0.000832915501597
+show the results::0.000832915501597
+presented in section::0.000832915501597
+conclusions this paper::0.000832915501597
+personal communications magazine::0.000832915501597
+number of times::0.000832915501597
+graphics::0.000832915501597
+present the design::0.000832915501597
+hundreds::0.00082029383042
+constantly::0.00082029383042
+narrow::0.00082029383042
+remotely written::0.000818323161406
+online algorithm’s::0.000818323161406
+online representations::0.000818323161406
+allowing offline::0.000818323161406
+imagine attaching::0.000818323161406
+specific attention::0.000818323161406
+quickly find::0.000818323161406
+walked “randomly”::0.000818323161406
+algorithm fig::0.000818323161406
+output produces::0.000818323161406
+line head-on::0.000818323161406
+system overlays::0.000818323161406
+cellphones digital::0.000818323161406
+offline system::0.000818323161406
+tag subsequently::0.000818323161406
+combines locationing::0.000818323161406
+system highlights::0.000818323161406
+requires writable::0.000818323161406
+elfes’s work::0.000818323161406
+0.0117m3::0.000818323161406
+centroid point::0.000818323161406
+4(5):42–47 october::0.000818323161406
+proposed orientation::0.000818323161406
+system cricket::0.000818323161406
+pages 268–282::0.000818323161406
+ferret’s readings::0.000818323161406
+pattern performs::0.000818323161406
+orientation-insensitive epc::0.000818323161406
+initial postulate::0.000818323161406
+readings produce::0.000818323161406
+reader embedded::0.000818323161406
+ferret ferret::0.000818323161406
+locations ferret::0.000818323161406
+offline representation::0.000818323161406
+initial estimates::0.000818323161406
+nomadic distances::0.000818323161406
+10(1):91–102 january::0.000818323161406
+206–211 october::0.000818323161406
+immersive systems::0.000818323161406
+wireless reader::0.000818323161406
+latency requirements::0.000818323161406
+option requires::0.000818323161406
+device camera::0.000818323161406
+dn−1::0.000818323161406
+drastically reduced::0.000818323161406
+yaw tilt::0.000818323161406
+applications ferret::0.000818323161406
+methods presented::0.000818323161406
+display area::0.000818323161406
+≤ 0.01::0.000818323161406
+locate rfid::0.000818323161406
+camcorders pdas::0.000818323161406
+power modulation;::0.000818323161406
+power outputs::0.000818323161406
+outline leaving::0.000818323161406
+ferret devices::0.000818323161406
+pay specific::0.000818323161406
+ferret incorporates::0.000818323161406
+recording devices—enables::0.000818323161406
+smallest region::0.000818323161406
+online representation::0.000818323161406
+video capture::0.000818323161406
+xiaotaol mcorner::0.000818323161406
+threedimensional map::0.000818323161406
+first transforms::0.000818323161406
+personal objects::0.000818323161406
+data point::0.000818323161406
+locations—the offline::0.000818323161406
+unmanageable number::0.000818323161406
+ferret-based camera::0.000818323161406
+providing locationing::0.000818323161406
+deployment issues::0.000818323161406
+probability threshold::0.000818323161406
+storing locations::0.000818323161406
+grants national::0.000818323161406
+tradeoffs storing::0.000818323161406
+privacy performance::0.000818323161406
+user’s cognition::0.000818323161406
+office objects::0.000818323161406
+produce positive::0.000818323161406
+map l—::0.000818323161406
+pages 407–417::0.000818323161406
+identify thousands::0.000818323161406
+location ferret::0.000818323161406
+objects requiring::0.000818323161406
+storing data::0.000818323161406
+directly determine::0.000818323161406
+tois 10(1):91–102::0.000818323161406
+three-dimensional coordinate::0.000818323161406
+uniquely identifies::0.000818323161406
+reader performing::0.000818323161406
+mobile device—::0.000818323161406
+trends—the ubiquity::0.000818323161406
+experiments pay::0.000818323161406
+require changing::0.000818323161406
+camera ferret::0.000818323161406
+tag limits::0.000818323161406
+orientation systems::0.000818323161406
+camera ferret’s::0.000818323161406
+ferret’s knowledge::0.000818323161406
+batteries—making objects::0.000818323161406
+cup::0.000818323161406
+offline spatial::0.000818323161406
+efficient equipping::0.000818323161406
+407–417 march::0.000818323161406
+1.5ghz pentiumm::0.000818323161406
+office devices::0.000818323161406
+hähnel’s approach::0.000818323161406
+tags designed::0.000818323161406
+area fig::0.000818323161406
+online algorithms::0.000818323161406
+ferret combines::0.000818323161406
+small storage::0.000818323161406
+ubicomp’04 pages::0.000818323161406
+self-locating requires::0.000818323161406
+requirements strictly::0.000818323161406
+share large::0.000818323161406
+handheld video::0.000818323161406
+fixed focal::0.000818323161406
+limitations prevent::0.000818323161406
+0.1m3::0.000818323161406
+slightly greater::0.000818323161406
+full complexity::0.000818323161406
+navigation mapping::0.000818323161406
+require location::0.000818323161406
+device fraction::0.000818323161406
+devices enables::0.000818323161406
+support displaying::0.000818323161406
+subsequently multiple::0.000818323161406
+rewritable ferret::0.000818323161406
+orientation experimental::0.000818323161406
+introduction advances::0.000818323161406
+massive number::0.000818323161406
+report 06-22::0.000818323161406
+modern processor::0.000818323161406
+fixed rfid::0.000818323161406
+x,y,z offsets::0.000818323161406
+locationing hardware::0.000818323161406
+computing 5(1):25–::0.000818323161406
+locationing information::0.000818323161406
+self-identifying rfid::0.000818323161406
+gained additional::0.000818323161406
+small portion::0.000818323161406
+completely stationary::0.000818323161406
+0.15m3::0.000818323161406
+online external::0.000818323161406
+greater number::0.000818323161406
+algorithm’s performance::0.000818323161406
+offline computational::0.000818323161406
+didn’t detect::0.000818323161406
+system fuses::0.000818323161406
+remotely rewritable::0.000818323161406
+manually mapping::0.000818323161406
+costs 749.32ms::0.000818323161406
+grants cns-0219520::0.000818323161406
+refining location::0.000818323161406
+effects ferret::0.000818323161406
+coffee cup::0.000818323161406
+eases large-scale::0.000818323161406
+exploiting history::0.000818323161406
+multimedia? xiaotao::0.000818323161406
+reader means::0.000818323161406
+false nega::0.000818323161406
+straight-forward application::0.000818323161406
+axis projecting::0.000818323161406
+ferret benefits::0.000818323161406
+ferret didn’t::0.000818323161406
+first assume::0.000818323161406
+vision-based applications::0.000818323161406
+ferret starts::0.000818323161406
+− 928mhz::0.000818323161406
+offline querying::0.000818323161406
+x|d::0.000818323161406
+object—a positive::0.000818323161406
+online volume::0.000818323161406
+operations vision-based::0.000818323161406
+handheld device::0.000818323161406
+pages 206–211::0.000818323161406
+nega tives::0.000818323161406
+capture transform::0.000818323161406
+external database::0.000818323161406
+bookshelf robots::0.000818323161406
+iros’03 pages::0.000818323161406
+speaking calculating::0.000818323161406
+total time::0.000818323161406
+250k bytes::0.000818323161406
+associates probability::0.000818323161406
+implicitly indicates::0.000818323161406
+patterns ferret::0.000818323161406
+conduct real-time::0.000818323161406
+design ferret::0.000818323161406
+orientation system::0.000818323161406
+incorporates information::0.000818323161406
+multiple fixed::0.000818323161406
+ferret focuses::0.000818323161406
+threshold ≤::0.000818323161406
+negative readings—when::0.000818323161406
+report 00-02-02::0.000818323161406
+shenoy ferret::0.000818323161406
+capabilities due::0.000818323161406
+object outperforming::0.000818323161406
+requiring location::0.000818323161406
+object location—as::0.000818323161406
+handles nomadic::0.000818323161406
+uncompressed 320x240::0.000818323161406
+location abilities::0.000818323161406
+volume doesn’t::0.000818323161406
+battery-free inexpensive::0.000818323161406
+directional video::0.000818323161406
+unknown probability::0.000818323161406
+eia-0098060 images::0.000818323161406
+cost form-factor::0.000818323161406
+identifying objects;::0.000818323161406
+capabilities simply::0.000818323161406
+individual passive::0.000818323161406
+“m” rfid::0.000818323161406
+ferret design::0.000818323161406
+management tradeoffs::0.000818323161406
+reading consumes::0.000818323161406
+displaying object::0.000818323161406
+real-time identification::0.000818323161406
+objects self-locating::0.000818323161406
+178k bytes::0.000818323161406
+object directly::0.000818323161406
+bookshelf require::0.000818323161406
+attaching tags::0.000818323161406
+similar method::0.000818323161406
+accurate modeling::0.000818323161406
+level due::0.000818323161406
+320x240 video::0.000818323161406
+image content::0.000818323161406
+outputs requires::0.000818323161406
+readings—most points::0.000818323161406
+power produces::0.000818323161406
+durrant-whyte inertial::0.000818323161406
+incurs large::0.000818323161406
+z-line rotate::0.000818323161406
+equipping cameras::0.000818323161406
+06-22 university::0.000818323161406
+large-scale deployment::0.000818323161406
+fraction detected::0.000818323161406
+reader reader::0.000818323161406
+tags eases::0.000818323161406
+finding objects::0.000818323161406
+replace barcodes::0.000818323161406
+inexpensive distributed::0.000818323161406
+capture capabilities::0.000818323161406
+equipping hundreds::0.000818323161406
+ferret first::0.000818323161406
+268–282 september::0.000818323161406
+run offline::0.000818323161406
+region fig::0.000818323161406
+search operations::0.000818323161406
+self-locating capabilities::0.000818323161406
+object identities::0.000818323161406
+shenoy}@cs.umass.edu abstract::0.000818323161406
+infrastructure requirements::0.000818323161406
+refinement performance::0.000818323161406
+offline maps::0.000818323161406
+nomadic—as opposed::0.000818323161406
+efficient fastslam::0.000818323161406
+algorithm formally::0.000818323161406
+threshold errors::0.000818323161406
+user’s motion::0.000818323161406
+space inventory::0.000818323161406
+computational power::0.000818323161406
+mobile hardware::0.000818323161406
+objects; ferret::0.000818323161406
+current prototype::0.000818323161406
+strictly speaking::0.000818323161406
+multimedia technical::0.000818323161406
+probability—objects closer::0.000818323161406
+detect objects::0.000818323161406
+doesn’t change::0.000818323161406
+pervasive multimedia?::0.000818323161406
+system finds::0.000818323161406
+entire video::0.000818323161406
+objects nomadic::0.000818323161406
+exceeds 25cm::0.000818323161406
+robots ieee::0.000818323161406
+nomadic location::0.000818323161406
+infrastructural support::0.000818323161406
+essentially constant;::0.000818323161406
+widely outperforms::0.000818323161406
+start finding::0.000818323161406
+sensing range;::0.000818323161406
+0.05m3 region::0.000818323161406
+equip passive::0.000818323161406
+178k::0.000818323161406
+view producing::0.000818323161406
+offline locationing::0.000818323161406
+concurrent trend::0.000818323161406
+requires building::0.000818323161406
+locationing technology::0.000818323161406
+point ferret::0.000818323161406
+large map::0.000818323161406
+57.6cm ferret’s::0.000818323161406
+cns-0219520 cns-052072::0.000818323161406
+drastically affects::0.000818323161406
+database storing::0.000818323161406
+errors doesn’t::0.000818323161406
+tag greatly::0.000818323161406
+readings ferret::0.000818323161406
+history ferret::0.000818323161406
+rotate circle::0.000818323161406
+quickly learn::0.000818323161406
+inertial location::0.000818323161406
+read-only rfid::0.000818323161406
+portable camera::0.000818323161406
+algorithm’s error::0.000818323161406
+hähnel et.al::0.000818323161406
+digital imaging::0.000818323161406
+alternative methods::0.000818323161406
+independent ferret::0.000818323161406
+ferret’s offline::0.000818323161406
+produce readings::0.000818323161406
+technology “m”::0.000818323161406
+eventual goal::0.000818323161406
+ferret depends::0.000818323161406
+problems posed::0.000818323161406
+percom’03 pages::0.000818323161406
+refinement time—with::0.000818323161406
+single centroid::0.000818323161406
+large overhead::0.000818323161406
+incorporate human::0.000818323161406
+underlying technique::0.000818323161406
+ferret’s notion::0.000818323161406
+pentiumm processor::0.000818323161406
+more; iii::0.000818323161406
+tags ferret’s::0.000818323161406
+items furniture::0.000818323161406
+reader implicitly::0.000818323161406
+0.1m3 region::0.000818323161406
+personal video::0.000818323161406
+volume defined::0.000818323161406
+requires relative::0.000818323161406
+inexpensive hardware::0.000818323161406
+messy office::0.000818323161406
+algorithm widely::0.000818323161406
+restart::0.000818323161406
+object incorporating::0.000818323161406
+tags ferret::0.000818323161406
+instance users::0.000818323161406
+object ferret::0.000818323161406
+privacy control::0.000818323161406
+independent trial::0.000818323161406
+primary barrier::0.000818323161406
+online system::0.000818323161406
+prior history::0.000818323161406
+possibly thousands::0.000818323161406
+foundation grants::0.000818323161406
+technique greatly::0.000818323161406
+yielding similar::0.000818323161406
+output level::0.000818323161406
+1.74m—this shape::0.000818323161406
+stationary camera::0.000818323161406
+reduces complexity::0.000818323161406
+numeric code::0.000818323161406
+linear algebra::0.000818323161406
+update locations::0.000818323161406
+computer 22(6):46–57::0.000818323161406
+computationally intense::0.000818323161406
+43.5m::0.000818323161406
+specific orientation-sensitive::0.000818323161406
+maintained method::0.000818323161406
+intersections figure::0.000818323161406
+incorporating negative::0.000818323161406
+30dbm 1watt::0.000818323161406
+magazine 4(5):42–47::0.000818323161406
+stringent latency::0.000818323161406
+nature raises::0.000818323161406
+22(6):46–57 june::0.000818323161406
+automation 11(3):328–342::0.000818323161406
+identification technologies::0.000818323161406
+reduced computational::0.000818323161406
+algorithm incorporates::0.000818323161406
+fast ferret::0.000818323161406
+locate refine::0.000818323161406
+final projection::0.000818323161406
+offline systems::0.000818323161406
+circle online::0.000818323161406
+human-driven applications::0.000818323161406
+readings yielding::0.000818323161406
+locationing abilities::0.000818323161406
+location region::0.000818323161406
+low-cost identification::0.000818323161406
+head-on z-line::0.000818323161406
+orientation-insensitive tag::0.000818323161406
+important direction::0.000818323161406
+figure 6(c::0.000818323161406
+pictorial representation::0.000818323161406
+liu mark::0.000818323161406
+passive devices::0.000818323161406
+dimensional grid::0.000818323161406
+performs intersections::0.000818323161406
+standard orientation-insensitive::0.000818323161406
+online version::0.000818323161406
+fishkin et.al::0.000818323161406
+compass similar::0.000818323161406
+ferret samples::0.000818323161406
+ferret subtracts::0.000818323161406
+uncertainty region::0.000818323161406
+costs 6ms::0.000818323161406
+information sharing::0.000818323161406
+tags’ locations—the::0.000818323161406
+178k bytes—each::0.000818323161406
+passive nature::0.000818323161406
+offline volume::0.000818323161406
+patterns references::0.000818323161406
+movements straight::0.000818323161406
+object—this greatly::0.000818323161406
+x|{d1::0.000818323161406
+imaging technologies::0.000818323161406
+ferret reader::0.000818323161406
+locations infrequently::0.000818323161406
+movement hähnel::0.000818323161406
+generate offline::0.000818323161406
+tags continue::0.000818323161406
+adds locationing::0.000818323161406
+incorporating motion::0.000818323161406
+frames-per-second fig::0.000818323161406
+vast majority—in::0.000818323161406
+digital camcorders::0.000818323161406
+11(3):328–342 june::0.000818323161406
+mcorner shenoy}@cs.umass.edu::0.000818323161406
+produce::0.000816738729704
+real-time::0.000809054151775
+fig::0.000809054151775
+ultrasound::0.000801011557969
+rfid technology::0.000780593318012
+location estimates::0.000778626703884
+university of massachusetts::0.000777551914923
+system to estimate::0.000777551914923
+set of readings::0.000777551914923
+three-dimensional::0.000777551914923
+position and orientation::0.000777551914923
+conference on robotics::0.000777551914923
+principles and practice::0.000777551914923
+balakrishnan the cricket::0.000777551914923
+positive and negative::0.000777551914923
+notion::0.000777551914923
+localization with rfid::0.000777551914923
+passive::0.000772342824582
+straight::0.000764791404356
+requirements::0.000764646036466
+move::0.000749715198445
+describing::0.000740296663097
+greatly::0.000732549798263
+user’s::0.000732549798263
+computational::0.000732549798263
+operations::0.000730577101806
+history::0.000730577101806
+ieee personal communications::0.000729593794742
+option::0.000729593794742
+fishkin::0.000729593794742
+queried::0.000729593794742
+fox w burgard::0.000729593794742
+cmos-based camera::0.000721240650187
+reader’s rfid::0.000721240650187
+resulting intersection::0.000721240650187
+reader covers::0.000721240650187
+combine multiple::0.000721240650187
+elegant technique::0.000721240650187
+tag ferret::0.000721240650187
+postulated area::0.000721240650187
+object motion::0.000721240650187
+ferret’s locationing::0.000721240650187
+finally ferret::0.000721240650187
+past history::0.000721240650187
+future antennas::0.000721240650187
+estimation ferret::0.000721240650187
+ferret produces::0.000721240650187
+map shown::0.000721240650187
+mobile readers;::0.000721240650187
+systems support::0.000721240650187
+volume leaving::0.000721240650187
+simplified version::0.000721240650187
+pervasive systems::0.000721240650187
+patterns shown::0.000721240650187
+combining multiple::0.000721240650187
+applications fishkin::0.000721240650187
+past locations::0.000721240650187
+database ferret::0.000721240650187
+ferret’s location::0.000721240650187
+lower probabilities::0.000721240650187
+negative region::0.000721240650187
+manually verify::0.000721240650187
+pessimistic view::0.000721240650187
+negative regions::0.000721240650187
+icra’05 april::0.000721240650187
+update store::0.000721240650187
+robotic navigation::0.000721240650187
+additionally describing::0.000721240650187
+convex shape::0.000721240650187
+human interactions::0.000721240650187
+process occurs::0.000721240650187
+world-coordinate system::0.000721240650187
+resulting maps::0.000721240650187
+sparton sp3003d::0.000721240650187
+0.01::0.000721240650187
+camera’s ccd::0.000721240650187
+representation results::0.000721240650187
+common coordinate::0.000721240650187
+individual locations::0.000721240650187
+active battery::0.000721240650187
+move infrequently::0.000721240650187
+features make::0.000721240650187
+volume excessively::0.000721240650187
+plane area::0.000721240650187
+tags simultaneously::0.000721240650187
+reader coordinate::0.000721240650187
+force long-range::0.000721240650187
+line segment::0.000721240650187
+abilities::0.000721240650187
+raw laser::0.000721240650187
+evaluated ferret::0.000721240650187
+ferret algorithm::0.000721240650187
+two-dimensional projection::0.000721240650187
+manually calibrated::0.000721240650187
+thingmagic monostatic::0.000721240650187
+algorithm costs::0.000721240650187
+deployed cricket::0.000721240650187
+tags custom-built::0.000721240650187
+philipose mapping::0.000721240650187
+detect 100%::0.000721240650187
+objects waving::0.000721240650187
+intersecting positive::0.000721240650187
+produce fewer::0.000721240650187
+navigation ieee::0.000721240650187
+individual object::0.000721240650187
+prototype moves::0.000721240650187
+compression tool::0.000721240650187
+detection ferret::0.000721240650187
+successive reading::0.000721240650187
+move infrequently—commonly::0.000721240650187
+focused radiation::0.000721240650187
+immediately project::0.000721240650187
+greatly simplified::0.000721240650187
+performs similarly::0.000721240650187
+precise representation::0.000721240650187
+numerous locationing::0.000721240650187
+building map::0.000721240650187
+maximum dimensions::0.000721240650187
+camera’s optical::0.000721240650187
+progressively narrow::0.000721240650187
+100% 100%::0.000721240650187
+region relative::0.000721240650187
+captured image::0.000721240650187
+monotonically decreases::0.000721240650187
+orientation assuming::0.000721240650187
+readers landmarc::0.000721240650187
+balloon shaped::0.000721240650187
+step places::0.000721240650187
+regions directly::0.000721240650187
+z-shaped line::0.000721240650187
+icra’99 detroit::0.000721240650187
+tag operating::0.000721240650187
+monostatic circular::0.000721240650187
+ferret projects::0.000721240650187
+estimate tag’s::0.000721240650187
+reader emits::0.000721240650187
+leaving out::0.000721240650187
+threshold step::0.000721240650187
+storage-poor tags::0.000721240650187
+approach employed::0.000721240650187
+unobtrusively detect::0.000721240650187
+online locationing::0.000721240650187
+limited battery::0.000721240650187
+continuously collects::0.000721240650187
+previous results::0.000721240650187
+concave region::0.000721240650187
+maps ferret::0.000721240650187
+movement patterns;::0.000721240650187
+quickly ferret::0.000721240650187
+performance advantage::0.000721240650187
+key limitation::0.000721240650187
+et.al::0.000721240650187
+storage costs::0.000721240650187
+aids ferret’s::0.000721240650187
+postulated location::0.000721240650187
+higher probabilities::0.000721240650187
+disjoint spaces::0.000721240650187
+uncontrolled mobility::0.000721240650187
+implementation considerations::0.000721240650187
+lens orientation::0.000721240650187
+pixel diameter::0.000721240650187
+location storage::0.000721240650187
+privacy controls::0.000721240650187
+coverage regions::0.000721240650187
+choi object::0.000721240650187
+powered rfid::0.000721240650187
+straightforward intersect::0.000721240650187
+collects readings::0.000721240650187
+discover update::0.000721240650187
+locationing accuracy::0.000721240650187
+method ferret::0.000721240650187
+negative assertions::0.000721240650187
+constantly updated::0.000721240650187
+shows sample::0.000721240650187
+likelihood thresholds::0.000721240650187
+cricket beacons::0.000721240650187
+robots equipped::0.000721240650187
+reality users::0.000721240650187
+central database::0.000721240650187
+produces smaller::0.000721240650187
+manual inspection::0.000721240650187
+involves projecting::0.000721240650187
+motion eye::0.000721240650187
+continuously calculate::0.000721240650187
+large-scale cyclic::0.000721240650187
+small set::0.000721240650187
+steps thresholding::0.000721240650187
+variable radiation::0.000721240650187
+fully working::0.000721240650187
+values extending::0.000721240650187
+rotating objects::0.000721240650187
+critical factor::0.000721240650187
+dimensional display::0.000721240650187
+clothing food::0.000721240650187
+region shrinking::0.000721240650187
+estimation versus::0.000721240650187
+map ferret::0.000721240650187
+first half::0.000721240650187
+dimensions correspond::0.000721240650187
+developed rfid-based::0.000721240650187
+inventory tracking::0.000721240650187
+case ferret::0.000721240650187
+systems tois::0.000721240650187
+tags respond::0.000721240650187
+quickly locate::0.000721240650187
+room equipped::0.000721240650187
+automation icra’99::0.000721240650187
+video recording::0.000721240650187
+imprecise readings::0.000721240650187
+tag’s nearness::0.000721240650187
+space required::0.000721240650187
+projection areas::0.000721240650187
+ferret automatically::0.000721240650187
+require battery::0.000721240650187
+writable tags::0.000721240650187
+infrequently—commonly referred::0.000721240650187
+volume monotonically::0.000721240650187
+developed union::0.000721240650187
+ferret encounters::0.000721240650187
+experiments ferret::0.000721240650187
+experiment ten::0.000721240650187
+ferret’s ability::0.000721240650187
+camera’s current::0.000721240650187
+system fig::0.000721240650187
+xiaotao liu::0.000721240650187
+smaller spatial::0.000721240650187
+positives additionally::0.000721240650187
+previous experiment::0.000721240650187
+hughes computer::0.000721240650187
+subsequently display::0.000721240650187
+camera records::0.000721240650187
+95% chance::0.000721240650187
+point-view constantly::0.000721240650187
+virtually eliminates::0.000721240650187
+ferret assumes::0.000721240650187
+tunable parameter::0.000721240650187
+employed laser-based::0.000721240650187
+longer range;::0.000721240650187
+expensive robot::0.000721240650187
+build accurate::0.000721240650187
+region intersecting::0.000721240650187
+fewer positive::0.000721240650187
+80% 80%::0.000721240650187
+first location::0.000721240650187
+limited lifetime::0.000721240650187
+individual patterns::0.000721240650187
+ferret’s error::0.000721240650187
+object intuitively::0.000721240650187
+addison-wesley professional::0.000721240650187
+empty location::0.000721240650187
+ferret reduces::0.000721240650187
+experiments averaged::0.000721240650187
+moves straight::0.000721240650187
+semi-repeatable motion::0.000721240650187
+system performed::0.000721240650187
+balloon-shaped region::0.000721240650187
+estimation drops::0.000721240650187
+80% projection::0.000721240650187
+storage requirement::0.000721240650187
+stored location::0.000721240650187
+requires readers::0.000721240650187
+antenna choice::0.000721240650187
+reading choosing::0.000721240650187
+similar regions::0.000721240650187
+inexpensive nature::0.000721240650187
+captured video::0.000721240650187
+detected object::0.000721240650187
+tag consists::0.000721240650187
+measure ferret’s::0.000721240650187
+implement ferret::0.000721240650187
+long-range detection::0.000721240650187
+imagine::0.000721240650187
+display ferret::0.000721240650187
+location likelihood::0.000721240650187
+union tag::0.000721240650187
+reading additionally::0.000721240650187
+absolute orientation::0.000721240650187
+optical axis::0.000721240650187
+sp3003d digital::0.000721240650187
+separate pieces::0.000721240650187
+move erratically;::0.000721240650187
+vaio laptop::0.000721240650187
+require specific::0.000721240650187
+dimensions extending::0.000721240650187
+long histories::0.000721240650187
+contrast ferret::0.000721240650187
+rfid locationing::0.000721240650187
+greatly aids::0.000721240650187
+probability describing::0.000721240650187
+objects contained::0.000721240650187
+rfid reader;::0.000721240650187
+performed poorly::0.000721240650187
+reader reaches::0.000721240650187
+detecting translation-only::0.000721240650187
+mobile system::0.000721240650187
+ferret begins::0.000721240650187
+room ferret::0.000721240650187
+circular antenna::0.000721240650187
+movement pattern::0.000721240650187
+evaluation shows::0.000721240650187
+full representation::0.000721240650187
+diagram shows::0.000721240650187
+smaller discrete::0.000721240650187
+missing object::0.000721240650187
+line intersections::0.000721240650187
+irregular shape::0.000721240650187
+camera’s display::0.000721240650187
+fastslam algorithm::0.000721240650187
+commercial version::0.000721240650187
+reading multiplies::0.000721240650187
+combined tags::0.000721240650187
+cubic tag::0.000721240650187
+rate ferret::0.000721240650187
+time starts::0.000721240650187
+device moves::0.000721240650187
+video stream::0.000721240650187
+ferret receives::0.000721240650187
+interesting questions::0.000721240650187
+deploys multiple::0.000721240650187
+ferret repeats::0.000721240650187
+indoor locationing::0.000721240650187
+technology ideal::0.000721240650187
+segment representation::0.000721240650187
+supports rfid::0.000721240650187
+similar relationship::0.000721240650187
+determine object::0.000721240650187
+ferret rotates::0.000721240650187
+tool gzip::0.000721240650187
+compressible::0.000721240650187
+orientation-insensitive::0.000721240650187
+store long::0.000721240650187
+narrower beam::0.000721240650187
+mobility effects::0.000721240650187
+beacons mounted::0.000721240650187
+starting coverage::0.000721240650187
+real-time updates::0.000721240650187
+sony motion::0.000721240650187
+consumer devices::0.000721240650187
+time—with prior::0.000721240650187
+probability greater::0.000721240650187
+object alerts::0.000721240650187
+ferret’s precision::0.000721240650187
+ccd sensor::0.000721240650187
+translation-only movement::0.000721240650187
+ferret continuously::0.000721240650187
+evaluated ferret’s::0.000721240650187
+web-camera connected::0.000721240650187
+centralized database::0.000721240650187
+eye web-camera::0.000721240650187
+100% object::0.000721240650187
+detect rotations::0.000721240650187
+antenna’s movement::0.000721240650187
+resulting region::0.000721240650187
+vicinity—the reader::0.000721240650187
+shaped radiation::0.000721240650187
+proactively generate::0.000721240650187
+patterns affect::0.000721240650187
+concave::0.000721240650187
+nomadic objects—objects::0.000721240650187
+providing initial::0.000721240650187
+nearness::0.000721240650187
+line tangential::0.000721240650187
+expensive battery-powered::0.000721240650187
+circle ferret::0.000721240650187
+robot perception::0.000721240650187
+100% probability::0.000721240650187
+ibm x40::0.000721240650187
+reader’s range::0.000721240650187
+user switches::0.000721240650187
+camera lens::0.000721240650187
+energy efficient::0.000721240650187
+ferret moving::0.000721240650187
+threshold increase::0.000721240650187
+orientation radial::0.000721240650187
+mobicom’00 boston::0.000721240650187
+multiple power::0.000721240650187
+prototype shows::0.000721240650187
+ferret incorrectly::0.000721240650187
+coverage maps::0.000721240650187
+area versus::0.000721240650187
+mobility pattern::0.000721240650187
+minimum likelihood::0.000721240650187
+books clothing::0.000721240650187
+diameter circle::0.000721240650187
+antenna data::0.000721240650187
+self-identifying::0.000721240650187
+online ferret::0.000721240650187
+system intersects::0.000721240650187
+move frequently::0.000721240650187
+previous knowledge::0.000721240650187
+focal length::0.000721240650187
+monotonically decrease::0.000721240650187
+total volume::0.000721240650187
+moving tags::0.000721240650187
+battery-powered sensors::0.000721240650187
+z−line rfid::0.000721240650187
+ferret displays::0.000721240650187
+previous readings::0.000721240650187
+generating maps::0.000721240650187
+orientations pan::0.000721240650187
+dynamically discover::0.000721240650187
+incurs small::0.000721240650187
+previously postulated::0.000721240650187
+moved object::0.000721240650187
+reading indicates::0.000721240650187
+reduced representation::0.000721240650187
+smaller commercial::0.000721240650187
+continually improve::0.000721240650187
+x40 laptop::0.000721240650187
+future rfid::0.000721240650187
+cyclic environments::0.000721240650187
+graphics principles::0.000721240650187
+smallest volume::0.000721240650187
+iccas’05 june::0.000721240650187
+display object::0.000721240650187
+applications dealing::0.000721240650187
+database storage::0.000721240650187
+smaller volumes::0.000721240650187
+run online::0.000721240650187
+volume volume::0.000721240650187
+translation rotation::0.000721240650187
+object’s location—this::0.000721240650187
+volume encompassing::0.000721240650187
+uni-directional antenna::0.000721240650187
+tags read::0.000721240650187
+evaluate ferret::0.000721240650187
+video plane::0.000721240650187
+mercury4 rfid::0.000721240650187
+object’s rfid::0.000721240650187
+reader performance::0.000721240650187
+distance exceeds::0.000721240650187
+incorrectly shrinks::0.000721240650187
+area ferret::0.000721240650187
+cricket ultrasound::0.000721240650187
+make passive::0.000721240650187
+reader facing::0.000721240650187
+thingmagic mercury4::0.000721240650187
+intersects::0.000721240650187
+ferret exploits::0.000721240650187
+generally cover::0.000721240650187
+z-line::0.000721240650187
+small overhead::0.000721240650187
+stations landmarc::0.000721240650187
+laser-range::0.000721240650187
+robot-controlled uni-directional::0.000721240650187
+mobile device::0.000712154228839
+location::0.000706400799889
+recording::0.000704808588319
+cricket::0.00070061988381
+detect::0.000696164112842
+segments::0.000687291734767
+perimeter::0.000687291734767
+maintained::0.000687291734767
+national science foundation::0.000687291734767
+experimental results show::0.000687291734767
+system acm transactions::0.000687291734767
+gibbons the active::0.000687291734767
+future research::0.000671769981119
+monte carlo::0.000671769981119
+tagged::0.000670049108458
+instance::0.000667509631641
+line::0.000665061418274
+work researchers::0.000652359512284
+user selects::0.000652359512284
+lower power::0.000652359512284
+key insight::0.000652359512284
+locationsupport system::0.000652359512284
+previous user::0.000652359512284
+alien technology::0.000652359512284
+laser-based fastslam::0.000652359512284
+linear antenna::0.000652359512284
+static objects::0.000652359512284
+strength technical::0.000652359512284
+food items::0.000652359512284
+object recognition::0.000652359512284
+20cm::0.000652359512284
+battery powered::0.000652359512284
+cricket locationsupport::0.000652359512284
+probable location::0.000652359512284
+misplaced::0.000652359512284
+practical experiments::0.000652359512284
+evaluation section::0.000652359512284
+change locations::0.000652359512284
+initial knowledge::0.000652359512284
+detect movement::0.000652359512284
+frequency range::0.000652359512284
+pan tilt::0.000652359512284
+rfid reading::0.000652359512284
+fastslam::0.000652359512284
+online location::0.000652359512284
+shenoy department::0.000652359512284
+iso 18000-6b::0.000652359512284
+technology ieee::0.000652359512284
+range measurements::0.000652359512284
+ultrasound system::0.000652359512284
+projected::0.000652359512284
+sensor size::0.000652359512284
+detailed performance::0.000652359512284
+sony vaio::0.000652359512284
+working prototype::0.000652359512284
+generate missing::0.000652359512284
+tag’s distance::0.000652359512284
+relative orientation::0.000652359512284
+accurately localize::0.000652359512284
+continuous stream::0.000652359512284
+robot system::0.000652359512284
+thrun monte::0.000652359512284
+experiment showed::0.000652359512284
+track multiple::0.000652359512284
+foreseeable future::0.000652359512284
+discrete motion::0.000652359512284
+100% 80%::0.000652359512284
+nsf grants::0.000652359512284
+ultra-wide band::0.000652359512284
+disjoint::0.000652359512284
+battery power::0.000652359512284
+human movements::0.000652359512284
+reader operates::0.000652359512284
+50% probability::0.000652359512284
+algorithm performance::0.000652359512284
+identities::0.000652359512284
+ten times::0.000652359512284
+location errors::0.000652359512284
+rotating::0.000649451252668
+spoton an indoor::0.000649451252668
+computer science university::0.000649451252668
+transactions on robotics::0.000649451252668
+localization for mobile::0.000649451252668
+chance::0.000649451252668
+readers::0.000648281249552
+user::0.000641974965402
+plane::0.000640864428078
+straightforward::0.000640864428078
+rfid tag::0.000640726473821
+infer::0.000638304457351
+pervasive::0.000631335958
+pattern::0.00062978810679
+80%::0.000615220372815
+ieee pervasive computing::0.000615220372815
+leverages::0.000615220372815
+location system acm::0.000615220372815
+searching::0.000615220372815
+motion::0.000612554047278
+large number::0.000612554047278
+false::0.000611833123485
+contrast::0.000610458165219
+performance::0.000608186809328
+incurs::0.000598931150901
+basic algorithm::0.000598931150901
+realtime::0.000598931150901
+rfid-based indoor::0.000598931150901
+data sheet::0.000598931150901
+roll::0.000598931150901
+monotonically::0.000598931150901
+moving direction::0.000598931150901
+non-zero::0.000598931150901
+remotely::0.000598931150901
+detection probability::0.000598931150901
+office ieee::0.000598931150901
+ideal conditions::0.000598931150901
+computationally intensive::0.000598931150901
+motion detection::0.000598931150901
+large volumes::0.000598931150901
+objects moving::0.000598931150901
+algorithm outperforms::0.000598931150901
+range;::0.000598931150901
+laptop equipped::0.000598931150901
+similar performance::0.000598931150901
+figure shows::0.000598931150901
+greatly reduced::0.000598931150901
+equipping::0.000598931150901
+algorithm performs::0.000598931150901
+human activities::0.000598931150901
+tag readings::0.000598931150901
+read tags::0.000598931150901
+additional knowledge::0.000598931150901
+multiple positions::0.000598931150901
+barcodes::0.000598931150901
+shrinks::0.000598931150901
+radiation patterns::0.000598931150901
+proposed system::0.000598931150901
+weighted sum::0.000598931150901
+grids::0.000598931150901
+bookshelf::0.000598931150901
+2.5m::0.000598931150901
+active office::0.000598931150901
+badge location system::0.000583970027913
+corner::0.000583970027913
+inertial::0.000583970027913
+hopper v falcao::0.000583970027913
+compass::0.000583970027913
+rotation::0.000583970027913
+priyantha a chakraborty::0.000583970027913
+dimensions::0.000583849903175
+reduces::0.000583849903175
+minutes::0.000583849903175
+rate::0.000570767576874
+deal::0.00055857051838
+robot::0.000558374257049
+exact location::0.000555277001064
+false positives::0.000555277001064
+paper presents::0.000555277001064
+tracking tag’s::0.000555277001064
+algorithm requires::0.000555277001064
+infrequently::0.000555277001064
+90% probability::0.000555277001064
+dealing::0.000555277001064
+tilt::0.000555277001064
+drastically::0.000555277001064
+60%::0.000555277001064
+initial location::0.000555277001064
+translating::0.000555277001064
+tracks::0.000555277001064
+distance measurement::0.000555277001064
+translation::0.000555277001064
+patil landmarc::0.000555277001064
+00-02-02 university::0.000555277001064
+relative locations::0.000555277001064
+section presents::0.000555277001064
+associates::0.000555277001064
+occupancy::0.000555277001064
+reading range::0.000555277001064
+location figure::0.000555277001064
+single tag::0.000555277001064
+conditional probability::0.000555277001064
+normalization factor::0.000555277001064
+transactions on information::0.000555222497323
+augmented::0.000555222497323
+describe::0.000540639977208
+moving::0.000538681140161
+series::0.000533938728185
+capabilities::0.000533938728185
+show::0.0005306292903
+landmarc indoor location::0.00052860644124
+incorporate::0.00052860644124
+∗::0.00052860644124
+burgard::0.00052860644124
+40%::0.000518367943282
+increasing number::0.000518367943282
+tracking applications::0.000518367943282
+prashant shenoy::0.000518367943282
+philipose::0.000518367943282
+displays::0.000518367943282
+mobile objects::0.000518367943282
+rfid antenna::0.000518367943282
+proposed technique::0.000518367943282
+users move::0.000518367943282
+imprecise::0.000518367943282
+response rate::0.000518367943282
+massachusetts amherst::0.000518367943282
+experiments conducted::0.000518367943282
+sony::0.000518367943282
+volumes::0.000518367943282
+past::0.00051064356588
+rfid system::0.00051064356588
+sensing technology based::0.000503827485839
+epc::0.000503827485839
+fox::0.000503827485839
+relation::0.000503827485839
+empty::0.000503827485839
+location sensing technology::0.000503827485839
+manually::0.000503827485839
+indoor 3d location::0.000503827485839
+book::0.000503827485839
+cns-0447877::0.000492143405264
+location system::0.000488366532175
+robots::0.000488366532175
+base stations::0.000488366532175
+nature::0.000487870823757
+locating::0.000487870823757
+dimensional space::0.000486395863161
+post-processing::0.000486395863161
+multiple readers::0.000486395863161
+band uwb::0.000486395863161
+sensor readings::0.000486395863161
+power source::0.000486395863161
+thingmagic::0.000486395863161
+experimental setup::0.000486395863161
+location technique::0.000486395863161
+augmented reality::0.000486395863161
+signal received::0.000486395863161
+read::0.000486210937164
+plot::0.000480648321058
+pages::0.000480648321058
+supported in part::0.000480648321058
+university of washington::0.000480648321058
+estimate the location::0.000480648321058
+operate::0.00046707992254
+−::0.000466101612593
+shape::0.000458874842614
+radiation::0.000458874842614
+prior knowledge::0.000458194489845
+mobile user::0.000458194489845
+incorporating::0.000458194489845
+localization approach::0.000458194489845
+computational cost::0.000458194489845
+discover::0.000458194489845
+borriello spoton::0.000458194489845
+national science::0.000458194489845
+computationally::0.000458194489845
+shenoy::0.000458194489845
+options::0.000458194489845
+rfid-tagged::0.000458194489845
+ieee personal::0.000458194489845
+laser range::0.000458194489845
+output power::0.000458194489845
+interactions::0.000458194489845
+intersections::0.000458194489845
+human::0.000445096393025
+equipped::0.000445096393025
+sample::0.000441302264604
+knowledge::0.000441302264604
+multiple::0.000439246028959
+movements::0.000438346261084
+landmarc::0.000438346261084
+localize::0.000438346261084
+incorporates::0.000432967501779
+extending::0.000432967501779
+screen::0.000432967501779
+grants::0.000432967501779
+science foundation::0.000432967501779
+leaving::0.000432967501779
+segment::0.000432967501779
+robotic::0.000432967501779
+goal::0.000427150982548
+noisy::0.000427150982548
+performs::0.000424803353592
+locations::0.000423177865517
+locate::0.000418974220125
+reduce::0.000418974220125
+sensing using active::0.000418927888785
+personal communications::0.00041014691521
+transform::0.00041014691521
+adds::0.00041014691521
+system acm::0.00041014691521
+locally::0.00041014691521
+pan::0.00041014691521
+processor::0.00041014691521
+scanner::0.00041014691521
+high probability::0.00041014691521
+cdf::0.00041014691521
+outperforms::0.00041014691521
+continue::0.00041014691521
+ran::0.00041014691521
+nega::0.000409161580703
+object—a::0.000409161580703
+space—with::0.000409161580703
+subtracts::0.000409161580703
+0.0112m3::0.000409161580703
+0.01m3::0.000409161580703
+constant;::0.000409161580703
+reconciled::0.000409161580703
+predicated::0.000409161580703
+hähnel’s::0.000409161580703
+xiaotaol::0.000409161580703
+1.74m—this::0.000409161580703
+“randomly”::0.000409161580703
+readings—most::0.000409161580703
+stringent::0.000409161580703
+readings—when::0.000409161580703
+float::0.000409161580703
+objects;::0.000409161580703
+11(3):328–342::0.000409161580703
+250k::0.000409161580703
+vision-based::0.000409161580703
+eia-0098060::0.000409161580703
+modulation;::0.000409161580703
+elfes’s::0.000409161580703
+pictorial::0.000409161580703
+ferret-based::0.000409161580703
+needing::0.000409161580703
+orientation-sensitive::0.000409161580703
+majority—in::0.000409161580703
+object—this::0.000409161580703
+26.7cm::0.000409161580703
+407–417::0.000409161580703
+57.6cm::0.000409161580703
+postulate::0.000409161580703
+intense::0.000409161580703
+unmanageable::0.000409161580703
+tives::0.000409161580703
+elfes::0.000409161580703
+human-driven::0.000409161580703
+probability—objects::0.000409161580703
+batteries—making::0.000409161580703
+mcorner::0.000409161580703
+749.32ms::0.000409161580703
+messy::0.000409161580703
+1.74m::0.000409161580703
+location—as::0.000409161580703
+more;::0.000409161580703
+trends—the::0.000409161580703
+l—::0.000409161580703
+0.02m3::0.000409161580703
+22(6):46–57::0.000409161580703
+multimedia?::0.000409161580703
+0.0108m3::0.000409161580703
+0.0104m3::0.000409161580703
+straightforward;::0.000409161580703
+1watt::0.000409161580703
+320x240::0.000409161580703
+2.4mm::0.000409161580703
+x.liu::0.000409161580703
+back-annotate::0.000409161580703
+“m”::0.000409161580703
+1.5ghz::0.000409161580703
+10(1):91–102::0.000409161580703
+straight-forward::0.000409161580703
+0.0116m3::0.000409161580703
+06-22::0.000409161580703
+january–march::0.000409161580703
+5cm::0.000409161580703
+5(1):25–::0.000409161580703
+non-intuitive::0.000409161580703
+nomadic—as::0.000409161580703
+pentiumm::0.000409161580703
+256∗174∗2::0.000409161580703
+threedimensional::0.000409161580703
+—this::0.000409161580703
+1.8mm::0.000409161580703
+0.0100m3::0.000409161580703
+2.75mm::0.000409161580703
+form-factor::0.000409161580703
+senses::0.000409161580703
+0.0102m3::0.000409161580703
+devices—enables::0.000409161580703
+cns-0219520::0.000409161580703
+928mhz::0.000409161580703
+locations—the::0.000409161580703
+device—::0.000409161580703
+localization system::0.000408369364852
+movement::0.00040517578097
+antenna::0.000404160814136
+changing::0.000400505778985
+active badge location::0.000400505778985
+indoor location sensing::0.000400505778985
+quickly::0.000390296659006
+localization technique::0.000389313351942
+conduct::0.000389313351942
+transformation::0.000389313351942
+fraction::0.000389313351942
+performance evaluation::0.000389313351942
+opposed::0.000389313351942
+verify::0.000389313351942
+signal attenuation::0.000389313351942
+battery life::0.000389313351942
+20%::0.000389313351942
+centroid::0.000389313351942
+handheld::0.000389313351942
+ieee pervasive::0.000389313351942
+localization::0.000376758498302
+size::0.000376758498302
+location sensing::0.000372881290075
+choose::0.000372881290075
+distance measurements::0.000370148331548
+large amount::0.000370148331548
+subsequently::0.000370148331548
+communications magazine::0.000370148331548
+repeat::0.000370148331548
+thrun::0.000370148331548
+june::0.000366274899131
+demonstrate::0.000366274899131
+figure::0.000364398411904
+iros’03::0.000360620325093
+tangential::0.000360620325093
+mercury4::0.000360620325093
+encompassing::0.000360620325093
+semi-repeatable::0.000360620325093
+icra’99::0.000360620325093
+coffee::0.000360620325093
+camera;::0.000360620325093
+plentiful::0.000360620325093
+206–211::0.000360620325093
+overlays::0.000360620325093
+ferret—in::0.000360620325093
+z−line::0.000360620325093
+translation-only::0.000360620325093
+pessimistic::0.000360620325093
+vicinity—the::0.000360620325093
+objects—objects::0.000360620325093
+reader;::0.000360620325093
+reinitializes::0.000360620325093
+eventual::0.000360620325093
+readings;::0.000360620325093
+soup::0.000360620325093
+head−on::0.000360620325093
+bytes—each::0.000360620325093
+infrastructural::0.000360620325093
+infrequently—commonly::0.000360620325093
+cmos-based::0.000360620325093
+sparton::0.000360620325093
+multiplies::0.000360620325093
+attaching::0.000360620325093
+reinitialize::0.000360620325093
+hughes::0.000360620325093
+cns-052072::0.000360620325093
+ccd::0.000360620325093
+erratically;::0.000360620325093
+rewritable::0.000360620325093
+monostatic::0.000360620325093
+shrinking::0.000360620325093
+268–282::0.000360620325093
+world-coordinate::0.000360620325093
+dollar::0.000360620325093
+co-linear::0.000360620325093
+outperforming::0.000360620325093
+location—this::0.000360620325093
+x40::0.000360620325093
+icra’05::0.000360620325093
+algebra::0.000360620325093
+imaging::0.000360620325093
+confluence::0.000360620325093
+didn’t::0.000360620325093
+doubles::0.000360620325093
+ubicomp’04::0.000360620325093
+focal::0.000360620325093
+tois::0.000360620325093
+shenoy}@cs.umass.edu::0.000360620325093
+25cm::0.000360620325093
+foley::0.000360620325093
+point-view::0.000360620325093
+camcorders::0.000360620325093
+proposition::0.000360620325093
+percom’03::0.000360620325093
+frames-per-second::0.000360620325093
+sp3003d::0.000360620325093
+7.5%::0.000360620325093
+hardware—there::0.000360620325093
+z-shaped::0.000360620325093
+hurdles::0.000360620325093
+balloon-shaped::0.000360620325093
+uni-directional::0.000360620325093
+200cm::0.000360620325093
+xiaotao::0.000360620325093
+waving::0.000360620325093
+6ms::0.000360620325093
+feiner::0.000360620325093
+storage-poor::0.000360620325093
+intersected::0.000360620325093
+time—with::0.000360620325093
+uncompressed::0.000360620325093
+writable::0.000360620325093
+patterns;::0.000360620325093
+web-camera::0.000360620325093
+narrower::0.000360620325093
+yaw::0.000360620325093
+overestimated::0.000360620325093
+directionality::0.000360620325093
+iccas’05::0.000360620325093
+balloon::0.000360620325093
+cellphones::0.000360620325093
+likely—once::0.000360620325093
+readers;::0.000360620325093
+6(c::0.000360620325093
+preclude::0.000360620325093
+hundredths::0.000360620325093
+robot-controlled::0.000360620325093
+barshan::0.000360620325093
+fuses::0.000360620325093
+orientation;::0.000360620325093
+errors::0.000357432535271
+track::0.00035607711442
+alternative::0.00035607711442
+proceedings::0.000353640712369
+vicinity::0.00035240429416
+captured::0.00035240429416
+moving objects::0.00035240429416
+october::0.00035240429416
+landmarc indoor::0.00035240429416
+ieee international conference::0.000350309941905
+privacy::0.000350309941905
+static::0.00034988228155
+device::0.000343348364312
+complexity::0.000339842682874
+technique::0.000337881560738
+possibility::0.000335884990559
+laptop::0.000335884990559
+location accuracy::0.000335884990559
+orientations::0.000335884990559
+monte::0.000335884990559
+science university::0.000335884990559
+sensing technology::0.000335884990559
+storing::0.000335884990559
+carlo::0.000335884990559
+spoton::0.000335884990559
+front::0.000335884990559
+unique identifier::0.000335884990559
+department of computer::0.000335024554229
+elegant::0.000326179756142
+household::0.000326179756142
+detroit::0.000326179756142
+ultra-wide::0.000326179756142
+vaio::0.000326179756142
+incorrectly::0.000326179756142
+gzip::0.000326179756142
+rotates::0.000326179756142
+modulate::0.000326179756142
+read-only::0.000326179756142
+alerts::0.000326179756142
+roh::0.000326179756142
+trial::0.000326179756142
+believes::0.000326179756142
+pitch::0.000326179756142
+encompasses::0.000326179756142
+4(5):42–47::0.000326179756142
+battery-free::0.000326179756142
+assertions::0.000326179756142
+encounters::0.000326179756142
+proactively::0.000326179756142
+aids::0.000326179756142
+locationsupport::0.000326179756142
+path;::0.000326179756142
+arc::0.000326179756142
+laser-based::0.000326179756142
+excessively::0.000326179756142
+proximate::0.000326179756142
+object;::0.000326179756142
+915mhz::0.000326179756142
+0.4::0.000326179756142
+dam::0.000326179756142
+eases::0.000326179756142
+mobicom’00::0.000326179756142
+repeats::0.000326179756142
+unobtrusively::0.000326179756142
+nonzero::0.000326179756142
+cognition::0.000326179756142
+foreseeable::0.000326179756142
+2.5%::0.000326179756142
+union::0.000326179756142
+custom-built::0.000326179756142
+18000-6b::0.000326179756142
+smaller::0.000324140624776
+acm transactions::0.000320432214039
+ideal::0.000320432214039
+uwb::0.000320432214039
+wide variety::0.000320432214039
+additionally::0.000320432214039
+class::0.000320363236911
+resulting::0.000315667979
+error::0.000315623295333
+moved::0.000306277023639
+costs::0.000306277023639
+generate::0.000306277023639
+run::0.000306277023639
+record::0.000306277023639
+battery::0.000306277023639
+inherent::0.000305916561742
+scalable::0.000305916561742
+ceiling::0.000305916561742
+active rfid::0.000305916561742
+query::0.000305916561742
+keeping::0.000305916561742
+ieee computer::0.000305916561742
+equally::0.000305916561742
+two-dimensional::0.000299465575451
+vast::0.000299465575451
+highlights::0.000299465575451
+pinpointing::0.000299465575451
+tunable::0.000299465575451
+continually::0.000299465575451
+balance::0.000299465575451
+posed::0.000299465575451
+rotations::0.000299465575451
+initializes::0.000299465575451
+thresholds::0.000299465575451
+sheet::0.000299465575451
+histories::0.000299465575451
+replacement::0.000299465575451
+shrink::0.000299465575451
+strictly::0.000299465575451
+laptops::0.000299465575451
+eye::0.000299465575451
+thresholding::0.000299465575451
+offsets::0.000299465575451
+reliance::0.000299465575451
+rotate::0.000299465575451
+negatives::0.000299465575451
+paired::0.000299465575451
+inspection::0.000299465575451
+scales::0.000299465575451
+x,y,z::0.000299465575451
+pixel::0.000299465575451
+dollars::0.000299465575451
+30dbm::0.000299465575451
+tune::0.000299465575451
+proof::0.000299465575451
+spherical::0.000299465575451
+disturbance::0.000299465575451
+overlay::0.000299465575451
+unreasonable::0.000299465575451
+office::0.000294201509736
+report::0.000294201509736
+variety::0.000294201509736
+output::0.000294201509736
+larger::0.000294201509736
+indicates::0.000292722494254
+absolute::0.000292722494254
+precise::0.000292722494254
+primary::0.000292722494254
+mobile robot::0.000292230840722
+technology based::0.000292230840722
+tag’s::0.000292230840722
+places::0.000292230840722
+experiments::0.000285383788437
+detected::0.00027990582524
+digital::0.00027990582524
+world::0.00027990582524
+individual::0.00027990582524
+grid::0.00027990582524
+experiment::0.00027990582524
+mapping::0.000279660967556
+center::0.000279660967556
+amount::0.000279660967556
+view::0.000279660967556
+overhead::0.00027928525919
+smallest::0.00027928525919
+operates::0.00027928525919
+offset::0.00027928525919
+interpret::0.000277638500532
+barrier::0.000277638500532
+consumes::0.000277638500532
+addison-wesley::0.000277638500532
+immersive::0.000277638500532
+exterior::0.000277638500532
+positives::0.000277638500532
+concurrent::0.000277638500532
+progressively::0.000277638500532
+equip::0.000277638500532
+pay::0.000277638500532
+stops::0.000277638500532
+mark::0.000277638500532
+numeric::0.000277638500532
+perception::0.000277638500532
+intersect::0.000277638500532
+sphere::0.000277638500532
+jiang::0.000277638500532
+radial::0.000277638500532
+focusing::0.000277638500532
+falling::0.000277638500532
+querying::0.000277638500532
+cyclic::0.000277638500532
+translates::0.000277638500532
+implicitly::0.000277638500532
+trivial::0.000277638500532
+deploys::0.000277638500532
+portion::0.000277638500532
+algorithms::0.000273768659378
+database::0.000268074401453
+future::0.000267755428016
+navigation::0.000267755428016
+start::0.000267057835815
+previous section::0.000267003852656
+starts::0.000267003852656
+slightly::0.000267003852656
+array::0.000267003852656
+missing::0.000267003852656
+beacons::0.000267003852656
+assumes::0.000267003852656
+badge location::0.000267003852656
+initial::0.000266024567309
+current::0.000262245380178
+centimeter::0.000259183971641
+amherst::0.000259183971641
+force::0.000259183971641
+organization::0.000259183971641
+raises::0.000259183971641
+implications::0.000259183971641
+heart::0.000259183971641
+scaling::0.000259183971641
+frames::0.000259183971641
+massive::0.000259183971641
+concentrate::0.000259183971641
+formulate::0.000259183971641
+jones::0.000259183971641
+triangulate::0.000259183971641
+essence::0.000259183971641
+prashant::0.000259183971641
+uncontrolled::0.000259183971641
+emergence::0.000259183971641
+shaped::0.000259183971641
+gained::0.000259183971641
+choi::0.000259183971641
+burden::0.000259183971641
+possibly::0.00025532178294
+active badge::0.00025532178294
+large-scale::0.00025532178294
+estimation::0.000254935905761
+spatial::0.000254882012155
+relative::0.000252600508835
+evaluation::0.000252600508835
+description::0.000244183266088
+reality::0.000244183266088
+00-02-02::0.000243197931581
+commercially::0.000243197931581
+days::0.000243197931581
+irregular::0.000243197931581
+normalization::0.000243197931581
+transformed::0.000243197931581
+maintaining::0.000243197931581
+dellaert::0.000243197931581
+alien::0.000243197931581
+roy::0.000243197931581
+omit::0.000243197931581
+food::0.000243197931581
+uncertain::0.000243197931581
+questions::0.000243197931581
+edition::0.000243197931581
+identify::0.000243105468582
+assume::0.000243105468582
+version::0.000243105468582
+total::0.000239413840071
+identification::0.000239413840071
+points::0.000238059210757
+require::0.000236517092516
+requires::0.00023602084216
+present::0.00023602084216
+small::0.000235787207702
+project::0.00023353996127
+attached::0.00023353996127
+finding::0.00023353996127
+continuously::0.00023353996127
+designed::0.000229544214788
+10m::0.000229097244922
+exceeds::0.000229097244922
+rotated::0.000229097244922
+transforms::0.000229097244922
+incorporation::0.000229097244922
+prevents::0.000229097244922
+handles::0.000229097244922
+sharing::0.000229097244922
+clothing::0.000229097244922
+long-range::0.000229097244922
+drop::0.000229097244922
+speaking::0.000229097244922
+professional::0.000229097244922
+z-axis::0.000229097244922
+tags’::0.000229097244922
+equivalent::0.000229097244922
+massachusetts::0.000229097244922
+trade::0.000229097244922
+existence::0.000229097244922
+proliferation::0.000229097244922
+durrant-whyte::0.000229097244922
+compensation::0.000229097244922
+beam::0.000229097244922
+antenna’s::0.000229097244922
+books::0.000229097244922
+advantage::0.000226643220135
+ieee transactions::0.000223349702819
+hightower::0.000223349702819
+pair::0.000223349702819
+mounted::0.000223349702819
+fast::0.000223349702819
+mobile devices::0.000223349702819
+hopper::0.000223349702819
+greater::0.000223349702819
+weighted::0.000223349702819
+describes::0.000220651132302
+poorly::0.000216483750889
+heading::0.000216483750889
+iso::0.000216483750889
+begins::0.000216483750889
+compression::0.000216483750889
+head::0.000216483750889
+switches::0.000216483750889
+controls::0.000216483750889
+selects::0.000216483750889
+representations::0.000216483750889
+successive::0.000216483750889
+images::0.000216483750889
+recall::0.000216483750889
+virtually::0.000216483750889
+motions::0.000216483750889
+translated::0.000216483750889
+reflects::0.000216483750889
+led::0.000216483750889
+demonstrating::0.000216483750889
+concerns::0.000216483750889
+tens::0.000216483750889
+boundary::0.000216483750889
+reduced::0.000214204342413
+nearby::0.000213575491274
+robotics::0.000213575491274
+stationary::0.000213575491274
+experimental results::0.000213575491274
+ieee international::0.000213575491274
+improves::0.000213575491274
+radio signal::0.000213575491274
+interpretation::0.000205073457605
+removing::0.000205073457605
+pose::0.000205073457605
+emits::0.000205073457605
+conditional::0.000205073457605
+ten::0.000205073457605
+producing::0.000205073457605
+≤::0.000205073457605
+finds::0.000205073457605
+modifications::0.000205073457605
+nsf::0.000205073457605
+walked::0.000205073457605
+tradeoffs::0.000205073457605
+formally::0.000205073457605
+intuitively::0.000205073457605
+pieces::0.000205073457605
+insight::0.000205073457605
+cubic::0.000205073457605
+batteries::0.000205073457605
+versus::0.000204184682426
+similarly::0.000204184682426
+related work::0.000204184682426
+stations::0.000204184682426
+automation::0.000204184682426
+information systems::0.000204184682426
+approximately::0.000199518425482
+detection::0.000199518425482
+personal::0.000199518425482
+addition::0.000195549042413
+automatic::0.000195148329503
+independent::0.000195148329503
+scenario::0.000195148329503
+conducted::0.000195148329503
+providing::0.000195148329503
+capture::0.000195148329503
+similarity::0.000194656675971
+feasible::0.000194656675971
+diagram::0.000194656675971
+eliminates::0.000194656675971
+consumer::0.000194656675971
+pinpoint::0.000194656675971
+ubiquity::0.000194656675971
+refined::0.000194656675971
+prevent::0.000194656675971
+half::0.000194656675971
+simplified::0.000194656675971
+price::0.000194656675971
+facing::0.000194656675971
+powered::0.000194656675971
+opportunities::0.000194656675971
+portable::0.000194656675971
+uniquely::0.000194656675971
+learn::0.000194656675971
+compact::0.000194656675971
+pdas::0.000194656675971
+drops::0.000194656675971
+technologies::0.000190255858958
+design::0.000190255858958
+iii::0.000190255858958
+perform::0.0001894007874
+evaluate::0.0001894007874
+previous::0.000187280925988
+similar::0.000187280925988
+presents::0.000186440645037
+address::0.000186440645037
+precision::0.000186440645037
+inferring::0.000185074165774
+opportunity::0.000185074165774
+covers::0.000185074165774
+yielding::0.000185074165774
+records::0.000185074165774
+lifetime::0.000185074165774
+attention::0.000185074165774
+correlated::0.000185074165774
+identifies::0.000185074165774
+reaches::0.000185074165774
+shelf::0.000185074165774
+exhibit::0.000185074165774
+probable::0.000185074165774
+centralized::0.000185074165774
+adjusted::0.000185074165774
+heavily::0.000185074165774
+constant::0.000179560380054
+technical::0.000179560380054
+experimental::0.000178716267636
+works::0.000178716267636
+replace::0.00017620214708
+ward::0.00017620214708
+considerations::0.00017620214708
+possibilities::0.00017620214708
+fails::0.00017620214708
+furniture::0.00017620214708
+distinguish::0.00017620214708
+falcao::0.00017620214708
+projects::0.00017620214708
+outputs::0.00017620214708
+intensive::0.00017620214708
+composed::0.00017620214708
+averaged::0.00017620214708
+written::0.00017620214708
+underlying::0.00017620214708
+showing::0.00017620214708
+kinds::0.00017620214708
+power::0.000171994649866
+affect::0.000169982415101
+directly::0.000169982415101
+factor::0.000169982415101
+expensive::0.000169982415101
+generally::0.000169921341437
+assuming::0.000169921341437
+proposed::0.000168940780369
+positions::0.000168940780369
+updates::0.00016794249528
+foundation::0.00016794249528
+localizing::0.00016794249528
+inventory::0.00016794249528
+decreased::0.00016794249528
+absence::0.00016794249528
+identifying::0.00016794249528
+starting::0.00016794249528
+requiring::0.00016794249528
+queries::0.00016794249528
+responses::0.00016794249528
+optical::0.00016794249528
+95%::0.00016794249528
+fewer::0.00016794249528
+laser::0.00016794249528
+change::0.000167448221468
+update::0.000162070312388
+pervasive computing::0.000162070312388
+prior::0.000162070312388
+estimates::0.00016065325681
+lau::0.000160216107019
+cameras::0.000160216107019
+latency::0.000160216107019
+radius::0.000160216107019
+manual::0.000160216107019
+choosing::0.000160216107019
+magazine::0.000160216107019
+trend::0.000160216107019
+january::0.000160216107019
+dynamically::0.000160216107019
+tradeoff::0.000160216107019
+frequently::0.000160216107019
+exploiting::0.000160216107019
+sensor::0.000157347228107
+hardware::0.00015643923393
+times::0.00015643923393
+shows::0.000156067438324
+correct::0.000154468564916
+ability::0.000154468564916
+management::0.000154468564916
+results::0.000154271439056
+content::0.000152958280871
+respond::0.000152958280871
+limitation::0.000152958280871
+spaces::0.000152958280871
+derive::0.000152958280871
+walking::0.000152958280871
+collects::0.000152958280871
+priyantha::0.000152958280871
+worst::0.000152958280871
+adjust::0.000152958280871
+analyzing::0.000152958280871
+connectivity::0.000152958280871
+percentage::0.000152958280871
+park::0.000152958280871
+generating::0.000152958280871
+gibbons::0.000152958280871
+final::0.000152958280871
+frame::0.000152958280871
+rfid-based::0.000152958280871
+immediately::0.000152958280871
+devices::0.000152884133214
+compared::0.000151560305301
+set::0.000150046404902
+combination::0.000147100754868
+computation::0.000147100754868
+stored::0.000147100754868
+full::0.000147100754868
+evaluated::0.000147100754868
+highly::0.000147100754868
+practice::0.000147100754868
+evaluating::0.000146115420361
+items::0.000146115420361
+directional::0.000146115420361
+boston::0.000146115420361
+modern::0.000146115420361
+metrics::0.000146115420361
+essentially::0.000146115420361
+90%::0.000146115420361
+chakraborty::0.000146115420361
+ibm::0.000146115420361
+calculating::0.000146115420361
+patil::0.000146115420361
+calibrated::0.000146115420361
+exploits::0.000146115420361
+affects::0.000146115420361
+focused::0.000146115420361
+balakrishnan::0.000146115420361
+varied::0.000146115420361
+focuses::0.000146115420361
+correspond::0.000146115420361
+limits::0.000146115420361
+april::0.000146115420361
+recognition::0.000146115420361
+point::0.000145923401902
+linear::0.00013995291262
+indoor location::0.00013995291262
+vision::0.000139642629595
+50%::0.000139642629595
+external::0.000139642629595
+axis::0.000139642629595
+rapidly::0.000139642629595
+occurs::0.000139642629595
+reasons::0.000139642629595
+behavior::0.000139642629595
+mobile::0.000138032340208
+active::0.000135152624295
+increase::0.000134037200727
+implementation::0.000134037200727
+means::0.000134037200727
+estimate::0.000133773616562
+uncertainty::0.000133501926328
+august::0.000133501926328
+applying::0.000133501926328
+activities::0.000133501926328
+derived::0.000133501926328
+integration::0.000133501926328
+fully::0.000133501926328
+numerous::0.000133501926328
+exact::0.000133501926328
+applications::0.000133100473446
+direction::0.000133012283655
+ubiquitous::0.000133012283655
+liu::0.000133012283655
+method::0.000128611204201
+reasonable::0.00012766089147
+tool::0.00012766089147
+advances::0.00012766089147
+national::0.00012766089147
+exploit::0.00012766089147
+share::0.00012766089147
+return::0.00012766089147
+benefits::0.00012766089147
+reflected::0.00012766089147
+computes::0.00012766089147
+life::0.00012766089147
+base::0.0001262671916
+common::0.0001262671916
+position::0.000123956277913
+area::0.000122861975489
+band::0.000122091633044
+showed::0.000122091633044
+performing::0.000122091633044
+automatically::0.000122091633044
+washington::0.000122091633044
+borriello::0.000122091633044
+cover::0.000122091633044
+lee::0.000122091633044
+supports::0.000122091633044
+completely::0.000122091633044
+number::0.00012179324136
+transactions::0.000119706920036
+distances::0.000117329425448
+sensing::0.000117329425448
+consistent::0.000116769980635
+low-cost::0.000116769980635
+reducing::0.000116769980635
+rely::0.000116769980635
+badge::0.000116769980635
+complicated::0.000116769980635
+allowing::0.000116769980635
+central::0.000116769980635
+proportional::0.000116769980635
+demonstrated::0.000116769980635
+raw::0.000116769980635
+assumed::0.000116769980635
+tend::0.000116769980635
+decreases::0.000116769980635
+combine::0.000116769980635
+space::0.00011466309991
+computer science::0.000113321610068
+collected::0.000113321610068
+easily::0.000113321610068
+combining::0.00011167485141
+march::0.00011167485141
+combines::0.00011167485141
+seconds::0.00011167485141
+structure::0.00011167485141
+sum::0.00011167485141
+researchers::0.00011167485141
+length::0.00011167485141
+closer::0.00011167485141
+section::0.000111560650122
+reference::0.000109258245326
+approach::0.000107176003501
+process::0.000107176003501
+specific::0.000107102171206
+international conference::0.000107102171206
+areas::0.000107102171206
+efficient::0.000107102171206
+minimum::0.000107102171206
+recent::0.000107102171206
+users::0.000107102171206
+simultaneously::0.000106787745637
+enables::0.000106787745637
+identifier::0.000106787745637
+receives::0.000106787745637
+discrete::0.000106787745637
+critical::0.000106787745637
+separate::0.000106787745637
+code::0.000106787745637
+adding::0.000106787745637
+scanning::0.000106787745637
+build::0.000106787745637
+decrease::0.000106787745637
+search::0.000106787745637
+employed::0.000106787745637
+determine::0.000104898152071
+range::0.000102384979574
+updated::0.000102092341213
+setup::0.000102092341213
+principles::0.000102092341213
+variable::0.000102092341213
+interesting::0.000102092341213
+sense::0.000102092341213
+left::0.000102092341213
+simply::0.000102092341213
+implement::0.000102092341213
+september::0.000102092341213
+details::0.000102092341213
+make::0.000101364468221
+calculate::9.75741647515e-05
+sensitivity::9.75741647515e-05
+tracked::9.75741647515e-05
+referred::9.75741647515e-05
+operating::9.75741647515e-05
+relationship::9.75741647515e-05
+attenuation::9.75741647515e-05
+years::9.75741647515e-05
+values::9.55525832586e-05
+accuracy::9.55525832586e-05
+methods::9.52236843027e-05
+computer::9.52236843027e-05
+discussed::9.5127929479e-05
+determined::9.5127929479e-05
+lower::9.5127929479e-05
+measure::9.5127929479e-05
+improve::9.36404629941e-05
+choice::9.32203225186e-05
+working::9.32203225186e-05
+samples::9.32203225186e-05
+detailed::9.32203225186e-05
+unknown::9.32203225186e-05
+response::9.32203225186e-05
+assumption::9.32203225186e-05
+create::9.32203225186e-05
+detail::9.32203225186e-05
+maximum::8.93581338178e-05
+found::8.93581338178e-05
+longer::8.90192786049e-05
+commonly::8.90192786049e-05
+conclusions::8.90192786049e-05
+sequence::8.90192786049e-05
+illustrated::8.90192786049e-05
+limitations::8.90192786049e-05
+continuous::8.49606707184e-05
+steps::8.49606707184e-05
+enable::8.49606707184e-05
+ranges::8.49606707184e-05
+energy::8.49606707184e-05
+source::8.49606707184e-05
+commercial::8.49606707184e-05
+antennas::8.49606707184e-05
+requirement::8.49606707184e-05
+match::8.49606707184e-05
+implemented::8.37241107338e-05
+control::8.37241107338e-05
+science::8.37241107338e-05
+gps::8.37241107338e-05
+sensors::8.37241107338e-05
+fixed::8.37241107338e-05
+large::8.19079836592e-05
+shown::8.19079836592e-05
+first::8.19079836592e-05
+modeling::8.1035156194e-05
+depend::8.1035156194e-05
+challenges::8.1035156194e-05
+involves::8.1035156194e-05
+estimating::8.1035156194e-05
+support::7.86736140534e-05
+high::7.86736140534e-05
+advantages::7.72342824582e-05
+features::7.72342824582e-05
+combined::7.72342824582e-05
+speed::7.72342824582e-05
+weight::7.72342824582e-05
+entire::7.72342824582e-05
+constraints::7.72342824582e-05
+measures::7.35503774341e-05
+connected::7.35503774341e-05
+time::7.30759448161e-05
+infrastructure::7.28388302174e-05
+key::7.28388302174e-05
+indoor::7.1417763227e-05
+abstract::6.997645631e-05
+parameter::6.997645631e-05
+previously::6.997645631e-05
+makes::6.997645631e-05
+limited::6.75763121475e-05
+simple::6.75763121475e-05
+building::6.75763121475e-05
+developed::6.75763121475e-05
+due::6.73204600125e-05
+supported::6.65061418274e-05
+place::6.65061418274e-05
+wide::6.65061418274e-05
+effects::6.65061418274e-05
+embedded::6.65061418274e-05
+deployed::6.65061418274e-05
+problems::6.65061418274e-05
+chosen::6.65061418274e-05
+path::6.31335958e-05
+unique::6.31335958e-05
+accurately::6.31335958e-05
+includes::6.31335958e-05
+represent::6.31335958e-05
+find::6.31335958e-05
+scale::6.31335958e-05
+cost::6.24269753294e-05
+single::6.24269753294e-05
+ieee::6.19781389566e-05
+true::5.98534600178e-05
+coordinates::5.98534600178e-05
+widely::5.98534600178e-05
+work::5.83693607609e-05
+measured::5.7386053697e-05
+measurements::5.7386053697e-05
+technology::5.68368459681e-05
+practical::5.66608050338e-05
+study::5.35510856032e-05
+depends::5.35510856032e-05
+issues::5.35510856032e-05
+test::5.35510856032e-05
+acm::5.35510856032e-05
+compare::5.35510856032e-05
+conditions::5.35510856032e-05
+computed::5.35510856032e-05
+defined::5.35510856032e-05
+performed::5.35510856032e-05
+deployment::5.35510856032e-05
+compute::5.35510856032e-05
+important::5.24490760356e-05
+introduction::5.24490760356e-05
+cases::5.0520101767e-05
+comparison::5.0520101767e-05
+finally::4.75639647395e-05
+level::4.75639647395e-05
+obtain::4.75639647395e-05
+communications::4.75639647395e-05
+software::4.75639647395e-05
+hand::4.46790669089e-05
+department::4.46790669089e-05
+observed::4.46790669089e-05
+computing::4.28704014005e-05
+signal strength::4.28704014005e-05
+accurate::4.28704014005e-05
+distance::4.22621783058e-05
+consists::4.18620553669e-05
+solution::4.18620553669e-05
+presented::4.18620553669e-05
+distributed::4.18620553669e-05
+increasing::3.91098084826e-05
+basic::3.91098084826e-05
+form::3.91098084826e-05
+long::3.91098084826e-05
+university::3.71868833739e-05
+higher::3.64194151087e-05
+international::3.64194151087e-05
+measurement::3.64194151087e-05
+application::3.64194151087e-05
+conference::3.37881560738e-05
+step::3.37881560738e-05
+references::3.37881560738e-05
+frequency::3.37881560738e-05
+additional::3.37881560738e-05
+made::3.12134876647e-05
+part::3.12134876647e-05
+fact::3.12134876647e-05
+general::3.12134876647e-05
+order::2.91846803805e-05
+required::2.62245380178e-05
+techniques::2.47912555826e-05
+case::2.41498161747e-05
+research::2.41498161747e-05
+signal::2.41498161747e-05
+result::2.38059210757e-05
+paper::2.38059210757e-05
+standard::2.14352007002e-05
+related::2.14352007002e-05
+tracking::2.04769959148e-05
+data::1.99547589295e-05
+wireless::1.91105166517e-05
+environments::1.91105166517e-05
+provide::1.68301150031e-05
+radio::1.45923401902e-05
+out::1.45923401902e-05
+strength::1.23956277913e-05
+problem::1.23956277913e-05
+based::1.20749080874e-05
+received::1.02384979574e-05
+environment::7.98190357179e-06
+information::0.0
+systems::0.0
+system::0.0

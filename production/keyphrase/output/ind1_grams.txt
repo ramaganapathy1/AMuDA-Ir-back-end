@@ -1,0 +1,4126 @@
+locates the maximum
+positions
+full 3d tag localization
+pile of objects
+marker tags
+assume all tags
+localizes
+pr2s
+object clustered
+shelf with known heights
+noisy
+unstructured multi-path environments
+plane and the position
+rotated around the vertical
+strength fluctuation
+resulting depth images
+images is the led
+consists
+lee
+quantified in table
+localized
+population of tags
+calculate
+instantaneous rf power
+combination of rf power
+paradigm a mobile rfid
+communicate
+reader singulates
+harvest additional
+individual tags object
+scenarios that involve
+indoor location tracking
+corresponds the direction vector
+fail to find
+flashed when commanded
+power modulation
+localizing the passive uhf
+approximately 1.5-2 meters
+performs
+truth measurements
+camera systems
+desired
+signal strength to estimate
+detection method
+exception
+camera was simply moved
+personal robotics
+resolution if out
+information the pr2
+error occurred
+liang-ting jiang
+camera exposure time window
+squares
+camera approach
+find the desired
+triggers the camera capture
+takes two
+cmd
+low power state
+vector
+capacitor could easily
+special command
+affect
+dependent on range
+combine
+enhance
+ground truth
+tag with integrated
+results of this approach
+point cloud obtained
+indoor location tracking techniques
+computing the tag location
+pixel map detection
+rfid localization applications
+strap would consist
+presents the estimated plane
+tag read events
+consistent
+radius was approximately 1.5-2
+quickly and easily accessed
+successful object
+pulse
+necessarily
+led flash and compute
+checkerboard grid
+explored more sophisticated
+portals is not feasible
+3-d point cloud
+approach are quantified
+input
+blue
+prototypes on a bookshelf
+sniffer wisp listens
+errors
+vectors to ros
+identify the correct
+first sets of columns
+fact
+issues a command
+augmented with a camera
+illuminated led
+stores a small amount
+functionality and utility
+required
+represent an led flash
+larger errors in tag
+consisting
+finding the centroid
+simultaneously
+reliably
+ground truth information
+precise direction
+human
+vector emanating
+right stereo camera images
+fairly
+enhanced rfid
+multi-path propagation
+active
+find the required
+control the output
+shelf to the camera
+trigger flash
+obtained
+evaluate the performance
+items with millimeter
+wired to the cameras
+flash a single camera
+operating exclusively
+block diagram
+scale-invariant features transform
+received instantaneous rf power
+issue of locating
+surface mount led
+york
+joshua
+data uhf
+rf-based tag
+pr2 robot from willow
+marker tags which provide
+nhanced passive rfid tag
+strap
+synchronize the brief flashes
+modulated
+rgbd type
+increase in complexity
+proposes augmenting passive rfid
+ull 3d tag localization
+total
+led wisp repeatedly
+non-linear kalman
+addressable led enhanced rfid
+modulation properties
+section will focus
+individually commanded
+detection technique described
+location of the tagged
+traditional rfid location
+found
+anechoic chambers and well-structured
+hospital
+negative
+sophisticated methods of computerized
+right camera is computed
+represents the camera
+power control
+scenario two marker tags
+techniques
+type
+tag location estimation
+centroids and the fig
+modification
+optics has shown promising
+three-component
+successful
+retrieval of tagged items
+naive
+faced by traditional
+camera images of tagged
+examples
+rfid readers ability
+pixel from the difference
+resolution of rf based
+rfid enabled asset management
+overcome
+store the ground
+localization method the target
+rgb-d type
+tag can be powered
+passive rfid
+eferences fig
+depletion layer profiling
+setup
+marked with red dots
+strong and consistent led
+image shows
+write command is issued
+llrp protocol
+lanar 3d rfid tag
+cameras frame trigger
+optical distortion of fig
+interaction
+rssi
+environments is limited
+delay as the led
+individually addressable led enhanced
+rfid reader and led
+objects the intersection
+clusters with colors
+marked with red
+wang
+rchitecture
+arker
+rfid location
+traditional rf based
+tag stores
+maximum precision error
+object detection
+rfid enabled asset
+university of washington seattle
+computational platform
+feedback to the user
+function of depletion layer
+ieee transactions
+rf-based tag localization
+complete and signal
+provide
+smith department
+important to remember
+perceived by the robot
+multi-path
+vector for the unknown
+easured results
+represent an led
+strength to estimate
+place
+difficult to locate
+objects make it difficult
+single camera captures two
+modulation
+earlier
+processing
+operating correctly
+lab
+ability to accurately localize
+millimeter
+efficient and highly
+noise ratio
+reliably capture the 1ms
+sarkka
+monolithic cmos-compatible algainp visible
+involve individual item identification
+rfid ics
+waits a fixed
+map detection technique
+cmos compatible leds
+1ms pulse
+multi-path issue
+autonomously grasp tagged
+methods previously
+multi-path issue faced
+flash their leds
+camera to monitor
+camera as the system
+complexity
+checkerboard
+green
+substrates
+tag flash
+ethernet
+methods and provides greater
+order
+rfid reader and single
+displays
+important to insure
+feedback
+pr2s head
+camera and a rfid
+two marker tags
+vary
+reader issues
+sensing capabilities
+led-enhanced rfid tag
+individual tags with millimeter
+segmented objects
+method to precisely locate
+individually addressable led
+uncontrolled environments
+previous section
+ethernet via udp
+bottleneck
+accurately localize passive
+effective at aiding personnel
+yeager
+enhanced passive rfid tag
+personal
+tag acquisition
+target object
+edge
+fixed time delay
+developed cmos
+fig
+shows a block diagram
+robotic grasping
+reflection and multipath effects
+16-bit
+retrieval of tagged
+inventory
+versus
+charge storage
+emulate the epc gen2
+combination
+necessarily in the plane
+tags one common
+effects
+occurred when determining
+image processing techniques
+leds operating
+tag positions
+robot-mounted
+imtable
+represents
+rfid industry
+corners of the shelf
+ystem a rchitecture
+application is the retrieval
+simple range estimation
+led flash
+quickly locating tagged objects
+widely used in computer
+tasks for personal robots
+reasonable
+sophisticated methods
+side
+humans perspective the tag
+digital nature
+humans to readily identify
+truth as blue
+location corresponds the direction
+tag direction vectors
+out to a range
+transform the 3-d point
+individually addressed
+wireless symposium
+find the target
+receives a write command
+solution
+identify unique objects
+issues a write
+aids
+unstructured metal objects make
+surface mount
+images with extremely high
+rfid reader and triggered
+difficult for the robot
+uhf rfid transponders
+command to write
+capacitor and discharges
+semiconductor
+separate binary
+tags is between 1-3
+tags is between 1-6
+reader
+noticeable difference
+smith
+cloud is segmented
+peak signal
+robust enough that mobile
+change between the images
+commanded to the led
+operation of the led-enhanced
+task of identifying
+free
+standard
+difference image
+robot operating system
+commanded to flash
+rows of books
+read the led wisp
+data uhf rfid reader
+tag in order
+estimate
+publication
+robot has navigated
+tags with millimeter
+storage issues
+packaging and charge
+vectors are shown
+percent error
+assuming that all tag
+target
+structured the tags
+localizes the led enhanced
+tracking techniques
+speeds
+proposes a more precise
+increase the spatial
+optical localization system based
+passive uhf rfid
+features
+computer systems
+leds to enabled
+guiding people
+locate tagged
+centroid of each object
+world via photosensing wireless
+table at human-like
+propose to use externally
+measured ground
+presented here can flash
+trials where successful
+issue a write
+position accuracy then previously
+object searching
+methods of computerized
+pixel map detection technique
+addressed and commanded
+estimate the position
+installed on the infrastructure
+similarly
+form of received
+show that individual tags
+protocol sniffer passive
+heights
+ics
+range versus
+localization methods can provide
+3-d location
+tag and confidence
+create a 3-d
+shows books tagged
+produce a strong
+estimation and stereo
+epc gen2 rfid reader
+flash range
+designed to explore sensor-enhanced
+accurately localize passive uhf
+substantial increase
+output line
+blink cmd event trigger
+synchronization problem
+accurately the location
+thin pcb
+view of the led
+rfid tag with integrated
+promising results
+represented by the black
+shows that the relative
+bookshelves
+correct pixel
+enabled
+out of band sensing
+silicon
+classes
+design
+kalman filtering
+table v clearly shows
+waiting for write
+marker tags can store
+acquisition
+form the led enhanced
+quickly and easily
+lens and image
+localizing the led
+tagged items with millimeter
+address with an rfid
+desired object
+proposes augmenting
+reader then issues
+determine range information
+box interface
+manner
+additional packaging
+create rf reflections
+enabled asset
+locating passive
+latency
+strength
+refinements and imtable
+camera location
+observes a write command
+harvest additional power
+create a 3-d point
+computer vision tests
+sets of columns
+isual
+camera systems can reliably
+effectiveness
+completed
+circles
+state mirrors
+ieee international conference
+including the sniffer
+rssi and power modulated
+unstructured environments by augmenting
+proving
+consistency
+tag in millimeters
+accurately
+camera has been developed
+abstractthe
+wisp whose state
+ability to measure
+intersection of the tag
+object by optically localizing
+camera captures two
+center top
+scale-invariant
+two antennae
+tags can me localized
+reliably capture
+waits for a fixed
+methods use an external
+proposed technique
+resolution 1.3mm
+enabled the fast
+proposed to facilitate object
+sources
+inaccuracies
+require full
+triggered by the sniffer
+resolution only 2.6mm
+plan a feasible
+selected
+diagram of a passive
+boxes on a metal
+rasping robot grasping
+minus an offset
+manipulation
+out cause larger errors
+distance estimation
+resulting depth
+vectors are arbitrarily
+requested write commands
+tags creates
+channel and tag
+error from the camera
+shown promising
+externally triggered stereo cameras
+events to localize
+proposed
+provide a vertical
+provide 0.5-1.0 meters
+localizing the led enhanced
+synchronization method and pixel
+version
+accurately find the desired
+uhf rfid tracking
+detection with confidence scores
+visualized by rviz
+position vectors measured
+wisp listens
+localizing
+battery-free programmable sensing platform
+rotated
+depth sensor
+problem with this method
+provide an effective solution
+capability is shown
+scenario for rfid localization
+techniques is desired
+query and locate
+represented
+camera will simultaneously
+confidence score
+acm
+requested write
+increasing
+perspective the tag
+done for two
+facing surface
+easy find
+repeatedly pick up objects
+distance and pose
+alanson @ u.washington.edu
+cameras and the rfid
+items by personnel
+identified and located
+identify
+black
+macomber
+camera takes
+predominate sources of error
+fluctuation can cause problem
+precision is limited
+observes
+reported
+tags object
+wisps led
+single camera captures
+depends
+errors in measurement consistency
+radius
+rfid ic mounting
+calculates a direction
+fail
+wisp uses a 16-bit
+line on the plane
+triggers a camera
+reading a conventional rfid
+human-like speeds
+tags
+explore sensor-enhanced rfid applications
+radio and wireless
+implicit
+score
+tag and multiple reader
+ethernet with the rfid
+plane of the bookshelf
+approach
+implementing effective
+data epc id passive
+extend
+consistently chooses
+department of computer
+manipulation of objects
+rfid-enabled localization techniques
+millimeter resolution
+readily identify
+creates
+items lie
+due to the wirelessly
+led rfid tag
+faced
+received
+colors
+detection is found
+robot from willow
+shown promising results
+dots are the calculated
+scene and determine
+space
+fluctuation
+work we enhance passive
+tagged items
+planned
+receives
+flash the tags led
+camera synchronization fig
+intensive
+power and insure
+images in pairs
+robot initializes the rfid
+location tracking techniques
+coarse information
+respective direction
+consisting of metal bookshelves
+semiconductor science and technology
+washington seattle
+exclusively
+moves the reader antenna
+shows an image
+issues a write command
+tag response to estimate
+show that individual
+conference
+cmos-compatible algainp visible
+phase-based uhf
+triggered stereo
+battery-free
+traditional rfid
+sets
+target tag has sufficient
+packet sniffer
+command to repeatedly flash
+method is to control
+semiconductor optics has shown
+correct location
+locating passive rfid tags
+craig
+system on the robot
+rfid localization techniques
+calibrated for optical
+modulated distance estimation
+first sets
+servoing for the peak
+tags as red dots
+un-synchronize video camera
+precise location information
+vectors represents the 3-d
+left and right stereo
+shown pointing
+reference
+service node
+amera s ynchronization
+top of the shelf
+washington seattle washington
+detection with confidence
+technique combined a video
+rfid tags are represented
+user tasked with locating
+sniffer wisp tag
+camera locates the tag
+tasks in rfid enabled
+issue faced by traditional
+books can be determined
+wisp sends a pair
+features from one frame
+computation on board
+viii
+tagged books
+items
+conventional stereo techniques
+reference point
+pick up objects
+uniquely tagged object
+smart camera
+chooses the same pixel
+shelf in a lab
+method to precisely
+center of the stereo
+passive rfid tags enhanced
+work compared
+tagged inventory on shelves
+objects can be automatically
+ground truth position
+localization utilized the digital
+existing depth
+seattle
+trade
+location because the baseline
+listens to the communication
+tagged items by personnel
+prior
+perform
+make
+initial work
+dots
+case scenarios position
+experiment was done
+tags with a rfid
+cmd flash led
+rely on the planar
+shown using the pr2
+circles are the measured
+precisely locate and autonomously
+views
+tag location
+significant time to complete
+tag localization
+locations of the tags
+tag localization efforts
+system for locating tags
+led wisp
+systems is the segmentation
+distance of the marker
+photosensing wireless
+vector from the left
+technique described earlier
+rasping
+hospital supply rooms
+tag modulation
+shows the 3-d environment
+square and the position
+tag today provides coarse
+scenario
+sophisticated cameras
+tag uhf rfid reader
+wisps
+error in computing
+robot using kinect sensor
+cs.washington.edu abstractthe
+client
+overcomes the multi-path
+extremely high
+layered approach
+paradigm
+epc
+left
+tag l ocalization
+0.5-1.0 meters of spatial
+protocol
+tag power level
+mapping and localization
+diagram of the process
+manufacturing process
+photonic
+effective computer vision
+proposes
+utilized the digital nature
+mode the tag
+reliable technique
+phase based
+publication two
+onclusion this paper
+rssi and power
+instrumentation
+visualization
+epc id epc protocol
+robot plan
+distance between the left
+approximately 1.5-2
+np+
+eferences
+passive
+purposes of presentation
+making the maximum
+ultra-low-power microcontroller to emulate
+shown emanating
+board
+easy
+gen2 protocol
+reader issues a query
+objects on a table
+vii
+image captured
+camera images
+microcontroller
+fast
+camera frames
+semiconductor science
+located in unstructured
+analysis of low
+ultimately
+distortion
+tags presented
+microcontroller to emulate
+power & data
+passive uhf rfid transponders
+advanced
+two images
+robot to quickly
+sniffer to trigger
+two known marker
+specific
+transform
+steps
+metal bookshelves
+1.5-2
+passive rfid tags presented
+response
+led is not depended
+control and received
+inaccuracies in estimating
+computerized tag localization
+right
+maximum brightness change
+point correspondences
+enhanced with leds
+provide 0.5-1.0
+range indoor
+refinement
+simply moved
+first with the led
+camera capture
+individually address
+fixed amount of energy
+self-describing world via photosensing
+coarsely located
+trigger flash led fig
+onclusion this paper addresses
+located at coordinates
+repeated
+represents a substantial
+library
+computing the individual
+calibrated
+low range
+images and calculates
+system on the standardized
+case scenarios
+fox
+human or computer
+limited by multi-path propagation
+3-d space
+light pulse
+unstructured multi-path
+reconstructed 3d tag
+highly effective
+calibrated to correct
+vector towards the tag
+location is identified
+leds the wireless
+successful grasp result
+show the localization
+tags enhanced with leds
+pose
+tag to flash
+tags which provide
+rfid reader issues
+lamps
+precent
+video projector
+manufacturing
+advantage of the shelving
+shelf as shown
+kinect overlayed
+external frame trigger
+scenarios that involve individual
+waits for a response
+sensor-enhanced rfid
+workbenches that create
+flashing the book
+setup we integrated
+moved onto the task
+ensure
+international conference
+rfid tags with greater
+previous tag
+slightly
+automatically
+avarge precent
+system setup
+information several techniques
+challenge for computer
+wireless identification
+synchronization method
+stereo techniques
+commanded by an rfid
+developed cmos compatible leds
+requested by the host
+uncontrolled
+ultra-low-power
+pair
+aids in calculating
+planned grasp
+ensure synchronization
+paper used a large
+rfid tag flashing
+methods
+rely
+perceived
+tag localization method
+blue line
+initial
+head provide
+table and compute
+grasping
+system networking diagram showing
+tag read
+scenario the combination
+0.5-1.0
+asset
+head
+battery free
+dietz
+objects make
+form
+programmable sensing platform
+shelving scenario
+identifying an illuminated
+image plane
+wireless
+tag charges
+reader and single
+multipath effects
+right camera
+prototyping
+tag and returns
+makes the resolution 1.3mm
+sufficient power to flash
+arrays
+resolution is limited
+inside
+maximum
+augmenting the tags
+equipped with an epc
+angle from the horizon
+difference map
+navigation based
+average
+tag to localize objects
+promises
+distances
+images of each led
+computing
+rfid enabled
+enhanced passive tag
+readers ability
+metal fire
+items in an unstructured
+out of band
+find the required point
+led fig
+versus the wisps led
+selected object
+autonomously grasp
+smart cameras frame
+locating tagged
+resolution and lens
+tracking with non-linear
+open
+200mm
+generally
+proceedings
+issues a special command
+gen2 rfid reader
+packet sniffer wisp
+setting
+common tasks in rfid
+digital
+reconstructed 3-d
+hahnel
+instantaneous
+rfid communication channel
+receives a write
+optically
+sophisticated rf-based tag localization
+detection was completed
+required point
+passive rfid tag flashing
+represents a reasonable
+red dots
+order to show
+compatible leds operating
+rgb-d type sensor
+singulates an individual tag
+shown by the blue
+books tagged
+measures a static tags
+proposes augmenting passive
+point
+humans and camera systems
+green square represents
+extremely high reliability
+assume
+epc write command
+april-1
+localization methods
+estimate the distance
+location in our lab
+methods can provide
+led-wisp
+fairly straightforward
+line-of-sight from the human
+estimate tag range
+object detected
+precise
+spiess
+people
+focus
+cameras moved from position
+form the led
+monolithic cmos-compatible
+recognize and locate
+tag flashes its led
+computation
+ros
+presents
+captured during the localization
+object cluster
+mounted
+columns show
+determining the intersection
+zone
+identification of uhf rfid
+results present here represents
+willwacher
+ensure that the brightness
+automatically identified
+environment
+finally
+science & engineering
+first the tagged
+generally implicit
+radius was approximately
+profiling and defect
+fact the image shows
+today if so desired
+individual tags
+cameras resolution
+indoor
+advantage
+nhanced passive rfid
+exception was demonstrated
+software of the willow
+spatial resolution is limited
+repeatedly measures
+humans and computer
+overcomes
+task that frequently fails
+cmos-compatible algainp visible led
+stores a small
+calibrated out cause larger
+carefully synchronized
+method and pixel
+multi-path environments
+harvested rf energy
+planer tag localization method
+shows a detailed view
+target tag charges
+desired object by optically
+camera captures two table
+targeted is clearly identifiable
+item
+item identification
+two camera positions
+structured
+believed that the predominate
+wisps read
+implicit tag localization
+distance and bearing
+position of the rfid
+work
+power & data uhf
+metal objects make
+augmenting passive rfid
+triggers to the camera
+trades accuracy for acquisition
+communicate the tag power
+cost
+frequently fails
+object by optically
+meters in unstructured
+capturing and computing
+objects are located
+epc gen2
+distortion in the lens
+results show our system
+current
+focused on proving
+effects in uncontrolled environments
+ided
+international
+wirelessly power
+recent work
+localize passive uhf rfid
+red and green squares
+takes two images
+correctly selected
+represented as a green
+small errors
+unique benefits
+localize passive uhf
+faced by traditional rfid
+broadcasts
+challenges to implementing effective
+trigger input
+solution described
+address
+errors for each tag
+information is ambiguous due
+change
+brightness of the led
+box
+noticeable
+grasping manipulation
+synchronization and data processing
+20ms
+vectors
+sift
+commonly
+led when commanded
+select the desired object
+system architecture
+helps with tag
+instantaneous after write command
+computer vision applications
+calibrate the poses
+cs.washington.edu abstractthe ability
+location assurance
+bounds on location performance
+tags with millimeter resolution
+3-d pointcloud
+tool in ros
+sample
+marked
+underneath the objects
+tag localization initial work
+red square
+flash led
+camera can be computed
+interacting with a self-describing
+localization combines
+projector
+pcb for mounting
+signal strength and phase
+sends
+scan
+electronically
+tags as red
+scenarios
+readers
+reliable object
+memory
+rgbd type sensor
+distance from the camera
+selects
+synchronization and data
+frame trigger
+identifiable world
+reader is augmented
+surface of the item
+visualization tool in ros
+unique objects
+retrieve
+ground truth that helps
+visual
+protocols and hardware
+amera
+detection technique
+position and the green
+miesen
+capturing
+localization techniques
+shipping application
+provide more precise tag
+line for this system
+discharges that fixed
+library situation
+integrated leds alanson
+standard epc
+ull
+shelf are side-by-side books
+believed
+communicate the tag
+metal
+led passive rfid
+meters of spatial resolution
+portals
+pixel map
+un-synchronize video
+figure
+jrs @ cs.washington.edu abstractthe
+methods for manufacturing
+highly precise
+segmentation of individual objects
+image acquired
+performed
+rfid ic mounting strap
+checkerboard grid underneath
+tag estimation
+notable exception
+range information several techniques
+wireless tags
+standard epc gen2 tag
+proposed work compared
+means
+tags environment
+augmenting passive rfid tags
+harvest
+write
+closest to the direction
+trades accuracy
+query
+bonded
+quantum electronics
+wisps used operated
+epc protocol sniffer
+beardsley
+map
+aiding personnel
+pop out
+extinguisher
+position of an led
+quantified
+issue a write command
+tool
+respective
+item retrieval
+enhanced with an led
+collects images in pairs
+experiment no marker tags
+explored
+leds
+noise
+identified by the camera
+measured between the tag
+fitzgerald
+data
+efforts
+goal
+show the localization error
+techniques show
+natural
+coarse
+tag can be estimated
+june
+led illuminated
+guiding people to tagged
+verify
+blink their leds
+unstructured and uncontrolled environments
+reader and led
+correctly
+imtable ii m easured
+power state
+capture to ensure
+process the rfid reader
+tagged
+shelf are side-by-side
+power nature
+kinects
+precise localization
+sing m arker tags
+manufacturing a low cost
+packet sniffer wisp tag
+vossiek
+ultra thin pcb
+aiding
+cmos power
+consisting of metal
+quickly and easy find
+uhf rfid reader
+lower bounds on location
+multipath
+ieee
+modulation and received
+estimate tag
+camera not being level
+locate books
+monitor
+pose and distance
+methods previously reported
+find the tagged
+vicinity
+target led
+platform
+static
+rfid tags is identified
+calculated distances
+range of the reader
+table are individually
+calibration is commonly
+nature of the tag
+tag position vectors
+ambiguous due to reflection
+inherent tradeoff
+projector and light
+demonstration of the utility
+right images may vary
+charge on a capacitor
+underneath
+capture the 1ms
+three-component solution consisting
+unstructured metal
+video camera
+coarse location
+craig macomber
+antennae
+presents the estimated
+corners
+arrows
+wisps used operated out
+desirable
+band sensing mechanisms
+camera is operating correctly
+synchronize
+truth that helps
+system consistently
+items from a table
+computed in 3-d
+locate
+cluttered environment
+individually
+antenna can provide 0.5-1.0
+arrays on silicon
+including the sniffer wisp
+profiling
+wisp tag
+drastically affect rf-based
+identify the correct pixel
+improved
+overcomes the multi-path issue
+challenges
+enhanced passive rfid tags
+simply attempting
+involve
+3-d environment
+maximum brightness
+record the stereo data
+object detection was completed
+capture to ensure synchronization
+readers ability to measure
+systems can reliably
+inventories
+rfid tags with leds
+humans perspective
+difficult tasks
+kinect sensor
+increase
+technique combined
+extrapolate
+vision tests
+addressable led
+ability to accurately
+stereo camera locations
+side-by-side
+epc id and calculates
+occurs with every read
+receiving
+sensor
+correct
+assurance
+shows
+classes of rfid localization
+quickly locating tagged
+localization method
+image from a single
+include the tracking
+mechanisms
+possibility
+garage pr2 robot equipped
+volume version are discussed
+stage the camera
+high resolution
+existing depth sensor
+led enhanced passive uhf
+remainder
+reader to issue
+diagram
+poses
+write command to write
+programmable battery-free sensing
+combination of both traditional
+waits
+flashes of light
+degrees
+vary slightly
+require line-of-sight
+antenna
+conventional stereo
+vector by finding
+ambiguous due
+silicon p+ np+ injection-avalanche
+first
+searching
+square represents the camera
+issue of locating passive
+direction vectors to ros
+square represents the right
+discharges
+planer tag
+negative pixel
+rfid beacons
+blink
+led flash range
+efficiently and repeatedly pick
+long
+explored more sophisticated rf-based
+image processing
+majority of usage
+properties
+compared to prior work
+limited
+individual direction vectors
+computerized tag
+grasp a particular object
+processing blocks
+design of rfid
+binary method
+find the desired object
+robot grasping
+returns
+calculates the position
+combined many separate binary
+order of several centimeters
+order to determine range
+order to examine
+tags was not necessarily
+identification and sensing
+gen2 protocol and performs
+system architecture for tag
+location corresponds
+precisely locate
+mode the tag acts
+robot sensors
+humans
+standardized hardware
+raising an output line
+system complexity
+command is issued
+centroids
+broadcast
+resulted
+images that are captured
+packet
+relative position
+manipulating and sorting
+localization process
+space assume all tags
+population
+integrated our localizing system
+data is not applicable
+effective
+sets of columns show
+image of tagged objects
+require
+computer
+soles
+led-wisp prototypes
+accessed
+valid detection is found
+proposed technique combined
+battery-free programmable sensing
+tags and projectors
+books on the shelf
+drastically affect
+vision applications
+captures two table
+select the desired
+locations
+present here represents
+operated
+calculates the position vectors
+right stereo camera positions
+collects
+reader issues a command
+basis of robot perception
+reader to the tags
+people to tagged objects
+correct for the optical
+reading a conventional
+computationally
+simply query the scene
+planar 3d solution described
+efficient
+systems is the identification
+configures
+note
+equipment
+phase-based uhf rfid tracking
+techniques such as rssi
+tasks while operating
+coincide
+tasks for personal
+on-board processing
+measure the ground truth
+channel
+directional antenna can provide
+drastically
+ameras
+begin
+multiple
+epc id epc
+point cloud
+epc protocol sniffer passive
+method along with directional
+led passive
+position to position
+moves the reader
+shows the reconstructed
+power level
+garage pr2
+represents a uniquely tagged
+pr2
+robot using kinect
+shelf rfid
+epc id passive rfid
+easily accessed
+vectors for a population
+node to control
+positions of the corners
+common application scenario
+attempting
+repeatedly flash
+metal shelf
+retrieval
+reader and triggered
+reconstructed 3-d locations
+represents the right
+additional power
+incorporation
+typically
+identifying an illuminated led
+kinects view
+vectors represents
+desired object cluster
+scenario is that line-of-sight
+robots is to locate
+locate and autonomously grasp
+level and lens
+reference point that aids
+vicinity of the passive
+battery-free sensing and computational
+standardized hardware and software
+range indoor location tracking
+vertical reference point
+threshold
+green squares
+identification and localization
+line
+rfid tag localization
+ratio
+classes of rfid
+enhanced tag
+actual 3d location
+state
+custom rfid
+readily
+kinect sensor visualized
+implemented
+siggraph
+snyman
+responds to the reader
+tag id 410*
+employed
+command the wisp
+cmos leds as function
+world perceived
+grasp tagged
+hardware is item
+humanborne or robot-mounted
+tags to the camera
+electronically identifiable
+space assume
+applications that require full
+theta
+include the additional
+tag estimation and stereo
+event
+sensing mechanisms
+binary tag read events
+rfid tag power
+reader and back
+represents a lower bounds
+communicates
+protocol sniffer passive rfid
+capacitor is sufficiently
+variant is location
+ieee journal
+rationale
+complexity and increasing accuracy
+stereo camera positions
+vision
+visual indicator
+previously reported methods
+showing different segmented
+cmos
+helps with tag localization
+tag localization method tag
+triggers a second frame
+addressable led enhanced
+bounds
+relative
+captures an image
+meters
+infrastructure
+tag is flashing
+rfid location methods
+naive approach
+strap could be bonded
+images it is difficult
+passive tag
+tag is augmented
+points
+fails
+safety equipment
+review
+stereo cameras for full
+navigated
+comparison to the calculated
+ics is not readily
+reading
+architecture the system
+enhanced wisp
+window should coincide
+vertical
+precent error
+object identification
+rfid tags enhanced
+strong
+predominate sources
+measured by a single
+raising an output
+pixels
+robot is equipped
+led wisps used operated
+two externally triggered
+microsoft kinect overlayed
+implementing
+sniffer passive rfid
+power control and received
+required projector represents
+technique does require line-of-sight
+location method
+propagation
+basic task of identifying
+light detector
+intersection of these vectors
+environment perceived
+nearby
+low range indoor
+greater accuracy
+tag from a pile
+led-enhanced passive
+distortion of fig
+overview
+basis of robot
+robotics
+april
+pop
+objects and the human
+localizing the passive
+line-of-site between the tagged
+locate and autonomously
+abstractthe ability
+visible led
+error for each tag
+tag today
+estimated plane
+epc gen2 rfid
+automation
+object clusters
+default mode the tag
+localization of passive
+human is implicit
+optically locate the item
+increasing accuracy
+nhanced passive
+locate the tags
+icra
+combined
+precision error
+prototype
+cs.washington.edu
+estimated
+robotic grasping manipulation
+direction
+enable
+tag direction
+find corresponding features
+1ms
+reliable object searching
+light detector tag
+pcb
+external
+complete and signal strength
+ultra
+protocols
+case
+optical location
+based localization and optical
+results for the stereo
+410* 416*
+mount
+environment is unstructured
+single
+dispersion not being calibrated
+led in a camera
+transactions
+promising
+situation
+control the output power
+passive rfid tag enhanced
+fact the image
+uhf
+planar
+described in the previous
+represents the left
+dots and the ground
+1.3mm
+chattopadhyay
+additional packaging and charge
+work in semiconductor optics
+integrated our localizing
+architecture the system architecture
+read the led
+address these applications
+binary
+tags direction
+engineering university of washington
+harish
+individual tag it sends
+write commands as requested
+demonstration of an enhanced
+coarsely
+basic task
+locate led passive
+shifts
+localization efforts
+van baar
+blue circles
+smart camera was simply
+reader using the llrp
+intersection of the plane
+events
+robot attempts to perform
+transitions
+personnel in quickly locating
+willow garage pr2
+tereo
+left camera
+rfig
+power & blink cmd
+computational platform designed
+control and received signal
+approach consider the rows
+led-wisp by its epc
+driven
+surface mount capacitor
+individual tag
+wired
+robustness to multi-path
+highly
+individual objects
+diagram showing the camera
+estimation and stereo cameras
+uhf rfid tags
+locate a tagged
+tracking
+localization applications that require
+item precisely
+initializes the rfid
+charges
+two externally triggered cameras
+calibrated out
+directional
+cameras for full
+interface for the client
+tag with integrated leds
+solve
+important to note
+reader singulates an individual
+first the tagged item
+estimated that the accuracy
+camera that is carefully
+leds as function
+multiple reader
+camera precision
+layer profiling
+captures
+collects images
+filtering
+phase information
+performs the difference
+results show
+rgb-d
+order to ensure
+epc write
+full discussion
+grid underneath
+range versus the wisps
+compute their respective
+location is returned
+vertical reference
+mirrors
+result in some error
+application
+fixed location
+hardware and software
+cameras latency
+peak
+stereo data
+object localization
+depended on the distance
+pile
+architecture for tag
+version are discussed
+technology promises to enable
+compute the distance
+real
+methods we propose
+facilitate object
+grasp pose
+read
+papers
+average deviation
+hears a write command
+grid
+makes
+calculated using two
+initializes the rfid localization
+world
+meters in unstructured multi-path
+packaging
+effective solution
+paper addresses the issue
+order to record
+wisp repeatedly
+tend
+predominate
+shown as vectors emanating
+issues a query command
+wireless identification and sensing
+redo the detection
+spatial resolution
+locate a tagged item
+believed that the accuracy
+output
+involve individual item
+resolution under most circumstance
+verify that merchandise
+aiding personnel in quickly
+inventory application
+edge of detection zone
+picture
+isual f eedback
+distance from the shelf
+effective at aiding
+mobile rfid reader
+small amount
+calculated
+tend to be noisy
+images
+stereo camera images
+greatly improved
+detection
+rfid reader and back
+order to determine
+automated system for locating
+tags are represented
+determine the 3-d location
+technical burden
+functionality of the rfid
+write command the wisp
+completed the robot moved
+power
+database
+engineering university
+notable
+combines
+capture the brief led
+trials
+system enables the robot
+host software is implemented
+vision systems
+nature of the led
+represents a uniquely
+left and right images
+ros service
+taking a picture
+injection-avalanche
+rfid technology promises
+issued to the target
+issue faced
+discussed
+accuracy of the ground
+photosensing
+straightforward to calculate
+errors in tag
+greatly
+mounting
+lengths of the vectors
+application that has driven
+ynchronization and s ystem
+tags enhanced
+integrated leds to enabled
+black box interface
+techniques use the rfid
+beacons
+communication
+image
+synchronized to the tag
+willow garage
+majority of images
+paper addresses
+data processing blocks
+modulated distance
+easy find the tagged
+wisp flashes
+tag power
+command to that tag
+location represents a reasonable
+image of the reconstructed
+precisely enough to retrieve
+design of an rfid-based
+shows the 3-d
+system based
+refinements
+human to the tag
+determine range
+variant is location assurance
+insure that the capacitor
+position estimation
+possibility is to extend
+rfid localization
+system architecture the system
+metal fire extinguisher
+signal strength measured
+illuminated
+traditional rf based localization
+recognize and locate individual
+write to a specific
+strength measured
+tag is either inside
+sophisticated
+processing is depicted
+sensing platform
+wireless tags and projectors
+prototype of a passive
+show the effectiveness
+level
+acts as a standard
+lens and image plane
+performs sensing and computation
+optical location method
+operating
+pixel location corresponds
+alanson
+default
+objects on the table
+smith department of computer
+robustness
+un-synchronize
+identify and coarsely locate
+location and magnitude
+location information
+object in the cluttered
+natural extension
+order to quickly
+grasp
+command was issued
+nature
+detailed
+architecture for tag acquisition
+prior work this paper
+architecture developed
+depicted in figure
+rate of the flashing
+measurement
+location of a tag
+channel and tag modulation
+general
+lower bounds
+point cloud is segmented
+positions in order
+tags it is difficult
+controlled
+function and interaction
+success of these techniques
+locating tagged objects
+common tasks
+rfid manufacturing process
+synchronization fig
+proving the functionality
+chambers and well-structured portals
+computer science & engineering
+personnel
+accuracy of this object
+rfid tag uhf rfid
+rationale for the marker
+field
+valid
+work we enhance
+position vectors
+spatial
+rfid led flash
+difference computation
+hardware is item retrieval
+robot attempts
+flashing is dependent
+eedback a ided
+requested
+strength to estimate tag
+moved to the left
+driven the design
+separate
+supply rooms
+attempting to read
+computerized
+interface
+important
+track
+brightness change
+pplication
+sniffer
+rviz
+left camera position
+camera frames and transform
+singulates
+information the pr2 robot
+issues a special
+optically localizing
+charge storage issues
+sophisticated cameras and image
+locate a given led-wisp
+resolution
+represent
+externally
+university of washington
+volume manner as typically
+pointing
+caused
+led passive rfid tags
+optically locate tagged
+location errors
+localizes the led
+rfid protocols
+locate the individual tags
+seattle washington
+interrogation field
+arker tags
+optically locate tagged items
+commonly used in computer
+metal bookshelves and workbenches
+system to locate
+system setup we integrated
+map detection
+kinect cameras
+locating passive rfid
+level to the reader
+fire extinguisher
+show our system enables
+presentation
+protocol and performs sensing
+two table
+mamishev
+programmable sensing
+returned
+repeatedly flash the tags
+rfid communication
+results present
+represented by red dots
+programmable battery-free
+results
+localization and optical
+ultra thin
+simply attempting to read
+scenario two
+rfid localization system
+difference
+camera precision the system
+accuracy then previously
+amount of charge
+strong and consistent
+specific location
+bonded to the rfid
+rao
+strength and phase information
+occurs
+large
+system
+black grid presents
+small
+application scenario for rfid
+results in order
+full 3d position estimation
+avarge
+grasp result
+approximately
+means the precision
+methods such as rssi
+tag is straightforward
+shelf which is calculated
+uncontrolled and unstructured environments
+rate
+perception
+additional components
+perspective
+light with the camera
+plane of the shelf
+utility of this approach
+udp
+meter distance
+required projector
+intersection
+localize objects
+automatically identified and located
+amount of energy
+right stereo camera locations
+circumstance
+vicinity of the rfid
+commands the individual wisps
+rgbd
+basic form the led
+stereo cameras are widely
+np+ injection-avalanche
+method
+contrast
+employed as described
+object with the passive
+full
+shows the system
+trial an error occurred
+jaakkola
+differencemap
+offset for the cameras
+antenna are mounted
+locate led
+robot operating
+usage scenarios
+fast and reliable
+meisen
+led enhanced passive rfid
+i.e
+vector to the led
+planned grasp pose
+sniffer passive
+rfid led
+cameras reader
+work on rfid tag
+identifiable
+based on passive rfid
+robot initializes
+well-structured
+system to localize
+amount
+pick
+wisps design
+rfid tag is presented
+brightest
+uniquely
+technique
+chambers and well-structured
+broadcast over ethernet
+provements in location accuracy
+utilized the digital
+issue for our human
+phase-based uhf rfid
+effects are eliminated
+ros service node
+jrs
+theoretical camera
+recent work in semiconductor
+stereo camera
+multi-path effects in uncontrolled
+creates several unique
+robot-mounted reader with two
+shelf and tags
+robot identify unique objects
+conventional
+takes
+show
+advanced camera calibration
+pointing towards the tags
+two
+two camera frames
+table i m easured
+mori
+sends a pair
+rfid tag in order
+phase based spatial
+precision and robustness
+led arrays on silicon
+object closest
+extend the functionality
+estimated position
+showing the camera synchronization
+camera locates
+tags with leds
+prior work
+location of the shelf
+book being targeted
+experiment the checkerboard
+pairs
+shows the estimated position
+accurately find
+rfid reader and user
+cluttered
+components
+architecture developed for capturing
+general vicinity
+commanded
+majority of usage scenarios
+height and angle
+precise location
+tag modulation properties
+red and green
+shows books
+3-d
+interaction of these blocks
+identify the pixel location
+issues a query
+led enhanced passive
+methods of computerized tag
+burden of localization
+asset management and shipping
+rchitecture using the led-wisp
+high volume manner
+tracking with non-linear kalman
+cmos compatible
+synchronized
+controlled the rf environment
+416*
+response from the camera
+projector represents
+camera captures
+sense
+research topic
+simple
+axis
+information
+chattopadhyay and a harish
+utility of led enhanced
+location estimation
+acts
+green squares represents
+robustness to multi-path effects
+identify and coarsely
+colors showing different segmented
+centimeters
+repeatedly measures a static
+greatly improved by camera
+right camera position
+position of these two
+flash is nearly instantaneous
+localization system
+columns show the localization
+output power level
+single camera
+unique
+listens for data
+variant
+mapping
+plane
+rssi map
+lattice-engineered substrates
+camera image
+pre-specified locations
+power & blink
+unstructured
+led enhanced rfid tag
+jiang
+square represents
+rfid tags creates
+calibrated for optical distortion
+calculating the 3d location
+power for the target
+camera calibration is commonly
+method as described
+clusters
+localization applications
+compatible leds
+rfid transponders
+automated system
+operated out
+localization of tagged inventory
+location performance
+position of the tags
+signal strength fluctuation
+limited by multi-path
+challenges to implementing
+led-enhanced
+infrastructure once and provide
+scaled for the purposes
+performance
+paper
+create a difference map
+reader inventories the tags
+meter to the target
+represents the 3-d
+based localization
+pop out shows
+two cameras
+tag is presented
+camera system
+baar
+handheld
+center of the camera
+detected
+triggers a camera capture
+location in memory
+maximum precision
+query a database
+pointcloud
+epc protocol
+point in space
+optical distortion
+enhance passive
+evaluate
+response is received
+effective method for guiding
+out shows
+complexity and increasing
+prior work on rfid
+location method to precisely
+sensing and computational
+based on rfid beacons
+similarly an un-synchronize
+waits a fixed delay
+reader issues write
+individually commanded to blink
+scenarios position
+easily
+on-board processing capability
+overlayed with the direction
+augmented with an led
+van
+presented
+rfid tag localization initial
+visualization tool
+commanded to blink
+robot needs to find
+inherent
+previous tag localization
+out
+solution consisting
+host gets a request
+task that frequently
+leds when commanded
+read event
+autonomously
+transform the 3-d
+led-enhanced passive rfid
+energy
+rfig lamps
+reduce
+development of personal robotics
+addition of individually
+item is coarsely
+grasping in the unstructured
+quantum
+represented by red
+operation
+power for the mobile
+shown as vectors
+viikari
+robot plan a feasible
+closest
+signal to noise
+two books
+philipose
+tag position
+limited by the cameras
+research
+modulation and received signal
+capture the rfid
+addressable
+safety
+tags with known heights
+20ms in order
+database for the ground
+issue
+enable an electronically
+sophisticated rf-based tag
+planer tag estimation
+wirelessly power nature
+rfid
+joshua r smith department
+localization
+pose of the bookshelf
+shelves
+camera synchronization and data
+humans and camera
+difference between the wisps
+capture
+coarsely locate tagged
+base
+term
+consists of tagged books
+equipped
+two pixels
+object is correctly
+read events
+calculates a direction vector
+passive rfid tags
+wisp whose state mirrors
+benefits
+service
+noted
+navigation
+enhance passive uhf rfid
+represents a substantial increase
+solution overcomes
+localization method as described
+top
+small surface mount capacitor
+shows an image captured
+camera was simply
+major
+video projector and light
+effects in uncontrolled
+results consist
+enables the robot
+write command was issued
+enhanced passive rfid
+flashes
+utilized
+information is desirable
+done
+state for 20ms
+frequently
+ystem
+ntroduction rfid technology promises
+camera height and angle
+out shows a detailed
+silicon on lattice-engineered substrates
+phenomena can drastically affect
+enable the robot
+today provides coarse location
+represents the right camera
+locating a tagged
+rfid tracking with non-linear
+sufficient power
+led enhanced tag
+visible to spectators
+majority
+scheme
+store
+cmd flash
+vectors emanating
+reported methods
+valid detection
+line-of-sight from the rfid
+methods and system
+shelving
+localization process the rfid
+ieee international
+magnitude and phase
+liang-ting
+rfid tag localization utilized
+optical
+received signal strength
+injection-avalanche cmos leds
+publication two externally triggered
+tag stores a small
+center
+localization are demonstrated
+camera calibration
+vectors for each tag
+scenario for rfid
+tagged with the led-wisp
+determined
+workbenches
+video
+reader with two
+system enables
+external protocol sniffer
+localization of tagged
+successful object detection
+build and evaluate
+system must verify
+cameras resolution and lens
+enhanced rfid tag
+defect
+detection technique described earlier
+substantial
+manipulating
+tag has sufficient
+common application
+lie
+rfid tag
+multi-path phenomena can drastically
+calibrate
+work this paper
+repeated for three camera
+ull 3d tag
+power & data epc
+epc gen2 protocol
+tag direction vector
+optics has shown
+finding
+camera position
+difficult
+holographic localization
+tagged objects nearby
+coarse location information
+networking diagram
+node
+3-d visualization
+system for locating
+signal strength
+detection until a valid
+measures
+experiment no marker
+tags is identified
+visible
+capture the blink
+plan
+significant
+position
+measured
+tag flashing
+dispersion
+wisp tag is wired
+battery-free sensing
+mobile
+type sensor
+request to locate
+phenomena can drastically
+dimension
+traditional
+receiving the write
+greater position accuracy
+gen2 rfid
+onclusion
+humans to readily
+reduce the total
+highly effective method
+rfid tag enhanced
+conventional rfid tag today
+standard epc gen2
+tasks in rfid
+camera collects
+brightness
+acquired using the microsoft
+radio and wireless symposium
+data uhf rfid
+locate individual
+tag it sends
+place on the corners
+full 3d tag
+enhanced passive uhf rfid
+images of tagged
+computer vision systems
+easily be implemented
+find
+ground truth is shown
+indicator
+leland
+0.5-1.0 meters
+depended
+emulate the epc
+consistently
+sniffer passive rfid tag
+images with extremely
+design and performance
+received signal
+comparison
+developed cmos compatible
+small surface
+columns
+harvested
+capture the 1ms pulse
+exposure time window
+distance
+dependent
+clusters and the direction
+unstructured and uncontrolled
+ided l ocalization
+tag uhf
+line-of-sight
+ensure that the books
+performance is presented
+tag items
+sniffer wisp
+enhanced rfid tags creates
+cameras trigger input
+merchandise
+locate passive
+capability
+scheme can be greatly
+identify the pixel
+flash the tags
+flash a single
+assuming
+real world scenarios
+selects the object
+1.3mm per meter
+range indoor location
+common
+filtering and smoothing
+pr2 robot equipped
+previous
+easy to identify
+localization initial
+locating
+special command the tag
+correspondences
+achieved
+efficient and highly precise
+substantial increase in complexity
+passive rfid tag power
+humanborne
+microsoft
+tags are marked
+errors in tag location
+handheld readers
+individual
+chambers
+locate a tag
+silicon p+ np+
+fast and reliable object
+explore sensor-enhanced
+metal objects
+shelf and tags relative
+ynchronization
+experiment the rfid
+user
+capture the rfid led
+asset management
+joshua r smith
+humans and computer systems
+10-20
+field of the rfid
+tag provides a highly
+triggered cameras
+integrated leds
+notable exception was demonstrated
+3-d point
+rfid readers
+targeted
+enhanced passive
+platform designed
+rfid tag uhf
+provide a level
+order to harvest additional
+uncontrolled and unstructured
+percent
+multi-path phenomena
+camera has only computed
+block indicates the planned
+captured
+out by the camera
+enables
+review previous
+make it difficult
+led flashes
+paper proposes
+tag response
+chosen for prototyping
+waiting for write commands
+pr2 robot
+minus
+personnel in quickly
+wisps read range versus
+trials resulted
+unstructured metal objects
+people to tagged
+drastically affect rf-based methods
+simultaneously capture
+locate passive tags
+arbitrarily
+kirsch
+respond to the query
+100ms
+represents a reasonable distance
+blink cmd flash led
+form of received signal
+microsoft kinect
+proposed work
+corresponds
+instance the strap
+well-structured portals
+rfid tags in uncontrolled
+simply
+capabilities
+image is a fairly
+communicates over ethernet
+sing
+distance of the shelf
+information in memory
+autonomously grasp tagged items
+volume manner
+localizing system
+explore
+similarly an un-synchronize video
+create
+shown in figure
+pulse of light
+due
+based on rfid
+computer vision
+performs sensing
+determine the 3-d
+instructs the tag
+easily be implemented today
+represents a lower
+high volume
+reflection and multipath
+human or computer vision
+chilukuri
+increase the spatial resolution
+kalman
+fire
+location information is desirable
+leigh
+provide an effective
+precision
+computation tasks
+greater position
+rf-based methods
+cameras are widely
+rfid reader
+locate and grasp
+reader and camera
+sniffer wisp sends
+real world
+robotics and automation
+low cost
+object localization method
+augmenting passive
+propose
+paradigm a mobile
+reliable
+detection zone
+default mode
+cluster
+warehouse
+tag power & blink
+camera was not calibrated
+capability for localizing
+unstructured human environment
+error
+larger errors
+power modulation and received
+arker tags one common
+larger
+small surface mount
+camera to tag
+rfid tags with integrated
+systems
+precision the system
+tags with greater
+wisps to blink
+regions with no depth
+automated identification and localization
+techniques depends
+data epc
+result
+position accuracy
+overlayed
+localization initial work
+baseline
+rfid-based battery-free
+trial
+lengths
+completed the robot
+estimate distance
+individual item identification
+usage scenarios that involve
+reconstructed
+externally triggered
+widely
+blink cmd event
+trigger flash led
+cmos-compatible
+compared to prior
+3-d visualization tool
+table at human-like speeds
+sends a command
+locate led passive rfid
+individual direction
+camera
+willow garage pr2 robot
+monolithic
+precise localization techniques
+camera is operating
+depth images tend
+moving
+tags fig
+camera synchronization
+heights from the ground
+involve individual
+additional power and insure
+lanar 3d rfid
+recent
+mobile rfid
+task
+plessis
+target tag waits
+algainp visible led
+cmos-compatible algainp
+utility of led
+accurately localize
+represents the 3-d location
+vector to that tag
+analysis
+segmented
+difficult tasks for personal
+instantaneous after write
+location tracking
+resulted in successful
+paper proposes augmenting passive
+cmos compatible leds operating
+point that aids
+positioned
+equipped with the rfid
+green block
+developed for capturing
+high reliability
+robot from willow garage
+tasks
+moving objects
+create a difference
+immediately
+camera calibration these results
+traditional rfid location methods
+addresses
+strength and phase
+coarsely locate tagged items
+rfid localization method
+tags are place
+methods are robust
+focus on the methods
+rfid antenna
+pixels that represent
+guaranteed
+multiple reader antennae
+identify unique
+kinect
+method tag
+singulates an individual
+location
+scale-invariant features
+combined many separate
+instructs
+garage pr2 robot
+reconstructed 3d tag locations
+commands as requested
+leds the wireless identification
+complexity and power
+tags led
+showing
+efficiently and repeatedly
+emanating
+nhanced
+facing
+projector represents a substantial
+location of the tag
+cmd flash led fig
+wirelessly
+direction vector
+addresses the issue
+sorting
+images may vary
+small amount of charge
+signal
+identifying
+ramamurthy
+direction vector emanating
+computationally intensive
+segmented into different blobs
+translated
+robot moved
+difficult for humans
+blinks
+low range indoor location
+black box
+method for guiding
+lattice-engineered
+phase
+implemented as a robot
+back
+pings
+tasked with locating
+error occurred when determining
+command that instructs
+rfid industry to include
+optical localization
+power to blink
+computed the 2d location
+command the tag
+tasks while operating exclusively
+self-describing world
+vol
+abstractthe ability to accurately
+difficult to synchronize
+measurements
+square represents the left
+camera locations
+flashed
+defined
+centroid
+cloud
+magnitude of the brightest
+compute
+flashing its led
+straightforward
+augmenting
+resolution 1.3mm per meter
+target tag while waiting
+read range versus
+object
+locate individual tags object
+calculated tag positions
+precise tag localization
+computationally intensive task
+images tend
+boxes
+bookshelves and workbenches
+broadcasts its results
+techniques using passive
+today provides coarse
+volume version
+robotic g rasping robot
+showing the camera
+books that are tagged
+pair of triggers
+versus the wisps
+reader and user
+wisp is a programmable
+shows the system architecture
+1-2 meters
+initializes
+range
+experiment was repeated
+separate binary tag read
+affect rf-based methods
+tag id 410* 416*
+selects the object closest
+band sensing
+inventories the tags
+block
+capacitor
+sensor visualized by rviz
+location represents
+tagged item is coarsely
+multi-path effects are eliminated
+on-board
+human-like
+rfid system
+sources of error
+examples include
+martinez
+consistent led flash
+tag localization utilized
+combined a video projector
+approach of simply attempting
+scenario two marker
+computational
+cmos leds
+three-component solution
+observes a write
+management and shipping application
+blink cmd
+robust
+rows
+store the ground truth
+tags with integrated leds
+confidence
+extremely
+informs the host
+analysis of low range
+represented as angles
+custom
+fixed delay
+led flashing
+examine the accuracy
+truth as blue circles
+individual wisps to blink
+reasonable distance
+record
+showing different segmented objects
+attempts
+coarsely locate books
+event trigger flash
+fixed amount
+points in the left
+multi-path effects
+depth data
+camera on the head
+repeatedly
+scope
+effective method
+rasping robot
+cmos power & data
+raising
+monolithic cmos-compatible algainp
+standard rf localization techniques
+computation tasks while operating
+consist
+read events to localize
+optical localization of passive
+side-by-side books
+truth information in memory
+quickly build
+planer
+heights and separation
+robot identify unique
+medical
+standardized
+tags and commands
+powered
+line that is wired
+tag localization that occurs
+stereo techniques often fail
+height of these tags
+robot equipped
+passive uhf rfid tags
+tags can store
+command
+provements
+promises to enable
+engineering
+flashes its led
+cmd event
+critical bottleneck
+returns a direction
+discussion of the wisps
+burgard
+proposed system to localize
+unknown tags
+target tag
+leds in to rfid
+identified in the two
+1.5-2 meters
+lab environment
+uniquely tagged
+functionality
+camera is computed
+department
+results over udp
+tag on the bookshelf
+reflections
+quickly and accurately find
+spectators
+calculating
+trades
+actual
+flash its led
+robots
+provide a vertical reference
+lens
+based on passive
+diagram showing
+fishkin
+rfid antenna are mounted
+kalman filtering and smoothing
+conventional rfid localization
+cameras trigger
+applications that require
+photosensing wireless tags
+camera images with extremely
+table v the first
+power to flash
+sensing and computation tasks
+led e nhanced passive
+rfid reader singulates
+calculates
+smart cameras
+tradeoff
+depth
+precise tag
+target led wisp
+error is caused
+external frame
+depth images
+truth is shown
+data processing
+grid underneath the objects
+issued
+inventory on shelves
+theoretical
+intersection of each tags
+existing
+acm siggraph
+researchers have explored
+objects for later comparison
+include the additional components
+object on the table
+robot will redo
+issues
+implicit tag
+additional sensing capabilities
+effort
+locates the tag
+demonstrate
+consist of an ultra
+lower
+topic
+critical
+measure the rf channel
+helps
+computing the tag
+tag locations
+robot identify
+include
+calibration these results show
+system localizes the led
+colors showing
+llrp
+consisting of a custom
+locating a tagged item
+form of warehouse storage
+enable an electronically identifiable
+tags with integrated
+transponders
+localization methods we propose
+enhanced wisps
+led enhanced wisps
+chooses
+software is implemented
+warehouse storage
+user tasked
+resulted in successful object
+tag flashes
+locate tagged items
+triggered stereo cameras
+target object detected
+tagged item
+right stereo
+prototypes
+track of pings
+uhf rfid
+described earlier
+radio
+estimating the distance
+optics
+frames and transform
+anechoic
+measured ground truth
+difference computation on board
+object with the led
+localize an object
+represents the left camera
+coarsely locate a tagged
+carefully
+location methods
+respective direction vectors
+large majority of images
+algainp
+system architecture developed
+rfid tag l ocalization
+developed
+blobs
+power modulated distance estimation
+spectators at distances
+camera positions in order
+gen2
+passive uhf rfid tag
+allowing
+waiting
+experiment
+system based on passive
+technology
+tag waits
+reasonable distance and bearing
+non-linear
+led
+simple range
+technology promises
+frame capture
+approximately 100ms
+edge of detection
+led enhanced rfid
+attempts to perform
+depletion layer
+level of ground
+location of the item
+objects
+focused
+separation
+making
+conventional rfid tag
+separate binary tag
+feasible
+tagged objects the intersection
+work on rfid
+consistent led
+trials resulted in successful
+defect engineering
+reader with two antennae
+technical
+led enhanced
+indoor location
+camera whenever is observes
+implementation
+externally triggered stereo
+resulting
+rfid-based battery-free programmable sensing
+trigger the camera
+planer tag localization
+led arrays
+examining
+triggered the led
+find the target object
+assume all tags line
+charge
+410*
+stereo cameras
+scaled
+addressed
+major challenges
+cameras and image
+theoretical camera precision
+localization with rfid technology
+redo
+performs the difference computation
+led is guaranteed
+poses of the two
+extrapolate the 3d position
+usa
+write commands
+find the tagged item
+previously reported
+depicted
+blink cmd flash
+issues write commands
+affect rf-based
+stage
+rfid-enabled
+localization system based
+subsection
+successful grasp
+localization error
+resolution and lens distortion
+development of personal
+rfid-based battery-free programmable
+occurred
+10-20 mm accuracy
+books and boxes
+optical localization methods
+iii
+trigger the cameras
+wisps led flash range
+led-enhanced rfid
+calculated position
+long as the tag
+steps are described
+challenge
+unstructured environment
+perspective the tag flash
+enhanced passive uhf
+individual tags object clustered
+thin
+position vectors are shown
+localization method tag
+response to estimate distance
+addition of individually addressable
+challenge for computer vision
+control
+vectors measured
+examining signal strength
+host provides the black
+process
+total system
+purposes
+high
+tag
+planar 3d solution
+estimating
+camera exposure
+open research topic
+separation distance
+method shifts
+compatible
+sensors
+locates
+reduce the total system
+operating exclusively from harvested
+brightest pixel
+tag localization are demonstrated
+provide more precise
+control the camera
+delay
+located
+back to the tag
+implementing effective computer
+wisps read range
+human or robot
+query command
+listens
+home setting
+blocks
+two marker
+layer profiling and defect
+approach of simply
+blink and there location
+data from the camera
+power modulated
+output power
+lens dispersion
+caused by inaccuracies
+flash and compute
+bounds on location
+vectors are shown pointing
+platform designed to explore
+lanar
+3-d locations
+localize a moving
+robot
+non-linear kalman filtering
+obtained by the kinect
+synchronization
+passive tags
+discussion
+remainder of this section
+robot perception
+personal robots
+method or a combination
+grasp for the selected
+volts
+tagged object
+optically localizing the passive
+meter
+objects from the table
+standard rf localization
+dohrman
+estimation when the tag
+calculated tag
+searching and grasping
+regions
+depletion
+chosen
+binary detection
+rfid-based
+static tags
+objects is a metal
+due to reflection
+intensive task that frequently
+map detection technique described
+processing techniques
+items with millimeter accuracy
+signal in rssi
+researchers
+tracking techniques using passive
+based localization methods
+pixel
+improved by camera calibration
+camera is triggered
+greater
+base line
+rfid tracking
+washington
+rfid protocols and hardware
+accuracy for acquisition
+department of computer science
+2.6mm
+flash
+clustered on table
+leds alanson p sample
+identification and sensing platform
+packaging and charge storage
+creates several unique benefits
+silicon on lattice-engineered
+localize passive
+worlds
+university
+objects nearby
+identified
+segmentation of individual
+sufficiently
+magnitude
+mode
+truth
+tag acts
+goal was to enable
+relative to the camera
+unstructured human
+quickly and accurately
+mounting strap
+sophisticated rf-based
+tag has sufficient power
+determine
+desired object is correctly
+alanson p sample
+books
+work in semiconductor
+localization of passive uhf
+quickly build and evaluate
+measure
+binary detection method
+done for two camera
+robotic g rasping
+special
+tags in uncontrolled
+location accuracy
+range information
+wisps design and performance
+cameras and image processing
+effort to provide
+configures the reader
+sing s tereo
+command from the reader
+shelf is represented
+range estimation
+vector and the point
+verified that a write
+energy into the led
+electronics
+integrated
+red
+architecture
+red square represents
+tag uhf rfid
+optical localization combines
+reader and single camera
+protocol sniffer to trigger
+facing the shelf
+tag is wired
+unstructured environments
+positions and the blue
+region
+information is ambiguous
+commands the individual
+instrumentation and measurement
+locate the item
+peak signal in rssi
+tag id represents
+truth position
+external protocol
+applications
+determining
+applications we propose
+tereo c ameras
+object searching and grasping
+produce
+millimeters
+antenna can provide
+timed
+today
+retail
+facilitate
+table are individually commanded
+designed
+sing m arker
+tags creates several unique
+vectors are arbitrarily scaled
+ntroduction
+power state for 20ms
+ocalization
+work this paper proposes
+scene
+reader issues a special
+date
+precisely
+ser
+compute their respective direction
+optical localization system
+tag enhanced
+management
+sensor on the pr2s
+unknown
+respond
+processing capability
+points can be identified
+powledge
+represents the camera location
+examining signal strength measured
+method for guiding people
+axis of the table
+tags one common application
+presented using the wisp
+programmable
+efficiently
+final
+scenarios position accuracy
+low
+function of depletion
+consist of the location
+order to harvest
+ambiguous
+shelf
+show a successful grasp
+sniffer is a wisp
+mount capacitor could easily
+scores
+baseline distance
+automated identification
+tags object clustered
+method and pixel map
+features transform
+based spatial identification
+shown in table
+remember
+gen2 tag
+camera towards the rfid
+1-2 meters in unstructured
+technical burden of localization
+rfid tag today
+camera is represented
+battery-free programmable
+light
+computer science
+visualized
+located within 10-20
+flashes from the rfid
+mount led
+wisp flashes its led
+image of tagged
+sensing and computational platform
+camera capture to ensure
+mounted on the pr2s
+distance between the centroids
+improved by camera
+effectiveness of this approach
+host
+head provide the capability
+manufacturing a low
+demonstration
+flash the led
+intensive task
+complete
+sufficiently charge
+examples include the tracking
+angle
+shows the image
+tracking of moving
+insure that items
+out cause larger
+indicator is very effective
+instance
+sense this method
+detector
+object is correctly selected
+finally it is important
+accuracy
+tags with greater accuracy
+previous tag localization efforts
+work compared to prior
+localization system to locate
+incorporation of a leds
+resulting depth images tend
+quickly and easy
+tag to localize
+localization is the automated
+experiment our goal
+tags can be located
+lens distortion
+represent the actual
+precision navigation based
+stereo
+3-d environment perceived
+grasping on the object
+pre-specified
+request
+rfid applications
+camera separation
+tags in 3d space
+shows a detailed
+object clustered on table
+wisp platform
+nov
+led enhanced wisp flashes
+implementing effective computer vision
+spatial identification
+photonic transitions
+methods and system architecture
+identification of uhf
+discharges that fixed amount
+led enhanced wisp
+huusko
+wisp ; it triggers
+single camera approach
+confidence scores
+enhanced wisps are marked
+marker tags are place
+combine them with additional
+host software
+ntroduction rfid
+world via photosensing
+localization scheme
+phase-based
+grasping in the cluttered
+read range
+theta and phi
+based
+tag is in range
+slightly when the cameras
+jan
+tag are shown
+squares represents
+command to repeatedly
+position of the tagged
+shows the reconstructed 3-d
+implemented today
+system networking
+distance from the reader
+epc id passive
+applicable
+individual item
+marker
+rfid tags
+find the location
+led e nhanced
+visible led arrays
+results for the single
+protocol and performs
+led can be individually
+millimeter resolution if out
+medical equipment
+shows the estimated
+techniques have been employed
+rfid tag is straightforward
+system complexity and increasing
+process the rfid
+experiment the checkerboard grid
+correct order
+reader antennae
+enhanced rfid tags
+including
+fixed
+left and right camera
+view
+tagged books and boxes
+computed
+precision navigation
+camera positions
+acquired
+frame
+returns a direction vectors
+detailed view
+computes
+identification of corresponding points
+online
+power modulated distance
+enhanced
+corresponds the direction
+robot-mounted reader
+system localizes
+stereo camera position
+algainp visible led arrays
+battery
+item is coarsely located
+task of grasping
+feasible grasp
+interacting
+holographic localization of passive
+wisp
+rfid manufacturing
+exclusively from harvested
+pr2 robot is equipped
+direction vector by finding
+led rfid
+identification
+query the scene
+standard off the shelf
+wisps led flash
+operating system
+calculate the intersection
+ultra-low-power microcontroller
+email
+tagged objects
+show our system
+ability
+spatial identification of uhf
+guiding
+major challenges to implementing
+total system complexity
+identified using standard
+marker tags can easily
+u.washington.edu
+tag and confidence score
+provements in location
+tag position vectors measured
+errors in measurement
+leds alanson
+computing the individual direction
+commands
+camera height
+lie on the plane
+taking
+localization utilized
+willow
+green square
+right images
+enabled asset management
+locate the individual
+directional antenna
+section
+estimation
+black grid
+wisp sends
+technique does require
+tag items lie
+emulate
+emanating from the center
+uhf rfid tag
+communication channel
+3-d point cloud obtained
+tags relative
+detector tag
+environments
+tagged inventory
+based spatial
+anechoic chambers
+coordinates
+table
+proposed system
+degrees as rotated
+robot will find
+additional sensing
+cameras
+trial an error
+addition
+trajectory
+window
+responds
+reader issues write commands
+required point correspondences
+informs
+recognize
+application scenario
+rfid reader and camera
+captures two
+localization techniques is desired
+grasping manipulation of objects
+sophisticated techniques
+moved
+sufficient
+proposed to facilitate
+response to estimate
+bottleneck during the development
+show a successful
+tags line
+overview of c amera
+vicinity of the led-enhanced
+angles
+injection-avalanche cmos
+tag to within approximately
+technique described
+tag are shown emanating
+present
+compatible process
+approach for 3d planer
+long as the tags
+specific location in memory
+kinect to the smart
+triggers
+examine
+camera takes two images
+identify the same led
+localization that occurs
+described in section
+resulting grasping
+passive rfid tag
+error from the center
+raskar
+method tag id 410*
+review previous tag localization
+clustered
+supply
+initial work on rfid
+layer
+objects in the images
+ocalization u sing
+paper proposes augmenting
+led-enhanced passive rfid tags
+surface
+hardware
+making the maximum precision
+triggers the camera
+measurement consistency
+level of ground truth
+vol.1
+nikitin
+highly precise localization
+cameras moved
+results show that individual
+reader antenna
+moves
+computes the differencemap
+detected by the system
+command to the target
+reader inventories
+sensor-enhanced rfid applications
+red arrows
+large majority
+system consistently chooses
+experiment the rfid reader
+layered
+performed the requested write
+event trigger flash led
+shows a block
+final demonstration
+structured the tags environment
+locate individual tags
+flash led fig
+localization with rfid
+1ms pulse of light
+enhanced wisp flashes
+phi
+consists of tagged
+examining signal
+cloud obtained
+measures a static
+1-3
+1-2
+flashing
+robot to recognize
+level and lens dispersion
+1-6
+accuracy of this localization
+mobile system
+authors
+combined a video
+epc gen2 tag
+robotic
+facilitate object searching
+build
+rfid reader inventories
+insure
+monitor that the camera
+reflection
+sensors journal
+allowing him to quickly
+camera system is generally
+projector and light detector
+order to quickly build
+require full 3d position
+science and technology
+combination of precision
+optically locate
+retail displays
+sensing
+demonstrated by meisen
+modification to the binary
+stores
+computed in 3-d space
+eliminated
+storage
+avarge precent error
+environments by augmenting
+horizon
+select
+emanating from the camera
+measure the ground
+rooms
+right stereo camera
+localize
+system is generally implicit
+passive tag is augmented
+profiling and defect engineering
+two known marker tags
+highly precise localization techniques
+networking diagram showing
+tags can easily
+error from the resolution
+manner as typically
+grid presents the estimated
+publication two externally
+order to increase
+performance of an optical
+individually addressed and commanded
+millimeter accuracy
+basic form
+usage
+smart
+method presented
+tests
+camera takes two
+low power
+segmentation
+enhance passive uhf
+np+ injection-avalanche cmos
+arbitrarily scaled
+tag flashing its led
+interrogation
+techniques often fail
+holographic
+burden
+command the tag flashes
+installed
+noted that the actual
+height
+phase based spatial identification
+reader and user tasked
+scope of this work
+locating tags
+grid presents
+success
+grasp tagged items
+location of the tags
+alternatively
+binary tag
+industry to include
+pointcloud as the basis
+grasping the object
+garage
+tag localization initial
+pings sent out
+differencemap to identify
+passive uhf
+propose to combine
+deviation
+pixel location
+ground truth as blue
+navigation based on rfid
+conventional rfid
+phenomena
+world scenarios
+two camera images
+cameras to capture
+rotated and translated
+band
+home
+tagged with led enhanced
+camera will simultaneously capture
+properties in the form
+show that the tags
+pose which the robot
+localization and optical localization
+images of tagged objects
+advanced camera
+led wisps
+ntroduction rfid technology
+views of the kinect
+enhanced strap
+shelf rfid reader
+received instantaneous
+individually addressable
+np+ injection-avalanche cmos leds
+rfid technology
+protocol sniffer
+camera collects images
+demonstrated
+clusters with colors showing
+management and shipping
+meters of spatial
+two pixels that represent
+journal
+explore sensor-enhanced rfid
+data processing is depicted
+self-describing
+issues write
+calibration these results
+two camera
+offset
+high volume version
+level of the reader
+industry
+science
+measured location
+two externally
+extension
+plan a feasible grasp
+mount capacitor
+basis
+http
+shipping
+position vector
+unstructured environments is limited
+designed to explore
+system is generally
+tags with an led
+map have been proposed
+projectors
+position to the location
+software
+line-of-site
+effective computer
+reader and led enhanced
+marked with red arrows
+wisps are marked
+led enhanced rfid tags
+previously
+hospital supply
+vertical axis
+locates the maximum brightness
+verified
+square
+easured
+cameras frame
+accuracy then previously reported
+thin pcb for mounting
+quickly
+utility
+jrs @ cs.washington.edu
+electronically identifiable world
+networking
+additional
+tag in a fixed
+tag while waiting
+conventional rfid localization techniques
+direction vectors
+trigger
+development
+effective computer vision systems
+form of warehouse
+receiving the write command
+exposure
+tagged with led
+signal to noise ratio
+quickly locating
+function
+captured by the fig
+triggered
+basic
+solution overcomes the multi-path
+tag range
+externally triggered cameras
+volume
+squares represents the left
+tasked
+cmd event trigger flash
+automated
+bookshelf
+smoothing
+sensor visualized
+tag is determined
+extension of the inventory
+makes the resolution
+record the stereo
+rfid tags are marked
+passive rfid tag uhf
+easily be calculated
+equipment are in pre-specified
+techniques using passive uhf
+objects in the home
+capacitor is sufficiently charge
+individual wisps
+write command
+tracking of moving objects
+algainp visible
+current system
+problem
+led flash a single
+sensor-enhanced
+bearing
+provide the capability
+servoing
+simply query
+led enhanced passive tag
+semiconductor optics
+frames
+design of rfid protocols
+cmd event trigger
+visual feedback
+blobs of points
+review previous tag
+navigated to the vicinity
+battery-powered
+usa email
+performed the requested
+solve the synchronization problem
+full 3d position
+compared
+calibration
+eedback
+images may vary slightly
+tags direction vector
+coarsely locate
+event trigger
+open research
+book
+precise direction vector
+electronically ensure
+case scenarios position accuracy
+moved from position
+solve the synchronization
+symposium
+location of the target
+left and right
+shown
+method the target
+naive approach of simply
+camera to capture
+ground
+error analysis
+sensing and computation
+ground truth measurements
+rf-based
+positions on the table
+show the utility
+binary tag read
+simultaneously capture the rfid
+repeatedly pick
+detector tag to localize
+system networking diagram
+described
+coarse information is ambiguous
+hears
+method the target object
+rfid-enabled localization
+tag and multiple
+actual position
+bellotti
+truth information
+science & engineering university
+reliability
+hears a write
+rfid tags presented
+human environment
+augmented

@@ -1,0 +1,3774 @@
+camera::0.0200547080447
+led enhanced::0.0195105546472
+led::0.0171645825456
+direction vector::0.0130070364315
+passive rfid tag::0.0117063327883
+led enhanced passive::0.0117063327883
+camera position::0.0117063327883
+write command::0.0117063327883
+marker tags::0.0104056291452
+sniffer wisp::0.0104056291452
+tag localization::0.00948279529618
+wisp::0.00948279529618
+led flash::0.00910492550204
+enhanced passive::0.00910492550204
+single camera::0.00910492550204
+passive uhf rfid::0.00880537027032
+smart camera::0.0078042218589
+stereo camera::0.0078042218589
+enhanced passive rfid::0.0078042218589
+led enhanced rfid::0.0078042218589
+uhf rfid::0.00771307953486
+rfid reader::0.00674558872134
+led wisp::0.00650351821575
+blue circles::0.00650351821575
+pr2 robot::0.00650351821575
+direction vectors::0.00650351821575
+tag::0.00600846336107
+sniffer::0.00594763384271
+leds::0.00594763384271
+uhf rfid tags::0.00593601317451
+rfid reader issues::0.00585316639417
+tag are shown::0.00585316639417
+led enhanced wisps::0.00585316639417
+enhanced rfid tags::0.00585316639417
+flash::0.00582255705695
+rfid::0.00571973794806
+red dots::0.00571857916565
+target tag::0.00554027896288
+passive uhf::0.00548005370066
+tagged objects::0.00541996073841
+stereo::0.00524203090184
+enhanced rfid::0.0052028145726
+kinect::0.0052028145726
+unstructured::0.0052028145726
+reader issues::0.0052028145726
+command::0.00513755034437
+passive rfid tags::0.00508129147388
+marked with red::0.00486624587131
+epc gen2::0.00476548263804
+passive rfid::0.00472359435858
+rfid tags::0.00470544555727
+write::0.00445254363179
+ground truth::0.00433596859073
+optical localization::0.0043255518856
+tagged item::0.0043255518856
+marker::0.0043255518856
+point cloud::0.0043255518856
+stereo cameras::0.0043255518856
+images::0.0042911456364
+rfid tag::0.00423349805081
+system architecture::0.00395734211634
+wisps::0.00390211092945
+grasping::0.00390211092945
+camera locations::0.00390211092945
+blink::0.00390211092945
+pr2::0.00390211092945
+commanded::0.00390211092945
+willow garage::0.00390211092945
+position vectors::0.00390211092945
+enhanced wisps::0.00390211092945
+integrated leds::0.00390211092945
+camera synchronization::0.00390211092945
+individual tags::0.00390211092945
+green square::0.00390211092945
+microsoft kinect::0.00390211092945
+write commands::0.00390211092945
+coarsely locate::0.00390211092945
+3-d point cloud::0.00390211092945
+tag localization method::0.00390211092945
+cameras to optically::0.00390211092945
+localization method tag::0.00390211092945
+shows an image::0.00390211092945
+locations the red::0.00390211092945
+tag l ocalization::0.00390211092945
+power & data::0.00390211092945
+enhanced passive tag::0.00390211092945
+represents the left::0.00390211092945
+humans and computer::0.00390211092945
+sensor microsoft kinect::0.00390211092945
+takes two images::0.00390211092945
+synchronization and data::0.00390211092945
+willow garage pr2::0.00390211092945
+garage pr2 robot::0.00390211092945
+green square represents::0.00390211092945
+error from camera::0.00390211092945
+reconstructed 3d tag::0.00390211092945
+tags with leds::0.00390211092945
+identify and coarsely::0.00390211092945
+tags with integrated::0.00390211092945
+power & blink::0.00390211092945
+ull 3d tag::0.00390211092945
+receiving the write::0.00390211092945
+tags in uncontrolled::0.00390211092945
+command it waits::0.00390211092945
+uncontrolled and unstructured::0.00390211092945
+reader and camera::0.00390211092945
+camera to tag::0.00390211092945
+tags are place::0.00390211092945
+calculated tag positions::0.00390211092945
+flashes its led::0.00390211092945
+reader epc gen2::0.00390211092945
+locate tagged items::0.00390211092945
+table the led::0.00390211092945
+systems with cameras::0.00390211092945
+wisps are marked::0.00390211092945
+uhf rfid tags,”::0.00390211092945
+flash led fig::0.00390211092945
+x,y,z camera position::0.00390211092945
+delay then blinks::0.00390211092945
+rfid reader epc::0.00390211092945
+ocalization u sing::0.00390211092945
+conference on april::0.00390211092945
+avarge precent error::0.00390211092945
+sensing platform wisp::0.00390211092945
+ground truth measurements::0.00390211092945
+enhanced::0.00384046035156
+tagged items::0.00381238611043
+computer vision::0.0036689042793
+tags::0.0036606016841
+passive tag::0.00344828919861
+rfid localization::0.00342503356291
+tagged::0.00339421939218
+cameras::0.00338752764925
+robot::0.003246644636
+desired object::0.0032441639142
+spatial resolution::0.0032441639142
+grasp::0.0032441639142
+square represents::0.0032441639142
+tag in order::0.0032441639142
+identification and sensing::0.0032441639142
+localization of passive::0.0032441639142
+work on rfid::0.0032441639142
+uhf rfid reader::0.0032441639142
+computer vision systems::0.0032441639142
+reader::0.00324287201593
+shelf::0.00317940493391
+passive::0.00306187926613
+image::0.00302699176543
+rfid tag localization::0.00285928958282
+pixel::0.00277013948144
+truth measurements::0.0026014072863
+unstructured environments::0.0026014072863
+camera fig::0.0026014072863
+tag flash::0.0026014072863
+tag direction::0.0026014072863
+surface mount::0.0026014072863
+percent error::0.0026014072863
+locate tagged::0.0026014072863
+object searching::0.0026014072863
+state mirrors::0.0026014072863
+camera takes::0.0026014072863
+camera capture::0.0026014072863
+avarge precent::0.0026014072863
+wireless identification::0.0026014072863
+reader epc::0.0026014072863
+flash led::0.0026014072863
+led fig::0.0026014072863
+ros::0.0026014072863
+optically locate::0.0026014072863
+planer tag::0.0026014072863
+11.0 2.8::0.0026014072863
+garage pr2::0.0026014072863
+precent error::0.0026014072863
+flashing::0.0026014072863
+sensing platform::0.0026014072863
+query command::0.0026014072863
+general vicinity::0.0026014072863
+table fig::0.0026014072863
+optical distortion::0.0026014072863
+sensor microsoft::0.0026014072863
+read event::0.0026014072863
+pixel location::0.0026014072863
+protocol sniffer::0.0026014072863
+camera calibration::0.0026014072863
+type sensor::0.0026014072863
+x,y,z camera::0.0026014072863
+camera positions::0.0026014072863
+platform wisp::0.0026014072863
+easured results::0.0026014072863
+externally triggered::0.0026014072863
+method tag::0.0026014072863
+capacitor::0.0026014072863
+blink cmd::0.0026014072863
+frame trigger::0.0026014072863
+calculated tag::0.0026014072863
+pr2’s head::0.0026014072863
+flashes::0.0026014072863
+camera’s frame::0.0026014072863
+3-d point::0.0026014072863
+black grid::0.0026014072863
+target led::0.0026014072863
+camera system::0.0026014072863
+reader the reader::0.00258621689896
+3-d::0.00257468738184
+vectors::0.0024412371925
+trigger::0.0023744052698
+bookshelf::0.0023744052698
+dots::0.0023744052698
+uhf::0.00231704244191
+epc::0.00221930653863
+• • •::0.00220134256758
+red::0.00220112649271
+object detection::0.0021627759428
+cluttered environment::0.0021627759428
+blue line::0.0021627759428
+lab environment::0.0021627759428
+tag locations::0.0021627759428
+position accuracy::0.0021627759428
+camera images::0.0021627759428
+previously reported::0.0021627759428
+tags relative::0.0021627759428
+gen2::0.00215518074913
+triggered::0.00215518074913
+blue::0.00211921294223
+books::0.00211921294223
+localization::0.00210213612438
+item::0.00209560968376
+rfid antenna::0.00205502013775
+camera’s::0.00197867105817
+localization method::0.00195655688241
+truth::0.00195655688241
+strap::0.00195105546472
+optically::0.00195105546472
+led-wisp::0.00195105546472
+willow::0.00195105546472
+cmos::0.00195105546472
+effort to provide::0.00195105546472
+unstructured multi-path environments::0.00195105546472
+resulting depth images::0.00195105546472
+pile of objects::0.00195105546472
+quantified in table::0.00195105546472
+population of tags::0.00195105546472
+instantaneous rf power::0.00195105546472
+system to locate::0.00195105546472
+wisp b experiment::0.00195105546472
+limited to ⇠10::0.00195105546472
+low cost high::0.00195105546472
+camera stereo cameras::0.00195105546472
+individual tags object::0.00195105546472
+scenarios that involve::0.00195105546472
+environments is limited::0.00195105546472
+macomber liang-ting jiang::0.00195105546472
+maximum precision error::0.00195105546472
+approximately 1.5-2 meters::0.00195105546472
+hears a write::0.00195105546472
+resolution if out::0.00195105546472
+ratio the camera::0.00195105546472
+paradigm a mobile::0.00195105546472
+ystem a rchitecture::0.00195105546472
+8.3 12.1 3.0::0.00195105546472
+low power state::0.00195105546472
+capacitor could easily::0.00195105546472
+“analysis of low::0.00195105546472
+tag with integrated::0.00195105546472
+point cloud obtained::0.00195105546472
+leds to enabled::0.00195105546472
+reader is augmented::0.00195105546472
+pixel map detection::0.00195105546472
+problem the rfid::0.00195105546472
+2004 pp 406–415::0.00195105546472
+tag uhf rfid::0.00195105546472
+accurately the location::0.00195105546472
+explored more sophisticated::0.00195105546472
+sniffer wisp listens::0.00195105546472
+vectors to ros::0.00195105546472
+enabled the fast::0.00195105546472
+issues a command::0.00195105546472
+mobile handheld readers::0.00195105546472
+functionality and utility::0.00195105546472
+finding the centroid::0.00195105546472
+7.3 15.1 2.0::0.00195105546472
+items with millimeter::0.00195105546472
+pick up objects::0.00195105546472
+scale-invariant features transform::0.00195105546472
+issue of locating::0.00195105546472
+11.4 9.6 4.4::0.00195105546472
+surface mount led::0.00195105546472
+rviz a 3-d::0.00195105546472
+lens although advanced::0.00195105546472
+tag is wired::0.00195105546472
+purposes of presentation::0.00195105546472
+locate led passive::0.00195105546472
+increase in complexity::0.00195105546472
+represents a substantial::0.00195105546472
+led wisp repeatedly::0.00195105546472
+memory in order::0.00195105546472
+section will focus::0.00195105546472
+traditional rfid location::0.00195105546472
+locate the item::0.00195105546472
+faced by traditional::0.00195105546472
+extremely high reliability::0.00195105546472
+programmable sensing platform,”::0.00195105546472
+store the ground::0.00195105546472
+18.1 4.6 11.4::0.00195105546472
+depletion layer profiling::0.00195105546472
+power the tag::0.00195105546472
+vectors the intersection::0.00195105546472
+objects the intersection::0.00195105546472
+clusters with colors::0.00195105546472
+ tags”  which  provide::0.00195105546472
+1-6% these results::0.00195105546472
+flashes of light::0.00195105546472
+baar y wang::0.00195105546472
+rfid enabled asset::0.00195105546472
+rf-based tag localization::0.00195105546472
+complete and signal::0.00195105546472
+important to remember::0.00195105546472
+represent an led::0.00195105546472
+image the camera::0.00195105546472
+strength to estimate::0.00195105546472
+processing techniques vii::0.00195105546472
+work which focused::0.00195105546472
+tag 0.46% 0.99%::0.00195105546472
+system ros node::0.00195105546472
+localization and optical::0.00195105546472
+map detection technique::0.00195105546472
+cmos compatible leds::0.00195105546472
+2.8 3.0 14.1::0.00195105546472
+multi-path issue faced::0.00195105546472
+wisp’s led flash::0.00195105546472
+system is generally::0.00195105546472
+important to insure::0.00195105546472
+7.8 10.6 1.9::0.00195105546472
+led-enhanced rfid tag::0.00195105546472
+sensors journal ieee::0.00195105546472
+individually addressable led::0.00195105546472
+singulates an individual::0.00195105546472
+accurately localize passive::0.00195105546472
+tags one common::0.00195105546472
+occurred when determining::0.00195105546472
+simple range estimation::0.00195105546472
+merchandise safety equipment::0.00195105546472
+sends a command::0.00195105546472
+truth as blue::0.00195105546472
+data processing blocks::0.00195105546472
+tag direction vectors::0.00195105546472
+find the target::0.00195105546472
+identify unique objects::0.00195105546472
+issues a write::0.00195105546472
+tagged item compatible::0.00195105546472
+capacitor and discharges::0.00195105546472
+localizes the led::0.00195105546472
+target the led::0.00195105546472
+cloud is segmented::0.00195105546472
+optical localization system::0.00195105546472
+task of identifying::0.00195105546472
+0.1 0.8 0.2::0.00195105546472
+jiang and joshua::0.00195105546472
+commanded to flash::0.00195105546472
+tag localization efforts::0.00195105546472
+utilized the digital::0.00195105546472
+free solution overcomes::0.00195105546472
+robot has navigated::0.00195105546472
+tags with millimeter::0.00195105546472
+prototyping the pop::0.00195105546472
+packaging and charge::0.00195105546472
+usa acm 2004::0.00195105546472
+structured the tags::0.00195105546472
+images the first::0.00195105546472
+camera small errors::0.00195105546472
+increase the spatial::0.00195105546472
+table at human-like::0.00195105546472
+silicon p+ np+::0.00195105546472
+benefits to begin::0.00195105546472
+beacons and robotic::0.00195105546472
+trials where successful::0.00195105546472
+issue a write::0.00195105546472
+means the precision::0.00195105546472
+methods of computerized::0.00195105546472
+wirelessly power nature::0.00195105546472
+camera is represented::0.00195105546472
+3.3 13.5 20.8::0.00195105546472
+addressed and commanded::0.00195105546472
+4.7 1.6 17.2::0.00195105546472
+form of received::0.00195105546472
+quickly and easy::0.00195105546472
+reflections in fact::0.00195105546472
+protocol sniffer passive::0.00195105546472
+7.8 n 7.9::0.00195105546472
+robot perception direction::0.00195105546472
+shows books tagged::0.00195105546472
+estimation and stereo::0.00195105546472
+greater position accuracy::0.00195105546472
+refinement 2 combined::0.00195105546472
+design and performance::0.00195105546472
+power modulated distance::0.00195105546472
+table the radius::0.00195105546472
+result c results::0.00195105546472
+2.0 7.3 15.1::0.00195105546472
+waiting for write::0.00195105546472
+quickly and easily::0.00195105546472
+localizing the led::0.00195105546472
+implementation after receiving::0.00195105546472
+reader then issues::0.00195105546472
+0.99% 4.26% 2.53%::0.00195105546472
+create rf reflections::0.00195105546472
+system b proposed::0.00195105546472
+“binary” tag read::0.00195105546472
+control and received::0.00195105546472
+journal of vol::0.00195105546472
+including the sniffer::0.00195105546472
+addressable led enhanced::0.00195105546472
+tag in millimeters::0.00195105546472
+wisp whose state::0.00195105546472
+ability to measure::0.00195105546472
+scenario two marker::0.00195105546472
+sift object identification::0.00195105546472
+conventional rfid localization::0.00195105546472
+plan a feasible::0.00195105546472
+wang p dietz::0.00195105546472
+rasping robot grasping::0.00195105546472
+minus an offset::0.00195105546472
+8.03% 3.20% 3.55%::0.00195105546472
+phi to extrapolate::0.00195105546472
+channel and tag::0.00195105546472
+events to localize::0.00195105546472
+tag power level::0.00195105546472
+quantum electronics ieee::0.00195105546472
+led is guaranteed::0.00195105546472
+work in semiconductor::0.00195105546472
+visualized by rviz::0.00195105546472
+position vectors measured::0.00195105546472
+trigger flash led::0.00195105546472
+meters iv overview::0.00195105546472
+capability is shown::0.00195105546472
+event this term::0.00195105546472
+shelf the ground::0.00195105546472
+query and locate::0.00195105546472
+camera will simultaneously::0.00195105546472
+perspective the tag::0.00195105546472
+attempts to perform.(b::0.00195105546472
+prototyping the wisp::0.00195105546472
+identified and located::0.00195105546472
+4.6 5.7 avarge::0.00195105546472
+precision is limited::0.00195105546472
+selected the robot::0.00195105546472
+ that  aids  in::0.00195105546472
+calculates a direction::0.00195105546472
+type sensor microsoft::0.00195105546472
+triggers a camera::0.00195105546472
+rssi and power::0.00195105546472
+rfid-enabled localization techniques::0.00195105546472
+synchronization a camera::0.00195105546472
+robot will find::0.00195105546472
+ieee jan 2008::0.00195105546472
+shown promising results::0.00195105546472
+scene and determine::0.00195105546472
+location tracking techniques::0.00195105546472
+cloud after object::0.00195105546472
+shelf rfid reader::0.00195105546472
+show that individual::0.00195105546472
+locating a tagged::0.00195105546472
+16-bit ultra-low-power microcontroller::0.00195105546472
+craig macomber liang-ting::0.00195105546472
+rfid localization techniques::0.00195105546472
+calibrated for optical::0.00195105546472
+modulated distance estimation::0.00195105546472
+un-synchronize video camera::0.00195105546472
+precise location information::0.00195105546472
+difficult to synchronize::0.00195105546472
+antennae this paper::0.00195105546472
+amera s ynchronization::0.00195105546472
+2.8 0.7 2.1::0.00195105546472
+washington seattle washington::0.00195105546472
+detection with confidence::0.00195105546472
+sniffer wisp tag::0.00195105546472
+environment a system::0.00195105546472
+computation on board::0.00195105546472
+conventional stereo techniques::0.00195105546472
+uniquely tagged object::0.00195105546472
+2.7 2.6 1.3::0.00195105546472
+location is returned::0.00195105546472
+epc gen2 power::0.00195105546472
+required projector represents::0.00195105546472
+epc “write” command::0.00195105546472
+case scenarios position::0.00195105546472
+spectators at distances::0.00195105546472
+cmd flash led::0.00195105546472
+tags” the red::0.00195105546472
+uncontrolled environments reading::0.00195105546472
+flash the trade::0.00195105546472
+reduce the total::0.00195105546472
+technique described earlier::0.00195105546472
+hospital supply rooms::0.00195105546472
+“phase based spatial::0.00195105546472
+error in computing::0.00195105546472
+overcomes the multi-path::0.00195105546472
+system the green::0.00195105546472
+iii v isual::0.00195105546472
+4.4 2.4 10.5::0.00195105546472
+effective computer vision::0.00195105546472
+mode the tag::0.00195105546472
+client it communicates::0.00195105546472
+led i.e point::0.00195105546472
+8.7 18.6 7.5::0.00195105546472
+pop out shows::0.00195105546472
+making the maximum::0.00195105546472
+located in unstructured::0.00195105546472
+tags the rgbd::0.00195105546472
+tasks while operating::0.00195105546472
+time the large::0.00195105546472
+microcontroller to emulate::0.00195105546472
+robot to quickly::0.00195105546472
+processing blocks •::0.00195105546472
+sniffer to trigger::0.00195105546472
+computerized tag localization::0.00195105546472
+enhanced with leds::0.00195105546472
+reader and user::0.00195105546472
+located at coordinates::0.00195105546472
+item this method::0.00195105546472
+computing the individual::0.00195105546472
+images and calculates::0.00195105546472
+human or computer::0.00195105546472
+camera synchronization fig::0.00195105546472
+leds the wireless::0.00195105546472
+successful grasp result::0.00195105546472
+show the localization::0.00195105546472
+tag to flash::0.00195105546472
+optics has shown::0.00195105546472
+external frame trigger::0.00195105546472
+workbenches that create::0.00195105546472
+flashing the book::0.00195105546472
+method to precisely::0.00195105546472
+tags,” in radio::0.00195105546472
+detection this means::0.00195105546472
+locates the maximum::0.00195105546472
+i.e the received::0.00195105546472
+table and compute::0.00195105546472
+⇠2 meter distance::0.00195105546472
+tag its led::0.00195105546472
+rfid ic surface::0.00195105546472
+scenario the combination::0.00195105546472
+smart camera’s frame::0.00195105546472
+email alanson@u.washington.edu jrs@cs.washington.edu::0.00195105546472
+identifying an illuminated::0.00195105546472
+reader and single::0.00195105546472
+ a  vertical  reference::0.00195105546472
+viii c onclusion::0.00195105546472
+command that instructs::0.00195105546472
+effective solution figure::0.00195105546472
+augmenting the tags::0.00195105546472
+wisp,” whose state::0.00195105546472
+out of band::0.00195105546472
+blue circles represent::0.00195105546472
+17.2 5.5 8.6::0.00195105546472
+first the rfid::0.00195105546472
+resolution and lens::0.00195105546472
+tracking with non-linear::0.00195105546472
+“packet sniffer wisp,”::0.00195105546472
+gen2 rfid reader::0.00195105546472
+packet sniffer wisp::0.00195105546472
+capture the ⇠1ms::0.00195105546472
+receives a write::0.00195105546472
+led-wisp an automated::0.00195105546472
+detection was completed::0.00195105546472
+represents a reasonable::0.00195105546472
+strap would consist::0.00195105546472
+rgb-d type sensor::0.00195105546472
+majority of images::0.00195105546472
+3.0 2.0 7.3::0.00195105546472
+proposes augmenting passive::0.00195105546472
+0.2 4.6 5.7::0.00195105546472
+earlier to identify::0.00195105546472
+3.2 n 24.9::0.00195105546472
+estimate tag range::0.00195105546472
+fig 10(b shows::0.00195105546472
+form the led::0.00195105546472
+recognize and locate::0.00195105546472
+location the system::0.00195105546472
+science & engineering::0.00195105546472
+radius was approximately::0.00195105546472
+high volume manner::0.00195105546472
+“black box” interface::0.00195105546472
+nhanced passive rfid::0.00195105546472
+exception was demonstrated::0.00195105546472
+0.91% 2.01% 8.03%::0.00195105546472
+information the pr2::0.00195105546472
+uhf rfid transponders,”::0.00195105546472
+blinks the packet::0.00195105546472
+order to harvest::0.00195105546472
+method and pixel::0.00195105546472
+target tag charges::0.00195105546472
+implicit tag localization::0.00195105546472
+effects in uncontrolled::0.00195105546472
+metal objects make::0.00195105546472
+augmenting passive rfid::0.00195105546472
+object by optically::0.00195105546472
+capturing and computing::0.00195105546472
+identification and localization::0.00195105546472
+focused on proving::0.00195105546472
+fig 10(c show::0.00195105546472
+repeatedly and taking::0.00195105546472
+real world scenarios::0.00195105546472
+5.7 avarge precent::0.00195105546472
+localize passive uhf::0.00195105546472
+filtering and smoothing,”::0.00195105546472
+burden of localization::0.00195105546472
+techniques the camera::0.00195105546472
+features transform sift::0.00195105546472
+led when commanded::0.00195105546472
+camera’s frame trigger::0.00195105546472
+computer vision applications::0.00195105546472
+calibrate the poses::0.00195105546472
+system architecture including::0.00195105546472
+change it broadcasts::0.00195105546472
+tool in ros::0.00195105546472
+underneath the objects::0.00195105546472
+pcb for mounting::0.00195105546472
+shelf as shown::0.00195105546472
+ser siggraph ’04::0.00195105546472
+large battery-powered active::0.00195105546472
+consistency the current::0.00195105546472
+commanded corresponding points::0.00195105546472
+pairs one led::0.00195105546472
+protocols and hardware::0.00195105546472
+traditional rf based::0.00195105546472
+1.9 2.0 20.1::0.00195105546472
+systems can reliably::0.00195105546472
+integrated leds alanson::0.00195105546472
+communicate the tag::0.00195105546472
+sample craig macomber::0.00195105546472
+4.6 11.4 9.6::0.00195105546472
+line in 10(a)(b::0.00195105546472
+commands the sniffer::0.00195105546472
+checkerboard grid underneath::0.00195105546472
+setup we integrated::0.00195105546472
+humanborne or robot-mounted::0.00195105546472
+proposed work compared::0.00195105546472
+effects a modification::0.00195105546472
+wisps used operated::0.00195105546472
+epc protocol sniffer::0.00195105546472
+5.5 8.7 18.6::0.00195105546472
+platform and methods::0.00195105546472
+tags and projectors,”::0.00195105546472
+vii the remainder::0.00195105546472
+depth sensor microsoft::0.00195105546472
+blink their leds::0.00195105546472
+reader and led::0.00195105546472
+capture to ensure::0.00195105546472
+single camera approach::0.00195105546472
+shelf are side-by-side::0.00195105546472
+ultra thin pcb::0.00195105546472
+locations respectively tag::0.00195105546472
+consisting of metal::0.00195105546472
+corresponds the direction::0.00195105546472
+modulation and received::0.00195105546472
+cameras each camera::0.00195105546472
+pose and distance::0.00195105546472
+methods previously reported::0.00195105546472
+find the tagged::0.00195105546472
+basis of robot::0.00195105546472
+table are individually::0.00195105546472
+calibration is commonly::0.00195105546472
+tag position vectors::0.00195105546472
+sources of error::0.00195105546472
+projector and light::0.00195105546472
+shows a block::0.00195105546472
+0.7 2.1 2.7::0.00195105546472
+three-component solution consisting::0.00195105546472
+consistent led flash::0.00195105546472
+tag localization utilized::0.00195105546472
+readily available recent::0.00195105546472
+band sensing mechanisms::0.00195105546472
+truth that helps::0.00195105546472
+provide an effective::0.00195105546472
+computed in 3-d::0.00195105546472
+4.4 8.1 2.7::0.00195105546472
+drastically affect rf-based::0.00195105546472
+form of warehouse::0.00195105546472
+“epc protocol sniffer”::0.00195105546472
+tag 0.91% 2.01%::0.00195105546472
+light to solve::0.00195105546472
+observes a write::0.00195105546472
+stereo camera locations::0.00195105546472
+vossiek “holographic localization::0.00195105546472
+quickly locating tagged::0.00195105546472
+include the tracking::0.00195105546472
+4.26% 2.53% 5.22%::0.00195105546472
+stage the camera::0.00195105546472
+management and shipping::0.00195105546472
+existing depth sensor::0.00195105546472
+reader to issue::0.00195105546472
+determined this means::0.00195105546472
+programmable battery-free sensing::0.00195105546472
+green block indicates::0.00195105546472
+robot from willow::0.00195105546472
+vector by finding::0.00195105546472
+fixed time delay::0.00195105546472
+led flash range::0.00195105546472
+applications more precise::0.00195105546472
+majority of usage::0.00195105546472
+red dots stereo::0.00195105546472
+individual direction vectors::0.00195105546472
+design of rfid::0.00195105546472
+create a 3-d::0.00195105546472
+order to examine::0.00195105546472
+8.1 10.2 2.9::0.00195105546472
+clustered on table::0.00195105546472
+wisp the sniffer::0.00195105546472
+command is issued::0.00195105546472
+easily be implemented::0.00195105546472
+manipulating and sorting::0.00195105546472
+environment the led::0.00195105546472
+items by personnel::0.00195105546472
+raskar p beardsley::0.00195105546472
+autonomously grasp tagged::0.00195105546472
+proposed technique combined::0.00195105546472
+captures two table::0.00195105546472
+select the desired::0.00195105546472
+present here represents::0.00195105546472
+equipment or medical::0.00195105546472
+determining the intersection::0.00195105546472
+camera to monitor::0.00195105546472
+space in figure::0.00195105546472
+reading a conventional::0.00195105546472
+epc id epc::0.00195105546472
+pixels this means::0.00195105546472
+7.6 4.1 2.8::0.00195105546472
+moves the reader::0.00195105546472
+shows the reconstructed::0.00195105546472
+2.7 8.1 10.2::0.00195105546472
+robot using kinect::0.00195105546472
+rfid tag flashing::0.00195105546472
+issued this visual::0.00195105546472
+node to control::0.00195105546472
+common application scenario::0.00195105546472
+reader and triggered::0.00195105546472
+reconstructed 3-d locations::0.00195105546472
+indicates the planned::0.00195105546472
+2.0 20.1 3.2::0.00195105546472
+0.2 2.6 2.9::0.00195105546472
+first the tagged::0.00195105546472
+level and lens::0.00195105546472
+exclusively from harvested::0.00195105546472
+stores a small::0.00195105546472
+lens and image::0.00195105546472
+projectors,” in acm::0.00195105546472
+classes of rfid::0.00195105546472
+actual 3d location::0.00195105546472
+limited by multi-path::0.00195105546472
+kinect sensor visualized::0.00195105546472
+tag id 410*::0.00195105546472
+command the wisp::0.00195105546472
+discharges that fixed::0.00195105546472
+hardware is item::0.00195105546472
+operating system ros::0.00195105546472
+include the additional::0.00195105546472
+2.53% 5.22% 1.43%::0.00195105546472
+6.8 13.9 12.3::0.00195105546472
+reader and back::0.00195105546472
+led this pixel::0.00195105546472
+capacitor is sufficiently::0.00195105546472
+variant is location::0.00195105546472
+energy a full::0.00195105546472
+stereo camera positions::0.00195105546472
+previously reported methods::0.00195105546472
+blink cmd event::0.00195105546472
+soles),” semiconductor science::0.00195105546472
+window should coincide::0.00195105546472
+tag is flashing::0.00195105546472
+rfid location methods::0.00195105546472
+tag is augmented::0.00195105546472
+maximum brightness change::0.00195105546472
+transform sift object::0.00195105546472
+architecture the system::0.00195105546472
+desired object cluster::0.00195105546472
+resolution external frame::0.00195105546472
+rfid tags enhanced::0.00195105546472
+sensing platform,” instrumentation::0.00195105546472
+examining signal strength::0.00195105546472
+• it configures::0.00195105546472
+raising an output::0.00195105546472
+microsoft kinect overlayed::0.00195105546472
+i.e blue circles::0.00195105546472
+sniffer passive rfid::0.00195105546472
+previous section examples::0.00195105546472
+low range indoor::0.00195105546472
+distortion of fig::0.00195105546472
+epc gen2 epc::0.00195105546472
+localizing the passive::0.00195105546472
+locate and autonomously::0.00195105546472
+epc gen2 rfid::0.00195105546472
+4.1 13.6 8.3::0.00195105546472
+locate the tags::0.00195105546472
+robotic grasping manipulation::0.00195105546472
+flash the tag’s::0.00195105546472
+find corresponding features::0.00195105546472
+system camera separation::0.00195105546472
+light detector tag::0.00195105546472
+objects precision navigation::0.00195105546472
+amount of charge::0.00195105546472
+precise tag localization::0.00195105546472
+command the target::0.00195105546472
+environment is unstructured::0.00195105546472
+camera the rfid::0.00195105546472
+retrieval of tagged::0.00195105546472
+fact the image::0.00195105546472
+methods a prototype::0.00195105546472
+3.0 14.1 avarge::0.00195105546472
+integrated our localizing::0.00195105546472
+read the led::0.00195105546472
+address these applications::0.00195105546472
+computed the calculated::0.00195105546472
+searching however scan::0.00195105546472
+alanson@u.washington.edu jrs@cs.washington.edu abstract—the::0.00195105546472
+onclusion this paper::0.00195105546472
+on-board processing capability::0.00195105546472
+blinks c theoretical::0.00195105546472
+nearby another variant::0.00195105546472
+camera the black::0.00195105546472
+versus the wisp’s::0.00195105546472
+enable an electronically::0.00195105546472
+defect engineering,” quantum::0.00195105546472
+surface mount capacitor::0.00195105546472
+robustness to multi-path::0.00195105546472
+bookshelf the lens::0.00195105546472
+locate a tagged::0.00195105546472
+cameras for full::0.00195105546472
+papers ser siggraph::0.00195105546472
+components for instance::0.00195105546472
+led wisp minus::0.00195105546472
+9.5 4.6 7.8::0.00195105546472
+3.2 6.8 13.9::0.00195105546472
+pr2 robot figure::0.00195105546472
+technique does require::0.00195105546472
+tag items lie::0.00195105546472
+performs the difference::0.00195105546472
+location is identified::0.00195105546472
+uhf rfid tracking::0.00195105546472
+architecture for tag::0.00195105546472
+capability the rfid::0.00195105546472
+washington usa email::0.00195105546472
+camera is computed::0.00195105546472
+date the incorporation::0.00195105546472
+proceedings icra ’04::0.00195105546472
+redo the detection::0.00195105546472
+involve individual item::0.00195105546472
+18.6 7.5 1.4::0.00195105546472
+verify that merchandise::0.00195105546472
+isual f eedback::0.00195105546472
+effective at aiding::0.00195105546472
+stereo camera images::0.00195105546472
+unknown tags figure::0.00195105546472
+rfid reader inventories::0.00195105546472
+degrees as rotated::0.00195105546472
+tags are represented::0.00195105546472
+additional sensing capabilities::0.00195105546472
+wisp was chosen::0.00195105546472
+order to show::0.00195105546472
+represents a uniquely::0.00195105546472
+taking a picture::0.00195105546472
+straightforward however due::0.00195105546472
+rfid technology promises::0.00195105546472
+straightforward to calculate::0.00195105546472
+based on passive::0.00195105546472
+compatible leds operating::0.00195105546472
+human is implicit::0.00195105546472
+record the stereo::0.00195105546472
+trigger the sniffer::0.00195105546472
+searching and grasping::0.00195105546472
+metal fire extinguisher::0.00195105546472
+applications the wisp::0.00195105546472
+11.7 4.7 1.6::0.00195105546472
+optical location method::0.00195105546472
+ in   calculating::0.00195105546472
+measurements i.e blue::0.00195105546472
+order to quickly::0.00195105546472
+command was issued::0.00195105546472
+positions in order::0.00195105546472
+locating tagged objects::0.00195105546472
+rfid manufacturing process::0.00195105546472
+proving the functionality::0.00195105546472
+shown as vectors::0.00195105546472
+work we enhance::0.00195105546472
+rfid led flash::0.00195105546472
+flashing is dependent::0.00195105546472
+eedback a ided::0.00195105546472
+camera’s trigger input::0.00195105546472
+driven the design::0.00195105546472
+7.9 n 14.1::0.00195105546472
+1.4 11.7 4.7::0.00195105546472
+left camera position::0.00195105546472
+wisp’s read range::0.00195105546472
+issues a special::0.00195105546472
+charge storage issues::0.00195105546472
+correctly the smart::0.00195105546472
+6.0 7.6 4.1::0.00195105546472
+enhanced wisps figure::0.00195105546472
+provide 0.5-1.0 meters::0.00195105546472
+locating passive rfid::0.00195105546472
+waits a fixed::0.00195105546472
+accuracy then previously::0.00195105546472
+tag and returns::0.00195105546472
+strong and consistent::0.00195105546472
+black grid presents::0.00195105546472
+results in order::0.00195105546472
+tag is straightforward::0.00195105546472
+triggered it captures::0.00195105546472
+scenario two cameras::0.00195105546472
+• the host::0.00195105546472
+processing is depicted::0.00195105546472
+antenna are mounted::0.00195105546472
+tags as red::0.00195105546472
+fast and reliable::0.00195105546472
+planned grasp pose::0.00195105546472
+10.2 2.9 6.0::0.00195105546472
+black grid assuming::0.00195105546472
+combination of precision::0.00195105546472
+rfid reader’s ability::0.00195105546472
+target tag waits::0.00195105546472
+rows of books::0.00195105546472
+chambers and well-structured::0.00195105546472
+broadcast over ethernet::0.00195105546472
+5.8 7.9 11.9::0.00195105546472
+effects are eliminated::0.00195105546472
+11.9 5.5 8.7::0.00195105546472
+compatible process additional::0.00195105546472
+creates several unique::0.00195105546472
+calibrated to correct::0.00195105546472
+shelf and tags::0.00195105546472
+advanced camera calibration::0.00195105546472
+challenge for computer::0.00195105546472
+sends a pair::0.00195105546472
+precision and robustness::0.00195105546472
+extend the functionality::0.00195105546472
+book being targeted::0.00195105546472
+rfid communication channel::0.00195105546472
+represents the camera::0.00195105546472
+height and angle::0.00195105546472
+red and green::0.00195105546472
+meters in unstructured::0.00195105546472
+issues a query::0.00195105546472
+pplication  robotic::0.00195105546472
+triggers the camera::0.00195105546472
+shows the image::0.00195105546472
+object fig 10(c::0.00195105546472
+ vertical  reference  point::0.00195105546472
+vectors are shown::0.00195105546472
+find the desired::0.00195105546472
+green squares represents::0.00195105546472
+flash the camera::0.00195105546472
+harvest additional power::0.00195105546472
+2.6 2.9 3.3::0.00195105546472
+computes the differencemap::0.00195105546472
+pr2’s head kinect::0.00195105546472
+rfid tags creates::0.00195105546472
+separation is 200mm::0.00195105546472
+profiling and defect::0.00195105546472
+ntroduction rfid technology::0.00195105546472
+signal strength fluctuation::0.00195105546472
+wisp; it triggers::0.00195105546472
+2608– 2615 nov::0.00195105546472
+captures an image::0.00195105546472
+represents the 3-d::0.00195105546472
+“monolithic cmos-compatible algainp::0.00195105546472
+time to complete::0.00195105546472
+tag is presented::0.00195105546472
+system consistently chooses::0.00195105546472
+location in memory::0.00195105546472
+query a database::0.00195105546472
+localization many researchers::0.00195105546472
+capture by raising::0.00195105546472
+13.9 12.3 0.2::0.00195105546472
+2.6 1.3 0.1::0.00195105546472
+cost high volume::0.00195105546472
+implicit as long::0.00195105546472
+similarly an un-synchronize::0.00195105546472
+reader issues write::0.00195105546472
+rssi the robot::0.00195105546472
+commanded to blink::0.00195105546472
+previous tag localization::0.00195105546472
+task that frequently::0.00195105546472
+leds when commanded::0.00195105546472
+transform the 3-d::0.00195105546472
+led-enhanced passive rfid::0.00195105546472
+addition of individually::0.00195105546472
+consists of tagged::0.00195105546472
+substrates soles),” semiconductor::0.00195105546472
+displays and hospital::0.00195105546472
+attempting to read::0.00195105546472
+capture the rfid::0.00195105546472
+20ms in order::0.00195105546472
+sophisticated rf-based tag::0.00195105546472
+fails because conventional::0.00195105546472
+computational platform designed::0.00195105546472
+integrated leds viii::0.00195105546472
+shows the 3-d::0.00195105546472
+humans and camera::0.00195105546472
+coarsely locate tagged::0.00195105546472
+object is correctly::0.00195105546472
+tags the results::0.00195105546472
+optically locate tagged::0.00195105546472
+listens for data::0.00195105546472
+camera was simply::0.00195105546472
+process the rfid::0.00195105546472
+enable the robot::0.00195105546472
+response is received::0.00195105546472
+information is desirable::0.00195105546472
+7.5 1.4 11.7::0.00195105546472
+power and insure::0.00195105546472
+transponders,” in rfid::0.00195105546472
+enables the robot::0.00195105546472
+state for 20ms::0.00195105546472
+led enhanced tag::0.00195105546472
+visible to spectators::0.00195105546472
+methods and system::0.00195105546472
+magnitude and phase::0.00195105546472
+injection-avalanche cmos leds::0.00195105546472
+7.9 11.9 5.5::0.00195105546472
+localization are demonstrated::0.00195105546472
+12.1 3.0 2.0::0.00195105546472
+computationally intensive task::0.00195105546472
+experiment the checkerboard::0.00195105546472
+correspondences the resulting::0.00195105546472
+external protocol sniffer::0.00195105546472
+localization of tagged::0.00195105546472
+successful object detection::0.00195105546472
+build and evaluate::0.00195105546472
+system must verify::0.00195105546472
+flashing its led::0.00195105546472
+system architecture developed::0.00195105546472
+methods are robust::0.00195105546472
+tag direction vector::0.00195105546472
+tagged objects nearby::0.00195105546472
+board and locates::0.00195105546472
+10.6 1.9 2.0::0.00195105546472
+experiment no marker::0.00195105546472
+capture the blink::0.00195105546472
+2.9 6.0 7.6::0.00195105546472
+request to locate::0.00195105546472
+phenomena can drastically::0.00195105546472
+leds as function::0.00195105546472
+humans to readily::0.00195105546472
+distance the rationale::0.00195105546472
+rfid tag enhanced::0.00195105546472
+standard epc gen2::0.00195105546472
+tasks in rfid::0.00195105546472
+table r eferences::0.00195105546472
+robot operating system::0.00195105546472
+data uhf rfid::0.00195105546472
+software is implemented::0.00195105546472
+full 3d tag::0.00195105546472
+lattice-engineered substrates soles),”::0.00195105546472
+images of tagged::0.00195105546472
+images with extremely::0.00195105546472
+accessed the advantage::0.00195105546472
+exposure time window::0.00195105546472
+ided l ocalization::0.00195105546472
+feasible since multi-path::0.00195105546472
+flash their leds::0.00195105546472
+performance is presented::0.00195105546472
+harvested rf energy::0.00195105546472
+easy to identify::0.00195105546472
+acquisition time finally::0.00195105546472
+identify the pixel::0.00195105546472
+flash a single::0.00195105546472
+command to write::0.00195105546472
+selects the object::0.00195105546472
+1.3mm per meter::0.00195105546472
+range indoor location::0.00195105546472
+pr2 robot equipped::0.00195105546472
+jaakkola “phase-based uhf::0.00195105546472
+scenario for rfid::0.00195105546472
+2.9 3.3 13.5::0.00195105546472
+represent the actual::0.00195105546472
+shelf is represented::0.00195105546472
+experiment the rfid::0.00195105546472
+joshua r smith::0.00195105546472
+i.e battery free::0.00195105546472
+read event indicates::0.00195105546472
+compute their respective::0.00195105546472
+object the experiment::0.00195105546472
+furthermore; the camera::0.00195105546472
+system networking diagram::0.00195105546472
+response to estimate::0.00195105546472
+point in space::0.00195105546472
+chosen for prototyping::0.00195105546472
+locate passive tags::0.00195105546472
+storage retail displays::0.00195105546472
+optical localization combines::0.00195105546472
+conventional rfid tag::0.00195105546472
+high resolution external::0.00195105546472
+communicates over ethernet::0.00195105546472
+methods both magnitude::0.00195105546472
+kinect all host::0.00195105546472
+information in memory::0.00195105546472
+trajectory while repeatedly::0.00195105546472
+pulse of light::0.00195105546472
+determine the 3-d::0.00195105546472
+images another challenge::0.00195105546472
+reflection and multipath::0.00195105546472
+0.46% 0.99% 4.26%::0.00195105546472
+enhanced rfid tag::0.00195105546472
+determine range information::0.00195105546472
+locate and grasp::0.00195105546472
+sniffer wisp sends::0.00195105546472
+version are discussed::0.00195105546472
+8.1 2.7 8.1::0.00195105546472
+object localization method::0.00195105546472
+vol 1 april-1::0.00195105546472
+capability for localizing::0.00195105546472
+unstructured human environment::0.00195105546472
+small surface mount::0.00195105546472
+tags with greater::0.00195105546472
+wisps to blink::0.00195105546472
+5.5 8.6 10.3::0.00195105546472
+camera exposure time::0.00195105546472
+tag has sufficient::0.00195105546472
+efficient and highly::0.00195105546472
+completed the robot::0.00195105546472
+item compatible process::0.00195105546472
+individual item identification::0.00195105546472
+11.2 4.1 13.6::0.00195105546472
+enhance passive uhf::0.00195105546472
+3-d visualization tool::0.00195105546472
+helps with tag::0.00195105546472
+bookshelf this location::0.00195105546472
+meters the location::0.00195105546472
+precise localization techniques::0.00195105546472
+camera is operating::0.00195105546472
+depth images tend::0.00195105546472
+refinements and imtable::0.00195105546472
+lanar 3d rfid::0.00195105546472
+planer tag localization::0.00195105546472
+utility of led::0.00195105546472
+instantaneous after write::0.00195105546472
+resulted in successful::0.00195105546472
+networking diagram showing::0.00195105546472
+developed for capturing::0.00195105546472
+create a difference::0.00195105546472
+strength and phase::0.00195105546472
+rfid localization method::0.00195105546472
+pixels that represent::0.00195105546472
+multiple reader antennae::0.00195105546472
+epc gen2 protocol::0.00195105546472
+host the host::0.00195105546472
+combined many separate::0.00195105546472
+sets of columns::0.00195105546472
+battery free solution::0.00195105546472
+commands as requested::0.00195105546472
+complexity and power::0.00195105546472
+efficiently and repeatedly::0.00195105546472
+beardsley j van::0.00195105546472
+cluttered environment rfid-enabled::0.00195105546472
+sensing and computational::0.00195105546472
+images may vary::0.00195105546472
+passive led enhanced::0.00195105546472
+camera we calibrate::0.00195105546472
+direction vector emanating::0.00195105546472
+trigger and on-board::0.00195105546472
+tags two marker::0.00195105546472
+order to record::0.00195105546472
+difficult for humans::0.00195105546472
+2.0 6.7 18.1::0.00195105546472
+method for guiding::0.00195105546472
+tasked with locating::0.00195105546472
+flashed when commanded::0.00195105546472
+moving objects precision::0.00195105546472
+reader more sophisticated::0.00195105546472
+positions one facing::0.00195105546472
+’04 new york::0.00195105546472
+read range versus::0.00195105546472
+bookshelves and workbenches::0.00195105546472
+broadcasts its results::0.00195105546472
+techniques using passive::0.00195105546472
+today provides coarse::0.00195105546472
+showing the camera::0.00195105546472
+pair of triggers::0.00195105546472
+methods for manufacturing::0.00195105546472
+experiment was repeated::0.00195105546472
+affect rf-based methods::0.00195105546472
+inventories the tags::0.00195105546472
+presents the estimated::0.00195105546472
+find the required::0.00195105546472
+tags is identified::0.00195105546472
+informs the host::0.00195105546472
+represented as angles::0.00195105546472
+approach are quantified::0.00195105546472
+examine the accuracy::0.00195105546472
+2.4 10.5 0.2::0.00195105546472
+query the scene::0.00195105546472
+showing different segmented::0.00195105546472
+coarsely locate books::0.00195105546472
+event trigger flash::0.00195105546472
+rgbd type sensor::0.00195105546472
+acquisition camera synchronization::0.00195105546472
+electronics ieee journal::0.00195105546472
+heights and separation::0.00195105546472
+tags and commands::0.00195105546472
+planer tag estimation::0.00195105546472
+respective direction vectors::0.00195105546472
+direction vector due::0.00195105546472
+tags can store::0.00195105546472
+promises to enable::0.00195105546472
+returns a direction::0.00195105546472
+complexity and increasing::0.00195105546472
+selected object fig::0.00195105546472
+communication channel waiting::0.00195105546472
+results over udp::0.00195105546472
+antenna the sniffer::0.00195105546472
+flash its led::0.00195105546472
+errors in tag::0.00195105546472
+requested write commands::0.00195105546472
+resolution only 2.6mm::0.00195105546472
+target led wisp;::0.00195105546472
+truth is shown::0.00195105546472
+inventory on shelves::0.00195105546472
+paper proposes augmenting::0.00195105546472
+researchers have explored::0.00195105546472
+robot will redo::0.00195105546472
+ros the blue::0.00195105546472
+perception direction vector::0.00195105546472
+locates the tag::0.00195105546472
+computing the tag::0.00195105546472
+tag modulation properties::0.00195105546472
+14.1 avarge precent::0.00195105546472
+tag it sends::0.00195105546472
+camera collects images::0.00195105546472
+triggered stereo cameras::0.00195105546472
+target object detected::0.00195105546472
+setting to address::0.00195105546472
+frames and transform::0.00195105546472
+measured ground truth::0.00195105546472
+manufacturing process iii::0.00195105546472
+coordinates x,y,z figure::0.00195105546472
+process which consists::0.00195105546472
+enhanced passive uhf::0.00195105546472
+challenges to implementing::0.00195105546472
+highly effective method::0.00195105546472
+demonstrated by meisen::0.00195105546472
+table fig 10(b::0.00195105546472
+20.8 2.6 9.5::0.00195105546472
+3.20% 3.55% 2.40%::0.00195105546472
+table fig 10(a::0.00195105546472
+edge of detection::0.00195105546472
+measurement ieee transactions::0.00195105546472
+level of ground::0.00195105546472
+2.01% 8.03% 3.20%::0.00195105546472
+instance the strap::0.00195105546472
+externally triggered stereo::0.00195105546472
+trigger the camera::0.00195105546472
+triggered the led::0.00195105546472
+cameras and image::0.00195105546472
+theoretical camera precision::0.00195105546472
+jrs@cs.washington.edu abstract—the ability::0.00195105546472
+vii a pplication::0.00195105546472
+blink cmd flash::0.00195105546472
+issues write commands::0.00195105546472
+developed cmos compatible::0.00195105546472
+development of personal::0.00195105546472
+rfid-based battery-free programmable::0.00195105546472
+10-20 mm accuracy::0.00195105546472
+pixel the average::0.00195105546472
+antennae more sophisticated::0.00195105546472
+books and boxes::0.00195105546472
+optical localization methods::0.00195105546472
+trigger the cameras::0.00195105546472
+accuracy a final::0.00195105546472
+image plane figure::0.00195105546472
+successful the results::0.00195105546472
+13.5 20.8 2.6::0.00195105546472
+locations the green::0.00195105546472
+planar 3d solution::0.00195105546472
+open research topic::0.00195105546472
+yeager p powledge::0.00195105546472
+tags these techniques::0.00195105546472
+5.22% 1.43% provements::0.00195105546472
+provide more precise::0.00195105546472
+control the camera::0.00195105546472
+implementing effective computer::0.00195105546472
+human or robot::0.00195105546472
+0.2 8.3 12.1::0.00195105546472
+journal ieee vol::0.00195105546472
+unstructured and uncontrolled::0.00195105546472
+emulate the epc::0.00195105546472
+approach of simply::0.00195105546472
+caused by inaccuracies::0.00195105546472
+flash and compute::0.00195105546472
+tags object clustered::0.00195105546472
+finally another proposed::0.00195105546472
+localize a moving::0.00195105546472
+non-linear kalman filtering::0.00195105546472
+battery-powered active tag::0.00195105546472
+position the base::0.00195105546472
+standard rf localization::0.00195105546472
+0.8 0.2 2.6::0.00195105546472
+assume all tags::0.00195105546472
+4.1 2.8 0.7::0.00195105546472
+signal in rssi::0.00195105546472
+reader either humanborne::0.00195105546472
+camera is triggered::0.00195105546472
+accuracy for acquisition::0.00195105546472
+4.6 7.8 10.6::0.00195105546472
+reader the wisp::0.00195105546472
+8.6 10.3 11.2::0.00195105546472
+silicon on lattice-engineered::0.00195105546472
+lab environment finally::0.00195105546472
+vector the blue::0.00195105546472
+segmentation of individual::0.00195105546472
+alanson p sample::0.00195105546472
+trial an error::0.00195105546472
+tags,” in rfid::0.00195105546472
+binary detection method::0.00195105546472
+robotic g rasping::0.00195105546472
+distance and pose::0.00195105546472
+approach a pr2::0.00195105546472
+led and capacitor::0.00195105546472
+picture each time::0.00195105546472
+configures the reader::0.00195105546472
+sing s tereo::0.00195105546472
+12.3 0.2 4.6::0.00195105546472
+“photonic transitions 1.4::0.00195105546472
+electronically identifiable world::0.00195105546472
+facing the shelf::0.00195105546472
+information is ambiguous::0.00195105546472
+commands the individual::0.00195105546472
+instrumentation and measurement::0.00195105546472
+tag id represents::0.00195105546472
+position the direction::0.00195105546472
+applications we propose::0.00195105546472
+2.40% * tags::0.00195105546472
+tereo c ameras::0.00195105546472
+warehouse storage retail::0.00195105546472
+antenna can provide::0.00195105546472
+sing m arker::0.00195105546472
+sarkka v viikari::0.00195105546472
+cameras are widely::0.00195105546472
+miesen f kirsch::0.00195105546472
+indicate the direction::0.00195105546472
+tag this layered::0.00195105546472
+11.0 2.8 3.0::0.00195105546472
+produce a strong::0.00195105546472
+initializes the rfid::0.00195105546472
+scenarios position accuracy::0.00195105546472
+function of depletion::0.00195105546472
+bounds on location::0.00195105546472
+robot identify unique::0.00195105546472
+ which  provide  a::0.00195105546472
+single camera captures::0.00195105546472
+led it responds::0.00195105546472
+techniques is desired::0.00195105546472
+rfid ic mounting::0.00195105546472
+located within 10-20::0.00195105546472
+ point  that  aids::0.00195105546472
+“the binary method”::0.00195105546472
+reliable object searching::0.00195105546472
+improved by camera::0.00195105546472
+item is coarsely::0.00195105546472
+computer vision tests::0.00195105546472
+flash the led::0.00195105546472
+insure that items::0.00195105546472
+out cause larger::0.00195105546472
+command upon receiving::0.00195105546472
+sense this method::0.00195105546472
+camera locations positioned::0.00195105546472
+tag to localize::0.00195105546472
+18.3 n 5.17::0.00195105546472
+experiment our goal::0.00195105546472
+blink and immediately::0.00195105546472
+presentation in order::0.00195105546472
+precision navigation based::0.00195105546472
+3-d environment perceived::0.00195105546472
+speeds without servoing::0.00195105546472
+shows a detailed::0.00195105546472
+led enhanced wisp::0.00195105546472
+manufacturing a low::0.00195105546472
+world via photosensing::0.00195105546472
+“phase-based uhf rfid::0.00195105546472
+theta and phi::0.00195105546472
+6.7 18.1 4.6::0.00195105546472
+viikari m huusko::0.00195105546472
+10.3 11.2 4.1::0.00195105546472
+desired one possibility::0.00195105546472
+command to repeatedly::0.00195105546472
+led passive rfid::0.00195105546472
+epc id passive::0.00195105546472
+vector it selects::0.00195105546472
+led e nhanced::0.00195105546472
+visible led arrays::0.00195105546472
+protocol and performs::0.00195105546472
+reader this passive::0.00195105546472
+shows the estimated::0.00195105546472
+pixel location corresponds::0.00195105546472
+sample d yeager::0.00195105546472
+architecture the “epc::0.00195105546472
+alternatively a three-component::0.00195105546472
+battery-free programmable sensing::0.00195105546472
+stereo camera position::0.00195105546472
+tasks for personal::0.00195105546472
+task of grasping::0.00195105546472
+location and magnitude::0.00195105546472
+dietz j lee::0.00195105546472
+calculate the intersection::0.00195105546472
+show our system::0.00195105546472
+tag and confidence::0.00195105546472
+total system complexity::0.00195105546472
+localization initial work::0.00195105546472
+identified using standard::0.00195105546472
+ “marker  tags”  which::0.00195105546472
+willwacher “rfig lamps::0.00195105546472
+provements in location::0.00195105546472
+errors in measurement::0.00195105546472
+rfid tag uhf::0.00195105546472
+photosensing wireless tags::0.00195105546472
+tag’s direction vector::0.00195105546472
+millimeters the experiment::0.00195105546472
+enabled asset management::0.00195105546472
+locate the individual::0.00195105546472
+mode this makes::0.00195105546472
+1.3 0.1 0.8::0.00195105546472
+addresses the issue::0.00195105546472
+tags a prior::0.00195105546472
+unstructured metal objects::0.00195105546472
+led rfid tag::0.00195105546472
+process additional packaging::0.00195105546472
+required point correspondences::0.00195105546472
+tag the required::0.00195105546472
+strength to coarsely::0.00195105546472
+smoothing,” sensors journal::0.00195105546472
+2.6 9.5 4.6::0.00195105546472
+rao “phase based::0.00195105546472
+show a successful::0.00195105546472
+wisp when triggered::0.00195105546472
+detection is found::0.00195105546472
+localization that occurs::0.00195105546472
+shows the system::0.00195105546472
+dots the measured::0.00195105546472
+ros service node::0.00195105546472
+reader the problem::0.00195105546472
+highly precise localization::0.00195105546472
+function and interaction::0.00195105546472
+sensor-enhanced rfid applications::0.00195105546472
+locate individual tags::0.00195105546472
+personnel in quickly::0.00195105546472
+measures a static::0.00195105546472
+robot to recognize::0.00195105546472
+combined a video::0.00195105546472
+epc gen2 tag::0.00195105546472
+facilitate object searching::0.00195105546472
+ provide  a  vertical::0.00195105546472
+industry to include::0.00195105546472
+tags the basic::0.00195105546472
+truth measurements i.e::0.00195105546472
+people to tagged::0.00195105546472
+1.6 17.2 5.5::0.00195105546472
+tags and cameras::0.00195105546472
+images in pairs::0.00195105546472
+2.1 2.7 2.6::0.00195105546472
+usa email alanson@u.washington.edu::0.00195105546472
+environments by augmenting::0.00195105546472
+measure the ground::0.00195105546472
+blocks • •::0.00195105546472
+separate “binary” tag::0.00195105546472
+tag acquisition camera::0.00195105546472
+make it difficult::0.00195105546472
+manner as typically::0.00195105546472
+ethernet via udp::0.00195105546472
+publication two externally::0.00195105546472
+algainp visible led::0.00195105546472
+range these methods::0.00195105546472
+reader the red::0.00195105546472
+np+ injection-avalanche cmos::0.00195105546472
+powledge a mamishev::0.00195105546472
+techniques often fail::0.00195105546472
+20.1 3.2 6.8::0.00195105546472
+environment rfid-enabled localization::0.00195105546472
+sniffer wisp first::0.00195105546472
+grasp tagged items::0.00195105546472
+power to blink::0.00195105546472
+solve the synchronization::0.00195105546472
+grasping the object::0.00195105546472
+tag localization initial::0.00195105546472
+pings sent out::0.00195105546472
+differencemap to identify::0.00195105546472
+“rfig lamps interacting::0.00195105546472
+cameras to capture::0.00195105546472
+10.5 0.2 8.3::0.00195105546472
+power to flash::0.00195105546472
+rfid reader singulates::0.00195105546472
+engineering,” quantum electronics::0.00195105546472
+5.17 5.8 7.9::0.00195105546472
+bellotti “photonic transitions::0.00195105546472
+estimated one notable::0.00195105546472
+proposed to facilitate::0.00195105546472
+meters of spatial::0.00195105546472
+rfid tag today::0.00195105546472
+explore sensor-enhanced rfid::0.00195105546472
+cmos-compatible algainp visible::0.00195105546472
+calibration these results::0.00195105546472
+high volume version::0.00195105546472
+implicit ii led::0.00195105546472
+designed to explore::0.00195105546472
+9.6 4.4 8.1::0.00195105546472
+moving robot-mounted reader::0.00195105546472
+camera the camera::0.00195105546472
+arrays on silicon::0.00195105546472
+red square represents::0.00195105546472
+information several techniques::0.00195105546472
+application a human::0.00195105546472
+tag while waiting::0.00195105546472
+tagged with led::0.00195105546472
+instructs the tag::0.00195105546472
+image of tagged::0.00195105546472
+represents a lower::0.00195105546472
+externally triggered cameras::0.00195105546472
+tag is determined::0.00195105546472
+makes the resolution::0.00195105546472
+easily be calculated::0.00195105546472
+fitzgerald “monolithic cmos-compatible::0.00195105546472
+passive i.e battery::0.00195105546472
+provide the capability::0.00195105546472
+technology,” in robotics::0.00195105546472
+cmd event trigger::0.00195105546472
+blobs of points::0.00195105546472
+review previous tag::0.00195105546472
+performed the requested::0.00195105546472
+enhanced wisp flashes::0.00195105546472
+full 3d position::0.00195105546472
+15.1 2.0 6.7::0.00195105546472
+vectors are arbitrarily::0.00195105546472
+precise direction vector::0.00195105546472
+moved from position::0.00195105546472
+track of pings::0.00195105546472
+ reference  point  that::0.00195105546472
+method the target::0.00195105546472
+camera to capture::0.00195105546472
+sensing and computation::0.00195105546472
+dots stereo cameras::0.00195105546472
+lee d leigh::0.00195105546472
+tag and multiple::0.00195105546472
+show the utility::0.00195105546472
+rfid tags presented::0.00195105546472
+target object::0.00192826988371
+• •::0.00192826988371
+important to note::0.00192826988371
+tag positions::0.00190619305522
+waits::0.00190619305522
+coarsely::0.00190619305522
+vision systems::0.00190619305522
+rfid tags,”::0.00190619305522
+paper proposes::0.00190619305522
+time delay::0.00190619305522
+tag power::0.00190619305522
+communication channel::0.00190619305522
+localization techniques::0.00177544523091
+uncontrolled environments::0.00172414459931
+3-d location::0.00172414459931
+conventional rfid::0.00172414459931
+individual objects::0.00172414459931
+computer systems::0.00172414459931
+high volume::0.00172414459931
+lens::0.00172414459931
+measured location::0.00172414459931
+triggers::0.00172414459931
+multi-path::0.00162598822152
+host::0.00162598822152
+localization error::0.00162598822152
+charge::0.0016220819571
+emanating::0.0016220819571
+reconstructed::0.0016220819571
+2.6::0.0016220819571
+garage::0.0016220819571
+indoor location tracking::0.0016220819571
+fail to find::0.0016220819571
+rfid localization applications::0.0016220819571
+tag read events::0.0016220819571
+section examples include::0.0016220819571
+identify the correct::0.0016220819571
+tag location estimation::0.0016220819571
+difficult to locate::0.0016220819571
+tag the target::0.0016220819571
+image processing techniques::0.0016220819571
+accuracy in order::0.0016220819571
+manipulation of objects::0.0016220819571
+ramamurthy h leland::0.0016220819571
+dependent on range::0.0016220819571
+ground truth position::0.0016220819571
+hahnel w burgard::0.0016220819571
+inaccuracies in estimating::0.0016220819571
+martinez s ramamurthy::0.0016220819571
+seattle washington usa::0.0016220819571
+methods can provide::0.0016220819571
+robust and reliable::0.0016220819571
+distance and bearing::0.0016220819571
+leland g spiess::0.0016220819571
+ability to accurately::0.0016220819571
+control the output::0.0016220819571
+calculates the position::0.0016220819571
+position to position::0.0016220819571
+resolution is limited::0.0016220819571
+robot is equipped::0.0016220819571
+methods we propose::0.0016220819571
+mobile rfid reader::0.0016220819571
+show the effectiveness::0.0016220819571
+april-1 may 2004::0.0016220819571
+error is caused::0.0016220819571
+results the authors::0.0016220819571
+system to localize::0.0016220819571
+output power level::0.0016220819571
+represented by red::0.0016220819571
+developed the system::0.0016220819571
+work this paper::0.0016220819571
+coarse location information::0.0016220819571
+passive battery-free tags::0.0016220819571
+transactions on vol::0.0016220819571
+tags are marked::0.0016220819571
+locate a tag::0.0016220819571
+provide a level::0.0016220819571
+precision the system::0.0016220819571
+compared to prior::0.0016220819571
+command the tag::0.0016220819571
+nikitin r martinez::0.0016220819571
+applications that require::0.0016220819571
+fig 10(a shows::0.0016220819571
+based localization methods::0.0016220819571
+tracking of moving::0.0016220819571
+identification of uhf::0.0016220819571
+based spatial identification::0.0016220819571
+estimating the distance::0.0016220819571
+tags can easily::0.0016220819571
+quickly and accurately::0.0016220819571
+data in contrast::0.0016220819571
+repeatedly::0.00158293684654
+multi-path effects::0.00158293684654
+objects::0.00157135657914
+optical::0.00155351457704
+order to determine::0.00154339555234
+target::0.00152926980611
+ground::0.00151829818669
+plane::0.00148204334655
+tag location::0.00146756171172
+data processing::0.00146741766181
+7.9::0.00142964479141
+4.6::0.00142964479141
+0.2::0.00142964479141
+ground truth information::0.00142964479141
+find the location::0.00142964479141
+due to reflection::0.00142964479141
+rfid tag power::0.00142964479141
+rfid localization system::0.00142964479141
+amount of energy::0.00142964479141
+propose to combine::0.00142964479141
+conference on vol::0.00142964479141
+localization methods::0.0013970731225
+synchronization::0.0013970731225
+ieee international conference::0.00138877026328
+uncontrolled::0.00137001342517
+prior work::0.00137001342517
+cloud::0.00137001342517
+fig::0.0013607227081
+results show::0.00134959838817
+direction::0.00131828619526
+1.43% provements::0.00130070364315
+0.5-1.0 meters::0.00130070364315
+service node::0.00130070364315
+strength fluctuation::0.00130070364315
+user allowing::0.00130070364315
+feasible grasp::0.00130070364315
+head kinect::0.00130070364315
+reader singulates::0.00130070364315
+harvest additional::0.00130070364315
+abstract—the ability::0.00130070364315
+camera systems::0.00130070364315
+personal robotics::0.00130070364315
+user tasked::0.00130070364315
+liang-ting jiang::0.00130070364315
+camera approach::0.00130070364315
+smart camera’s::0.00130070364315
+special command::0.00130070364315
+“holographic localization::0.00130070364315
+3-d locations::0.00130070364315
+precise direction::0.00130070364315
+vector emanating::0.00130070364315
+location represents::0.00130070364315
+trigger flash::0.00130070364315
+data uhf::0.00130070364315
+rf-based tag::0.00130070364315
+approximately 1.5-2::0.00130070364315
+rgbd type::0.00130070364315
+point correspondences::0.00130070364315
+non-linear kalman::0.00130070364315
+modulation properties::0.00130070364315
+individually commanded::0.00130070364315
+kinect overlayed::0.00130070364315
+“write” command::0.00130070364315
+wisp first::0.00130070364315
+object clustered::0.00130070364315
+llrp protocol::0.00130070364315
+shipping application::0.00130070364315
+computational platform::0.00130070364315
+data epc::0.00130070364315
+3.0 14.1::0.00130070364315
+operating correctly::0.00130070364315
+rfid ics::0.00130070364315
+multi-path issue::0.00130070364315
+led-wisp prototypes::0.00130070364315
+methods previously::0.00130070364315
+environment perceived::0.00130070364315
+tag acquisition::0.00130070364315
+object clusters::0.00130070364315
+developed cmos::0.00130070364315
+robotic grasping::0.00130070364315
+charge storage::0.00130070364315
+7.3 15.1::0.00130070364315
+robot-mounted::0.00130070364315
+brightness::0.00130070364315
+“phase based::0.00130070364315
+individually addressed::0.00130070364315
+item compatible::0.00130070364315
+noticeable difference::0.00130070364315
+12.3 0.2::0.00130070364315
+required projector::0.00130070364315
+tag’s led::0.00130070364315
+0.91% 2.01%::0.00130070364315
+“black box”::0.00130070364315
+storage issues::0.00130070364315
+tracking techniques::0.00130070364315
+compatible leds::0.00130070364315
+computerized tag::0.00130070364315
+guiding people::0.00130070364315
+measured ground::0.00130070364315
+vossiek “holographic::0.00130070364315
+11.4 9.6::0.00130070364315
+2.1 2.7::0.00130070364315
+thin pcb::0.00130070364315
+promising results::0.00130070364315
+networking diagram::0.00130070364315
+correct pixel::0.00130070364315
+“packet sniffer::0.00130070364315
+blocks •::0.00130070364315
+localizing system::0.00130070364315
+large battery-powered::0.00130070364315
+additional packaging::0.00130070364315
+enabled asset::0.00130070364315
+locating passive::0.00130070364315
+detection technique::0.00130070364315
+⇠10 meters::0.00130070364315
+center top::0.00130070364315
+ point  that::0.00130070364315
+reliably capture::0.00130070364315
+resolution 1.3mm::0.00130070364315
+resulting depth::0.00130070364315
+tags creates::0.00130070364315
+11.7 4.7::0.00130070364315
+rfid transponders,”::0.00130070364315
+affect rf-based::0.00130070364315
+wisp listens::0.00130070364315
+depth sensor::0.00130070364315
+bookshelf power::0.00130070364315
+confidence score::0.00130070364315
+requested write::0.00130070364315
+facing surface::0.00130070364315
+easy find::0.00130070364315
+sorting line-of-site::0.00130070364315
+wisp’s read::0.00130070364315
+significant time::0.00130070364315
+human-like speeds::0.00130070364315
+implementing effective::0.00130070364315
+cameras left::0.00130070364315
+readily identify::0.00130070364315
+items lie::0.00130070364315
+simple range::0.00130070364315
+tags represented::0.00130070364315
+greater accuracy::0.00130070364315
+semiconductor science::0.00130070364315
+vectors represents::0.00130070364315
+mount led::0.00130070364315
+18.6 7.5::0.00130070364315
+triggered stereo::0.00130070364315
+measurements i.e::0.00130070364315
+“monolithic cmos-compatible::0.00130070364315
+packet sniffer::0.00130070364315
+hospital supply::0.00130070364315
+first sets::0.00130070364315
+scale-invariant features::0.00130070364315
+shown pointing::0.00130070364315
+15.1 2.0::0.00130070364315
+illuminated led::0.00130070364315
+operating exclusively::0.00130070364315
+moving robot-mounted::0.00130070364315
+work compared::0.00130070364315
+rgb-d type::0.00130070364315
+separate “binary”::0.00130070364315
+existing depth::0.00130070364315
+addressable led::0.00130070364315
+photosensing wireless::0.00130070364315
+tag modulation::0.00130070364315
+sophisticated cameras::0.00130070364315
+free solution::0.00130070364315
+layered approach::0.00130070364315
+rfid industry::0.00130070364315
+manufacturing process::0.00130070364315
+2.9 3.3::0.00130070364315
+shown emanating::0.00130070364315
+6.7 18.1::0.00130070364315
+read method::0.00130070364315
+camera frames::0.00130070364315
+5.17 5.8::0.00130070364315
+metal bookshelves::0.00130070364315
+battery-free sensing::0.00130070364315
+ensure synchronization::0.00130070364315
+provide 0.5-1.0::0.00130070364315
+reader inventories::0.00130070364315
+individually address::0.00130070364315
+coarsely located::0.00130070364315
+siggraph ’04::0.00130070364315
+light pulse::0.00130070364315
+unstructured multi-path::0.00130070364315
+measurement ieee::0.00130070364315
+video projector::0.00130070364315
+sensor-enhanced rfid::0.00130070364315
+tag estimation::0.00130070364315
+previous tag::0.00130070364315
+naive approach::0.00130070364315
+synchronization method::0.00130070364315
+stereo techniques::0.00130070364315
+3.2 6.8::0.00130070364315
+1.4 11.7::0.00130070364315
+maximum brightness::0.00130070364315
+papers ser::0.00130070364315
+shelving scenario::0.00130070364315
+wisp platform::0.00130070364315
+406–415 online::0.00130070364315
+millimeter::0.00130070364315
+24.9 7.8::0.00130070364315
+repeatedly flash::0.00130070364315
+camera separation::0.00130070364315
+autonomously grasp::0.00130070364315
+locating tagged::0.00130070364315
+programmable battery-free::0.00130070364315
+books tagged::0.00130070364315
+fairly straightforward::0.00130070364315
+object detected::0.00130070364315
+case scenarios::0.00130070364315
+12.1 3.0::0.00130070364315
+object cluster::0.00130070364315
+columns show::0.00130070364315
+sniffer passive::0.00130070364315
+vectors measured::0.00130070364315
+automatically identified::0.00130070364315
+coordinates x,y,z::0.00130070364315
+generally implicit::0.00130070364315
+repeatedly measures::0.00130070364315
+multi-path environments::0.00130070364315
+jrs@cs.washington.edu abstract—the::0.00130070364315
+merchandise safety::0.00130070364315
+wisps figure::0.00130070364315
+item identification::0.00130070364315
+optically localizing::0.00130070364315
+frequently fails::0.00130070364315
+wirelessly power::0.00130070364315
+2.8 3.0::0.00130070364315
+unique benefits::0.00130070364315
+trigger input::0.00130070364315
+4.7 1.6::0.00130070364315
+grasping manipulation::0.00130070364315
+individual direction::0.00130070364315
+location assurance::0.00130070364315
+3-d pointcloud::0.00130070364315
+ that  aids::0.00130070364315
+techniques vii::0.00130070364315
+localization combines::0.00130070364315
+projector::0.00130070364315
+identifiable world::0.00130070364315
+5.8 7.9::0.00130070364315
+plane figure::0.00130070364315
+implemented today::0.00130070364315
+tag flashes::0.00130070364315
+standard epc::0.00130070364315
+ull::0.00130070364315
+power modulation::0.00130070364315
+8.03% 3.20%::0.00130070364315
+pixel map::0.00130070364315
+un-synchronize video::0.00130070364315
+mirrors::0.00130070364315
+highly precise::0.00130070364315
+grasp tagged::0.00130070364315
+vector due::0.00130070364315
+notable exception::0.00130070364315
+20.1 3.2::0.00130070364315
+tags environment::0.00130070364315
+trades accuracy::0.00130070364315
+aiding personnel::0.00130070364315
+item retrieval::0.00130070364315
+techniques show::0.00130070364315
+led illuminated::0.00130070364315
+pr2’s::0.00130070364315
+smith department::0.00130070364315
+power state::0.00130070364315
+power nature::0.00130070364315
+cmos power::0.00130070364315
+locate books::0.00130070364315
+0.7 2.1::0.00130070364315
+2.6 9.5::0.00130070364315
+localization initial::0.00130070364315
+16-bit ultra-low-power::0.00130070364315
+17.2 5.5::0.00130070364315
+inherent tradeoff::0.00130070364315
+precise tag::0.00130070364315
+unstructured metal::0.00130070364315
+14.1::0.00130070364315
+system consistently::0.00130070364315
+i.e battery::0.00130070364315
+simultaneously capture::0.00130070364315
+simply attempting::0.00130070364315
+layer profiling::0.00130070364315
+grasping manipulating::0.00130070364315
+technique combined::0.00130070364315
+vision tests::0.00130070364315
+led i.e::0.00130070364315
+squares represents::0.00130070364315
+vary slightly::0.00130070364315
+conventional stereo::0.00130070364315
+negative pixel::0.00130070364315
+rfid beacons::0.00130070364315
+0.2 2.6::0.00130070364315
+processing blocks::0.00130070364315
+pre-specified locations::0.00130070364315
+13.6 8.3::0.00130070364315
+item figure::0.00130070364315
+precisely locate::0.00130070364315
+robot sensors::0.00130070364315
+standardized hardware::0.00130070364315
+detailed view::0.00130070364315
+human’s perspective::0.00130070364315
+drastically affect::0.00130070364315
+robot-mounted reader::0.00130070364315
+quantum electronics::0.00130070364315
+tag’s direction::0.00130070364315
+led passive::0.00130070364315
+shelf rfid::0.00130070364315
+2.6mm finally::0.00130070364315
+easily accessed::0.00130070364315
+metal fire::0.00130070364315
+metal shelf::0.00130070364315
+additional power::0.00130070364315
+tag charges::0.00130070364315
+handheld readers::0.00130070364315
+fitzgerald “monolithic::0.00130070364315
+enhanced tag::0.00130070364315
+binary method”::0.00130070364315
+led rfid::0.00130070364315
+siggraph::0.00130070364315
+unique objects::0.00130070364315
+world perceived::0.00130070364315
+image acquired::0.00130070364315
+electronically identifiable::0.00130070364315
+sensing mechanisms::0.00130070364315
+9.5 4.6::0.00130070364315
+visual indicator::0.00130070364315
+head provide::0.00130070364315
+storage retail::0.00130070364315
+lamps interacting::0.00130070364315
+side-by-side books::0.00130070364315
+safety equipment::0.00130070364315
+space assume::0.00130070364315
+enhanced wisp::0.00130070364315
+rfid manufacturing::0.00130070364315
+ a  vertical::0.00130070364315
+light detector::0.00130070364315
+led-enhanced passive::0.00130070364315
+visible led::0.00130070364315
+tag today::0.00130070364315
+estimated plane::0.00130070364315
+mounting::0.00130070364315
+brightness change::0.00130070364315
+optical location::0.00130070364315
+410* 416*::0.00130070364315
+10.5 0.2::0.00130070364315
+tag flashing::0.00130070364315
+11.0::0.00130070364315
+basic task::0.00130070364315
+localization efforts::0.00130070364315
+van baar::0.00130070364315
+left camera::0.00130070364315
+grid assuming::0.00130070364315
+item precisely::0.00130070364315
+ provide  a::0.00130070364315
+multiple reader::0.00130070364315
+full discussion::0.00130070364315
+camera small::0.00130070364315
+stereo data::0.00130070364315
+grasp pose::0.00130070364315
+gen2 epc::0.00130070364315
+reconstructed 3-d::0.00130070364315
+8.1 2.7::0.00130070364315
+wisp repeatedly::0.00130070364315
+7.5 1.4::0.00130070364315
+detection zone::0.00130070364315
+peak signal::0.00130070364315
+2.4 10.5::0.00130070364315
+automated system::0.00130070364315
+⇠1ms pulse::0.00130070364315
+process iii::0.00130070364315
+technical burden::0.00130070364315
+alanson@u.washington.edu jrs@cs.washington.edu::0.00130070364315
+ros service::0.00130070364315
+camera stereo::0.00130070364315
+solution consisting::0.00130070364315
+tags enhanced::0.00130070364315
+wisp flashes::0.00130070364315
+environment rfid-enabled::0.00130070364315
+“photonic transitions::0.00130070364315
+11.9 5.5::0.00130070364315
+unstructured consisting::0.00130070364315
+transitions 1.4::0.00130070364315
+battery-free programmable::0.00130070364315
+i.e point::0.00130070364315
+acquisition camera::0.00130070364315
+10.2 2.9::0.00130070364315
+journal ieee::0.00130070364315
+natural extension::0.00130070364315
+willwacher “rfig::0.00130070364315
+detector tag::0.00130070364315
+architecture developed::0.00130070364315
+synchronization fig::0.00130070364315
+kinect cameras::0.00130070364315
+difference computation::0.00130070364315
+supply rooms::0.00130070364315
+passive led::0.00130070364315
+pplication::0.00130070364315
+difference image::0.00130070364315
+externally::0.00130070364315
+camera’s latency::0.00130070364315
+checkerboard grid::0.00130070364315
+interrogation field::0.00130070364315
+arker tags::0.00130070364315
+coarse information::0.00130070364315
+fire extinguisher::0.00130070364315
+compatible process::0.00130070364315
+protocol sniffer”::0.00130070364315
+“inventory” application::0.00130070364315
+programmable sensing::0.00130070364315
+on-board processing::0.00130070364315
+results present::0.00130070364315
+ultra thin::0.00130070364315
+–919 june::0.00130070364315
+explore sensor-enhanced::0.00130070364315
+image captured::0.00130070364315
+avarge::0.00130070364315
+ros node::0.00130070364315
+additional components::0.00130070364315
+proposes augmenting::0.00130070364315
+0.46% 0.99%::0.00130070364315
+robot operating::0.00130070364315
+channel waiting::0.00130070364315
+⇠2 meter::0.00130070364315
+millimeter resolution::0.00130070364315
+locate led::0.00130070364315
+usage scenarios::0.00130070364315
+rfid led::0.00130070364315
+cameras reader::0.00130070364315
+robot initializes::0.00130070364315
+wisps design::0.00130070364315
+gen2 protocol::0.00130070364315
+theoretical camera::0.00130070364315
+ “marker  tags”::0.00130070364315
+planned grasp::0.00130070364315
+objects make::0.00130070364315
+object closest::0.00130070364315
+accurately find::0.00130070364315
+shows books::0.00130070364315
+sufficiently charge::0.00130070364315
+block indicates::0.00130070364315
+7.9 11.9::0.00130070364315
+cmos compatible::0.00130070364315
+projector represents::0.00130070364315
+camera captures::0.00130070364315
+4.4 2.4::0.00130070364315
+wisp tag::0.00130070364315
+difficult tasks::0.00130070364315
+custom rfid::0.00130070364315
+leds operating::0.00130070364315
+2.0 20.1::0.00130070364315
+operated out::0.00130070364315
+location performance::0.00130070364315
+green squares::0.00130070364315
+led-enhanced::0.00130070364315
+2.6 1.3::0.00130070364315
+gen2 power::0.00130070364315
+epc protocol::0.00130070364315
+5.7 avarge::0.00130070364315
+epc “write”::0.00130070364315
+pop out::0.00130070364315
+scenarios position::0.00130070364315
+ aids  in::0.00130070364315
+2.0 7.3::0.00130070364315
+0.99% 4.26%::0.00130070364315
+2.7 8.1::0.00130070364315
+tag stores::0.00130070364315
+2.53% 5.22%::0.00130070364315
+2.7 2.6::0.00130070364315
+grasp result::0.00130070364315
+camera’s trigger::0.00130070364315
+4.1 13.6::0.00130070364315
+simply moved::0.00130070364315
+“rfig lamps::0.00130070364315
+14.1 avarge::0.00130070364315
+solution overcomes::0.00130070364315
+initial work::0.00130070364315
+2615 nov::0.00130070364315
+results consist::0.00130070364315
+14.1 3.2::0.00130070364315
+6.8 13.9::0.00130070364315
+cmd flash::0.00130070364315
+vectors emanating::0.00130070364315
+valid detection::0.00130070364315
+3-d environment::0.00130070364315
+techniques depends::0.00130070364315
+common application::0.00130070364315
+200mm furthermore;::0.00130070364315
+4.6 7.8::0.00130070364315
+camera collects::0.00130070364315
+locate individual::0.00130070364315
+camera precision::0.00130070364315
+small surface::0.00130070364315
+camera’s resolution::0.00130070364315
+macomber liang-ting::0.00130070364315
+8.7 18.6::0.00130070364315
+tag uhf::0.00130070364315
+tag items::0.00130070364315
+passive i.e::0.00130070364315
+tag 0.46%::0.00130070364315
+locations positioned::0.00130070364315
+2.7::0.00130070364315
+email alanson@u.washington.edu::0.00130070364315
+i.e blue::0.00130070364315
+triggered cameras::0.00130070364315
+7.6 4.1::0.00130070364315
+platform designed::0.00130070364315
+multi-path phenomena::0.00130070364315
+consistent led::0.00130070364315
+maximum precision::0.00130070364315
+system camera::0.00130070364315
+x,y,z figure::0.00130070364315
+trials resulted::0.00130070364315
+reliable object::0.00130070364315
+robot attempts::0.00130070364315
+well-structured portals::0.00130070364315
+7.9 18.3::0.00130070364315
+leds viii::0.00130070364315
+sing::0.00130070364315
+smoothing,” sensors::0.00130070364315
+volume manner::0.00130070364315
+performs sensing::0.00130070364315
+8.1 10.2::0.00130070364315
+involve individual::0.00130070364315
+computation tasks::0.00130070364315
+rf-based methods::0.00130070364315
+robot plan::0.00130070364315
+augmenting passive::0.00130070364315
+5.22% 1.43%::0.00130070364315
+default mode::0.00130070364315
+proceedings icra::0.00130070364315
+ reference  point::0.00130070364315
+“phase-based uhf::0.00130070364315
+rfid-based battery-free::0.00130070364315
+camera locates::0.00130070364315
+flash range::0.00130070364315
+nhanced passive::0.00130070364315
+9.6 4.4::0.00130070364315
+green block::0.00130070364315
+high reliability::0.00130070364315
+ser siggraph::0.00130070364315
+identify unique::0.00130070364315
+box” interface::0.00130070364315
+angles theta::0.00130070364315
+battery free::0.00130070364315
+0.8 0.2::0.00130070364315
+red square::0.00130070364315
+3.0::0.00130070364315
+3-d visualization::0.00130070364315
+self-describing world::0.00130070364315
+transform sift::0.00130070364315
+carefully synchronized::0.00130070364315
+images tend::0.00130070364315
+3.55% 2.40%::0.00130070364315
+18.1 4.6::0.00130070364315
+volume version::0.00130070364315
+library situation::0.00130070364315
+1-2 meters::0.00130070364315
+band sensing::0.00130070364315
+10.3 11.2::0.00130070364315
+7.8 10.6::0.00130070364315
+cmos leds::0.00130070364315
+three-component solution::0.00130070364315
+kinect sensor::0.00130070364315
+1.6 17.2::0.00130070364315
+6.0 7.6::0.00130070364315
+time finally::0.00130070364315
+fixed delay::0.00130070364315
+reasonable distance::0.00130070364315
+fixed amount::0.00130070364315
+depth data::0.00130070364315
+digital nature::0.00130070364315
+map detection::0.00130070364315
+required point::0.00130070364315
+planer::0.00130070364315
+cmd event::0.00130070364315
+critical bottleneck::0.00130070364315
+soles),” semiconductor::0.00130070364315
+1.3 0.1::0.00130070364315
+calibrated out::0.00130070364315
+architecture including::0.00130070364315
+1.5-2 meters::0.00130070364315
+uniquely tagged::0.00130070364315
+localization utilized::0.00130070364315
+“epc protocol::0.00130070364315
+blinks::0.00130070364315
+overcome alternatively::0.00130070364315
+external frame::0.00130070364315
+depth images::0.00130070364315
+4.26% 2.53%::0.00130070364315
+acm siggraph::0.00130070364315
+0.1 0.8::0.00130070364315
+implicit tag::0.00130070364315
+tags presented::0.00130070364315
+robot identify::0.00130070364315
+colors showing::0.00130070364315
+ tags”  which::0.00130070364315
+warehouse storage::0.00130070364315
+acm 2004::0.00130070364315
+platform,” instrumentation::0.00130070364315
+13.5 20.8::0.00130070364315
+13.9 12.3::0.00130070364315
+shown promising::0.00130070364315
+“marker tags”::0.00130070364315
+tag waits::0.00130070364315
+host software::0.00130070364315
+frame capture::0.00130070364315
+approximately 100ms::0.00130070364315
+depletion layer::0.00130070364315
+cmos-compatible algainp::0.00130070364315
+np+ injection-avalanche::0.00130070364315
+tag ultimately::0.00130070364315
+5.5 8.7::0.00130070364315
+5.5 8.6::0.00130070364315
+11.2 4.1::0.00130070364315
+10(c show::0.00130070364315
+major challenges::0.00130070364315
+vision applications::0.00130070364315
+10(a)(b indicate::0.00130070364315
+10(b shows::0.00130070364315
+icra ’04::0.00130070364315
+2.0 6.7::0.00130070364315
+successful grasp::0.00130070364315
+jan 2008::0.00130070364315
+led-enhanced rfid::0.00130070364315
+4.1 2.8::0.00130070364315
+unstructured environment::0.00130070364315
+tag 0.91%::0.00130070364315
+total system::0.00130070364315
+harish “analysis::0.00130070364315
+camera exposure::0.00130070364315
+wisp’s led::0.00130070364315
+method shifts::0.00130070364315
+process additional::0.00130070364315
+⇠4 meters::0.00130070364315
+brightest pixel::0.00130070364315
+separation distance::0.00130070364315
+“binary” tag::0.00130070364315
+engineering,” quantum::0.00130070364315
+power modulated::0.00130070364315
+lens dispersion::0.00130070364315
+personal robots::0.00130070364315
+ vertical  reference::0.00130070364315
+mobile handheld::0.00130070364315
+binary detection::0.00130070364315
+locate passive::0.00130070364315
+resulting grasping::0.00130070364315
+environments reading::0.00130070364315
+dots stereo::0.00130070364315
+event indicates::0.00130070364315
+effective computer::0.00130070364315
+mounting strap::0.00130070364315
+sophisticated rf-based::0.00130070364315
+modulated distance::0.00130070364315
+4.4 8.1::0.00130070364315
+led flashing::0.00130070364315
+rfid-enabled localization::0.00130070364315
+8.6 10.3::0.00130070364315
+1.9 2.0::0.00130070364315
+successful object::0.00130070364315
+8.3 12.1::0.00130070364315
+0.2 4.6::0.00130070364315
+external protocol::0.00130070364315
+ which  provide::0.00130070364315
+jaakkola “phase-based::0.00130070364315
+tag enhanced::0.00130070364315
+camera location::0.00130070364315
+robot grasping::0.00130070364315
+baseline distance::0.00130070364315
+automated identification::0.00130070364315
+features transform::0.00130070364315
+objects precision::0.00130070364315
+precise robust::0.00130070364315
+segmented objects::0.00130070364315
+2.8::0.00130070364315
+process first::0.00130070364315
+predominate sources::0.00130070364315
+0.2 8.3::0.00130070364315
+intensive task::0.00130070364315
+extremely high::0.00130070364315
+out shows::0.00130070364315
+defect engineering,”::0.00130070364315
+wisp minus::0.00130070364315
+precent::0.00130070364315
+resolution external::0.00130070364315
+lens distortion::0.00130070364315
+sample craig::0.00130070364315
+selected object::0.00130070364315
+difference map::0.00130070364315
+confidence scores::0.00130070364315
+correctly selected::0.00130070364315
+exposure time::0.00130070364315
+reported methods::0.00130070364315
+system networking::0.00130070364315
+2.8 0.7::0.00130070364315
+4.6 5.7::0.00130070364315
+reader antennae::0.00130070364315
+bellotti “photonic::0.00130070364315
+precision navigation::0.00130070364315
+consistently chooses::0.00130070364315
+2.01% 8.03%::0.00130070364315
+substrates soles),”::0.00130070364315
+ultra-low-power microcontroller::0.00130070364315
+leds alanson::0.00130070364315
+camera height::0.00130070364315
+wisp sends::0.00130070364315
+collects images::0.00130070364315
+grid underneath::0.00130070364315
+average deviation::0.00130070364315
+system ros::0.00130070364315
+tagged inventory::0.00130070364315
+anechoic chambers::0.00130070364315
+kinect’s view::0.00130070364315
+additional sensing::0.00130070364315
+led wisp;::0.00130070364315
+semiconductor optics::0.00130070364315
+common tasks::0.00130070364315
+sophisticated techniques::0.00130070364315
+tags line::0.00130070364315
+injection-avalanche cmos::0.00130070364315
+review previous::0.00130070364315
+led flashes::0.00130070364315
+2.9 6.0::0.00130070364315
+rasping robot::0.00130070364315
+10.6 1.9::0.00130070364315
+gen2 tag::0.00130070364315
+sophisticated methods::0.00130070364315
+sift object::0.00130070364315
+2.6 2.9::0.00130070364315
+measurement consistency::0.00130070364315
+lattice-engineered substrates::0.00130070364315
+base line::0.00130070364315
+red arrows::0.00130070364315
+large majority::0.00130070364315
+enhance passive::0.00130070364315
+final demonstration::0.00130070364315
+sniffer wisp,”::0.00130070364315
+examining signal::0.00130070364315
+cloud obtained::0.00130070364315
+20.8 2.6::0.00130070364315
+error occurred::0.00130070364315
+insure::0.00130070364315
+sensors journal::0.00130070364315
+“the binary::0.00130070364315
+retail displays::0.00130070364315
+3.0 2.0::0.00130070364315
+sensing platform,”::0.00130070364315
+determine range::0.00130070364315
+millimeter accuracy::0.00130070364315
+method presented::0.00130070364315
+proposed work::0.00130070364315
+smith “design::0.00130070364315
+craig macomber::0.00130070364315
+grid presents::0.00130070364315
+3.3 13.5::0.00130070364315
+advanced camera::0.00130070364315
+led wisps::0.00130070364315
+enhanced strap::0.00130070364315
+received instantaneous::0.00130070364315
+individually addressable::0.00130070364315
+wisp’s::0.00130070364315
+issues write::0.00130070364315
+led arrays::0.00130070364315
+respective direction::0.00130070364315
+mount capacitor::0.00130070364315
+rao “phase::0.00130070364315
+position vector::0.00130070364315
+home setting::0.00130070364315
+arbitrarily scaled::0.00130070364315
+vertical axis::0.00130070364315
+easured::0.00130070364315
+unstructured human::0.00130070364315
+cameras moved::0.00130070364315
+perception direction::0.00130070364315
+3.20% 3.55%::0.00130070364315
+individual item::0.00130070364315
+system localizes::0.00130070364315
+individual wisps::0.00130070364315
+algainp visible::0.00130070364315
+simply query::0.00130070364315
+visual feedback::0.00130070364315
+event trigger::0.00130070364315
+electronically ensure::0.00130070364315
+world scenarios::0.00130070364315
+battery-powered active::0.00130070364315
+2608– 2615::0.00130070364315
+error analysis::0.00130070364315
+greater position::0.00130070364315
+repeatedly pick::0.00130070364315
+4.6 11.4::0.00130070364315
+sensor visualized::0.00130070364315
+tags images::0.00130070364315
+human environment::0.00130070364315
+ocalization::0.00129310844948
+section we demonstrate::0.00129310844948
+radio and wireless::0.00129310844948
+“mapping and localization::0.00129310844948
+battery-free::0.00129310844948
+order to ensure::0.00129310844948
+localize an object::0.00129310844948
+implicit::0.00129310844948
+2.0::0.00129310844948
+uhf rfid tag::0.00129310844948
+rotated and translated::0.00129310844948
+green::0.00128616296028
+localization process::0.00128551325581
+commands::0.00128551325581
+resolution::0.00123446245625
+x,y,z::0.0011872026349
+compute the distance::0.0011872026349
+localization system based::0.0011872026349
+items::0.00115852122096
+individually::0.00114430550304
+sophisticated::0.00114430550304
+object::0.00113701203379
+table::0.0011349319682
+circles::0.00110965326932
+locate::0.00110732215178
+distortion::0.00110067128379
+separation::0.00110067128379
+fox k fishkin::0.00110067128379
+objects are located::0.00110067128379
+signal strength measured::0.00110067128379
+burgard d fox::0.00110067128379
+detection method::0.0010813879714
+cmd::0.0010813879714
+acquisition time::0.0010813879714
+multi-path propagation::0.0010813879714
+fig 10(c::0.0010813879714
+eferences fig::0.0010813879714
+sensing capabilities::0.0010813879714
+output line::0.0010813879714
+synchronization problem::0.0010813879714
+system complexity::0.0010813879714
+require full::0.0010813879714
+tag fig::0.0010813879714
+range information::0.0010813879714
+tags object::0.0010813879714
+based spatial::0.0010813879714
+locating tags::0.0010813879714
+traditional rfid::0.0010813879714
+tagged books::0.0010813879714
+april 2010::0.0010813879714
+image shows::0.0010813879714
+meter distance::0.0010813879714
+reliable technique::0.0010813879714
+vertical dimension::0.0010813879714
+millimeters::0.0010813879714
+object fig::0.0010813879714
+reader’s ability::0.0010813879714
+rfid enabled::0.0010813879714
+fig 10(a::0.0010813879714
+fig 10(b::0.0010813879714
+precise localization::0.0010813879714
+estimate tag::0.0010813879714
+calculated distances::0.0010813879714
+high resolution::0.0010813879714
+rfid location::0.0010813879714
+require line-of-sight::0.0010813879714
+ambiguous due::0.0010813879714
+cost high::0.0010813879714
+location corresponds::0.0010813879714
+quickly build::0.0010813879714
+object identification::0.0010813879714
+pixels::0.0010813879714
+issue faced::0.0010813879714
+increasing accuracy::0.0010813879714
+precision error::0.0010813879714
+10-20::0.0010813879714
+individual tag::0.0010813879714
+10(a shows::0.0010813879714
+phase information::0.0010813879714
+meters making::0.0010813879714
+lower bounds::0.0010813879714
+rfid communication::0.0010813879714
+section examples::0.0010813879714
+robot figure::0.0010813879714
+camera image::0.0010813879714
+visualization tool::0.0010813879714
+rfid protocols::0.0010813879714
+read events::0.0010813879714
+battery-free tags::0.0010813879714
+2.9::0.0010813879714
+estimate distance::0.0010813879714
+tags fig::0.0010813879714
+segmented::0.0010813879714
+april 2011::0.0010813879714
+robot moved::0.0010813879714
+augmenting::0.0010813879714
+effective method::0.0010813879714
+robot equipped::0.0010813879714
+facilitate object::0.0010813879714
+diagram showing::0.0010813879714
+binary read::0.0010813879714
+technology promises::0.0010813879714
+electronics ieee::0.0010813879714
+calculated position::0.0010813879714
+reader i.e::0.0010813879714
+static tags::0.0010813879714
+objects nearby::0.0010813879714
+tag acts::0.0010813879714
+rssi map::0.0010813879714
+programmable::0.0010813879714
+quickly locating::0.0010813879714
+truth position::0.0010813879714
+spatial identification::0.0010813879714
+ntroduction rfid::0.0010813879714
+range indoor::0.0010813879714
+solution figure::0.0010813879714
+correct order::0.0010813879714
+unknown tags::0.0010813879714
+gen2 rfid::0.0010813879714
+basic form::0.0010813879714
+ieee jan::0.0010813879714
+washington usa::0.0010813879714
+passive battery-free::0.0010813879714
+left::0.00107929419541
+power level::0.00102893036822
+i.e::0.00102893036822
+humans::0.00102893036822
+depth::0.00102751006887
+hardware and software::0.00102751006887
+depicted in figure::0.00102751006887
+signal to noise::0.00102751006887
+order to increase::0.00102751006887
+based on rfid::0.00102751006887
+york ny usa::0.00102751006887
+localization with rfid::0.00102751006887
+query::0.00101064746094
+frame::0.00101064746094
+smart::0.000987816211855
+utility::0.000964134941857
+estimate the position::0.000964134941857
+online available http::0.000964134941857
+seattle washington::0.000953096527608
+wireless symposium::0.000953096527608
+semiconductor::0.000953096527608
+silicon::0.000953096527608
+range versus::0.000953096527608
+localize objects::0.000953096527608
+small errors::0.000953096527608
+block diagram::0.000953096527608
+electronically::0.000953096527608
+low range::0.000953096527608
+highly effective::0.000953096527608
+tags,”::0.000953096527608
+substantial increase::0.000953096527608
+system setup::0.000953096527608
+fixed time::0.000953096527608
+location method::0.000953096527608
+paper addresses::0.000953096527608
+illuminated::0.000953096527608
+7.8::0.000953096527608
+navigation based::0.000953096527608
+research topic::0.000953096527608
+retrieval::0.000953096527608
+system enables::0.000953096527608
+mobile system::0.000953096527608
+circles represent::0.000953096527608
+philipose “mapping::0.000953096527608
+robot perception::0.000953096527608
+clusters::0.000953096527608
+localize passive::0.000953096527608
+medical equipment::0.000953096527608
+8.3::0.000953096527608
+tag response::0.000953096527608
+environment finally::0.000953096527608
+usa acm::0.000953096527608
+instantaneous::0.000953096527608
+usa email::0.000953096527608
+truth information::0.000953096527608
+based localization::0.000931382081669
+vision::0.000922666417503
+vector::0.000917719377138
+marked::0.0009082341181
+capture::0.000902588037839
+meters::0.000898182543915
+metal::0.000887722615454
+represents::0.00087475031235
+’04::0.000862072299653
+image processing::0.000862072299653
+power control::0.000862072299653
+object localization::0.000862072299653
+image plane::0.000862072299653
+rfid rfid::0.000862072299653
+ieee vol::0.000862072299653
+coarse location::0.000862072299653
+wireless tags::0.000862072299653
+mount::0.000862072299653
+effective solution::0.000862072299653
+udp::0.000862072299653
+identifiable::0.000862072299653
+rfid tracking::0.000862072299653
+localization applications::0.000862072299653
+location errors::0.000862072299653
+sufficient power::0.000862072299653
+larger errors::0.000862072299653
+accurately localize::0.000862072299653
+rfid technology,”::0.000862072299653
+listens::0.000862072299653
+1.4::0.000862072299653
+8.1::0.000862072299653
+application scenario::0.000862072299653
+location methods::0.000862072299653
+tag range::0.000862072299653
+operating system::0.000862072299653
+head::0.00085822912728
+binary::0.00085822912728
+robotic::0.00085822912728
+evaluate the performance::0.00085822912728
+system for locating::0.00085822912728
+ieee international::0.000846699610161
+individual::0.000832244906821
+pose::0.000812994110762
+magnitude::0.000812994110762
+surface::0.000812994110762
+processing capability::0.000791468423268
+mobile rfid::0.000791468423268
+computationally intensive::0.000791468423268
+3-d space::0.000791468423268
+video camera::0.000791468423268
+time window::0.000791468423268
+technology vol::0.000791468423268
+recent work::0.000791468423268
+small amount::0.000791468423268
+metal objects::0.000791468423268
+issued::0.000791468423268
+cluttered::0.000791468423268
+waiting::0.000791468423268
+asset management::0.000791468423268
+blocks::0.000791468423268
+demonstration::0.000791468423268
+directional antenna::0.000791468423268
+proposed system::0.000791468423268
+localize::0.000772347480637
+intersection::0.000772347480637
+diagram::0.000771697776168
+platform::0.000771539035156
+identify::0.000749597629776
+read::0.000749597629776
+calculated::0.00073912610726
+desired::0.000737873780909
+protocol::0.000737873780909
+4.4::0.00073378085586
+range estimation::0.00073378085586
+tag read::0.00073378085586
+believed::0.00073378085586
+strength measured::0.00073378085586
+greatly improved::0.00073378085586
+rfid reader’s::0.00073378085586
+tag position::0.00073378085586
+5.5::0.00073378085586
+ieee journal::0.00073378085586
+kalman filtering::0.00073378085586
+smith::0.00073378085586
+consist::0.00073378085586
+tags figure::0.00073378085586
+localization scheme::0.00073378085586
+open research::0.00073378085586
+science and technology::0.000733708830903
+detection::0.000703085970807
+successful::0.000698536561252
+vicinity::0.000698536561252
+noise ratio::0.000685006712583
+distance estimation::0.000685006712583
+antennae::0.000685006712583
+active tag::0.000685006712583
+personnel::0.000685006712583
+specific location::0.000685006712583
+precise location::0.000685006712583
+prototyping::0.000685006712583
+proposed technique::0.000685006712583
+examples include::0.000685006712583
+current system::0.000685006712583
+reader antenna::0.000685006712583
+represented::0.000674799194083
+identified::0.000674799194083
+architecture::0.000674558872134
+•::0.000674558872134
+localizing::0.00066579196159
+conventional::0.00066579196159
+estimate the distance::0.00066579196159
+arker::0.000650351821575
+imtable::0.000650351821575
+isual::0.000650351821575
+joshua::0.000650351821575
+–37::0.000650351821575
+5.17::0.000650351821575
+rchitecture::0.000650351821575
+1-3%::0.000650351821575
+checkerboard::0.000650351821575
+10.3::0.000650351821575
+10.6::0.000650351821575
+rviz::0.000650351821575
+transponders,”::0.000650351821575
+“packet::0.000650351821575
+0.46%::0.000650351821575
+“write”::0.000650351821575
+18.3::0.000650351821575
+instructs::0.000650351821575
+ a::0.000650351821575
+⇠10::0.000650351821575
+rgbd::0.000650351821575
+1-6%::0.000650351821575
+ “marker::0.000650351821575
+⇠2::0.000650351821575
+macomber::0.000650351821575
+“marker::0.000650351821575
+wisp,”::0.000650351821575
+perform.(b::0.000650351821575
+wisp;::0.000650351821575
+rasping::0.000650351821575
+“black::0.000650351821575
+1.5-2::0.000650351821575
+projectors,”::0.000650351821575
+smoothing,”::0.000650351821575
+fitzgerald::0.000650351821575
+alanson@u.washington.edu::0.000650351821575
+human-like::0.000650351821575
+willwacher::0.000650351821575
+0.91%::0.000650351821575
+addressable::0.000650351821575
+amera::0.000650351821575
+human’s::0.000650351821575
+horizon::0.000650351821575
+extinguisher::0.000650351821575
+powledge::0.000650351821575
+aiding::0.000650351821575
+4.26%::0.000650351821575
+24.9::0.000650351821575
+8.03%::0.000650351821575
+side-by-side::0.000650351821575
+assurance::0.000650351821575
+three-component::0.000650351821575
+sniffer”::0.000650351821575
+discharges::0.000650351821575
+3.55%::0.000650351821575
+soles),”::0.000650351821575
+box”::0.000650351821575
+platform,”::0.000650351821575
+coincide::0.000650351821575
+416*::0.000650351821575
+ameras::0.000650351821575
+2.01%::0.000650351821575
+engineering,”::0.000650351821575
+snyman::0.000650351821575
+theta::0.000650351821575
+pop::0.000650351821575
+2.40%::0.000650351821575
+pointcloud::0.000650351821575
+1.3mm::0.000650351821575
+chattopadhyay::0.000650351821575
+13.9::0.000650351821575
+13.6::0.000650351821575
+13.5::0.000650351821575
+11.9::0.000650351821575
+11.4::0.000650351821575
+11.7::0.000650351821575
+200mm::0.000650351821575
+rgb-d::0.000650351821575
+pile::0.000650351821575
+2.53%::0.000650351821575
+injection-avalanche::0.000650351821575
+–109::0.000650351821575
+alanson::0.000650351821575
+ided::0.000650351821575
+un-synchronize::0.000650351821575
+scale-invariant::0.000650351821575
+computerized::0.000650351821575
+harish::0.000650351821575
+“holographic::0.000650351821575
+meisen::0.000650351821575
+well-structured::0.000650351821575
+2615::0.000650351821575
+singulates::0.000650351821575
+mori::0.000650351821575
+bonded::0.000650351821575
+baar::0.000650351821575
+ that::0.000650351821575
+2608–::0.000650351821575
+viikari::0.000650351821575
+20.8::0.000650351821575
+differencemap::0.000650351821575
+brightest::0.000650351821575
+liang-ting::0.000650351821575
+workbenches::0.000650351821575
+defect::0.000650351821575
+photosensing::0.000650351821575
+10(a)(b::0.000650351821575
+5.22%::0.000650351821575
+depended::0.000650351821575
+harvested::0.000650351821575
+yeager::0.000650351821575
+ vertical::0.000650351821575
+humanborne::0.000650351821575
+minus::0.000650351821575
+18.6::0.000650351821575
+kirsch::0.000650351821575
+100ms::0.000650351821575
+ which::0.000650351821575
+chilukuri::0.000650351821575
+leigh::0.000650351821575
+“binary”::0.000650351821575
+overlayed::0.000650351821575
+cmos-compatible::0.000650351821575
+plessis::0.000650351821575
+“rfig::0.000650351821575
+–919::0.000650351821575
+410*::0.000650351821575
+0.99%::0.000650351821575
+lattice-engineered::0.000650351821575
+pings::0.000650351821575
+“epc::0.000650351821575
+tereo::0.000650351821575
+flashed::0.000650351821575
+kinect’s::0.000650351821575
+“inventory”::0.000650351821575
+0.5-1.0::0.000650351821575
+bookshelves::0.000650351821575
+hears::0.000650351821575
+inventories::0.000650351821575
+18.1::0.000650351821575
+raising::0.000650351821575
+craig::0.000650351821575
+provements::0.000650351821575
+“phase-based::0.000650351821575
+spectators::0.000650351821575
+nhanced::0.000650351821575
+ in::0.000650351821575
+“monolithic::0.000650351821575
+optics::0.000650351821575
+algainp::0.000650351821575
+redo::0.000650351821575
+np+::0.000650351821575
+sarkka::0.000650351821575
+harvest::0.000650351821575
+ point::0.000650351821575
+llrp::0.000650351821575
+volts::0.000650351821575
+dohrman::0.000650351821575
+1.43%::0.000650351821575
+beardsley::0.000650351821575
+⇠4::0.000650351821575
+predominate::0.000650351821575
+“photonic::0.000650351821575
+miesen::0.000650351821575
+ aids::0.000650351821575
+instrumentation::0.000650351821575
+ provide::0.000650351821575
+pre-specified::0.000650351821575
+huusko::0.000650351821575
+⇠1ms::0.000650351821575
+furthermore;::0.000650351821575
+configures::0.000650351821575
+interacting::0.000650351821575
+ tags”::0.000650351821575
+mamishev::0.000650351821575
+ynchronization::0.000650351821575
+raskar::0.000650351821575
+“phase::0.000650351821575
+ reference::0.000650351821575
+dietz::0.000650351821575
+3.20%::0.000650351821575
+depletion::0.000650351821575
+self-describing::0.000650351821575
+lanar::0.000650351821575
+line-of-site::0.000650351821575
+2.6mm::0.000650351821575
+9.5::0.000650351821575
+9.6::0.000650351821575
+–354::0.000650351821575
+406–415::0.000650351821575
+eedback::0.000650351821575
+jrs@cs.washington.edu::0.000650351821575
+bellotti::0.000650351821575
+experiment::0.000647301594194
+light::0.000645360804186
+quickly::0.000644705741314
+scenario::0.000644705741314
+precise::0.000644705741314
+vertical::0.000642756627905
+estimated position::0.000642756627905
+tagged object::0.000642756627905
+correct location::0.000642756627905
+percent::0.000642756627905
+received signal strength::0.000636894472772
+tasks::0.000635161434235
+university of washington::0.000635161434235
+straightforward::0.000635161434235
+delay::0.000635161434235
+shown in table::0.000635161434235
+precision::0.000615938422716
+pulse::0.000605489412067
+heights::0.000605489412067
+rotated::0.000605489412067
+proposes::0.000605489412067
+relative position::0.000605489412067
+black::0.000605489412067
+coarse::0.000605489412067
+locates::0.000605489412067
+output power::0.000605489412067
+rfid applications::0.000605489412067
+human::0.000588180694658
+calibrated::0.000579260610478
+task::0.000579260610478
+robotics and automation::0.000579260610478
+consisting::0.00057215275152
+reliably::0.00057215275152
+modulation::0.00057215275152
+acquisition::0.00057215275152
+washington seattle::0.00057215275152
+multipath effects::0.00057215275152
+perceived::0.00057215275152
+corners::0.00057215275152
+requested::0.00057215275152
+vii::0.00057215275152
+block::0.00057215275152
+passive tags::0.00057215275152
+actual position::0.00057215275152
+identification::0.00055366107589
+calculates::0.000541996073841
+readily::0.000541996073841
+transform::0.000541996073841
+fixed location::0.000541996073841
+engineering university::0.000541996073841
+location tracking::0.000541996073841
+processing techniques::0.000541996073841
+searching::0.000541996073841
+trials::0.000541996073841
+10.2::0.000540693985701
+16-bit::0.000540693985701
+exclusively::0.000540693985701
+spiess::0.000540693985701
+ics::0.000540693985701
+sift::0.000540693985701
+promises::0.000540693985701
+20ms::0.000540693985701
+lamps::0.000540693985701
+remember::0.000540693985701
+synchronize::0.000540693985701
+proving::0.000540693985701
+centroids::0.000540693985701
+6.0::0.000540693985701
+10.5::0.000540693985701
+tags”::0.000540693985701
+trades::0.000540693985701
+17.2::0.000540693985701
+charges::0.000540693985701
+12.3::0.000540693985701
+12.1::0.000540693985701
+correspondences::0.000540693985701
+abstract—the::0.000540693985701
+circumstance::0.000540693985701
+bottleneck::0.000540693985701
+5.8::0.000540693985701
+11.2::0.000540693985701
+april-1::0.000540693985701
+quantum::0.000540693985701
+20.1::0.000540693985701
+ystem::0.000540693985701
+merchandise::0.000540693985701
+10(c::0.000540693985701
+10(a::0.000540693985701
+leland::0.000540693985701
+15.1::0.000540693985701
+martinez::0.000540693985701
+blobs::0.000540693985701
+10(b::0.000540693985701
+ramamurthy::0.000540693985701
+informs::0.000540693985701
+dispersion::0.000540693985701
+1.6::0.000540693985701
+1.9::0.000540693985701
+8.7::0.000540693985701
+8.6::0.000540693985701
+sensor-enhanced::0.000540693985701
+servoing::0.000540693985701
+localization system::0.000539647097707
+shows::0.000536219176083
+difficult::0.000535426878412
+microsoft::0.000529255619658
+shown in figure::0.000527314478105
+operating::0.000515764593051
+locating::0.000515764593051
+feasible::0.000514465184112
+wired::0.000514465184112
+facing::0.000514465184112
+captures::0.000514465184112
+3.2::0.000514465184112
+automated::0.000514465184112
+event::0.000506099395562
+find::0.000500574205712
+error::0.000492919964001
+square::0.000492750738173
+confidence::0.000489139220602
+read range::0.000489139220602
+correctly::0.000489139220602
+augmented::0.000489139220602
+ensure::0.00048402060314
+localizes::0.000476548263804
+naive::0.000476548263804
+7.5::0.000476548263804
+scores::0.000476548263804
+portals::0.000476548263804
+quantified::0.000476548263804
+ultra-low-power::0.000476548263804
+extrapolate::0.000476548263804
+substrates::0.000476548263804
+manipulation::0.000476548263804
+refinements::0.000476548263804
+7.6::0.000476548263804
+4.7::0.000476548263804
+jaakkola::0.000476548263804
+shelving::0.000476548263804
+chambers::0.000476548263804
+arbitrarily::0.000476548263804
+method”::0.000476548263804
+7.3::0.000476548263804
+onclusion::0.000476548263804
+0.1::0.000476548263804
+on-board::0.000476548263804
+worlds::0.000476548263804
+emulate::0.000476548263804
+tasked::0.000476548263804
+vol.1::0.000476548263804
+exposure::0.000476548263804
+location information::0.000470544555727
+manufacturing::0.000465691040835
+majority::0.000465691040835
+captured::0.000465691040835
+moving objects::0.000465691040835
+showing::0.000465691040835
+low power::0.000465691040835
+channel::0.000462923421094
+spatial::0.000449091271958
+integrated::0.000449091271958
+visible::0.000443861307727
+lab::0.000443861307727
+ethernet::0.000443861307727
+height::0.000443861307727
+location accuracy::0.000443861307727
+today::0.000443861307727
+visual::0.000443861307727
+video::0.000443861307727
+real world::0.000443861307727
+precisely::0.000443861307727
+department of computer::0.000442724268545
+line::0.000439428731754
+6.8::0.000431036149827
+layered::0.000431036149827
+clustered::0.000431036149827
+hahnel::0.000431036149827
+trial::0.000431036149827
+arrows::0.000431036149827
+6.7::0.000431036149827
+communicates::0.000431036149827
+navigated::0.000431036149827
+planar::0.000431036149827
+5.7::0.000431036149827
+“mapping::0.000431036149827
+ser::0.000431036149827
+profiling::0.000431036149827
+sorting::0.000431036149827
+icra::0.000431036149827
+0.8::0.000431036149827
+0.7::0.000431036149827
+transitions::0.000431036149827
+1.3::0.000431036149827
+visualized::0.000431036149827
+phi::0.000431036149827
+segmentation::0.000431036149827
+shipping::0.000431036149827
+power::0.000429316955397
+position::0.000425891101481
+international conference::0.000424596315181
+issues::0.000424596315181
+enabled::0.000423440956157
+vol::0.000417145171426
+correct::0.000408250568817
+capability::0.00040473532328
+moved::0.00040473532328
+simply::0.00040473532328
+system based::0.000404258984375
+4.1::0.000404258984375
+noted::0.000404258984375
+line-of-sight::0.000404258984375
+compatible::0.000404258984375
+received signal::0.000400564224072
+method::0.000396563081836
+standardized::0.000395734211634
+overcomes::0.000395734211634
+observes::0.000395734211634
+visualization::0.000395734211634
+microcontroller::0.000395734211634
+noticeable::0.000395734211634
+underneath::0.000395734211634
+rationale::0.000395734211634
+pcb::0.000395734211634
+battery-powered::0.000395734211634
+initializes::0.000395734211634
+scaled::0.000395734211634
+colors::0.000395734211634
+prototypes::0.000395734211634
+anechoic::0.000395734211634
+manipulating::0.000395734211634
+“analysis::0.000395734211634
+fluctuation::0.000395734211634
+operated::0.000395734211634
+attempting::0.000395734211634
+nikitin::0.000395734211634
+views::0.000395734211634
+1-2::0.000395734211634
+effective::0.0003887779166
+scenarios::0.000386823444788
+memory::0.000386173740319
+tag’s::0.000386173740319
+position estimation::0.000386173740319
+low cost::0.000386173740319
+april::0.000386173740319
+methods::0.000377505189834
+show::0.000371228660365
+world::0.000369886625254
+difference::0.000369886625254
+issue::0.000369886625254
+rssi::0.00036956305363
+center::0.00036956305363
+response::0.00036956305363
+create::0.00036956305363
+view::0.00036956305363
+receiving::0.000369066567001
+sends::0.000369066567001
+external::0.000369066567001
+storage::0.000369066567001
+functionality::0.000369066567001
+refinement::0.00036689042793
+perception::0.00036689042793
+inaccuracies::0.00036689042793
+consistency::0.00036689042793
+faced::0.00036689042793
+planned::0.00036689042793
+viii::0.00036689042793
+boxes::0.00036689042793
+zone::0.00036689042793
+remainder::0.00036689042793
+drastically::0.00036689042793
+bounds::0.00036689042793
+notable::0.00036689042793
+pointing::0.00036689042793
+variant::0.00036689042793
+jiang::0.00036689042793
+driven::0.00036689042793
+2.4::0.00036689042793
+baseline::0.00036689042793
+non-linear::0.00036689042793
+timed::0.00036689042793
+thin::0.00036689042793
+broadcasts::0.00036689042793
+phenomena::0.00036689042793
+location::0.000364810674817
+sensing::0.000361776556207
+previous section::0.000352837079772
+located::0.000351542985404
+guiding::0.000342503356291
+score::0.000342503356291
+ultimately::0.000342503356291
+population::0.000342503356291
+accessed::0.000342503356291
+verified::0.000342503356291
+autonomously::0.000342503356291
+displays::0.000342503356291
+centimeters::0.000342503356291
+philipose::0.000342503356291
+creates::0.000342503356291
+technology,”::0.000342503356291
+burden::0.000342503356291
+frames::0.000342503356291
+chooses::0.000342503356291
+completed::0.000342503356291
+vossiek::0.000342503356291
+bearing::0.000342503356291
+interrogation::0.000342503356291
+figure::0.000339911213002
+rfid system::0.000337399597042
+estimated::0.00033380352006
+antenna::0.00033380352006
+meter::0.000322680402093
+washington::0.000322680402093
+hospital::0.000321378313952
+capturing::0.000321378313952
+cluster::0.000321378313952
+synchronized::0.000321378313952
+fire::0.000321378313952
+guaranteed::0.000321378313952
+wirelessly::0.000321378313952
+custom::0.000321378313952
+fishkin::0.000321378313952
+detector::0.000321378313952
+email::0.000321378313952
+implementing::0.000321378313952
+demonstrated::0.000308615614062
+rfid-enabled::0.000302744706033
+paradigm::0.000302744706033
+incorporation::0.000302744706033
+arrays::0.000302744706033
+retrieve::0.000302744706033
+computationally::0.000302744706033
+shifts::0.000302744706033
+default::0.000302744706033
+safety::0.000302744706033
+substantial::0.000302744706033
+subsection::0.000302744706033
+columns::0.000302744706033
+targeted::0.000302744706033
+rao::0.000302744706033
+lengths::0.000302744706033
+occurred::0.000302744706033
+“design::0.000302744706033
+trade::0.000302744706033
+responds::0.000302744706033
+success::0.000302744706033
+library::0.000302744706033
+ieee transactions::0.000295149512364
+greater::0.000295149512364
+combination::0.00029158343745
+full::0.00029158343745
+single::0.000288733402506
+perspective::0.00028607637576
+exception::0.00028607637576
+eferences::0.00028607637576
+resulted::0.00028607637576
+selects::0.00028607637576
+structured::0.00028607637576
+begin::0.00028607637576
+packaging::0.00028607637576
+picture::0.00028607637576
+pick::0.00028607637576
+acts::0.00028607637576
+modification::0.00028607637576
+translated::0.00028607637576
+rows::0.00028607637576
+ambiguous::0.00028607637576
+sufficiently::0.00028607637576
+calibrate::0.00028607637576
+ntroduction::0.00028607637576
+recognize::0.00028607637576
+signal strength::0.000283259344169
+reliable::0.000282233203387
+equipment::0.000282233203387
+robotics::0.000282233203387
+traditional::0.000282233203387
+rf-based::0.000282233203387
+accuracy::0.00027779332408
+grid::0.00027741496894
+term::0.000270998036921
+modulated::0.000270998036921
+poses::0.000270998036921
+monitor::0.000270998036921
+presentation::0.000270998036921
+positioned::0.000270998036921
+utilized::0.000270998036921
+2.1::0.000270998036921
+home::0.000270998036921
+acquired::0.000270998036921
+positions::0.000267899826943
+effects::0.000263657239053
+approximately::0.000263657239053
+indicates::0.000257882296526
+nature::0.000257882296526
+rfid technology::0.000257882296526
+verify::0.000257232592056
+feedback::0.000257232592056
+client::0.000257232592056
+ultra::0.000257232592056
+powered::0.000257232592056
+peak::0.000257232592056
+uniquely::0.000257232592056
+handheld::0.000257232592056
+centroid::0.000257232592056
+nov::0.000257232592056
+usage::0.000257232592056
+extension::0.000257232592056
+computer::0.000251670126556
+level::0.000251417052662
+accurately::0.000250287102856
+location estimation::0.000246375369087
+selected::0.000246375369087
+reported::0.000246375369087
+address::0.000246375369087
+amount::0.000246375369087
+takes::0.000246375369087
+mode::0.000246375369087
+volume::0.000246375369087
+3.3::0.000244569610301
+natural::0.000244569610301
+window::0.000244569610301
+dimension::0.000244569610301
+shelves::0.000244569610301
+carefully::0.000244569610301
+topic::0.000244569610301
+explore::0.000244569610301
+examining::0.000244569610301
+efficiently::0.000244569610301
+request::0.000244569610301
+estimation::0.000240635480464
+errors::0.000236167850587
+equipped::0.000235272277863
+calibration::0.000235272277863
+fail::0.000232845520417
+fairly::0.000232845520417
+efforts::0.000232845520417
+warehouse::0.000232845520417
+squares::0.000232845520417
+necessarily::0.000232845520417
+fails::0.000232845520417
+returned::0.000232845520417
+extremely::0.000232845520417
+burgard::0.000232845520417
+intensive::0.000232845520417
+consistently::0.000232845520417
+retail::0.000232845520417
+scene::0.000232845520417
+2010::0.000232845520417
+alternatively::0.000232845520417
+easily::0.000224626342879
+complexity::0.000224545635979
+enable::0.000224545635979
+energy::0.000224545635979
+2004::0.000224545635979
+performs::0.000224545635979
+journal::0.000224545635979
+technique::0.000223249855786
+processing::0.000223249855786
+enhance::0.000221930653863
+asset::0.000221930653863
+classes::0.000221930653863
+edge::0.000221930653863
+medical::0.000221930653863
+eliminated::0.000221930653863
+inventory::0.000221930653863
+fox::0.000221930653863
+possibility::0.000221930653863
+identifying::0.000221930653863
+respective::0.000221930653863
+kalman::0.000221930653863
+reflections::0.000221930653863
+depicted::0.000221930653863
+stage::0.000221930653863
+publication::0.000221930653863
+book::0.000221930653863
+solution::0.000221277486777
+presented::0.000221277486777
+fixed::0.000221277486777
+phase::0.000214170751365
+prior::0.000214170751365
+map::0.000212298157591
+computed::0.000212298157591
+order::0.000212116436276
+localized::0.000211720478078
+interaction::0.000211720478078
+reader’s::0.000211720478078
+latency::0.000211720478078
+radius::0.000211720478078
+scope::0.000211720478078
+involve::0.000211720478078
+broadcast::0.000211720478078
+reliability::0.000211720478078
+tradeoff::0.000211720478078
+jan::0.000211720478078
+trajectory::0.000211720478078
+examine::0.000211720478078
+frequently::0.000211720478078
+stores::0.000211720478078
+van::0.000211720478078
+features::0.000204125284409
+combined::0.000204125284409
+ability::0.000204125284409
+speeds::0.000202129492187
+board::0.000202129492187
+collects::0.000202129492187
+protocols::0.000202129492187
+closest::0.000202129492187
+inherent::0.000202129492187
+robustness::0.000202129492187
+valid::0.000202129492187
+lie::0.000202129492187
+corresponds::0.000202129492187
+2008::0.000202129492187
+rfid-based::0.000202129492187
+respond::0.000202129492187
+final::0.000202129492187
+packet::0.000202129492187
+immediately::0.000202129492187
+relative::0.000200282112036
+techniques::0.00019656512376
+computation::0.0001943889583
+sample::0.0001943889583
+highly::0.0001943889583
+output::0.0001943889583
+propose::0.0001943889583
+manner::0.000193086870159
+extend::0.000193086870159
+explored::0.000193086870159
+date::0.000193086870159
+returns::0.000193086870159
+directional::0.000193086870159
+solve::0.000193086870159
+papers::0.000193086870159
+applicable::0.000193086870159
+calculating::0.000193086870159
+focused::0.000193086870159
+york::0.000193086870159
+facilitate::0.000193086870159
+controlled::0.000193086870159
+2011::0.000193086870159
+application::0.000192508384371
+measured::0.000189584601539
+finally::0.000188562789496
+state::0.000188562789496
+easy::0.000184943312627
+node::0.000184943312627
+robust::0.000184943312627
+indoor location::0.000184943312627
+previously::0.000184943312627
+earlier::0.000184533283501
+effectiveness::0.000184533283501
+effort::0.000184533283501
+mechanisms::0.000184533283501
+situation::0.000184533283501
+industry::0.000184533283501
+axis::0.000184533283501
+occurs::0.000184533283501
+regions::0.000184533283501
+angles::0.000184533283501
+sources::0.000184533283501
+offset::0.000184533283501
+proposed::0.000178599884629
+additional::0.000178599884629
+means::0.00017712588794
+desirable::0.000176418539886
+negative::0.000176418539886
+instance::0.000176418539886
+slightly::0.000176418539886
+filtering::0.000176418539886
+setting::0.000176418539886
+beacons::0.000176418539886
+store::0.000176418539886
+discussion::0.000176418539886
+electronics::0.000176418539886
+repeated::0.000176418539886
+place::0.000175771492702
+personal::0.000175771492702
+approach::0.000169955606501
+overcome::0.000168699798521
+reasonable::0.000168699798521
+tool::0.000168699798521
+communicate::0.000168699798521
+indicate::0.000168699798521
+strong::0.000168699798521
+benefits::0.000168699798521
+theoretical::0.000168699798521
+computes::0.000168699798521
+supply::0.000168699798521
+select::0.000168699798521
+rooms::0.000168699798521
+represent::0.000166858068571
+unique::0.000166858068571
+common::0.000166858068571
+resulting::0.000166858068571
+control::0.000165958115083
+side::0.000161340201047
+automatically::0.000161340201047
+“the::0.000161340201047
+greatly::0.000161340201047
+caused::0.000161340201047
+contrast::0.000161340201047
+pairs::0.000161340201047
+plan::0.000161340201047
+indicator::0.000161340201047
+computational::0.000161340201047
+robots::0.000161340201047
+degrees::0.000161340201047
+complete::0.000161340201047
+lee::0.000161340201047
+demonstrate::0.000161340201047
+band::0.000161340201047
+june::0.000161340201047
+widely::0.000158188878826
+moving::0.000158188878826
+form::0.000155047095517
+consistent::0.000154307807031
+seattle::0.000154307807031
+rely::0.000154307807031
+events::0.000154307807031
+allowing::0.000154307807031
+finding::0.000154307807031
+dependent::0.000154307807031
+challenge::0.000154307807031
+purposes::0.000154307807031
+tend::0.000154307807031
+taking::0.000154307807031
+tests::0.000154307807031
+combine::0.000154307807031
+work::0.00015426649911
+computer science::0.000149750895253
+pair::0.000147574756182
+fast::0.000147574756182
+ratio::0.000147574756182
+review::0.000147574756182
+prototype::0.000147574756182
+researchers::0.000147574756182
+combines::0.000147574756182
+mounted::0.000147574756182
+scheme::0.000147574756182
+reflection::0.000147574756182
+addressed::0.000147574756182
+helps::0.000147574756182
+attempts::0.000147574756182
+interface::0.000147574756182
+symposium::0.000147574756182
+international::0.000144381288279
+process::0.000141629672084
+type::0.00014153210506
+acm::0.00014153210506
+usa::0.00014153210506
+compute::0.00014153210506
+actual::0.00014153210506
+capabilities::0.000141116601694
+simultaneously::0.000141116601694
+receives::0.000141116601694
+nearby::0.000141116601694
+separate::0.000141116601694
+build::0.000141116601694
+enables::0.000141116601694
+critical::0.000141116601694
+employed::0.000141116601694
+goal::0.000141116601694
+sufficient::0.000141116601694
+installed::0.000141116601694
+noisy::0.000141116601694
+basis::0.000141116601694
+high::0.000138619564033
+sensor::0.000138619564033
+important::0.000138619564033
+shown::0.000135298486692
+locations::0.000134983186721
+out::0.000134983186721
+setup::0.000134911774427
+versus::0.000134911774427
+similarly::0.000134911774427
+advanced::0.000134911774427
+inside::0.000134911774427
+promising::0.000134911774427
+sense::0.000134911774427
+top::0.000134911774427
+produce::0.000134911774427
+making::0.000134911774427
+addresses::0.000134911774427
+automation::0.000134911774427
+sets::0.000134911774427
+battery::0.000134911774427
+record::0.000134911774427
+limited::0.000133949913471
+conference::0.000133949913471
+performance::0.000133949913471
+developed::0.000133949913471
+calculate::0.000128941148263
+wang::0.000128941148263
+vary::0.000128941148263
+moves::0.000128941148263
+angle::0.000128941148263
+layer::0.000128941148263
+results::0.000128756708759
+environments::0.000126269692764
+paper::0.000125835063278
+design::0.000125708526331
+determined::0.000125708526331
+measure::0.000125708526331
+software::0.000125708526331
+free::0.000123187684543
+back::0.000123187684543
+presents::0.000123187684543
+components::0.000123187684543
+detailed::0.000123187684543
+field::0.000123187684543
+special::0.000123187684543
+determining::0.000123187684543
+unknown::0.000123187684543
+range::0.000121768638023
+maximum::0.000118083925293
+increase::0.000118083925293
+commonly::0.000117636138932
+multipath::0.000117636138932
+track::0.000117636138932
+operation::0.000117636138932
+deviation::0.000117636138932
+–::0.000117636138932
+point::0.000115699874332
+ieee::0.00011466298886
+low::0.000113750760923
+steps::0.000112272817989
+properties::0.000112272817989
+focus::0.000112272817989
+threshold::0.000112272817989
+generally::0.000112272817989
+scan::0.000112272817989
+major::0.000112272817989
+assuming::0.000112272817989
+provide::0.000111202302342
+implemented::0.000110638743389
+change::0.000110638743389
+note::0.000110638743389
+sensors::0.000110638743389
+include::0.000110638743389
+science::0.000110638743389
+service::0.000107085375682
+assume::0.000107085375682
+challenges::0.000107085375682
+reading::0.000107085375682
+version::0.000107085375682
+authors::0.000107085375682
+readers::0.000107085375682
+estimating::0.000107085375682
+determine::0.000103964673025
+basic::0.000103364730345
+hardware::0.000103364730345
+distances::0.000103364730345
+long::0.000103364730345
+typically::0.000102062642204
+overview::0.000102062642204
+development::0.000102062642204
+examples::0.000102062642204
+management::0.000102062642204
+estimate::0.000101015754211
+wireless::0.000101015754211
+improved::9.71944791499e-05
+measures::9.71944791499e-05
+achieved::9.71944791499e-05
+noise::9.71944791499e-05
+larger::9.71944791499e-05
+measurement::9.62541921857e-05
+distance::9.57396366908e-05
+points::9.43762974586e-05
+networking::9.24716563134e-05
+digital::9.24716563134e-05
+open::9.24716563134e-05
+makes::9.24716563134e-05
+detected::9.24716563134e-05
+static::9.24716563134e-05
+require::8.92999423143e-05
+user::8.92999423143e-05
+initial::8.78857463509e-05
+region::8.78857463509e-05
+chosen::8.78857463509e-05
+standard::8.49778032506e-05
+small::8.49778032506e-05
+input::8.34290342853e-05
+base::8.34290342853e-05
+evaluate::8.34290342853e-05
+previous::8.2495257859e-05
+general::8.2495257859e-05
+strength::8.19021349002e-05
+section::8.19021349002e-05
+total::7.90944394129e-05
+transactions::7.90944394129e-05
+people::7.90944394129e-05
+reduce::7.90944394129e-05
+including::7.90944394129e-05
+technical::7.90944394129e-05
+coordinates::7.90944394129e-05
+communication::7.58338406155e-05
+measurements::7.58338406155e-05
+space::7.57618156582e-05
+time::7.51080801094e-05
+affect::7.48754476265e-05
+advantage::7.48754476265e-05
+depends::7.07660525302e-05
+specific::7.07660525302e-05
+navigation::7.07660525302e-05
+efficient::7.07660525302e-05
+recent::7.07660525302e-05
+defined::7.07660525302e-05
+performed::7.07660525302e-05
+required::6.93097820164e-05
+function::6.93097820164e-05
+received::6.76492433461e-05
+applications::6.76492433461e-05
+online::6.67607040119e-05
+comparison::6.67607040119e-05
+proceedings::6.67607040119e-05
+compared::6.67607040119e-05
+due::6.67213814054e-05
+result::6.2917531639e-05
+rate::6.28542631655e-05
+discussed::6.28542631655e-05
+iii::6.28542631655e-05
+lower::6.28542631655e-05
+implementation::5.90419626467e-05
+found::5.90419626467e-05
+database::5.90419626467e-05
+department::5.90419626467e-05
+computing::5.66518688337e-05
+signal::5.5848121403e-05
+consists::5.53193716943e-05
+first::5.41193946769e-05
+environment::5.27391556203e-05
+increasing::5.16823651724e-05
+engineering::5.16823651724e-05
+real::5.16823651724e-05
+analysis::5.16823651724e-05
+significant::5.16823651724e-05
+existing::5.16823651724e-05
+addition::5.16823651724e-05
+problem::4.91412809401e-05
+obtained::4.81270960929e-05
+average::4.81270960929e-05
+infrastructure::4.81270960929e-05
+propagation::4.81270960929e-05
+http::4.81270960929e-05
+data::4.74652400583e-05
+active::4.46499711571e-05
+simple::4.46499711571e-05
+make::4.46499711571e-05
+multiple::4.46499711571e-05
+cost::4.12476289295e-05
+fact::4.12476289295e-05
+tracking::4.05895460077e-05
+based::3.98915152878e-05
+designed::3.79169203078e-05
+current::3.46548910082e-05
+present::3.46548910082e-05
+mobile::3.21891771897e-05
+indoor::3.14587658195e-05
+large::2.70596973384e-05
+technology::2.14594514598e-05
+radio::1.92833123887e-05
+university::1.638042698e-05
+case::7.97830305757e-06
+research::7.97830305757e-06
+information::0.0
+systems::0.0
+system::0.0

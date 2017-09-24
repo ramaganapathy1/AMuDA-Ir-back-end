@@ -1,0 +1,3598 @@
+– – –::0.0517683028116
+– –::0.0407871476697
+sequence number::0.0203935738349
+pdu::0.01891129056
+cache::0.0166354787441
+cache table::0.0156873644884
+u-kb::0.0133342598151
+advertisement::0.0128866190988
+data dissemination::0.0125498915907
+solicit::0.0125498915907
+user memory bank::0.0117655233663
+resource::0.0117309326884
+memory bank::0.0109811551418
+ontology::0.00978170201378
+resource discovery::0.00941241869301
+traveled hops::0.00941241869301
+cache content pdu::0.00941241869301
+number the sequence::0.00941241869301
+cache content::0.00941241869301
+hops::0.00919599030874
+epcglobal rfid::0.00784368224418
+field layer::0.00784368224418
+user memory::0.00784368224418
+ouuid::0.00784368224418
+semantically annotated::0.00784368224418
+advertisement pdu::0.00782536161102
+knowledge representation::0.00782536161102
+discovery::0.00775599701577
+dissemination::0.00747174212585
+requester::0.00717324814344
+parameter membank wordptr::0.00705931401976
+bank starting address::0.00705931401976
+memory bank parameter::0.00705931401976
+bank parameter membank::0.00705931401976
+membank wordptr wordcount::0.00705931401976
+memory bank starting::0.00705931401976
+receives an advertisement::0.00705931401976
+starting address read::0.00705931401976
+semantic enabled tags::0.00705931401976
+advanced resource discovery::0.00705931401976
+epcglobal::0.00668195064384
+knowledge base::0.00652113467585
+epc code::0.00652113467585
+content pdu::0.00627494579534
+solicit packet::0.00627494579534
+solicit pdu::0.00627494579534
+dissemination protocol::0.00627494579534
+read command::0.00627494579534
+pdu fields::0.00627494579534
+node receives::0.00627494579534
+max adv::0.00627494579534
+source address::0.00627494579534
+discovery layer::0.00627494579534
+semantic annotations::0.00627494579534
+individuals::0.00619492492449
+proposed framework::0.00574749394296
+semantic::0.00555631292757
+–::0.00553320803917
+bank::0.00521690774068
+radio range::0.00521690774068
+annotations from tags::0.00470620934651
+bases an advanced::0.00470620934651
+– type::0.00470620934651
+rfid epcglobal::0.00470620934651
+field layer rfid::0.00470620934651
+fixed knowledge bases::0.00470620934651
+semantically annotated description::0.00470620934651
+advertisement period default::0.00470620934651
+default rtime::0.00470620934651
+resource descriptions::0.00470620934651
+out an advanced::0.00470620934651
+maintains the ordinary::0.00470620934651
+reader pda rfid::0.00470620934651
+source address ouuid::0.00470620934651
+tag field::0.00470620934651
+starting address::0.00470620934651
+cache table entries::0.00470620934651
+flags it maintains::0.00470620934651
+bank starting::0.00470620934651
+membank wordptr::0.00470620934651
+tag field layer::0.00470620934651
+knowledge bases::0.00470620934651
+advanced resource::0.00470620934651
+number of hops::0.00470620934651
+processing the request::0.00470620934651
+sciascio e. donini::0.00470620934651
+wordptr wordcount::0.00470620934651
+address read::0.00470620934651
+object description stored::0.00470620934651
+u-kb the proposed::0.00470620934651
+– – type::0.00470620934651
+requester node::0.00470620934651
+enabled tags::0.00470620934651
+pervasive contexts::0.00470620934651
+tbox::0.00470620934651
+semantic-enhanced epcglobal rfid::0.00470620934651
+knowledge representation system::0.00470620934651
+max adv jitter::0.00470620934651
+layer rfid epcglobal::0.00470620934651
+micro devices::0.00470620934651
+rfid reader pda::0.00470620934651
+suitable descriptions directly::0.00470620934651
+hop sequence number::0.00470620934651
+address the address::0.00470620934651
+tid memory bank::0.00470620934651
+data propagation::0.00470620934651
+data dissemination phase::0.00470620934651
+– source address::0.00470620934651
+matchmaking a node::0.00470620934651
+semantic web::0.00470620934651
+build a u-kb::0.00470620934651
+variable length::0.00470620934651
+demand pdu::0.00470620934651
+unique and fixed::0.00470620934651
+description user memory::0.00470620934651
+receiving a solicit::0.00470620934651
+command to extract::0.00470620934651
+number of resources::0.00470620934651
+parameter membank::0.00470620934651
+time a node::0.00470620934651
+semantic enabled::0.00470620934651
+bank parameter::0.00470620934651
+descriptions::0.00467872839677
+retrieval::0.00459799515437
+nearby nodes::0.00459799515437
+packet::0.00438807276514
+semantically::0.00402324576007
+krss::0.00392184112209
+matchmaking::0.00392184112209
+semantic-based::0.00392184112209
+ubiquitous computing applications::0.00391268080551
+lack of space::0.00391268080551
+order to reduce::0.00391268080551
+components and operations::0.00391268080551
+electronic product code::0.00391268080551
+due to lack::0.00391268080551
+reasoning::0.00363901097527
+hosts::0.00363901097527
+host::0.00359526130607
+knowledge::0.00351669320382
+description::0.00350256924149
+epc::0.00347962366341
+object naming service::0.00344849636578
+diameter::0.00334097532192
+annotations::0.00326056733793
+flags::0.00326056733793
+u-kb approach::0.00313747289767
+membank::0.00313747289767
+simulation environment::0.00313747289767
+hop sequence::0.00313747289767
+table entries::0.00313747289767
+object description::0.00313747289767
+random time::0.00313747289767
+demand pdus::0.00313747289767
+ruta::0.00313747289767
+inference procedures::0.00313747289767
+period default::0.00313747289767
+cache memory::0.00313747289767
+reader pda::0.00313747289767
+select command::0.00313747289767
+unicast::0.00313747289767
+dissemination phase::0.00313747289767
+suitable descriptions::0.00313747289767
+pdu fig::0.00313747289767
+ubiquitous knowledge::0.00313747289767
+knowledge embedded::0.00313747289767
+metadata stored::0.00313747289767
+ouuid epc::0.00313747289767
+constant values::0.00313747289767
+address ouuid::0.00313747289767
+u-kb layer::0.00313747289767
+total hops::0.00313747289767
+description logics::0.00313747289767
+contextual attributes::0.00313747289767
+sciascio::0.00313747289767
+dig::0.00313747289767
+resource provider::0.00313747289767
+pda rfid::0.00313747289767
+– source::0.00313747289767
+mobile hosts::0.00313747289767
+semantic-enhanced::0.00313747289767
+reasoning engine::0.00313747289767
+tid memory::0.00313747289767
+implicit knowledge::0.00313747289767
+ack rtt::0.00313747289767
+object discovery::0.00313747289767
+semantic-enhanced epcglobal::0.00313747289767
+analytical model::0.00313747289767
+reference ontology::0.00313747289767
+resource description::0.00313747289767
+semantic sensor::0.00313747289767
+descriptions directly::0.00313747289767
+advanced matchmaking::0.00313747289767
+representation system::0.00313747289767
+smart environment::0.00313747289767
+polling time::0.00313747289767
+cache fig::0.00313747289767
+max retries::0.00313747289767
+description logic::0.00313747289767
+advertisement period::0.00313747289767
+timer set::0.00313747289767
+data alignment::0.00313747289767
+epcglobal standard::0.00313747289767
+abox::0.00313747289767
+ontology file::0.00313747289767
+discovery diameter::0.00313747289767
+destination address::0.00313747289767
+noia::0.00313747289767
+hops number::0.00313747289767
+node processing::0.00313747289767
+life time::0.00313747289767
+annotated description::0.00313747289767
+fixed knowledge::0.00313747289767
+advertisement packets::0.00313747289767
+cache entry::0.00313747289767
+dig description::0.00313747289767
+advertisement travel::0.00313747289767
+intensional knowledge::0.00313747289767
+destination node::0.00313747289767
+adv jitter::0.00313747289767
+description stored::0.00313747289767
+ontology identifier::0.00313747289767
+layer rfid::0.00313747289767
+internet workshops::0.00313747289767
+rfid::0.00303225947315
+annotation::0.00287374697148
+node::0.00278817658632
+entry::0.0027602194561
+protocol::0.00266977685697
+destination::0.00265496782478
+previous work::0.00265496782478
+request::0.00265470722389
+case study::0.00260845387034
+time time::0.00260845387034
+rfid protocol::0.00260845387034
+semantic annotation::0.00260845387034
+advertised::0.00260845387034
+description user::0.00260845387034
+product code::0.00260845387034
+advertisement packet::0.00260845387034
+annotated::0.00259929355376
+address::0.00252573535928
+command::0.00247849309115
+compressed::0.00238641094423
+structure and functionality::0.00235310467325
+fields is summarized::0.00235310467325
+key words rfid::0.00235310467325
+entries matching parameters::0.00235310467325
+trigger spurious leave-enter::0.00235310467325
+applications and trends::0.00235310467325
+case of description::0.00235310467325
+liu y. cheung::0.00235310467325
+field it regulates::0.00235310467325
+sending a solicit::0.00235310467325
+protocol so allowing::0.00235310467325
+exploit accurate descriptions::0.00235310467325
+procedures that determine::0.00235310467325
+resource provider epc::0.00235310467325
+interconnect tags dipped::0.00235310467325
+point of failure::0.00235310467325
+travel and finally::0.00235310467325
+kawakita y. mistugi::0.00235310467325
+provide to applications::0.00235310467325
+tag tag field::0.00235310467325
+equivalent of owl-dl1::0.00235310467325
+system this paradigm::0.00235310467325
+naming service ons)3::0.00235310467325
+increased every time::0.00235310467325
+product code initially::0.00235310467325
+low-throughput wireless links::0.00235310467325
+dig 4 implemented::0.00235310467325
+normal system activity::0.00235310467325
+remote reasoning engine::0.00235310467325
+extraction of good’s::0.00235310467325
+survey a knowledge::0.00235310467325
+words rfid 802.11::0.00235310467325
+repositories where knowledge::0.00235310467325
+raw materials components::0.00235310467325
+retrieval should depend::0.00235310467325
+layer without depending::0.00235310467325
+issue an advertisement::0.00235310467325
+16th international workshop::0.00235310467325
+node receives information::0.00235310467325
+matchmaking using metadata::0.00235310467325
+dissemination protocol allowing::0.00235310467325
+full protocol stack::0.00235310467325
+model these functions::0.00235310467325
+cache holder sequence::0.00235310467325
+ouuid the identifier::0.00235310467325
+entry this prevents::0.00235310467325
+basic elements recur::0.00235310467325
+adapt kr tools::0.00235310467325
+kind of pdu::0.00235310467325
+declaration is required::0.00235310467325
+original requester node::0.00235310467325
+scattered among objects::0.00235310467325
+rfid tags); ouuid;::0.00235310467325
+knowledge bases u-kbs::0.00235310467325
+david 200 i-70125::0.00235310467325
+case study section::0.00235310467325
+layers we adopt::0.00235310467325
+nodes fully aware::0.00235310467325
+drugs and patients::0.00235310467325
+applications equipment drugs::0.00235310467325
+maximum hops number::0.00235310467325
+w3c recommendation february::0.00235310467325
+allowing an “on-demand”::0.00235310467325
+composite variable length::0.00235310467325
+case total traffic::0.00235310467325
+mark ontologies unambiguously::0.00235310467325
+approach is effective::0.00235310467325
+packet not reported::0.00235310467325
+parameters as shown::0.00235310467325
+equipped with ieee::0.00235310467325
+send advertisement packets::0.00235310467325
+services ouuid matching::0.00235310467325
+integrating knowledge discovery::0.00235310467325
+regulates the frame::0.00235310467325
+std 802.11 iso::0.00235310467325
+hops the number::0.00235310467325
+paradigm has led::0.00235310467325
+conveying a small::0.00235310467325
+function of tag::0.00235310467325
+flag to distinguish::0.00235310467325
+tied to micro::0.00235310467325
+expensive information duplication::0.00235310467325
+adopted as cluster-heads::0.00235310467325
+case of match::0.00235310467325
+specifically in pervasive::0.00235310467325
+travel max adv::0.00235310467325
+semantic metadata stored::0.00235310467325
+frameworks for objects::0.00235310467325
+number of requests;::0.00235310467325
+characterized in terms::0.00235310467325
+framework is supported::0.00235310467325
+enhanced to support::0.00235310467325
+granting a theoretically::0.00235310467325
+remaining life time::0.00235310467325
+hogan b. rodrigues::0.00235310467325
+wireless pervasive technologies::0.00235310467325
+hops the packet::0.00235310467325
+finally smart post-sale::0.00235310467325
+formal interface specifications::0.00235310467325
+sale depots benefit::0.00235310467325
+polling time milliseconds::0.00235310467325
+system krs plays::0.00235310467325
+fields are analogous::0.00235310467325
+discovery in pervasive::0.00235310467325
+specifies the ontology::0.00235310467325
+leveraging the lightweight::0.00235310467325
+support in ubiquitous::0.00235310467325
+area can access::0.00235310467325
+journal of web::0.00235310467325
+bit mask clear::0.00235310467325
+case of “new”::0.00235310467325
+infrastructure are granted::0.00235310467325
+individuals avoids unnecessary::0.00235310467325
+micro devices deployed::0.00235310467325
+applications international journal::0.00235310467325
+tag population size::0.00235310467325
+inventoried a tag::0.00235310467325
+due to power::0.00235310467325
+packet – number::0.00235310467325
+barriers between patient::0.00235310467325
+interactions with epcglobal::0.00235310467325
+table the host::0.00235310467325
+range via rfid::0.00235310467325
+descriptions of raw::0.00235310467325
+send a solicit::0.00235310467325
+proposed framework comprises::0.00235310467325
+odically send advertisement::0.00235310467325
+starting a resource::0.00235310467325
+semantic web effort::0.00235310467325
+pdu in unicast::0.00235310467325
+specific requirements part::0.00235310467325
+semantic sensor net::0.00235310467325
+adds cache entries;::0.00235310467325
+internet and protocol::0.00235310467325
+hosts are responsible::0.00235310467325
+embedded into semantic-enhanced::0.00235310467325
+pdu in order::0.00235310467325
+domain current krss::0.00235310467325
+transponder the object::0.00235310467325
+embedded within rfid::0.00235310467325
+rfid readers equipped::0.00235310467325
+range and tags::0.00235310467325
+infrastructure already deployed::0.00235310467325
+reader – resource::0.00235310467325
+extended framework supported::0.00235310467325
+rfid object discovery::0.00235310467325
+resource the maximum::0.00235310467325
+number of neighbors::0.00235310467325
+neighbor for ack::0.00235310467325
+methods into operations::0.00235310467325
+barthel h. bustein::0.00235310467325
+table 1 –::0.00235310467325
+study rfid-based u-kb::0.00235310467325
+action membank pointer::0.00235310467325
+context-aware information processing::0.00235310467325
+protocol for dissemination::0.00235310467325
+tags parameter target::0.00235310467325
+activity we adopt::0.00235310467325
+pdu types exploited::0.00235310467325
+epcglobal rfid tags::0.00235310467325
+smart environment discovery::0.00235310467325
+kbs to u-kbs::0.00235310467325
+scioscia e tinelli::0.00235310467325
+purposes – traveled::0.00235310467325
+single tag table::0.00235310467325
+pdu – –::0.00235310467325
+time a reader::0.00235310467325
+radio range table::0.00235310467325
+context aware parameters::0.00235310467325
+issues as figure::0.00235310467325
+control and information::0.00235310467325
+solicit packet waiting::0.00235310467325
+reader will advertise::0.00235310467325
+holder sequence number::0.00235310467325
+size in byte::0.00235310467325
+reader are advertised::0.00235310467325
+populating a smart::0.00235310467325
+detail each individual::0.00235310467325
+epcglobal ratified specification::0.00235310467325
+krss are characterized::0.00235310467325
+creation and management::0.00235310467325
+insufficient to satisfy::0.00235310467325
+finally the host::0.00235310467325
+enabled tags parameter::0.00235310467325
+generated by data::0.00235310467325
+frame for broadcast::0.00235310467325
+dübendorfer t. smart::0.00235310467325
+“on-demand” knowledge availability::0.00235310467325
+commerce 7 capabilities::0.00235310467325
+pdu fields –::0.00235310467325
+objects are endowed::0.00235310467325
+number – node::0.00235310467325
+extend logic-based reasoning::0.00235310467325
+globally unique item::0.00235310467325
+universe of marketing::0.00235310467325
+resource resource description::0.00235310467325
+storage are utterly::0.00235310467325
+describing general concepts::0.00235310467325
+previous one –::0.00235310467325
+discarded this simple::0.00235310467325
+neighbors each node::0.00235310467325
+principles of semantic::0.00235310467325
+packet is higher::0.00235310467325
+carrying object characteristics::0.00235310467325
+fetch ontology file::0.00235310467325
+enable rfid object::0.00235310467325
+distributed application-layer protocol::0.00235310467325
+extraction of resource::0.00235310467325
+reader be familiar::0.00235310467325
+tbox containing intensional::0.00235310467325
+protocol not reported::0.00235310467325
+representation kr approaches::0.00235310467325
+choose only semantically::0.00235310467325
+event pairs table::0.00235310467325
+packet by broadcasting::0.00235310467325
+ubiquitous knowledge bases::0.00235310467325
+characteristics from field::0.00235310467325
+objects could talk::0.00235310467325
+i-70125 bari italy::0.00235310467325
+variable length field::0.00235310467325
+domain in detail::0.00235310467325
+type bit set::0.00235310467325
+process and forward::0.00235310467325
+max retries maximum::0.00235310467325
+tbox is contained::0.00235310467325
+logic-based reasoning services::0.00235310467325
+description logics dl’03::0.00235310467325
+retrieval and sensitivity::0.00235310467325
+requests it plays::0.00235310467325
+single large entity::0.00235310467325
+network simulator http::0.00235310467325
+ack rtt seconds::0.00235310467325
+set in case::0.00235310467325
+detail the data::0.00235310467325
+tags whose descriptions::0.00235310467325
+remote procedure call::0.00235310467325
+description sl flag::0.00235310467325
+semantic sensor networks::0.00235310467325
+entries are refreshed::0.00235310467325
+functions were identified::0.00235310467325
+command with parameters::0.00235310467325
+manet is labeled::0.00235310467325
+finally the epc::0.00235310467325
+initial address number::0.00235310467325
+specifications for knowledge::0.00235310467325
+control can exploit::0.00235310467325
+framework name default::0.00235310467325
+order to extract::0.00235310467325
+extract semantic annotations::0.00235310467325
+investments in infrastructure::0.00235310467325
+assuming the reader::0.00235310467325
+require a preliminary::0.00235310467325
+led to expensive::0.00235310467325
+withouth expensive investments::0.00235310467325
+table for entries::0.00235310467325
+introduction in pervasive::0.00235310467325
+sites smart semantic-based::0.00235310467325
+system data structures::0.00235310467325
+schmidt j. schramek::0.00235310467325
+individuals to neighboring::0.00235310467325
+sciascio f scioscia::0.00235310467325
+avoids unnecessary data::0.00235310467325
+agriculture and disaster::0.00235310467325
+scioscia f. tinelli::0.00235310467325
+concepts and properties::0.00235310467325
+resource-constrained mobile devices::0.00235310467325
+host can issue::0.00235310467325
+reader node waits::0.00235310467325
+traveled hops field::0.00235310467325
+swartout b. description-logic::0.00235310467325
+web resource discovery::0.00235310467325
+forwards the packet::0.00235310467325
+retract only information::0.00235310467325
+cyclic advertisement diffusion::0.00235310467325
+unique identifiers ouuids::0.00235310467325
+forwarding the packet::0.00235310467325
+enable ubiquitous knowledge::0.00235310467325
+sciascio e. scioscia::0.00235310467325
+attempts to cover::0.00235310467325
+end user memory::0.00235310467325
+present a general::0.00235310467325
+content pdu update::0.00235310467325
+packet a reader::0.00235310467325
+environment semantic annotations::0.00235310467325
+framework technical report::0.00235310467325
+standard was enhanced::0.00235310467325
+tags are preselected::0.00235310467325
+description tid memory::0.00235310467325
+discovery diameter current::0.00235310467325
+flags are reserved::0.00235310467325
+long as large::0.00235310467325
+reserved for future::0.00235310467325
+reception hop traversal::0.00235310467325
+receives a demand::0.00235310467325
+cache content packet::0.00235310467325
+museums and archaeological::0.00235310467325
+extracting implicit knowledge::0.00235310467325
+located at discovery::0.00235310467325
+number resource description::0.00235310467325
+ijipt special issue::0.00235310467325
+discovery phase max::0.00235310467325
+discovery in home::0.00235310467325
+show the typical::0.00235310467325
+ubiquitous knowledge base::0.00235310467325
+depend on object::0.00235310467325
+donini f. ruta::0.00235310467325
+link this approach::0.00235310467325
+matchmaking using semantic::0.00235310467325
+ontology language w3c::0.00235310467325
+providing cache table::0.00235310467325
+oct 4 2005::0.00235310467325
+query is implied::0.00235310467325
+current search diameter::0.00235310467325
+transmissions for data::0.00235310467325
+processing are needed::0.00235310467325
+pervasive computing semantic::0.00235310467325
+lower network layers::0.00235310467325
+propagation among readers::0.00235310467325
+resource provider size::0.00235310467325
+referred to tags::0.00235310467325
+request provider address::0.00235310467325
+designed for wired::0.00235310467325
+diameter max req::0.00235310467325
+starts an rfid::0.00235310467325
+rest representational state::0.00235310467325
+receive any echo::0.00235310467325
+abox containing extensional::0.00235310467325
+demand and solicit::0.00235310467325
+phase max retries::0.00235310467325
+discovery and reasoning::0.00235310467325
+unique advertisement pdu::0.00235310467325
+words 16 bytes::0.00235310467325
+descriptions are required::0.00235310467325
+owners a demand::0.00235310467325
+rfids lacking unique::0.00235310467325
+node sequence number::0.00235310467325
+un-tell i.e. retract::0.00235310467325
+computing environment rfid::0.00235310467325
+lifecycle of industrial::0.00235310467325
+classic tell model::0.00235310467325
+handles the pdu::0.00235310467325
+hop wait timer::0.00235310467325
+default rtime milliseconds::0.00235310467325
+knowledge dissemination protocol::0.00235310467325
+cheung s. yang::0.00235310467325
+semantic-based discovery frameworks::0.00235310467325
+prevents propagation issues::0.00235310467325
+procedures to resource-constrained::0.00235310467325
+journal on semantic::0.00235310467325
+reported here due::0.00235310467325
+logic handbook cambridge::0.00235310467325
+rfid is exploited::0.00235310467325
+mere identification codes::0.00235310467325
+previously told explicitly::0.00235310467325
+tags); ouuid; semantic::0.00235310467325
+– resource parameters::0.00235310467325
+rfid tags populating::0.00235310467325
+neighbor ack rtt::0.00235310467325
+integration of semanticenhanced::0.00235310467325
+access to local::0.00235310467325
+retrieval of suitable::0.00235310467325
+collision probability recall::0.00235310467325
+smart semantic-based content::0.00235310467325
+diameter in hops::0.00235310467325
+required solicit pdu::0.00235310467325
+node can send::0.00235310467325
+dls)– in pervasive::0.00235310467325
+semantically annotated compressed::0.00235310467325
+functionality traveled hops::0.00235310467325
+semantic-enhanced rfid protocol::0.00235310467325
+annotated compressed object::0.00235310467325
+set of attributes::0.00235310467325
+demand pdu fig::0.00235310467325
+readers is performed::0.00235310467325
+websphere rfid middleware::0.00235310467325
+discovery is supported::0.00235310467325
+high-throughput network link::0.00235310467325
+expanding the universe::0.00235310467325
+table entries matching::0.00235310467325
+requests from nearby::0.00235310467325
+introduced pdu fields::0.00235310467325
+random error communication::0.00235310467325
+required the system::0.00235310467325
+academy of marketing::0.00235310467325
+frame the requester::0.00235310467325
+multiple readers attempt::0.00235310467325
+destination sequence number::0.00235310467325
+format is depicted::0.00235310467325
+file and filtered::0.00235310467325
+timestamp it marks::0.00235310467325
+information about individuals::0.00235310467325
+advertisement packet transmissions::0.00235310467325
+management system dbms::0.00235310467325
+contextual parameters referred::0.00235310467325
+characterized by globally::0.00235310467325
+rfid protocol data::0.00235310467325
+providing the intensional::0.00235310467325
+heidelberg 2005 1144–::0.00235310467325
+number of advertised::0.00235310467325
+range consequently approaches::0.00235310467325
+experience has shown::0.00235310467325
+translating remote methods::0.00235310467325
+pdus::0.00235310467325
+fields are outlined::0.00235310467325
+directions ieee communications::0.00235310467325
+field in rfid-based::0.00235310467325
+rfid epcglobal rfid::0.00235310467325
+closes the paper::0.00235310467325
+due to architectural::0.00235310467325
+generating a solicit::0.00235310467325
+infrastructure where rfid::0.00235310467325
+e..l 4..7 reserved::0.00235310467325
+items it adds::0.00235310467325
+gen-2 uhf rfid::0.00235310467325
+payload it reads::0.00235310467325
+transparent to users::0.00235310467325
+mcguinness d. patel-schneider::0.00235310467325
+rfid epcglobal fig::0.00235310467325
+paper; in section::0.00235310467325
+layer provides access::0.00235310467325
+space to estimate::0.00235310467325
+areas of rfid::0.00235310467325
+endowed with rfid::0.00235310467325
+semantic networks 1991::0.00235310467325
+range only semantic::0.00235310467325
+forwarding::0.00235310467325
+architecture we hypothesize::0.00235310467325
+“on-demand”::0.00235310467325
+pre-filtered “on-demand” provisioning::0.00235310467325
+transmitting we developed::0.00235310467325
+reader radio range::0.00235310467325
+ontology describing general::0.00235310467325
+requirements of mobile::0.00235310467325
+advertised by means::0.00235310467325
+retrieval on rfid::0.00235310467325
+advertisement pdu traveled::0.00235310467325
+advertising one figure::0.00235310467325
+pdu to notify::0.00235310467325
+politecnico di bari::0.00235310467325
+typical read rates::0.00235310467325
+language w3c recommendation::0.00235310467325
+technical report epcglobal::0.00235310467325
+large computing resources::0.00235310467325
+knowledge representation artificial::0.00235310467325
+discovery diameter hops::0.00235310467325
+default r time::0.00235310467325
+grants each mobile::0.00235310467325
+structures and protocol::0.00235310467325
+technologies to functional::0.00235310467325
+epcglobal object naming::0.00235310467325
+protocol between caches::0.00235310467325
+suggests is shorter::0.00235310467325
+nodes the protocol::0.00235310467325
+properties and purposes::0.00235310467325
+integrate and extend::0.00235310467325
+sessions hit ratio::0.00235310467325
+technologies help break::0.00235310467325
+space multiple u-kbs::0.00235310467325
+zinkhan g. u-commerce::0.00235310467325
+data transfers minimizes::0.00235310467325
+sequence and involved::0.00235310467325
+inventory the u-kb::0.00235310467325
+cache and recursively::0.00235310467325
+ubiquitous computing contexts::0.00235310467325
+resource providers peri::0.00235310467325
+healthcare applications equipment::0.00235310467325
+host will wait::0.00235310467325
+parameters to perform::0.00235310467325
+severe resource limitations::0.00235310467325
+time a host::0.00235310467325
+sending the packet::0.00235310467325
+extract implicit knowledge::0.00235310467325
+target action membank::0.00235310467325
+collisions a tag::0.00235310467325
+environments m ruta::0.00235310467325
+resources are considered::0.00235310467325
+parameter target action::0.00235310467325
+tag data dissemination::0.00235310467325
+distinction between tbox::0.00235310467325
+significant theoretical aspects::0.00235310467325
+locators a node::0.00235310467325
+led to detailed::0.00235310467325
+travel diameter max::0.00235310467325
+milliseconds see table::0.00235310467325
+support to clinicians::0.00235310467325
+pitt l. berthon::0.00235310467325
+host scans rfid::0.00235310467325
+approach for pervasive::0.00235310467325
+guinness d. nardi::0.00235310467325
+requests a node::0.00235310467325
+presents an extended::0.00235310467325
+advertises contextual parameters::0.00235310467325
+replies in unicast::0.00235310467325
+number between provider::0.00235310467325
+generation uhf tags::0.00235310467325
+computing semantic web::0.00235310467325
+one); 2 resource::0.00235310467325
+plays an architectural::0.00235310467325
+fields – type::0.00235310467325
+devised to build::0.00235310467325
+provided to purchasers::0.00235310467325
+transmissions polling time::0.00235310467325
+packet transports request::0.00235310467325
+defines in detail::0.00235310467325
+specific reference ontology::0.00235310467325
+dig; a set::0.00235310467325
+forwarded using mac::0.00235310467325
+functions they provide::0.00235310467325
+easier inventory management::0.00235310467325
+berthon p. zinkhan::0.00235310467325
+waiting for cache::0.00235310467325
+connectivity hereafter hosts::0.00235310467325
+reduced simulation environment::0.00235310467325
+words 32 bits::0.00235310467325
+diameter the cyclic::0.00235310467325
+commands as shown::0.00235310467325
+freshness of advertised::0.00235310467325
+length field depending::0.00235310467325
+explicit knowledge declaration::0.00235310467325
+submit any ask-type::0.00235310467325
+bound of ≈::0.00235310467325
+recall that mac::0.00235310467325
+parameters a composite::0.00235310467325
+epcglobal architecture framework::0.00235310467325
+defined before object::0.00235310467325
+symposium on applications::0.00235310467325
+representational state transfer::0.00235310467325
+representation system krs::0.00235310467325
+detailed and formal::0.00235310467325
+ontology languages originally::0.00235310467325
+solicit pdu basically::0.00235310467325
+number of retransmissions::0.00235310467325
+stack in scenarios::0.00235310467325
+knowledge representation systems::0.00235310467325
+resource the managed::0.00235310467325
+bit set pdu::0.00235310467325
+ouuid; semantic annotation::0.00235310467325
+contexts international journal::0.00235310467325
+lifetime the remaining::0.00235310467325
+knowledge i.e. individuals::0.00235310467325
+proposed data propagation::0.00235310467325
+proposed framework presents::0.00235310467325
+annotations for carrying::0.00235310467325
+university press 2002::0.00235310467325
+transports pdu fields::0.00235310467325
+shows the structure::0.00235310467325
+host is aware::0.00235310467325
+environments the tbox::0.00235310467325
+locate suitable descriptions::0.00235310467325
+ruta m. scioscia::0.00235310467325
+200 i-70125 bari::0.00235310467325
+processes sale depots::0.00235310467325
+phenomenon can trigger::0.00235310467325
+contextual attributes exploiting::0.00235310467325
+u-kbs in pervasive::0.00235310467325
+low storage space::0.00235310467325
+management is greatly::0.00235310467325
+semantically annotated object::0.00235310467325
+distributed and decentralized::0.00235310467325
+marks the specific::0.00235310467325
+environment ask operations::0.00235310467325
+table is fully::0.00235310467325
+mattern f. dübendorfer::0.00235310467325
+service discovery sessions::0.00235310467325
+enable advanced solutions::0.00235310467325
+managed reference ouuid::0.00235310467325
+propagation and retrieval::0.00235310467325
+revised; in section::0.00235310467325
+receiving a cache::0.00235310467325
+management tagged objects::0.00235310467325
+field and discovery::0.00235310467325
+leave-enter event pairs::0.00235310467325
+“virtual” knowledge base::0.00235310467325
+exploit dl-based ontology::0.00235310467325
+pdu in figure::0.00235310467325
+sake of conciseness::0.00235310467325
+granted to local::0.00235310467325
+reads the semantically::0.00235310467325
+diameter in order::0.00235310467325
+semanticbased bluetooth-rfid interaction::0.00235310467325
+codes of semantic::0.00235310467325
+web ontology language::0.00235310467325
+baader f. calvanese::0.00235310467325
+reasons most systems::0.00235310467325
+benefit from easier::0.00235310467325
+domain; an abox::0.00235310467325
+epcglobal rfid technology::0.00235310467325
+host advertises individuals::0.00235310467325
+framework springer berlin::0.00235310467325
+addresses of hosts::0.00235310467325
+resource description epc::0.00235310467325
+echo within polling::0.00235310467325
+protocol keeps track::0.00235310467325
+environment rfid readers::0.00235310467325
+hops sequence number::0.00235310467325
+differences and performance::0.00235310467325
+technologies beyond rfid::0.00235310467325
+travel – request::0.00235310467325
+standard for class::0.00235310467325
+ontology the resource::0.00235310467325
+system tell operations::0.00235310467325
+environment by means::0.00235310467325
+unicast using apposite::0.00235310467325
+italy m.ruta,t.dinoia,disciascio,f.scioscia,e.tinelli]@poliba.it abstract::0.00235310467325
+advertisement every default::0.00235310467325
+reconstruct a local::0.00235310467325
+owl web ontology::0.00235310467325
+proposal is explained::0.00235310467325
+exposing a high-level::0.00235310467325
+range of objects::0.00235310467325
+cover the request::0.00235310467325
+web and grid::0.00235310467325
+call or rest::0.00235310467325
+field is reported::0.00235310467325
+uni or broadcast);::0.00235310467325
+data dissemination paradigm::0.00235310467325
+requester elicits information::0.00235310467325
+hop traversal time::0.00235310467325
+content frame arrives::0.00235310467325
+approach we preserve::0.00235310467325
+read its ouuid::0.00235310467325
+workshop proceedings 2003::0.00235310467325
+advertisement is forwarded;::0.00235310467325
+travel the advertisements::0.00235310467325
+due to collisions::0.00235310467325
+attributes from user::0.00235310467325
+reduce the collision::0.00235310467325
+random time waited::0.00235310467325
+address ouuid epc::0.00235310467325
+pdu traveled hops::0.00235310467325
+scioscia f. piscitelli::0.00235310467325
+criteria pre-filtered “on-demand”::0.00235310467325
+likewise in museums::0.00235310467325
+cache and forward::0.00235310467325
+bustein l. garrett::0.00235310467325
+information systems ijswis::0.00235310467325
+dissemination phase odically::0.00235310467325
+values for context::0.00235310467325
+address ouuid size::0.00235310467325
+automated inference procedures::0.00235310467325
+route the pdu::0.00235310467325
+effort particularly dig::0.00235310467325
+request destination sequence::0.00235310467325
+dl-based language dig;::0.00235310467325
+– node sequence::0.00235310467325
+objects an analytical::0.00235310467325
+forwarding advertisement packets::0.00235310467325
+node generally attempts::0.00235310467325
+– traveled hops::0.00235310467325
+environments international journal::0.00235310467325
+broadcasts an advertisement::0.00235310467325
+components and processes::0.00235310467325
+description-logic knowledge representation::0.00235310467325
+reported pdu fields::0.00235310467325
+advertisement pdu –::0.00235310467325
+field value coincides::0.00235310467325
+knowledge sharing effort::0.00235310467325
+description logic interface::0.00235310467325
+automatically removed un-told::0.00235310467325
+multi-hop communication infrastructure::0.00235310467325
+approach to carry::0.00235310467325
+case study rfid-based::0.00235310467325
+brachman r. mcguinness::0.00235310467325
+ouuid a numeric::0.00235310467325
+provide any acknowledgment::0.00235310467325
+garrett j. hogan::0.00235310467325
+environment and share::0.00235310467325
+stored in rfid::0.00235310467325
+scenarios where retrieval::0.00235310467325
+unnecessary data transfers::0.00235310467325
+match epc memory::0.00235310467325
+rtime meaning time::0.00235310467325
+node destination address::0.00235310467325
+sensitivity to topology::0.00235310467325
+compressed semantic-based annotation::0.00235310467325
+update the cache::0.00235310467325
+tag rfid tag::0.00235310467325
+description the semantically::0.00235310467325
+summarized – –::0.00235310467325
+protocol in random::0.00235310467325
+parallel research effort::0.00235310467325
+size thus granting::0.00235310467325
+descriptions from field::0.00235310467325
+percentage of successful::0.00235310467325
+detect only semantic::0.00235310467325
+proposed framework type::0.00235310467325
+individually and ttl::0.00235310467325
+satisfy the request::0.00235310467325
+semantic-based content fruition::0.00235310467325
+sketched in figure::0.00235310467325
+number of bits::0.00235310467325
+dependency on context::0.00235310467325
+entry read traveled::0.00235310467325
+services with application-specific::0.00235310467325
+manage any information::0.00235310467325
+traveled hops sequence::0.00235310467325
+manet-based computing environment::0.00235310467325
+max adv diameter=4::0.00235310467325
+cache is updated::0.00235310467325
+epcglobal so replying::0.00235310467325
+epcglobal gen-2 uhf::0.00235310467325
+consequence the reader::0.00235310467325
+lifetime timestamp traveled::0.00235310467325
+intelligence is embedded::0.00235310467325
+seconds by means::0.00235310467325
+outline pdu fields::0.00235310467325
+assessment of resource::0.00235310467325
+appliances 1 asset::0.00235310467325
+structures and low-level::0.00235310467325
+context severe resource::0.00235310467325
+wordptr::0.00235310467325
+representation artificial intelligence::0.00235310467325
+physical space multiple::0.00235310467325
+specifications ansi std::0.00235310467325
+pdu see table::0.00235310467325
+labeled by means::0.00235310467325
+storage and retrieval::0.00235310467325
+smart identification frameworks::0.00235310467325
+contents reception hop::0.00235310467325
+phase odically send::0.00235310467325
+bank to compare::0.00235310467325
+clinicians wireless pervasive::0.00235310467325
+requester after receiving::0.00235310467325
+maximum advertisement diameter::0.00235310467325
+individual is characterized::0.00235310467325
+assertions of terminological::0.00235310467325
+set of data-oriented::0.00235310467325
+initially each reader::0.00235310467325
+table is updated::0.00235310467325
+u-kb ubiquitous knowledge::0.00235310467325
+interface e.g. web::0.00235310467325
+approach are revised;::0.00235310467325
+extract contextual attributes::0.00235310467325
+forward the packet::0.00235310467325
+bits bit mask::0.00235310467325
+scans rfid tags::0.00235310467325
+pervasive rfid environments::0.00235310467325
+support of apulia::0.00235310467325
+node must firstly::0.00235310467325
+reader this field::0.00235310467325
+u-kb as explained::0.00235310467325
+characterized by user::0.00235310467325
+computing applications wireless::0.00235310467325
+epc memory initial::0.00235310467325
+identifier these basic::0.00235310467325
+pervasive computing scenarios::0.00235310467325
+frame travel –::0.00235310467325
+inter-reader ad-hoc communication::0.00235310467325
+packets one hop::0.00235310467325
+knowledge and information::0.00235310467325
+preserve the distinction::0.00235310467325
+request the node::0.00235310467325
+technology semantic-based sensory::0.00235310467325
+hops total hops::0.00235310467325
+comprises the specification::0.00235310467325
+size the description::0.00235310467325
+size lifetime timestamp::0.00235310467325
+semantic-based sensory data::0.00235310467325
+explained and motivated::0.00235310467325
+system allows autonomic::0.00235310467325
+renewed the system::0.00235310467325
+suitable dissemination protocol::0.00235310467325
+limited time-to-live ttl::0.00235310467325
+loop the cache::0.00235310467325
+compatible services ouuid::0.00235310467325
+creation and maintenance::0.00235310467325
+objects the proposed::0.00235310467325
+outline the proposed::0.00235310467325
+möller r. crowther::0.00235310467325
+phase the requester::0.00235310467325
+cache content frame::0.00235310467325
+deployed for internal::0.00235310467325
+approach to knowledge::0.00235310467325
+technologies for tracking::0.00235310467325
+waiting for ack::0.00235310467325
+readers are adopted::0.00235310467325
+total traffic generated::0.00235310467325
+forward a solicit::0.00235310467325
+individuals are physically::0.00235310467325
+read traveled hops::0.00235310467325
+maximum travel diameter::0.00235310467325
+tbox and individuals::0.00235310467325
+scioscia::0.00235310467325
+semantically compatible services::0.00235310467325
+individuals through sequence::0.00235310467325
+rpc remote procedure::0.00235310467325
+future purposes –::0.00235310467325
+dig description logic::0.00235310467325
+ratified specification oct::0.00235310467325
+destination node ouuid::0.00235310467325
+max req diameter::0.00235310467325
+remote clients connected::0.00235310467325
+repository and coordination::0.00235310467325
+sensory data dissemination::0.00235310467325
+abox the tbox::0.00235310467325
+membank pointer length::0.00235310467325
+interface in proceedings::0.00235310467325
+meaning time interval::0.00235310467325
+interaction for advanced::0.00235310467325
+96-bit epc code::0.00235310467325
+ns-2::0.00235310467325
+responsible for u-kb::0.00235310467325
+code not present::0.00235310467325
+data the node::0.00235310467325
+heterogeneous micro devices::0.00235310467325
+motivated by means::0.00235310467325
+u-kbs kb components::0.00235310467325
+topology variations due::0.00235310467325
+sevices of rpc::0.00235310467325
+tags 15 mobile::0.00235310467325
+introduce ubiquitous commerce::0.00235310467325
+dissemination and discovery::0.00235310467325
+executed in order::0.00235310467325
+pdu when starting::0.00235310467325
+wordcount::0.00235310467325
+abox is scattered::0.00235310467325
+share the system::0.00235310467325
+decentralized knowledge base::0.00235310467325
+operations are transparent::0.00235310467325
+frame arrives note::0.00235310467325
+patel-schneider::0.00235310467325
+destination address requester::0.00235310467325
+hoc networks challenges::0.00235310467325
+preselected by means::0.00235310467325
+hosts each host::0.00235310467325
+sequence number conversely::0.00235310467325
+local cache tables::0.00235310467325
+annotation from user::0.00235310467325
+semantically annotated descriptions::0.00235310467325
+stable network infrastructure::0.00235310467325
+data dissemination resource::0.00235310467325
+retransmit the advertisement::0.00235310467325
+max adv diameter::0.00235310467325
+directly from tags::0.00235310467325
+web and information::0.00235310467325
+hosts store advertisements::0.00235310467325
+environments a u-kb::0.00235310467325
+removal the requester::0.00235310467325
+knowledge-based systems designed::0.00235310467325
+challenges and directions::0.00235310467325
+based on centralized::0.00235310467325
+languages originally conceived::0.00235310467325
+advertisements are forwarded::0.00235310467325
+hosts we hypothesize::0.00235310467325
+unacceptable network overhead::0.00235310467325
+tag mobility due::0.00235310467325
+stored in rfids::0.00235310467325
+4..7 reserved –::0.00235310467325
+architecture framework technical::0.00235310467325
+readers we expect::0.00235310467325
+semantic annotations retrieval::0.00235310467325
+suen k. epcglobal::0.00235310467325
+data alignment protocol::0.00235310467325
+epcglobal rfid protocol::0.00235310467325
+cames from readers::0.00235310467325
+description logic handbook::0.00235310467325
+interested in access::0.00235310467325
+u-kbs::0.00235310467325
+industrial products manufacturing::0.00235310467325
+timestamp traveled hops::0.00235310467325
+transfers minimizes transmissions::0.00235310467325
+w.r.t network load::0.00235310467325
+requirements while functionality::0.00235310467325
+semantically rich description::0.00235310467325
+links each mobile::0.00235310467325
+approach using ns-2::0.00235310467325
+“rfid event flickering”2::0.00235310467325
+ontology universally unique::0.00235310467325
+traversal time time::0.00235310467325
+knowledge acquisition phase::0.00235310467325
+destination it starts::0.00235310467325
+receive the transmitted::0.00235310467325
+description and discovery::0.00235310467325
+carrying semantic-based descriptions::0.00235310467325
+existing local entry::0.00235310467325
+mechanism for ontology::0.00235310467325
+römer k. schoch::0.00235310467325
+allgair g. barthel::0.00235310467325
+system specification krss::0.00235310467325
+mistugi j. anti-collision::0.00235310467325
+provider and cache::0.00235310467325
+tracking of agricultural::0.00235310467325
+krss the ability::0.00235310467325
+update or individual::0.00235310467325
+theoretically acceptable scalability::0.00235310467325
+ouuid size lifetime::0.00235310467325
+fresh sequence number::0.00235310467325
+rfid technologies applications::0.00235310467325
+distance hops number::0.00235310467325
+represent kb individuals::0.00235310467325
+associate each individual::0.00235310467325
+cache contents reception::0.00235310467325
+reader cache fig::0.00235310467325
+system to enable::0.00235310467325
+requests the number::0.00235310467325
+dissemination and query::0.00235310467325
+basically the soliciting::0.00235310467325
+individuals is scattered::0.00235310467325
+jitter before transmitting::0.00235310467325
+tagged objects represent::0.00235310467325
+hops already traversed::0.00235310467325
+solicit pdu fig::0.00235310467325
+error has occurred::0.00235310467325
+epc the electronic::0.00235310467325
+limitations hence knowledge-based::0.00235310467325
+meaning of introduced::0.00235310467325
+description logics dls)–::0.00235310467325
+ceur workshop proceedings::0.00235310467325
+tuples the packet::0.00235310467325
+packet whose format::0.00235310467325
+ontology last hop::0.00235310467325
+aim at assuring::0.00235310467325
+arpa knowledge sharing::0.00235310467325
+ramanathan r. redi::0.00235310467325
+description is missing::0.00235310467325
+traub k. allgair::0.00235310467325
+coordination key words::0.00235310467325
+representation we exploit::0.00235310467325
+reader furthermore generated::0.00235310467325
+layer is related::0.00235310467325
+manufacturing and quality::0.00235310467325
+prevents the well-known::0.00235310467325
+gen2 air protocol::0.00235310467325
+advertised semantic annotations::0.00235310467325
+application-specific and context-aware::0.00235310467325
+technology ijipt special::0.00235310467325
+reserved – advertisement::0.00235310467325
+scan of semantic::0.00235310467325
+pervasive contexts international::0.00235310467325
+wait timer set::0.00235310467325
+applications in production::0.00235310467325
+“seen” the resource::0.00235310467325
+stewart r. suen::0.00235310467325
+challenging technology semantic-based::0.00235310467325
+computing scenarios section::0.00235310467325
+february 10th 2004::0.00235310467325
+802.11 iso 8802-11::0.00235310467325
+resource discovery approach::0.00235310467325
+build the tbox::0.00235310467325
+requester node receives::0.00235310467325
+reader since typical::0.00235310467325
+ubiquitous knowledge-based system::0.00235310467325
+needed to enable::0.00235310467325
+pdu is sketched::0.00235310467325
+object discovery maintains::0.00235310467325
+reasoning is carried::0.00235310467325
+annotated object description::0.00235310467325
+kind of transmission::0.00235310467325
+capability and short-range::0.00235310467325
+representation system specification::0.00235310467325
+base by means::0.00235310467325
+adv jitter maximum::0.00235310467325
+clear otherwise bank::0.00235310467325
+updating stored data::0.00235310467325
+ansi std 802.11::0.00235310467325
+requester node waiting::0.00235310467325
+mechanism is analogous::0.00235310467325
+discovery is based::0.00235310467325
+discovery of knowledge::0.00235310467325
+preliminary retrieval phase::0.00235310467325
+logics dl’03 volume::0.00235310467325
+tinelli e. semanticbased::0.00235310467325
+service oriented architecture::0.00235310467325
+emerging yet challenging::0.00235310467325
+developed an analytical::0.00235310467325
+proximity via rfid::0.00235310467325
+ouuid and contextual::0.00235310467325
+monitoring and sensing::0.00235310467325
+obtain a confirmation::0.00235310467325
+retries maximum number::0.00235310467325
+dissemination resource providers::0.00235310467325
+resnick l. borgida::0.00235310467325
+simulator http references::0.00235310467325
+demand e..l 4..7::0.00235310467325
+protocol to enable::0.00235310467325
+first edn 1999::0.00235310467325
+ack rtt timer::0.00235310467325
+reader’s sequence number::0.00235310467325
+∈ 0 max::0.00235310467325
+agricultural and food::0.00235310467325
+net an extensible::0.00235310467325
+hit ratio percentage::0.00235310467325
+rtime::0.00235310467325
+field and readers::0.00235310467325
+set max adv::0.00235310467325
+total hops total::0.00235310467325
+resource data dissemination::0.00235310467325
+rfid into mobile::0.00235310467325
+applications wireless networks::0.00235310467325
+annotation in addition::0.00235310467325
+specification of components::0.00235310467325
+patel-schneider p. swartout::0.00235310467325
+tags without unique::0.00235310467325
+node after sending::0.00235310467325
+discovery in smart::0.00235310467325
+retries::0.00235310467325
+ad-hoc networks manets::0.00235310467325
+vision a u-kb::0.00235310467325
+error communication link::0.00235310467325
+rfid protocol proposed::0.00235310467325
+cluster-heads w.r.t tags::0.00235310467325
+expire before removing::0.00235310467325
+retrieved in unicast::0.00235310467325
+fixed central component::0.00235310467325
+timeout in order::0.00235310467325
+requester can fetch::0.00235310467325
+semantic based tags::0.00235310467325
+wireless semantic sensor::0.00235310467325
+tags and wireless::0.00235310467325
+manages a cache::0.00235310467325
+ontology’s unique identifier::0.00235310467325
+tag series broadcasts::0.00235310467325
+pdu an entry::0.00235310467325
+bits transponders conforming::0.00235310467325
+power and cost::0.00235310467325
+object is clung::0.00235310467325
+– – source::0.00235310467325
+workshop on description::0.00235310467325
+labels the pdu::0.00235310467325
+attempt to scan::0.00235310467325
+access to knowledge::0.00235310467325
+nearby nodes forward::0.00235310467325
+packet destination address::0.00235310467325
+characteristics of pervasive::0.00235310467325
+diameter current search::0.00235310467325
+memory of forwarding::0.00235310467325
+device mobility dependency::0.00235310467325
+compressed semantic annotation::0.00235310467325
+1.0 epcglobal ratified::0.00235310467325
+dl-based ontology languages::0.00235310467325
+bari italy m.ruta,t.dinoia,disciascio,f.scioscia,e.tinelli]@poliba.it::0.00235310467325
+state transfer type::0.00235310467325
+approach we adhere::0.00235310467325
+infrastructure finally smart::0.00235310467325
+requested resource descriptions::0.00235310467325
+pda rfid tag::0.00235310467325
+communication see figure::0.00235310467325
+categories can co-exist::0.00235310467325
+retrieval of advertised::0.00235310467325
+nodes via 802.11::0.00235310467325
+network load duration::0.00235310467325
+packet is silently::0.00235310467325
+epcglobal rfid tag::0.00235310467325
+memory initial address::0.00235310467325
+reduce power consumption::0.00235310467325
+compressed object description::0.00235310467325
+bluetooth discovery protocol::0.00235310467325
+unique identifier number::0.00235310467325
+extract the compressed::0.00235310467325
+period default time::0.00235310467325
+advertisement it extracts::0.00235310467325
+exploiting two read::0.00235310467325
+hops during discovery::0.00235310467325
+tools and technologies::0.00235310467325
+compressed document fragment::0.00235310467325
+information technology telecommunications::0.00235310467325
+purchasers by integrating::0.00235310467325
+successful resource retrieval::0.00235310467325
+shows the format::0.00235310467325
+parameters for carrying::0.00235310467325
+require in unicast::0.00235310467325
+maintains a cache::0.00235310467325
+scenarios each individual::0.00235310467325
+abox by explicit::0.00235310467325
+request id unambiguously::0.00235310467325
+weinstein r. rfid::0.00235310467325
+extensible framework springer::0.00235310467325
+adaptation of reasoning::0.00235310467325
+initial knowledge acquisition::0.00235310467325
+expect valuable insight::0.00235310467325
+m-commerce applications international::0.00235310467325
+ttl to expire::0.00235310467325
+discovery sessions hit::0.00235310467325
+matchmaking each reader::0.00235310467325
+component for reasoning::0.00235310467325
+node the solicit::0.00235310467325
+codes in healthcare::0.00235310467325
+directly on tags::0.00235310467325
+packet transmissions polling::0.00235310467325
+advertisements max adv::0.00235310467325
+handbook cambridge university::0.00235310467325
+exposing system data::0.00235310467325
+rfid tag field::0.00235310467325
+protocol data exchange::0.00235310467325
+plays a central::0.00235310467325
+packet it originally::0.00235310467325
+solicit pdu replies::0.00235310467325
+back a cache::0.00235310467325
+adopt ontology universally::0.00235310467325
+requester host specifies::0.00235310467325
+rfid a technical::0.00235310467325
+packet increases proportionally::0.00235310467325
+description epc fig::0.00235310467325
+–based on description::0.00235310467325
+removal of u-kb::0.00235310467325
+bechhofer s. möller::0.00235310467325
+archaeological sites smart::0.00235310467325
+hops distance hops::0.00235310467325
+duration of service::0.00235310467325
+individuals that meet::0.00235310467325
+triple source address::0.00235310467325
+nardi d. patel-schneider::0.00235310467325
+issue of “rfid::0.00235310467325
+scenarios all application::0.00235310467325
+polling time time::0.00235310467325
+constant values nearby::0.00235310467325
+presented an approach::0.00235310467325
+providers peri fig::0.00235310467325
+exploits the semantic-enhanced::0.00235310467325
+resource discovery framework::0.00235310467325
+satisfying the solicit::0.00235310467325
+type and translating::0.00235310467325
+enabling to provide::0.00235310467325
+type the kind::0.00235310467325
+watson r. pitt::0.00235310467325
+original request ouuid::0.00235310467325
+due to technical::0.00235310467325
+spurious leave-enter event::0.00235310467325
+reported – –::0.00235310467325
+hypothesize each resource::0.00235310467325
+forwarding nodes figure::0.00235310467325
+pointer length mask::0.00235310467325
+layer while parallel::0.00235310467325
+smart post-sale services::0.00235310467325
+cope with tag::0.00235310467325
+hops the pdu::0.00235310467325
+data the size::0.00235310467325
+hypothesize that ontologies::0.00235310467325
+individuals it sees::0.00235310467325
+default rtime meaning::0.00235310467325
+advertisement travel max::0.00235310467325
+short-range low-throughput wireless::0.00235310467325
+due to rfid::0.00235310467325
+rfid wireless semantic::0.00235310467325
+unicast providing cache::0.00235310467325
+address last fields::0.00235310467325
+data dissemination protocol::0.00235310467325
+number of requested::0.00235310467325
+local or remote::0.00235310467325
+ns-2 simulation environment::0.00235310467325
+apposite demand pdus::0.00235310467325
+sarma s. schmidt::0.00235310467325
+donini f. semantic-enhanced::0.00235310467325
+previous ones fig::0.00235310467325
+802.11 i. information::0.00235310467325
+environment and readers::0.00235310467325
+semantic-enhanced bluetooth discovery::0.00235310467325
+distinguish different solicit::0.00235310467325
+8802-11 first edn::0.00235310467325
+transmission each host::0.00235310467325
+campaign in ns-2::0.00235310467325
+information about nearby::0.00235310467325
+semantic annotation stored::0.00235310467325
+fixed and moving::0.00235310467325
+ontologies are defined::0.00235310467325
+ibm websphere rfid::0.00235310467325
+simple mechanism grants::0.00235310467325
+specification krss group::0.00235310467325
+distinguish the kind::0.00235310467325
+change during normal::0.00235310467325
+report epcglobal 2005::0.00235310467325
+unique item identifier::0.00235310467325
+resource life time::0.00235310467325
+assuring “on-demand” knowledge::0.00235310467325
+pervasive contexts intelligence::0.00235310467325
+rfid other hosts::0.00235310467325
+802.11 pervasive computing::0.00235310467325
+scan this phenomenon::0.00235310467325
+annotation and u-kb::0.00235310467325
+proposed framework architecture::0.00235310467325
+performance of gen2::0.00235310467325
+dissemination to make::0.00235310467325
+study using ibm::0.00235310467325
+starting a matchmaking::0.00235310467325
+protocol technology ijipt::0.00235310467325
+borgida a. living::0.00235310467325
+occurred after max::0.00235310467325
+food products equipped::0.00235310467325
+patel-schneider p. resnick::0.00235310467325
+solicit packet waits::0.00235310467325
+schramek c. stewart::0.00235310467325
+broadcast); the remaining::0.00235310467325
+framework type bit::0.00235310467325
+networks 1991 401–456::0.00235310467325
+luo q. liu::0.00235310467325
+networks specific requirements::0.00235310467325
+advertisement could lead::0.00235310467325
+requester ip address::0.00235310467325
+pda rfid reader::0.00235310467325
+u-kb this paper::0.00235310467325
+recommendation february 10th::0.00235310467325
+requester discovery layer::0.00235310467325
+work we aim::0.00235310467325
+causing incorrect removal::0.00235310467325
+number of requests::0.00235310467325
+traveled hops distance::0.00235310467325
+rfid 802.11 pervasive::0.00235310467325
+2005 http ns-2::0.00235310467325
+alignment and prevents::0.00235310467325
+tbox and abox::0.00235310467325
+simulation environment acknowledgments::0.00235310467325
+matching parameters contained::0.00235310467325
+pdu transports pdu::0.00235310467325
+sequence number –::0.00235310467325
+semanticenhanced epcglobal rfid::0.00235310467325
+rtt timer set::0.00235310467325
+consecutive advertisement packet::0.00235310467325
+living with classic::0.00235310467325
+pervasive computing environments::0.00235310467325
+tags per reader::0.00235310467325
+sequence number resource::0.00235310467325
+area networks specific::0.00235310467325
+semantic web resource::0.00235310467325
+resource descriptions data::0.00235310467325
+values nearby nodes::0.00235310467325
+rfid tag tag::0.00235310467325
+user and device::0.00235310467325
+number of resource::0.00235310467325
+resource descriptions stored::0.00235310467325
+tags for epcglobal::0.00235310467325
+issue on rfid::0.00235310467325
+workshops  saint::0.00235310467325
+max retries retries::0.00235310467325
+simultaneously on tags::0.00235310467325
+link in proceedings::0.00235310467325
+rodrigues b. sarma::0.00235310467325
+propagated each individual::0.00235310467325
+ns-2 the network::0.00235310467325
+ouuid the ontology’s::0.00235310467325
+management each reader::0.00235310467325
+destination node destination::0.00235310467325
+cache table management::0.00235310467325
+performing an extensive::0.00235310467325
+sensors each conveying::0.00235310467325
+waited when forwarding::0.00235310467325
+enterprise it professional::0.00235310467325
+iso 8802-11 first::0.00235310467325
+extensive simulation campaign::0.00235310467325
+“no matches” message::0.00235310467325
+matched against requests::0.00235310467325
+framework to carry::0.00235310467325
+waits a random::0.00235310467325
+pervasive environments international::0.00235310467325
+specific resource resource::0.00235310467325
+hops the frame::0.00235310467325
+traveled hops hops::0.00235310467325
+levesque h. foundations::0.00235310467325
+identifier a set::0.00235310467325
+ability to remove::0.00235310467325
+rfid tag rfid::0.00235310467325
+removing the entry::0.00235310467325
+specific ontology lifetime::0.00235310467325
+protocol for m-commerce::0.00235310467325
+perform the data::0.00235310467325
+identifier the epc::0.00235310467325
+recursively sends back::0.00235310467325
+kl-one-like language principles::0.00235310467325
+layer to discovery::0.00235310467325
+memory::0.00232875807342
+equipped with rfid::0.00232562372352
+traveled::0.00232562372352
+service ons::0.00229899757718
+electronic product::0.00229899757718
+naming service::0.00229899757718
+object naming::0.00229899757718
+field::0.00222859002289
+reader::0.00219404443525
+proposed approach::0.00219078338505
+resources::0.00217167916441
+sequence::0.00212815693814
+computing applications::0.00207943484301
+data structures::0.00207943484301
+extract::0.00206541090929
+demand::0.00206477228525
+rfid tags::0.00198627980893
+journal of internet::0.00195634040276
+universally unique identifiers::0.00195634040276
+case of rfid::0.00195634040276
+needed to adapt::0.00195634040276
+abstract this paper::0.00195634040276
+number of heterogeneous::0.00195634040276
+ttl::0.00195634040276
+order to distinguish::0.00195634040276
+home and office::0.00195634040276
+attached to objects::0.00195634040276
+tags in range::0.00195634040276
+ack::0.00195634040276
+telecommunications and information::0.00195634040276
+phy specifications ansi::0.00195634040276
+local and metropolitan::0.00195634040276
+frameworks for ubiquitous::0.00195634040276
+schoch t. mattern::0.00195634040276
+time to live::0.00195634040276
+metropolitan area networks::0.00195634040276
+part 11 wireless::0.00195634040276
+functional and non-functional::0.00195634040276
+w.r.t::0.00195634040276
+echo::0.00195634040276
+approach is needed::0.00195634040276
+mobile ad-hoc networks::0.00195634040276
+exchange between systems::0.00195634040276
+content::0.00195025456229
+tags::0.0019226320624
+hop::0.00190912875538
+maximum number::0.00190912875538
+carry out::0.00190912875538
+layer::0.00186614080863
+default::0.00182565282087
+max::0.00178744437961
+table::0.00177139420365
+provider::0.00176997854985
+replies::0.00176997854985
+advertisements::0.00176997854985
+database management system::0.00172424818289
+waits::0.00172424818289
+naming service ons::0.00172424818289
+majority of applications::0.00172424818289
+tag and reader::0.00172424818289
+mobile rfid readers::0.00172424818289
+frame::0.001706472742
+framework::0.00170252555051
+travel::0.00168496455015
+web::0.00168496455015
+attributes::0.00165232872743
+adv::0.00165232872743
+operations::0.00163013065139
+international journal::0.00160598015234
+originally conceived::0.00156873644884
+gen-2 uhf::0.00156873644884
+knowledge-based systems::0.00156873644884
+description size::0.00156873644884
+u-kb components::0.00156873644884
+extensive simulation::0.00156873644884
+2002 20–22::0.00156873644884
+manet::0.00156873644884
+heterogeneous micro::0.00156873644884
+frame travel::0.00156873644884
+original request::0.00156873644884
+discovery maintains::0.00156873644884
+automated inference::0.00156873644884
+systems local::0.00156873644884
+number resource::0.00156873644884
+environment discovery::0.00156873644884
+1991 401–456::0.00156873644884
+nodes figure::0.00156873644884
+paper stems::0.00156873644884
+requested resource::0.00156873644884
+updating stored::0.00156873644884
+consecutive advertisement::0.00156873644884
+large entity::0.00156873644884
+frame arrives::0.00156873644884
+network link::0.00156873644884
+context severe::0.00156873644884
+short-range low-throughput::0.00156873644884
+resources handles::0.00156873644884
+exploit accurate::0.00156873644884
+“ic technologies::0.00156873644884
+computing contexts::0.00156873644884
+ibm websphere::0.00156873644884
+“rfid event::0.00156873644884
+advertises individuals::0.00156873644884
+dissemination resource::0.00156873644884
+told explicitly::0.00156873644884
+traditional applications::0.00156873644884
+resource annotations::0.00156873644884
+causing incorrect::0.00156873644884
+providing cache::0.00156873644884
+partition-free network::0.00156873644884
+applications equipment::0.00156873644884
+extract contextual::0.00156873644884
+knowledge declaration::0.00156873644884
+increases proportionally::0.00156873644884
+node receiving::0.00156873644884
+framework comprises::0.00156873644884
+framework presents::0.00156873644884
+table management::0.00156873644884
+content frame::0.00156873644884
+preliminary assessment::0.00156873644884
+knowledge-based system::0.00156873644884
+languages originally::0.00156873644884
+annotated object::0.00156873644884
+device mobility::0.00156873644884
+bit set::0.00156873644884
+logic-based reasoning::0.00156873644884
+object categories::0.00156873644884
+desirable due::0.00156873644884
+mobility dependency::0.00156873644884
+compressed file::0.00156873644884
+hops hops::0.00156873644884
+node waiting::0.00156873644884
+tags memories::0.00156873644884
+ontology’s unique::0.00156873644884
+devices deployed::0.00156873644884
+maximum advertisement::0.00156873644884
+requester discovery::0.00156873644884
+annotated descriptions::0.00156873644884
+request ouuid::0.00156873644884
+networks challenges::0.00156873644884
+proposed data::0.00156873644884
+present motivation::0.00156873644884
+workshop proceedings::0.00156873644884
+travel max::0.00156873644884
+precision agriculture::0.00156873644884
+1984 155–212::0.00156873644884
+ouuid matching::0.00156873644884
+node sending::0.00156873644884
+owl-dl1::0.00156873644884
+semantically rich::0.00156873644884
+technology telecommunications::0.00156873644884
+ratified specification::0.00156873644884
+level infrastructure::0.00156873644884
+readers exploits::0.00156873644884
+u-kb deployment::0.00156873644884
+reported –::0.00156873644884
+logics dls)–::0.00156873644884
+language dig;::0.00156873644884
+description update::0.00156873644884
+well-known issue::0.00156873644884
+press 2002::0.00156873644884
+annotations retrieval::0.00156873644884
+technologies applications::0.00156873644884
+specification krss::0.00156873644884
+framework springer::0.00156873644884
+systems ijswis::0.00156873644884
+data-oriented attributes::0.00156873644884
+terminological knowledge::0.00156873644884
+automatically build::0.00156873644884
+solicit pdus::0.00156873644884
+retrieval framework::0.00156873644884
+reasoning procedures::0.00156873644884
+application-layer protocol::0.00156873644884
+enable rfid::0.00156873644884
+motivation motivation::0.00156873644884
+apulia project::0.00156873644884
+pdu payload::0.00156873644884
+request provider::0.00156873644884
+outline pdu::0.00156873644884
+ordinary structure::0.00156873644884
+provider address::0.00156873644884
+framework technical::0.00156873644884
+8802-11 first::0.00156873644884
+resource limitations::0.00156873644884
+reader assumes::0.00156873644884
+computing scenarios::0.00156873644884
+error communication::0.00156873644884
+knowledge dissemination::0.00156873644884
+node forwards::0.00156873644884
+w3c recommendation::0.00156873644884
+length field::0.00156873644884
+compressed semantic::0.00156873644884
+host advertises::0.00156873644884
+flags analogous::0.00156873644884
+packet destination::0.00156873644884
+krs plays::0.00156873644884
+non-functional requirements::0.00156873644884
+notify individuals::0.00156873644884
+unacceptable network::0.00156873644884
+lower network::0.00156873644884
+cache contents::0.00156873644884
+studied specifically::0.00156873644884
+maximum hops::0.00156873644884
+products manufacturing::0.00156873644884
+respective owners::0.00156873644884
+contents reception::0.00156873644884
+http references::0.00156873644884
+gateway exposing::0.00156873644884
+remote reasoning::0.00156873644884
+withouth expensive::0.00156873644884
+resource locators::0.00156873644884
+discovery sessions::0.00156873644884
+grid services::0.00156873644884
+– node::0.00156873644884
+fully aware::0.00156873644884
+information duplication::0.00156873644884
+reserved –::0.00156873644884
+cluster-heads w.r.t::0.00156873644884
+rfid-based scenarios::0.00156873644884
+rpc remote::0.00156873644884
+compare table::0.00156873644884
+remaining time::0.00156873644884
+unicast providing::0.00156873644884
+aware parameters::0.00156873644884
+centralized control::0.00156873644884
+reader mobility::0.00156873644884
+node sequence::0.00156873644884
+dl’03 volume::0.00156873644884
+elements recur::0.00156873644884
+event pairs::0.00156873644884
+rtime meaning::0.00156873644884
+rtt timer::0.00156873644884
+200 i-70125::0.00156873644884
+time milliseconds::0.00156873644884
+applications wireless::0.00156873644884
+fallback mechanism::0.00156873644884
+compressed object::0.00156873644884
+internet leveraging::0.00156873644884
+challenging technology::0.00156873644884
+epc memory::0.00156873644884
+extract semantic::0.00156873644884
+computing semantic::0.00156873644884
+physically tied::0.00156873644884
+carrying semantic-based::0.00156873644884
+typical sequence::0.00156873644884
+marketing journal::0.00156873644884
+simulator http::0.00156873644884
+default time::0.00156873644884
+rfids lacking::0.00156873644884
+disaster recovery::0.00156873644884
+annotation refers::0.00156873644884
+resource timestamp::0.00156873644884
+2000ms 50ms::0.00156873644884
+objects equipped::0.00156873644884
+reception hop::0.00156873644884
+traffic generated::0.00156873644884
+field depending::0.00156873644884
+detected epc::0.00156873644884
+“virtual” knowledge::0.00156873644884
+sensor net::0.00156873644884
+hops distance::0.00156873644884
+diameter current::0.00156873644884
+low-level operations::0.00156873644884
+remote entity::0.00156873644884
+send advertisement::0.00156873644884
+equipment drugs::0.00156873644884
+ontology w.r.t::0.00156873644884
+framework architecture::0.00156873644884
+packet –::0.00156873644884
+rfid tags”::0.00156873644884
+mask clear::0.00156873644884
+“on-demand” provisioning::0.00156873644884
+apposite demand::0.00156873644884
+study section::0.00156873644884
+neighbor ack::0.00156873644884
+technology semantic-based::0.00156873644884
+web ontology::0.00156873644884
+discovery one);::0.00156873644884
+extended framework::0.00156873644884
+reader –::0.00156873644884
+kl-one-like language::0.00156873644884
+architecture framework::0.00156873644884
+set max::0.00156873644884
+web resource::0.00156873644884
+size lifetime::0.00156873644884
+reader listens::0.00156873644884
+extract ouuid::0.00156873644884
+italy m.ruta,t.dinoia,disciascio,f.scioscia,e.tinelli]@poliba.it::0.00156873644884
+readers attempt::0.00156873644884
+provisioning::0.00156873644884
+tags); ouuid;::0.00156873644884
+spurious leave-enter::0.00156873644884
+ad-hoc communication::0.00156873644884
+parallel research::0.00156873644884
+advertised individuals::0.00156873644884
+reader sets::0.00156873644884
+accurate descriptions::0.00156873644884
+– number::0.00156873644884
+conclusion building::0.00156873644884
+quality control::0.00156873644884
+architectural role::0.00156873644884
+arrives note::0.00156873644884
+resource life::0.00156873644884
+explicit assertions::0.00156873644884
+bari italy::0.00156873644884
+object characteristics::0.00156873644884
+protocol devised::0.00156873644884
+automatically removed::0.00156873644884
+current search::0.00156873644884
+expensive investments::0.00156873644884
+knowledge sharing::0.00156873644884
+probability recall::0.00156873644884
+context-aware parameter::0.00156873644884
+document fragment::0.00156873644884
+retries maximum::0.00156873644884
+functionality traveled::0.00156873644884
+extracting implicit::0.00156873644884
+tbox seldom::0.00156873644884
+rich description::0.00156873644884
+compact equivalent::0.00156873644884
+typical entry::0.00156873644884
+semantic-enhanced rfid::0.00156873644884
+parameters contained::0.00156873644884
+triple source::0.00156873644884
+advanced solutions::0.00156873644884
+bytes table::0.00156873644884
+local entry::0.00156873644884
+expect valuable::0.00156873644884
+donini::0.00156873644884
+space multiple::0.00156873644884
+hosts owning::0.00156873644884
+current krss::0.00156873644884
+representation systems::0.00156873644884
+inserted forming::0.00156873644884
+read commands::0.00156873644884
+office appliances::0.00156873644884
+early findings::0.00156873644884
+central repositories::0.00156873644884
+context-aware information::0.00156873644884
+diameter max::0.00156873644884
+bases u-kbs::0.00156873644884
+compatible services::0.00156873644884
+search diameter::0.00156873644884
+advertisement assuming::0.00156873644884
+integrating knowledge::0.00156873644884
+minimizes transmissions::0.00156873644884
+retrieval phase::0.00156873644884
+operations require::0.00156873644884
+acquisition phase::0.00156873644884
+transports pdu::0.00156873644884
+large computing::0.00156873644884
+identifiers ouuids::0.00156873644884
+easier inventory::0.00156873644884
+pervasive technologies::0.00156873644884
+transfers minimizes::0.00156873644884
+advertisement diameter::0.00156873644884
+good’s parameters::0.00156873644884
+provider epc::0.00156873644884
+framework type::0.00156873644884
+matches” message::0.00156873644884
+dissemination paradigm::0.00156873644884
+resource data::0.00156873644884
+representation artificial::0.00156873644884
+802.11 pervasive::0.00156873644884
+memory initial::0.00156873644884
+recently dig::0.00156873644884
+load duration::0.00156873644884
+system infrastructure::0.00156873644884
+extract implicit::0.00156873644884
+multiple u-kbs::0.00156873644884
+meaning time::0.00156873644884
+resource resource::0.00156873644884
+advertised resources::0.00156873644884
+smart identification::0.00156873644884
+epc codes::0.00156873644884
+receive requests::0.00156873644884
+compressed semantic-based::0.00156873644884
+“no matches”::0.00156873644884
+logics dl’03::0.00156873644884
+depots benefit::0.00156873644884
+coordination key::0.00156873644884
+“on-demand” knowledge::0.00156873644884
+unambiguously labels::0.00156873644884
+ordinary meaning::0.00156873644884
+edn 1999::0.00156873644884
+reader radio::0.00156873644884
+report epcglobal::0.00156873644884
+contextual parameters::0.00156873644884
+2005 1144–::0.00156873644884
+packet waits::0.00156873644884
+access information::0.00156873644884
+solicit cames::0.00156873644884
+remote clients::0.00156873644884
+removed un-told::0.00156873644884
+received information::0.00156873644884
+technology ijipt::0.00156873644884
+pointer length::0.00156873644884
+objects disseminated::0.00156873644884
+tag rfid::0.00156873644884
+typical read::0.00156873644884
+filtered individuals::0.00156873644884
+packet increases::0.00156873644884
+compressed document::0.00156873644884
+reader manages::0.00156873644884
+reference ouuid::0.00156873644884
+jitter::0.00156873644884
+hops sequence::0.00156873644884
+system activity::0.00156873644884
+ontology describing::0.00156873644884
+intensional::0.00156873644884
+local manet::0.00156873644884
+resource requirements::0.00156873644884
+identifier number::0.00156873644884
+ontology language::0.00156873644884
+utterly impractical::0.00156873644884
+parameters referred::0.00156873644884
+broadcast transmission::0.00156873644884
+network sends::0.00156873644884
+resource retrieval::0.00156873644884
+propagation issues::0.00156873644884
+interconnect tags::0.00156873644884
+communication link::0.00156873644884
+archaeological sites::0.00156873644884
+w.r.t tags::0.00156873644884
+length mask::0.00156873644884
+system specification::0.00156873644884
+discovery framework::0.00156873644884
+transfer type::0.00156873644884
+iso 8802-11::0.00156873644884
+assuring “on-demand”::0.00156873644884
+resource advertisement::0.00156873644884
+tinelli::0.00156873644884
+resources inventoried::0.00156873644884
+sharing effort::0.00156873644884
+entries compatible::0.00156873644884
+factual knowledge::0.00156873644884
+fixed central::0.00156873644884
+significant theoretical::0.00156873644884
+automatically propagated::0.00156873644884
+reader node::0.00156873644884
+ontology lifetime::0.00156873644884
+packet transmissions::0.00156873644884
+cache entries;::0.00156873644884
+host waits::0.00156873644884
+item identifier::0.00156873644884
+approaches –based::0.00156873644884
+host scans::0.00156873644884
+rtt seconds::0.00156873644884
+performance issues::0.00156873644884
+max req::0.00156873644884
+requester host::0.00156873644884
+gen2 air::0.00156873644884
+10th 2004::0.00156873644884
+prevents propagation::0.00156873644884
+sites smart::0.00156873644884
+ijipt special::0.00156873644884
+ontology provisioning::0.00156873644884
+low storage::0.00156873644884
+longer timeout::0.00156873644884
+introduced pdu::0.00156873644884
+carrying object::0.00156873644884
+resource matchmaking::0.00156873644884
+packet transports::0.00156873644884
+hops total::0.00156873644884
+peri fig::0.00156873644884
+reasoning services::0.00156873644884
+node ouuid::0.00156873644884
+home likewise::0.00156873644884
+advertisement diffusion::0.00156873644884
+contexts intelligence::0.00156873644884
+autonomic creation::0.00156873644884
+formal interface::0.00156873644884
+dl-based language::0.00156873644884
+information due::0.00156873644884
+wireless semantic::0.00156873644884
+– request::0.00156873644884
+“new” items::0.00156873644884
+transmissions polling::0.00156873644884
+framework supported::0.00156873644884
+unique advertisement::0.00156873644884
+lightweight infrastructure::0.00156873644884
+omit details::0.00156873644884
+environment semantic::0.00156873644884
+readers receiving::0.00156873644884
+ceur workshop::0.00156873644884
+ontology languages::0.00156873644884
+suitable dissemination::0.00156873644884
+maximum travel::0.00156873644884
+state transfer::0.00156873644884
+content packet::0.00156873644884
+hosts store::0.00156873644884
+silently discarded::0.00156873644884
+tags populating::0.00156873644884
+semanticbased bluetooth-rfid::0.00156873644884
+ontology support::0.00156873644884
+mark ontologies::0.00156873644884
+summarized –::0.00156873644884
+pairs table::0.00156873644884
+action membank::0.00156873644884
+4..7 reserved::0.00156873644884
+devised solutions::0.00156873644884
+service discovery::0.00156873644884
+generation uhf::0.00156873644884
+acknowledgment frame::0.00156873644884
+transmission error::0.00156873644884
+pdu transports::0.00156873644884
+pdu suggests::0.00156873644884
+2006 424–452::0.00156873644884
+tag mobility::0.00156873644884
+hit ratio::0.00156873644884
+specific reference::0.00156873644884
+environments international::0.00156873644884
+number –::0.00156873644884
+travel diameter::0.00156873644884
+address number::0.00156873644884
+2005 http::0.00156873644884
+m.ruta,t.dinoia,disciascio,f.scioscia,e.tinelli]@poliba.it abstract::0.00156873644884
+u-kb individuals::0.00156873644884
+knowledge availability::0.00156873644884
+ouuid; semantic::0.00156873644884
+semantic-enhanced bluetooth::0.00156873644884
+mechanism grants::0.00156873644884
+network overhead::0.00156873644884
+adds cache::0.00156873644884
+management tagged::0.00156873644884
+generated traffic::0.00156873644884
+patient management::0.00156873644884
+logic interface::0.00156873644884
+node forwarding::0.00156873644884
+processes sale::0.00156873644884
+semantic-based discovery::0.00156873644884
+resource handles::0.00156873644884
+expensive information::0.00156873644884
+sketched::0.00156873644884
+introduce ubiquitous::0.00156873644884
+semantically compatible::0.00156873644884
+ask-type request::0.00156873644884
+– traveled::0.00156873644884
+purposes –::0.00156873644884
+“seen”::0.00156873644884
+semantic-based sensory::0.00156873644884
+transponders conforming::0.00156873644884
+extend logic-based::0.00156873644884
+fetch ontology::0.00156873644884
+fields –::0.00156873644884
+network simulator::0.00156873644884
+ontology providing::0.00156873644884
+http fig::0.00156873644884
+contexts international::0.00156873644884
+rest representational::0.00156873644884
+saint::0.00156873644884
+anti-collision performance::0.00156873644884
+node verifies::0.00156873644884
+semantic-based annotation::0.00156873644884
+transports request::0.00156873644884
+pervasive environments::0.00156873644884
+ansi std::0.00156873644884
+semanticenhanced epcglobal::0.00156873644884
+ns-2 simulation::0.00156873644884
+high-level interface::0.00156873644884
+high-throughput network::0.00156873644884
+requester elicits::0.00156873644884
+time waited::0.00156873644884
+elicits information::0.00156873644884
+semantic networks::0.00156873644884
+advertisement frame::0.00156873644884
+original requester::0.00156873644884
+u-kb creation::0.00156873644884
+adaptable due::0.00156873644884
+oriented architecture::0.00156873644884
+i-70125 bari::0.00156873644884
+rfid table::0.00156873644884
+requirements part::0.00156873644884
+systems designed::0.00156873644884
+http ns-2::0.00156873644884
+values nearby::0.00156873644884
+packet waiting::0.00156873644884
+providers peri::0.00156873644884
+traversal time::0.00156873644884
+descriptions data::0.00156873644884
+cache tables::0.00156873644884
+tag series::0.00156873644884
+theoretical aspects::0.00156873644884
+explicit knowledge::0.00156873644884
+break barriers::0.00156873644884
+ubiquitous commerce::0.00156873644884
+code initially::0.00156873644884
+ontology universally::0.00156873644884
+phase odically::0.00156873644884
+words rfid::0.00156873644884
+remove information::0.00156873644884
+pdu update::0.00156873644884
+directions ieee::0.00156873644884
+type bit::0.00156873644884
+node destination::0.00156873644884
+wireless connectivity::0.00156873644884
+cyclic advertisement::0.00156873644884
+types exploited::0.00156873644884
+previously told::0.00156873644884
+web effort::0.00156873644884
+stores characteristics::0.00156873644884
+epcglobal object::0.00156873644884
+travel –::0.00156873644884
+store advertisements::0.00156873644884
+1.0 epcglobal::0.00156873644884
+bluetooth-rfid interaction::0.00156873644884
+content fruition::0.00156873644884
+receives information::0.00156873644884
+descriptions stored::0.00156873644884
+range table::0.00156873644884
+forwarding nodes::0.00156873644884
+collision probability::0.00156873644884
+local visitors::0.00156873644884
+previously stored::0.00156873644884
+resource providers::0.00156873644884
+destination sequence::0.00156873644884
+functionality tests::0.00156873644884
+solicit requests::0.00156873644884
+time-to-live ttl::0.00156873644884
+smart semantic-based::0.00156873644884
+mac broadcasts::0.00156873644884
+2007 199–217::0.00156873644884
+reader cache::0.00156873644884
+random error::0.00156873644884
+annotated compressed::0.00156873644884
+suitable values::0.00156873644884
+read traveled::0.00156873644884
+initial selection::0.00156873644884
+hypothesize::0.00156873644884
+advertised semantic::0.00156873644884
+advertises contextual::0.00156873644884
+discovery frameworks::0.00156873644884
+materials components::0.00156873644884
+mobility due::0.00156873644884
+description-logic knowledge::0.00156873644884
+rfid-based u-kb::0.00156873644884
+host specifies::0.00156873644884
+2006 68–71::0.00156873644884
+simulation campaign::0.00156873644884
+remote methods::0.00156873644884
+membank pointer::0.00156873644884
+resource parameters::0.00156873644884
+semantic-based content::0.00156873644884
+centralized infrastructure::0.00156873644884
+unique item::0.00156873644884
+dl-based::0.00156873644884
+pdu types::0.00156873644884
+epcglobal gen-2::0.00156873644884
+managed reference::0.00156873644884
+pre-filtered “on-demand”::0.00156873644884
+adopt ontology::0.00156873644884
+rfid 802.11::0.00156873644884
+based tags::0.00156873644884
+inventoried::0.00156873644884
+set pdu::0.00156873644884
+case total::0.00156873644884
+procedure call::0.00156873644884
+translating remote::0.00156873644884
+cost constraints::0.00156873644884
+marketing science::0.00156873644884
+hop wait::0.00156873644884
+rfid tags);::0.00156873644884
+locate suitable::0.00156873644884
+entries matching::0.00156873644884
+representational state::0.00156873644884
+epcglobal 2005::0.00156873644884
+service ons)3::0.00156873644884
+field depends::0.00156873644884
+resource records::0.00156873644884
+exploit dl-based::0.00156873644884
+ouuid size::0.00156873644884
+topology variations::0.00156873644884
+david 200::0.00156873644884
+technical overview::0.00156873644884
+low-throughput wireless::0.00156873644884
+tags dipped::0.00156873644884
+nodes forward::0.00156873644884
+cache tuples::0.00156873644884
+basic functions::0.00156873644884
+dl-based ontology::0.00156873644884
+byte ouuid::0.00156873644884
+matching parameters::0.00156873644884
+cache holder::0.00156873644884
+reported pdu::0.00156873644884
+transmission uni::0.00156873644884
+acceptable scalability::0.00156873644884
+tag tag::0.00156873644884
+population size::0.00156873644884
+802.11 iso::0.00156873644884
+originally transmitted::0.00156873644884
+exposing system::0.00156873644884
+description tid::0.00156873644884
+extracts information::0.00156873644884
+hops field::0.00156873644884
+services ouuid::0.00156873644884
+– flags::0.00156873644884
+krss group::0.00156873644884
+system krs::0.00156873644884
+discovery approach::0.00156873644884
+shorter path::0.00156873644884
+involved actors::0.00156873644884
+products equipped::0.00156873644884
+readers equipped::0.00156873644884
+epc fig::0.00156873644884
+timestamp traveled::0.00156873644884
+sale depots::0.00156873644884
+objects represent::0.00156873644884
+network layers::0.00156873644884
+adopt ieee::0.00156873644884
+simple mechanism::0.00156873644884
+node generating::0.00156873644884
+language principles::0.00156873644884
+generally attempts::0.00156873644884
+support storage::0.00156873644884
+u-kb system::0.00156873644884
+request destination::0.00156873644884
+limited time-to-live::0.00156873644884
+attributes exploiting::0.00156873644884
+resource-constrained mobile::0.00156873644884
+decentralized knowledge::0.00156873644884
+industrial products::0.00156873644884
+wireless links::0.00156873644884
+protocol stack::0.00156873644884
+recursively sends::0.00156873644884
+owl web::0.00156873644884
+node generally::0.00156873644884
+description epc::0.00156873644884
+solicit frame::0.00156873644884
+m-commerce applications::0.00156873644884
+internal inventory::0.00156873644884
+mere identification::0.00156873644884
+reference domain;::0.00156873644884
+object annotation::0.00156873644884
+moving readers::0.00156873644884
+discovery layers::0.00156873644884
+distributed application-layer::0.00156873644884
+enable ubiquitous::0.00156873644884
+specific ontology::0.00156873644884
+logic handbook::0.00156873644884
+recommendation february::0.00156873644884
+distance hops::0.00156873644884
+reader range::0.00156873644884
+ontologies unambiguously::0.00156873644884
+event flickering”2::0.00156873644884
+architectural differences::0.00156873644884
+finally smart::0.00156873644884
+consecutive scan::0.00156873644884
+environment acknowledgments::0.00156873644884
+pdu basically::0.00156873644884
+wait timer::0.00156873644884
+rfid scan::0.00156873644884
+lifetime timestamp::0.00156873644884
+first edn::0.00156873644884
+functional approach::0.00156873644884
+annotation stored::0.00156873644884
+ratio percentage::0.00156873644884
+forwarding advertisement::0.00156873644884
+2008 50–74::0.00156873644884
+composite variable::0.00156873644884
+stable network::0.00156873644884
+epc identifier::0.00156873644884
+fresh sequence::0.00156873644884
+pdu –::0.00156873644884
+february 10th::0.00156873644884
+timer::0.00156873644884
+enable advanced::0.00156873644884
+u-kb operations::0.00156873644884
+initial address::0.00156873644884
+severe resource::0.00156873644884
+ontologies::0.00156873644884
+networks manets::0.00156873644884
+adv diameter=4::0.00156873644884
+information satisfying::0.00156873644884
+nodes fully::0.00156873644884
+u-commerce expanding::0.00156873644884
+epcglobal ratified::0.00156873644884
+networks specific::0.00156873644884
+address requester::0.00156873644884
+describing general::0.00156873644884
+target action::0.00156873644884
+jitter maximum::0.00156873644884
+entry read::0.00156873644884
+numeric identifier::0.00156873644884
+bari::0.00156873644884
+holder sequence::0.00156873644884
+post-sale services::0.00156873644884
+domain current::0.00156873644884
+e..l 4..7::0.00156873644884
+traditional krss::0.00156873644884
+future purposes::0.00156873644884
+reasoning tasks::0.00156873644884
+w.r.t network::0.00156873644884
+service oriented::0.00156873644884
+epcglobal fig::0.00156873644884
+preliminary retrieval::0.00156873644884
+study rfid-based::0.00156873644884
+remaining flags::0.00156873644884
+rtime milliseconds::0.00156873644884
+existing local::0.00156873644884
+field level::0.00156873644884
+interface specifications::0.00156873644884
+hop traversal::0.00156873644884
+diameter hops::0.00156873644884
+trigger spurious::0.00156873644884
+single large::0.00156873644884
+data extracted::0.00156873644884
+parameter target::0.00156873644884
+specific resource::0.00156873644884
+tracked enabling::0.00156873644884
+criteria pre-filtered::0.00156873644884
+reader’s sequence::0.00156873644884
+heidelberg 2005::0.00156873644884
+language w3c::0.00156873644884
+clients connected::0.00156873644884
+reduce power::0.00156873644884
+semantic-based descriptions::0.00156873644884
+flag set::0.00156873644884
+air protocol::0.00156873644884
+inter-reader ad-hoc::0.00156873644884
+system dbms::0.00156873644884
+2002 333–347::0.00156873644884
+considered insufficient::0.00156873644884
+tags parameter::0.00156873644884
+respective providers::0.00156873644884
+bluetooth discovery::0.00156873644884
+websphere rfid::0.00156873644884
+ubiquitous knowledge-based::0.00156873644884
+– advertisement::0.00156873644884
+match epc::0.00156873644884
+host detects::0.00156873644884
+acknowledge support::0.00156873644884
+– resource::0.00156873644884
+pdu traveled::0.00156873644884
+smart post-sale::0.00156873644884
+networks 1991::0.00156873644884
+extensional knowledge::0.00156873644884
+required solicit::0.00156873644884
+tinelli politecnico::0.00156873644884
+knowledge acquisition::0.00156873644884
+linear function::0.00156873644884
+leave-enter event::0.00156873644884
+manet-based computing::0.00156873644884
+travel replies::0.00156873644884
+neighboring hosts::0.00156873644884
+node waits::0.00156873644884
+local subset::0.00156873644884
+handbook cambridge::0.00156873644884
+fully updated::0.00156873644884
+discovery phase::0.00156873644884
+managed resources::0.00156873644884
+solicit replies::0.00156873644884
+full protocol::0.00156873644884
+technical reasons::0.00156873644884
+protocol proposed::0.00156873644884
+arpa knowledge::0.00156873644884
+host replies::0.00156873644884
+number conversely::0.00156873644884
+scans rfid::0.00156873644884
+semantic metadata::0.00156873644884
+retries retries::0.00156873644884
+incorrect removal::0.00156873644884
+adv diameter::0.00156873644884
+epcglobal architecture::0.00156873644884
+identification codes::0.00156873644884
+demand e..l::0.00156873644884
+rfid environments::0.00156873644884
+status flag::0.00156873644884
+series broadcasts::0.00156873644884
+phase max::0.00156873644884
+web sevices::0.00156873644884
+2005 27–33::0.00156873644884
+bits bit::0.00156873644884
+normal system::0.00156873644884
+advertisements max::0.00156873644884
+provider size::0.00156873644884
+successful resource::0.00156873644884
+individuals avoids::0.00156873644884
+remaining life::0.00156873644884
+theoretically acceptable::0.00156873644884
+alignment protocol::0.00156873644884
+environment rfid::0.00156873644884
+network load::0.00156873644884
+host receives::0.00156873644884
+req diameter::0.00156873644884
+data transfers::0.00156873644884
+“on-demand” retrieval::0.00156873644884
+proceedings 2003::0.00156873644884
+“network content”);::0.00156873644884
+pdu replies::0.00156873644884
+bits transponders::0.00156873644884
+soliciting mechanism::0.00156873644884
+reader involved::0.00156873644884
+remote procedure::0.00156873644884
+specification oct::0.00156873644884
+computing resources::0.00156873644884
+multi-hop communication::0.00156873644884
+reduced simulation::0.00156873644884
+sessions hit::0.00156873644884
+u-kb ubiquitous::0.00156873644884
+clinicians wireless::0.00156873644884
+protocol allowing::0.00156873644884
+odically send::0.00156873644884
+individual removal::0.00156873644884
+applications international::0.00156873644884
+lacking unique::0.00156873644884
+total traffic::0.00156873644884
+transports::0.00156873644884
+semantic based::0.00156873644884
+bit mask::0.00156873644884
+raw materials::0.00156873644884
+managed::0.00155957613226
+analogous::0.00155957613226
+wireless lan medium::0.00155957613226
+mobile and ubiquitous::0.00155957613226
+micro::0.00155957613226
+contextual::0.00155957613226
+contexts::0.00155041581568
+shown in table::0.00153209518252
+representation::0.00146269092171
+requests::0.0014605222567
+meaning::0.0014605222567
+layer phy specifications::0.00143184656654
+mac and physical::0.00143184656654
+physical layer phy::0.00143184656654
+bases::0.00143184656654
+lan medium access::0.00143184656654
+read::0.00142067415695
+fields::0.00140413712513
+802.11::0.00138010972805
+rfid tag::0.00136156922619
+identifier::0.00136156922619
+starting::0.00133831679362
+entries::0.00132748391239
+section we present::0.00132748391239
+end user::0.00130422693517
+16th international::0.00130422693517
+production environments::0.00130422693517
+identification frameworks::0.00130422693517
+unnecessary data::0.00130422693517
+exposing::0.00130422693517
+centralized repository::0.00130422693517
+typical scenario::0.00130422693517
+data exchange::0.00130422693517
+feasibility study::0.00130422693517
+pervasive rfid::0.00130422693517
+vast majority::0.00130422693517
+central component::0.00130422693517
+unambiguously::0.00130422693517
+tid::0.00130422693517
+flag::0.00130422693517
+protocol technology::0.00130422693517
+specifications ansi::0.00130422693517
+present work::0.00130422693517
+valuable insight::0.00130422693517
+tags located::0.00130422693517
+food products::0.00130422693517
+node located::0.00130422693517
+research effort::0.00130422693517
+wired networks::0.00130422693517
+96-bit epc::0.00130422693517
+endowed::0.00130422693517
+sequence numbers::0.00130422693517
+system data::0.00130422693517
+logics::0.00130422693517
+storage space::0.00130422693517
+information storage::0.00130422693517
+polling::0.00130422693517
+extensible framework::0.00130422693517
+advertises::0.00130422693517
+knowledge-based::0.00130422693517
+computing environments::0.00130422693517
+transmitted data::0.00130422693517
+alignment::0.00130422693517
+uhf tags::0.00130422693517
+discovery protocol::0.00130422693517
+rfid object::0.00130422693517
+internet connection::0.00130422693517
+specific requirements::0.00130422693517
+tag table::0.00130422693517
+sensory data::0.00130422693517
+infrastructure finally::0.00130422693517
+std 802.11::0.00130422693517
+local cache::0.00130422693517
+tag population::0.00130422693517
+general concepts::0.00130422693517
+healthcare applications::0.00130422693517
+avoids unnecessary::0.00130422693517
+universally unique::0.00130422693517
+basic elements::0.00130422693517
+rfid reader::0.00130170169991
+stored::0.00128945417473
+language::0.00123924654557
+depicted in figure::0.00123924654557
+cambridge university press::0.00123924654557
+tag::0.00120776877521
+code::0.00119137307291
+medium access control::0.00116281186176
+access control mac::0.00116281186176
+reader and tag::0.00116281186176
+forward::0.00116281186176
+ieee communications magazine::0.00116281186176
+number of tags::0.00116281186176
+readers::0.00116236976478
+steady state::0.00114949878859
+database management::0.00114949878859
+metadata::0.00114949878859
+distributed approach::0.00114949878859
+told::0.00114949878859
+smart environments::0.00114949878859
+sensing technologies::0.00114949878859
+scenarios section::0.00114949878859
+physical environment::0.00114949878859
+unique identifiers::0.00114949878859
+marketing::0.00114949878859
+pointer::0.00114949878859
+byte::0.00114949878859
+ons::0.00114949878859
+object properties::0.00114949878859
+metropolitan area::0.00114949878859
+mobile ad-hoc::0.00114949878859
+tags attached::0.00114949878859
+stored data::0.00114949878859
+network figure::0.00114949878859
+sends back::0.00114949878859
+central role::0.00114949878859
+scanned individually::0.00114949878859
+protocol data::0.00114949878859
+special issue::0.00114949878859
+approaches based::0.00114949878859
+problem domain::0.00114949878859
+knowledge discovery::0.00114949878859
+system evaluation::0.00114949878859
+ubiquitous computing::0.00111663382741
+remote::0.00111279802042
+file::0.00109539169252
+remaining::0.00107065343489
+fig::0.00105500796115
+computing environment::0.0010397174215
+initial knowledge::0.0010397174215
+upper bound::0.0010397174215
+mobile host::0.0010397174215
+wait::0.0010397174215
+mask::0.0010397174215
+frameworks::0.0010397174215
+decision support::0.0010397174215
+globally unique::0.0010397174215
+general framework::0.0010397174215
+rfid wireless::0.0010397174215
+local storage::0.0010397174215
+rtt::0.0010397174215
+implicit::0.0010397174215
+providers::0.0010397174215
+ad-hoc networks::0.0010397174215
+information exchange::0.0010397174215
+pda::0.0010397174215
+characterized::0.00103508229604
+motivation::0.00103508229604
+smart::0.00102117691964
+maintains::0.000980525810747
+advanced::0.000976276274931
+key words::0.000954564377691
+wireless pervasive::0.000954564377691
+processing capability::0.000954564377691
+query processing::0.000954564377691
+paper focuses::0.000954564377691
+marks::0.000954564377691
+workshops::0.000954564377691
+transmissions::0.000954564377691
+naming::0.000954564377691
+application areas::0.000954564377691
+small amount::0.000954564377691
+≈::0.000954564377691
+lan medium::0.000954564377691
+asset management::0.000954564377691
+rfid transponder::0.000954564377691
+communication range::0.000954564377691
+mobile rfid::0.000954564377691
+communication infrastructure::0.000954564377691
+waiting::0.000954564377691
+read rates::0.000954564377691
+milliseconds::0.000954564377691
+reserved::0.000954564377691
+layer phy::0.000954564377691
+variations due::0.000954564377691
+devised::0.000954564377691
+phy specifications::0.000954564377691
+scenarios::0.000933070404315
+procedures::0.000930719641892
+pervasive::0.00090558945458
+components::0.000891436009156
+carried out::0.000890238416338
+internet::0.000890238416338
+storage::0.000890238416338
+bits::0.000884989274927
+paper presents::0.000884989274927
+analytical::0.000884989274927
+extraction::0.000884989274927
+classic::0.000884989274927
+greatly improved::0.000884989274927
+single point::0.000884989274927
+rfid technologies::0.000884989274927
+management system::0.000884989274927
+tag data::0.000884989274927
+rfid middleware::0.000884989274927
+broadcasts::0.000884989274927
+single tag::0.000884989274927
+centralized::0.000884902407963
+management::0.000861661081781
+receives::0.000850980766366
+simulation::0.000842482275076
+ordinary::0.000826164363716
+springer berlin::0.000826164363716
+application scenarios::0.000826164363716
+traffic::0.000826164363716
+wireless sensors::0.000826164363716
+scattered::0.000826164363716
+university press::0.000826164363716
+inventory::0.000802990076171
+neighbors::0.000802990076171
+granting::0.000784368224418
+clinicians::0.000784368224418
+preselected::0.000784368224418
+flickering”2::0.000784368224418
+archaeological::0.000784368224418
+bechhofer::0.000784368224418
+ramanathan::0.000784368224418
+cluster-heads::0.000784368224418
+low-throughput::0.000784368224418
+50ms::0.000784368224418
+fragment::0.000784368224418
+depots::0.000784368224418
+post-sale::0.000784368224418
+stewart::0.000784368224418
+dig;::0.000784368224418
+tags);::0.000784368224418
+terminological::0.000784368224418
+dbms::0.000784368224418
+arpa::0.000784368224418
+8802-11::0.000784368224418
+bustein::0.000784368224418
+content”);::0.000784368224418
+“virtual”::0.000784368224418
+diameter=4::0.000784368224418
+good’s::0.000784368224418
+gen-2::0.000784368224418
+manet-based::0.000784368224418
+disseminated::0.000784368224418
+data-oriented::0.000784368224418
+ijipt::0.000784368224418
+proportionally::0.000784368224418
+locators::0.000784368224418
+un-tell::0.000784368224418
+pre-filtered::0.000784368224418
+skip::0.000784368224418
+one);::0.000784368224418
+68–71::0.000784368224418
+semanticbased::0.000784368224418
+sessions::0.000784368224418
+zinkhan::0.000784368224418
+suen::0.000784368224418
+fruition::0.000784368224418
+factual::0.000784368224418
+conveying::0.000784368224418
+ontology’s::0.000784368224418
+waited::0.000784368224418
+matches”::0.000784368224418
+199–217::0.000784368224418
+holder::0.000784368224418
+clung::0.000784368224418
+200::0.000784368224418
+baader::0.000784368224418
+mcguinness::0.000784368224418
+kl-one-like::0.000784368224418
+soliciting::0.000784368224418
+apulia::0.000784368224418
+silently::0.000784368224418
+kawakita::0.000784368224418
+refreshed::0.000784368224418
+entries;::0.000784368224418
+dls)–::0.000784368224418
+berthon::0.000784368224418
+ceur::0.000784368224418
+declaration::0.000784368224418
+dipped::0.000784368224418
+time-to-live::0.000784368224418
+actors::0.000784368224418
+4..7::0.000784368224418
+memories::0.000784368224418
+mistugi::0.000784368224418
+withouth::0.000784368224418
+resource-constrained::0.000784368224418
+semanticenhanced::0.000784368224418
+333–347::0.000784368224418
+conciseness::0.000784368224418
+requests;::0.000784368224418
+deem::0.000784368224418
+w3c::0.000784368224418
+brachman::0.000784368224418
+application-layer::0.000784368224418
+hogan::0.000784368224418
+“new”::0.000784368224418
+forwarded;::0.000784368224418
+un-told::0.000784368224418
+155–212::0.000784368224418
+römer::0.000784368224418
+owners::0.000784368224418
+möller::0.000784368224418
+rodrigues::0.000784368224418
+interconnect::0.000784368224418
+ratified::0.000784368224418
+crowther::0.000784368224418
+m-commerce::0.000784368224418
+bluetooth-rfid::0.000784368224418
+co-exist::0.000784368224418
+ijswis::0.000784368224418
+ouuids::0.000784368224418
+ouuid;::0.000784368224418
+inter-reader::0.000784368224418
+conceived::0.000784368224418
+20–22::0.000784368224418
+resnick::0.000784368224418
+notify::0.000784368224418
+purchasers::0.000784368224418
+apposite::0.000784368224418
+kbs::0.000784368224418
+domain;::0.000784368224418
+traub::0.000784368224418
+“ic::0.000784368224418
+2000ms::0.000784368224418
+i-70125::0.000784368224418
+assuring::0.000784368224418
+leave-enter::0.000784368224418
+adaptable::0.000784368224418
+allgair::0.000784368224418
+representational::0.000784368224418
+partition-free::0.000784368224418
+schramek::0.000784368224418
+calvanese::0.000784368224418
+manets::0.000784368224418
+adhere::0.000784368224418
+retract::0.000784368224418
+utterly::0.000784368224418
+edn::0.000784368224418
+logic-based::0.000784368224418
+401–456::0.000784368224418
+424–452::0.000784368224418
+dl’03::0.000784368224418
+levesque::0.000784368224418
+weinstein::0.000784368224418
+description-logic::0.000784368224418
+redi::0.000784368224418
+krs::0.000784368224418
+extensional::0.000784368224418
+fallback::0.000784368224418
+owl::0.000784368224418
+kb;::0.000784368224418
+freshness::0.000784368224418
+revised;::0.000784368224418
+req::0.000784368224418
+borgida::0.000784368224418
+ons)3::0.000784368224418
+1144–::0.000784368224418
+broadcast);::0.000784368224418
+high-throughput::0.000784368224418
+caches::0.000784368224418
+m.ruta,t.dinoia,disciascio,f.scioscia,e.tinelli]@poliba.it::0.000784368224418
+27–33::0.000784368224418
+sevices::0.000784368224418
+rpc::0.000784368224418
+barthel::0.000784368224418
+e..l::0.000784368224418
+retransmissions::0.000784368224418
+dübendorfer::0.000784368224418
+piscitelli::0.000784368224418
+pitt::0.000784368224418
+politecnico::0.000784368224418
+swartout::0.000784368224418
+elicits::0.000784368224418
+–based::0.000784368224418
+uni::0.000784368224418
+cames::0.000784368224418
+retransmit::0.000784368224418
+garrett::0.000784368224418
+50–74::0.000784368224418
+recur::0.000784368224418
+universe::0.000784368224418
+ask-type::0.000784368224418
+u-commerce::0.000784368224418
+context aware::0.00077520790784
+multiple readers::0.00077520790784
+physical space::0.00077520790784
+explicit::0.00077520790784
+medium access::0.00077520790784
+network infrastructure::0.00077520790784
+uhf rfid::0.00077520790784
+cambridge university::0.00077520790784
+control mac::0.00077520790784
+area networks::0.00077520790784
+phase::0.000774913176518
+pervasive computing::0.000774913176518
+aware::0.000766047591261
+enabled::0.000766047591261
+nodes::0.000763145890523
+rfid readers::0.000744422551608
+ubiquitous::0.000741973024001
+inventory management::0.000730261128348
+information technology::0.000730261128348
+paradigm::0.000730261128348
+hoc networks::0.000730261128348
+prevents::0.000730261128348
+originally::0.000730261128348
+timestamp::0.000730261128348
+creation::0.000730261128348
+handles::0.000730261128348
+codes::0.000730261128348
+plays::0.000730261128348
+acknowledgment::0.000730261128348
+logic::0.000730261128348
+local::0.000722438778015
+structure::0.000711940495192
+length::0.000711940495192
+paper is organized::0.000698627422025
+architectural::0.000690054864026
+entity::0.000690054864026
+granted::0.000690054864026
+removal::0.000690054864026
+led::0.000690054864026
+time interval::0.000690054864026
+artificial intelligence::0.000690054864026
+object::0.000685656655754
+nearby::0.000680784613093
+build::0.000680784613093
+2005::0.000680784613093
+individual::0.000669162380718
+specification::0.000667678812254
+effort::0.000667678812254
+mac::0.000667678812254
+words::0.000667678812254
+receiving::0.000667678812254
+physical layer::0.000653683873831
+adopt::0.000653683873831
+collision::0.000653683873831
+kind::0.000653683873831
+tagged objects::0.000653683873831
+home::0.000653683873831
+campaign::0.000652113467585
+owning::0.000652113467585
+guinness::0.000652113467585
+reconstruct::0.000652113467585
+extracts::0.000652113467585
+drugs::0.000652113467585
+investments::0.000652113467585
+autonomic::0.000652113467585
+populating::0.000652113467585
+peri::0.000652113467585
+repositories::0.000652113467585
+duplication::0.000652113467585
+tags”::0.000652113467585
+renewed::0.000652113467585
+epcs::0.000652113467585
+implied::0.000652113467585
+lifecycle::0.000652113467585
+coping::0.000652113467585
+diffusion::0.000652113467585
+conforming::0.000652113467585
+spurious::0.000652113467585
+regulates::0.000652113467585
+“no::0.000652113467585
+nardi::0.000652113467585
+lacking::0.000652113467585
+mattern::0.000652113467585
+schoch::0.000652113467585
+recommendation::0.000652113467585
+gateway::0.000652113467585
+fetch::0.000652113467585
+tied::0.000652113467585
+agricultural::0.000652113467585
+transparent::0.000652113467585
+agriculture::0.000652113467585
+odically::0.000652113467585
+multi-hop::0.000652113467585
+expire::0.000652113467585
+architecture::0.000650850849954
+domain::0.000638318025541
+2002::0.000638318025541
+rfid technology::0.00062204693621
+layers::0.000620479761261
+sending::0.000620479761261
+neighbor::0.000620479761261
+definition::0.000620479761261
+exploited::0.000620479761261
+functional::0.000620479761261
+unique::0.000603726303053
+suitable::0.000594290672771
+proposed::0.000592359691762
+packets::0.000589934938642
+engine::0.000589934938642
+lifetime::0.000589934938642
+communications magazine::0.000589934938642
+preliminary::0.000589934938642
+automatically::0.000583761540249
+mechanism::0.000583761540249
+1991::0.000574749394296
+schmidt::0.000574749394296
+timeout::0.000574749394296
+universally::0.000574749394296
+disaster::0.000574749394296
+96-bit::0.000574749394296
+paper;::0.000574749394296
+talk::0.000574749394296
+unacceptable::0.000574749394296
+collisions::0.000574749394296
+visitors::0.000574749394296
+neighbors;::0.000574749394296
+websphere::0.000574749394296
+extensible::0.000574749394296
+scheduled::0.000574749394296
+forwarded::0.000574749394296
+stems::0.000574749394296
+contrary::0.000574749394296
+populate::0.000574749394296
+coincides::0.000574749394296
+hit::0.000574749394296
+“network::0.000574749394296
+fresh::0.000574749394296
+cheung::0.000574749394296
+application-specific::0.000574749394296
+david::0.000574749394296
+barriers::0.000574749394296
+academy::0.000574749394296
+patients::0.000574749394296
+1.5::0.000574749394296
+non-functional::0.000574749394296
+closes::0.000574749394296
+proposal::0.000574749394296
+replying::0.000574749394296
+access control::0.000561654850051
+format::0.000561654850051
+exchange::0.000561654850051
+consecutive::0.000561654850051
+carrying::0.000561654850051
+mobile node::0.000561654850051
+outline::0.000561654850051
+distinguish::0.000561654850051
+information processing::0.000561654850051
+central::0.000558316913706
+parameter::0.000557635317265
+source::0.000541634407564
+journal::0.000541634407564
+inference::0.000535326717447
+international workshop::0.000535326717447
+respective::0.000535326717447
+bit::0.000535326717447
+context-aware::0.000535326717447
+unique identifier::0.000535326717447
+interface::0.000533955371394
+objects::0.000530645407801
+composite::0.000519858710752
+recovery::0.000519858710752
+sensory::0.000519858710752
+neighborhood::0.000519858710752
+payload::0.000519858710752
+anti-collision::0.000519858710752
+preserve::0.000519858710752
+commerce::0.000519858710752
+sarma::0.000519858710752
+repository::0.000519858710752
+sake::0.000519858710752
+expanding::0.000519858710752
+listens::0.000519858710752
+seldom::0.000519858710752
+submit::0.000519858710752
+assertions::0.000519858710752
+verifies::0.000519858710752
+document::0.000519858710752
+identifiers::0.000519858710752
+transfers::0.000519858710752
+std::0.000519858710752
+stack::0.000519858710752
+forwards::0.000519858710752
+zhu::0.000519858710752
+languages::0.000519858710752
+gen2::0.000519858710752
+decentralized::0.000519858710752
+1984::0.000519858710752
+udp::0.000519858710752
+rfids::0.000519858710752
+familiar::0.000519858710752
+mitigated::0.000519858710752
+low-level::0.000519858710752
+service::0.000516608784345
+type::0.000512091835196
+structures::0.000510698394174
+base::0.000503105252545
+means::0.000498460164325
+services::0.000492377761018
+transmission::0.000492377761018
+updated::0.000488138137465
+variable::0.000488138137465
+contained::0.000487563640571
+carry::0.000487563640571
+rfid-based::0.000487563640571
+wireless lan::0.000487563640571
+query::0.000487563640571
+enhanced::0.000487563640571
+compatible::0.000487563640571
+vast::0.000477282188845
+museums::0.000477282188845
+traversed::0.000477282188845
+trigger::0.000477282188845
+tuples::0.000477282188845
+steady::0.000477282188845
+sale::0.000477282188845
+findings::0.000477282188845
+acknowledge::0.000477282188845
+traversal::0.000477282188845
+inclusion::0.000477282188845
+foundations::0.000477282188845
+confirmation::0.000477282188845
+broadcasting::0.000477282188845
+recursively::0.000477282188845
+loop::0.000477282188845
+net::0.000477282188845
+“rfid::0.000477282188845
+heidelberg::0.000477282188845
+patient::0.000477282188845
+1.0::0.000477282188845
+coordination::0.000477282188845
+explained::0.000465751614683
+role::0.000465751614683
+ad-hoc::0.000465751614683
+uhf::0.000465751614683
+shorter::0.000465751614683
+power consumption::0.000465751614683
+parameters::0.000454838920972
+reported::0.000445718004578
+mobility::0.000445718004578
+random::0.000445718004578
+sends::0.000445119208169
+ieee communications::0.000445119208169
+wide range::0.000445119208169
+functionality::0.000445119208169
+technical report::0.000445119208169
+international symposium::0.000445119208169
+approach::0.000444118872131
+easier::0.000442494637463
+extracting::0.000442494637463
+sees::0.000442494637463
+responsible::0.000442494637463
+metropolitan::0.000442494637463
+advertise::0.000442494637463
+conversely::0.000442494637463
+inserted::0.000442494637463
+mark::0.000442494637463
+simulator::0.000442494637463
+assessment::0.000442494637463
+manages::0.000442494637463
+translating::0.000442494637463
+appliances::0.000442494637463
+numeric::0.000442494637463
+consequence::0.000442494637463
+cyclic::0.000442494637463
+bytes::0.000442494637463
+load::0.000442494637463
+formal::0.000442494637463
+watson::0.000442494637463
+satisfying::0.000442494637463
+firstly::0.000442494637463
+mere::0.000442494637463
+maximum::0.000427251569422
+specific::0.000426743195997
+equipped::0.000425631387628
+extended::0.00042554535036
+experience::0.00042554535036
+fully::0.00042554535036
+intelligence::0.00042554535036
+link::0.00042554535036
+2006::0.00042554535036
+involved::0.00042554535036
+specifications::0.00042554535036
+minimizes::0.000413082181858
+production::0.000413082181858
+population::0.000413082181858
+forming::0.000413082181858
+failure::0.000413082181858
+concepts::0.000413082181858
+living::0.000413082181858
+cope::0.000413082181858
+16th::0.000413082181858
+specifies::0.000413082181858
+ansi::0.000413082181858
+advertising::0.000413082181858
+action::0.000413082181858
+phenomenon::0.000413082181858
+adaptation::0.000413082181858
+manage::0.000413082181858
+attribute::0.000413082181858
+high-level::0.000413082181858
+dependency::0.000413082181858
+life::0.000406926703473
+exploit::0.000406926703473
+original::0.000406926703473
+select::0.000406926703473
+event::0.000406926703473
+infrastructure::0.000406311700214
+functions::0.000406225805673
+enable::0.000406225805673
+scan::0.000406225805673
+receive::0.000406225805673
+requirements::0.000406225805673
+size::0.00040031339265
+workshop::0.000389174360166
+berlin::0.00038760395392
+break::0.00038760395392
+comprises::0.00038760395392
+forced::0.00038760395392
+propagated::0.00038760395392
+avoids::0.00038760395392
+live::0.00038760395392
+likewise::0.00038760395392
+hospital::0.00038760395392
+theoretically::0.00038760395392
+food::0.00038760395392
+triple::0.00038760395392
+transponders::0.00038760395392
+updating::0.00038760395392
+commands::0.00038760395392
+lightweight::0.00038760395392
+omit::0.00038760395392
+update::0.000387456588259
+technologies::0.000379032434143
+network::0.000376165253685
+set::0.000375792891803
+number::0.00037528244492
+monitoring::0.000372211275804
+product::0.000372211275804
+allowing::0.000372211275804
+products::0.000372211275804
+purposes::0.000372211275804
+oriented::0.000365130564174
+labels::0.000365130564174
+distinction::0.000365130564174
+sharing::0.000365130564174
+professional::0.000365130564174
+sites::0.000365130564174
+equivalent::0.000365130564174
+reads::0.000365130564174
+spent::0.000365130564174
+occurred::0.000365130564174
+clients::0.000365130564174
+leveraging::0.000365130564174
+meet::0.000365130564174
+healthcare::0.000365130564174
+outlined::0.000365130564174
+interactions::0.000365130564174
+luo::0.000365130564174
+carried::0.000355970247596
+mobile devices::0.000355970247596
+iso::0.000345027432013
+acquisition::0.000345027432013
+topology::0.000345027432013
+air::0.000345027432013
+filtered::0.000345027432013
+unnecessary::0.000345027432013
+bound::0.000345027432013
+stages::0.000345027432013
+recall::0.000345027432013
+satisfy::0.000345027432013
+individually::0.000345027432013
+impractical::0.000345027432013
+grants::0.000345027432013
+discarded::0.000345027432013
+transponder::0.000345027432013
+internal::0.000345027432013
+arrives::0.000345027432013
+tables::0.000345027432013
+retrieved::0.000345027432013
+route::0.000345027432013
+requested::0.000345027432013
+lack::0.000340392306547
+traditional::0.000340392306547
+detected::0.000334581190359
+issue::0.000334581190359
+ran::0.000326841936916
+rich::0.000326841936916
+adds::0.000326841936916
+reply::0.000326841936916
+incorrect::0.000326841936916
+acknowledgments::0.000326841936916
+basically::0.000326841936916
+motivated::0.000326841936916
+contents::0.000326841936916
+handbook::0.000326841936916
+formally::0.000326841936916
+insight::0.000326841936916
+trends::0.000326841936916
+removing::0.000326841936916
+reached::0.000326841936916
+phy::0.000326841936916
+1999::0.000326841936916
+insufficient::0.000326841936916
+large number::0.000325425424977
+period::0.000325425424977
+information systems::0.000325425424977
+user::0.000323105286416
+networks::0.000320112568757
+initial::0.000317988438857
+supported::0.000317988438857
+embedded::0.000317988438857
+providing::0.000311023468105
+referred::0.000311023468105
+listed::0.000310239880631
+10th::0.000310239880631
+message::0.000310239880631
+status::0.000310239880631
+wired::0.000310239880631
+automated::0.000310239880631
+compact::0.000310239880631
+activity::0.000310239880631
+causing::0.000310239880631
+middleware::0.000310239880631
+heterogeneous::0.000310239880631
+globally::0.000310239880631
+defines::0.000310239880631
+suggests::0.000310239880631
+feasibility::0.000310239880631
+italy::0.000310239880631
+well-known::0.000310239880631
+figure::0.000307466911475
+typical::0.000303225947315
+presents::0.000297145336385
+send::0.000297145336385
+detail::0.000297145336385
+executed::0.000294967469321
+enterprise::0.000294967469321
+oct::0.000294967469321
+short-range::0.000294967469321
+records::0.000294967469321
+matched::0.000294967469321
+physically::0.000294967469321
+duration::0.000294967469321
+adapt::0.000294967469321
+remove::0.000294967469321
+describing::0.000294967469321
+stable::0.000294967469321
+links::0.000294967469321
+february::0.000294967469321
+reference::0.00029022264301
+international::0.00029022264301
+total::0.000286179708946
+physical::0.000286179708946
+technical::0.000286179708946
+electronic::0.000283754258419
+rates::0.000280827425025
+suggested::0.000280827425025
+manufacturing::0.000280827425025
+successful::0.000280827425025
+emerging::0.000280827425025
+item::0.000280827425025
+explicitly::0.000280827425025
+extensive::0.000280827425025
+majority::0.000280827425025
+tools::0.000280827425025
+computing::0.000273303921311
+characteristics::0.000270914541756
+properties::0.000270817203782
+matching::0.000270817203782
+assuming::0.000270817203782
+processing::0.000269254405347
+updates::0.000267663358724
+asset::0.000267663358724
+materials::0.000267663358724
+removed::0.000267663358724
+reception::0.000267663358724
+upper::0.000267663358724
+severe::0.000267663358724
+interested::0.000267663358724
+valuable::0.000267663358724
+depicted::0.000267663358724
+detects::0.000267663358724
+scanned::0.000267663358724
+access::0.0002668755951
+fixed::0.0002668755951
+sensor networks::0.000258304392173
+transmitted::0.000258304392173
+study::0.000256045917598
+summarized::0.000255349197087
+parallel::0.000255349197087
+reader’s::0.000255349197087
+tasks::0.000255349197087
+yang::0.000255349197087
+aim::0.000255349197087
+magazine::0.000255349197087
+broadcast::0.000255349197087
+clear::0.000255349197087
+initially::0.000255349197087
+connection::0.000255349197087
+extracted::0.000255349197087
+decision::0.000255349197087
+categories::0.000255349197087
+interaction::0.000255349197087
+stores::0.000255349197087
+exploiting::0.000255349197087
+artificial::0.000255349197087
+previous::0.000248737132669
+overview::0.000246188880509
+depending::0.000246188880509
+integrate::0.000243781820286
+telecommunications::0.000243781820286
+criteria::0.000243781820286
+labeled::0.000243781820286
+early::0.000243781820286
+connectivity::0.000243781820286
+percentage::0.000243781820286
+generating::0.000243781820286
+elements::0.000243781820286
+2008::0.000243781820286
+adopted::0.000243781820286
+immediately::0.000243781820286
+evaluation::0.000241553755043
+proceedings::0.000241553755043
+report::0.000234446213588
+wireless networks::0.000234446213588
+items::0.000232875807342
+springer::0.000232875807342
+extend::0.000232875807342
+ibm::0.000232875807342
+challenging::0.000232875807342
+exploits::0.000232875807342
+acceptable::0.000232875807342
+subset::0.000232875807342
+scans::0.000232875807342
+focuses::0.000232875807342
+propagation::0.000232178114408
+communication::0.000228651834827
+finally::0.000227419460486
+end::0.000223054126906
+generated::0.000223054126906
+context::0.000223054126906
+previously::0.000223054126906
+transfer::0.000222559604085
+overhead::0.000222559604085
+vision::0.000222559604085
+cambridge::0.000222559604085
+∈::0.000222559604085
+transmitting::0.000222559604085
+reasons::0.000222559604085
+maintenance::0.000222559604085
+2007::0.000222559604085
+specifically::0.000222559604085
+wireless::0.00021320568959
+desirable::0.00021277267518
+assumes::0.00021277267518
+lan::0.00021277267518
+starts::0.00021277267518
+industrial::0.00021277267518
+refers::0.00021277267518
+benefit::0.00021277267518
+integration::0.00021277267518
+component::0.00021277267518
+numbers::0.00021277267518
+generation::0.00021277267518
+expect::0.00021277267518
+store::0.00021277267518
+missing::0.00021277267518
+solutions::0.000211992292572
+deployed::0.000211992292572
+located::0.000211992292572
+call::0.000203463351736
+attempt::0.000203463351736
+theoretical::0.000203463351736
+introduce::0.000203463351736
+integrating::0.000203463351736
+share::0.000203463351736
+scalability::0.000203463351736
+identified::0.000203463351736
+quality::0.000203463351736
+neighboring::0.000203463351736
+needed::0.000200156696325
+distributed::0.000200156696325
+control::0.000200156696325
+associate::0.000194587180083
+selection::0.000194587180083
+medium::0.000194587180083
+performing::0.000194587180083
+enabling::0.000194587180083
+greatly::0.000194587180083
+procedure::0.000194587180083
+pairs::0.000194587180083
+press::0.000194587180083
+consumption::0.000194587180083
+cover::0.000194587180083
+variations::0.000194587180083
+reduce::0.000190786472631
+constant::0.000190786472631
+identification::0.000190786472631
+paper::0.000189706982203
+due::0.000187764482799
+project::0.000186105637902
+raw::0.000186105637902
+availability::0.000186105637902
+attached::0.000186105637902
+studied::0.000186105637902
+assumed::0.000186105637902
+2003::0.000186105637902
+tests::0.000186105637902
+lead::0.000186105637902
+time::0.000181170835478
+directly::0.000180609694504
+expensive::0.000180609694504
+symposium::0.000177985123798
+attempts::0.000177985123798
+interval::0.000177985123798
+hoc::0.000177985123798
+tagged::0.000177985123798
+ratio::0.000177985123798
+review::0.000177985123798
+rest::0.000177985123798
+seconds::0.000177985123798
+processes::0.000177985123798
+application::0.000174133585806
+http::0.000174133585806
+performed::0.000170697278399
+issues::0.000170697278399
+simultaneously::0.000170196153273
+organized::0.000170196153273
+search::0.000170196153273
+group::0.000170196153273
+equipment::0.000170196153273
+aspects::0.000170196153273
+series::0.000170196153273
+class::0.000170196153273
+capabilities::0.000170196153273
+support::0.000167184557193
+present::0.000167184557193
+range::0.000163179113601
+addresses::0.000162712712488
+normal::0.000162712712488
+principles::0.000162712712488
+capability::0.000162712712488
+details::0.000162712712488
+survey::0.000162712712488
+sets::0.000162712712488
+introduced::0.000162712712488
+record::0.000162712712488
+model::0.000161552643208
+sensitivity::0.000155511734052
+scenario::0.000155511734052
+tracked::0.000155511734052
+increases::0.000155511734052
+environments::0.000152289778279
+level::0.000151612973657
+state::0.000151612973657
+approaches::0.000151612973657
+shows::0.000149242279601
+single::0.000149242279601
+precision::0.000148572668193
+working::0.000148572668193
+presence::0.000148572668193
+detailed::0.000148572668193
+amount::0.000148572668193
+added::0.000148572668193
+recently::0.000148572668193
+back::0.000148572668193
+choose::0.000148572668193
+special::0.000148572668193
+volume::0.000148572668193
+applications::0.000146861202241
+types::0.000141877129209
+track::0.000141877129209
+longer::0.000141877129209
+increased::0.000141877129209
+limitations::0.000141877129209
+bluetooth::0.000141877129209
+target::0.000141877129209
+generally::0.000135408601891
+directions::0.000135408601891
+2004::0.000135408601891
+match::0.000135408601891
+data::0.000133574666212
+implemented::0.00013343779755
+differences::0.000129152196086
+depend::0.000129152196086
+challenges::0.000129152196086
+basic::0.000124664846501
+existing::0.000124664846501
+conclusion::0.000123094440254
+proximity::0.000123094440254
+constraints::0.000123094440254
+ability::0.000123094440254
+devices::0.000121831822623
+space::0.000121831822623
+section::0.00011853540806
+effective::0.000117223106794
+office::0.000117223106794
+full::0.000117223106794
+connected::0.000117223106794
+improved::0.000117223106794
+order::0.000116284886099
+abstract::0.000111527063453
+linear::0.000111527063453
+grid::0.000111527063453
+require::0.000107701762139
+performance::0.000107701762139
+multiple::0.000107701762139
+developed::0.000107701762139
+wide::0.000105996146286
+problems::0.000105996146286
+liu::0.000105996146286
+mobile::0.000103526191702
+path::0.000100621050509
+perform::0.000100621050509
+represent::0.000100621050509
+show::9.94948530674e-05
+general::9.94948530674e-05
+case::9.62237237682e-05
+moving::9.53932363154e-05
+terms::9.53932363154e-05
+locate::9.53932363154e-05
+work::9.30279088792e-05
+radio::9.30279088792e-05
+out::9.30279088792e-05
+error::9.14607339307e-05
+values::9.13738669673e-05
+recent::8.53486391993e-05
+depends::8.53486391993e-05
+future::8.53486391993e-05
+detect::8.53486391993e-05
+reduced::8.53486391993e-05
+users::8.53486391993e-05
+compare::8.53486391993e-05
+deployment::8.53486391993e-05
+defined::8.53486391993e-05
+areas::8.53486391993e-05
+current::8.35922785967e-05
+sensor::8.35922785967e-05
+required::8.35922785967e-05
+considered::8.05179183475e-05
+provide::8.0470492628e-05
+lower::7.58064868287e-05
+provided::7.58064868287e-05
+communications::7.58064868287e-05
+obtain::7.58064868287e-05
+database::7.12085949036e-05
+environment::6.99676823018e-05
+standard::6.83259803278e-05
+sensors::6.6718898775e-05
+change::6.6718898775e-05
+note::6.6718898775e-05
+probability::6.6718898775e-05
+presented::6.6718898775e-05
+science::6.6718898775e-05
+technology::6.47038698137e-05
+form::6.23324232503e-05
+long::6.23324232503e-05
+significant::6.23324232503e-05
+addition::6.23324232503e-05
+sensing::6.23324232503e-05
+power::6.09159113115e-05
+ieee::5.92677040302e-05
+higher::5.8044528602e-05
+key::5.8044528602e-05
+limited::5.38508810693e-05
+make::5.38508810693e-05
+references::5.38508810693e-05
+building::5.38508810693e-05
+simple::5.38508810693e-05
+cost::4.97474265337e-05
+part::4.97474265337e-05
+device::4.97474265337e-05
+shown::4.89537340802e-05
+area::4.89537340802e-05
+large::4.89537340802e-05
+designed::4.57303669654e-05
+low::4.57303669654e-05
+determine::4.17961392984e-05
+introduction::4.17961392984e-05
+function::4.17961392984e-05
+problem::3.95118026868e-05
+methods::3.79413964406e-05
+small::3.41629901639e-05
+process::3.41629901639e-05
+related::3.41629901639e-05
+accurate::3.41629901639e-05
+first::3.26358227202e-05
+estimate::3.04579556558e-05
+based::2.88671171304e-05
+point::2.32569772198e-05
+university::1.97559013434e-05
+received::1.63179113601e-05
+tracking::1.63179113601e-05
+distance::9.62237237682e-06
+research::9.62237237682e-06
+information::0.0
+systems::0.0
+system::0.0

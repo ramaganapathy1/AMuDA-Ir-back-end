@@ -1,0 +1,5727 @@
+reference tag::72.0
+reference tags::69.0
+rfid reader::32.0
+rfid tag::29.0
+activated tag::26.0
+activated tags::25.0
+passive scheme::20.0
+activated reference tags::19.0195500087
+rfid tags::19.0
+power level::17.0
+ieee transactions on computers::16.0
+radiation elements::16.0
+active scheme::15.0
+rfid support for accurate::14.0
+transmission power::13.0
+illustrated in fig::12.6797000058
+transactions on computers::12.6797000058
+localization scheme::12.0
+shown in fig::11.094737505
+accurate 3d localization::11.094737505
+error objective function::11.094737505
+signal strength::11.0
+activated reference::11.0
+antenna array::11.0
+target object::11.0
+misclassified tag::11.0
+ieee trans::10.0
+intl conf::10.0
+transmission power levels::9.50977500433
+deb and nem::9.50977500433
+transmission power level::9.50977500433
+depicted in fig::9.50977500433
+tags and readers::9.50977500433
+reference points::9.0
+classified tags::9.0
+localization schemes::9.0
+accuracy improvement::9.0
+power levels::9.0
+compensation process::8.0
+ceiling and the floor::8.0
+attached to the target::8.0
+raf technique::8.0
+set of rfid tags::8.0
+tag compensation::8.0
+positioning scheme::8.0
+sphere center::8.0
+set of activated tags::8.0
+density of the reference::8.0
+transmission range::8.0
+rfid tags and readers::8.0
+set of reference tags::8.0
+scheme locates an rfid::8.0
+misclassified tags::8.0
+university of louisiana::7.92481250361
+devices or sensors::7.92481250361
+distance estimation::7.0
+current sphere::7.0
+objective function::7.0
+phase difference::7.0
+sensor network::7.0
+rfid system::7.0
+coordinate calculation::7.0
+error objective::7.0
+target tag::7.0
+degrees in computer::6.33985000288
+nelder-mead nonlinear optimization::6.33985000288
+locates an rfid::6.33985000288
+misclassified reference tags::6.33985000288
+reader is located::6.33985000288
+passive rfid tags::6.33985000288
+set of activated::6.33985000288
+set of reference::6.33985000288
+adio frequency identification::6.33985000288
+louisiana at lafayette::6.33985000288
+passive and active::6.33985000288
+ieee computer society::6.33985000288
+mobile robot::6.0
+coordinates of the reader::6.0
+false negative::6.0
+received wireless signal strength::6.0
+strength or phase difference::6.0
+center for advanced computer::6.0
+accuracy of the passive::6.0
+close to a side::6.0
+density of reference tags::6.0
+estimation according to received::6.0
+degrees in computer science::6.0
+signal strength or phase::6.0
+reader antenna::6.0
+false positive::6.0
+positioning schemes::6.0
+science from the university::6.0
+readers as reference points::6.0
+rfid support::6.0
+raf techniques::6.0
+wireless network::5.0
+sensor networks::5.0
+coordinate system::5.0
+rfid gear::5.0
+computer science::5.0
+virtual tag::5.0
+simulation results::5.0
+location information::5.0
+active rfid::5.0
+interrogation range::5.0
+tags inside::5.0
+ieee transactions::5.0
+nonlinear optimization::5.0
+localization accuracy::5.0
+inside the sphere::4.75488750216
+received signal strength::4.75488750216
+center for advanced::4.75488750216
+portable electronic device::4.75488750216
+readers as reference::4.75488750216
+density of reference::4.75488750216
+wireless signal strength::4.75488750216
+number of iterations::4.75488750216
+demonstrated in fig::4.75488750216
+rfid reader chip::4.75488750216
+reader antenna range::4.75488750216
+error objective functions::4.75488750216
+alien rfid kits::4.75488750216
+accuracy of deb::4.75488750216
+advanced computer studies::4.75488750216
+14th intl conf::4.75488750216
+wireless sensor network::4.75488750216
+set of rfid::4.75488750216
+locations as reference::4.75488750216
+ieee intl conf::4.75488750216
+reader is moved::4.75488750216
+arbitrary coordinate system::4.75488750216
+active rfid tag::4.75488750216
+elements of the antenna::4.0
+distances from the target::4.0
+distance between two adjacent::4.0
+suitable for real-time applications::4.0
+target reader::4.0
+hexahedron side or corner::4.0
+passive and an active::4.0
+aln-9540 squiggle::4.0
+tags with known coordinates::4.0
+number of radiation elements::4.0
+identification accuracy and speed::4.0
+received the bs degree::4.0
+placement of reference tags::4.0
+experimental setup::4.0
+rfid-based 3d localization schemes::4.0
+top view of reference::4.0
+floor and the ceiling::4.0
+university foundation distinguished professor::4.0
+nelder-mead nonlinear optimization scheme::4.0
+computer society::4.0
+active badge location system::4.0
+impacts on the accuracy::4.0
+object in 3d space::4.0
+localization system::4.0
+inside a 3d hexahedron::4.0
+four antenna::4.0
+coordinate system is assumed::4.0
+high accuracy::4.0
+adio frequency::4.0
+active schemes::4.0
+versus number of iterations::4.0
+marked by a star::4.0
+ministry of natural resources::4.0
+deb scheme::4.0
+passive rfid::4.0
+readers antenna::4.0
+locate an rfid tag::4.0
+two rfid-based 3d localization::4.0
+range of a reader::4.0
+tags inside the hexahedron::4.0
+testbed experiments::4.0
+initial value::4.0
+floor plane::4.0
+alien technologys alr-9900 reader::4.0
+compensation process is invoked::4.0
+alr-9900 reader::4.0
+view of reference tags::4.0
+smaller than a predetermined::4.0
+wireless signal::4.0
+reader does not form::4.0
+board of the ieee::4.0
+phd degrees in computer::4.0
+reference tags and readers::4.0
+phd degree in computer::4.0
+locates an rfid tag::4.0
+employed in our testbed::4.0
+natural resources and environment::4.0
+maintained by a local::4.0
+tag compensation to deal::4.0
+degree in computer science::4.0
+centered at the reader::4.0
+fall into two categories::4.0
+floor or the ceiling::4.0
+passive tag::4.0
+experimental results::4.0
+moved toward a corner::4.0
+ieee computer::4.0
+number of involved reference::4.0
+rfid technology::4.0
+tag density::4.0
+dis technique::4.0
+responses from reference tags::4.0
+located at the point::4.0
+reference tags is represented::4.0
+increase of power level::4.0
+linearly increasing response range::4.0
+target reader is located::4.0
+virtual tags::4.0
+range with the increase::4.0
+scheme locates::4.0
+minimize the error objective::4.0
+number of activated reference::4.0
+deal with wall adversary::4.0
+foundation distinguished professor award::4.0
+ceiling of the hexahedron::4.0
+rfid systems::4.0
+due to their low::4.0
+numbers of radiation elements::4.0
+locates an rfid reader::4.0
+badge location system::3.16992500144
+alien technologys alr-9900::3.16992500144
+minimize the error::3.16992500144
+number of readers::3.16992500144
+employed to minimize::3.16992500144
+alien technology corp::3.16992500144
+loss of generality::3.16992500144
+parallel and distributed::3.16992500144
+active badge location::3.16992500144
+study the impact::3.16992500144
+11e and 11f::3.16992500144
+activated tags inside::3.16992500144
+support vector machine::3.16992500144
+localization system description::3.16992500144
+tiny rfid reader::3.16992500144
+locate the target::3.16992500144
+deploying more readers::3.16992500144
+compensation to deal::3.16992500144
+involved reference tags::3.16992500144
+demonstrated in figs::3.16992500144
+ministry of natural::3.16992500144
+pollution control department::3.16992500144
+actual reader position::3.16992500144
+readers transmission power::3.16992500144
+carried out experiments::3.16992500144
+impact on accuracy::3.16992500144
+increase of power::3.16992500144
+vectors in fig::3.16992500144
+increasing response range::3.16992500144
+observe their impacts::3.16992500144
+target rfid reader::3.16992500144
+results of deb::3.16992500144
+support multiple antennas::3.16992500144
+evaluate the proposed::3.16992500144
+active rfid tags::3.16992500144
+pinpoint a reader::3.16992500144
+asymmetric antenna gain::3.16992500144
+proposed deb scheme::3.16992500144
+set of nodes::3.16992500144
+readers are deployed::3.16992500144
+readers transmission range::3.16992500144
+fall into two::3.16992500144
+locate an rfid::3.16992500144
+nearby reference tags::3.16992500144
+iterations under edeb::3.16992500144
+national science foundation::3.16992500144
+demonstrated in section::3.16992500144
+passive scheme locates::3.16992500144
+inside the hexahedron::3.16992500144
+responses from reference::3.16992500144
+linearly increasing response::3.16992500144
+false positive tag::3.16992500144
+initial z value::3.16992500144
+active localization schemes::3.16992500144
+wireless sensor networks::3.16992500144
+numbers of radiation::3.16992500144
+reference tag density::3.16992500144
+current sphere center::3.16992500144
+proposed localization scheme::3.16992500144
+number of involved::3.16992500144
+number of activated::3.16992500144
+four antenna connectors::3.16992500144
+active scheme locates::3.16992500144
+radio frequency identification::3.16992500144
+aln-9540 squiggle tags::3.16992500144
+discussed in section::3.16992500144
+carried out::3.0
+top view::3.0
+outperforms nem::3.0
+arbitrary coordinate::3.0
+deb outperforms::3.0
+location system::3.0
+received signal::3.0
+portable electronic::3.0
+optimized fbm::3.0
+extensive simulations::3.0
+compensated tags::3.0
+initial values::3.0
+squiggle tags::3.0
+hexahedron space::3.0
+editorial board::3.0
+objective functions::3.0
+advanced computer::3.0
+rfid kits::3.0
+floor planes::3.0
+rfid readers::3.0
+target position::3.0
+radio frequency::3.0
+proposed deb::3.0
+simplex method::3.0
+localization error::3.0
+positioning technique::3.0
+signal transmission::3.0
+antenna gain::3.0
+spherical model::3.0
+nelder-mead nonlinear::3.0
+signal propagation::3.0
+acm mobicom::3.0
+wireless networks::3.0
+active tag::3.0
+phd degree::3.0
+readers deployed::3.0
+readers transmission::3.0
+wireless sensor::3.0
+n.-f tzeng::3.0
+total number::3.0
+frequency identification::3.0
+active tags::3.0
+advanced robotics::3.0
+lower bound::3.0
+wall adversary::3.0
+reader location::3.0
+easily identified by examining::2.0
+distance values in calculating::2.0
+tags and false negative::2.0
+readers may increase accuracy::2.0
+nodes that are activated::2.0
+relies on two accuracy::2.0
+result in considerable inaccuracy::2.0
+research interests include radio::2.0
+operating in one fixed::2.0
+deployed on the floor::2.0
+contributions the basic idea::2.0
+rfid technology can effectively::2.0
+readers antenna has coverage::2.0
+value can be derived::2.0
+doing away with distance::2.0
+physics from fudan university::2.0
+determine a sphere model::2.0
+hexahedron with high accuracy::2.0
+locate the target accurately::2.0
+xmin ymax  ymin::2.0
+reference to a predetermined::2.0
+deal with those situations::2.0
+reference to a set::2.0
+size of a typical::2.0
+employing more radiation elements::2.0
+tags by 3d optimization::2.0
+localization schemes we propose::2.0
+deb and nem active::2.0
+self-localization of mobile robots::2.0
+tags starts with estimating::2.0
+java codes to evaluate::2.0
+maneesilp received the bachelors::2.0
+achieving high reader localization::2.0
+located within the reader::2.0
+impacts under various numbers::2.0
+3.3.1 localization system description::2.0
+interrogated signals being reflected::2.0
+localization in wireless sensor::2.0
+deb scheme for inexpensively::2.0
+deb outperforms its passive::2.0
+autonomous robot::2.0
+depicted as negative vectors::2.0
+boosts localization accuracy significantly::2.0
+signals with different fundamental::2.0
+reference tags placed inside::2.0
+largest under one antenna::2.0
+shown in the sensitivity::2.0
+nian-feng tzeng::2.0
+interferences caused by heavier::2.0
+sensing using active rfid::2.0
+26th ieee international conference::2.0
+delivered at 26th ieee::2.0
+planes has been investigated::2.0
+situated in the room::2.0
+reader with many power::2.0
+support multiple::2.0
+antenna suffers from doi::2.0
+accuracy levels are expected::2.0
+amounts and different antenna::2.0
+estimation of mobile objects::2.0
+function `` to determine::2.0
+sensitivity and orientation chart::2.0
+paper pursues rfid support::2.0
+repeats until it converges::2.0
+due to false negative::2.0
+advances in geographic information::2.0
+gains and path losses::2.0
+compared with the earlier::2.0
+sin  yi cos::2.0
+system description the localization::2.0
+mobile robots with rfid::2.0
+calling for an iterative::2.0
+earlier considered nem scheme::2.0
+rfid reader are estimated::2.0
+suitable for locating active::2.0
+location of the tag::2.0
+effect of an antenna::2.0
+deb follows an iteration::2.0
+elements for compensating doi::2.0
+tags which send responses::2.0
+object localization::2.0
+curve between them illustrates::2.0
+improvement in this situation::2.0
+result in a longer::2.0
+positioning techniques::2.0
+characterized by its center::2.0
+yields better location accuracy::2.0
+tags to the current::2.0
+covering the activated reference::2.0
+coordinate of sphere center::2.0
+reader with doi 0:03::2.0
+located inside the hexahedron::2.0
+tags should be deployed::2.0
+recent studies on mobile::2.0
+large scale sensor networks::2.0
+finishes when the distance::2.0
+active badge::2.0
+tags with known locations::2.0
+carrying a smart phone::2.0
+based on signal strength::2.0
+levels independent of reader::2.0
+rfid-based topological and metrical::2.0
+coordinate of j1 j1::2.0
+increase the transmission power::2.0
+circle center::2.0
+higher accuracy in locating::2.0
+nodes which are activated::2.0
+nelder-mead nonlinear optimization method::2.0
+reveal that deb outperforms::2.0
+accurate coordinates are yielded::2.0
+surrounded by activated tags::2.0
+target becomes very close::2.0
+brings down the error::2.0
+tags are as close::2.0
+denotes the position estimated::2.0
+deb deb determines directly::2.0
+included in the sphere::2.0
+schemes meet the desired::2.0
+challenging when the reader::2.0
+system description the passive::2.0
+unexpected holes often observed::2.0
+distances between the misclassified::2.0
+location when the target::2.0
+effectively reduce the negative::2.0
+system detects the rough::2.0
+rfid positioning::2.0
+requires no fill-in preprocess::2.0
+guides reader location estimation::2.0
+tags along the x-axis::2.0
+3.3.2 overview of deb::2.0
+range of an antenna::2.0
+received backscatter signal strength::2.0
+support of high accuracy::2.0
+readers interrogation::2.0
+out of such small::2.0
+deb requires no fill-in::2.0
+system based on rfid::2.0
+activated tag is denoted::2.0
+experimental results are presented::2.0
+experimental evaluation::2.0
+signal strength-based radio range::2.0
+based on our measurement::2.0
+location system and method::2.0
+shipping container or storage::2.0
+consists of two components::2.0
+natural resources::2.0
+put at grid points::2.0
+value among all activated::2.0
+defined error objective function::2.0
+challenges and our main::2.0
+experiments using aln-9540 tags::2.0
+situations yield severely distorted::2.0
+two categories::2.0
+machine with core2 cpu::2.0
+rfid reader to support::2.0
+localization a current rfid::2.0
+wireless sensor network technology::2.0
+signal attenuation::2.0
+transmission from the reader::2.0
+active schemes in contrast::2.0
+dis technique is based::2.0
+autonomous navigation of mobile::2.0
+target near a corner::2.0
+including the target located::2.0
+passive and active rfid::2.0
+conference on computer communications::2.0
+national science::2.0
+due to complex environments::2.0
+number of power levels::2.0
+impact of several parameters::2.0
+coordinates of target objects::2.0
+coordinate of the reader::2.0
+fellow of the ieee::2.0
+compensation is more effective::2.0
+employ an optimized method::2.0
+system consists of two::2.0
+rfid tags which send::2.0
+technology to provide location::2.0
+scheme an earlier localization::2.0
+demodulated by the reader::2.0
+scj scj1 c j1::2.0
+elements may be employed::2.0
+localization of the mobile::2.0
+drop to negligible amounts::2.0
+java program is run::2.0
+reference tags are put::2.0
+longer time to locate::2.0
+shapes of the activated::2.0
+view of current sphere::2.0
+minimize the defined error::2.0
+kits have been obtained::2.0
+estimating the center position::2.0
+cost is high due::2.0
+depend on the chosen::2.0
+report the gathered information::2.0
+embedded rfid reader walks::2.0
+obtained by different expressions::2.0
+results show::2.0
+deal with this wall::2.0
+routing and facilitate information::2.0
+location of a tracking::2.0
+schemes under various system::2.0
+technologys alr-9900::2.0
+embedded in smart phones::2.0
+developed for improving location::2.0
+divided into grid cells::2.0
+simplex method for function::2.0
+bigger impact on rectification::2.0
+due to reduced ownership::2.0
+tag compensation is shown::2.0
+target or the presence::2.0
+circles when the target::2.0
+ymin zmax  zmin::2.0
+filled with empty cells::2.0
+node placement and irregular::2.0
+includes all activated tags::2.0
+limited to 2d localization::2.0
+estimated distances between transponders::2.0
+x-axis and y -axis::2.0
+order of a meter::2.0
+importance when tiny rfid::2.0
+hexahedron of the size::2.0
+models the rfid reader::2.0
+passive and active schemes::2.0
+served as a distinguished::2.0
+depends on two factors::2.0
+carries out distance optimization::2.0
+critical for rfid applications::2.0
+found that this refinement::2.0
+distance to the tag::2.0
+result in a set::2.0
+reader rotation::2.0
+power to the transponder::2.0
+signifies the maximum variation::2.0
+localization in a mobile::2.0
+nelder and r mead::2.0
+mitigated using the antenna::2.0
+tags as the reference::2.0
+object is not located::2.0
+method to minimize error::2.0
+responses emitted from activated::2.0
+target object using rfid::2.0
+error of the coordinates::2.0
+locations on the accuracy::2.0
+nem calls for preprocessing::2.0
+lower the total distances::2.0
+evaluate the proposed schemes::2.0
+reader to certain reference::2.0
+level granularity completely dominates::2.0
+benefit from an antenna::2.0
+utilizing the characteristic curves::2.0
+increase monotonically with doi::2.0
+deploy more reference tags::2.0
+scj should be moved::2.0
+making use of received::2.0
+acceptance by s fahmy::2.0
+rfid tags are categorized::2.0
+utility software is run::2.0
+devices or on-robot sensors::2.0
+3.2.1 localization system description::2.0
+negative impact::2.0
+localization schemes are considered::2.0
+tags inside the sphere::2.0
+degree during every experiment::2.0
+circle via nonlinear optimization::2.0
+close to a dangerous::2.0
+computer communications::2.0
+two1 or more planes::2.0
+arbitrary local coordinate system::2.0
+system can be established::2.0
+science foundation::2.0
+floor of the hexahedron::2.0
+parallel and distributed systems::2.0
+reader can be derived::2.0
+accuracy of rfid-based localization::2.0
+ieee abstractthis paper pursues::2.0
+ieee and the ieee::2.0
+localizing multiple targets simultaneously::2.0
+srj1 j is larger::2.0
+sphere those activated tags::2.0
+nem first builds two::2.0
+engineering from kasetsart university::2.0
+percent of the longest::2.0
+tiny rfid::2.0
+sphere surface::2.0
+refinement process::2.0
+rfid tags using phase::2.0
+accuracy in distance estimation::2.0
+achieves the localization error::2.0
+positions on the ceiling::2.0
+tags into four quadrants::2.0
+run on a laptop::2.0
+nfj1 and ij1 equals::2.0
+tag based on received::2.0
+nem improve coordinate accuracy::2.0
+shown in fig 11b::2.0
+signaling scheme for localization::2.0
+naturally with a higher::2.0
+target objects::2.0
+professor with the center::2.0
+independent of reader types::2.0
+rfid support for localization::2.0
+readers may be deployed::2.0
+foundation distinguished::2.0
+construct an appropriate sphere::2.0
+expressed by q error::2.0
+nfj1 is the set::2.0
+difficult to perfectly compensate::2.0
+jnfj1 j the radius::2.0
+deployed or the hexahedron::2.0
+tags outside the room::2.0
+contrast to the passive::2.0
+height of the hexahedron::2.0
+progressive iterations are found::2.0
+proposed localization::2.0
+locate a target object::2.0
+active 3d positioning schemes::2.0
+tags ; communication range::2.0
+introduced in our prior::2.0
+errors are then introduced::2.0
+containers or storage rooms::2.0
+power level and gradually::2.0
+survey of wireless indoor::2.0
+wears an rfid reader::2.0
+receivers and a pan-tilt::2.0
+rectangle indicates the area::2.0
+activated by all radiation::2.0
+common for an rfid::2.0
+phase difference for rfid::2.0
+deb outperforms nem consistantly::2.0
+corner of a hexahedron-shaped::2.0
+border method::2.0
+located inside the target::2.0
+three-dimensional passive positioning scheme::2.0
+repeated activation of nearby::2.0
+robust to the increase::2.0
+permits the flexible placement::2.0
+number of involved tags::2.0
+circles or spheres formed::2.0
+2,560 sample points distributed::2.0
+coordinates and the radius::2.0
+cost in the implementation::2.0
+circle on the ceiling::2.0
+situated within the interrogation::2.0
+schemes outperform the passive::2.0
+locate an rfid reader::2.0
+gradually increase the transmission::2.0
+repeat after a refined::2.0
+interrogation signals::2.0
+compute the possible location::2.0
+method will be detailed::2.0
+developed for accuracy improvement::2.0
+noticeably when the reader::2.0
+independent of the types::2.0
+expected technological development trend::2.0
+calling for fewer compensated::2.0
+angle sensors::2.0
+coarse granularity and high::2.0
+reader has k transmission::2.0
+form a perfect sphere::2.0
+power until they receive::2.0
+technique was considered previously::2.0
+reader antenna k times::2.0
+noted that the number::2.0
+yields a better shaped::2.0
+accuracy of deb deteriorates::2.0
+types of readers possibly::2.0
+rfid reader is attached::2.0
+dubbed degree of irregularity::2.0
+introduction r adio frequency::2.0
+rfid reader to activate::2.0
+iterative process to lower::2.0
+container or storage room::2.0
+tags on the lower::2.0
+observed when the target::2.0
+zmin are defined similarly::2.0
+activated reference tags inside::2.0
+smart phone::2.0
+edeb boosts localization accuracy::2.0
+reference ieeecs log number::2.0
+range and the tag::2.0
+attached to an autonomous::2.0
+due to those challenges::2.0
+employed for helping define::2.0
+sphere center and depicted::2.0
+deb scheme is readily::2.0
+ensure that some parts::2.0
+scheme for passive rfid::2.0
+denoted by a star::2.0
+alternatives to expensive range-based::2.0
+realized by deploying rfid::2.0
+position of activated tags::2.0
+scheme and an active::2.0
+impact of all jlj1::2.0
+inside the interrogation range::2.0
+center of the set::2.0
+defined as the absolute::2.0
+testbed experiments to evaluate::2.0
+testbed has four antenna::2.0
+center position of activated::2.0
+considered in this paper::2.0
+process repeats::2.0
+activated by the antenna::2.0
+results in ru 7:2::2.0
+deployed in strategic locations::2.0
+levels is usually unavailable::2.0
+missing tags::2.0
+passive ones are chosen::2.0
+reference tags with respect::2.0
+difference for rfid tag::2.0
+compared with the schemes::2.0
+tags into two classes::2.0
+10,000 deployed tags remains::2.0
+antenna array with multiple::2.0
+accurate 3d localization jullawadee::2.0
+part of the reference::2.0
+rfid reader is located::2.0
+accuracy and the cost::2.0
+challenges outlined in section::2.0
+evaluate the proposed localization::2.0
+result under edeb calculation::2.0
+enjoys the time complexity::2.0
+rfid reader coverage area::2.0
+done in one step::2.0
+corner or a sidewall::2.0
+assume the transmission power::2.0
+tag j is determined::2.0
+nem with the fbm::2.0
+readers scan the target::2.0
+equipped with an rfid::2.0
+determines directly the spherical::2.0
+robot navigation and warehouse::2.0
+pollution control::2.0
+radiation elements for compensating::2.0
+perform well under random::2.0
+observe that the density::2.0
+mounted on the robot::2.0
+polarized antenna is attached::2.0
+presence of n involved::2.0
+reachable to the reader::2.0
+predetermined threshold::2.0
+tags fall into two::2.0
+tags plus virtual tags::2.0
+transmission power to activate::2.0
+radiation elements yield smaller::2.0
+technique localizes passive rfid::2.0
+proposed 3d positioning schemes::2.0
+adjacent grid points equal::2.0
+localization in rfid systems::2.0
+practice because it employs::2.0
+suitable transmission power level::2.0
+array with multiple radiation::2.0
+identification scheme::2.0
+pervasive computing and comm::2.0
+trajectory of a moving::2.0
+locating either a mobile::2.0
+selflocalization in a structured::2.0
+solely on rfid tags::2.0
+coarse accuracy is sufficient::2.0
+carried by mobile robots::2.0
+coordinates on the floor::2.0
+scan the target tag::2.0
+require multiple power levels::2.0
+signal propagation for rfid::2.0
+positions on the x-axis::2.0
+detects the rough location::2.0
+range-free localization::2.0
+involved in a target::2.0
+system cost and leads::2.0
+electrical engineering and phd::2.0
+network security and wireless::2.0
+version of this work::2.0
+elements can effectively reduce::2.0
+denoted by the solid::2.0
+transmission range per unit::2.0
+orientation chart of aln-9540::2.0
+abstractthis paper pursues rfid::2.0
+recipient of the outstanding::2.0
+invoked when the number::2.0
+scheme is readily applicable::2.0
+two adjacent reference tags::2.0
+proposed here in sections::2.0
+curves of tag reads::2.0
+tag responses::2.0
+carry out extensive simulations::2.0
+obtain rough location information::2.0
+approached by an rfid::2.0
+two adjacent grid points::2.0
+location sensing::2.0
+presence of an object::2.0
+active and passive rfid::2.0
+including autonomous robot navigation::2.0
+effectively utilize all radiation::2.0
+distorted shapes of activated::2.0
+middle of each square::2.0
+large errors are due::2.0
+tags is often sufficiently::2.0
+accuracy for  1:0::2.0
+radius and the center::2.0
+insensitive to the location::2.0
+ceiling can be derived::2.0
+wall advisory::2.0
+responses of the reference::2.0
+positive vectors in fig::2.0
+total number of tags::2.0
+discussion on accuracy improvement::2.0
+related work::2.0
+set of approximate distances::2.0
+dis technique is suitable::2.0
+affected by the partial::2.0
+error of z increases::2.0
+locations in a hexahedron::2.0
+values are usually inaccurate::2.0
+false negative reference tags::2.0
+tags from all planes::2.0
+characteristic curves of tag::2.0
+tags surrounded by activated::2.0
+represented by a parameter::2.0
+degree for four times::2.0
+xj1 yi  yj1::2.0
+rfid system to determine::2.0
+tags plus all nonactivated::2.0
+calculated positions under deb::2.0
+reader to support multiple::2.0
+deemed the very first::2.0
+level as the target::2.0
+localization of stationary objects::2.0
+technologys alr-9900 reader employed::2.0
+account for those missing::2.0
+award of the 10th::2.0
+circle is the top::2.0
+localization errors rise noticeably::2.0
+jlj1 i misclassified tags::2.0
+derived from activated tags::2.0
+power levels are calibrated::2.0
+based on an antenna::2.0
+setup to further investigate::2.0
+found to lower refined::2.0
+multiple readers::2.0
+impact on the accuracy::2.0
+inside the target room::2.0
+active scheme to employ::2.0
+tags to progressively reach::2.0
+solely on the reader::2.0
+sphere surface are located::2.0
+reader can be discriminated::2.0
+tags must be deployed::2.0
+addition to the reference::2.0
+mobile robot localization relied::2.0
+raf techniques are applicable::2.0
+tag j is represented::2.0
+distances to the current::2.0
+respond upon receiving interrogation::2.0
+two circles::2.0
+signal strength indications received::2.0
+deformed sphere::2.0
+lowers the computed errors::2.0
+area of reference tags::2.0
+based on all reference::2.0
+process repeats to arrive::2.0
+rfid tags by utilizing::2.0
+testbed experiments using alien::2.0
+individual carrying a smart::2.0
+activated tags then define::2.0
+filled circles indicate activated::2.0
+activated reference tags suffer::2.0
+possibly due to false::2.0
+adoption for automatic operation::2.0
+call for repeated activation::2.0
+refined sphere::2.0
+reader is located inside::2.0
+accurately indicates the target::2.0
+rfid reader can communicate::2.0
+j1 j1::2.0
+fit of imperfect responses::2.0
+filled circles::2.0
+error amounts are comparable::2.0
+mobile wireless network testbed::2.0
+computer for coordinate calculation::2.0
+expected that diverse applications::2.0
+range of the reader::2.0
+chong wang::2.0
+minimizing the error function::2.0
+stated earlier and confirmed::2.0
+experiments using alien rfid::2.0
+reader moves::2.0
+center according to chosen::2.0
+received the royal thai::2.0
+power level granularity completely::2.0
+located near a hexahedron::2.0
+accuracy of our passive::2.0
+proposed passive and active::2.0
+adoption of rfid due::2.0
+npz are the numbers::2.0
+observed in our experiments::2.0
+experimental results of edeb::2.0
+negative impact on accuracy::2.0
+respect to the current::2.0
+pan-tilt unit for experimental::2.0
+object using rfid tags::2.0
+two raf positioning schemes::2.0
+show that both schemes::2.0
+point marked::2.0
+zmax  zmin rinit::2.0
+refined sphere center scj::2.0
+response from the target::2.0
+enhanced deb::2.0
+received wireless::2.0
+science and the phd::2.0
+first discuss the challenges::2.0
+tags and alr-9900 reader::2.0
+side of the room::2.0
+location information with coarse::2.0
+edge of the hexahedron::2.0
+indoor 3d location sensing::2.0
+default value of doi::2.0
+area outside the hexahedron::2.0
+reflected from the walls::2.0
+possesses a coupling element::2.0
+false negative activated tags::2.0
+radio range::2.0
+allowing more practical deployment::2.0
+rfid tags ; communication::2.0
+negatively guides reader location::2.0
+total number of misclassified::2.0
+accuracy improvement are provided::2.0
+security and safety monitoring::2.0
+proposed passive scheme aims::2.0
+research spans delay-tolerant networks::2.0
+center is the estimated::2.0
+experimental results under edeb::2.0
+readers carried by mobile::2.0
+rfid due to reduced::2.0
+reference tags and false::2.0
+depend solely on rfid::2.0
+fit of the activated::2.0
+error versus the number::2.0
+ceiling or floor plane::2.0
+expense of an increased::2.0
+nem counterpart::2.0
+named as the nelder-mead::2.0
+max  xmin ymax::2.0
+two types of misclassified::2.0
+degree in electrical engineering::2.0
+connects via the tcp::2.0
+sphere are rectified progressively::2.0
+scan the prearranged tags::2.0
+decision boundary::2.0
+cell indicates its status::2.0
+rely on localization support::2.0
+limited to horizontal planes::2.0
+center scj be moved::2.0
+affected by the types::2.0
+established with a fairly::2.0
+first builds two circles::2.0
+reader and aln-9540 squiggle::2.0
+current sphere surface progressively::2.0
+widespread adoption for automatic::2.0
+localizing rfid gear rises::2.0
+1:0 ft is depicted::2.0
+closer to a perfect::2.0
+deployed in the system::2.0
+accurate localization of rfid::2.0
+received the national science::2.0
+built upon simplified system::2.0
+due mainly to fewer::2.0
+partitions the reference tags::2.0
+proposed schemes::2.0
+localization approaches largely fall::2.0
+levels with a maximum::2.0
+denote a 3d sphere::2.0
+derived in a similar::2.0
+technique for multi-hop wireless::2.0
+handles all misclassified reference::2.0
+appropriately with their accurate::2.0
+university of new york::2.0
+shapes of activated reference::2.0
+topological and metrical selflocalization::2.0
+accurate estimation of distances::2.0
+size and higher price::2.0
+coordinates of the target::2.0
+-axis of the plane::2.0
+reader i and target::2.0
+tags has less impact::2.0
+fit of all activated::2.0
+objective function is defined::2.0
+range per power level::2.0
+close to a sidewall::2.0
+identification based on dynamic::2.0
+outperforms its passive counterpart::2.0
+irrespective of the total::2.0
+enhancement method::2.0
+rfid tags at designated::2.0
+3.2.2 tag coordinate calculation::2.0
+tags outside and inside::2.0
+cos  yi sin::2.0
+aforementioned approach for accuracy::2.0
+space for delay-insensitive applications::2.0
+control department::2.0
+minimizing the error objective::2.0
+support vector machine scheme::2.0
+chip can be made::2.0
+similar to the simulations::2.0
+compensation lowers the computed::2.0
+tags and the sphere::2.0
+localization in anisotropic sensor::2.0
+calculation the top view::2.0
+similar to the passive::2.0
+process can be done::2.0
+due to severe wall::2.0
+set of preinstalled passive::2.0
+employ the proposed localization::2.0
+reference tags into two::2.0
+define a better circle::2.0
+virtual tag is obtained::2.0
+experimental results and discussion::2.0
+objects in a small::2.0
+carry out::2.0
+tags on other sides::2.0
+introduces our proposed passive::2.0
+progressively reach desirable localization::2.0
+first raf 3d localization::2.0
+sensor networks with holes::2.0
+reference tags are marked::2.0
+localization and high accuracy::2.0
+utilize all radiation elements::2.0
+jnfj j is smaller::2.0
+decision boundary optimization scheme::2.0
+tags using phase difference::2.0
+based on reception phase::2.0
+low accuracy in distance::2.0
+sharply when the antenna::2.0
+accuracy levels::2.0
+center of each circle::2.0
+tracking inexpensive target objects::2.0
+implementation of the passive::2.0
+sum of the distance::2.0
+respect to each antenna::2.0
+problem of rfid localization::2.0
+readers interrogation signal ranges::2.0
+fundamental frequencies to active::2.0
+results in the largest::2.0
+denoted by a small::2.0
+rotating  to aid::2.0
+approaches for selecting reference::2.0
+networks was treated earlier::2.0
+impact on accuracy compared::2.0
+origin of a cartesian::2.0
+tags on the plane::2.0
+sufficient for most applications::2.0
+basic web-based utility software::2.0
+described above for determining::2.0
+antenna gains and path::2.0
+reader transmits multiple signals::2.0
+applications of the rfid::2.0
+degree in scientific instruments::2.0
+arrive at better localization::2.0
+square u t denotes::2.0
+agents using rfid-enabled space::2.0
+location sensing using active::2.0
+journal of information science::2.0
+dis technique was considered::2.0
+related work in tandem::2.0
+cricket location support system::2.0
+tag to the readers::2.0
+navigation and warehouse management::2.0
+unavailable off-shelf or prohibitively::2.0
+wireless and sensor networks::2.0
+research interest::2.0
+result in smaller errors::2.0
+coordinates exhibit higher errors::2.0
+executed on a dell::2.0
+include radio frequency identification::2.0
+simulations and testbed experiments::2.0
+dictate the initial values::2.0
+lowered the antennas transmission::2.0
+reception phase::2.0
+optimization method to minimize::2.0
+closer to the wall::2.0
+greatly enhancing localization accuracy::2.0
+enhancement method to deal::2.0
+security and wireless sensor::2.0
+situations with pronounced localization::2.0
+based on proximity information::2.0
+information is usually critical::2.0
+position estimated by deb::2.0
+minimize error objective functions::2.0
+tags in each axis::2.0
+transmission range per power::2.0
+effective in accuracy improvement::2.0
+accurate target coordinates progressively::2.0
+information science and engineering::2.0
+achieves the best accuracy::2.0
+technology can effectively deal::2.0
+level and gradually increase::2.0
+bounds of readers transmission::2.0
+science from the state::2.0
+separate passes for computing::2.0
+tag reads and writes::2.0
+foundation under grant number::2.0
+areas of computer communications::2.0
+calculation with the accuracy::2.0
+demonstrate that the proposed::2.0
+readers transmission power levels::2.0
+scheme will be compared::2.0
+dodging tedious power calibration::2.0
+positioning mechanism for multihop::2.0
+compared with the readers::2.0
+reader may support multiple::2.0
+location identification schemes versus::2.0
+accuracy in the order::2.0
+histograms dictate the initial::2.0
+overview of deb deb::2.0
+solid rectangular marking hexahedron::2.0
+systems is to employ::2.0
+signals from the rfid::2.0
+estimation based on signal::2.0
+required long backscatter transmissions::2.0
+estimation due to complex::2.0
+closer to the center::2.0
+exist to block signals::2.0
+gain importance when tiny::2.0
+computer communications and networks::2.0
+requires neither to fine-tune::2.0
+tag passes the reader::2.0
+variation of the readers::2.0
+readily applicable in practice::2.0
+hexahedron for the passive::2.0
+coordinates stored either inside::2.0
+origin at the readers::2.0
+fast localization and high::2.0
+employing received signal strength::2.0
+approaches toward choosing reference::2.0
+nem scheme::2.0
+engineering degrees in computer::2.0
+received by the reader::2.0
+scheme aims::2.0
+decrease with more readers::2.0
+execution times::2.0
+negative impact of doi::2.0
+yielded with more power::2.0
+marginally with the location::2.0
+distance between each misclassified::2.0
+completely dominates the errors::2.0
+nat is the total::2.0
+reader to activate nearby::2.0
+including no reference tags::2.0
+limited alleviation for wall::2.0
+locations in a warehouse::2.0
+formed by the chosen::2.0
+simulation and testbed experimental::2.0
+lower the time needed::2.0
+installation cost is low::2.0
+minimize the distance difference::2.0
+losses in different directions::2.0
+video cameras::2.0
+tags are the small::2.0
+involved tags::2.0
+exhibit different radiation patterns::2.0
+plane and for computing::2.0
+reduce the negative impact::2.0
+due to these two::2.0
+finding the target coordinates::2.0
+deb and of nem::2.0
+experiments lowered the antennas::2.0
+multipath fading::2.0
+position of the target::2.0
+popularly embedded in smart::2.0
+lij1 ; < j1::2.0
+earlier nem::2.0
+technical committee on distributed::2.0
+passive counterpart and achieves::2.0
+distance from a misclassified::2.0
+accuracy of any scheme::2.0
+show that more accurate::2.0
+workshop pervasive wireless network::2.0
+doi signifies the maximum::2.0
+aln-9540 tags and alr-9900::2.0
+serves as the weight::2.0
+reader or an object::2.0
+price may soon drop::2.0
+passive tag localization schemes::2.0
+technique needs multiple readers::2.0
+compare the simulation results::2.0
+upper and the lower::2.0
+faster in coordinate calculation::2.0
+rfid systems exhibits low::2.0
+optiplex gx745 desktop machine::2.0
+proposed scheme::2.0
+mobile person or robot::2.0
+conference on distributed computing::2.0
+iteration process to build::2.0
+tags to a computer::2.0
+denoted by the triangle::2.0
+radius of the sphere::2.0
+positioning in general wireless::2.0
+guided by misclassified reference::2.0
+two and four radiation::2.0
+feet for aln-9540 squiggle::2.0
+suffers from low accuracy::2.0
+raf technique localizes passive::2.0
+deployed on the ceiling::2.0
+reader in the hexahedron::2.0
+localization with rfid technology::2.0
+minimizing the distance variation::2.0
+existing in rfid systems::2.0
+16th acm intl conf::2.0
+employed to improve efficiency::2.0
+rotating the reader antenna::2.0
+upper bound::2.0
+desktop machine with core2::2.0
+strength is not require::2.0
+pursued an active scheme::2.0
+degrees in computer engineering::2.0
+involving softwaredefined radio receivers::2.0
+alien technology::2.0
+tag then emits backscatter::2.0
+setup in the real::2.0
+locations in the hexahedron::2.0
+designated locations as references::2.0
+localization mechanisms for wireless::2.0
+errors are mainly due::2.0
+density tends to result::2.0
+built-in distance::2.0
+rfid readers as reference::2.0
+localization of any place::2.0
+computing the z coordinate::2.0
+deb depends on two::2.0
+studies on mobile robot::2.0
+calls for preprocessing tag::2.0
+masters and the doctoral::2.0
+applications will be developed::2.0
+granularity and high errors::2.0
+propose the deb scheme::2.0
+employs only passive tags::2.0
+tags in the row::2.0
+antenna gain and multipath::2.0
+tags and accordingly larger::2.0
+high and an additional::2.0
+histograms of reference tags::2.0
+equal to its standard::2.0
+shows the transmission range::2.0
+aiming to guide routing::2.0
+viewing the new center::2.0
+affected by the density::2.0
+scheme for 3d localization::2.0
+computing the target location::2.0
+investigation into different vol::2.0
+review of rfid localization::2.0
+emulate an antenna array::2.0
+based on received signal::2.0
+results under the passive::2.0
+accuracy of an object::2.0
+basic idea of localization::2.0
+signals from the reader::2.0
+conclusion we have considered::2.0
+scheme requires the readers::2.0
+reader localization::2.0
+achieve desired positioning accuracy::2.0
+refined sphere radius amount::2.0
+multiple readers or mobile::2.0
+support of other devices::2.0
+considered and contrasted two::2.0
+scientific instruments from zhejiang::2.0
+partial and irregular responses::2.0
+start with the lowest::2.0
+nem in both identification::2.0
+formed by those activated::2.0
+proposed 3d localization schemes::2.0
+starts with the initial::2.0
+scheme discussed::2.0
+method has been developed::2.0
+optimization scheme is employed::2.0
+arise when the reader::2.0
+received the phd degree::2.0
+systems and wireless sensor::2.0
+elements k to observe::2.0
+scheme is for locating::2.0
+objects and speed estimation::2.0
+gear alone without additional::2.0
+sphere center are represented::2.0
+false positive and false::2.0
+observed that the accuracy::2.0
+responses when the reader::2.0
+sidewall of the room::2.0
+utilizes a small number::2.0
+objective functions using rfid::2.0
+tag compensation is indispensable::2.0
+simulations by using matlab::2.0
+satisfying xv xi cos::2.0
+range-free localization in anisotropic::2.0
+radiation elements are shown::2.0
+number of activated tags::2.0
+computed coordinates exhibit higher::2.0
+passive scheme is capable::2.0
+localization on 2d planes::2.0
+masters of engineering degrees::2.0
+entire space is divided::2.0
+scheme employs a set::2.0
+easier to be visualized::2.0
+locating an rfid reader::2.0
+rfid readers can gain::2.0
+optimization phase::2.0
+total number of activated::2.0
+utilizing the accumulated tag::2.0
+detect the target tags::2.0
+rfid reader and aln-9540::2.0
+average of 2,560 sample::2.0
+scheme and the active::2.0
+points to help determine::2.0
+experiment to suppress doi::2.0
+j1 and misj1 classified::2.0
+tags is no longer::2.0
+automatic operation and tracking::2.0
+chosen set of reference::2.0
+-axis are in parallel::2.0
+tag density so high::2.0
+support system::2.0
+compensation process which accounts::2.0
+nearby tags::2.0
+negative vectors in fig::2.0
+explored for wide applications::2.0
+simulations for the passive::2.0
+close to a wall::2.0
+numbers of grid positions::2.0
+single pass to compute::2.0
+fixed and suitable transmission::2.0
+readers or mobile readers::2.0
+effectively filter out irregularity::2.0
+localization approaches::2.0
+range per unit degree::2.0
+set of active rfid::2.0
+additional devices or sensors::2.0
+results of the aforementioned::2.0
+science foundation under grant::2.0
+deb follows one single::2.0
+editorial board of journal::2.0
+robots with rfid system::2.0
+tag and the surface::2.0
+propagation from the rfid::2.0
+sample points distributed uniformly::2.0
+inexpensively and quickly locating::2.0
+element and a small::2.0
+find a suitable transmission::2.0
+positive and false negative::2.0
+accuracy improvement for deb::2.0
+received signal strength information::2.0
+circles indicate activated tags::2.0
+significantly because the relative::2.0
+out experiments using aln-9540::2.0
+person carrying a portable::2.0
+larger errors in finding::2.0
+estimated using the center::2.0
+widespread adoption of rfid::2.0
+tag possesses a coupling::2.0
+array with k radiation::2.0
+coordinate calculation are studied::2.0
+tag and the reader::2.0
+including the inner border::2.0
+distances to chosen activated::2.0
+coordinates of the rfid::2.0
+nearby tags to progressively::2.0
+based on rf signal::2.0
+reader uses power level::2.0
+tags inside the room::2.0
+positioning technique for multi-hop::2.0
+moves near a wall::2.0
+scheme aiming to locate::2.0
+estimation between a tag::2.0
+relative error becomes high::2.0
+activated because no tags::2.0
+parts of the sphere::2.0
+algorithms for reception phase::2.0
+tags by iterative refinement::2.0
+accurate 3d localization fig::2.0
+international conference on distributed::2.0
+location estimation::2.0
+albeit to a larger::2.0
+low cost while achieving::2.0
+collect the tag information::2.0
+preliminary experiments have revealed::2.0
+simplex method is employed::2.0
+readers without other devices::2.0
+attached to the reader::2.0
+iterative procedure to refine::2.0
+technical report uw cse::2.0
+autonomous robot for navigation::2.0
+tags involved::2.0
+intersection of the current::2.0
+preinstalled passive rfid tags::2.0
+located inside::2.0
+systems exhibits low reliability::2.0
+rotation offers limited alleviation::2.0
+sanpechuda and l kovavisaruch::2.0
+tags in the prior::2.0
+engineering and phd degree::2.0
+deb and under nem::2.0
+aggregated together for computing::2.0
+first study the impact::2.0
+supports up to four::2.0
+fine-tune the transmission power::2.0
+srj1 shrunk to exclude::2.0
+fewer virtual tags result::2.0
+tandem with widespread adoption::2.0
+reader can be calculated::2.0
+tags may be deployed::2.0
+robot selflocalization was achieved::2.0
+readers at known positions::2.0
+deployed as the reference::2.0
+reliability even under static::2.0
+show the superimposed transmission::2.0
+parallel and distributed processing::2.0
+number of reference tags::2.0
+localization schemes for indoor::2.0
+allowing the reference tags::2.0
+circle with a solid::2.0
+respond to reader scanning::2.0
+deb follows an iterative::2.0
+techniques have been explored::2.0
+number of tags deployed::2.0
+optimization scheme::2.0
+writes at different signal::2.0
+edeb relies on two::2.0
+accurate than other nem::2.0
+deb-based rfid positioning system::2.0
+dubbed decision boundary optimization::2.0
+edeb is also applicable::2.0
+activated tags into four::2.0
+phase calculation is high::2.0
+accuracy through a compensation::2.0
+based on estimated distances::2.0
+hexahedron to enhance accuracy::2.0
+functions using rfid tags::2.0
+number exceeds a threshold::2.0
+tag compensation process repeats::2.0
+storage room::2.0
+readers with multiple transmission::2.0
+member of the ieee::2.0
+published by the ieee::2.0
+antenna array at hand::2.0
+determining the rfid tag::2.0
+carrying a portable electronic::2.0
+increasing response::2.0
+product overview::2.0
+rfid reader moves closer::2.0
+prevails over its earlier::2.0
+jnfj1 j where nfj1::2.0
+closer to a hexahedron::2.0
+chair of technical committee::2.0
+reader rotation offers limited::2.0
+phone with an embedded::2.0
+results are the average::2.0
+execution times when compared::2.0
+nearby reference::2.0
+accuracy of deb depends::2.0
+problem under very high::2.0
+accounts for those missing::2.0
+two accuracy improvement techniques::2.0
+technology may be applied::2.0
+giving rise to errors::2.0
+perfectly compensate the irregular::2.0
+achieved using an rfid::2.0
+dis technique needs multiple::2.0
+misclassified tags by iterative::2.0
+lower bounds of readers::2.0
+set of misclassified tags::2.0
+readers antenna was rotated::2.0
+four scenarios are included::2.0
+highest accuracy is observed::2.0
+rectangular marking hexahedron space::2.0
+drop to several cents::2.0
+nem carries out distance::2.0
+current sphere and misclassified::2.0
+ieeecs log number tc-2011-07-0504::2.0
+developed by employing ultrasonic::2.0
+radiation elements can effectively::2.0
+calculation than other methods::2.0
+pinpoint a reader operating::2.0
+accuracy and is robust::2.0
+schemes are for locating::2.0
+deployed as reference tags::2.0
+rfid reader may support::2.0
+tags at designated locations::2.0
+relies on distance estimation::2.0
+radiation patterns::2.0
+antenna orientation were aggregated::2.0
+passive scheme the proposed::2.0
+versus number::2.0
+scheme does not rely::2.0
+placement and irregular signal::2.0
+exhibiting far smaller execution::2.0
+database maintained::2.0
+tiny rfid reader chips::2.0
+transponder through the coupling::2.0
+repeats until the misclassification::2.0
+deployed as reference points::2.0
+reference tags under deb::2.0
+acm trans::2.0
+edeb are also illustrated::2.0
+flexible placement of reference::2.0
+determining a 3d sphere::2.0
+detecting its nearby reference::2.0
+rounds of 2d optimization::2.0
+reader antenna is situated::2.0
+nonactivated tags::2.0
+interest in the areas::2.0
+utilizing rfid signaling scheme::2.0
+located on a side::2.0
+alleviation for wall advisory::2.0
+wireless networks was treated::2.0
+doi has a negative::2.0
+localization scheme for passive::2.0
+horizontal planes but virtually::2.0
+close to the ceiling::2.0
+experiments when the target::2.0
+doctoral degrees in computer::2.0
+indispensible for required long::2.0
+frequencies to active tags::2.0
+antenna connectors::2.0
+wall if the number::2.0
+deb yields better location::2.0
+found to be swift::2.0
+operates near a side::2.0
+active tags are indispensible::2.0
+elements yield smaller errors::2.0
+irregular responses from reference::2.0
+location of the target::2.0
+schemes versus the number::2.0
+room under its regular::2.0
+propagation for rfid gear::2.0
+tags within the readers::2.0
+ymax  ymin zmax::2.0
+tags can be flexible::2.0
+technique employs the rfid::2.0
+power nor to estimate::2.0
+included in the figure::2.0
+coordinates calculation the top::2.0
+box is a readers::2.0
+fewer reference tags involved::2.0
+uniformly in the hexahedron::2.0
+equip portable electronic devices::2.0
+activated tags better construct::2.0
+rfid tag bearing estimation::2.0
+deb and nem schemes::2.0
+locating the target object::2.0
+integrated heterogeneous wireless systems::2.0
+activated tags plus virtual::2.0
+number of misclassified tags::2.0
+study this problem quantitatively::2.0
+off-shelf or prohibitively expensive::2.0
+works in the pollution::2.0
+tags under a predetermined::2.0
+real environment::2.0
+accuracy enhancement process applied::2.0
+chart of aln-9540 squiggle::2.0
+schemes we propose two::2.0
+system by using support::2.0
+flexible in reference tag::2.0
+simulation results under deb::2.0
+readers are placed appropriately::2.0
+errors vary only marginally::2.0
+yielding more accurate target::2.0
+rfid reader is assumed::2.0
+hold in a real::2.0
+points at known locations::2.0
+room when the walls::2.0
+activated tags with respect::2.0
+leads to an expensive::2.0
+reader chip is designed::2.0
+schemes for large scale::2.0
+cost-effective alternatives to expensive::2.0
+tags outside the presumed::2.0
+antenna has coverage area::2.0
+categorized as either passive::2.0
+dynamic active rfid calibration::2.0
+centers on both planes::2.0
+array deployed has two::2.0
+compensated tags are virtual::2.0
+linear search is employed::2.0
+due to varying signal::2.0
+determine the rough trajectory::2.0
+increase in the readers::2.0
+located within the hexahedron::2.0
+aimed to handle wall::2.0
+set of rfid readers::2.0
+small sized rfid gear::2.0
+expected to be independent::2.0
+information with coarse accuracy::2.0
+difference at the reader::2.0
+degrees of false positive::2.0
+optimization on the ceiling::2.0
+distributed processing::2.0
+space in which target::2.0
+difference between the actual::2.0
+additional to rfid gear::2.0
+committee on distributed processing::2.0
+wall or a corner::2.0
+photo of our experimental::2.0
+higher cost::2.0
+requiring that the refined::2.0
+types of misclassified tags::2.0
+interrogation signal::2.0
+international conference::2.0
+scheme discussed in maneesilp::2.0
+dell optiplex gx745 desktop::2.0
+observed from our simulation::2.0
+deb smartly outperforms nem::2.0
+antenna gains::2.0
+sin yv xi sin::2.0
+raf techniques in wsn::2.0
+based on the responses::2.0
+calculated coordinates of target::2.0
+ultrasonic technology to provide::2.0
+circle is the lower::2.0
+reference tags for coordinate::2.0
+tags outside the space::2.0
+international conference on computer::2.0
+scheme is less expensive::2.0
+based on dynamic active::2.0
+rfid reader walks close::2.0
+depicted as positive vectors::2.0
+localization has been exploited::2.0
+dominating factor::2.0
+radiation or restrictive zone::2.0
+antenna in each experimental::2.0
+propagation is usually assumed::2.0
+commonly existing in rfid::2.0
+including an alr-9900 rfid::2.0
+rfid readers are deployed::2.0
+positioning techniques and systems::2.0
+function using the nelder-mead::2.0
+misclassified tags in iteration::2.0
+readers deployed as reference::2.0
+surface are located inside::2.0
+proximity information of detected::2.0
+tags are not read::2.0
+operating without a separate::2.0
+pantilt unit for accuracy::2.0
+j1 2  j1::2.0
+description the localization system::2.0
+phase difference from tags::2.0
+tags for coordinate calculation::2.0
+approaches have been proposed::2.0
+directly the spherical model::2.0
+gain and multipath fading::2.0
+corner is improved considerably::2.0
+tags outside the modeled::2.0
+target rfid reader moves::2.0
+accuracy is not materially::2.0
+results we carry out::2.0
+localization of rfid tags::2.0
+histogram of activated reference::2.0
+environments and dynamic channel::2.0
+serves as the reference::2.0
+activation of nearby tags::2.0
+grid points::2.0
+large number of reference::2.0
+arrive at more accurate::2.0
+approach for accuracy improvement::2.0
+techniques may be dis::2.0
+side wall::2.0
+location identification::2.0
+greatly simplify the complexity::2.0
+emitted from activated maneesilp::2.0
+suffer from more distortion::2.0
+mechanism for multihop wireless::2.0
+build a spherical model::2.0
+readers can gain importance::2.0
+due to the asymmetric::2.0
+method for function minimization::2.0
+errors are the largest::2.0
+multiple transmission power levels::2.0
+self-configurable positioning::2.0
+dealt with using tag::2.0
+computing the reader location::2.0
+proposed deb smartly outperforms::2.0
+deb and nem improve::2.0
+srj1 i2nfj1 li j1::2.0
+localizes passive rfid tags::2.0
+achieve better positioning accuracy::2.0
+guide routing and facilitate::2.0
+situated at the center::2.0
+reader to all reference::2.0
+result in coarse granularity::2.0
+employs the rfid reader::2.0
+provided that the target::2.0
+moved toward a side::2.0
+royal thai government scholarship::2.0
+effectiveness of our proposed::2.0
+computing complexity and longer::2.0
+coordinate calculation is fast::2.0
+reprints of this article::2.0
+location sensing technology based::2.0
+varying signal attenuation amounts::2.0
+simulation results of deb::2.0
+device with an embedded::2.0
+information of activated tags::2.0
+ieee of a target::2.0
+view of a sphere::2.0
+mobile agents using rfid-enabled::2.0
+unit for accuracy improvement::2.0
+navigation of mobile agents::2.0
+scheme the proposed passive::2.0
+situations where large objects::2.0
+faster than a previous::2.0
+center sc in iteration::2.0
+electrical eng::2.0
+internal battery to enable::2.0
+strength-based radio range estimation::2.0
+location of the object::2.0
+suitable for tracking inexpensive::2.0
+accurate than its nem::2.0
+irregular coverage by readers::2.0
+deformed sphere to arrive::2.0
+cc separates activated tags::2.0
+tag within a perfect::2.0
+sets of experimental data::2.0
+tags and readers deployed::2.0
+incorporated to effectively utilize::2.0
+number of reference readers::2.0
+designed to equip portable::2.0
+false positive reference tags::2.0
+widens as  grows::2.0
+activated only when situated::2.0
+points of the two::2.0
+star and the calculated::2.0
+results in a finer::2.0
+illustrates the actual transmission::2.0
+attached to the red::2.0
+due to their lower::2.0
+shaped sphere those activated::2.0
+walls to improve accuracy::2.0
+interests include radio frequency::2.0
+experimental setup is shown::2.0
+tradeoff between the accuracy::2.0
+antenna arrays as discuss::2.0
+accurate error objective function::2.0
+cost while achieving high::2.0
+based on rfid technology::2.0
+done in the realistic::2.0
+considerably hampering the accuracy::2.0
+aln-9540 squiggle passive tags::2.0
+leading to challenges summarized::2.0
+estimation for mobile robot::2.0
+circles inside the sphere::2.0
+accuracy of reader localization::2.0
+instruments from zhejiang university::2.0
+speed estimation of mobile::2.0
+ieee transactions on parallel::2.0
+published by academia sinica::2.0
+scheme has been treated::2.0
+visitor of the ieee::2.0
+tags yield better accuracy::2.0
+introduced mainly by doi::2.0
+distance values::2.0
+chips are popularly embedded::2.0
+setup cost is high::2.0
+impact of target locations::2.0
+experimental data are presented::2.0
+note that while initial::2.0
+cells including no reference::2.0
+impact of the number::2.0
+separate external power source::2.0
+rely on the signal::2.0
+multiple antennas::2.0
+deb at various locations::2.0
+readers signal transmission range::2.0
+minimizes the total number::2.0
+exhibiting accuracy levels independent::2.0
+edeb will be demonstrated::2.0
+possibly with different radiation::2.0
+computer engineering from kasetsart::2.0
+first range-free 3d localization::2.0
+proposed 3d rfid positioning::2.0
+compensate the irregular antenna::2.0
+obtained from the histogram::2.0
+exhibit higher errors due::2.0
+locations according to deb::2.0
+corner of the room::2.0
+10,000 at $ 1,488.00::2.0
+accurate 3d localization references::2.0
+localization schemes for large::2.0
+deb minimizes the total::2.0
+schemes for indoor rfid::2.0
+gains in different directions::2.0
+gathered information of activated::2.0
+readers as the reference::2.0
+target reader is moved::2.0
+attached with an antenna::2.0
+addition to its fast::2.0
+object with an rfid::2.0
+set of tags involved::2.0
+capable of localizing multiple::2.0
+applicable to both active::2.0
+enable a longer operating::2.0
+complex environments and dynamic::2.0
+sphere and misclassified tags::2.0
+increases the system cost::2.0
+embedded tiny rfid reader::2.0
+passive and active localization::2.0
+floor planes under nem::2.0
+needed for global localization::2.0
+deal with the collision::2.0
+distances from the reader::2.0
+room center::2.0
+ieee fifth workshop pervasive::2.0
+define a less deformed::2.0
+longer a dominating factor::2.0
+rest of this paper::2.0
+shrunk to reduce misclassified::2.0
+scheme works to locate::2.0
+reflection from the walls::2.0
+meet the desired accuracy::2.0
+areas of network security::2.0
+emits backscatter modulated signals::2.0
+predetermined arbitrary coordinate system::2.0
+locations as reference points::2.0
+rotation by using four::2.0
+small unfilled circles inside::2.0
+responses of nearby reference::2.0
+inside the modeled sphere::2.0
+information of detected reference::2.0
+small space for delay-insensitive::2.0
+resulting in accuracy improvement::2.0
+wireless indoor positioning techniques::2.0
+rfid reader transmits multiple::2.0
+yj1 zi  zj1::2.0
+scheme aims to locate::2.0
+points across the ceiling::2.0
+passive tags::2.0
+rfid-based 3-d positioning schemes::2.0
+schemes are then described::2.0
+misclassified tags in nfj1::2.0
+coverage by readers interrogation::2.0
+tags inside the interrogation::2.0
+distance to the current::2.0
+reader chips are popularly::2.0
+active localization::2.0
+proposed deb scheme enjoys::2.0
+compensation process are small::2.0
+local server::2.0
+rest of this section::2.0
+adopted for our experimental::2.0
+intelligent robots and systems::2.0
+tags with the support::2.0
+simulation results we carry::2.0
+leading to unexpected holes::2.0
+multi-robot coordination system based::2.0
+coordinate calculation upon receiving::2.0
+lead to various degrees::2.0
+label inside a cell::2.0
+largely fall into two::2.0
+information on obtaining reprints::2.0
+target coordinates::2.0
+misclassified reference::2.0
+reach desirable localization accuracy::2.0
+powered by an internal::2.0
+idea is to construct::2.0
+represented by dashed vectors::2.0
+marked under each situation::2.0
+due to asymmetric antenna::2.0
+deb aims to minimize::2.0
+stationary objects and speed::2.0
+small number of readers::2.0
+calls for an enhancement::2.0
+yield severely distorted shapes::2.0
+larger size and higher::2.0
+communicate with any tag::2.0
+monotonically because the circles::2.0
+center of the hexahedron::2.0
+unit for experimental evaluation::2.0
+based on a nelder-mead::2.0
+bound of the interrogation::2.0
+actual reader position denoted::2.0
+fewer tags being activated::2.0
+alr-9900 enterprise rfid reader::2.0
+improvement for our active::2.0
+points with known coordinates::2.0
+leads to a higher::2.0
+sides of the hexahedron::2.0
+caused by heavier reflection::2.0
+circle is the upper::2.0
+bearing estimation for mobile::2.0
+landmarc estimates the location::2.0
+localization of readers carried::2.0
+tags can be obtained::2.0
+process aims to rectify::2.0
+factor on the accuracy::2.0
+description the passive scheme::2.0
+communication in rfid systems::2.0
+buildings with metal frames::2.0
+surface of the defined::2.0
+technique was considered::1.58496250072
+assume the transmission::1.58496250072
+additional to rfid::1.58496250072
+activation of nearby::1.58496250072
+elements for compensating::1.58496250072
+description the passive::1.58496250072
+techniques in wsn::1.58496250072
+multiple targets simultaneously::1.58496250072
+point whose distances::1.58496250072
+locating a reader::1.58496250072
+machine with core2::1.58496250072
+doi is high::1.58496250072
+small sized rfid::1.58496250072
+anisotropic sensor networks::1.58496250072
+high tag density::1.58496250072
+cartesian coordinate system::1.58496250072
+increased hardware cost::1.58496250072
+proposed deb smartly::1.58496250072
+readers clearly increases::1.58496250072
+nonactivated tags surrounded::1.58496250072
+information with coarse::1.58496250072
+center are represented::1.58496250072
+localization in anisotropic::1.58496250072
+averaging the distances::1.58496250072
+pass to compute::1.58496250072
+accurate error objective::1.58496250072
+j1 j1 tag::1.58496250072
+selflocalization was achieved::1.58496250072
+vertices or edges::1.58496250072
+signifies the maximum::1.58496250072
+award number de-fg02-04er46136::1.58496250072
+obtain those virtual::1.58496250072
+heterogeneous wireless systems::1.58496250072
+alr-9900 reader connects::1.58496250072
+absence of tags::1.58496250072
+increase the transmission::1.58496250072
+reader with doi::1.58496250072
+involves separate passes::1.58496250072
+higher doi results::1.58496250072
+predetermined arbitrary coordinate::1.58496250072
+distance estimation based::1.58496250072
+aln-9540 squiggle passive::1.58496250072
+raf technique localizes::1.58496250072
+exhibit different radiation::1.58496250072
+computing and comm::1.58496250072
+utilizing rfid signaling::1.58496250072
+readers can gain::1.58496250072
+exclude the tag::1.58496250072
+curves in fig::1.58496250072
+needed for global::1.58496250072
+adjacent reference tags::1.58496250072
+simulation and testbed::1.58496250072
+self-localization of mobile::1.58496250072
+passive scheme requires::1.58496250072
+discussion six sets::1.58496250072
+assumptions greatly simplify::1.58496250072
+detected reference tags::1.58496250072
+importance when tiny::1.58496250072
+multiple power levels::1.58496250072
+indispensible for required::1.58496250072
+two accuracy improvement::1.58496250072
+walls to improve::1.58496250072
+monotonically with doi::1.58496250072
+information of detected::1.58496250072
+schemes we propose::1.58496250072
+rise to errors::1.58496250072
+unit degree change::1.58496250072
+report the gathered::1.58496250072
+nem active schemes::1.58496250072
+outperforms its passive::1.58496250072
+basic web-based utility::1.58496250072
+asymmetric antenna gains::1.58496250072
+distances between transponders::1.58496250072
+reliable than tags::1.58496250072
+severely distorted shapes::1.58496250072
+distance estimation due::1.58496250072
+strength-based radio range::1.58496250072
+discussion on accuracy::1.58496250072
+improving localization accuracy::1.58496250072
+density so high::1.58496250072
+approximate the shapes::1.58496250072
+tags and alr-9900::1.58496250072
+regular transmission power::1.58496250072
+technique for multi-hop::1.58496250072
+rectify the set::1.58496250072
+lnj are collected::1.58496250072
+denote their distance::1.58496250072
+misj1 classified tags::1.58496250072
+accurate coordinates stored::1.58496250072
+negatively guides reader::1.58496250072
+experiment to suppress::1.58496250072
+errors are due::1.58496250072
+fixed transmission power::1.58496250072
+pnpy y pnpz::1.58496250072
+department of energy::1.58496250072
+vector machine scheme::1.58496250072
+set of approximate::1.58496250072
+yield better accuracy::1.58496250072
+limited radio ranges::1.58496250072
+found to lower::1.58496250072
+alleviation for wall::1.58496250072
+determined by minimizing::1.58496250072
+multiple radiation elements::1.58496250072
+experiments using alien::1.58496250072
+packaging and tracking::1.58496250072
+target coordinates progressively::1.58496250072
+reader may support::1.58496250072
+determine the rough::1.58496250072
+sphere those activated::1.58496250072
+challenges and contributions::1.58496250072
+tzeng @ cacs.louisiana.edu::1.58496250072
+limited to horizontal::1.58496250072
+longer a dominating::1.58496250072
+readers or mobile::1.58496250072
+passive or active::1.58496250072
+calculated reader locations::1.58496250072
+rfid gear rises::1.58496250072
+localizing rfid gear::1.58496250072
+detects the rough::1.58496250072
+circle via nonlinear::1.58496250072
+requires the readers::1.58496250072
+tags to progressively::1.58496250072
+rfid positioning schemes::1.58496250072
+false negative reads::1.58496250072
+alien squiggle tags::1.58496250072
+planes are obtained::1.58496250072
+coordinates of tag::1.58496250072
+unlike earlier nem::1.58496250072
+tags into four::1.58496250072
+filled with empty::1.58496250072
+masters of science::1.58496250072
+refined sphere center::1.58496250072
+lowest power level::1.58496250072
+corner is improved::1.58496250072
+readers antenna attached::1.58496250072
+target with errors::1.58496250072
+signal attenuation levels::1.58496250072
+described in section::1.58496250072
+arrays as discuss::1.58496250072
+alr-9900 enterprise rfid::1.58496250072
+reference tags suffer::1.58496250072
+tags being activated::1.58496250072
+larger k results::1.58496250072
+carries out distance::1.58496250072
+error then stands::1.58496250072
+carry out analyses::1.58496250072
+estimation of distances::1.58496250072
+builds two circles::1.58496250072
+elements can effectively::1.58496250072
+involving softwaredefined radio::1.58496250072
+due to asymmetric::1.58496250072
+emits backscatter modulated::1.58496250072
+find the center::1.58496250072
+marking hexahedron space::1.58496250072
+accuracy is sufficient::1.58496250072
+j1 p j1::1.58496250072
+based on dynamic::1.58496250072
+workshop pervasive wireless::1.58496250072
+edeb is illustrated::1.58496250072
+complexity and longer::1.58496250072
+size and higher::1.58496250072
+antenna was rotated::1.58496250072
+references to pinpoint::1.58496250072
+reader position denoted::1.58496250072
+overview of deb::1.58496250072
+results we carry::1.58496250072
+leading to challenges::1.58496250072
+wireless network testbed::1.58496250072
+roll of 10,000::1.58496250072
+transmits multiple signals::1.58496250072
+report their existence::1.58496250072
+higher computing complexity::1.58496250072
+j1 j j1::1.58496250072
+errors grow monotonically::1.58496250072
+readers with multiple::1.58496250072
+accuracy is observed::1.58496250072
+developed for accuracy::1.58496250072
+alr-9900 reader attached::1.58496250072
+result in coarse::1.58496250072
+distance from reader::1.58496250072
+information on obtaining::1.58496250072
+proposed localization schemes::1.58496250072
+positive reference tags::1.58496250072
+inside a cell::1.58496250072
+works to locate::1.58496250072
+sensors in support::1.58496250072
+lowered the antennas::1.58496250072
+including no reference::1.58496250072
+based on rfid::1.58496250072
+positioning rfid readers::1.58496250072
+proposed passive scheme::1.58496250072
+presumed interrogation range::1.58496250072
+yinit ; zinit::1.58496250072
+shapes of activated::1.58496250072
+discuss the challenges::1.58496250072
+scan the target::1.58496250072
+external power source::1.58496250072
+computed errors effectively::1.58496250072
+set of misclassified::1.58496250072
+minimize the distance::1.58496250072
+reader to activate::1.58496250072
+localization error versus::1.58496250072
+person or robot::1.58496250072
+run to obtain::1.58496250072
+accuracy in distance::1.58496250072
+bachelors and masters::1.58496250072
+carrying a smart::1.58496250072
+results under edeb::1.58496250072
+dell optiplex gx745::1.58496250072
+full border method::1.58496250072
+foundation under grant::1.58496250072
+raf positioning schemes::1.58496250072
+technique is suitable::1.58496250072
+tags plus virtual::1.58496250072
+signal strength indications::1.58496250072
+false positive reference::1.58496250072
+based on signal::1.58496250072
+suitable antenna array::1.58496250072
+deb is found::1.58496250072
+improvement for deb::1.58496250072
+deb the accuracy::1.58496250072
+alternatives to expensive::1.58496250072
+carried out analyses::1.58496250072
+process to build::1.58496250072
+solid circle method::1.58496250072
+lowers the computed::1.58496250072
+tags are categorized::1.58496250072
+number of elements::1.58496250072
+receiving the request::1.58496250072
+propose the deb::1.58496250072
+effectively filter out::1.58496250072
+locating an object::1.58496250072
+mechanisms for wireless::1.58496250072
+number of tags::1.58496250072
+deployed has two::1.58496250072
+tags at designated::1.58496250072
+techniques and systems::1.58496250072
+instruments from zhejiang::1.58496250072
+passes for computing::1.58496250072
+reach desirable localization::1.58496250072
+reader uses power::1.58496250072
+placement of reference::1.58496250072
+fewer compensated tags::1.58496250072
+determine the position::1.58496250072
+rfid reader dramatically::1.58496250072
+mapping and localization::1.58496250072
+sphere that partitions::1.58496250072
+chip is designed::1.58496250072
+including an alr-9900::1.58496250072
+granularity and high::1.58496250072
+rfid reader mounted::1.58496250072
+dynamic channel conditions::1.58496250072
+result under edeb::1.58496250072
+require multiple power::1.58496250072
+grant number cns::1.58496250072
+calculation of coordinates::1.58496250072
+target located close::1.58496250072
+relies on distance::1.58496250072
+initial setup cost::1.58496250072
+applicable in practice::1.58496250072
+employs a set::1.58496250072
+committee on distributed::1.58496250072
+progressively reach desirable::1.58496250072
+set of active::1.58496250072
+pinpointing the target::1.58496250072
+accumulated tag responses::1.58496250072
+expensive range-based approaches::1.58496250072
+improve the accuracy::1.58496250072
+receiving interrogation signals::1.58496250072
+applications and techniques::1.58496250072
+compensation process repeats::1.58496250072
+view of reference::1.58496250072
+employed to find::1.58496250072
+faster in coordinate::1.58496250072
+techniques are applicable::1.58496250072
+tags are virtual::1.58496250072
+array with multiple::1.58496250072
+exhibit higher errors::1.58496250072
+supplies required power::1.58496250072
+selecting reference tags::1.58496250072
+evaluate our proposed::1.58496250072
+embedded in smart::1.58496250072
+relies on two::1.58496250072
+handle wall adversary::1.58496250072
+sphere radius amount::1.58496250072
+obtained at location::1.58496250072
+depends on two::1.58496250072
+longer operating range::1.58496250072
+reader antenna suffers::1.58496250072
+confirmed in figs::1.58496250072
+false negative responses::1.58496250072
+wireless signal propagation::1.58496250072
+directly the spherical::1.58496250072
+power to activate::1.58496250072
+outstanding paper award::1.58496250072
+information of activated::1.58496250072
+area of reference::1.58496250072
+localization schemes avoid::1.58496250072
+reader to calculate::1.58496250072
+inexpensive target objects::1.58496250072
+carried by mobile::1.58496250072
+search is employed::1.58496250072
+jullawadee @ gmail.com::1.58496250072
+foundation distinguished professor::1.58496250072
+larger doi results::1.58496250072
+minimize error objective::1.58496250072
+due to complex::1.58496250072
+scj1 is larger::1.58496250072
+including the doi::1.58496250072
+error is defined::1.58496250072
+engineering and phd::1.58496250072
+explored for wide::1.58496250072
+setup is shown::1.58496250072
+view of current::1.58496250072
+objects and speed::1.58496250072
+minimizes the total::1.58496250072
+flexible in reference::1.58496250072
+xinit ; yinit::1.58496250072
+superimposed transmission range::1.58496250072
+positive and false::1.58496250072
+shrunk to exclude::1.58496250072
+ieee fifth workshop::1.58496250072
+estimation for mobile::1.58496250072
+required long backscatter::1.58496250072
+pinpoint an object::1.58496250072
+dis or raf::1.58496250072
+schemes in contrast::1.58496250072
+earlier localization scheme::1.58496250072
+schemes for large::1.58496250072
+propose tag compensation::1.58496250072
+technique localizes passive::1.58496250072
+situations with pronounced::1.58496250072
+characterize deb accuracy::1.58496250072
+fixed power level::1.58496250072
+tags by utilizing::1.58496250072
+rfid reader transmits::1.58496250072
+compare the simulation::1.58496250072
+wireless indoor positioning::1.58496250072
+tag bearing estimation::1.58496250072
+antenna with four::1.58496250072
+deploys a set::1.58496250072
+varying signal attenuation::1.58496250072
+represented by dashed::1.58496250072
+integrated heterogeneous wireless::1.58496250072
+stored either inside::1.58496250072
+effect of doi::1.58496250072
+show the superimposed::1.58496250072
+reader is situated::1.58496250072
+indoor positioning techniques::1.58496250072
+coordinates exhibit higher::1.58496250072
+planes under nem::1.58496250072
+refinement process repeats::1.58496250072
+two raf positioning::1.58496250072
+responses of nearby::1.58496250072
+geographic information systems::1.58496250072
+false positive reads::1.58496250072
+coordinates is based::1.58496250072
+security and wireless::1.58496250072
+self-configurable positioning mechanism::1.58496250072
+perfect sphere centered::1.58496250072
+algorithms for reception::1.58496250072
+points distributed uniformly::1.58496250072
+shown in section::1.58496250072
+rfid systems exhibits::1.58496250072
+suitable transmission power::1.58496250072
+paper is organized::1.58496250072
+3.3.1 localization system::1.58496250072
+coordinates of reader::1.58496250072
+fixed and suitable::1.58496250072
+significant multipath fading::1.58496250072
+accuracy improvement leads::1.58496250072
+interests include radio::1.58496250072
+robots with rfid::1.58496250072
+ieeecs log number::1.58496250072
+hexahedron to enhance::1.58496250072
+environments and dynamic::1.58496250072
+inside the interrogation::1.58496250072
+based on reception::1.58496250072
+technology can effectively::1.58496250072
+idea of localization::1.58496250072
+approach for accuracy::1.58496250072
+impact of target::1.58496250072
+rfid tag localization::1.58496250072
+fairly low cost::1.58496250072
+mobile robot selflocalization::1.58496250072
+vary only marginally::1.58496250072
+gained widespread adoption::1.58496250072
+agents using rfid-enabled::1.58496250072
+sphere surface progressively::1.58496250072
+empty cells including::1.58496250072
+security and safety::1.58496250072
+robot for navigation::1.58496250072
+find a suitable::1.58496250072
+stated in section::1.58496250072
+offers limited alleviation::1.58496250072
+floor are easier::1.58496250072
+computing the reader::1.58496250072
+determining the rfid::1.58496250072
+miss tags inside::1.58496250072
+deployed by default::1.58496250072
+zmin rinit max::1.58496250072
+readers signal transmission::1.58496250072
+alr-9900 rfid reader::1.58496250072
+j1  srj1::1.58496250072
+digital object identifier::1.58496250072
+tag compensation lowers::1.58496250072
+preprocessing activated tags::1.58496250072
+representing accuracy improvement::1.58496250072
+scheme is employed::1.58496250072
+gains and path::1.58496250072
+range per unit::1.58496250072
+wireless and sensor::1.58496250072
+deb determines directly::1.58496250072
+conference on computer::1.58496250072
+finding the target::1.58496250072
+virtual tags derived::1.58496250072
+sphere are illustrated::1.58496250072
+nem schemes marked::1.58496250072
+discuss in section::1.58496250072
+antenna array deployed::1.58496250072
+activate nearby tags::1.58496250072
+passive tag localization::1.58496250072
+wsn also perform::1.58496250072
+results are based::1.58496250072
+earlier nem counterpart::1.58496250072
+receives the responses::1.58496250072
+enable a longer::1.58496250072
+examining the number::1.58496250072
+irregular signal pattern::1.58496250072
+localization of rfid::1.58496250072
+experiments have revealed::1.58496250072
+robot to scan::1.58496250072
+coordinates of target::1.58496250072
+yield smaller errors::1.58496250072
+pnpx x pnpy::1.58496250072
+degree in physics::1.58496250072
+process are small::1.58496250072
+preceding two cases::1.58496250072
+sphere best covering::1.58496250072
+signifying that scj::1.58496250072
+rectangular marking hexahedron::1.58496250072
+preprocessing tag responses::1.58496250072
+cost while achieving::1.58496250072
+active scheme aiming::1.58496250072
+choosing reference tags::1.58496250072
+aiming to determine::1.58496250072
+sphere and nonactivated::1.58496250072
+tags by iterative::1.58496250072
+deb-based rfid positioning::1.58496250072
+space for delay-insensitive::1.58496250072
+array at hand::1.58496250072
+proposed scheme aims::1.58496250072
+j1 > lj1::1.58496250072
+false positive tags::1.58496250072
+activated tags closer::1.58496250072
+tags are marked::1.58496250072
+elements are shown::1.58496250072
+obtained by minimizing::1.58496250072
+journal of information::1.58496250072
+backscatter responses emitted::1.58496250072
+robotics and automation::1.58496250072
+distance estimation altogether::1.58496250072
+walls were nonexisting::1.58496250072
+random node placement::1.58496250072
+circles indicate activated::1.58496250072
+enhance the accuracy::1.58496250072
+range per power::1.58496250072
+calls for preprocessing::1.58496250072
+affects achievable accuracy::1.58496250072
+smartly outperforms nem::1.58496250072
+review of rfid::1.58496250072
+situations where large::1.58496250072
+aiming to locate::1.58496250072
+target is close::1.58496250072
+hexahedron activates part::1.58496250072
+employing ultrasonic technology::1.58496250072
+two and four::1.58496250072
+enhancement process applied::1.58496250072
+aiming to pinpoint::1.58496250072
+locating the target::1.58496250072
+reader moves closer::1.58496250072
+considered and contrasted::1.58496250072
+exploit multiple antennas::1.58496250072
+exist to block::1.58496250072
+chosen activated tags::1.58496250072
+scheme the proposed::1.58496250072
+current research interest::1.58496250072
+placement and irregular::1.58496250072
+include radio frequency::1.58496250072
+srj1 < lij1::1.58496250072
+unfilled circles inside::1.58496250072
+communication range recognition::1.58496250072
+investigate the effectiveness::1.58496250072
+edeb is applicable::1.58496250072
+maximum transmission range::1.58496250072
+effects commonly existing::1.58496250072
+j1  i2nfj1::1.58496250072
+calculation is based::1.58496250072
+lij  l^ij::1.58496250072
+refined sphere radius::1.58496250072
+utilizes a small::1.58496250072
+low-cost antenna array::1.58496250072
+degree in computer::1.58496250072
+reduce the negative::1.58496250072
+results under deb::1.58496250072
+errors of deb::1.58496250072
+pursue the masters::1.58496250072
+note that maneesilp::1.58496250072
+tracking inexpensive target::1.58496250072
+j1 and misj1::1.58496250072
+problem of rfid::1.58496250072
+surface are located::1.58496250072
+denoted by lij::1.58496250072
+desired accuracy requirement::1.58496250072
+emitted from activated::1.58496250072
+raf 3d localization::1.58496250072
+object with reference::1.58496250072
+note that edeb::1.58496250072
+calculation is fast::1.58496250072
+estimates the location::1.58496250072
+active scheme discussed::1.58496250072
+developed by employing::1.58496250072
+ieee fourth ann::1.58496250072
+aiming to account::1.58496250072
+meet the desired::1.58496250072
+university of illinois::1.58496250072
+enhance location information::1.58496250072
+antenna is situated::1.58496250072
+reference tags inside::1.58496250072
+tracking active tag::1.58496250072
+experimental scenarios considered::1.58496250072
+minimizing the distance::1.58496250072
+tag localization schemes::1.58496250072
+rfid-based 3-d positioning::1.58496250072
+carrying a portable::1.58496250072
+reader also receives::1.58496250072
+approaches toward choosing::1.58496250072
+abundant interrogated signals::1.58496250072
+edeb was introduced::1.58496250072
+reader rotation offers::1.58496250072
+dictate the initial::1.58496250072
+ieee fifth ann::1.58496250072
+rotation offers limited::1.58496250072
+j1 where xj1::1.58496250072
+equip portable electronic::1.58496250072
+work was delivered::1.58496250072
+fill in holes::1.58496250072
+vary the values::1.58496250072
+acm intl conf::1.58496250072
+state of louisiana::1.58496250072
+computer for coordinate::1.58496250072
+calculation the top::1.58496250072
+positive distance values::1.58496250072
+active rfid calibration::1.58496250072
+localization is illustrated::1.58496250072
+robots and systems::1.58496250072
+reference tags activated::1.58496250072
+signal strength information::1.58496250072
+antennas transmission power::1.58496250072
+readers interrogation signal::1.58496250072
+computed coordinates exhibit::1.58496250072
+worst scenario considered::1.58496250072
+distance variation function::1.58496250072
+board of journal::1.58496250072
+lower refined distance::1.58496250072
+coordinate error approaches::1.58496250072
+quadrant by rotating::1.58496250072
+employs the rfid::1.58496250072
+aiming to guide::1.58496250072
+inside a building::1.58496250072
+engineering from kasetsart::1.58496250072
+difference from tags::1.58496250072
+emulated the effect::1.58496250072
+expensive than earlier::1.58496250072
+target is moved::1.58496250072
+sensing technology based::1.58496250072
+aims to minimize::1.58496250072
+illustrates the actual::1.58496250072
+distance is smaller::1.58496250072
+deb to enjoy::1.58496250072
+coordination system based::1.58496250072
+optiplex gx745 desktop::1.58496250072
+refine them progressively::1.58496250072
+refinement usually completes::1.58496250072
+rfid signaling scheme::1.58496250072
+based on received::1.58496250072
+reader and aln-9540::1.58496250072
+depicted in figs::1.58496250072
+square ceiling board::1.58496250072
+detecting its nearby::1.58496250072
+iterations under deb::1.58496250072
+resulting in accuracy::1.58496250072
+sized rfid gear::1.58496250072
+description the localization::1.58496250072
+method using rfid::1.58496250072
+complexity of localization::1.58496250072
+facilitate information gathering::1.58496250072
+form a sphere::1.58496250072
+fast search methods::1.58496250072
+numbers of grid::1.58496250072
+include the tag::1.58496250072
+exist misclassified tags::1.58496250072
+tracking in containers::1.58496250072
+bounds of readers::1.58496250072
+distributed computing systems::1.58496250072
+communication in rfid::1.58496250072
+emulate an antenna::1.58496250072
+radius adjustment process::1.58496250072
+sample points distributed::1.58496250072
+minimize the effect::1.58496250072
+aid in pinpointing::1.58496250072
+sphere is enlarged::1.58496250072
+estimate the distance::1.58496250072
+reference tag deployment::1.58496250072
+false negative tags::1.58496250072
+ymax  ymin::1.58496250072
+calculation are studied::1.58496250072
+study this problem::1.58496250072
+exhibits low reliability::1.58496250072
+utilizing the accumulated::1.58496250072
+rfid tag passes::1.58496250072
+supported in part::1.58496250072
+depict the intersection::1.58496250072
+proposed 3d rfid::1.58496250072
+virtually anywhere inside::1.58496250072
+method is employed::1.58496250072
+inside the space::1.58496250072
+passive tag possesses::1.58496250072
+compensation process aims::1.58496250072
+computing the target::1.58496250072
+varying radiation patterns::1.58496250072
+additional pantilt unit::1.58496250072
+utilizing the characteristic::1.58496250072
+accurate target coordinates::1.58496250072
+yielding the estimated::1.58496250072
+signal transmission range::1.58496250072
+reader situated inside::1.58496250072
+determined by averaging::1.58496250072
+compensate the irregular::1.58496250072
+tags are reachable::1.58496250072
+tandem with widespread::1.58496250072
+straightforward geometric calculation::1.58496250072
+enhance localization accuracy::1.58496250072
+depicted as positive::1.58496250072
+chart of aln-9540::1.58496250072
+receive the response::1.58496250072
+rfid tag location::1.58496250072
+identification schemes versus::1.58496250072
+testbed experimental results::1.58496250072
+compensation process finishes::1.58496250072
+inside the tags::1.58496250072
+define a parameter::1.58496250072
+standard interrogation range::1.58496250072
+separate external power::1.58496250072
+sphere in iteration::1.58496250072
+decision boundary optimization::1.58496250072
+fewer reference tags::1.58496250072
+i2nfj1 li j1::1.58496250072
+localizes passive rfid::1.58496250072
+technology to provide::1.58496250072
+routing and facilitate::1.58496250072
+state-of-the-art rfid technology::1.58496250072
+cricket location-support system::1.58496250072
+royal thai government::1.58496250072
+reception phase difference::1.58496250072
+pronounced localization inaccuracy::1.58496250072
+caused by heavier::1.58496250072
+axis and nat::1.58496250072
+reference tags involved::1.58496250072
+increase of doi::1.58496250072
+propagation for rfid::1.58496250072
+technologys alr-9900 reader::1.58496250072
+nat nat nat::1.58496250072
+current rfid reader::1.58496250072
+recommended for acceptance::1.58496250072
+fact that readers::1.58496250072
+deb outperforms nem::1.58496250072
+calculation is high::1.58496250072
+deemed advantageous due::1.58496250072
+target reader antenna::1.58496250072
+rfid tag bearing::1.58496250072
+small filled circles::1.58496250072
+coordinate is obtained::1.58496250072
+designed to equip::1.58496250072
+denotes the result::1.58496250072
+initial derived values::1.58496250072
+reference tags yield::1.58496250072
+degrees of false::1.58496250072
+fiy or fiz::1.58496250072
+multi-robot coordination system::1.58496250072
+side or corner::1.58496250072
+refinement in deb::1.58496250072
+10th international conference::1.58496250072
+robot who wears::1.58496250072
+highperformance computer systems::1.58496250072
+jullawadee maneesilp received::1.58496250072
+distance difference due::1.58496250072
+determine the coordinates::1.58496250072
+reader are determined::1.58496250072
+tags in nfj1::1.58496250072
+accuracy of reader::1.58496250072
+nonactivated ones inside::1.58496250072
+tag is misclassified::1.58496250072
+technique often suffers::1.58496250072
+larger than srj1::1.58496250072
+locations as references::1.58496250072
+presented in sections::1.58496250072
+aln-9540 squiggle inlay::1.58496250072
+mechanism for multihop::1.58496250072
+rfid system consists::1.58496250072
+contrasted two rfid-based::1.58496250072
+execution time grows::1.58496250072
+report uw cse::1.58496250072
+areas of network::1.58496250072
+radiation elements result::1.58496250072
+reduced ownership costs::1.58496250072
+nem carries out::1.58496250072
+estimated by averaging::1.58496250072
+deb smartly outperforms::1.58496250072
+yielding more accurate::1.58496250072
+squiggle passive tags::1.58496250072
+warehouse or workshop::1.58496250072
+method for function::1.58496250072
+top of deb::1.58496250072
+acknowledgments this work::1.58496250072
+aimed to handle::1.58496250072
+3.3.3 coordinates calculation::1.58496250072
+navigation of mobile::1.58496250072
+request for locating::1.58496250072
+gain and multipath::1.58496250072
+reduce misclassified tags::1.58496250072
+irregular antenna gains::1.58496250072
+elements yield smaller::1.58496250072
+yield severely distorted::1.58496250072
+increases the system::1.58496250072
+orientation were aggregated::1.58496250072
+run to control::1.58496250072
+transactions on parallel::1.58496250072
+refinement is guided::1.58496250072
+nelder-mead simplex optimization::1.58496250072
+schemes are raf::1.58496250072
+show the impact::1.58496250072
+employ reference points::1.58496250072
+simulated a hexahedron::1.58496250072
+illinois at urbana-champaign::1.58496250072
+location sensing technology::1.58496250072
+thai government scholarship::1.58496250072
+set of tags::1.58496250072
+method to minimize::1.58496250072
+enterprise rfid reader::1.58496250072
+equals  j1::1.58496250072
+rfid reader moves::1.58496250072
+radiation or restrictive::1.58496250072
+planes but virtually::1.58496250072
+sets of experimental::1.58496250072
+reception phase calculation::1.58496250072
+deal with doi::1.58496250072
+work was supported::1.58496250072
+general wireless networks::1.58496250072
+rectification if j1::1.58496250072
+achieve high accuracy::1.58496250072
+exhibiting an error::1.58496250072
+reader walks close::1.58496250072
+calculation upon receiving::1.58496250072
+deploying rfid tags::1.58496250072
+schemes for indoor::1.58496250072
+coordinate calculation starts::1.58496250072
+denote the set::1.58496250072
+board of regents::1.58496250072
+tags better construct::1.58496250072
+backscatter modulated signals::1.58496250072
+types of misclassified::1.58496250072
+parameters of interest::1.58496250072
+complexity of algorithms::1.58496250072
+localization jullawadee maneesilp::1.58496250072
+defined sphere calculated::1.58496250072
+portable electronic devices::1.58496250072
+difficult to perfectly::1.58496250072
+small unfilled circles::1.58496250072
+tags in iteration::1.58496250072
+histogram of activated::1.58496250072
+reader transmits multiple::1.58496250072
+obtain the results::1.58496250072
+optimized scheme discussed::1.58496250072
+radio propagation irregularity::1.58496250072
+achieve better positioning::1.58496250072
+range-free 3d localization::1.58496250072
+negative distance values::1.58496250072
+edeb is developed::1.58496250072
+nonactivated tags located::1.58496250072
+received and demodulated::1.58496250072
+employing rfid gear::1.58496250072
+presented in fig::1.58496250072
+radio range estimation::1.58496250072
+process may repeat::1.58496250072
+schemes depend solely::1.58496250072
+guarantee convergence quickly::1.58496250072
+estimated target position::1.58496250072
+aims to rectify::1.58496250072
+flexible in deb::1.58496250072
+denote the coordinates::1.58496250072
+tiny in size::1.58496250072
+introduced in section::1.58496250072
+passive tags adopted::1.58496250072
+rfid-enabled space partitions::1.58496250072
+first builds two::1.58496250072
+control the reader::1.58496250072
+leading to unexpected::1.58496250072
+nem first builds::1.58496250072
+chongwang88 @ gmail.com::1.58496250072
+aims to locate::1.58496250072
+involving other devices::1.58496250072
+proposed active scheme::1.58496250072
+enlarged or shrunk::1.58496250072
+number is larger::1.58496250072
+suitable for tracking::1.58496250072
+unit for experimental::1.58496250072
+accuracy under deb::1.58496250072
+tags with respect::1.58496250072
+earlier nelder-mead localization::1.58496250072
+accuracy enhancement process::1.58496250072
+cost is high::1.58496250072
+found to pinpoint::1.58496250072
+calculated errors equal::1.58496250072
+scheme is readily::1.58496250072
+made very tiny::1.58496250072
+step without rotation::1.58496250072
+cse # 2000-02-02::1.58496250072
+location identification based::1.58496250072
+two big circles::1.58496250072
+rising interferences caused::1.58496250072
+virtual ones employed::1.58496250072
+antenna has coverage::1.58496250072
+buildings with metal::1.58496250072
+sphere and misclassified::1.58496250072
+limit the error::1.58496250072
+battery to enable::1.58496250072
+published by academia::1.58496250072
+tag coordinate calculation::1.58496250072
+deb scheme works::1.58496250072
+localization and positioning::1.58496250072
+rfid reader walks::1.58496250072
+incorporated to effectively::1.58496250072
+system installation cost::1.58496250072
+severe wall advisory::1.58496250072
+raf localization approaches::1.58496250072
+shown to bring::1.58496250072
+inexpensive electronic microchip::1.58496250072
+hexahedron is filled::1.58496250072
+dictate the accuracy::1.58496250072
+four radiation elements::1.58496250072
+calculate the distance::1.58496250072
+described in sequence::1.58496250072
+misclassified tags fall::1.58496250072
+locating rfid tags::1.58496250072
+power level granularity::1.58496250072
+deployed as reference::1.58496250072
+indoor rfid applications::1.58496250072
+deb scheme enjoys::1.58496250072
+self-configurable positioning technique::1.58496250072
+higher errors due::1.58496250072
+construct a sphere::1.58496250072
+show the errors::1.58496250072
+versus the number::1.58496250072
+locating active tags::1.58496250072
+mobile robot localization::1.58496250072
+localization without involving::1.58496250072
+noticeably affect accuracy::1.58496250072
+chong wang received::1.58496250072
+detailed in section::1.58496250072
+requires two rounds::1.58496250072
+doi on accuracy::1.58496250072
+achieving an error::1.58496250072
+provide location information::1.58496250072
+object location system::1.58496250072
+referring to j1::1.58496250072
+rfid tag attached::1.58496250072
+possesses a coupling::1.58496250072
+three-dimensional positioning scheme::1.58496250072
+range-free localization schemes::1.58496250072
+experiments were done::1.58496250072
+applicable to situations::1.58496250072
+number of reference::1.58496250072
+types of readers::1.58496250072
+bring the error::1.58496250072
+active scheme employs::1.58496250072
+multihop wireless networks::1.58496250072
+active schemes outperform::1.58496250072
+chips are popularly::1.58496250072
+simplified system models::1.58496250072
+srj1 be enlarged::1.58496250072
+actual transmission range::1.58496250072
+readers interrogation signals::1.58496250072
+discusses related work::1.58496250072
+improving location estimation::1.58496250072
+propose two rfid-based::1.58496250072
+passive scheme described::1.58496250072
+reader localization based::1.58496250072
+evaluating the accuracy::1.58496250072
+results by simulations::1.58496250072
+indoor location sensing::1.58496250072
+multi-hop wireless networks::1.58496250072
+smaller execution times::1.58496250072
+concludes the paper::1.58496250072
+enlarged to include::1.58496250072
+desirable localization accuracy::1.58496250072
+circularly polarized antenna::1.58496250072
+four antenna arrays::1.58496250072
+11c and 11d::1.58496250072
+floor planes separately::1.58496250072
+minimizing the error::1.58496250072
+finding the radius::1.58496250072
+counts on tags::1.58496250072
+error to roughly::1.58496250072
+sphere that models::1.58496250072
+schemes are effective::1.58496250072
+capable of localizing::1.58496250072
+room are derived::1.58496250072
+localization of readers::1.58496250072
+unreliable signal transmission::1.58496250072
+index terms3d space::1.58496250072
+impact of doi::1.58496250072
+reference node density::1.58496250072
+sphere are nonactivated::1.58496250072
+sphere to arrive::1.58496250072
+applied for security::1.58496250072
+hinder signal propagation::1.58496250072
+sphere center accurately::1.58496250072
+positions to compute::1.58496250072
+nem improve::1.0
+squiggle inlay::1.0
+scj scj1::1.0
+16th acm::1.0
+negative distances::1.0
+deb determines::1.0
+possibly due::1.0
+horizontal planes::1.0
+first introduced::1.0
+exhibits low::1.0
+3-d positioning::1.0
+typically taking::1.0
+perfect sphere::1.0
+setup cost::1.0
+reader locations::1.0
+prior iteration::1.0
+effectively utilize::1.0
+maximum variation::1.0
+assumptions greatly::1.0
+facilitate information::1.0
+desired accuracy::1.0
+scenarios considered::1.0
+development trend::1.0
+responses emitted::1.0
+estimation due::1.0
+rectangular marking::1.0
+handle wall::1.0
+2,560 sample::1.0
+challenges outlined::1.0
+locating rfid::1.0
+computed coordinates::1.0
+multiple transmission::1.0
+tedious power::1.0
+minimum requirement::1.0
+readily applicable::1.0
+significant multipath::1.0
+schemes versus::1.0
+variation function::1.0
+collision problem::1.0
+send responses::1.0
+lower accuracy::1.0
+moves closer::1.0
+nem calls::1.0
+elements yield::1.0
+estimated target::1.0
+research interests::1.0
+positioning rfid::1.0
+initial derived::1.0
+actual coordinates::1.0
+enhance accuracy::1.0
+equip portable::1.0
+reader scanning::1.0
+improvement leads::1.0
+channel conditions::1.0
+chosen methods::1.0
+identification schemes::1.0
+machine scheme::1.0
+separate passes::1.0
+alr-9900 rfid::1.0
+involved refinement::1.0
+readers possibly::1.0
+filter out::1.0
+coordinates progressively::1.0
+reference ieeecs::1.0
+defined similarly::1.0
+negligible amounts::1.0
+two accuracy::1.0
+investigated extensively::1.0
+approaches largely::1.0
+array deployed::1.0
+fewer tags::1.0
+paper pursues::1.0
+adjacent reference::1.0
+improve coordinate::1.0
+tag coordinate::1.0
+technique localizes::1.0
+circles inside::1.0
+finer increase::1.0
+partial circles::1.0
+3.3.1 localization::1.0
+bearing estimation::1.0
+miss tags::1.0
+dashed vectors::1.0
+global localization::1.0
+discuss earlier::1.0
+optimized method::1.0
+alr-9900 enterprise::1.0
+first builds::1.0
+separate external::1.0
+tags located::1.0
+errors equal::1.0
+points distributed::1.0
+rfid-based localization::1.0
+positive reads::1.0
+highest accuracy::1.0
+hexahedron corner::1.0
+general wireless::1.0
+send e-mail::1.0
+reader transmits::1.0
+indoor positioning::1.0
+higher price::1.0
+four antennas::1.0
+larger doi::1.0
+spherical models::1.0
+earlier localization::1.0
+local coordinate::1.0
+stationary objects::1.0
+optimization method::1.0
+research spans::1.0
+experimental study::1.0
+10,000 deployed::1.0
+absolute difference::1.0
+dynamic active::1.0
+nem schemes::1.0
+localizes passive::1.0
+scale sensor::1.0
+rfid calibration::1.0
+schemes avoid::1.0
+object location::1.0
+fundamental frequencies::1.0
+embedded rfid::1.0
+tags activated::1.0
+positive vectors::1.0
+negative vectors::1.0
+geometric calculation::1.0
+hexahedron-shaped space::1.0
+two cases::1.0
+computer systems::1.0
+rfid signaling::1.0
+low-cost antenna::1.0
+notoriously inaccurate::1.0
+ultrasonic technology::1.0
+edeb brings::1.0
+sized rfid::1.0
+three-dimensional passive::1.0
+technological development::1.0
+integrated heterogeneous::1.0
+computer engineering::1.0
+multiple power::1.0
+communication range::1.0
+rectified progressively::1.0
+metal shelves::1.0
+irregular responses::1.0
+discusses related::1.0
+coverage irregularity::1.0
+large objects::1.0
+abstractthis paper::1.0
+doi signifies::1.0
+larger errors::1.0
+errors vary::1.0
+information gathering::1.0
+varying signal::1.0
+deb accuracy::1.0
+wireless indoor::1.0
+actual reader::1.0
+individual carrying::1.0
+predetermined arbitrary::1.0
+mobile readers::1.0
+function minimization::1.0
+walks close::1.0
+highperformance computer::1.0
+localization based::1.0
+computing systems::1.0
+doi 0:03::1.0
+earlier counterpart::1.0
+approximate distances::1.0
+technology based::1.0
+technique employs::1.0
+ieee conf::1.0
+error function::1.0
+convergence quickly::1.0
+optimization effectively::1.0
+expected technological::1.0
+unfilled circles::1.0
+search methods::1.0
+information techniques::1.0
+moving target::1.0
+estimated distances::1.0
+indoor location::1.0
+two raf::1.0
+zmin rinit::1.0
+computation times::1.0
+challenges arise::1.0
+70504-4330 e-mail::1.0
+coordinates exhibit::1.0
+iterative procedure::1.0
+3.2.2 tag::1.0
+readers signal::1.0
+delay-tolerant networks::1.0
+achieving high::1.0
+deb aims::1.0
+scientific instruments::1.0
+affects achievable::1.0
+prearranged tags::1.0
+estimated center::1.0
+interferences caused::1.0
+rising interferences::1.0
+optimized scheme::1.0
+pervasive wireless::1.0
+low accuracy::1.0
+position denoted::1.0
+ieeecs log::1.0
+mobile person::1.0
+installation cost::1.0
+preceding two::1.0
+binary search::1.0
+heavily affected::1.0
+terms3d space::1.0
+read reliably::1.0
+number cns::1.0
+indoor rfid::1.0
+cents apiece::1.0
+signaling scheme::1.0
+proximity information::1.0
+quickly locating::1.0
+guides reader::1.0
+indications received::1.0
+errors rise::1.0
+locating tags::1.0
+polarized antenna::1.0
+coordinate error::1.0
+reader situated::1.0
+first discuss::1.0
+chosen set::1.0
+web-based utility::1.0
+worst scenario::1.0
+tag reads::1.0
+desirable localization::1.0
+entire space::1.0
+chosen tags::1.0
+warehouse management::1.0
+srj1 shrunk::1.0
+ymin zmax::1.0
+error amounts::1.0
+localization relied::1.0
+situated inside::1.0
+electronic microchip::1.0
+tags closer::1.0
+reference origin::1.0
+reader operating::1.0
+tag enlarges::1.0
+number tc-2011-07-0504::1.0
+emits backscatter::1.0
+superimposed transmission::1.0
+transmits multiple::1.0
+designated locations::1.0
+information science::1.0
+strength information::1.0
+coordinates calculation::1.0
+reader chips::1.0
+testbed experimental::1.0
+center scj::1.0
+error versus::1.0
+dodging tedious::1.0
+m.j strzelezyk::1.0
+exhibiting accuracy::1.0
+realistic environment::1.0
+exploit multiple::1.0
+technical committee::1.0
+targets simultaneously::1.0
+earlier nelder-mead::1.0
+higher accuracy::1.0
+giving rise::1.0
+unlike earlier::1.0
+localization fig::1.0
+enterprise rfid::1.0
+pronounced localization::1.0
+additional devices::1.0
+calculation based::1.0
+power calibration::1.0
+target positions::1.0
+system consists::1.0
+random node::1.0
+tags adopted::1.0
+separates activated::1.0
+cricket location-support::1.0
+experimental data::1.0
+preset threshold::1.0
+percent improvement::1.0
+laptop takes::1.0
+dell optiplex::1.0
+misclassification degree::1.0
+electrical engineering::1.0
+cells including::1.0
+interests include::1.0
+accumulated tag::1.0
+depends solely::1.0
+gear rises::1.0
+reader coverage::1.0
+tracking tag::1.0
+identification based::1.0
+deploying rfid::1.0
+completely dominates::1.0
+upper plane::1.0
+proposed active::1.0
+linear search::1.0
+prior publication::1.0
+person carrying::1.0
+white box::1.0
+accuracy enhancement::1.0
+boosts localization::1.0
+preprocessing activated::1.0
+pervasive computing::1.0
+fault-tolerant computing::1.0
+grant number::1.0
+accuracy significantly::1.0
+squiggle passive::1.0
+utilizing rfid::1.0
+refined center::1.0
+sphere centered::1.0
+grid positions::1.0
+desktop machine::1.0
+ieee infocom::1.0
+chosen activated::1.0
+robot localization::1.0
+coupling element::1.0
+deb starts::1.0
+level granularity::1.0
+26th ieee::1.0
+fourth quadrant::1.0
+place inside::1.0
+required power::1.0
+system based::1.0
+exhibit higher::1.0
+severely distorted::1.0
+involving softwaredefined::1.0
+first raf::1.0
+determines directly::1.0
+hinder signal::1.0
+levels independent::1.0
+situations yield::1.0
+calculated coordinates::1.0
+solid vectors::1.0
+fewer virtual::1.0
+target tag.2::1.0
+modeled sphere::1.0
+computed errors::1.0
+propose two::1.0
+deb run::1.0
+detected reference::1.0
+positioning technology::1.0
+earlier work::1.0
+error approaches::1.0
+distorted shapes::1.0
+varying radiation::1.0
+repeated activation::1.0
+attenuation amounts::1.0
+bigger impact::1.0
+finer granularity::1.0
+ieee international::1.0
+tag possesses::1.0
+distinguished visitor::1.0
+system parameters::1.0
+negative activated::1.0
+sphere calculated::1.0
+calculation starts::1.0
+refined distance::1.0
+errors decrease::1.0
+smartly outperforms::1.0
+schemes outperform::1.0
+provide location::1.0
+information systems::1.0
+improving location::1.0
+supplies required::1.0
+doi impacts::1.0
+reference node::1.0
+high reader::1.0
+raised immediately::1.0
+scheme works::1.0
+signal ranges::1.0
+range-free schemes::1.0
+electronic devices::1.0
+internal battery::1.0
+decrease quickly::1.0
+conducted experiments::1.0
+energy losses::1.0
+enhancement process::1.0
+radio propagation::1.0
+solid center::1.0
+negative reference::1.0
+greatly simplify::1.0
+academia sinica::1.0
+actual transmission::1.0
+unreliable signal::1.0
+largest error::1.0
+hexahedron size::1.0
+tags fall::1.0
+radius adjustment::1.0
+heavier reflection::1.0
+range estimation::1.0
+plane first::1.0
+popularly embedded::1.0
+carries out::1.0
+readers carried::1.0
+out distance::1.0
+tags yield::1.0
+rise noticeably::1.0
+two dimensions::1.0
+doctoral degrees::1.0
+tag falls::1.0
+reduced sharply::1.0
+reader operates::1.0
+points equal::1.0
+achieve high::1.0
+irregular curve::1.0
+higher density::1.0
+larger size::1.0
+solid square::1.0
+alien rfid::1.0
+two rounds::1.0
+low power::1.0
+first range-free::1.0
+activate nearby::1.0
+index terms3d::1.0
+full border::1.0
+schemes depend::1.0
+small number::1.0
+system description::1.0
+thai government::1.0
+improve efficiency::1.0
+long backscatter::1.0
+similar step::1.0
+coordinates stored::1.0
+nem methods::1.0
+relative error::1.0
+small footprints::1.0
+supplemental devices::1.0
+four radiation::1.0
+3.3.3 coordinates::1.0
+landmarc estimates::1.0
+current rfid::1.0
+inexpensive electronic::1.0
+localization systems::1.0
+orientation chart::1.0
+yielding positive::1.0
+deb deb::1.0
+scheme described::1.0
+network security::1.0
+greatly lower::1.0
+center points::1.0
+distributed uniformly::1.0
+rfid-based 3-d::1.0
+long durability::1.0
+state university::1.0
+state-of-the-art rfid::1.0
+typical container::1.0
+required long::1.0
+deb depends::1.0
+log number::1.0
+localization references::1.0
+mobile wireless::1.0
+errors approaching::1.0
+out experiments::1.0
+multiple signals::1.0
+pan-tilt units::1.0
+shaped sphere::1.0
+reach desirable::1.0
+challenges summarized::1.0
+deb identification::1.0
+metal frames::1.0
+localization jullawadee::1.0
+inexpensive target::1.0
+distance difference::1.0
+gx745 desktop::1.0
+granularity completely::1.0
+largely fall::1.0
+materially affected::1.0
+target locations::1.0
+antenna arrays::1.0
+reader position::1.0
+achieve accuracy::1.0
+coarse granularity::1.0
+tag attached::1.0
+softwaredefined radio::1.0
+speed estimation::1.0
+optiplex gx745::1.0
+low reliability::1.0
+calculated errors::1.0
+suppress doi::1.0
+small unfilled::1.0
+complex environments::1.0
+determining scj::1.0
+deb minimizes::1.0
+positioning system::1.0
+readers start::1.0
+deb yields::1.0
+0:8 unit::1.0
+large number::1.0
+embedded tiny::1.0
+distance optimization::1.0
+effects commonly::1.0
+tags remains::1.0
+expensive method::1.0
+pan-tilt unit::1.0
+label inside::1.0
+10th international::1.0
+sphere radius::1.0
+tag information::1.0
+large scale::1.0
+heterogeneous wireless::1.0
+accurate target::1.0
+considerably hampering::1.0
+acm intl::1.0
+1:2 units::1.0
+space partitions::1.0
+rfid localization::1.0
+distinguished professor::1.0
+out extensive::1.0
+yield severely::1.0
+lower bounds::1.0
+gap widens::1.0
+important applications::1.0
+aggregated impact::1.0
+prompting investigation::1.0
+restrictive zone::1.0
+gathered information::1.0
+marking hexahedron::1.0
+location support::1.0
+offers limited::1.0
+lower costs::1.0
+initial coordinates::1.0
+problem quantitatively::1.0
+skyemodule m1-mini::1.0
+three-dimensional positioning::1.0
+reader employed::1.0
+nelder-mead simplex::1.0
+higher errors::1.0
+structured environment::1.0
+limited alleviation::1.0
+maneesilp received::1.0
+tracking inexpensive::1.0
+minimize error::1.0
+localizing rfid::1.0
+deformed circle::1.0
+prior work::1.0
+irregular coverage::1.0
+noticeably affect::1.0
+error drops::1.0
+mobile robots::1.0
+prohibitively expensive::1.0
+modulated signals::1.0
+developed out::1.0
+exploited recently::1.0
+locating active::1.0
+solid rectangle::1.0
+center accurately::1.0
+unexpected holes::1.0
+include radio::1.0
+requires two::1.0
+reduce misclassified::1.0
+mobile agents::1.0
+multi-robot coordination::1.0
+basic idea::1.0
+robot equipped::1.0
+deployed tags::1.0
+object approached::1.0
+intelligent robots::1.0
+simplex optimization::1.0
+low cost::1.0
+reader walks::1.0
+coupling unit::1.0
+reference readers::1.0
+chosen due::1.0
+ieee fourth::1.0
+circle formed::1.0
+edeb relies::1.0
+accurate coordinates::1.0
+gain importance::1.0
+previous counterpart::1.0
+two adjacent::1.0
+nelder-mead localization::1.0
+activated maneesilp::1.0
+srj1 i2nfj1::1.0
+dynamic channel::1.0
+technical report::1.0
+guide routing::1.0
+illustrative purpose::1.0
+circularly polarized::1.0
+insignificant impact::1.0
+raf localization::1.0
+improve accuracy::1.0
+out analyses::1.0
+government scholarship::1.0
+low costs::1.0
+cost-effective alternatives::1.0
+iterative refinement::1.0
+small sized::1.0
+mention earlier::1.0
+process applied::1.0
+propagation irregularity::1.0
+original x-axis::1.0
+strength-based radio::1.0
+detect tags::1.0
+employing rfid::1.0
+wang received::1.0
+tags marked::1.0
+computing complexity::1.0
+process aims::1.0
+affect accuracy::1.0
+lower plane::1.0
+system installation::1.0
+scheme employs::1.0
+widespread adoption::1.0
+tag localization::1.0
+sufficiently high::1.0
+asymmetric antenna::1.0
+small rectangles::1.0
+readers result::1.0
+scheme enjoys::1.0
+multi-hop wireless::1.0
+system models::1.0
+backscatter modulated::1.0
+irregular antenna::1.0
+simplified system::1.0
+enhancing localization::1.0
+positive reference::1.0
+two rfid-based::1.0
+target location::1.0
+schemes proposed::1.0
+low density::1.0
+small circle::1.0
+responding tags::1.0
+support vector::1.0
+doi results::1.0
+huge room::1.0
+vector machine::1.0
+tag bearing::1.0
+external power::1.0
+dangerous area::1.0
+coverage area::1.0
+fourth ann::1.0
+anisotropic sensor::1.0
+derived similarly::1.0
+target rfid::1.0
+deb smartly::1.0
+power source::1.0
+zhejiang university::1.0
+outer circle::1.0
+royal thai::1.0
+network technology::1.0
+weight due::1.0
+depend solely::1.0
+backscatter transmissions::1.0
+commonly existing::1.0
+reader chip::1.0
+stored data::1.0
+increases significantly::1.0
+career award::1.0
+accurate results::1.0
+assumed ideal::1.0
+radius equal::1.0
+smart phones::1.0
+rough location::1.0
+increased attention::1.0
+multihop wireless::1.0
+shipping container::1.0
+improvement techniques::1.0
+localization support::1.0
+negative distance::1.0
+boundary optimization::1.0
+node density::1.0
+obtaining reprints::1.0
+10x0 20h=10::1.0
+pursues rfid::1.0
+smaller errors::1.0
+workshop pervasive::1.0
+solid circle::1.0
+small space::1.0
+target localization::1.0
+stated earlier::1.0
+arbitrary planes::1.0
+professor award::1.0
+static environments::1.0
+iteratively determining::1.0
+longer computing::1.0
+coarse accuracy::1.0
+main contributions::1.0
+manuscript received::1.0
+hexahedronshaped spaces::1.0
+longest edge::1.0
+large hexahedron::1.0
+inaccurate due::1.0
+iteration process::1.0
+associate professor::1.0
+perfect circle::1.0
+rfid applications::1.0
+proposed passive::1.0
+cricket location::1.0
+positioning accuracy::1.0
+early version::1.0
+published online::1.0
+planes separately::1.0
+rendered path::1.0
+suitable transmission::1.0
+object located::1.0
+red box::1.0
+jullawadee maneesilp::1.0
+aln-9540::0.0
+four::0.0
+localized::0.0
+dell::0.0
+figs::0.0
+increasing::0.0
+reliably::0.0
+nian-feng::0.0
+china::0.0
+granularity::0.0
+rfid-enabled::0.0
+appropriately::0.0
+univ::0.0
+unit::0.0
+averaging::0.0
+brings::0.0
+hold::0.0
+pursue::0.0
+wang::0.0
+organized::0.0
+machine::0.0
+calculated positions::0.0
+minimizes::0.0
+types::0.0
+effective::0.0
+vary::0.0
+affect::0.0
+fit::0.0
+fiz::0.0
+fix::0.0
+fiy::0.0
+fig::0.0
+easier::0.0
+-axis::0.0
+effects::0.0
+simplified::0.0
+foundation::0.0
+estimate::0.0
+yic::0.0
+shelves::0.0
+unfilled::0.0
+xic::0.0
+similarly::0.0
+needed::0.0
+rectified::0.0
+iteration::0.0
+recommended::0.0
+transactions::0.0
+object::0.0
+simplify::0.0
+errors::0.0
+professor::0.0
+detectors::0.0
+0018-9340::0.0
+advisory::0.0
+topological::0.0
+localizing::0.0
+altogether::0.0
+gx745::0.0
+respond::0.0
+sensitivity::0.0
+radius::0.0
+result::0.0
+computer.org::0.0
+location-support::0.0
+readers::0.0
+source::0.0
+ann::0.0
+kovavisaruch::0.0
+employ::0.0
+backscatter::0.0
+characterize::0.0
+fairly::0.0
+ownership::0.0
+academia::0.0
+simulated::0.0
+rotated::0.0
+previous::0.0
+ideal::0.0
+hightower::0.0
+possibly::0.0
+location accuracy::0.0
+emits::0.0
+raised::0.0
+support::0.0
+width::0.0
+769-772::0.0
+inside::0.0
+devices::0.0
+exist::0.0
+values in calculating::0.0
+duron::0.0
+activated::0.0
+codes to evaluate::0.0
+chair::0.0
+activates::0.0
+fault-tolerant::0.0
+active 3d positioning::0.0
+insignificant::0.0
+optiplex::0.0
+current::0.0
+badge::0.0
+vectors::0.0
+commonly::0.0
+studies::0.0
+positive::0.0
+opposed::0.0
+rj1::0.0
+values::0.0
+monitoring::0.0
+divided::0.0
+absolute::0.0
+parameter::0.0
+applications::0.0
+explored::0.0
+improving::0.0
+revealed::0.0
+natural::0.0
+yielding::0.0
+quadrant::0.0
+zmax::0.0
+experiments::0.0
+multipath::0.0
+nsf::0.0
+quarter::0.0
+square::0.0
+revised::0.0
+163-169::0.0
+percom::0.0
+container::0.0
+investigation::0.0
+function is defined::0.0
+complicated::0.0
+iterative::0.0
+structured::0.0
+mobicom::0.0
+hekimian-williams::0.0
+20h=10::0.0
+odometers::0.0
+representing::0.0
+locations::0.0
+m1-mini::0.0
+quadrants::0.0
+fudan university::0.0
+infocom::0.0
+note::0.0
+aghajan::0.0
+invoked::0.0
+average::0.0
+review::0.0
+equipped::0.0
+16th::0.0
+borriello::0.0
+enjoys::0.0
+earlier and confirmed::0.0
+x2c::0.0
+enable::0.0
+formed::0.0
+observe::0.0
+single::0.0
+tags placed inside::0.0
+situation::0.0
+received backscatter signal::0.0
+technology::0.0
+binary::0.0
+degree change::0.0
+rfid::0.0
+edges::0.0
+hexahedron.1::0.0
+tracking::0.0
+costs::0.0
+scholarship::0.0
+rest::0.0
+89-96::0.0
+stationary::0.0
+dimensions::0.0
+scientific::0.0
+power::0.0
+technique is based::0.0
+acm::0.0
+rectification::0.0
+accumulated::0.0
+backscatter signal strength::0.0
+depicted as negative::0.0
+unreliable::0.0
+coordinate of sphere::0.0
+walks::0.0
+original::0.0
+scm::0.0
+scj::0.0
+caused::0.0
+range-based::0.0
+soi.19::0.0
+large::0.0
+small::0.0
+discriminated::0.0
+pass::0.0
+situated::0.0
+section::0.0
+microchip::0.0
+method::0.0
+contrast::0.0
+full::0.0
+sensing using active::0.0
+prior::0.0
+increased hardware::0.0
+sensors::0.0
+cacs::0.0
+science::0.0
+impacts::0.0
+stated::0.0
+axis::0.0
+information::0.0
+mapping::0.0
+plane::0.0
+l^ij::0.0
+fundamental::0.0
+embedded rfid reader::0.0
+distortion::0.0
+reader connects::0.0
+severely::0.0
+propose::0.0
+found::0.0
+reduce::0.0
+two components::0.0
+measurement::0.0
+operation::0.0
+carry out extensive::0.0
+research::0.0
+denoted::0.0
+localization::0.0
+exceeds a threshold::0.0
+rises::0.0
+positioning::0.0
+number::0.0
+introduction::0.0
+softwaredefined::0.0
+relies::0.0
+improving localization::0.0
+polarized::0.0
+determines::0.0
+determined::0.0
+find::0.0
+internal::0.0
+pantilt::0.0
+tags which send::0.0
+impact::0.0
+writes::0.0
+factor::0.0
+0:03::0.0
+progressive::0.0
+approaching::0.0
+set::0.0
+gathered::0.0
+improved::0.0
+agents::0.0
+desktop::0.0
+acceptance::0.0
+reliable::0.0
+technical::0.0
+optimization::0.0
+evaluating::0.0
+error::0.0
+vol::0.0
+reachable::0.0
+virtually::0.0
+survey::0.0
+alert::0.0
+viewing::0.0
+levels::0.0
+recent::0.0
+person::0.0
+arbitrary local coordinate::0.0
+signals::0.0
+location::0.0
+includes all activated::0.0
+communications::0.0
+yields::0.0
+methods::0.0
+technology corp::0.0
+regular transmission::0.0
+misclassification::0.0
+intl::0.0
+specifically::0.0
+considerably::0.0
+considerable::0.0
+apiece::0.0
+defined::0.0
+vertices::0.0
+diverse::0.0
+codes::0.0
+suffers from doi::0.0
+elements::0.0
+robots::0.0
+sides::0.0
+holes::0.0
+inaccuracy::0.0
+partial::0.0
+illustrates::0.0
+results::0.0
+existing::0.0
+illustrated::0.0
+centers::0.0
+send::0.0
+wears an rfid::0.0
+resources::0.0
+jise::0.0
+categories::0.0
+transmission::0.0
+fewer::0.0
+l2j::0.0
+video::0.0
+index::0.0
+3.2.1 localization system::0.0
+expressed::0.0
+fixed transmission::0.0
+rds::0.0
+receive::0.0
+resulting::0.0
+ieee acm trans::0.0
+involves::0.0
+carrying::0.0
+sharply::0.0
+process::0.0
+high::0.0
+intelligent::0.0
+npy::0.0
+npx::0.0
+npz::0.0
+realized::0.0
+robot::0.0
+element::0.0
+perfect::0.0
+chosen::0.0
+degrees::0.0
+communication::0.0
+outlined::0.0
+mitigated::0.0
+rotation::0.0
+sufficiently::0.0
+accounts::0.0
+doing::0.0
+society::0.0
+frequency::0.0
+static::0.0
+target accurately::0.0
+nonlinear optimization method::0.0
+circle method::0.0
+repeats::0.0
+rinit max::0.0
+manuscript::0.0
+system::0.0
+two1::0.0
+interests::0.0
+chong::0.0
+negatively::0.0
+false::0.0
+nfj1 and ij1::0.0
+depict::0.0
+mechanism::0.0
+accuracy::0.0
+device::0.0
+placement::0.0
+fact::0.0
+dbm::0.0
+bring::0.0
+3756-3761::0.0
+rough::0.0
+handle::0.0
+denotes the position::0.0
+two classes::0.0
+program is run::0.0
+2000-02-02::0.0
+powered::0.0
+trajectory::0.0
+utilizing::0.0
+louisiana::0.0
+fudan::0.0
+moved::0.0
+hexahedron-shaped::0.0
+side::0.0
+hardware::0.0
+digital::0.0
+software is run::0.0
+phd::0.0
+patterns::0.0
+rooms::0.0
+increased::0.0
+government::0.0
+increases::0.0
+indications::0.0
+choosing::0.0
+recognition::0.0
+avoid::0.0
+system is assumed::0.0
+selecting::0.0
+adversary::0.0
+gained::0.0
+software::0.0
+rectify::0.0
+alien squiggle::0.0
+spots::0.0
+selflocalization::0.0
+reveal that deb::0.0
+lowered::0.0
+m02::0.0
+convergence::0.0
+illustrative::0.0
+compute::0.0
+problem::0.0
+bearing::0.0
+denote::0.0
+border effects::0.0
+deb-based::0.0
+repeat::0.0
+footprints::0.0
+delay-insensitive::0.0
+91-102::0.0
+scheme for localization::0.0
+matlab::0.0
+summarized::0.0
+mehmood::0.0
+established::0.0
+simultaneously::0.0
+equals::0.0
+obtained::0.0
+study::0.0
+approaches::0.0
+modulated::0.0
+localizes::0.0
+total::0.0
+linearly::0.0
+negative::0.0
+award::0.0
+separates::0.0
+permits::0.0
+work::0.0
+dubbed::0.0
+naturally::0.0
+provide::0.0
+length::0.0
+earlier::0.0
+adio::0.0
+real-time applications::0.0
+misj1::0.0
+worst::0.0
+order::0.0
+versus::0.0
+affected::0.0
+result in considerable::0.0
+classified::0.0
+reasonable::0.0
+schemes::0.0
+network::0.0
+cameras::0.0
+standard::0.0
+detecting::0.0
+incorporated::0.0
+histograms::0.0
+electronic::0.0
+cartesian::0.0
+pinpointing::0.0
+enhancing::0.0
+target::0.0
+experiments to evaluate::0.0
+pervasive::0.0
+strength::0.0
+circles::0.0
+optimized::0.0
+involving::0.0
+phase::0.0
+calculated::0.0
+implementation::0.0
+rectangle::0.0
+yielded::0.0
+covering::0.0
+observed::0.0
+depends::0.0
+techniques::0.0
+terms::0.0
+radio ranges::0.0
+received::0.0
+receives::0.0
+exceeds::0.0
+strzelezyk::0.0
+i.e::0.0
+gx745 desktop machine::0.0
+covering the activated::0.0
+flexible::0.0
+applied::0.0
+conf::0.0
+confirmed::0.0
+patent::0.0
+avoids::0.0
+independent::0.0
+hand::0.0
+fill-in preprocess::0.0
+scenario::0.0
+ij1 equals::0.0
+photo::0.0
+passive::0.0
+board::0.0
+zinit::0.0
+receiving interrogation::0.0
+achieve desired positioning::0.0
+security::0.0
+kulik::0.0
+tags surrounded::0.0
+minimization::0.0
+bound::0.0
+form a perfect::0.0
+curves of tag::0.0
+lowest::0.0
+emulated::0.0
+widens::0.0
+responding::0.0
+maximum::0.0
+local coordinate system::0.0
+computing::0.0
+drop to negligible::0.0
+lowest power::0.0
+reception::0.0
+negative reads::0.0
+global::0.0
+rectangles::0.0
+zone::0.0
+compensate::0.0
+visualized::0.0
+presented::0.0
+java program::0.0
+edeb::0.0
+upper::0.0
+three-dimensional::0.0
+cost::0.0
+sensing technology::0.0
+outperforms nem consistantly::0.0
+considered nem scheme::0.0
+proposed 3d positioning::0.0
+change::0.0
+cos::0.0
+fbm::0.0
+3.2.1 localization::0.0
+granularity completely dominates::0.0
+marginally::0.0
+ibm::0.0
+trans::0.0
+chip::0.0
+refine::0.0
+discussion::0.0
+i2nfj1::0.0
+product::0.0
+ghz::0.0
+two adjacent reference::0.0
+typical::0.0
+including autonomous robot::0.0
+ieee::0.0
+deploy more reference::0.0
+rotations::0.0
+transmissions::0.0
+nov::0.0
+discuss::0.0
+drop::0.0
+significantly::0.0
+hongyi::0.0
+challenges::0.0
+shown::0.0
+space::0.0
+increase::0.0
+receiving::0.0
+shows::0.0
+1994-1998::0.0
+1994-1997::0.0
+approximate::0.0
+directly::0.0
+size::0.0
+cost-effective::0.0
+asymmetric::0.0
+thai::0.0
+reader is attached::0.0
+yi1::0.0
+distorted::0.0
+compensation is shown::0.0
+iterations are found::0.0
+online::0.0
+price::0.0
+requires no fill-in::0.0
+typically::0.0
+container or storage::0.0
+developed::0.0
+self-configurable::0.0
+reprints::0.0
+arrays::0.0
+article::0.0
+antenna range::0.0
+installation::0.0
+nearby::0.0
+overview::0.0
+inexpensively::0.0
+exploit::0.0
+number of power::0.0
+external::0.0
+outlined in section::0.0
+editorial::0.0
+demodulated::0.0
+orientation::0.0
+investigated::0.0
+floor::0.0
+zmax  zmin::0.0
+coordinate::0.0
+center and depicted::0.0
+speed::0.0
+improvement::0.0
+real::0.0
+read::0.0
+early::0.0
+execution::0.0
+recipient::0.0
+407-415::0.0
+roll::0.0
+benefit::0.0
+terms3d::0.0
+amounts are comparable::0.0
+10x0::0.0
+models::0.0
+comparison::0.0
+greatly::0.0
+multihop::0.0
+nem active::0.0
+reader mounted::0.0
+log::0.0
+area::0.0
+assumed::0.0
+start::0.0
+tags are put::0.0
+low::0.0
+degree in each step::0.0
+compensating::0.0
+target room::0.0
+embedded::0.0
+default::0.0
+quantitatively::0.0
+lower the total::0.0
+reliability::0.0
+moves::0.0
+antenna::0.0
+storage::0.0
+core2::0.0
+3-d::0.0
+51-62::0.0
+tags suffer::0.0
+employ an optimized::0.0
+coverage::0.0
+range-free::0.0
+building::0.0
+award number::0.0
+alleviation::0.0
+range-based approaches::0.0
+referring::0.0
+difference for rfid::0.0
+nodes::0.0
+enhancement::0.0
+acknowledgments::0.0
+losses::0.0
+amount::0.0
+requiring::0.0
+aimed::0.0
+value of doi::0.0
+takes::0.0
+number of radiation::0.0
+safety monitoring::0.0
+higher computing::0.0
+prashanth::0.0
+mounted::0.0
+levels are expected::0.0
+autonomous robot navigation::0.0
+exclude::0.0
+badge location::0.0
+utilize::0.0
+scj1 c j1::0.0
+derived::0.0
+horizontal::0.0
+iterative process::0.0
+negligible::0.0
+process to lower::0.0
+1,488.00::0.0
+committee::0.0
+absence::0.0
+systems::0.0
+finer::0.0
+deb deteriorates::0.0
+foot::0.0
+referred::0.0
+dominates::0.0
+surrounded::0.0
+safety::0.0
+radiation elements yield::0.0
+put::0.0
+three-dimensional passive positioning::0.0
+two types::0.0
+reflected::0.0
+dominating::0.0
+miss::0.0
+prohibitively::0.0
+scheme::0.0
+permits the flexible::0.0
+active and passive::0.0
+object using rfid::0.0
+lij::0.0
+liu::0.0
+yamano::0.0
+pursues rfid support::0.0
+mobile::0.0
+nonactivated::0.0
+physics::0.0
+signaling::0.0
+parameters::0.0
+circle::0.0
+false negative reference::0.0
+outperform the passive::0.0
+international::0.0
+exhibiting::0.0
+scanning::0.0
+close::0.0
+deploying::0.0
+easily identified::0.0
+conditions::0.0
+center position::0.0
+experimental::0.0
+battery::0.0
+kasetsart::0.0
+paper award::0.0
+described::0.0
+collected::0.0
+errors grow::0.0
+empty::0.0
+strategic locations::0.0
+earlier considered nem::0.0
+tag.2::0.0
+on-robot sensors::0.0
+reader coverage area::0.0
+scenarios are included::0.0
+guide::0.0
+target located::0.0
+detailed::0.0
+studied::0.0
+set of preinstalled::0.0
+reads::0.0
+grant::0.0
+squiggle::0.0
+database::0.0
+scj be moved::0.0
+calibrated::0.0
+core2 cpu::0.0
+distances::0.0
+taiwan::0.0
+testbed has four::0.0
+system to determine::0.0
+evaluate::0.0
+tag based::0.0
+signal::0.0
+abstractthis::0.0
+lj1::0.0
+simulations and testbed::0.0
+employing more radiation::0.0
+delivered::0.0
+signifies::0.0
+run::0.0
+sphere model::0.0
+processing::0.0
+step::0.0
+simulation::0.0
+block::0.0
+side or other obstructions::0.0
+localizing multiple targets::0.0
+pwn::0.0
+transmits::0.0
+heterogeneous::0.0
+similar::0.0
+3.3.2 overview::0.0
+received wireless signal::0.0
+amounts::0.0
+dashed::0.0
+electrical::0.0
+grid cells::0.0
+nat::0.0
+department::0.0
+calculating::0.0
+considered previously::0.0
+required::0.0
+requires::0.0
+8:5::0.0
+jullawadee::0.0
+pdas::0.0
+zhejiang::0.0
+2,560 sample points::0.0
+avoiding::0.0
+compensated::0.0
+false negative activated::0.0
+nfj1::0.0
+cell::0.0
+609-621::0.0
+products::0.0
+examining::0.0
+remains::0.0
+dubbed decision boundary::0.0
+imperfect responses::0.0
+meet::0.0
+drops::0.0
+control::0.0
+solely on rfid::0.0
+located::0.0
+schemes are considered::0.0
+reader can communicate::0.0
+including::0.0
+outer::0.0
+technologys::0.0
+popularly::0.0
+masters::0.0
+computer studies::0.0
+university::0.0
+due to severe::0.0
+level granularity completely::0.0
+masters of engineering::0.0
+completely::0.0
+determining::0.0
+times::0.0
+counterpart::0.0
+management::0.0
+data::0.0
+adopted::0.0
+perfectly::0.0
+electronic device::0.0
+on-robot::0.0
+due to varying::0.0
+distinguished::0.0
+exhibit::0.0
+function::0.0
+signal strength-based radio::0.0
+ultrasonic::0.0
+border::0.0
+pursued::0.0
+detector::0.0
+deploy::0.0
+tc-2011-07-0504::0.0
+indoor::0.0
+based::0.0
+edeb calculation::0.0
+employed::0.0
+achieve::0.0
+shrunk::0.0
+computed::0.0
+operates::0.0
+computer::0.0
+notoriously::0.0
+missing::0.0
+state::0.0
+comparable::0.0
+importance::0.0
+efficiency::0.0
+career::0.0
+estimation::0.0
+addition::0.0
+ieeecs::0.0
+rough trajectory::0.0
+including autonomous::0.0
+characterize deb::0.0
+kasetsart university::0.0
+results of edeb::0.0
+parts::0.0
+coordinates are yielded::0.0
+http::0.0
+x-axis::0.0
+1-5::0.0
+effect::0.0
+1-6::0.0
+compared::0.0
+based on proximity::0.0
+range recognition::0.0
+spherical::0.0
+accurate::0.0
+coordination::0.0
+density::0.0
+fine-tune::0.0
+immediately::0.0
+intersection::0.0
+loss::0.0
+alternatively::0.0
+sized::0.0
+surface progressively::0.0
+zmin are defined::0.0
+pinpoint::0.0
+xci1::0.0
+e-mail::0.0
+hinder::0.0
+inaccurate::0.0
+journal::0.0
+previously::0.0
+washington::0.0
+utility::0.0
+networking::0.0
+additional::0.0
+baglietto::0.0
+k1::0.0
+coarse::0.0
+cricket::0.0
+histogram::0.0
+self-localization::0.0
+gain::0.0
+highest::0.0
+cells::0.0
+limit::0.0
+large errors::0.0
+calling for fewer::0.0
+functions::0.0
+progressive iterations::0.0
+star::0.0
+additionally::0.0
+nelder::0.0
+dynamic::0.0
+consists::0.0
+calculate::0.0
+aug::0.0
+preprocess::0.0
+desirable::0.0
+activation::0.0
+connects::0.0
+vector::0.0
+enhance::0.0
+nem::0.0
+deemed::0.0
+refinement::0.0
+active::0.0
+multiple radiation::0.0
+four times::0.0
+ignoring::0.0
+effectively reduce::0.0
+suitable::0.0
+object identifier::0.0
+counts::0.0
+defined error objective::0.0
+call::0.0
+room::0.0
+setup::0.0
+achievable accuracy::0.0
+antenna is attached::0.0
+10,000::0.0
+scan the prearranged::0.0
+exhibiting accuracy levels::0.0
+indispensible::0.0
+attenuation levels::0.0
+hardware cost::0.0
+cacs.louisiana.edu::0.0
+mead::0.0
+durability::0.0
+maneesilp::0.0
+1067-1080::0.0
+linear::0.0
+starts::0.0
+system detects::0.0
+phones::0.0
+derived from activated::0.0
+distance::0.0
+mini::0.0
+reference ieeecs log::0.0
+regular::0.0
+ij1::0.0
+doi::0.0
+doe::0.0
+points::0.0
+visitor::0.0
+require multiple::0.0
+positive distance::0.0
+3.2.2 tag coordinate::0.0
+reference::0.0
+negatively guides::0.0
+positioning mechanism::0.0
+wears::0.0
+boosts localization accuracy::0.0
+bangkok::0.0
+experimental scenarios::0.0
+negative responses::0.0
+height::0.0
+tiny::0.0
+interest::0.0
+basic::0.0
+limited radio::0.0
+suppress::0.0
+resources and environment::0.0
+paper pursues rfid::0.0
+received the bachelors::0.0
+grows::0.0
+level and gradually::0.0
+grid points equal::0.0
+royal::0.0
+achievable::0.0
+deal::0.0
+separately::0.0
+scheme for inexpensively::0.0
+metrical::0.0
+pan-tilt::0.0
+refined::0.0
+initial::0.0
+border effects commonly::0.0
+form::0.0
+builds::0.0
+attached::0.0
+bounds::0.0
+technological development trend::0.0
+fast search::0.0
+interferences::0.0
+marking::0.0
+warehouse::0.0
+dubbed degree::0.0
+assume::0.0
+impact on rectification::0.0
+phd degrees::0.0
+estimating the center::0.0
+16=k::0.0
+abundant::0.0
+sphere center scj::0.0
+depend::0.0
+technique::0.0
+finally::0.0
+monotonically::0.0
+dis::0.0
+unexpected::0.0
+targets::0.0
+employ the proposed::0.0
+filled::0.0
+box::0.0
+exemplified::0.0
+spheres::0.0
+separates activated tags::0.0
+multi-robot::0.0
+calculated reader::0.0
+scenarios::0.0
+distance-based::0.0
+aln-9540 tags::0.0
+tandem::0.0
+effort::0.0
+deformed::0.0
+making::0.0
+arrive::0.0
+sample::0.0
+mar::0.0
+94-99::0.0
+max::0.0
+designed::0.0
+scheme to employ::0.0
+grow::0.0
+man::0.0
+expensive range-based::0.0
+equip::0.0
+x1c::0.0
+accuracy levels independent::0.0
+main::0.0
+max  xmin::0.0
+inside the modeled::0.0
+considerable inaccuracy::0.0
+diverse applications::0.0
+sensor::0.0
+xmax::0.0
+mechanisms::0.0
+positive tags::0.0
+ministry::0.0
+coordinate of j1::0.0
+first::0.0
+system and method::0.0
+fast::0.0
+carry::0.0
+ieee international conference::0.0
+accurately::0.0
+put at grid::0.0
+independent of reader::0.0
+gathering::0.0
+accuracy and speed::0.0
+n.-f::0.0
+converges::0.0
+j1 tag::0.0
+channel::0.0
+off-shelf::0.0
+show::0.0
+accuracy compared::0.0
+threshold::0.0
+corner::0.0
+deployed::0.0
+tag deployment::0.0
+xmin ymax::0.0
+0:8::0.0
+designated::0.0
+due to false::0.0
+cc::0.0
+yield::0.0
+reads and writes::0.0
+relative::0.0
+hexahedronshaped::0.0
+satisfying::0.0
+label::0.0
+deb deb determines::0.0
+geometric::0.0
+scj1::0.0
+obtain rough location::0.0
+solid rectangular marking::0.0
+approaches largely fall::0.0
+degree for four::0.0
+maintained::0.0
+spans::0.0
+capable::0.0
+workshop::0.0
+respond upon receiving::0.0
+unavailable off-shelf::0.0
+circles or spheres::0.0
+nem improve coordinate::0.0
+employed for helping::0.0
+middle::0.0
+circularly::0.0
+largely::0.0
+roughly::0.0
+default value::0.0
+involves separate::0.0
+positions::0.0
+doctoral::0.0
+extensive::0.0
+heavier::0.0
+70504-4330::0.0
+1:0::0.0
+1:2::0.0
+readers scan::0.0
+grid::0.0
+aiming::0.0
+ceiling board::0.0
+serves::0.0
+server::0.0
+negative activated tags::0.0
+levels are calibrated::0.0
+priyantha::0.0
+served::0.0
+extensively::0.0
+critical::0.0
+refers::0.0
+practical::0.0
+references::0.0
+ymax::0.0
+localization approaches largely::0.0
+handles all misclassified::0.0
+j1::0.0
+suffers from low::0.0
+multi-hop::0.0
+nonlinear optimization scheme::0.0
+science and engineering::0.0
+achieving high reader::0.0
+delivered at 26th::0.0
+fellow::0.0
+fill::0.0
+tedious::0.0
+hexahedron with high::0.0
+important::0.0
+sphere are rectified::0.0
+space is divided::0.0
+enhancing localization accuracy::0.0
+suny::0.0
+14th intl::0.0
+web-based utility software::0.0
+expressions::0.0
+call for repeated::0.0
+results are presented::0.0
+nonexisting::0.0
+straightforward::0.0
+fall::0.0
+developed for improving::0.0
+wsn::0.0
+robot localization relied::0.0
+partitions the reference::0.0
+portable::0.0
+expected that diverse::0.0
+signal pattern::0.0
+hexahedron side::0.0
+technique needs multiple::0.0
+ranges::0.0
+operating::0.0
+urbana-champaign::0.0
+search::0.0
+published::0.0
+treated earlier::0.0
+high due::0.0
+models the rfid::0.0
+readily::0.0
+two::0.0
+iteratively::0.0
+achieving::0.0
+strength or phase::0.0
+diamond::0.0
+varying::0.0
+passive positioning scheme::0.0
+7:2::0.0
+consistantly::0.0
+deb::0.0
+sphere::0.0
+minimum::0.0
+numbers::0.0
+cse::0.0
+arbitrary local::0.0
+response::0.0
+fairly low::0.0
+existence::0.0
+suffer::0.0
+out distance optimization::0.0
+desired positioning accuracy::0.0
+raf positioning::0.0
+detected::0.0
+gained widespread::0.0
+gradually increase::0.0
+walls::0.0
+improve coordinate accuracy::0.0
+collect the tag::0.0
+deteriorates::0.0
+devices or on-robot::0.0
+shows the transmission::0.0
+energy::0.0
+idea::0.0
+digital object::0.0
+survey of wireless::0.0
+desired positioning::0.0
+evaluation::0.0
+effective in accuracy::0.0
+computers::0.0
+conducted::0.0
+utilizes::0.0
+done::0.0
+alert will be raised::0.0
+construct::0.0
+assumption::0.0
+part::0.0
+initial setup::0.0
+sanpechuda::0.0
+3.3.1::0.0
+3.3.3::0.0
+3.3.2::0.0
+treated::0.0
+categorized::0.0
+two adjacent grid::0.0
+built::0.0
+build::0.0
+chart::0.0
+state-of-the-art::0.0
+significant::0.0
+signal strength-based::0.0
+unavailable::0.0
+xinit::0.0
+dodging::0.0
+mobile objects::0.0
+minimizing::0.0
+networks::0.0
+tags and false::0.0
+distributed::0.0
+unit degree::0.0
+experiment::0.0
+4:0::0.0
+4:8::0.0
+common::0.0
+locating::0.0
+individual::0.0
+materially::0.0
+responses::0.0
+1235-1243::0.0
+contrasted::0.0
+solely::0.0
+point::0.0
+maximum transmission::0.0
+expensive::0.0
+histograms of reference::0.0
+identified by examining::0.0
+distance variation::0.0
+research spans delay-tolerant::0.0
+solid::0.0
+raoui::0.0
+cents::0.0
+rfid-based topological::0.0
+development::0.0
+attenuation::0.0
+interrogation signal ranges::0.0
+positioning in general::0.0
+high reader localization::0.0
+target tags::0.0
+purpose::0.0
+metrical selflocalization::0.0
+landmarc::0.0
+process is invoked::0.0
+big::0.0
+jlj1 i misclassified::0.0
+introduces our proposed::0.0
+due to reduced::0.0
+-ull::0.0
+pronounced::0.0
+scale::0.0
+affects::0.0
+decision::0.0
+restrictive::0.0
+scenario considered::0.0
+l1j::0.0
+containers or storage::0.0
+pollution::0.0
+frames::0.0
+conference on distributed::0.0
+hexahedron activates::0.0
+nutshell::0.0
+longer operating::0.0
+degree of irregularity::0.0
+planes::0.0
+positions under deb::0.0
+autonomous::0.0
+engineering::0.0
+localization errors rise::0.0
+accuracy in locating::0.0
+solid rectangular::0.0
+tags deployed::0.0
+reader location estimation::0.0
+aggregated::0.0
+tradeoff::0.0
+current sphere surface::0.0
+antennas::0.0
+rfid due::0.0
+position estimated::0.0
+situations yield severely::0.0
+adjustment process::0.0
+transponders::0.0
+entire::0.0
+dodging tedious power::0.0
+support for accurate::0.0
+giving::0.0
+sin::0.0
+distributed computing::0.0
+allowing the reference::0.0
+realized by deploying::0.0
+objects::0.0
+networks with holes::0.0
+grow monotonically::0.0
+scheme an earlier::0.0
+pursued an active::0.0
+named::0.0
+spoton::0.0
+thailand::0.0
+aforementioned approach::0.0
+account::0.0
+tag::0.0
+effectively::0.0
+employs::0.0
+buildings::0.0
+multiple targets::0.0
+locates::0.0
+antenna attached::0.0
+degree in scientific::0.0
+choosing reference::0.0
+meter::0.0
+fig 11b::0.0
+tcp port::0.0
+holes often observed::0.0
+increase accuracy::0.0
+wide applications::0.0
+mention::0.0
+research interests include::0.0
+identified::0.0
+skyetek::0.0
+spans delay-tolerant networks::0.0
+identifier::0.0
+activate::0.0
+wada::0.0
+red::0.0
+approached::0.0
+facilitate::0.0
+ds_aln_9540.pdf::0.0
+times when compared::0.0
+strategic::0.0
+reader are estimated::0.0
+determine a sphere::0.0
+decrease::0.0
+negative tags::0.0
+gear::0.0
+approaches for selecting::0.0
+acquire::0.0
+completes::0.0
+tags into two::0.0
+involved::0.0
+compensation::0.0
+repeats to arrive::0.0
+curves::0.0
+connectors::0.0
+dictate::0.0
+apparently::0.0
+tag location::0.0
+alien technologys::0.0
+signifying::0.0
+defined error::0.0
+preliminary::0.0
+request::0.0
+supported::0.0
+rotating::0.0
+kits::0.0
+misclassified::0.0
+localization mechanisms::0.0
+filter out irregularity::0.0
+aforementioned::0.0
+areas::0.0
+calling::0.0
+fixed::0.0
+dominates the errors::0.0
+national::0.0
+enhanced::0.0
+radius amount::0.0
+exploited::0.0
+pattern::0.0
+routing::0.0
+boundary::0.0
+emitted::0.0
+reader attached::0.0
+taking::0.0
+equal::0.0
+10:0::0.0
+current research::0.0
+define::0.0
+finishes::0.0
+general::0.0
+experiments lowered::0.0
+earlier considered::0.0
+value::0.0
+rectangular::0.0
+hampering::0.0
+coordinate accuracy::0.0
+localization with rfid::0.0
+difference due::0.0
+standard interrogation::0.0
+center::0.0
+sets::0.0
+position::0.0
+small filled::0.0
+proximity::0.0
+stored::0.0
+testbed::0.0
+smart::0.0
+mobile wireless network::0.0
+tedious power calibration::0.0
+deployed in strategic::0.0
+gmail.com::0.0
+deployment::0.0
+works::0.0
+readers may increase::0.0
+assuming::0.0
+robot navigation::0.0
+simplex::0.0
+actual::0.0
+smartly::0.0
+introduces::0.0
+deb-based rfid::0.0
+introduced::0.0
+rendered::0.0
+repeated::0.0
+related::0.0
+dangerous::0.0
+tags starts::0.0
+networks was treated::0.0
+jnfj::0.0
+virtual::0.0
+tag compensation process::0.0
+elements result::0.0
+variation::0.0
+cpu::0.0
+limited::0.0
+dubbed decision::0.0
+phase calculation::0.0
+rise::0.0
+m86-sm92-f10::0.0
+exhibiting far smaller::0.0
+enjoy::0.0
+deployed tags remains::0.0
+estimates::0.0
+estimated::0.0
+web-based::0.0
+flexible placement::0.0
+tags ; communication::0.0
+supplies::0.0
+1015-1020::0.0
+aid::0.0
+represented::0.0
+path::0.0
+passes the reader::0.0
+introduction r adio::0.0
+ymin::0.0
+located close::0.0
+phone::0.0
+real-time::0.0
+virtual tags result::0.0
+supplemental::0.0
+prearranged::0.0
+based on estimated::0.0
+deemed advantageous::0.0
+guarantee::0.0
+sensitivity and orientation::0.0
+end::0.0
+eng::0.0
+high tag::0.0
+rfid positioning system::0.0
+adjacent::0.0
+widespread::0.0
+description::0.0
+parallel::0.0
+perform::0.0
+complexity::0.0
+algorithms::0.0
+locating an rfid::0.0
+executed::0.0
+highperformance::0.0
+difference::0.0
+exhibits::0.0
+shrunk to reduce::0.0
+high errors::0.0
+adoption for automatic::0.0
+advances in geographic::0.0
+practical deployment::0.0
+activates part::0.0
+selecting reference::0.0
+applicable::0.0
+network testbed::0.0
+utility software::0.0
+sept.::0.0
+associate::0.0
+inexpensive::0.0
+filter::0.0
+propose tag::0.0
+experiments using aln-9540::0.0
+accurate localization::0.0
+square ceiling::0.0
+cost and leads::0.0
+systems exhibits low::0.0
+top::0.0
+out irregularity::0.0
+almaaitah::0.0
+ceiling::0.0
+centered::0.0
+compensation lowers::0.0
+tags then define::0.0
+fit of imperfect::0.0
+result in smaller::0.0
+classes::0.0
+10th::0.0
+raf::0.0
+histograms dictate::0.0
+outperforms::0.0
+effectiveness::0.0
+consists of two::0.0
+boundary optimization scheme::0.0
+preset::0.0
+prevails::0.0
+metal::0.0
+enterprise::0.0
+random::0.0
+16th acm intl::0.0
+radio::0.0
+y1c::0.0
+v.p::0.0
+july::0.0
+strength indications received::0.0
+situations::0.0
+surrounded by activated::0.0
+oct::0.0
+border effects commonly existing::0.0
+ieee abstractthis paper::0.0
+report::0.0
+interrogated::0.0
+reader to support::0.0
+automatic::0.0
+schemes meet::0.0
+delay-insensitive applications::0.0
+representing accuracy::0.0
+approach::0.0
+tag is obtained::0.0
+improve::0.0
+irregular::0.0
+expense::0.0
+conference::0.0
+critical for rfid::0.0
+engineering degrees::0.0
+quickly::0.0
+expected::0.0
+containers::0.0
+rinit::0.0
+process which accounts::0.0
+errors effectively::0.0
+procedure::0.0
+insensitive::0.0
+wireless systems::0.0
+node placement::0.0
+suitable antenna::0.0
+location-support system::0.0
+complex::0.0
+identification accuracy::0.0
+adoption of rfid::0.0
+deploys::0.0
+possesses::0.0
+proposed::0.0
+laptop::0.0
+enhance localization::0.0
+distributed systems::0.0
+advanced::0.0
+technological::0.0
+advances::0.0
+fixed power::0.0
+backscatter signal::0.0
+scheme for passive::0.0
+pursues::0.0
+arbitrary::0.0
+nelder-mead::0.0
+cns::0.0
+icc::0.0
+employing received::0.0
+systems and wireless::0.0
+corp::0.0
+received backscatter::0.0
+guarantee convergence::0.0
+ensure::0.0
+sept::0.0
+scheme is capable::0.0
+presence::0.0
+low-cost::0.0
+obtaining::0.0
+rounds::0.0
+rely::0.0
+indispensable::0.0
+partial and irregular::0.0
+tags are indispensible::0.0
+26th::0.0
+milella::0.0
+outstanding paper::0.0
+respond to reader::0.0
+considered nem::0.0
+simulations::0.0
+bridgelall::0.0
+chakraborty::0.0
+number of misclassified::0.0
+hahnel::0.0
+node::0.0
+lower refined::0.0
+preceding::0.0
+uniformly::0.0
+faster::0.0
+tags derived::0.0
+3.2.1::0.0
+3.2.2::0.0
+alternatives::0.0
+leads::0.0
+computation::0.0
+row::0.0
+pnpz::0.0
+pnpx::0.0
+pnpy::0.0
+environment::0.0
+spheres formed::0.0
+employing received signal::0.0
+frequencies::0.0
+partitions::0.0
+level::0.0
+7:5::0.0
+trend::0.0
+functions using rfid::0.0
+antenna k times::0.0
+port::0.0
+stands::0.0
+storage rooms::0.0
+errors rise noticeably::0.0
+university foundation distinguished::0.0
+presumed interrogation::0.0
+studies on mobile::0.0
+noticeably::0.0
+navigation::0.0
+lowers::0.0
+compare::0.0
+results and discussion::0.0
+scan::0.0
+spans delay-tolerant::0.0
+handles::0.0
+memory::0.0
+cases::0.0
+collision::0.0
+average of 2,560::0.0
+employing ultrasonic::0.0
+utilize all radiation::0.0
+figure::0.0
+preinstalled passive rfid::0.0
+backscatter responses::0.0
+discussed in maneesilp::0.0
+26th ieee international::0.0
+proposed 3d localization::0.0
+scheme aiming::0.0
+fourth::0.0
+contributions the basic::0.0
+huge::0.0
+ieee abstractthis::0.0
+fahmy::0.0
+communications and networks::0.0
+308-313::0.0
+feet for aln-9540::0.0
+method to deal::0.0
+coordinates::0.0
+offers::0.0
+tags using phase::0.0
+realistic::0.0
+operating range::0.0
+work in tandem::0.0
+factors::0.0
+counterpart and achieves::0.0
+preprocessing::0.0
+place::0.0
+origin::0.0
+cybernetics::0.0
+array::0.0
+white::0.0
+wide::0.0
+require::0.0
+tracking active::0.0
+generality::0.0
+reader::0.0
+off-shelf or prohibitively::0.0
+multiple::0.0
+falls::0.0
+wireless::0.0
+geographic::0.0
+considered::0.0
+preprocessing tag::0.0
+spaces::0.0
+accurate estimation::0.0
+antennas transmission::0.0
+z-axis::0.0
+large scale sensor::0.0
+reveal::0.0
+81-95::0.0
+outperform::0.0
+hangzhou::0.0
+paper::0.0
+abstractthis paper pursues::0.0
+tag passes::0.0
+fewer compensated::0.0
+lnj::0.0
+detect::0.0
+helping define::0.0
+employ reference::0.0
+receivers::0.0
+tanin::0.0
+comm::0.0
+contract::0.0
+propagation::0.0
+total distances::0.0
+robotics::0.0
+iterations::0.0
+expected technological development::0.0
+signals being reflected::0.0
+reduced ownership::0.0
+maung::0.0
+case::0.0
+irrespective::0.0
+frequencies to active::0.0
+errors in finding::0.0
+status::0.0
+single pass::0.0
+minimize::0.0
+contrasted two::0.0
+built upon simplified::0.0
+components::0.0
+relied::0.0
+model::0.0
+guided::0.0
+guides::0.0
+sample points::0.0
+easily::0.0
+predetermined::0.0
+accepted::0.0
+packaging::0.0
+negative reference tags::0.0
+reduces::0.0
+reduced::0.0
+provided::0.0
+received the royal::0.0
+improvement are provided::0.0
+communicate::0.0
+0:67h::0.0
+discussed::0.0
+involved reference::0.0
+discusses::0.0
+chongwang88::0.0
+instruments::0.0
+rising::0.0
+determine::0.0
+physics from fudan::0.0
+guided by misclassified::0.0
+employed to improve::0.0
+signal attenuation amounts::0.0
+longer::0.0
+java codes::0.0
+schemes marked::0.0
+alr-9900::0.0
+number exceeds::0.0
+regents::0.0
+separate::0.0
+starts with estimating::0.0
+includes::0.0
+included::0.0
+calls::0.0
+curve::0.0
+rfid-enabled space::0.0
+localization a current::0.0
+characteristic curves::0.0
+denotes::0.0
+program::0.0
+fill-in::0.0
+icar::0.0
+automatic operation::0.0
+recent studies::0.0
+employing::0.0
+built-in::0.0
+increase monotonically::0.0
+nonlinear::0.0
+advantageous::0.0
+sum::0.0
+version::0.0
+inexpensively and quickly::0.0
+tags::0.0
+directions::0.0
+distance between two::0.0
+locate a target::0.0
+transponder::0.0
+rough location information::0.0
+rfid-based 3d localization::0.0
+inlay::0.0
+ieee intl::0.0
+simplify the complexity::0.0
+surface::0.0
+presumed::0.0
+adjacent grid points::0.0
+equation::0.0
+challenging::0.0
+softwaredefined radio receivers::0.0
+prompting::0.0
+arise::0.0
+including the target::0.0
+edeb boosts localization::0.0
+emulate::0.0
+detect the target::0.0
+empty cells::0.0
+essence::0.0
+localization of stationary::0.0
+two big::0.0
+pantilt unit::0.0
+compensation is indispensable::0.0
+preinstalled::0.0
+bigger::0.0
+log number tc-2011-07-0504::0.0
+characterized::0.0
+weight::0.0
+higher doi::0.0
+basic web-based::0.0
+reader is assumed::0.0
+nem consistantly::0.0
+location support system::0.0
+e.g::0.0
+sidewall::0.0
+rotating the reader::0.0
+enlarges::0.0
+suitable for locating::0.0
+feet::0.0
+enlarged::0.0
+hampering the accuracy::0.0
+yields better location::0.0
+passes::0.0
+leading::0.0
+cost is low::0.0
+imperfect::0.0
+reflection::0.0
+albeit::0.0
+localization accuracy significantly::0.0
+aims::0.0
+existing in rfid::0.0
+outstanding::0.0
+procedure to refine::0.0
+wilson::0.0
+inside the room::0.0
+finding::0.0
+reach::0.0
+munishwar::0.0
+irregular signal::0.0
+four scenarios::0.0
+obtain rough::0.0
+ieee acm::0.0
+autonomous navigation::0.0
+tag is denoted::0.0
+triangle::0.0
+gains::0.0
+obtain::0.0
+longest::0.0
+severe wall::0.0
+localization errors::0.0
+jlj1::0.0
+investigate::0.0
+achieved::0.0
+achieves::0.0
+yield smaller::0.0
+passive scheme aims::0.0
+employs only passive::0.0
+recently::0.0
+first study::0.0
+attention::0.0
+objective::0.0
+java::0.0
+due::0.0
+anisotropic::0.0
+adjacent grid::0.0
+errors due::0.0
+localization inaccuracy::0.0
+bachelors::0.0
+two factors::0.0
+reader dramatically::0.0
+out extensive simulations::0.0
+fading::0.0
+derived values::0.0
+higher::0.0
+ownership costs::0.0
+moving::0.0
+distances to chosen::0.0
+robust::0.0
+interrogation::0.0
+ceiling or floor::0.0
+edge::0.0
+nem carries::0.0
+marked::0.0
+degree in electrical::0.0
+shaped::0.0
+shapes::0.0
+collect::0.0
+nonthaburi::0.0
+localization and high::0.0
+block signals::0.0
+process finishes::0.0
+gradually::0.0
+guides reader location::0.0
+proc::0.0
+long backscatter transmissions::0.0
+tag then emits::0.0
+university foundation::0.0
+fewer virtual tags::0.0
+linearly increasing::0.0
+range::0.0
+navigation and warehouse::0.0
+chair of technical::0.0
+yinit::0.0
+long::0.0
+sections::0.0
+improved considerably::0.0
+accuracy of rfid-based::0.0
+robot selflocalization::0.0
+characteristic::0.0
+accuracy requirement::0.0
+embedded tiny rfid::0.0
+modeled::0.0
+antenna suffers::0.0
+geographic information::0.0
+estimation based::0.0
+interrogated signals::0.0
+rely on localization::0.0
+tags result::0.0
+helping::0.0
+allowing::0.0
+suffers::0.0
+greatly enhancing localization::0.0
+lafayette::0.0
+buffalo::0.0
+zmin::0.0
+alien::0.0
+accuracy improvement techniques::0.0
+adjustment::0.0
+contributions::0.0
+shanghai::0.0
+localization in wireless::0.0
+lower::0.0
+additional pantilt::0.0
+include::0.0
+dramatically::0.0
+four quadrants::0.0
+demonstrated::0.0
+dealt::0.0
+fine-tune the transmission::0.0
+noted::0.0
+11e::0.0
+smaller::0.0
+system cost::0.0
+2,560::0.0
+abundant interrogated::0.0
+concludes::0.0
+degree::0.0
+deal with wall::0.0
+cc separates activated::0.0
+n.b::0.0
+desired::0.0
+compensating doi::0.0
+larger::0.0
+straightforward geometric::0.0
+perfectly compensate::0.0
+apr::0.0
+edeb boosts::0.0
+scheme requires::0.0
+feb::0.0
+depicted::0.0
+zj1::0.0
+ngamwongwan::0.0
+detects::0.0
+balakrishnan::0.0
+carried::0.0
+operation and tracking::0.0
+7,119,738::0.0
+calculation::0.0
+assumptions::0.0
+xmin::0.0
+passive positioning::0.0
+hexahedron::0.0
+effectively deal::0.0
+pervasive wireless network::0.0
+10,000 deployed tags::0.0
+divided into grid::0.0
+lij1::0.0
+irregularity::0.0
+localization in rfid::0.0
+boosts::0.0
+rfid-based::0.0
+estimating::0.0
+enhance location::0.0
+crr::0.0
+strength indications::0.0
+practice::0.0
+bangkrasor::0.0
+data are presented::0.0
+effectively filter::0.0
+out::0.0
+estimation of mobile::0.0
+obstructions::0.0
+supports::0.0
+integrated::0.0
+misj1 classified::0.0
+york::0.0
+preinstalled passive::0.0
+sinica::0.0
+greatly enhancing::0.0
+j.a::0.0
+nat nat::0.0
+builds two::0.0
+systems exhibits::0.0
+publication::0.0
+distinguished professor award::0.0
+rfid reader coverage::0.0
+yj1::0.0
+location identification schemes::0.0
+radio receivers::0.0
+strength-based::0.0
+position of activated::0.0
+dynamic active rfid::0.0
+progressively reach::0.0
+angle::0.0
+progressively::0.0
+antenna orientation::0.0
+fast localization::0.0
+severe::0.0
+xj1::0.0
+cc separates::0.0
+multiple transmission power::0.0
+superimposed::0.0
+achieve desired::0.0
+minimize the defined::0.0
+local::0.0
+build a spherical::0.0
+de-fg02-04er46136::0.0
+made::0.0
+words::0.0
+chips::0.0
+preliminary experiments::0.0
+coordination system::0.0
+view::0.0
+requirement::0.0
+areas of computer::0.0
+y2c::0.0
+number de-fg02-04er46136::0.0
+deb requires::0.0
+closer::0.0
+identification::0.0
+defined sphere::0.0
+3-d positioning schemes::0.0
+received the national::0.0
+demonstrate::0.0
+passive counterpart::0.0
+swift::0.0
+exist misclassified::0.0
+path losses::0.0
+response range::0.0
+inside the target::0.0
+wall::0.0
+environments::0.0
+error becomes high::0.0
+respect::0.0
+positive tag::0.0
+srj1::0.0
+sufficient::0.0
+support for localization::0.0
+fewer reference::0.0
+present::0.0
+unlike::0.0
+cartesian coordinate::0.0
+smaller execution::0.0
+radiation::0.0
+cross::0.0
+member::0.0
+largest::0.0
+units::0.0
+difficult::0.0
+automation::0.0
+l.m::0.0
+coverage by readers::0.0
+sensing::0.0
+accurate error::0.0
+heavily::0.0
+indoor 3d location::0.0
+tcp::0.0
+big circles::0.0
+alr-9900 reader employed::0.0
+adoption::0.0
+achieves the localization::0.0
+localizing multiple::0.0
+received the phd::0.0
+sequence::0.0
+skyemodule::0.0
+support of high::0.0
+lead::0.0
+estimated by deb::0.0
+14th::0.0
+estimation altogether::0.0
+locate::0.0
+11d::0.0
+11f::0.0
+11a::0.0
+11c::0.0
+11b::0.0
+analyses::0.0
+column::0.0
+shipping::0.0
+carries::0.0
+tags for coordinate::0.0
+delay-tolerant::0.0
+sensor network technology::0.0
+topological and metrical::0.0
+scale sensor networks::0.0
+unit for accuracy::0.0
+cricket location support::0.0
+jnfj1::0.0
+advantageous due::0.0
+calibration::0.0
+suitable for real-time::0.0
+percent::0.0
+illinois::0.0
+nem first::0.0
+conclusion::0.0
+june::0.0
+reader types::0.0
+m.w::0.0
+m.j::0.0
+tags under deb::0.0
+rotation offers::0.0
+m.a::0.0
+gap::0.0
+tzeng::0.0
+coupling::0.0
+allowing more practical::0.0
+rfid reader chips::0.0
+tags is represented::0.0

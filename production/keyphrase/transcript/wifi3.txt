@@ -1,0 +1,399 @@
+International Journal of Research in Wireless Systems (IJRWS), Volume 1, Issue 1, November (2012)
+
+Research Issues related to Trilateration and
+Fingerprinting Methods
+An Experimental Overview of Wi-Fi Positioning System
+Sumana Das, Thiago Teixeira and Syed Faraz Hasan*
+College of Information and Communication Engineering,
+Sungkyunkwan University, Suwon,
+Republic of Korea
+*Corresponding author email: faraz@skku.edu.
+
+between the end users. Such networks that employ a
+central entity for enabling communication between the
+end users are referred to as infrastructure networks.
+802.11 networks may also operate in a distributed manner
+without a central AP. This mode is often known as the ad
+hoc mode of operation. Simplified architectural
+representation of 802.11 networks has been shown in
+Figure 1 [1]. Note that in order to provide positioning
+services, only the infrastructure-based 802.11 networks
+are used.
+802.11 networks are inherently designed for indoor
+low-mobility network applications. For example, they may
+be deployed in an office building to connect the
+employees to a network without running cables and wires.
+While these indoor APs are primarily meant to provide
+communication services for the end users, their use in
+more innovative applications is also being examined by
+the research community. More recently, the research
+interest in using Wi-Fi networks for positioning purposes
+has risen significantly. The Global Positioning System (GPS)
+is generally used for positioning purposes but its service
+deteriorates when it is employed in the indoor
+environments. This fact has fuelled the research activities
+in enabling Wi-Fi Positioning System (WPS). Since Wi-Fi
+networks are not primarily meant to support localization
+services, employing WPS poses significant research
+challenges that are currently being pursued. WPS uses the
+signal strengths of periodic beacon signals transmitted by
+the APs to locate a mobile node. These beacon signals are
+broadcast every 100msec to advertise the presence of APs
+in a certain area. The mobile nodes register their
+willingness to connect to an AP by responding to these
+beacon signals. WPS employs two methods of using the
+Received Signal Strength (RSS) information from the
+beacon signals. This paper overviews both methods,
+namely Trilateration and Fingerprinting.
+
+Abstract – The Global Positioning System (GPS) is widely
+used for providing positioning services across the world. While
+it performs well in the outdoor conditions where receivers
+maintain LoS with the GPS satellites, the performance of GPS
+quickly deteriorates in the indoor environments. Due to this
+reason, the research interest in exploring 802.11 Wi-Fi
+networks for providing positioning services has risen
+significantly.
+Wi-Fi Positioning System (WPS) uses trilateration and
+fingerprinting methods to determine a receiver’s position
+typically in the indoor environment. In this paper, we discuss
+these methods in the light of experimental observations. The
+discussion is aimed at highlighting a few open research issues
+pertinent to the effective use of Wi-Fi Positioning System.
+
+Keywords – Wi-Fi Positioning, Trilateration, Fingerprinting,
+Probability distributions.
+
+I. INTRODUCTION
+The IEEE 802.3 Ethernet is concerned with protocols
+and standards that allow communication between the
+devices over a wired Local Area Network (LAN). LANs use
+guided media such as cables and wires to connect the end
+users to the backhaul network, which is commonly the
+internet. The IEEE 802.11 standard introduces the wireless
+version of LANs, commonly known as Wi-Fi (or Wireless
+LAN). The freedom from wires and the ease of mobility are
+two important factors in the popularity and widespread
+use of the 802.11 Wi-Fi networks. 802.11 networks have
+been massively deployed in universities, offices, homes,
+restaurants, airports, shopping malls, etc, ever since their
+introduction in 1999. A typical Wi-Fi network is composed
+of an Access Point (AP) connected to the backhaul
+network on one end, and connected wirelessly to the
+mobile nodes on the other end. These APs can be seen as
+small base stations that liaison communication activity
+
+www.ijrws.org
+
+31
+
+International Journal of Research in Wireless Systems (IJRWS), Volume 1, Issue 1, November (2012)
+
+formula to compute the position of the mobile node. The
+main problem with this technique is the fluctuating nature
+of the signal strength. This ever changing nature makes it
+difficult to translate signal strength measures into distance.
+The problem gets more complicated in the indoor
+environments where the signal gets attenuated by various
+objects [2]. Intuitively, signal strength decreases as the
+distance between the mobile node and the AP is increased.
+However, this inverse relation is difficult to express
+mathematically. In fact, developing a mathematical model
+that relates distance with the signal strength is still an
+open area of research. Another problem with in using
+trilateration is that the variation in the signal strength is
+also affected by the orientation of the mobile node. The
+following tests suggest that the trilateration method
+should also take into account the orientation of a mobile
+node for accurate positioning.
+A laptop (with Intel Centrino Advanced-N 6230 wireless
+card on Intel Mobile Express Chipset running Windows 7)
+measures the received signal strength from an AP in the
+indoor LoS conditions. Readings are taken at 6 steps such
+that the horizontal distance between two consecutive
+steps is approximately 7ft. The first step is also 7ft away
+from the foot of the AP. At each step, 5 readings each in 4
+directions (north, south, east and west) are taken. The
+average of these 20 readings is recorded as the signal
+strength observed at that step. For the readings taken in
+the north direction, the antenna of the mobile node faces
+the AP directly. On the other hand, for the readings taken
+in the south direction, human body comes between the AP
+and the mobile node. Figure 2 shows the signal strengths
+recorded in each of the four directions at all 6 steps, and
+their overall average. The differences in the curves
+reported in Figure 2 show that orientation of the mobile
+node affects the received signal strength considerably.
+Note that the signal strengths recorded at steps 2 and 3
+for the east and south directions are quite different. This
+infers that, in trilateration method, information on signal
+strength alone is not enough to make reasonable
+predictions about the position of the mobile node.
+Orientation of the mobile node also needs to be
+considered to improve the positioning accuracy.
+The orientation factor also needs to be accommodated
+into any mathematical model that sets out to translate RSS
+into distance. As mentioned earlier, accurate models to
+translate signal strength measures into distance are still
+not available. Because conversion of signal strength
+measures into distance is a complex task due to the
+unpredictable nature of the RSS [3], the Fingerprinting
+method is often preferred over Trilateration in WPS.
+
+Figure 1: (a) Ad hoc mode where nodes do not use APs. (b)
+Infrastructure mode where MN1 and MN2 are communicating
+over the internet using AP1 and AP2 [1].
+
+Figure 2: Signal strength variations with changing distance and
+orientation of the mobile node.
+
+This paper has been composed to provide an overview
+of the Wi-Fi Positioning System. The rest of this paper is
+organized as follows. The next section discusses the
+Trilateration and Fingerprinting methods with the help of
+experiments. This paper is concluded in Section III while
+the acknowledgements and references are given at the
+end of this paper.
+
+II. POSITIONING METHODS
+Based on a variety of experiments, this section
+discusses the Trilateration and Fingerprinting methods
+used in WPS.
+A. Trilateration method
+The Trilateration technique uses the signal strength
+measured from at least three APs to determine the 2D
+position of a mobile device. The distance of a mobile node
+from three APs can be used in the elementary distance
+
+www.ijrws.org
+
+32
+
+International Journal of Research in Wireless Systems (IJRWS), Volume 1, Issue 1, November (2012)
+
+vehicular navigation, fingerprinting shall require extensive
+drive tests across the cities on a periodic basis. Despite
+these limitations, fingerprinting technique has been used
+in various previous works and has shown reasonable
+accuracy [4].
+Matching an observed value with a pre-recorded
+database can either be deterministic or probabilistic. In
+deterministic matching, one-point or multi-point matching
+[5, 6] is used to compare the observed values with a precalculated map. In probabilistic matching, signal strength
+values are represented as a probability distribution (e.g.
+Gaussian distribution), and the matching is done using
+histograms or kernel methods [7]. As the name suggests,
+probabilistic fingerprinting calculates the probability of a
+user being at a certain location based on the online
+measurements and RSS database. It follows that the RSS
+database plays a vital role in finger-printing based
+positioning.
+The probabilistic fingerprinting method has been
+examined in literature for controlled (under laboratory
+settings with minimum perturbations) and uncontrolled
+environments (typical office setting) both. Ideally, a
+database trained for an area should exhibit the same
+characteristics in both controlled and uncontrolled setups.
+In order to investigate the temporal variations of the
+database, we have conducted a simple fingerprinting
+experiment on Wi-Fi networks. While most relevant works
+focus on analyzing algorithms for data processing and
+matching [8], this analysis discusses the probability
+distribution of the database used in fingerprinting. The
+main motivation is to check the differences in the
+probability distributions corresponding to controlled and
+uncontrolled setups. RSS samples from a particular AP are
+recorded at 6 different locations in the Main Hall of the
+Mechanical Engineering building at KAIST as shown in
+Figure 3. At every test point, 5 samples are taken in each
+of the four directions as shown in the figure. In this way,
+20 samples are collected with 5-second sampling interval
+at each test point (as opposed to 12 samples used in [9]).
+Two such tests on two different days have been conducted
+to represent the controlled and uncontrolled
+environments.
+The first test, known as the controlled test, was
+conducted over the weekend when the hall remained
+mostly empty. Little or no human motion was experienced
+and the surrounding environment remained static. The
+second test, known as the uncontrolled test, was
+conducted on a weekday. Several people passed by the
+area during the test and the mobile node experienced
+large human motion.
+
+Figure 3: Test area for analyzing fingerprinting database.
+
+Figure 4: Cumulative distribution functions for controlled and
+uncontrolled tests.
+
+B. Fingerprinting method
+Location fingerprinting (also referred to as the scene
+analysis method) identifies the user location by matching
+the RSS observations made by the mobile node with a
+trained database. This method compares the online
+measurements made by the mobile device with those
+recorded in a database to locate the device [4]. Hence, the
+Wi-Fi fingerprinting method comprises of an online and an
+offline phase. In the offline phase, the RSS fingerprints are
+taken at different target locations throughout the area of
+interest and recorded in a database. In the online phase,
+the mobile device first measures the prevailing RSS value
+and then matches it with the database. The geographical
+location that corresponds to the observed signal strength
+is recognized as the user location. It is obvious that Wi-Fi
+fingerprinting requires extensive site surveys that are
+labor intensive. Removal and/or addition of new APs in
+the area of interest would require modifications in the
+database. In high mobility applications, for example in
+
+www.ijrws.org
+
+33
+
+International Journal of Research in Wireless Systems (IJRWS), Volume 1, Issue 1, November (2012)
+
+uncontrolled test. It can be seen that the data distribution
+does not comply fully with the normal distribution,
+particularly in the RSS range -70 to -67dBm. This deviation
+may give rise to positioning inaccuracies if the dataset is
+assumed to follow normal distribution. In the light of this
+discussion, we conclude that different conditions in the
+controlled and uncontrolled setup may bring about
+changes in the probability distribution of the database.
+These changes should be taken into account while using
+the probabilistic fingerprinting method.
+
+III. CONCLUSION
+There has been increasing interest in exploring the use
+of Wi-Fi networks for positioning purposes. This interest
+has risen significantly because (i) GPS services are
+suspended in the indoor non-LoS environments and (ii) a
+large number of Wi-Fi Access Points (APs) are already
+deployed in the indoor setups. This paper is concerned
+with providing an experimental overview of the
+positioning methods use in the Wi-Fi Positioning Systems
+(WPS). Based on a variety of experiments, the procedures
+involved in the trilateration and fingerprinting methods
+have been discussed.
+It has been discussed that the trilateration method
+attempts to translate the received signal strength into
+distance between an AP and mobile node. However, the
+variation in signal strength due to changing environment
+as well as the orientation of the mobile node makes it
+difficult to employ trilateriation for positioning. On the
+other hand, fingerprinting method uses a database of
+signal strength samples collected across the region of
+interest to determine a device’s position. It has been
+shown that the probability distributions of the database
+generated for the same area under controlled and
+uncontrolled conditions may be different. Therefore, all
+analyses and performance evaluation pertinent to
+fingerprinting must be done in real uncontrolled setup.
+
+Figure 5: Probability plots for controlled and uncontrolled tests.
+
+Figure 6: PDF and Normal fit of uncontrolled dataset.
+
+The cumulative distribution function and probability
+plot of the recorded samples for the two tests along with
+the corresponding normal fits have been shown in Figure 4
+and Figure 5 respectively. A rough visual assessment of the
+figures reveals that the samples conform to the Normal
+distribution. Also note that very little variation exists in the
+probability distributions of the samples recorded for
+controlled and uncontrolled tests. To determine the
+goodness of fit, Chi Square test was performed at the two
+datasets. It was found that in case of the controlled test,
+the null hypothesis that the samples were drawn from a
+Normal distribution cannot be rejected. On the other hand,
+in case of uncontrolled test the null hypothesis can be
+rejected.
+While the fingerprinting database was found to follow
+normal distribution in both controlled and uncontrolled
+setups, dataset’s conformity to the normal distribution is
+better in the controlled environments. Figure 6 shows the
+probability distribution of the samples collected during the
+
+www.ijrws.org
+
+ACKNOWLEDGEMENT
+This paper has been funded by the Samsung Academic
+Research Fund, Sungkyunkwan University, 2012.
+The authors are grateful to Dr. Jiyun Lee for her
+generous help and guidance.
+
+REFERENCES
+[1] S. F. Hasan, N. H. Siddique and S. Chakraborty,
+“Developments and Constraints in 802.11 based Vehicular
+Communications”, Journal of Wireless Personal
+
+34
+
+International Journal of Research in Wireless Systems (IJRWS), Volume 1, Issue 1, November (2012)
+
+Communications, Springer (accepted, published online),
+2012.
+[2] B. Li, A. Dempster, C. Rizos and J. Barnes, “Hybrid
+Method for Localization Using WLAN”, in the Proceedings
+of Spatial Intelligence, Innovation and Praxis, 2005.
+[3] A. M. Ladd, K. E. Bekris, A. Rudys, G. Marceau, L. E.
+Kavraki and D. S. Wallach, “Robotics-based Location
+th
+Sensing using Wireless Ethernet”, 8 Annual International
+Conference on Mobile Computing and Networking, 2002.
+[4] H. Liu, H. Darabi, P. Banerjee and J. Liu, “Survey of
+Wireless Indoor Positioning Techniques and Systems”, IEEE
+Transactions on Systems, Man and Cybernetics, vol. 37, no.
+6, pp. 1067-1080, 2007.
+[5] A. Smailagic and D. Kogan, “Location sensing and
+privacy in a context-aware computing environment”, IEEE
+Wireless Communications, pp. 10-17, 2002.
+[6] M. Burnato and C. K. Kallo, “Transparent Location
+Fingerprinting for Wireless Services”, in the Proceedings of
+Med-Hoc-Networks, 2002
+[7] M. Cypriani, F. Lasabe, P. Canalda and F. Spies, “Wi-FiBased Indoor Positioning: Basic Techniques, Hybrid
+Algorithms and Open Software Platform”, International
+Conference on Indoor Positioning and Indoor Navigation,
+2010.
+[8] O. Baala and A. Caminada, “WLAN-based Indoor
+Positioning System: Experimental Results for Stationary
+and Tracking MS”, International Conference on
+Communication Technology, pp. 1-4, 2006.
+[9] B. Li, Y. Wang, H. K. Lee, A. Dempster and C. Rizos,
+“Method for yielding a database of location fingerprints in
+WLAN”, IEE Proceedings, vol. 152, no. 5, pp. 580-586, 2005.
+
+www.ijrws.org
+
+Sumana Das holds B.E. in Electronic and
+Telecommunication Engineering from Biju
+Patnaik University of Technology. She is
+currently pursuing her MS degree from
+Sungkyunkwan University. Her research
+interests are in positioning, localization
+techniques and M2M communications.
+Thiago Amaral Teixeira is a senior
+undergraduate student from Unisinos
+University in Sao Leopoldo. He is currently
+enrolled in Sungkuynkwan University as
+an exchange student. His undergraduate
+studies are in Electrical Engineering &
+Telecommunications, while his research
+interests are in communication networks, positioning and
+localization techniques.
+Syed Faraz Hasan is an Assistant
+Professor in Sungkyunkwan University.
+He obtained his PhD from University of
+Ulster in 2011 and B.E. (Electrical) from
+NED University of Engineering and
+Technology in 2008.
+He regularly reviews papers for some
+well known journals and conferences. His research
+interests are in Intelligent Transportation Systems, M2M
+communications, stochastic modeling and Wireless
+Networks. He has authored a book and various research
+papers in these areas.
+
+35
+
+

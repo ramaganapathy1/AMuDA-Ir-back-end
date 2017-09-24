@@ -1,0 +1,2790 @@
+rssi value::37.0
+rssi values::35.0
+distance estimation::18.0
+transmission power::16.0
+sensor network::16.0
+wireless sensor networks::14.2646625065
+sensor networks::14.0
+distance measurement::13.0
+standard deviation::12.0
+rssi median minimum standard::10.0
+median minimum standard deviation::10.0
+measured rssi values::9.50977500433
+sensor node::9.0
+values for a distance::8.0
+nodes average::8.0
+wireless sensor::8.0
+estimate the distance::7.92481250361
+artificial neural network::7.92481250361
+minimum standard deviation::7.92481250361
+number of packets::7.92481250361
+median minimum standard::7.92481250361
+localization system::7.0
+rssi based::7.0
+neural network::7.0
+depicted in fig::6.33985000288
+rssi based distance::6.33985000288
+position estimation for position::6.0
+linear and exponential regression::6.0
+distance measurement for position::6.0
+position of the robot::6.0
+anchor nodes::6.0
+rssi based distance measurement::6.0
+measured value::5.0
+artificial neural::5.0
+sensor nodes::5.0
+rssi median::5.0
+base station::5.0
+signal strength::5.0
+rssi measurement::5.0
+measured rssi::5.0
+range of values::4.75488750216
+measurement for position::4.75488750216
+based distance measurement::4.75488750216
+rssi values measured::4.75488750216
+resolution of the rssi::4.0
+international conference on mobile::4.0
+variation of the rssi::4.0
+rssi values over 20s::4.0
+localization in wireless sensor::4.0
+estimation error::4.0
+measured values::4.0
+received signal strength indicator::4.0
+localization algorithm::4.0
+comparison of the statistic::4.0
+rssi measures::4.0
+histogram of received rssi::4.0
+estimated distance::4.0
+conference on mobile computing::4.0
+feed forward artificial neural::4.0
+mobile computing and networking::4.0
+distance estimations::4.0
+based localization::4.0
+median minimum::4.0
+mobile robot system robertino::4.0
+forward artificial neural network::4.0
+rssi values in duration::4.0
+based on the rssi::4.0
+rssi on the distance::4.0
+network to estimate::3.16992500144
+hoc localization system::3.16992500144
+feed forward artificial::3.16992500144
+rssi based localization::3.16992500144
+computing and networking::3.16992500144
+btnode sensor nodes::3.16992500144
+distance estimation med::3.16992500144
+number of measurements::3.16992500144
+higher rssi values::3.16992500144
+robot system robertino::3.16992500144
+average estimation error::3.16992500144
+values in duration::3.16992500144
+received rssi values::3.16992500144
+shown in fig::3.16992500144
+forward artificial neural::3.16992500144
+estimate the location::3.16992500144
+series of measurements::3.16992500144
+robot average::3.0
+higher rssi::3.0
+feed forward::3.0
+distance information::3.0
+statistical method::3.0
+indoor localization::3.0
+short distance::3.0
+btnodes position::3.0
+distance measurements::3.0
+localization method::3.0
+worst case::3.0
+mobile robot::3.0
+position estimation::3.0
+rssi fig::3.0
+activation function::3.0
+experimental setup::3.0
+minimum standard::3.0
+based distance::3.0
+consist of a number::2.0
+change with different distances::2.0
+values over 20s rssi::2.0
+great number of objects::2.0
+characteristics of the rssi::2.0
+number of experimental results::2.0
+results despite high dispersion::2.0
+power should be adapted::2.0
+connected to about 10,000::2.0
+proceedings of sixth annual::2.0
+fewer reflection surfaces compared::2.0
+first approach is based::2.0
+learning is either supervised::2.0
+information about the distance::2.0
+rssi and acoustic tof::2.0
+distance between two nodes::2.0
+effects caused by reflection::2.0
+rssi values were observed::2.0
+results for the distance::2.0
+experiments we also aver::2.0
+method in feed forward::2.0
+back propagated to adjust::2.0
+rssi are hardly visible::2.0
+based on the median::2.0
+transactions on sensor networks::2.0
+rssi deviations under standard::2.0
+shift of the range::2.0
+deviations under standard conditions::2.0
+robot carries a pc104::2.0
+exhibited a very similar::2.0
+relative to the transmission::2.0
+based on the comparison::2.0
+sensor networks for habitat::2.0
+frequencies not only prior::2.0
+frequencies is a subject::2.0
+optimized using the levenberg::2.0
+regression methods with fuzzy::2.0
+based with linear regression::2.0
+frequency for the localization::2.0
+carefully based on empirical::2.0
+measurements of different frequencies::2.0
+outputs of the network::2.0
+position b the position::2.0
+measurement results::2.0
+network using the data::2.0
+variation of the transmission::2.0
+values of the higher::2.0
+best-known examples are wireless::2.0
+localization in this section::2.0
+affected the distance measurement::2.0
+distances to the anchor::2.0
+node a are shown::2.0
+report uw cse 01-08::2.0
+tenth annual international conference::2.0
+station of the wsn::2.0
+decentralized approach to rf-based::2.0
+approach to rf-based location::2.0
+processing element in anns::2.0
+adjustment of the transmission::2.0
+similar to the regression::2.0
+done in much smaller::2.0
+values toward the higher::2.0
+proceedings of international workshop::2.0
+perform all the localization::2.0
+synapse so some inputs::2.0
+considerations on rssi based::2.0
+simulate the human brain::2.0
+quality and error range::2.0
+statistic data::2.0
+needed for network-centric localization::2.0
+found in the literature::2.0
+applicability of the rssi::2.0
+similar characteristics as depicted::2.0
+position b is based::2.0
+uncertainty during the distance::2.0
+motes exploit this fact::2.0
+small for distance measurement::2.0
+described by a linear::2.0
+single btnode is connected::2.0
+perfectly approximated the right::2.0
+measurement and localization methods::2.0
+crucial that a small::2.0
+based on a trained::2.0
+regression method provides distance::2.0
+method for distance estimation::2.0
+based on empirical studies::2.0
+wsns in military domains::2.0
+illustration of the rssi::2.0
+distance estimation all signal::2.0
+measured at 863.5mhz rssi::2.0
+important issues in wireless::2.0
+result from multi-path propagation::2.0
+based on these findings::2.0
+power is too high::2.0
+affect the measured rssi::2.0
+saved the respective rssi::2.0
+finally it goes back::2.0
+power the radio frequency::2.0
+influence the radio transmission::2.0
+cost-effective approaches are demanded::2.0
+transmission power the transmission::2.0
+influence on the rssi::2.0
+impact of the number::2.0
+distance to all sensor::2.0
+function the statistic data::2.0
+processing without possible feedback::2.0
+tested in the past::2.0
+bi-directional orientation of sensor-nodes::2.0
+estimated distances for node::2.0
+falko dressler autonomic networking::2.0
+tof for the ultrasonic::2.0
+exception of the first::2.0
+orientation directly exerts influence::2.0
+radio irregularity in wireless::2.0
+kuvs fachgesprch drahtlose sensornetze::2.0
+packets can supply meaningful::2.0
+distances for the localization::2.0
+developed an adaptive testbed::2.0
+thre b experimental results::2.0
+based on statistical methods::2.0
+in-building rf-based user location::2.0
+transceivers use a frequency::2.0
+individual for different orientations::2.0
+caused by inappropriate frequency::2.0
+hoc localization::2.0
+germany dressler @ informatik.uni-erlangen.de::2.0
+top of the robertino::2.0
+based on a maximum::2.0
+orientation of the sensor::2.0
+values is statistically relevant::2.0
+consideration of the orientation::2.0
+improve the results significantly::2.0
+mutual orientation::2.0
+quality of the distance::2.0
+estimation is to choose::2.0
+minimum of the rssi::2.0
+frequency determine the maximum::2.0
+high quality::2.0
+rssi hardly contains information::2.0
+sensor node was 2.2m::2.0
+experience that the localization::2.0
+identical conditions::2.0
+stand in arbitrary alignment::2.0
+lorincz and m welsh::2.0
+interpolation between two reference::2.0
+median of the measured::2.0
+occur that any node::2.0
+feed forward neural network::2.0
+rssi ing the quality::2.0
+workshop on wireless sensor::2.0
+assumed that this observation::2.0
+values and the output::2.0
+effects while the standard::2.0
+important to take care::2.0
+values do not necessarily::2.0
+dispersions caused by inappropriate::2.0
+caused this strong dispersion::2.0
+electrical engineering and computer::2.0
+transmission power=-4dbm::2.0
+examples are wireless sensor::2.0
+value and the real::2.0
+data packets with arbitrary::2.0
+top of the robot::2.0
+chosen too small far-field::2.0
+examine short range rssi::2.0
+measurements confirms this impression::2.0
+transmission power the radio::2.0
+measurement around its axis::2.0
+clear that the higher::2.0
+node in the environment::2.0
+values measured at 869.9mhz::2.0
+increased in the case::2.0
+quality of the reference::2.0
+acting as a base::2.0
+necessarily contain any distance::2.0
+number packets can supply::2.0
+characteristics of descriptive data::2.0
+rssi can be observed::2.0
+localization systems::2.0
+first approach::2.0
+table v distance measurement::2.0
+measurements supplies relevant results::2.0
+trained feed forward artificial::2.0
+determined in the learning::2.0
+neural network is implemented::2.0
+measurements exhibit similar characteristics::2.0
+spoton is a rssi::2.0
+aver i f akyildiz::2.0
+station for data processing::2.0
+measurement for 1m rssi::2.0
+rssi values for distances::2.0
+hidden layer::2.0
+mobile-assisted localization in wireless::2.0
+two methods for distance::2.0
+reaching hundreds or thousands::2.0
+determine the rssi values::2.0
+differences in the distribution::2.0
+alignment of the receiver::2.0
+ieee conference on computer::2.0
+low power radio chip::2.0
+high quality distance estimation::2.0
+btnode sensor::2.0
+measurements and localization experiments::2.0
+role in the localization::2.0
+orientation would be incomplete::2.0
+3.0m for the lower::2.0
+distance estimations for position::2.0
+localization in the laboratory::2.0
+distribution of the rssi::2.0
+comparison of both histograms::2.0
+relation between the rssi::2.0
+distance approximation in order::2.0
+department of electrical engineering::2.0
+visible for small distances::2.0
+system robertino::2.0
+neck is the packet::2.0
+place for short distances::2.0
+spread in all directions::2.0
+levenberg marquardt optimization method::2.0
+multilateration technique to estimate::2.0
+recognizable in the range::2.0
+presented for indoor localization::2.0
+layer and liner activation::2.0
+measured rssi values functionally::2.0
+complexity of the system::2.0
+approach is a statistical::2.0
+rssi to distance mappings::2.0
+frequency exhibit a smaller::2.0
+localization procedure needs data::2.0
+choose a transmission power::2.0
+localization process is completely::2.0
+coordinates of all calculated::2.0
+shold in the biological::2.0
+rssi values over 120s::2.0
+table iii::2.0
+standard conditions for indoor::2.0
+inputs are rssi values::2.0
+results suggest that small::2.0
+worst cases are described::2.0
+huge number::2.0
+performing many calibration runs::2.0
+resulting in high localization::2.0
+statistical characteristics of rssi::2.0
+results in our experiments::2.0
+nodes for the multilateration::2.0
+table shows the real::2.0
+btnode to the top::2.0
+fact that the orientation::2.0
+occurrence of node failure::2.0
+system it is crucial::2.0
+linear or exponential function::2.0
+four and seven anchor::2.0
+activation function for output::2.0
+localization in closed areas::2.0
+transmitter to the receiver::2.0
+value stagnates or oscillates::2.0
+positioning error of 50cm::2.0
+two methods to estimate::2.0
+measures using 10cm step::2.0
+aspect is the resolution::2.0
+describe the measured rssi::2.0
+median ascend with increasing::2.0
+microcontroller running at 8mhz::2.0
+irregularity in wireless sensor::2.0
+international workshop on location::2.0
+recognized that the measured::2.0
+regression method::2.0
+international conference::2.0
+summation of the inputs::2.0
+huge numbers of small::2.0
+adaptive testbed for distance::2.0
+deviation of the measured::2.0
+error between the actual::2.0
+433-915mhz low power radio::2.0
+applied in wsn due::2.0
+assumed that the signals::2.0
+hall in our sports::2.0
+attempt under identical conditions::2.0
+comparison of the characteristics::2.0
+computer sciences::2.0
+high the rssi differences::2.0
+power and the frequency::2.0
+rssi based distance estimation::2.0
+data of both series::2.0
+increment of the robot::2.0
+range of the radio::2.0
+orientation of the robot::2.0
+measured values vary strongly::2.0
+proceedings of 24th ieee::2.0
+real and the estimated::2.0
+position of this node::2.0
+methods for distance estimation::2.0
+processing in the sensor::2.0
+differences in the rssi::2.0
+considered for high quality::2.0
+strength indicator::2.0
+exponential regression the method::2.0
+localization process::2.0
+lead to different developments::2.0
+measurements of the mutual::2.0
+needed in the supervised::2.0
+packet quantities are regarded::2.0
+applications such as habitat::2.0
+packets on the two::2.0
+proceedings of tenth annual::2.0
+reach an adequate illustration::2.0
+distance estimations with regression::2.0
+determine the signal strength::2.0
+values is not sufficient::2.0
+developments of the fading::2.0
+method provides distance estimations::2.0
+minimum standard deviation lin::2.0
+measured at 869.9mhz fig::2.0
+simple interpolation between two::2.0
+conference on computer communications::2.0
+shows the distance estimation::2.0
+measurements a further important::2.0
+element ; the output::2.0
+minimum and median ascend::2.0
+algorithm parameters carefully based::2.0
+ultrasonic signal::2.0
+estimation all signal strength-based::2.0
+activation function for hidden::2.0
+compensate the orientation effects::2.0
+conditions for indoor localization::2.0
+assuming the rf signal::2.0
+training the artificial neural::2.0
+inputs have excitatory effects::2.0
+neural network to estimate::2.0
+ieee infocom::2.0
+packets from each node::2.0
+location of a node::2.0
+past experiments::2.0
+work in the last::2.0
+characteristics the localization algorithm::2.0
+failure is not rare::2.0
+compared a medium transmission::2.0
+improvements for a mobile::2.0
+localization including anchor nodes::2.0
+combinations of the statistical::2.0
+neural networks perform signal::2.0
+quality of distance approximations::2.0
+based on known node::2.0
+parameters during our measurements::2.0
+orientation in the past::2.0
+depending on the quality::2.0
+distance measurement is comparably::2.0
+discuss and analyze approaches::2.0
+compared regard rssi values::2.0
+strengths of the inputs::2.0
+pc104 board running linux::2.0
+errors in the measured::2.0
+closed areas with small::2.0
+relying on the received::2.0
+50cm on an area::2.0
+ad-hoc location sensing system::2.0
+output and the estimated::2.0
+first and last hops::2.0
+frequencies are more vulnerable::2.0
+signal strength-based localization systems::2.0
+dressler autonomic networking group::2.0
+system robertino.2 one single::2.0
+assume that the quality::2.0
+distance measurement for localization::2.0
+converter can be converted::2.0
+strongly under identical conditions::2.0
+care of the chosen::2.0
+powerful massively distributed systems::2.0
+communicate with other nodes::2.0
+power the transmission power::2.0
+localization of mobile systems::2.0
+step resulting in altogether::2.0
+drove over a distance::2.0
+median is less meaningful::2.0
+inputs have different effects::2.0
+standard deviation is recognizable::2.0
+employing the rssi values::2.0
+conditions must be considered::2.0
+measurement results for position::2.0
+robot in the test::2.0
+out that the standard::2.0
+straight-lined over a wide::2.0
+meaningful rssi based distance::2.0
+estimations with an average::2.0
+changing the rf parameters::2.0
+learning method in feed::2.0
+numbers of small embedded::2.0
+processing element::2.0
+proportional to the input::2.0
+methods with fuzzy approaches::2.0
+system for sensor networks::2.0
+user location and tracking::2.0
+employed as activation function::2.0
+tuned the system parameters::2.0
+due to the short::2.0
+encouraging compared to measures::2.0
+evaluated linear and exponential::2.0
+set up a system::2.0
+smaller difference between maximum::2.0
+compared to our lab::2.0
+issues in wireless sensor::2.0
+artificial neural networks perform::2.0
+quantile of the measured::2.0
+values measured during rotation::2.0
+create powerful massively distributed::2.0
+data of some calibration::2.0
+addition to the ability::2.0
+university of erlangen martensstr::2.0
+estimations as the average::2.0
+neuron is the basic::2.0
+shown that some frequencies::2.0
+process is completely automated::2.0
+greater than a threshold::2.0
+meaningful regarding the distance::2.0
+antenna characteristics and orientation::2.0
+mathematical models to determine::2.0
+evaluation of fewer rssi::2.0
+function for hidden layer::2.0
+sixth annual acm international::2.0
+small for all distances::2.0
+data from many sensor::2.0
+strength under different frequencies::2.0
+position a a node::2.0
+approaches have been presented::2.0
+10cm per step resulting::2.0
+accomplished with higher transmission::2.0
+ground of our lab::2.0
+localization-assistance for mobile nodes::2.0
+stored the rssi values::2.0
+distance estimation and fig::2.0
+subject of the accomplished::2.0
+habitat monitoring::2.0
+short distances::2.0
+function for output layer::2.0
+flow from the inputs::2.0
+solutions for radio irregularity::2.0
+network through several layers::2.0
+small that inverse mapping::2.0
+based on three measurements::2.0
+equipped with an atmel::2.0
+distance between the robot::2.0
+rssi values b estimation::2.0
+antennas a rssi based::2.0
+sources with d experimental::2.0
+challenging and important issues::2.0
+algorithm is the trilateration::2.0
+nodes1 and the mobile::2.0
+complete range of values::2.0
+determine the maximum range::2.0
+technical report uw cse::2.0
+robot rotated::2.0
+nodes for the quality::2.0
+arbitrary distance and saved::2.0
+leads to a substantial::2.0
+cover the complete range::2.0
+spoton ad-hoc location sensing::2.0
+dispersion over the averaged::2.0
+wellcontrolled for meaningful rssi::2.0
+series of measurements confirms::2.0
+experimental results::2.0
+distance estimation is based::2.0
+rssi based ad hoc::2.0
+number of anchor nodes::2.0
+localization process to support::2.0
+values measured at 863.5mhz::2.0
+examined whether the evaluation::2.0
+rssi based localization system::2.0
+arising peaks could distort::2.0
+problem is that rssi::2.0
+exploited for improved measurement::2.0
+btnode2 btnode9::2.0
+focuses on a robust::2.0
+set of influencing factors::2.0
+systems has been addressed::2.0
+examine whether the change::2.0
+higher the standard deviation::2.0
+annual acm international conference::2.0
+workstation computers and shelves::2.0
+variation of the frequency::2.0
+sensor-based localization-assistance for mobile::2.0
+adjustment of the frequency::2.0
+size in the ranges::2.0
+disturbances on the distance::2.0
+system of circle equations::2.0
+transmission power without modification::2.0
+interface and a 433-915mhz::2.0
+values measured::2.0
+shown in table iii::2.0
+table i statistical characteristics::2.0
+monitoring and emergency applications::2.0
+finally used the multilateration::2.0
+distance ; the first::2.0
+mhz and a maximum::2.0
+comparison of the statistical::2.0
+lab is an area::2.0
+range of rssi values::2.0
+database of fine-grained rssi::2.0
+intensively discuss and analyze::2.0
+output of the neuron::2.0
+node changes the rssi::2.0
+experimental setup for localization::2.0
+cover the complete rssi::2.0
+relative and absolute position::2.0
+radio frequency::2.0
+produce high quality estimations::2.0
+exhibit a smaller difference::2.0
+estimation using the ann::2.0
+parameters to the values::2.0
+regression methods::2.0
+audible frequency to reduce::2.0
+wsn using rssi measures::2.0
+location information for position::2.0
+deviation of this series::2.0
+solution of a set::2.0
+characteristics of rssi measures::2.0
+experimental setup our lab::2.0
+base station for data::2.0
+number of measurements supplies::2.0
+majority of the nodes::2.0
+signal has no delay::2.0
+networks for emergency response::2.0
+localization system for wsns::2.0
+opinion the most important::2.0
+measurement of short distances::2.0
+areas with small dimensions::2.0
+important factor for proper::2.0
+interpretation of calibration data::2.0
+quality of the antennas::2.0
+scribed in this paper::2.0
+environments an average positioning::2.0
+regarded to forming sources::2.0
+based ad hoc localization::2.0
+relevance of indoors locations::2.0
+localization system for sensor::2.0
+power radio chip cc1000::2.0
+distance measurements and localization::2.0
+quality of the position::2.0
+antenna characteristics the localization::2.0
+connected with a large::2.0
+influence on the measured::2.0
+synchronization of the sensor::2.0
+decrease of the range::2.0
+due to the limited::2.0
+neural networks::2.0
+estimations with regression min::2.0
+expected according to fewer::2.0
+robertino.2 one single btnode::2.0
+sensor networks for emergency::2.0
+engineering and computer sciences::2.0
+identified the following parameters::2.0
+included in the table::2.0
+quantile maximum standard div::2.0
+comparable to the statistical::2.0
+data of the rssi::2.0
+system must be solved::2.0
+mapping of the rssi::2.0
+prototype using btnode sensor::2.0
+proceedings of ieee infocom::2.0
+propagation is the common::2.0
+rssi measures using 10cm::2.0
+two methods as discussed::2.0
+measurements were done automatically::2.0
+aged the position results::2.0
+localization for mobile sensor::2.0
+supplies the best results::2.0
+quality is quite high::2.0
+power must be wellcontrolled::2.0
+move the base station::2.0
+regression using the minimum::2.0
+change is so small::2.0
+huge number of parameters::2.0
+estimation in more detail::2.0
+small distances::2.0
+rotated with each measurement::2.0
+methods and possible improvements::2.0
+algorithms de a statistical::2.0
+quality of the rssi::2.0
+shows that a measurement::2.0
+far-field effects take place::2.0
+calibration of the spoton::2.0
+number of sensor nodes::2.0
+transmission in our lab::2.0
+error is about 0.8m::2.0
+estimated distances::2.0
+measured values obviously increased::2.0
+recognized that the data::2.0
+rssi values is statistically::2.0
+neurons ; each neuron::2.0
+forward artificial neural networks::2.0
+quality of position estimation::2.0
+indoor environments an average::2.0
+actual and estimated distances::2.0
+small dimensions is important::2.0
+supervised learning to train::2.0
+proceedings of first acm::2.0
+short range::2.0
+recognizable toward the higher::2.0
+statistics and regression methods::2.0
+orientation the used antennas::2.0
+systems need a base::2.0
+parameters must be considered::2.0
+neuron is a function::2.0
+assumed that the resolution::2.0
+short distances already leading::2.0
+estimation error is included::2.0
+node is a small::2.0
+setup for localization including::2.0
+increase of the standard::2.0
+positions of the robot::2.0
+minimum for each individual::2.0
+radar is a user::2.0
+influence of antenna orientation::2.0
+table that median based::2.0
+calibration data::2.0
+networks for habitat monitoring::2.0
+observation of the signal::2.0
+localization algorithm the quality::2.0
+testbed for distance measurements::2.0
+exponential function as shown::2.0
+exponential regression::2.0
+estimate the distance based::2.0
+value ; the first::2.0
+communication with the sensor::2.0
+determined by the weights::2.0
+error of the ann::2.0
+wide range with increasing::2.0
+depicts the localization quality::2.0
+electronic devices become cheaper::2.0
+automatically by the robot::2.0
+anns are biologically inspired::2.0
+depending on the synapse::2.0
+focus is to examine::2.0
+considered for the compensation::2.0
+8mhz and 128kbyte flash::2.0
+deviation the more uncertainty::2.0
+small number of measurements::2.0
+estimated distances for position::2.0
+recorded with an analogue::2.0
+regression has the smallest::2.0
+keeping the overall applicability::2.0
+hops minimum and median::2.0
+employ a bluetooth interface::2.0
+oscillates without a tendency::2.0
+inputs to the outputs::2.0
+approximated the right position::2.0
+rssi form the input::2.0
+acm transactions on sensor::2.0
+measurement is comparably bad::2.0
+networks using the received::2.0
+alignment to the robot::2.0
+sensor networks and applications::2.0
+antennas caused this strong::2.0
+networks perform signal processing::2.0
+back on the starting::2.0
+robot and the sensor::2.0
+rssi based distance measurements::2.0
+habitat monitoring and emergency::2.0
+study and discuss short::2.0
+position computation for position::2.0
+radio frequency the node::2.0
+mobile robot system robertino.2::2.0
+range of the rssi::2.0
+suggest that small number::2.0
+carries a pc104 board::2.0
+demarcations also between small::2.0
+request some data packets::2.0
+location and tracking system::2.0
+number of packets rssi::2.0
+examined how the rssi::2.0
+sigmoid function is employed::2.0
+thousands of connected devices::2.0
+dressler @ informatik.uni-erlangen.de abstractlocalization::2.0
+common used learning method::2.0
+average distance estimation error::2.0
+supplied with a database::2.0
+differences between different distances::2.0
+leading to calibration data::2.0
+experimental results are provided::2.0
+frequency the node orientation::2.0
+neurons and one output::2.0
+range with increasing distance::2.0
+acm workshop on wireless::2.0
+wireless sensor networks represent::2.0
+distance would be connected::2.0
+regulated to the lowest::2.0
+short range rssi deviations::2.0
+packets with arbitrary distance::2.0
+environment was a hall::2.0
+rssi does not cover::2.0
+0.8m resulting in high::2.0
+median based with linear::2.0
+influence on the quality::2.0
+distance measurement and localization::2.0
+distances are not significant::2.0
+atmel atmega128l microcontroller running::2.0
+shows that both measurements::2.0
+short ranged rssi based::2.0
+transmission power is regulated::2.0
+change in the orientation::2.0
+method is to measure::2.0
+two methods::2.0
+effects on the outputs::2.0
+distance estimation and localization::2.0
+index termswireless sensor network::2.0
+results of the localization::2.0
+send rf and ultrasonic::2.0
+combinations of distance information::2.0
+shows the location information::2.0
+deviation and the maximum::2.0
+vary strongly under identical::2.0
+measurements must be done::2.0
+distances for measured rssi::2.0
+50cm toward a sensor::2.0
+function of the inputs::2.0
+smoothness of rssi measurements::2.0
+computed by the solution::2.0
+two frequencies and stored::2.0
+discuss short ranged rssi::2.0
+acoustic tof to estimate::2.0
+rssi measures abdalkarim awad::2.0
+unavailable for the distance::2.0
+biologically inspired classification algorithms::2.0
+small distances between transmitters::2.0
+clear from this table::2.0
+result is quite encouraging::2.0
+depicts the corresponding average::2.0
+hidden layer and liner::2.0
+factor for proper distance::2.0
+inputs and one hidden::2.0
+estimation using artificial neural::2.0
+ranged rssi based distance::2.0
+dimensions is important::1.58496250072
+rssi to distance::1.58496250072
+measurements exhibit similar::1.58496250072
+localization of mobile::1.58496250072
+inputs is determined::1.58496250072
+meaningful rssi based::1.58496250072
+powerful massively distributed::1.58496250072
+study and discuss::1.58496250072
+robot is supplied::1.58496250072
+developed an adaptive::1.58496250072
+function as shown::1.58496250072
+proceedings of tenth::1.58496250072
+antennas are regarded::1.58496250072
+quantile maximum standard::1.58496250072
+measurements supplies relevant::1.58496250072
+present intensively discuss::1.58496250072
+5x8m with desks::1.58496250072
+first and last::1.58496250072
+table that median::1.58496250072
+parameters carefully based::1.58496250072
+distances for position::1.58496250072
+position d supplies::1.58496250072
+areas with small::1.58496250072
+table v shows::1.58496250072
+represents a typical::1.58496250072
+thousands of connected::1.58496250072
+determine the signal::1.58496250072
+cheaper and smaller::1.58496250072
+applications for wsns::1.58496250072
+sensor networks represent::1.58496250072
+implemented using matlab::1.58496250072
+caused by inappropriate::1.58496250072
+annual acm international::1.58496250072
+training the artificial::1.58496250072
+last few years::1.58496250072
+compared a medium::1.58496250072
+place for short::1.58496250072
+863.5mhz rssi values::1.58496250072
+procedure needs data::1.58496250072
+measurement and localization::1.58496250072
+exploited for improved::1.58496250072
+reach an adequate::1.58496250072
+interpretation of calibration::1.58496250072
+atmega128l microcontroller running::1.58496250072
+factor for proper::1.58496250072
+high localization errors::1.58496250072
+combinations of distance::1.58496250072
+biases are optimized::1.58496250072
+user tracking system::1.58496250072
+orientation directly exerts::1.58496250072
+distances already leading::1.58496250072
+distort the result::1.58496250072
+distances for measured::1.58496250072
+small far-field effects::1.58496250072
+average value appears::1.58496250072
+position d position::1.58496250072
+characteristics the localization::1.58496250072
+in-building rf-based user::1.58496250072
+measurement is comparably::1.58496250072
+433-915mhz low power::1.58496250072
+rotate and move::1.58496250072
+effective transmission range::1.58496250072
+10,000 other neurons::1.58496250072
+number of experimental::1.58496250072
+disregarding energy requirements::1.58496250072
+process is completely::1.58496250072
+ad-hoc location sensing::1.58496250072
+basics of trilateration::1.58496250072
+workshop on location::1.58496250072
+frequency the node::1.58496250072
+sensing and computing::1.58496250072
+design and calibration::1.58496250072
+irregularity in wireless::1.58496250072
+environments an average::1.58496250072
+characteristics of rssi::1.58496250072
+common localization algorithm::1.58496250072
+distance estimation based::1.58496250072
+networks for emergency::1.58496250072
+distances between transmitters::1.58496250072
+improved measurement results::1.58496250072
+inputs are rssi::1.58496250072
+estimation all signal::1.58496250072
+factors that affect::1.58496250072
+shows the location::1.58496250072
+describe the measured::1.58496250072
+caused this strong::1.58496250072
+area of 5x8m::1.58496250072
+exhibit a smaller::1.58496250072
+conditions for indoor::1.58496250072
+fading effects caused::1.58496250072
+kuvs fachgesprch drahtlose::1.58496250072
+estimation and localization::1.58496250072
+methods with fuzzy::1.58496250072
+measures using 10cm::1.58496250072
+ann is comparable::1.58496250072
+quality of distance::1.58496250072
+measured value stagnates::1.58496250072
+engineering and computer::1.58496250072
+robot is reduced::1.58496250072
+based on statistical::1.58496250072
+termswireless sensor network::1.58496250072
+overcome orientation effects::1.58496250072
+packets with arbitrary::1.58496250072
+distance and saved::1.58496250072
+steps of 50cm::1.58496250072
+perform signal processing::1.58496250072
+train the network::1.58496250072
+average distance estimation::1.58496250072
+antennas a rssi::1.58496250072
+presented for indoor::1.58496250072
+power is regulated::1.58496250072
+ultrasonic signals assuming::1.58496250072
+typical results table::1.58496250072
+distance measurement purposes::1.58496250072
+compare the measurements::1.58496250072
+wavelength can lead::1.58496250072
+desirable to compare::1.58496250072
+evaluate the quality::1.58496250072
+cricket motes exploit::1.58496250072
+frequencies and stored::1.58496250072
+inaccurate time synchronization::1.58496250072
+approximate the distance::1.58496250072
+single processing element::1.58496250072
+prototype using btnode::1.58496250072
+trained feed forward::1.58496250072
+localization in closed::1.58496250072
+connecting huge numbers::1.58496250072
+fewer rssi values::1.58496250072
+experiments have shown::1.58496250072
+adc x 2.56v::1.58496250072
+cases are described::1.58496250072
+histograms shows differences::1.58496250072
+analyze the results::1.58496250072
+monitoring and emergency::1.58496250072
+influence the speed::1.58496250072
+small packet quantities::1.58496250072
+learning to train::1.58496250072
+atmel atmega128l microcontroller::1.58496250072
+objects may influence::1.58496250072
+design of calamari::1.58496250072
+challenging and important::1.58496250072
+expect sharp demarcations::1.58496250072
+10cm step size::1.58496250072
+higher transmission power::1.58496250072
+methods to estimate::1.58496250072
+outputs are needed::1.58496250072
+fachgesprch drahtlose sensornetze::1.58496250072
+results despite high::1.58496250072
+experiments is multilateration::1.58496250072
+compared two methods::1.58496250072
+introduce two methods::1.58496250072
+artificial neural networks::1.58496250072
+assume the fact::1.58496250072
+developed a prototype::1.58496250072
+btnode is connected::1.58496250072
+two further series::1.58496250072
+medium transmission power::1.58496250072
+standard deviation increased::1.58496250072
+table iv shows::1.58496250072
+location and context-awareness::1.58496250072
+estimation and fig::1.58496250072
+ranges between 0.5m::1.58496250072
+approach is based::1.58496250072
+change of orientation::1.58496250072
+small embedded systems::1.58496250072
+small number packets::1.58496250072
+function is employed::1.58496250072
+setup our lab::1.58496250072
+right ; finally::1.58496250072
+high standard deviation::1.58496250072
+measurements were done::1.58496250072
+basic processing element::1.58496250072
+methods produce estimations::1.58496250072
+networks and applications::1.58496250072
+desired effect occurred::1.58496250072
+support the case::1.58496250072
+issues in wireless::1.58496250072
+stored the rssi::1.58496250072
+reduced to 10cm::1.58496250072
+including anchor nodes::1.58496250072
+values we tested::1.58496250072
+process to support::1.58496250072
+position a represents::1.58496250072
+higher the standard::1.58496250072
+regarded to forming::1.58496250072
+famous localization method::1.58496250072
+examined the characteristics::1.58496250072
+study possible combinations::1.58496250072
+possibly reaching hundreds::1.58496250072
+experiments take place::1.58496250072
+liner activation function::1.58496250072
+carries a pc104::1.58496250072
+tendency is recognizable::1.58496250072
+inputs have excitatory::1.58496250072
+small computing device::1.58496250072
+input signal level::1.58496250072
+frequency of 868mhz::1.58496250072
+leading to calibration::1.58496250072
+short ranged rssi::1.58496250072
+devices become cheaper::1.58496250072
+set of influencing::1.58496250072
+anns are biologically::1.58496250072
+samples with inputs::1.58496250072
+two different frequencies::1.58496250072
+values is statistically::1.58496250072
+database of fine-grained::1.58496250072
+analyze approaches relying::1.58496250072
+robot system robertino.2::1.58496250072
+exponential regression based::1.58496250072
+low quality antenna::1.58496250072
+similar to gps::1.58496250072
+proper distance estimation::1.58496250072
+inputs and outputs::1.58496250072
+duration of 20s::1.58496250072
+request some data::1.58496250072
+supply meaningful results::1.58496250072
+judge the relevance::1.58496250072
+sixth annual acm::1.58496250072
+values b estimation::1.58496250072
+estimation is based::1.58496250072
+solutions for radio::1.58496250072
+rises almost straight-lined::1.58496250072
+24th ieee conference::1.58496250072
+system for sensor::1.58496250072
+range of rssi::1.58496250072
+maximum and minimum::1.58496250072
+power the transmission::1.58496250072
+compared to measures::1.58496250072
+period of 120s::1.58496250072
+cricket location-support system::1.58496250072
+statistical regression methods::1.58496250072
+method for distance::1.58496250072
+relevance of indoors::1.58496250072
+statistical data shows::1.58496250072
+gathered by performing::1.58496250072
+conference on computer::1.58496250072
+frequencies of 863.5mhz::1.58496250072
+ccording to moore::1.58496250072
+supervised or unsupervised::1.58496250072
+university of washington::1.58496250072
+accomplished with higher::1.58496250072
+table i statistical::1.58496250072
+networks perform signal::1.58496250072
+basic localization method::1.58496250072
+anns the neuron::1.58496250072
+adaptive distance estimation::1.58496250072
+setup is depicted::1.58496250072
+robertino.2 one single::1.58496250072
+localization-assistance for mobile::1.58496250072
+results are depicted::1.58496250072
+values obviously increased::1.58496250072
+rotation finally leads::1.58496250072
+selected to judge::1.58496250072
+transmitter can send::1.58496250072
+hand we made::1.58496250072
+aged the position::1.58496250072
+system of circle::1.58496250072
+weights to reduce::1.58496250072
+employed as activation::1.58496250072
+converted to dbm::1.58496250072
+weights in ann::1.58496250072
+models and solutions::1.58496250072
+ad-hoc localization system::1.58496250072
+spoton ad-hoc location::1.58496250072
+effective range lies::1.58496250072
+reality the occurrence::1.58496250072
+inspired classification algorithms::1.58496250072
+weights and biases::1.58496250072
+frequency to reduce::1.58496250072
+absolute position determination::1.58496250072
+rssi is recorded::1.58496250072
+respective rssi values::1.58496250072
+estimation using artificial::1.58496250072
+challenges and opportunities::1.58496250072
+distance measurement process::1.58496250072
+order to evaluate::1.58496250072
+trilateration as depicted::1.58496250072
+node is computed::1.58496250072
+strongly under identical::1.58496250072
+robot to request::1.58496250072
+number of anchor::1.58496250072
+maximum transmission power::1.58496250072
+observation is individual::1.58496250072
+dressler @ informatik.uni-erlangen.de::1.58496250072
+computers and shelves::1.58496250072
+reflection surfaces compared::1.58496250072
+128kbyte flash memory::1.58496250072
+setup for localization::1.58496250072
+packets to determine::1.58496250072
+testbed for distance::1.58496250072
+methods as discussed::1.58496250072
+effects take place::1.58496250072
+proceedings of ieee::1.58496250072
+computation for position::1.58496250072
+computing in addition::1.58496250072
+form the input::1.58496250072
+move the base::1.58496250072
+sensor networks consist::1.58496250072
+first acm workshop::1.58496250072
+measured at 869.9mhz::1.58496250072
+measures rssi values::1.58496250072
+anchor nodes mi=::1.58496250072
+rf-based location tracking::1.58496250072
+proceedings of international::1.58496250072
+neuron is generated::1.58496250072
+rotation e change::1.58496250072
+function for output::1.58496250072
+noisy indoor environments::1.58496250072
+short range rssi::1.58496250072
+influence of antenna::1.58496250072
+fewer reflection surfaces::1.58496250072
+120s in fig::1.58496250072
+higher frequency exhibit::1.58496250072
+measurement for localization::1.58496250072
+attached a btnode::1.58496250072
+dressler autonomic networking::1.58496250072
+rssi i introduction::1.58496250072
+orientations and positions::1.58496250072
+introduction a ccording::1.58496250072
+experiments it showed::1.58496250072
+proceedings of first::1.58496250072
+long distance communication::1.58496250072
+linear and exponential::1.58496250072
+rssi values change::1.58496250072
+capability of sensing::1.58496250072
+controlled and exploited::1.58496250072
+reference measurements based::1.58496250072
+minimum and median::1.58496250072
+smoothness of rssi::1.58496250072
+depicted in table::1.58496250072
+index termswireless sensor::1.58496250072
+interpolation between two::1.58496250072
+sufficient to reach::1.58496250072
+needed to compensate::1.58496250072
+inputs as shown::1.58496250072
+calamari uses rssi::1.58496250072
+algorithm the quality::1.58496250072
+evaluate two methods::1.58496250072
+needed to examine::1.58496250072
+measurement without consideration::1.58496250072
+show the applicability::1.58496250072
+fact and send::1.58496250072
+number of parameters::1.58496250072
+ability to communicate::1.58496250072
+localization in wireless::1.58496250072
+smallest error compared::1.58496250072
+full transmission power::1.58496250072
+method provides distance::1.58496250072
+methods for distance::1.58496250072
+statistics show clear::1.58496250072
+estimations with regression::1.58496250072
+20s rssi values::1.58496250072
+estimate the distances::1.58496250072
+difference between maximum::1.58496250072
+duration of 120s::1.58496250072
+distance the output::1.58496250072
+range rssi deviations::1.58496250072
+cover the complete::1.58496250072
+studied different factors::1.58496250072
+transmission f smoothness::1.58496250072
+inputs is greater::1.58496250072
+common used learning::1.58496250072
+year electronic devices::1.58496250072
+mobile robot system::1.58496250072
+discuss short ranged::1.58496250072
+shows the results::1.58496250072
+measures abdalkarim awad::1.58496250072
+reduce the complexity::1.58496250072
+statistical aspects first::1.58496250072
+networks for habitat::1.58496250072
+based localization system::1.58496250072
+describe the basics::1.58496250072
+rssi measures abdalkarim::1.58496250072
+university of california::1.58496250072
+position d vii::1.58496250072
+california at berkeley::1.58496250072
+sensor-nodes into account::1.58496250072
+estimations perfectly approximated::1.58496250072
+3.5m and 5.0m::1.58496250072
+applicability in mind::1.58496250072
+set of equations::1.58496250072
+values over 20s::1.58496250072
+two reference values::1.58496250072
+ann a dist::1.58496250072
+ranged rssi based::1.58496250072
+reduce the error::1.58496250072
+1.0m and 3.5m::1.58496250072
+8mhz and 128kbyte::1.58496250072
+10cm per step::1.58496250072
+receiver node relative::1.58496250072
+delay and measure::1.58496250072
+determine mutual orientation::1.58496250072
+preparation and interpretation::1.58496250072
+tested the impact::1.58496250072
+based distance measurements::1.58496250072
+acm international conference::1.58496250072
+workshop on wireless::1.58496250072
+adapted to cover::1.58496250072
+ultrasonic or infra-red::1.58496250072
+made the experience::1.58496250072
+range with increasing::1.58496250072
+neurons through dendrites::1.58496250072
+static base station::1.58496250072
+conclusion in conclusion::1.58496250072
+distance estimation ann::1.58496250072
+advantage of employing::1.58496250072
+method is needed::1.58496250072
+case of rotation::1.58496250072
+emerging research domains::1.58496250072
+localization in wsn::1.58496250072
+anchor nodes similar::1.58496250072
+vulnerable to disturbances::1.58496250072
+btnode sensor nodes1::1.58496250072
+layer and liner::1.58496250072
+correct this consciously::1.58496250072
+considered regression curves::1.58496250072
+ieee pervasive computing::1.58496250072
+connected on top::1.58496250072
+order to approximate::1.58496250072
+average positioning error::1.58496250072
+past results suggest::1.58496250072
+biological neural network::1.58496250072
+transmitters and receivers::1.58496250072
+measurements is small::1.58496250072
+mobile sensor networks::1.58496250072
+measure the tof::1.58496250072
+increasing the distance::1.58496250072
+nodes are equipped::1.58496250072
+0.5m and 1.0m::1.58496250072
+comparison between actual::1.58496250072
+adjust the weights::1.58496250072
+node is unavailable::1.58496250072
+last hops minimum::1.58496250072
+layers of neurons::1.58496250072
+range was selected::1.58496250072
+results as depicted::1.58496250072
+values were measured::1.58496250072
+similar pattern::1.0
+empirical studies::1.0
+inhibitory effects::1.0
+sensor nodes1::1.0
+two minutes::1.0
+effective range::1.0
+measured distances::1.0
+small dimensions::1.0
+dressler autonomic::1.0
+multi-path propagation::1.0
+important aspect::1.0
+receiver node::1.0
+radio chip::1.0
+reflection surfaces::1.0
+evaluated linear::1.0
+inputs needed::1.0
+acm transactions::1.0
+produce estimations::1.0
+fachgesprch drahtlose::1.0
+expect sharp::1.0
+863.5mhz rssi::1.0
+results suggest::1.0
+location sensing::1.0
+short ranged::1.0
+sensing system::1.0
+searched positions::1.0
+smaller range::1.0
+drahtlose sensornetze::1.0
+smaller steps::1.0
+values functionally::1.0
+localization methods::1.0
+running linux::1.0
+energy requirements::1.0
+germany dressler::1.0
+mathematical models::1.0
+median based::1.0
+experiment shows::1.0
+ann approach::1.0
+large error::1.0
+exponential function::1.0
+ad-hoc localization::1.0
+measurements supplies::1.0
+radio irregularity::1.0
+related work::1.0
+byte header::1.0
+compared two::1.0
+emerging research::1.0
+spoton ad-hoc::1.0
+quality antenna::1.0
+produce high::1.0
+trained feed::1.0
+compensation calculation::1.0
+analyze approaches::1.0
+statistical properties::1.0
+adequate illustration::1.0
+statistical regression::1.0
+higher frequency::1.0
+finally leads::1.0
+changed environment::1.0
+power radio::1.0
+huge numbers::1.0
+influencing factors::1.0
+ieee pervasive::1.0
+histograms shows::1.0
+number packets::1.0
+methods produce::1.0
+additional experiments::1.0
+hops minimum::1.0
+workstation computers::1.0
+node based::1.0
+simple interpolation::1.0
+specific case::1.0
+rssi node::1.0
+value stagnates::1.0
+motes exploit::1.0
+networking group::1.0
+signal processing::1.0
+localization algorithms::1.0
+location-support system::1.0
+data packets::1.0
+learning process::1.0
+networks represent::1.0
+completely automated::1.0
+distance difference::1.0
+two frequencies::1.0
+frequency exhibit::1.0
+distributed systems::1.0
+position computation::1.0
+cricket location-support::1.0
+strong dispersion::1.0
+neuron connected::1.0
+position results::1.0
+maximum rssi::1.0
+electrical engineering::1.0
+high localization::1.0
+circle equations::1.0
+important issues::1.0
+position quality::1.0
+statistical characteristics::1.0
+distance approximations::1.0
+analogue signal::1.0
+major problem::1.0
+determine mutual::1.0
+arbitrary distance::1.0
+last hops::1.0
+bi-directional orientation::1.0
+electronic devices::1.0
+introduce two::1.0
+liner activation::1.0
+bottle neck::1.0
+chip cc1000::1.0
+actual output::1.0
+distance mappings::1.0
+kuvs fachgesprch::1.0
+compared regard::1.0
+distance indicator::1.0
+smallest error::1.0
+vrssi 45.5dbm::1.0
+quantile maximum::1.0
+node relative::1.0
+marquardt optimization::1.0
+atmega128l microcontroller::1.0
+meaningful results::1.0
+networks consist::1.0
+lowest value::1.0
+inspired classification::1.0
+regression techniques::1.0
+international workshop::1.0
+indoor environments::1.0
+rssi differences::1.0
+mobile sensor::1.0
+sensor-based localization-assistance::1.0
+research domains::1.0
+node dist::1.0
+acoustic tof::1.0
+average error::1.0
+effect occurred::1.0
+regression min::1.0
+packet quantities::1.0
+complete rssi::1.0
+accomplished experiments::1.0
+flash memory::1.0
+proper distance::1.0
+computing device::1.0
+comparably bad::1.0
+complete range::1.0
+calculated positions::1.0
+substantial advantage::1.0
+antennas caused::1.0
+past results::1.0
+possibly reaching::1.0
+system robertino.2::1.0
+effects caused::1.0
+measures rssi::1.0
+radio waves::1.0
+strong increase::1.0
+termswireless sensor::1.0
+robot positions::1.0
+static base::1.0
+frequency range::1.0
+computer networks::1.0
+distance communication::1.0
+regression exp::1.0
+pervasive computing::1.0
+aspects first::1.0
+statistical data::1.0
+vary strongly::1.0
+wide range::1.0
+powerful massively::1.0
+two reference::1.0
+year electronic::1.0
+atmel atmega128l::1.0
+distance dependency::1.0
+brain consists::1.0
+sports center::1.0
+index termswireless::1.0
+fuzzy approaches::1.0
+measurement groups::1.0
+closed areas::1.0
+multilateration process::1.0
+limited role::1.0
+average distance::1.0
+far-field effects::1.0
+network-centric localization::1.0
+statistics show::1.0
+biological neural::1.0
+output signal::1.0
+inversely proportional::1.0
+outputs depending::1.0
+step resulting::1.0
+average localization::1.0
+range lies::1.0
+arising peaks::1.0
+0.8m resulting::1.0
+noisy indoor::1.0
+neuron fires::1.0
+distance approximation::1.0
+optimization method::1.0
+ieee conference::1.0
+measurements confirms::1.0
+important factor::1.0
+orientation effects::1.0
+rssi form::1.0
+case measurement::1.0
+parameters carefully::1.0
+btnode transceivers::1.0
+robot requests::1.0
+localization setup::1.0
+starting position::1.0
+multilateration based::1.0
+search position::1.0
+single processing::1.0
+calibration measures::1.0
+ranged rssi::1.0
+statistical aspects::1.0
+limited space::1.0
+higher transmission::1.0
+supervised learning::1.0
+receiver spread::1.0
+abdalkarim awad::1.0
+measurement purposes::1.0
+rssi deviations::1.0
+relevant distances::1.0
+average positioning::1.0
+equation system::1.0
+maximum standard::1.0
+localization including::1.0
+24th ieee::1.0
+exhibit similar::1.0
+range rssi::1.0
+directly exerts::1.0
+minimum represents::1.0
+quality estimations::1.0
+values change::1.0
+chosen frequency::1.0
+positioning error::1.0
+smaller difference::1.0
+main advantage::1.0
+perform signal::1.0
+surfaces compared::1.0
+signal strength-based::1.0
+averaged coordinates::1.0
+distance increment::1.0
+connected devices::1.0
+signals flow::1.0
+autonomic networking::1.0
+supervised leaning::1.0
+computer communications::1.0
+annual acm::1.0
+packet processing::1.0
+improved measurement::1.0
+spherical radiation::1.0
+full transmission::1.0
+reference objects::1.0
+bluetooth interface::1.0
+rf-based user::1.0
+intensively discuss::1.0
+absolute position::1.0
+869.9mhz fig::1.0
+tracking system::1.0
+algorithm parameters::1.0
+chipcon cc1000::1.0
+r32 fig::1.0
+sixth annual::1.0
+annual international::1.0
+famous localization::1.0
+reference values::1.0
+measures abdalkarim::1.0
+extra hardware::1.0
+networks perform::1.0
+turned out::1.0
+indoors locations::1.0
+gps systems::1.0
+biologically inspired::1.0
+maximum power::1.0
+lower frequency::1.0
+limited relation::1.0
+free area::1.0
+output layer::1.0
+pc104 board::1.0
+real distance::1.0
+learning method::1.0
+local disturbances::1.0
+robot system::1.0
+clear shift::1.0
+expected decrease::1.0
+back propagation::1.0
+lab environment::1.0
+node orientation::1.0
+antenna characteristics::1.0
+ad-hoc location::1.0
+sigmoid function::1.0
+first measurements::1.0
+quantile median::1.0
+distance based::1.0
+carefully based::1.0
+thorsten frunzke::1.0
+microcontroller running::1.0
+civil applications::1.0
+btnodes a-f::1.0
+recorded values::1.0
+individual step::1.0
+frequency small::1.0
+directions equally::1.0
+basic conditions::1.0
+position approximation::1.0
+in-building rf-based::1.0
+classification algorithms::1.0
+localization quality::1.0
+forward artificial::1.0
+rssi measurements::1.0
+typical results::1.0
+main focus::1.0
+good interpretation::1.0
+nodes similar::1.0
+measurement environment::1.0
+estimation ann::1.0
+billion neurons::1.0
+regression curves::1.0
+fading effects::1.0
+acm workshop::1.0
+discuss short::1.0
+quality distance::1.0
+high dispersion::1.0
+robot acting::1.0
+estimated output::1.0
+decentralized implementation::1.0
+high standard::1.0
+fine-grained rssi::1.0
+statistical methods::1.0
+packet size::1.0
+strength-based localization::1.0
+small number::1.0
+values vary::1.0
+base stations::1.0
+motetrack focuses::1.0
+experimental tests::1.0
+test setup::1.0
+last line::1.0
+limited::0.0
+kuvs::0.0
+desirable::0.0
+consists::0.0
+saved::0.0
+increase::0.0
+fine-grained::0.0
+matlab::0.0
+distort::0.0
+affect::0.0
+four::0.0
+approximation::0.0
+errors::0.0
+selected::0.0
+supplied::0.0
+supplies::0.0
+increasing::0.0
+med::0.0
+error::0.0
+hundreds::0.0
+study::0.0
+approaches::0.0
+military::0.0
+suitable::0.0
+classification::0.0
+visible::0.0
+sensornetze::0.0
+board running linux::0.0
+setup::0.0
+rssi::0.0
+stagnates::0.0
+absolute::0.0
+hoc::0.0
+best-known::0.0
+multi-path::0.0
+place::0.0
+activation::0.0
+lab::0.0
+straight-lined::0.0
+meaningful::0.0
+attempt::0.0
+effective::0.0
+perform::0.0
+complexity::0.0
+order::0.0
+feedback::0.0
+vary::0.0
+fig::0.0
+hidden::0.0
+overcome::0.0
+affected::0.0
+number of sensor::0.0
+basics::0.0
+effects::0.0
+represents::0.0
+demarcations::0.0
+acoustic::0.0
+series::0.0
+solution::0.0
+network::0.0
+quality::0.0
+motes::0.0
+levenberg::0.0
+linear::0.0
+rf-based location::0.0
+confirms::0.0
+free::0.0
+standard::0.0
+shelves::0.0
+caused by reflection::0.0
+encouraging::0.0
+sankarasubramaniam::0.0
+electronic::0.0
+top::0.0
+needed::0.0
+master::0.0
+measured at 863.5mhz::0.0
+cost-effective::0.0
+distance::0.0
+showed::0.0
+approximations::0.0
+preparation::0.0
+boston::0.0
+mind::0.0
+increment::0.0
+robertino::0.0
+implemented::0.0
+exploit this fact::0.0
+neck::0.0
+5.0m::0.0
+transactions::0.0
+optimized::0.0
+germany::0.0
+observation::0.0
+calculated::0.0
+flow::0.0
+reference measurements::0.0
+incomplete::0.0
+radio::0.0
+analogue::0.0
+whitehouse::0.0
+implementation::0.0
+adequate::0.0
+altogether::0.0
+report::0.0
+runs::0.0
+bad::0.0
+excitatory effects::0.0
+reference::0.0
+observed::0.0
+attempt under identical::0.0
+result::0.0
+techniques::0.0
+inappropriate::0.0
+artificial::0.0
+functionally::0.0
+propagated::0.0
+back::0.0
+location-support::0.0
+biologically::0.0
+uncertainty::0.0
+demanded::0.0
+receiver::0.0
+requests::0.0
+applicability::0.0
+radio transmission::0.0
+conference::0.0
+strong::0.0
+marquardt::0.0
+basic::0.0
+expected::0.0
+quantities::0.0
+high quality estimations::0.0
+shows the real::0.0
+applied::0.0
+exception::0.0
+employ::0.0
+dept::0.0
+anchor::0.0
+procedure::0.0
+changed::0.0
+seattle::0.0
+suggest::0.0
+emergency response::0.0
+produce high quality::0.0
+welsh::0.0
+right position::0.0
+cc1000::0.0
+wsns in military::0.0
+directly::0.0
+left::0.0
+approximated the right::0.0
+rotated::0.0
+falko dressler::0.0
+human::0.0
+regarded::0.0
+spread::0.0
+board::0.0
+packets can supply::0.0
+quantities are regarded::0.0
+hightower::0.0
+microcontroller::0.0
+possibly::0.0
+depicts::0.0
+massively::0.0
+mobile systems::0.0
+performing::0.0
+specific::0.0
+steps::0.0
+arbitrary::0.0
+signal::0.0
+right::0.0
+wellcontrolled for meaningful::0.0
+statistic::0.0
+stand in arbitrary::0.0
+illustration::0.0
+btnode::0.0
+properties::0.0
+bahl::0.0
+0.0,3.2::0.0
+automatically::0.0
+considerations::0.0
+civil::0.0
+mainwaring::0.0
+fulford-jones::0.0
+lies::0.0
+support::0.0
+approximate::0.0
+anderson::0.0
+influencing::0.0
+lowest::0.0
+medium::0.0
+master s thesis::0.0
+form::0.0
+forming::0.0
+differences::0.0
+4.5,0.0::0.0
+wireless::0.0
+failure::0.0
+input::0.0
+attached::0.0
+maximum::0.0
+devices::0.0
+moore::0.0
+computing::0.0
+frequency determine::0.0
+reality::0.0
+chakraborty::0.0
+role::0.0
+test::0.0
+node::0.0
+autonomic::0.0
+models::0.0
+2.56v::0.0
+billion::0.0
+transmission range::0.0
+oscillates::0.0
+assume::0.0
+packets::0.0
+influence the radio::0.0
+focus::0.0
+leads::0.0
+layers::0.0
+inverse::0.0
+technique::0.0
+environment::0.0
+finally::0.0
+compensate::0.0
+advantage::0.0
+frequencies::0.0
+orientations::0.0
+descriptive data::0.0
+node was 2.2m::0.0
+presented::0.0
+solved::0.0
+div::0.0
+occurrence::0.0
+received signal strength::0.0
+clavel::0.0
+choose a transmission::0.0
+international::0.0
+groups::0.0
+appears::0.0
+change::0.0
+noticeable::0.0
+shift::0.0
+studied::0.0
+accomplished::0.0
+studies::0.0
+respective rssi::0.0
+transactions on sensor::0.0
+falko::0.0
+extra::0.0
+intensively::0.0
+multilateration technique::0.0
+thre::0.0
+memory::0.0
+fewer rssi::0.0
+erlangen martensstr::0.0
+outputs::0.0
+221-262::0.0
+data processing::0.0
+cases::0.0
+thousands::0.0
+values::0.0
+chip::0.0
+stankovic::0.0
+r22::0.0
+requirements::0.0
+atmel::0.0
+huge::0.0
+applications::0.0
+produce::0.0
+data::0.0
+common localization::0.0
+error range::0.0
+years::0.0
+brain::0.0
+statistical::0.0
+tendency::0.0
+group::0.0
+coordinates::0.0
+main::0.0
+introduce::0.0
+discuss::0.0
+teller::0.0
+significantly::0.0
+zurich::0.0
+challenges::0.0
+fires::0.0
+year::0.0
+approximated::0.0
+shown::0.0
+signals assuming::0.0
+factors::0.0
+sensor::0.0
+correct::0.0
+shows::0.0
+california::0.0
+rssi values functionally::0.0
+military domains::0.0
+byte::0.0
+overcome orientation::0.0
+care::0.0
+training::0.0
+based on empirical::0.0
+borriello::0.0
+first::0.0
+8mhz::0.0
+department of electrical::0.0
+rssi ing::0.0
+drove::0.0
+size::0.0
+user location::0.0
+necessarily::0.0
+wsn due::0.0
+mobicom::0.0
+motetrack::0.0
+wide::0.0
+regard rssi values::0.0
+position determination::0.0
+ann::0.0
+locations::0.0
+measurements and localization::0.0
+20m::0.0
+system for wsns::0.0
+infocom::0.0
+sciences::0.0
+algorithms::0.0
+strengths::0.0
+deviation increased::0.0
+far-field::0.0
+exploited::0.0
+r32::0.0
+mobile-assisted localization::0.0
+considered::0.0
+average::0.0
+values for distances::0.0
+shnayder::0.0
+pattern::0.0
+typically::0.0
+show::0.0
+error of 50cm::0.0
+user tracking::0.0
+threshold::0.0
+calamari::0.0
+ground::0.0
+equipped::0.0
+stagnates or oscillates::0.0
+levenberg marquardt optimization::0.0
+synapse::0.0
+868mhz::0.0
+ad-hoc::0.0
+median::0.0
+annual international conference::0.0
+relative::0.0
+surfaces::0.0
+inhibitory::0.0
+measurement of short::0.0
+cricket motes::0.0
+august::0.0
+receivers::0.0
+drahtlose::0.0
+propagation::0.0
+small for distance::0.0
+network is implemented::0.0
+orientation directly::0.0
+period::0.0
+exploit::0.0
+workshop::0.0
+20s rssi::0.0
+median ascend::0.0
+prototype::0.0
+hundreds or thousands::0.0
+10cm step::0.0
+readings::0.0
+case::0.0
+1.0m::0.0
+orientation::0.0
+characteristics::0.0
+middle::0.0
+bias::0.0
+supplies relevant results::0.0
+inappropriate frequency::0.0
+culler::0.0
+running::0.0
+changing::0.0
+conference on mobile::0.0
+tracking::0.0
+bottle::0.0
+effective transmission::0.0
+outdoor::0.0
+0.5m::0.0
+433-915mhz low::0.0
+summed::0.0
+speed::0.0
+running at 8mhz::0.0
+bi-directional::0.0
+thre b experimental::0.0
+affected the distance::0.0
+real::0.0
+quantiles::0.0
+execution::0.0
+high quality distance::0.0
+priyantha::0.0
+output::0.0
+reduced::0.0
+learning::0.0
+ascend::0.0
+marquardt optimization method::0.0
+dimensions::0.0
+regression based::0.0
+recorded::0.0
+regression the method::0.0
+process::0.0
+power::0.0
+seconds::0.0
+sixth::0.0
+communicate::0.0
+biases::0.0
+padmanabhan::0.0
+ccording::0.0
+stations::0.0
+discussed::0.0
+supervised::0.0
+stand::0.0
+communication::0.0
+robertino.2::0.0
+references::0.0
+relative and absolute::0.0
+determine::0.0
+3.5m::0.0
+approaches relying::0.0
+area::0.0
+assumed::0.0
+interpretation::0.0
+complete::0.0
+considered for high::0.0
+relevant results::0.0
+embedded::0.0
+expect::0.0
+describe::0.0
+examine::0.0
+fachgesprch::0.0
+recognizable::0.0
+compared regard rssi::0.0
+antenna::0.0
+sensor-based::0.0
+deviation::0.0
+requested::0.0
+nawoj::0.0
+strength-based localization systems::0.0
+120s::0.0
+important::0.0
+included::0.0
+table v distance::0.0
+resolution::0.0
+numbers of small::0.0
+represent::0.0
+dist::0.0
+caused::0.0
+higher::0.0
+robot carries::0.0
+opportunities::0.0
+nodes::0.0
+location sensing system::0.0
+r12::0.0
+peaks::0.0
+worst::0.0
+dispersions::0.0
+24th::0.0
+difference::0.0
+technique to estimate::0.0
+wsn::0.0
+large::0.0
+adjust::0.0
+small::0.0
+biological::0.0
+employing::0.0
+computation::0.0
+past::0.0
+design::0.0
+value::0.0
+section::0.0
+excitatory::0.0
+method::0.0
+full::0.0
+neural networks perform::0.0
+ranged::0.0
+ranges::0.0
+berkeley::0.0
+directions::0.0
+i.e::0.0
+cayirci::0.0
+equations::0.0
+search::0.0
+inspired::0.0
+experience::0.0
+prior::0.0
+abstractlocalization::0.0
+flash::0.0
+vii::0.0
+10,000::0.0
+indoors::0.0
+trained::0.0
+estimate::0.0
+two::0.0
+laboratory::0.0
+simulate the human::0.0
+chipcon::0.0
+maximum standard div::0.0
+israel::0.0
+problem::0.0
+tested::0.0
+keeping::0.0
+equation::0.0
+0.8m::0.0
+01-08::0.0
+compare::0.0
+challenging::0.0
+tenth annual international::0.0
+minimum::0.0
+numbers::0.0
+sharp::0.0
+tosn::0.0
+axis::0.0
+information::0.0
+respective::0.0
+cse::0.0
+step size::0.0
+mapping::0.0
+waves::0.0
+response::0.0
+workstation::0.0
+short::0.0
+embedded systems::0.0
+september::0.0
+developed::0.0
+small computing::0.0
+radar::0.0
+paper::0.0
+interpolation::0.0
+create powerful massively::0.0
+moulton::0.0
+signal strength indicator::0.0
+systems::0.0
+small far-field::0.0
+good::0.0
+improve the results::0.0
+smoothness::0.0
+16-23::0.0
+level::0.0
+capability::0.0
+found::0.0
+weight::0.0
+examine short range::0.0
+energy::0.0
+power=-4dbm::0.0
+3.0m::0.0
+measurement::0.0
+rssi pairs::0.0
+error compared::0.0
+approach to rf-based::0.0
+localization::0.0
+dressler::0.0
+szewczyk::0.0
+base::0.0
+characteristics of descriptive::0.0
+rises::0.0
+saved the respective::0.0
+pairs::0.0
+e.g::0.0
+computers::0.0
+medium transmission::0.0
+tel-aviv::0.0
+exhibited::0.0
+feed::0.0
+major::0.0
+adaptive testbed::0.0
+number::0.0
+well-known::0.0
+basic processing::0.0
+done::0.0
+mobile-assisted::0.0
+table shows::0.0
+findings::0.0
+introduction::0.0
+leading::0.0
+station::0.0
+gps::0.0
+standard deviation lin::0.0
+propagated to adjust::0.0
+received rssi::0.0
+reflection::0.0
+tof::0.0
+aver::0.0
+cost-effective approaches::0.0
+tenth annual::0.0
+university of erlangen::0.0
+45.5dbm::0.0
+performing many calibration::0.0
+substantial::0.0
+evaluation of fewer::0.0
+aged::0.0
+fading::0.0
+vulnerable::0.0
+approaches are demanded::0.0
+depending::0.0
+system parameters::0.0
+lin::0.0
+results table::0.0
+majority::0.0
+small embedded::0.0
+ing the quality::0.0
+measures::0.0
+reach::0.0
+determine the maximum::0.0
+significant::0.0
+present intensively::0.0
+deviations::0.0
+unsupervised::0.0
+mobile::0.0
+sensing::0.0
+clear::0.0
+cover::0.0
+linear regression::0.0
+exp::0.0
+based distance estimation::0.0
+disturbances::0.0
+433-915mhz::0.0
+relation::0.0
+carefully::0.0
+networks::0.0
+values vary strongly::0.0
+shows differences::0.0
+parameters::0.0
+distributed::0.0
+received signal::0.0
+factor::0.0
+circle::0.0
+estimation med::0.0
+cheaper::0.0
+famous::0.0
+synchronization::0.0
+combinations::0.0
+signal level::0.0
+localization errors::0.0
+transceivers::0.0
+investigate::0.0
+switzerland::0.0
+connecting huge::0.0
+consciously::0.0
+set::0.0
+aspect::0.0
+arbitrary alignment::0.0
+individual::0.0
+mobile nodes::0.0
+considerations on rssi::0.0
+evaluation::0.0
+determined::0.0
+conditions::0.0
+law::0.0
+statistically::0.0
+forward neural network::0.0
+interface::0.0
+relying::0.0
+approximation in order::0.0
+levenberg marquardt::0.0
+last::0.0
+values were observed::0.0
+characteristics and orientation::0.0
+rf-based user location::0.0
+annual::0.0
+directly exerts influence::0.0
+average estimation::0.0
+compensate the orientation::0.0
+atmega128l::0.0
+experimental::0.0
+massively distributed systems::0.0
+reduce::0.0
+supply::0.0
+simple::0.0
+low quality::0.0
+header::0.0
+maximum transmission::0.0
+linux::0.0
+confirms this impression::0.0
+considered regression::0.0
+described::0.0
+inverse mapping::0.0
+create::0.0
+quantile::0.0
+results are provided::0.0
+models to determine::0.0
+adc::0.0
+flight::0.0
+samples::0.0
+resulting in high::0.0
+element in anns::0.0
+supply meaningful::0.0
+exponential::0.0
+estimations::0.0
+empirical::0.0
+evaluated::0.0
+optimization::0.0
+leaning::0.0
+moore s law::0.0
+deviation is recognizable::0.0
+best-known examples::0.0
+vol::0.0
+desired effect::0.0
+neurons::0.0
+aspects::0.0
+nodes mi=::0.0
+thesis::0.0
+modification::0.0
+resulting::0.0
+literature::0.0
+proper::0.0
+desks::0.0
+data shows::0.0
+strength::0.0
+user::0.0
+robust::0.0
+lower::0.0
+database::0.0
+calibrated::0.0
+location tracking::0.0
+distances::0.0
+128kbyte::0.0
+tuned the system::0.0
+alignment::0.0
+great number::0.0
+signals::0.0
+location::0.0
+btnode2::0.0
+relevance::0.0
+btnode9::0.0
+encouraging compared::0.0
+march::0.0
+emergency::0.0
+evaluate::0.0
+measurements exhibit::0.0
+shows the distance::0.0
+exhibit similar characteristics::0.0
+rotate::0.0
+interestingly::0.0
+function the statistic::0.0
+communications::0.0
+btnodes::0.0
+mathematical::0.0
+methods::0.0
+examples::0.0
+rotation finally::0.0
+measurements::0.0
+anns::0.0
+connecting::0.0
+processing::0.0
+step::0.0
+october-december::0.0
+akyildiz::0.0
+range::0.0
+ultrasonic signals::0.0
+proportional::0.0
+disregarding energy::0.0
+sports::0.0
+statistics::0.0
+massively distributed::0.0
+long::0.0
+forward::0.0
+small that inverse::0.0
+analyze::0.0
+radio chip cc1000::0.0
+erlangen::0.0
+informatik.uni-erlangen.de abstractlocalization::0.0
+line::0.0
+consist::0.0
+measurement process::0.0
+high the rssi::0.0
+similar::0.0
+influence::0.0
+duration::0.0
+single::0.0
+research::0.0
+work::0.0
+worst cases::0.0
+estimation based::0.0
+electrical::0.0
+department::0.0
+information for position::0.0
+infra-red::0.0
+rssi and acoustic::0.0
+provided::0.0
+,1.79584::0.0
+generated::0.0
+signal strength-based localization::0.0
+algorithm::0.0
+weights::0.0
+results::0.0
+feed forward neural::0.0
+adjustment::0.0
+malan::0.0
+issues::0.0
+2.2m::0.0
+send::0.0
+similar characteristics::0.0
+wellcontrolled::0.0
+polastre::0.0
+forward neural::0.0
+chosen too small::0.0
+transmission::0.0
+positions::0.0
+fewer::0.0
+autonomic networking group::0.0
+algorithm parameters carefully::0.0
+small packet::0.0
+estimation for position::0.0
+solutions::0.0
+smaller::0.0
+basic localization::0.0
+index::0.0
+localization-assistance::0.0
+unavailable::0.0
+demaine::0.0
+experiment::0.0
+statistically relevant::0.0
+impact::0.0
+focuses::0.0
+degree::0.0
+gathered::0.0
+report uw cse::0.0
+indicator::0.0
+desired::0.0
+objects::0.0
+consideration::0.0
+pc104 board running::0.0
+great::0.0
+technical::0.0
+localization including anchor::0.0
+survey::0.0
+opinion::0.0
+decentralized::0.0
+applied in wsn::0.0
+spoton::0.0
+addressed::0.0
+decrease::0.0
+summation::0.0
+resulting in altogether::0.0
+usa::0.0
+calculation::0.0
+depicted::0.0
+wsns::0.0
+estimated::0.0
+measurements based::0.0
+distances for node::0.0
+comparison::0.0
+distance between two::0.0
+occurred::0.0
+value appears::0.0
+train::0.0
+antennas::0.0
+actual::0.0
+iii::0.0
+balakrishnan::0.0
+power radio chip::0.0
+account::0.0
+audible frequency::0.0
+averaged::0.0
+exerts influence::0.0
+loca::0.0
+judge::0.0
+monitoring::0.0
+purposes::0.0
+high::0.0
+fewer reflection::0.0
+acm::0.0
+needed for network-centric::0.0
+sensor-nodes::0.0
+occur::0.0
+localization for mobile::0.0
+scribed::0.0
+engineering::0.0
+depicts the localization::0.0
+liner::0.0
+element::0.0
+maximum range::0.0
+linear or exponential::0.0
+irregularity::0.0
+sigmoid::0.0
+method in feed::0.0
+station for data::0.0
+including::0.0
+trilateration::0.0
+delay::0.0
+chosen::0.0
+back propagated::0.0
+forming sources::0.0
+location and tracking::0.0
+choose::0.0
+perfectly approximated::0.0
+crucial::0.0
+descriptive::0.0
+abdalkarim::0.0
+rotation::0.0
+transmitter::0.0
+input signal::0.0
+university::0.0
+identified::0.0
+wsn using rssi::0.0
+based with linear::0.0
+vrssi::0.0
+disregarding::0.0
+inputs::0.0
+related::0.0
+frequency::0.0
+static::0.0
+measure::0.0
+robot::0.0
+tenth::0.0
+quality and error::0.0
+0.0,0.0::0.0
+termswireless::0.0
+adaptive::0.0
+calibration runs::0.0
+estimations for position::0.0
+common::0.0
+0.0,1.6::0.0
+turned::0.0
+qua::0.0
+completely::0.0
+reaching hundreds::0.0
+mainland::0.0
+adaptive distance::0.0
+orientation of sensor-nodes::0.0
+falko dressler autonomic::0.0
+transmitters::0.0
+evans::0.0
+powerful::0.0
+5x8m::0.0
+improvements::0.0
+0.3449m::0.0
+results significantly::0.0
+dispersion::0.0
+estimations perfectly::0.0
+histograms::0.0
+system::0.0
+perfectly::0.0
+low::0.0
+pervasive::0.0
+proceedings of sixth::0.0
+simulate::0.0
+fuzzy::0.0
+strength-based::0.0
+shown in table::0.0
+0.3474m::0.0
+measured::0.0
+inversely::0.0
+compensation::0.0
+greater::0.0
+exhibit::0.0
+distance estimation error::0.0
+curves::0.0
+ultrasonic::0.0
+20s::0.0
+mappings::0.0
+min::0.0
+multilateration::0.0
+subject::0.0
+regard::0.0
+antenna orientation::0.0
+standard conditions::0.0
+102-106::0.0
+network-centric::0.0
+connected::0.0
+supplies relevant::0.0
+device::0.0
+meaningful rssi::0.0
+request::0.0
+proceedings::0.0
+actual and estimated::0.0
+mi=::0.0
+typical::0.0
+fact::0.0
+impression::0.0
+emerging::0.0
+evaluate two::0.0
+dbm::0.0
+indoor::0.0
+frunzke::0.0
+128kbyte flash::0.0
+based::0.0
+hops::0.0
+power without modification::0.0
+vakili::0.0
+thorsten::0.0
+smallest::0.0
+employed::0.0
+local::0.0
+ascend with increasing::0.0
+move::0.0
+positioning::0.0
+awad::0.0
+martensstr::0.0
+result from multi-path::0.0
+areas::0.0
+863.5mhz::0.0
+standard div::0.0
+approach::0.0
+tuned::0.0
+experiments::0.0
+rf-based::0.0
+examine short::0.0
+computed::0.0
+in-building::0.0
+packet::0.0
+computer::0.0
+deviation lin::0.0
+ieee::0.0
+results for position::0.0
+localization procedure::0.0
+biologically inspired classification::0.0
+closed::0.0
+number of objects::0.0
+comparable::0.0
+histogram of received::0.0
+ability::0.0
+long distance::0.0
+single btnode::0.0
+power the radio::0.0
+employ a bluetooth::0.0
+statistics and regression::0.0
+technical report::0.0
+comparably::0.0
+shold::0.0
+estimation::0.0
+strongly::0.0
+relevant::0.0
+10cm::0.0
+environments::0.0
+table::0.0
+addition::0.0
+including anchor::0.0
+average value::0.0
+improve::0.0
+controlled::0.0
+received::0.0
+mobile computing::0.0
+sufficient::0.0
+improved::0.0
+atlanta::0.0
+present::0.0
+measured during rotation::0.0
+emergency applications::0.0
+dendrites::0.0
+employing the rssi::0.0
+exerts::0.0
+quality of position::0.0
+layer::0.0
+characteristics as depicted::0.0
+regard rssi::0.0
+neuron::0.0
+hardware::0.0
+examined::0.0
+regression::0.0
+radiation::0.0
+cse 01-08::0.0
+low power radio::0.0
+http::0.0
+discuss and analyze::0.0
+effect::0.0
+compared::0.0
+center::0.0
+neural::0.0
+adapted::0.0
+create powerful::0.0
+position::0.0
+arising::0.0
+spherical::0.0
+sources::0.0
+stored::0.0
+testbed::0.0
+done automatically::0.0
+board running::0.0
+hall::0.0
+function for hidden::0.0
+developments::0.0
+identical::0.0
+tests::0.0
+low power::0.0
+increased::0.0
+nodes1::0.0
+peaks could distort::0.0
+domains::0.0
+node failure::0.0
+miami::0.0
+admitted::0.0
+mhz::0.0
+regulated::0.0
+audible::0.0
+habitat::0.0
+a-f::0.0
+rssi median minimum::0.0
+choosing::0.0
+lead::0.0
+occurrence of node::0.0
+assuming::0.0
+inaccurate::0.0
+reaching::0.0
+show clear::0.0
+noisy::0.0
+rare::0.0
+suggest that small::0.0
+recognized::0.0
+dependency::0.0
+carries::0.0
+lorincz::0.0
+pc104::0.0
+recognizes::0.0
+localization experiments::0.0
+fine-grained rssi pairs::0.0
+increasing distance::0.0
+equally::0.0
+axons::0.0
+869.9mhz::0.0
+washington::0.0
+due::0.0
+proceedings of 24th::0.0
+networking::0.0
+additional::0.0
+human brain::0.0
+dispersions caused::0.0
+function::0.0
+cricket::0.0
+quality distance estimation::0.0
+histogram::0.0
+two nodes::0.0
+informatik.uni-erlangen.de::0.0
+automated::0.0
+bluetooth::0.0
+affect the measured::0.0
+first acm::0.0
+made::0.0
+converter::0.0
+01.2v::0.0
+converted::0.0
+examples are wireless::0.0
+hand::0.0
+acting::0.0
+distribution::0.0
+minutes::0.0
+error is included::0.0
+context-awareness::0.0
+wavelength::0.0
+sharp demarcations::0.0
+ing::0.0
+tof to estimate::0.0
+acm international::0.0
+mutual::0.0
+50cm::0.0
+calibration::0.0
+detail::0.0
+determine the rssi::0.0
+out::0.0
+packets rssi::0.0
+conclusion::0.0
+measured values vary::0.0
+krishnamurthy::0.0
+zhou::0.0
+variation::0.0
+additionally::0.0
+visible for small::0.0
+decentralized approach::0.0
+starting::0.0
+values over 120s::0.0
+space::0.0
+based ad hoc::0.0
+searched::0.0
+determination::0.0
+location information::0.0
+deviations under standard::0.0

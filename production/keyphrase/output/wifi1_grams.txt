@@ -1,0 +1,4734 @@
+added services
+limited
+positions
+obstruction
+program called wifi
+represents an observed rss
+represent
+interference
+found many aps connect
+desirable
+strength returns
+four
+collection stage are primarily
+methods based on probability
+boost its performance
+ngerprint in signal space
+normal distribution
+consists
+rssi samples in dbm
+falls within the range
+iwkola and kola
+localized
+represents an improvement
+alongside information related
+increasing samples
+flannery
+algorithms remains a key
+nnss nnsso oinnss improvement
+location i that maximizes
+techniques provide
+utilizes signicantly
+created
+presents
+implementation of localization systems
+matlab
+dimension algorithms
+nnssr variants operate
+method with mode
+min scan
+location estimates were generated
+uwkola iwkola
+summarizes
+remains a key issue
+lack
+performs
+four orientations nnss uwkola
+varshavsky
+sanitize rssi data
+microsoft technical report
+aps tend to drift
+area networks rssi
+knnss
+parameters and the nature
+method that combines
+test-bed ngerprint density
+knpdf and wkpdf
+applied on each observation
+affect
+due to non-negligible multipath
+s1o
+lower base
+incorporating a mode
+differentiated
+uow.edu.au
+aps means
+variation of rssi samples
+solution
+aps in the observation
+total size
+radio frequency
+vector
+dimension variants
+nnsso method by approximately
+normal probability distribution
+standard deviation
+uwkola but ignores
+outperforming the nnsso method
+shows
+authors of heaberlen
+ngerprint with the smallest
+ngerprints independently
+sincere
+o.j
+method that combines nnssr
+collection process
+accurate than the nth
+build a robust
+manage
+techniques for indoor localization
+version during the rst
+estimates
+1:16 1:9
+areas of wireless
+1:19
+ability to produce comparative
+aps switched out
+device will rst record
+median from our simulation
+operates with an error
+wireless information networks
+vector can either positively
+radar enhancements
+chen
+transients
+estimated
+neighbor with environment proling
+proven to increase
+higher k value
+location network
+terms of accuracy
+advantage over deterministic methods
+requires sensors
+objectively compare both deterministic
+phd from curtin university
+argues for their removal
+dense and transient
+smallest distance
+demonstrated very irregular rssi
+density than deterministic
+required
+construction
+increasing
+consisting
+probability of observing
+calculation of all ngerprints
+users with value added
+outperforms mode ltered
+wireless network interface cards
+journal homepage
+location requiring four scans
+involves processing
+divided into a grid
+showed using fig
+results show that localization
+numerous enhancements to existing
+dimension and more dramatically
+past research has tend
+accuracy with increasing
+proposed numerous
+substantial
+deviation of rssi values
+distance of approximately
+localization algorithms remains
+obtained
+received signal strength indication
+wkola adds
+study
+greater efciency in terms
+uwkola but ignores repeated
+detected during the scanning
+ignores ngerprints
+means it inherently
+wireless ethernet
+essentially become the ngerprints
+00dbd1fb4ac
+environmental variables during busy
+compare their performance objectively
+oinss
+numerous version
+exploits information
+rssi observations
+missing
+chin university
+rst describe existing deterministic
+kndpf
+probability an observation
+outperforms mode ltered version
+estimated location
+space is largely
+calculation now works
+localization systems
+elsevier inc all rights
+objectively
+visible
+conjunction
+building robust ngerprint databases
+2.2.1
+vaio laptops wireless
+2.2.2
+slow periods
+function with data
+distance across all four
+recorded rssi samples
+number ; i.e
+multiple distinct environmental proles
+exceeded a given cut-off
+test the algorithms
+open source
+means the euclidean
+hospital
+observed signal
+created by taking
+awaremedia and awarephone require
+tab delimited
+comparative performance with fewer
+means npdf
+consistently produces
+differentiated by the aps
+|fj
+position estimations based
+wireless sensor networks protocols
+values represented
+increase in performance
+key issue
+recorded at a rate
+tting a normal distribution
+provide effective indoor
+averaging technique
+offer a poor
+conclusions
+intel pro 3945abg network
+address a key
+distance metric
+wlangetbsslist function returns
+npdf is better suited
+needed because kola
+neighbors contribute
+conduct a comparative
+clear that the nnss
+methods contain a single
+ward
+removes undesirable aps
+multipath fading
+dbm
+point signals
+haartsen
+laptops wireless network interface
+missing during data
+rights
+localization using deterministic
+work
+performance continues
+small ofce
+kola or wkola
+calculate the nearest neighbor
+computer areas
+ieee 802.15.4
+paper has evaluated
+perform well with reduced
+rssi
+roos
+root
+probabilistic and deterministic paradigms
+knnssr wknnss
+ngerprints over a constant
+zeros
+denotes a known location
+device will pick
+presented for localization
+undesirable
+distributions
+producing one location estimate
+organized
+removal of erroneous
+wlangetbsslist
+scans represents
+comparative
+classes of localization methods
+means all aps
+sample recorded
+advantage over nearest neighbor
+networking conference
+poorly
+bilistic and determinitic methods
+out the scans
+determination of a mobile
+aps in the data
+perspective on navigation
+likelihood   corresponds
+robust ngerprint databases
+logging services
+standard deviation for standard
+methodology
+hou
+low
+adjacent
+calibration for rssi-based indoor
+ltered version
+eastwest
+numerous enhancements
+create a location ngerprint
+stored in the ngerprint
+variants described
+rst second of operation
+badly
+pro 3945abg network connection
+brett dawes graduated
+wlan access points
+aps at this cut-off
+rst k unique locations
+noise ratio
+worst the location
+persons location
+axis consists
+specic scan
+location sensing
+work in conjunction
+generate ngerprints in sections
+prasithsangaree
+effective
+methods work
+fewer
+single vector which represents
+rssi logger
+deliver increasingly
+ibm journal
+perform
+maintain
+algorithms
+show methods
+removed using a range
+data collection this stage
+worst
+dimensions
+deviation cut-off technique
+order
+mobile device using kola
+samples to calculate
+acm conf
+k=1
+signicant advantage
+identication and tracking
+represents an estimated
+multiple distinct environmental
+wireless network interface card
+aps per ngerprint
+practical robust
+rssi vectors chosen
+sony
+pdf algorithm ; referred
+technique or kola offers
+localization using the kola
+badge location system
+values the latter two
+uow
+active badge require
+averaging technique or kola
+single rssi observation
+control of aps
+location during an emergency
+fig
+myllymaki
+single and multi-hop
+mobile device
+deviation stored
+collection this stage
+versus
+treating
+proling nearest neighbor bayesian
+g.d
+combination
+evaluate their localization
+ngerprints are in signal
+basic algorithm
+entire rssi
+school
+technique removes undesirable
+band
+badge
+orientation and position
+effects
+solely on software
+observation contribute
+location estimates generated
+authors also proposed
+disconnect during each scan
+represents
+location with wireless
+bayesian the bayesian localization
+locations fingerprint
+cricket location system
+anatomy of context-aware application
+comparable to nnss variants
+wireless local
+good
+improvements
+ability to perform
+in-building rf-based
+contained in the ngerprint
+perform poorly in environments
+located in nearby buildings
+spend
+i=1 from preliminary results
+signicantly
+researchers have considered
+active bat requires sensors
+accuracy represents an improvement
+standard deviations
+network interface cards
+transient
+frequency
+rssi sample standard
+included localization
+communications magazine
+discuss the normal pdf
+carry
+comparable error distance
+closest in signal
+position estimations
+process is repeated
+combining
+interpretation of localization results
+magazine
+weighted k-nearest neighbor bayesian
+deviation cut-offs
+inherently noisy
+experiences from real world
+aps that meet
+enhancements to the radar
+periods in the library
+koinnss koinnssr
+handle data
+separated into two groups
+axis
+npdf
+performance of bayesian
+remove is the relative
+e.g
+dependent on practical implementation
+shows the performance
+brett dawes
+quickly build the database
+determines k unique locations
+four distinct
+frequently
+iwkola wkola
+increase as the standard
+investigation of npdf
+out on the rst
+represents area
+associate
+performance peaked after two
+samples for each detected
+july
+standard
+nth
+necessarily
+total number of positions
+orientation independent method
+sensors
+desks
+algorithm number of aps
+rssi readings with large
+guid for the desired
+rss distribution model bayesian
+incorporates
+device using kola
+nearest neighbor bayesian bayesian
+instances of location
+represented as knnss
+indoor space
+handle data collection
+3945abg network connection
+filter
+suggests that in contrast
+senior research engineer
+youssef
+considered hosts orientation
+location that appears multiple
+ubicomp
+highly variable environments
+ngerprinting techniques
+australia research
+size
+rssi vectors
+knnsssr and wknnssr
+features
+aforementioned bayesian algorithm
+radar user
+signal strength tuple
+university of wollongong
+primary
+conduct a comparative analysis
+channels
+rssi prole
+statistical range of radio
+rst iterate
+rights reserved
+offers signicant performance
+entries in the list
+knnssior
+described by different ngerprint
+aps connect
+surveying prior
+top
+methodology we rst present
+orientations nnss
+set of scans
+approximately
+information related
+needed
+wkola oinnssa
+review bayesian techniques
+key disadvantage
+results in previous
+rssi is available readily
+equal to the square
+1:16
+specic scan are rst
+requiring sophisticated data
+transient access points
+proposed a modication
+existing wired networks
+ceiling
+28vs.85 % 29.aspx
+average rss
+manage both wireless network
+ieee wireless
+database into location
+smallest euclidean distance
+kola all performed identically
+western
+rf-based user
+transients ; i.e
+proven to increase localization
+nnss produces
+main interests included localization
+multi-use
+density of wlan access
+vectors from the 100,000
+method as uwkola
+data collection
+observation vectors
+showed
+out of range
+list multiple
+neighbor bayesian bayesian nearest
+maintain a performance advantage
+highly variable
+vector and s denotes
+main limitation
+normalizing
+awarephone
+matter
+methods are better suited
+characteristics
+s1o
+abowd
+authors of bahl
+software documentation
+solely
+perspective
+reect busy and slow
+performance of these methods
+ngerprinting technique
+case intel pro 3945abg
+represent the users
+approach to wlan
+denote algorithms that work
+boston
+function is undened
+nearest neighbor and neural
+distance in this dimension
+spectrum
+pathways running eastwest
+unique locations are found
+include multiple instances
+utilizes signicantly fewer
+referred
+maximizes
+iii
+nnsso sums
+distance is the median
+picks
+contents
+considers orientation
+study represents
+strength
+cases the installation
+provide a probability distribution
+introduced an orientation independent
+shown
+main interests included
+user observing
+rssi system performance
+database at this point
+independent performance
+producing one location
+calculate the mean rss
+localization efciency and accuracy
+ngerprint databases this step
+obtained his phd
+wireless network
+kola achieved
+function called wlanenuminterfaces
+improve localization performance
+min scans
+circles
+marginal probability
+transactions
+in-building rf-based user
+overview of rssi
+technologies in a hospital
+consistency
+begins to decrease
+metrics
+ieee 802.11b access
+cell to the actual
+vectors with reduced dimension
+ensure
+estimated average rss
+based indoor positioning
+phase
+iterate
+developers to determine
+2.2.1 normal pdf
+location similar
+found
+wlanapi function called wlanenuminterfaces
+observation
+environmental
+factored into the distance
+ngerprint locations
+study areas
+error distance is signicantly
+universal location
+distance calculation now works
+points
+manage both wireless
+show that oinnss
+research center
+germany
+y-coord
+combine kth
+probabilistic the probabilistic ngerprinting
+robust picture
+signicant amount
+rss vector falls
+api
+random
+proba bayesian bayesian
+mac addresses of aps
+estimation error
+attempts
+software journal homepage
+radio
+solutions
+space to another fig
+include more information
+keywords
+exploits
+nnssr produce
+aps were detected
+estimates physical positions independently
+enhancement in highly
+comparable error distance performance
+orleans
+calculate
+finally
+included in the ngerprint
+logger program
+implementation
+representing
+square
+01ef6833130
+form an obstruction
+localization system
+presence in our ngerprint
+localization performance without requiring
+sensor networks
+location averaging with npdf
+constant
+rss
+location service
+entire set
+estimate based
+algorithm we implemented combines
+scans
+observation o from state
+algorithm in uncontrolled environments
+denote algorithms
+distinct orientations
+data collected
+preferred
+requiring sophisticated
+signicant effect
+o|s
+reduced dimension ; e.g
+two problems that stem
+signicant amount of networking
+report
+techniques provide a probability
+represented
+bat and active badge
+open indoor
+improve the presentation
+bat
+perform badly
+testbed and experimental site
+collection and localization
+results in previous studies
+aps are transients
+devices operating
+includes data logging
+architecture
+knnssr algorithm
+probabilistic methods for indoor
+represents at worst
+contained within the rst
+northelds
+includes a large amount
+erroneous
+human
+information ; e.g
+neighbors in signal
+reported
+classes of localization algorithms
+lower standard deviation
+lecture notes in computer
+denes
+australia
+square root of ngerprint
+information about the statistical
+awarephone require
+bayesian bayesian nearest neighbor
+wlanapi
+suited
+active bat
+range frequently
+techniques
+function because it represents
+set to the orientation
+npdfs performance
+position or their transmission
+rssi prole that incorporates
+locations and four
+operating in uncontrolled
+distance in signal
+lecture notes
+drawn
+previous
+uwkola but considers orientation
+nnss with wkola
+summary of deterministic
+localization brett dawes
+neighbor in signal space
+results in an average
+unweighted kola
+relative
+denotes the probability
+fewer aps means
+listed in ascending order
+wireless e911
+researchers have proposed
+research engineer
+cards
+large-scale
+cut
+tend to only compare
+huang
+database is organized
+deviation gap
+wknpdf consistently
+multiple rssi
+aps in the ngerprint
+awaremedia
+received
+basic service set
+store
+ofce rooms
+irregular
+wkola with npdf
+processing the raw rssi
+effective indoor
+context-aware applications that rely
+contribute towards the average
+dense and transient access
+honous thesis on indoor
+wired network
+localization system to function
+single rssi
+network proles
+require the installation
+npdf also means
+natural user
+expense
+primarily into rows
+nnss variants described
+suggest
+produces a mean error
+observation vector
+effects their training
+bat requires
+k-nearest neighbor methods
+advertisements
+removes undesirable
+vaio
+order to build
+shelves as well fig
+active
+total area
+estimate that a user
+localization metric
+nnss and nnssr produce
+robustness of the localization
+guid
+perform poorly
+single ngerprint
+conference
+signals
+two reasons
+positively
+rssif systems
+uctuation due
+peak
+observing
+estimation error distance
+ngerprints used possess
+oinnss improvement standard dimensions
+raw rssi
+distance between evenly
+correct location
+average performance
+interest
+signicant advantage over nearest
+expected
+ignores any subsequent
+out of range constantly
+location
+ethernet
+soegaard
+corresponds to the signal
+aps than nnss alternatives
+existing localization
+nnss uwkola iwkola
+advantage of npdf
+bayesian algorithm when operating
+wireless sensor
+lists their total area
+favor of combining proba
+preliminary location estimates
+increases the dimension
+locations are found
+location two
+applied
+dimension ; e.g
+exception
+maximizes localization performance
+scans representing
+kola and wkola
+networks and isdn systems
+total aps
+addresses a key limitation
+inherently operates
+bayesian with mode filter
+propose a number
+|si
+positioned anchors
+positions independently
+00dbd1fb12e
+possess
+cell is then returned
+approach to employ
+performance of bayesian methods
+estimate using k nearest
+comparison of deterministic
+algorithms for indoor environments
+theory for location ngerprinting
+retrieve the basic service
+reported error distance
+location averaging
+wireless lans
+conf
+allen
+variants highlight
+step involves
+methods that provide
+access to a signicant
+nnssr with kola
+large variation in magnitude
+pointer
+key issues
+suggests that probabilistic
+vectors chosen were randomly
+localization algorithms
+nearest neighbor methods
+prior
+journal
+wlanenuminterfaces
+make
+results also include
+augmented with bluetooth
+kola as knnssr
+fewer aps than nearest
+complex
+argue
+balachandran
+rssi values to exclude
+peak performance
+values in order
+surveying prior works
+bayesian with rss
+independent
+previous studies
+methods based
+remains constant
+nic
+shows the error distance
+pick
+samples from a common
+differing
+hand
+deterministic and probabilistic methods
+paired with npdf
+computational cost
+strength indication
+nnss with kola
+standard and reduced dimension
+top row
+training time and cost
+theoretical modeling of signal
+unique physical
+reducing the error
+visible and hence offer
+distribution of rssi values
+preliminary location
+past research into rssif
+user location estimation
+two samples suggests
+specialized hardware
+database is logged
+signicant standard deviation
+reduces the median
+key features
+paradigm
+kaemarungsi
+good localization performance
+world
+environments with highly
+proposed
+collected in uncontrolled
+small number of anchors
+dened
+communications and networking
+identify
+mechanism
+show the benets
+laptops wireless
+gsm indoor localization
+acm transactions on information
+wkola as wknnss
+compared
+50th
+rst discuss the normal
+wireless communications and networking
+designers
+nnsso oinnss
+interestingly
+algorithms error distance
+tting a normal
+exploit the ubiquity
+issues
+calculated over all aps
+radar also considered hosts
+doi:10.1016 active bat
+robust rssi
+represent k unique
+distribution function
+user identication
+scans representing the north
+sensing using wireless
+collection stage
+hightower
+leaving the more desirable
+criteria outlined in section
+facilitate the data
+importance of removing transient
+maintain a performance
+installation of beacons
+paper has evaluated two
+data logging services
+specic
+step when generating
+background
+weighted kola
+judge
+bhagwat
+divides the area primarily
+probable ngerprint
+erroneous aps are removed
+nature of the test-bed
+scan
+algorithm operates
+performing
+neighbor and neural
+designing
+indoors
+amount of information
+modication
+periods
+ngerprints is approximately equal
+switched out
+signal
+source program
+estimate of the rssi
+appears multiple
+logger is a lite
+people
+00d6572c38a
+oinnss in combination
+aps are not constantly
+algorithm to instead run
+vector is presented
+strategically
+easily record
+repeated
+nnss outperforms oinnss
+chaudhuri
+location implies the mobile
+location weighted
+ngerprint with npdf
+evenly spaced ngerprints
+dense
+ngerprint location or related
+suited to environments
+icc
+methods to further improve
+vaio laptops
+i=1 from preliminary
+experimentation
+sorted nearest neighbor
+rst tted
+advantage of requiring
+square root
+list three times
+size and the number
+consistently produces more accurate
+range of radio
+rank
+database to represent
+algorithmic
+designing approximation
+device using ieee 802.11b
+obtain
+space ; referred
+selecting the maximum
+designed zero-conguration
+nal axis
+differs greatly
+graduated
+range of rssif methods
+comparable error
+zeros for periods
+samples across the sample
+samples per observation
+limitation
+build multiple distinct
+consisting mostly of book
+variation in their performance
+wifi application
+readings with large variation
+wlans on a common
+scan are rst tted
+number of locations fingerprint
+value for each combination
+indoor localization
+ieee communications
+positioning systems based
+learning
+slightly
+environment proling nearest
+modied the aforementioned
+randomly distributed
+50th percentile
+means the localization
+multi-hop wireless
+methods until a standard
+comparison of existing
+reduced dimension
+two
+device
+ngerprints
+wireless nics
+algorithm when operating
+active badge
+higher computational
+orientations nnss uwkola
+estimations based
+rssi sample vectors
+describe existing
+results show that oinnss
+outlining how rssi
+support
+truncated
+aps means npdf
+generate an error distance
+consists of the metric
+probability distribution function
+cut-off technique removes
+provide targeted
+roboticsbased
+outlining
+enhancements to existing
+lter on bayesian
+stage were undesirable transients
+averaging with npdf
+test-bed
+form
+offer
+undesirable aps
+performance of kola algorithms
+wireless
+experimentations
+produces more accurate results
+resulting algorithm picks
+collects signal strength
+positively or negatively
+removed
+proved very effective
+consistency in rssi readings
+store the guid
+begins
+impact on their computation
+rst provide an overview
+developed a command-line based
+location or ngerprint
+human factors
+include designing
+circles in fig
+mobile device averages
+devices
+prior research
+considered
+center as a senior
+trafc
+theory and experimentation
+electrical engineering
+estimates generated
+location is selected
+context-aware applications developers
+bayesian methods to deliver
+result
+interference from other devices
+lter converges
+offer superior localization performance
+reect busy
+important as they render
+database into location metrics
+rssi values in dbm
+systems based
+simulations
+deterministic algorithms
+strategically positioned anchors
+yield its position
+uncontrolled environments where transient
+physical
+state s before observing
+produce an estimate
+device estimates
+pervasive and mobile
+floor
+comparable to nnss
+gap between these two
+environmental proles
+clustering and probability
+1:19 1:16 1:9
+ignores repeated
+number of anchors
+conditions
+combining k-nearest neighbor methods
+computer science
+implement the same general
+neighbor search results
+test
+ignores any subsequent appearances
+developers
+weight to locations
+negatively affect
+picture
+methodology used to collect
+bayesian method with mode
+small number
+number of aps
+ngerprint density is calculated
+npdf ; i.e
+entire rssi sample
+www.elsevier.com
+mode lter on bayesian
+indoor localization with ieee
+areas and quiet
+four orientations nnss
+combining k-nearest
+computation overheads and reliability
+detected during the data
+position location with wireless
+sample vectors
+large open indoor
+actual location
+tested
+28vs.85
+showed that the bayesian
+joeressen
+localization methods
+localization ieee
+fact
+highest performing
+prior probability
+device averages
+located in nearby
+combine kola and nnss
+snr suffers
+mode filter
+method consistently
+normal probability distribution function
+represents area covered
+cut-off technique generated
+reviewers
+global
+alternatives
+reduced dimensions in combination
+impact of dense
+manager
+journal of wireless
+stronger function of location
+computation
+offers signicant
+recorded rssi
+effectiveness of rssif techniques
+ordered list
+knnssr and wknnssr
+present in the observation
+ubiquity
+generating the ngerprint database
+implies the mobile device
+study areas with desks
+entries alongside information related
+ngerprint with npdf producing
+modeling of signal space
+approach to wlan user
+designed zero-conguration and wireless
+environment
+test-bed in section
+localization using multiple
+wlan user location
+giunta
+related to the total
+error distance of npdf
+acm transactions
+indication ngerprinting
+out the rssi recordings
+means it inherently operates
+1:39 1:14 1:19 1:16
+large amount of variability
+rssi ngerprints
+orientations
+anonymous
+entries
+comparable number of aps
+krishnamurthy
+location determination via clustering
+extracted
+00dbd1fb4ac 01ef6833130
+removal from the ngerprint
+bayesian methods
+mobile hosts true
+presented
+give
+nearest neighbors in signal
+uctuations in estimation error
+organized as shown
+nnss produces very accurate
+rely solely on software
+difcult
+simulated oinnss
+anonymous reviewers
+physical location number
+low ap density
+compares the test-beds
+wireless local area
+sony vaio
+provide users with value
+nnss performs
+user was in state
+variables
+requirements
+deterministic methods
+received signal strength
+honous thesis
+ieee wireless communications
+2.2.2 bayesian
+1:14
+primarily consists of small
+identies and provides solution
+display highly variable
+bayesian bayesian nearest
+contrast to prior works
+background in each section
+adds
+offers signicant performance enhancement
+performed identically
+results we used matlab
+networks detected
+current
+oor
+rssif database
+allocation problems
+improve with additional samples
+vector and the ngerprint
+acm mobile
+sanghi
+physical location
+found many aps
+includes data
+k-nearest neighbor neural network
+processing
+fingerprint density fingerprint spacing
+wlans
+increase localization
+selecting the maximum value
+honous
+close in signal space
+reaches
+dimension ngerprint set
+neighbor with environment
+ltering technique
+groups
+two observation
+ratio
+appears
+detected wifi
+context-aware technologies
+k-nearest neighbor
+estimation error distance due
+delimited
+developing rssi
+basic nearest
+location ve weighed
+specialized
+vectors with reduced
+vectors
+close match
+step
+bayesian bayesian with rss
+bussgang
+local area
+k.-w
+recall that the reported
+falcao
+scenario
+version of the bayesian
+large number of aps
+studies
+number of samples
+strength tuple s1o
+engineer
+set and the average
+observation vector is calculated
+information
+based indoor positioning technology
+resulting calculation
+chosen for two reasons
+located on the rst
+generated favorable
+improve with additional
+wcnc
+methods offer superior
+accurate estimations
+transactions on information
+wireless networks
+bayesian algorithm in uncontrolled
+rst few location
+wang
+key shortcoming
+improvements in section 2.2.2
+aps are removed
+representing the north
+probability an observation belongs
+bss entries
+snr
+properties
+npdf producing
+two samples
+opposed
+algorithms maintain
+range of rssi samples
+limit the ability
+observed at each location
+deterministic deterministic ngerprinting
+selects
+theoretical
+knnssr
+chapter
+accuracy
+locations from three aps
+extracted from the raw
+acceptable
+rssi values are collected
+testbed our testbed
+probability distributions to perform
+designers need to spend
+observations
+ignores missing
+algorithms maintain a performance
+conclusion this paper
+exploits the prevalence
+cases
+effort
+samples have been processed
+ibm
+local
+cell of a oor
+rudys
+missing during data collection
+zero-conguration and wireless
+bayesian bayesian
+areas and quiet study
+values
+localization methods ineffective
+making
+variants with reduced dimensions
+large uctuations
+address
+improve
+roboticsbased location sensing
+nearest
+compare algorithms
+methods that provide effective
+step involves processing
+localization results
+order from the closest
+distributions to perform
+sample
+nics
+contribute to the localization
+variabilities
+chin
+suffers from problems
+exclude
+performance advantage
+expense of higher computational
+indoor environments
+set of scans represents
+probabilistic methods
+databases this step
+involves scanning
+performance to the method
+preferred over signal
+divided
+access point signals
+problems and resource
+key limitation
+spectrum in order
+reect
+expected performance
+wifi network
+curtin university
+rssi-based indoor localization
+argue the importance
+attained prasithsangaree
+belongs
+map
+select
+desired nic
+map or ngerprint database
+four samples
+largest distance
+algorithm continues to increase
+strength tuple
+npdf method
+mac
+effort was made
+pattern
+designed
+j.e
+display reasonably good localization
+world deployment of context-aware
+data
+rely on a higher
+notes in computer
+bss includes
+evaluated two
+indoor localization brett
+natural
+expected performance as compared
+approximation
+objectively compare
+provide
+gap
+out the rssi
+vectors chosen
+padmanabhan
+positioning system
+uncontrolled and varied conditions
+total area of approximately
+performance after this cut-off
+ngerprinting was rst
+identication
+wknnssr begins to decrease
+sciencedirect
+enhancements
+east
+key disadvantage stems
+bekris
+samples in a specic
+displayed
+argues
+uwkola ignores any subsequent
+discussion the standard deviation
+probabilistic techniques
+discussion the standard
+network and weighted
+show that localization methods
+nnss uwkola
+multipath
+ieee
+transactions on information systems
+aps that drift
+frequency band
+reduced dimensions
+cost but accuracy
+four us patents
+desirable aps intact
+interpretation of localization
+presence
+vicinity
+coordinates
+oinnss method
+offers
+bayesian techniques
+record all ngerprints
+main
+kola will rst iterate
+providing universal
+distance between the ngerprint
+location number ; i.e
+strength returns the location
+dimension algorithms maintain
+determinitic
+distance between the observation
+control over the building
+non-negligible
+location implies
+aps and rssi values
+robust localization over large-scale
+yields
+rss vector
+program called wifi card
+total number
+vector which represents
+identically
+rssi samples
+sorted
+spend a signicant
+uncontrolled
+entries in table
+journal papers
+iwkola wkola oinnssa nnsso
+localization methods that exploit
+vision
+producing an error
+probabilistic techniques provide
+improve localization
+29.aspx
+estimations
+four distinct orientations
+system performance ranges
+space to all four
+provide solutions
+locations in this environment
+produces an average
+highlight that localization performance
+deviation cut-off
+accuracy with increasing samples
+four orientations
+cricket location
+test-beds used in previous
+designer builds
+site was located
+ranges from an accuracy
+limited by the arrangement
+weighted
+rest of table
+primarily
+mobile hosts
+wlanapi function
+render localization methods
+revised
+nearest neighbor variants highlight
+distribution model bayesian
+telecommunications
+conjunction with npdf
+processing the raw
+transient access
+effect on the interpretation
+accuracy does not improve
+four orientations and selecting
+tab delimited text
+localization algorithms are operating
+modeling of signal
+high variability in terms
+managed to yield
+space
+applications developers to determine
+homepage
+advantages in reducing
+dimensions reduced dimensions
+sorted list
+increase
+investigation of npdf highlighted
+contained
+investigation
+rssi-based
+samples in dbm
+locations and represents area
+suffers from random
+highlighted a signicant
+sensor
+algorithms are operating
+user is in state
+order location averaging
+indoors environments
+constant increase in performance
+evaluate their localization efciency
+theory
+deterministic localization algorithms
+strength characteristics of aps
+increase with the kola
+popularity of wlans
+rely
+overheads
+recordings
+advantages
+bayes
+build the database
+rst stage
+offer a poor localization
+databases this step involves
+card
+software
+training
+awaremedia and awarephone
+northsouth
+authors
+root of ngerprint density
+programming
+1:14 1:19
+entries alongside information
+found each ngerprint
+nearest neighbors
+methods to deliver
+efciency
+signals from base
+barsocchi
+range of rssif
+constantly
+wlan
+important step
+variable environments
+oinnss is unsuitable
+location i specically
+received a high
+deterministic algorithms error
+noise and interference
+long
+strength indication ngerprinting
+location with wireless lans
+network interface card
+two problems
+similar ngerprint
+open
+test-bed environment
+locations are computed
+user location
+aps tend
+vector naturally represent
+networks rssi ngerprinting
+network connections
+compare their performance
+test-bed ngerprint
+algorithm ; referred
+natural user identication
+mobicom
+designer
+rssif techniques for indoor
+include designing approximation
+four and two
+values to exclude
+affect the distance metric
+consistent
+close match to multiple
+benets
+techniques are displayed
+returns
+rows running
+layout
+localization with ieee
+search results
+pervasive and mobile computing
+rate of four
+normal probability
+required four
+method does not work
+aps with rssi
+continuous
+repeated until it nds
+recordings and the uncontrolled
+networking information ; e.g
+contrast to prior
+virtual calibration for rssi-based
+made to carry
+rst describe
+two classes of localization
+rst axis consists
+kwan-wu
+takes the sorted
+erroneous aps
+radar-enhanced
+standard deviation cut-off increases
+number of algorithmic methods
+signal strength tuple s1o
+database are calculated
+appeared towards the end
+nnss and nnssr
+require
+implementation parameters
+wkpdf
+researchers had complete
+quantitative comparison
+high density
+wireless local area networks
+rst describe existing
+rank of all tested
+published
+applications may use active
+rssif methods
+thesis on indoor
+poorly in environments
+computer networks
+estimates its location
+maximizes estimate
+exceeded
+locations
+density fingerprint
+collection stage were undesirable
+ngerprint s1
+large number
+weighted k-nearest neighbor
+correlated sampling
+online phase
+practical implementation
+k-nearest neighbor bayesian
+tted to a normal
+variable rssi values
+henceforth
+propose an extension
+present in the database
+carried out
+unsuitable
+aps are present
+mode lter to restore
+infocom
+lter to restore
+converges
+note
+tirri
+standard deviation of rssi
+list table
+online
+performance
+popularity
+wcm
+switching
+robust indoor localization
+aps from both databases
+average rssi value
+multiple
+normal
+results when tested
+removes
+divided by the number
+distribution of rssi
+falls
+conference and journal papers
+retrieve
+fingerprint density is expected
+aps connect and disconnect
+spaced
+operate
+areas
+provide an overview
+2.2.2 bayesian the bayesian
+environments which have high
+entire ngerprint database
+average
+network proles and wireless
+sorted nearest neighbor results
+taking the maximum
+spaced ngerprints
+poor localization metric
+senior
+adjacent cell
+aps than nearest
+location depending
+paper compares
+ngerprint ; e.g
+users location estimation
+suffers from random uctuation
+tuple s1o
+observation samples are considered
+algorithm reaches
+rssi values
+probable location
+investigation described
+improvements in section
+computers
+interpretation
+multiple aps
+sorted nearest
+map of rssi ngerprints
+map or ngerprint
+slow
+shortest euclidean distance
+favor
+database or observation
+true
+variations in rssi
+effect of mode
+cricket requires
+corresponds
+primarily separated
+developed
+sufx r to denote
+common set
+euclidean distance is dened
+nearest location
+papers in various areas
+rssi samples exceeded
+aps than nnss
+dbm of all in-range
+returns the closest ngerprint
+aps are not present
+quickly
+results shown in table
+performance increase of knnssr
+effectively by incorporating
+proling nearest neighbor
+information from all four
+npdf algorithm
+hooper
+rss distribution model
+show methods that average
+method by approximately
+positioning systems
+builds
+out of range frequently
+methods is heavily dependent
+similar to uwkola
+average the distance
+relied
+median
+performing algorithm is knnssr
+yield
+summary
+acm mobicom
+paper
+e911
+environments that display
+j=1
+curtin university of technology
+created a demand
+randomly select
+corridors
+randomly
+bachelor of electrical
+thesis
+range of standard deviation
+removed from the database
+station
+distribution function is undened
+includes data logging services
+order to exclude
+nnss variants operate
+allocation problems in single
+specic orientation
+last decade
+ignores
+probable ngerprints
+collects
+modication therefore exploits information
+bilistic
+npdf to have comparable
+ability
+characteristics of aps
+enumerates
+paired
+easily record all ngerprints
+review
+802.11b
+indoor localization using deterministic
+wireless communications
+collect and sanitize rssi
+open indoor space
+benets of combining
+applications developers
+computer areas and quiet
+computer networks and isdn
+nearest neighbor variants
+network and weighted k-nearest
+infrastructure
+achieved an improvement
+chessa
+represent different orientations
+locations within the building
+uncontrolled and varied
+build multiple
+implemented
+hosts orientation
+highlight
+corresponds to a total
+algorithm is knnssr
+knpdf
+analyzes
+koinnssr
+versus computational
+wireless network proles
+installation
+1:39
+environments with high variability
+rst provide
+similar
+region
+consideration in selecting
+generating the ngerprint
+quiet
+unique physical locations
+deviation cut
+approximation algorithms
+localization to provide
+operating in uncontrolled environments
+unique aps were detected
+large amount
+number of rssi samples
+orientation independent
+non-negligible multipath fading
+nearby
+pinpoint a persons
+samples are considered
+distance in signal space
+compute a position
+means a mobile
+overview
+ofce
+technique removes
+period
+bayesian localization algorithm
+deviation of rssi
+nnssr with wkola
+exploit
+number of algorithmic
+areas of wireless networks
+two classes
+treating each orientation
+01ef6833130 00d6572c38a
+received in revised
+algorithm continues
+difcult for context-aware
+strength characteristics
+combines
+nnsso method
+four new variants
+issue faced
+render localization
+identied by the guid
+computing
+detected
+technical report
+independent performance of aps
+kwan-wu chin
+unique locations
+100,000 in our sample
+test-bed and localization
+location or related
+east and west
+station density than deterministic
+represents the probability
+connections
+readings
+distance in the vicinity
+observe
+proven
+large amount of information
+bayesian
+benets of combining k-nearest
+weeks
+protocols
+stage involves
+builds a map
+globally
+uwkola iwkola wkola oinnssa
+mode lter converges
+ieee wcnc
+developing
+values are collected
+parl
+bahl and padmanabhan
+rst present
+mobile hosts true location
+nnssr variants
+outlined in section
+localization estimation
+oinnss with kola
+school of electrical
+nnss
+methods that average
+technique or kola
+generate
+orientation
+prevalence
+signal space perform
+rely on outdoor
+represented by a normal
+effective and proven
+equal
+ignores missing aps
+ability of bayesian
+holds four us patents
+current interests
+estimates were generated
+rssi system
+pathways running
+systems in uncontrolled
+issue is dependent
+red circles
+extra processing
+ieee 802.11b access point
+author
+samples taken per position
+duration of the scan
+reduced dimension algorithms
+kola + npdfs performance
+consists of small ofce
+cut-off of one results
+collects signal strength data
+lite
+aps across all individual
+wireless lan based
+takes twice as long
+mac address of aps
+windows vista
+closest
+signal strength value
+unlike the areas
+median distance error
+search space
+efciency and accuracy
+allocation
+constant with the addition
+iterate through all ngerprints
+variable signal
+wired
+elsevier pervasive
+ndpf method described
+space is largely limited
+nearest neighbor
+systems based on location
+performance but utilizes signicantly
+present our testbed
+outdoor systems
+desirable aps
+estimation
+display reasonably good
+largely
+considers
+heavily dependent on practical
+negatively affect the distance
+general location averaging
+australia research center
+experiences from real
+ieee infocom2000
+density is expected
+highlighted a signicant advantage
+interface
+dimension
+researchers
+performance with fewer
+indoor positioning
+outdoor
+100,000
+found that its accuracy
+dimensions in combination
+lled with zeros
+otsason
+rest
+uwkola
+uwkola will average
+dependent on the test-bed
+nal
+mode lter
+infocom2000
+results show
+modied the bayesian algorithm
+compute a position estimate
+results thus far suggest
+nnsso
+existing localization methods
+combines nnssr
+chakraborty
+observe this problem
+error distance
+reduced dimension algorithms maintain
+improvement
+proposed numerous enhancements
+produces more accurate
+amount of information relating
+relating to the properties
+periods of human
+favorable results when tested
+rssi is preferred
+real
+ladd
+orr
+easily
+ltering
+increase with additional
+sums
+in-range
+dawes graduated
+order to produce
+netherlands
+senior research
+ngerprint and observation vectors
+provided
+inclusion of aps
+model bayesian nearest neighbor
+probability distributions
+reduced dimension of nearest
+dimension of nearest neighbor
+intel
+non-negligible multipath
+addition of new samples
+kth order location averaging
+nearest location similar
+nics and their giud
+single vector
+tend
+superior localization
+shortcoming of the bayesian
+combine kth location averaging
+location of the adjacent
+wired networks
+reduced dimension ngerprint set
+large variation
+address its shortcomings
+mobile device estimates
+average distance
+interests included localization algorithms
+accuracy represents
+conditional
+lite version
+mode ltering
+presentation
+calculated
+service
+accuracy of the system
+work well in environments
+performance of aps
+duration
+intact
+zero-conguration and wireless sensor
+reasons
+users
+basic
+standard deviation cut-off
+research methodology
+windows
+proceedings of the ieee
+portable device
+rapidly to a stable
+recorded
+standard deviation cut-offs
+nnsso oinnss improvement standard
+voice
+critical
+variations in the rssi
+ieee infocom
+oinnss improvement
+indoor positioning technology
+network interface
+lower than expected
+dresden
+constant increase
+combination with nnss
+site layout differs greatly
+raw rssi values
+rst record a number
+carried
+standard deviation cut
+notably
+library environment
+display
+function with data collected
+absence of any internal
+radar does not require
+bardram1
+journal research
+refers
+hospital environment
+i=1
+comparison
+joined the motorola
+euclidean distance
+western australia
+offer an advantage
+stations
+wkola oinnssa nnsso
+based
+location that is closest
+range of rssi
+cut-offs
+practical
+neighbor in signal
+wireless lan
+corresponds to the location
+west
+orientations nnss uwkola iwkola
+four and location
+set of aps
+ltered algorithm
+rst used in bahl
+comparison between these two
+sophisticated data
+kola all performed
+algorithm picks
+inclusion
+largely limited
+single nearest neighbors
+large open
+yield an accuracy
+algorithm reaches its peak
+sensing using wireless ethernet
+prole that incorporates
+references
+aps have a rssi
+determine
+wireless e911 location network
+taking the average rssi
+lastly
+reducing the number
+neighbor results shown
+include multiple
+address the aforementioned
+magnitude of the observation
+deviation cut-off technique removes
+remove undesirable
+ngerprint
+jin
+area
+algorithms error
+removing
+philadelphia
+oinnssr
+active badge location
+sampling
+position estimation
+modied the bayesian
+area networks rssi ngerprinting
+function returns
+determine the globally unique
+separately
+interests include
+rfid
+poor localization
+transmission range
+importance of removing
+summary of deterministic algorithms
+chapter experiences
+environmental proles that reect
+bayesian algorithm
+research has demonstrated
+observation vector naturally
+distinction
+correlated
+multi-hop
+observed rss vector
+true location
+indoor positioning systems based
+show the effectiveness
+corresponds to the physical
+state s given observation
+ieee spectrum
+october
+methods for indoor localization
+algorithm
+sanitize
+notes in computer science
+works have not outlined
+suggests only the rst
+sample set
+transient aps that drift
+wknnss
+nnss method with reduced
+doi:10.1016
+distance error
+irregular rssi readings
+nature
+calculating the euclidean distance
+factors in computing systems
+requiring
+favor of combining
+continuous performance increase
+user identication and tracking
+interface card
+mobile computing
+issues are particularly important
+existing algorithms
+variants that address
+substantially
+described in section
+user location and tracking
+basic nearest neighbor
+ngerprint is factored
+limitations to carry
+np-hard problems and resource
+utilizes signicantly fewer aps
+base station density
+collection also required
+rssi ngerprinting
+cut-off in order
+higher computational requirements
+important consideration
+networks and isdn
+area and the number
+oinnssa
+lans
+environments with very low
+improvements can be made
+requiring sophisticated data collection
+indoor localization technique
+environments with high
+human factors in computing
+nnss nnsso oinnss
+due to the relative
+render
+variation in magnitude
+overheads and reliability
+rssi observation vector
+drift
+facilitate the data collection
+offer greater
+kola modications
+hardware
+important
+study the impact
+uctuation
+developed a program
+included
+neighbor bayesian bayesian
+reported a continuous performance
+access point
+converging more rapidly
+produced by kola
+network
+building
+laptops
+program using the native
+users with value
+kth location averaging
+performance objectively
+calls
+approximately equal
+requires
+wifi
+nearest neighbors contribute
+uctuation due to noise
+rst present our test-bed
+tracking
+device will rst
+week
+www.elsevier.com a comparison
+switch in and out
+npdf highlighted a signicant
+number of aps precision
+active bat requires
+ngerprint contain an average
+ngerprint set
+aps and rssi
+ofine phase
+performance over the duration
+maximum
+lists available at sciencedirect
+four scans
+operate with the entire
+bayesian with rss distribution
+unweighted
+making it difcult
+oinnss
+requires the installation
+managed
+iteration weighted
+denotes
+collection methods
+number of positions
+aliasing refers
+extra
+mechanism for natural user
+distance of all tested
+802.15.4
+standard deviation gap
+proposed mode
+nearest neighbor results
+localization efciency
+averages all ve locations
+wcnc03
+switched
+density is calculated
+undened for standard
+network connection
+mode ltering technique
+program
+present
+difcult for context-aware applications
+algorithm outperforms
+testbed and experimental
+performance ranges
+suggests that approximately
+irregular rssi
+returned
+song
+location is set
+ofine
+results
+802.11b access point
+averaged over a standard
+algorithm has a lower
+logger program makes
+ngerprints that represent
+stored as a tuple
+propose four
+kndpf performance
+wallach
+make a more accurate
+unlike
+pervasive
+list
+systems and software journal
+oinnssr with kola
+large
+nnss variants
+uow-testbed
+rst determines
+interface cards
+small
+case intel pro
+nearest neighbor in signal
+multiple orientations
+correct
+reduces the median distance
+portable
+lecture
+rssi values in order
+transient aps
+past
+running eastwest
+rate
+users location
+terms of rssi
+enhancement
+native wifi application programming
+distance due
+multiple wireless
+spaced ngerprints is approximately
+marginal
+calibration for rssi-based
+provide acceptable
+normal pdf
+signals from base stations
+section
+deterministic techniques
+location weighted equally
+vector naturally
+observing an rss
+works with fewer aps
+increase in performance plateaus
+ngerprint takes
+required time correlated sampling
+highly variable aps
+row
+networks protocols
+remove undesirable aps
+contrast
+location metrics specic
+outperforming
+high
+consistent performance
+identify all available aps
+body may form
+paradigm using a specic
+advantage over deterministic
+ranges
+requiring four scans
+wknnss wknnssr
+combine kola
+relating
+i.e
+november
+ascending
+factored into the location
+kola and nnss
+matching
+remains a key
+wlangetbsslist to retrieve
+algorithms that work
+designing approximation algorithms
+produced by kola modications
+density than deterministic methods
+primary advantage of npdf
+amount
+professor
+techniques that work
+factored
+calculate position estimations
+offer greater efciency
+estimated location uctuated
+sufx
+technique
+hansen1
+space with no internal
+collected
+e911 location network
+npdf performs
+aliasing and large uctuations
+location four and location
+root of ngerprint
+aps observed
+iwkola wkola oinnssa
+estimate
+two observation samples
+generating ngerprint
+probability for the previous
+discuss
+lamarca
+constant environment
+periods when aps
+takes
+address a key shortcoming
+accurate results
+device estimates its location
+stem from the popularity
+strategy for the inclusion
+doi:10.1016 active bat requires
+adds a weight
+database with a standard
+show npdf
+neighbor search
+proles that reect
+value to form
+metric
+area primarily
+israel
+general location averaging technique
+estimates as the users
+preliminary results
+positioning technology
+rfid to dimensioning voice
+location estimate based
+aps present
+distinction for his honous
+comparative analysis with radar
+research development
+number of pathways
+note that rssi
+calculating the euclidean
+orientations for each physical
+logging
+infrastructure to support localization
+location system
+accuracy of different classes
+perform effectively with fewer
+contents lists
+harter
+include
+joined
+based program
+recall
+primarily consists
+calculated as the total
+faced
+performing algorithm
+oinnssa nnsso
+modications to kola
+localization algorithm we implemented
+compare both deterministic
+vector falls
+locations will be selected
+history
+represent k unique locations
+highly variable rssi values
+design of indoor
+lite version of wcm
+localization brett
+ensure k unique locations
+data collection process
+indoor localization brett dawes
+pro
+amount of time initially
+modications
+dependent on practical
+ave
+require existing wired networks
+university of technology
+found that the estimated
+kola as koinnssr
+based on an open
+badge location
+reach this accuracy
+advantage
+t.r
+location estimation
+independently of orientation
+high number of aps
+multiple times
+methods to deliver increasingly
+relative independent
+in-range aps
+discussion in section
+localization environment
+effective strategy
+presents our conclusions
+ltering technique proved
+techniques presented in hossain
+simplicity
+continues
+section 2.2.1 with bayes
+normalizing constant and represents
+prevalence of wireless
+k-nearest neighbor neural
+development of a number
+unique
+sample points
+brett
+number of entries
+lan
+tested localization
+combining k-nearest neighbor
+deviation cut-off fig
+telecommunications engineering
+accuracy with additional
+distance calculation
+rssi values represented
+technique proved very effective
+plateaus at a standard
+order location
+subsequent appearances
+highly variable signal
+build a robust picture
+documentation
+relative independent performance
+information relating
+requirements as they rely
+hardware and rely solely
+entry contains the recorded
+investigation described in section
+orientations of a location
+rst few location estimates
+words
+variants and the npdf
+location or cell
+increase the performance
+3945abg
+value added
+distance performance
+september
+based on probability
+hardware and rely
+signicantly higher
+s2o
+service using a wireless
+radar
+ordered list table
+preliminary
+enhancements to existing localization
+algorithms based
+uncontrolled environments
+features a shortest euclidean
+outperforms
+treating each orientation separately
+rapidly
+ibm journal research
+render localization methods ineffective
+noisy and varies
+comparative performance
+greatly
+oinnss improvement standard
+list similar
+pdf algorithm
+absence
+systems
+version
+van
+problem
+match
+amount of networking information
+logger
+deterministic and probabilistic
+return
+entire
+match to multiple orientations
+refers to the scenario
+pointer to a structure
+case on our testbed
+red
+efciency in terms
+walls
+bayesian localization
+mode ltered algorithm continues
+rst oor
+result is comparable
+basic algorithm outperforms mode
+collection this stage involves
+existing deterministic and probabilistic
+interests
+common set of aps
+algorithm number
+journal research development
+bayesian method
+instances
+robust indoor
+referred to as npdf
+conduct
+utilized
+layout differs
+combine kola or wkola
+variation within the samples
+technique generated favorable results
+technique that exploits
+quickly build
+0164-1212
+sko
+combining proba
+dimension of nearest
+oor of the university
+status
+determinitic methods
+algorithm provides a performance
+picture of the signal
+weight
+generation
+resource allocation problems
+np-hard
+positioned
+deviation for standard
+distance due to variations
+modied
+connect
+describe existing deterministic
+search
+positively or negatively affect
+result achieved
+np-hard problems
+found aps tend
+ngerprint databases
+estimate from kola
+signal to noise
+distance to k nearest
+experimental results
+takes the sorted nearest
+environments with highly variable
+research
+vista
+radar user location
+bilistic and determinitic
+work well with reduced
+holds four
+ngerprints to determine
+issue
+nnss nnsso
+basic service
+applications
+incorporating a mode lter
+data collected in uncontrolled
+multiple rssi samples
+report on the impact
+localization
+large uctuations in estimation
+generation of smart
+distance is signicantly higher
+ngerprint and observation vector
+scan are rst
+real world deployment
+base
+stems
+considered hosts
+context-aware
+signal strength indication
+scan is not desirable
+west orientations
+large open indoor space
+combines nnssr and kola
+similarly
+combination of orientation
+running
+reaches its peak performance
+pattern on the ceiling
+tuple in the form
+oor of the uow
+tel-aviv
+kung
+sample database
+consequence
+rssif
+provide users
+trafc within the library
+shows the error
+row contains the mac
+based on location ngerprinting
+method implemented in radar
+space perform
+utilizes
+probability
+data collection also required
+version of wcm
+nal axis corresponds
+ngerprint database are calculated
+achieved at the expense
+density of wlan
+algorithmic methods that provide
+estimates physical positions
+probabilistic ngerprinting
+shows it converging
+search results for fig
+ngerprints is approximately
+likelihood that an observed
+two phases
+two to location four
+sample database into location
+vector is calculated
+professor at the school
+practical robust localization
+increase with additional samples
+aps or reduced dimensions
+introduction
+expense of higher
+users body
+shelves
+unique identier
+proposed a number
+nnss variants with reduced
+noticed
+show
+signal strength returns
+complete control
+wifi application programming
+gps
+function of location
+exploits information provided
+data collection stage
+international journal
+calculate position
+universal location service
+standard dimensions reduced dimensions
+developed a command-line
+comparison of existing rssif
+assumption
+part
+aps are included
+increasingly accurate position
+exclude transient
+experimental site
+normal pdf algorithm
+center
+weight to each location
+smallest euclidean
+band in order
+determines
+performance plateaus
+motorola australia research
+performance peaked
+ngerprint takes the average
+error distance due
+consideration as it suggests
+present when an observation
+cost
+wifi application programming interface
+location most likely contained
+chosen were randomly distributed
+ngerprinting in wireless lans
+location metrics
+methods that exploit
+advantage of using multiple
+basic algorithm outperforms
+alongside
+methods is heavily
+direct
+signicant
+nnss alternatives
+acknowledgment
+indoor localization methods
+distance between its observed
+elsevier
+average performance of nnss
+uctuations in estimation
+lower standard deviation cut-off
+includes
+microsoft technical
+sophisticated data collection methods
+system depends
+lim
+slow periods of human
+show that localization
+based on nearest neighbors
+koinnss
+internal
+metric used by deterministic
+build
+ngerprint contains a large
+removing transient aps
+closer to the true
+neighbor neural
+marceau
+single rssi observation vector
+tting
+increase localization accuracy
+recall that the euclidean
+accuracy reduces
+performance of nnss variants
+signal strength
+specically
+measures
+reach
+physical space
+compare
+function called wlangetbsslist
+strength data
+ltered algorithm continues
+distance performance but utilizes
+users rssi
+services
+related to their locations
+bayesian with mode
+probabilistic
+npdf and nnssr
+normal distribution before taking
+communications review
+peaked
+deviations
+lower standard
+nearest neighbor bayesian
+minimum
+separated into two
+two groups
+clear
+algorithms use a slightly
+continuous performance
+performance enhancement
+generated by the reduced
+indoor localization using multiple
+uwkola but considers
+impact and provide
+substantial increase
+dimensions reduced
+key features a shortest
+neighbor variants
+respect
+favorable
+science
+error distance of approximately
+vector is not present
+order to exclude transient
+standard and reduced
+magnitude over the scan
+hopper
+uncontrolled library environment
+gsm indoor
+accurate position estimation
+property of npdf
+lan based
+offer superior
+problem in our experimentation
+spacing between ngerprints
+networks
+slightly more complex metric
+researchers had complete control
+cell
+ngerprint is a conditional
+four scans representing
+parameters
+consistently
+front
+knnss knnssr wknnss wknnssr
+distributed
+combines the information
+area divided
+algorithm we implemented
+received signal
+increasingly
+modication is called iteration
+nnssr and kola
+sample standard deviation
+scans represents a total
+resulting algorithm
+rssi system performance ranges
+transient and erroneous
+calculate position estimations based
+rssi value
+dimension of rssi
+rssi sample
+distance
+ndpf method
+negates the advantage
+effectively with fewer
+variable signal strength
+difcult to judge
+listed
+locations with location four
+method described
+removal of erroneous aps
+location or state
+nnsso oinnss improvement
+end
+lenzi
+localization methods work
+naturally represent k unique
+method display reasonably good
+removing transient
+learning theory
+remove
+deviation cut-off than nnss
+investigate
+stored
+advantages in indoor
+common
+combination with the kola
+attained
+inherently noisy and varies
+number of rssi
+meter
+naghshineh
+neural network and weighted
+effective indoor positioning
+intel pro
+ngerprint and observation
+brunato
+set
+median distance
+isdn
+advantageously
+combination with knnss
+iteration
+selecting
+nnss with kola represented
+plateaus
+individual
+status of each detected
+advantage over nearest
+close
+design
+calculate a position
+open source program
+methods for indoor
+alternative algorithms
+build multiple distinct environmental
+present in an individual
+npdf method display
+success of the localization
+presented in hossain
+pisa
+space is considered
+case
+paper compares a range
+classes
+rst record
+electrical
+represents an observed
+superior localization performance
+call
+kth
+performance without requiring
+numerous
+study that addresses
+awarephone require existing
+weighted k-nearest neighbor neural
+lists their total
+number of locations
+samples exceeded
+produce an error distance
+selecting which aps
+outperforms mode
+rule denes
+implemented combines
+shankar
+samples fig
+mode ltering technique proved
+outperforms oinnss
+range constantly
+disadvantage stems
+interfaced
+matching location or cell
+aps intact
+1:39 1:14 1:19
+method consistently produces
+neighbor results
+mac address
+desired
+snr suffers from random
+rf-based user location
+ranging from rfid
+bachelor
+connection
+bss includes a large
+incorporates many different environmental
+higher number
+highly variable rssi
+kth order location
+inouye
+indoor positioning systems
+includes a large
+primarily into rows running
+cut-off technique
+simple
+logged
+observed signal strength tuple
+key shortcoming with methods
+uwkola iwkola wkola
+times of the day
+running northsouth
+probability distribution
+wifi card
+compares a range
+consideration
+physical positions independently
+localization systems in uncontrolled
+data collection and localization
+number of improvements
+described
+neighbors in signal space
+provide effective indoor positioning
+create
+due
+strategy
+aps may be detected
+environments that display highly
+makes the following contributions
+due to the variation
+lan based indoor positioning
+experimental site was located
+variants with reduced
+support localization
+access points
+average spacing
+combine kth location
+probabilistic ngerprints
+unique aps
+bmd034 @ uow.edu.au
+statistical learning theory
+gao
+networked
+determination
+represents a delay
+demand
+bmd034
+real world
+propose four new variants
+support localization sensors
+balakrishnan
+raw
+stage are primarily
+deliver increasingly accurate position
+knnssr and wknnssr begins
+iteration weighted kola
+evaluated
+extension reduces the median
+techniques for indoor
+technical
+based on nearest
+previous research
+determine the likelihood
+addressed effectively by incorporating
+error
+carry out
+simple to implement
+ngerprint database is organized
+active badge location system
+computed
+selected
+pro 3945abg
+portugal
+1:9
+location than snr
+averaging
+rate of four samples
+marginal probability of observing
+standard deviation cut-off technique
+carry out the scans
+accurate position
+average number present
+localization test-bed ngerprint
+carry out the rssi
+contrast with variations
+positioning algorithms
+environment proling
+leaving
+south
+likelihood function
+global positioning system
+matching location
+italy
+appears multiple times
+suggests
+specic to each localization
+ability of bayesian methods
+problems
+fading
+common test-bed
+improvement standard dimensions
+performance without requiring sophisticated
+variables during busy
+logged to a tab
+shortest euclidean
+proved
+min to collect
+deliver increasingly accurate
+higher
+development
+faced by all localization
+sophisticated
+literature
+maximum value
+data collection paradigm
+noticed that each ngerprint
+neighbor and neural network
+consists of a large
+map of rssi
+ignores repeated locations
+program makes
+database
+location averaging technique
+k-nearest neighbor bayesian bayesian
+user
+distance from the observation
+fewer aps
+robust
+continues to increase
+found methods based
+performance after two samples
+past research
+wlan location
+lower
+information systems
+deviation cut-off of approximately
+sophisticated data collection
+navigation
+independent infrastructure to support
+signicant standard
+dimensions as it ignores
+analysis
+interests included localization
+user is at location
+number present
+people move
+patents
+calibration to quickly build
+grid
+meet the criteria
+gsm
+area primarily into rows
+scans were carried
+global positioning
+evaluate the benets
+study represents at worst
+methods that compute
+fingerprint density fingerprint
+rst k unique
+observed
+deployment
+roboticsbased location
+returns the location
+readings with large
+effect of mode lter
+kola offers signicant performance
+positions independently of orientation
+algorithm then returns
+individual ngerprint
+alternative
+addresses
+readings of these aps
+wireless network connections
+collection it is based
+accepted
+helping
+ineffective
+features a shortest
+produce the most accurate
+ndpf has an error
+lter in order
+mobile device using ieee
+calculate a position estimate
+system algorithm
+source
+systems such as global
+undesirable transients
+wknnssr begins
+sanitize rssi
+means the euclidean distance
+nnsso a indicates existing
+database is the removal
+represents the marginal probability
+distance is signicantly
+march
+build a robust rssi
+emergency
+weight to a location
+probable ngerprint is factored
+evaluate
+location four
+wireless technologies
+proles that reect busy
+technique removes undesirable aps
+grid pattern
+bahl
+lower base station density
+site layout differs
+stable
+implementation of localization
+probability distribution of rssi
+effectiveness
+interests included
+hosts true
+aliasing
+aps in ngerprint databases
+peaked after two samples
+addressed
+resource allocation
+accuracy versus
+collect
+laptops wireless network
+indication
+rssi data
+designed an improvement
+function
+reduces
+ngerprinting
+bachelor of electrical engineering
+pinpoint a persons location
+r.j
+variation of rssi
+cut-off technique generated favorable
+methods
+times in the sorted
+dawes
+probabilistic methods offer superior
+research has tend
+undened
+reviewers for helping
+separated
+methods offer
+mode ltered
+added
+probabilistic ngerprinting techniques presented
+outline a shortcoming
+references bahl
+distinct
+means no extra
+bayesian nearest neighbor
+rst modication
+sums the distance
+wollongong
+proles and wireless network
+algorithms to np-hard
+probabilistic approach
+lara
+perform effectively
+algorithm in uncontrolled
+data logging
+hosts
+logger is to determine
+terms of accuracy versus
+smallest d value
+high density of wlan
+3945abg network
+ofce rooms and corridors
+run
+require specialized
+times it appears
+ensure k unique
+kola + npdfs
+priyantha
+localized and could easily
+phd thesis
+stem
+referring to fig
+kola variants
+ignores ngerprints that represent
+steggles
+function call to wlanapi
+modication whereby they calculate
+article
+bss
+euclidean
+gibbons
+chin university of wollongong
+orientation information
+locations and four orientations
+increasingly accurate
+usa
+readily from all wireless
+weighed three times higher
+deterministic localization
+modication therefore exploits
+variability in terms
+application programming
+reduced
+effectively with fewer aps
+range
+drawn from both probabilistic
+modal
+card manager
+multi-use in nature
+effective implementation of localization
+initially to build
+single ngerprint takes
+nearest neighbor search results
+zero-conguration
+kth order
+computational
+end of the scan
+improvement standard
+area of approximately
+distinct environmental
+space is considered open
+rssi samples to calculate
+proposed mode ltering
+divides the area
+computation overheads
+kola algorithms
+method described in section
+nnss method
+lter
+localization using multiple wireless
+practical implementation parameters
+algorithmic methods
+bardraml
+clustering
+algorithm outperforms mode ltered
+performance as compared
+rows
+computer
+suggests that this issue
+chosen were randomly
+standard deviation cut-off fig
+kola offers
+method after only two
+bayesian techniques that work
+ordered
+robust rssi prole
+provide targeted advertisements
+single and multi-hop wireless
+subsequent
+sections
+impact on the resulting
+determine one that maximizes
+weighed
+combining proba bayesian bayesian
+previous observation
+accurate position estimations
+criteria
+review a number
+cricket requires the installation
+ngerprints with the smallest
+sampled
+zeroconguration
+ngerprint scan
+rst stage in developing
+entry
+implies the mobile
+fewer aps means npdf
+approach before surveying
+signicant performance enhancement
+peak performance after two
+effective implementation
+international
+mobile
+knnss knnssr wknnss
+location estimates
+native wifi
+barcelona
+shortcoming
+uctuated around the correct
+chapter experiences from real
+constant and represents
+results also include multiple
+aps from the observation
+designed to manage
+location and orientation
+operates at an error
+improvements and modications
+implemented combines the ndpf
+generated favorable results
+wireless e911 location
+stable value
+axis corresponds
+single
+variable signal strength characteristics
+surveying
+work with vectors
+generating ngerprint databases
+order to conduct
+computing systems
+address these issues
+command-line based program
+advantages in indoor environments
+kth location
+record a number
+database called the ngerprint
+collects signal
+ngerprint can be collected
+calculate the nearest
+active bat and active
+four to location
+application
+kola achieved an improvement
+phd from curtin
+prevalence of wireless local
+dimensioning
+rss distribution
+rely on localization
+robust ngerprint
+entries alongside
+implemented numerous version
+outperforming the nnsso
+calculating
+providing universal location service
+value for the estimation
+deviation cut-off technique generated
+closest match
+environments where transient
+direct access
+area networks
+neighbor methods
+distance is dened
+generated
+closest in signal space
+function returns a pointer
+averaged
+ngerprinting techniques presented
+ngerprinting in wireless
+lack of consistency
+structure
+distance of the bayesian
+independently
+suffers
+implies
+fingerprint of a location
+frequently switch
+addressed effectively
+exception of knnssior
+aps
+greater efciency
+location is weighed
+areas with desks
+maximizes localization
+space measures
+hossain
+international journal of wireless
+sampled rssi values
+signicantly fewer
+signicant impact
+evenly
+station density
+curtin
+sorted list similar
+nearby buildings
+experimental condition
+locations fingerprint density
+produce
+existing
+shortcomings
+algorithms averaged
+knpdf wknpdf
+mode lter in order
+determines k unique
+acceptable performance
+contributions
+rssif techniques
+rely on outdoor systems
+overview of rssi ngerprinting
+terms
+detected on the interfaced
+meet the criteria outlined
+deterministic
+varied conditions
+hosts true location
+reaches its peak
+signal space ; referred
+npdfs
+location uctuated
+algorithm takes
+signal strength data
+internal walls
+deterministic paradigms
+produce comparative
+dramatically
+list of bss
+limitation of these systems
+combining proba bayesian
+ascending order
+existing rssif systems
+pro 3945abg network
+properties and status
+algorithm outperforms mode
+revised form
+vector across the four
+construction of the rssif
+localization algorithm
+means all aps present
+importance because we found
+highest performing algorithm
+proba
+performance increase with additional
+vaio laptops wireless network
+missing aps
+installation of new hardware
+applications that rely
+signicant standard deviation gap
+ngerprints in sections
+means a mobile device
+highlight that localization
+entire ngerprint
+include designing approximation algorithms
+summarizes the key
+min
+kola algorithm
+two has the largest
+slightly more complex
+performance increased
+dimension method
+possess a very large
+performance after two
+addresses this gap
+estimates produced
+specic ap might perform
+orientation separately
+probabilistic and deterministic
+scans were carried out
+sampled rssi
+proling
+located
+tested localization algorithms
+good localization
+developing rssi logger
+ieee icc
+collect and sanitize
+position estimate
+research into rssif
+research into rssif systems
+provide a probability
+ability to perform effectively
+access
+bss entries alongside information
+sourceforge
+system designer builds
+values to exclude transient
+user at location
+technology
+aps on accuracy
+localization performance continues
+body
+impact
+means no extra processing
+rssi and aps
+journal of wireless information
+negates
+favorable results
+cut-off technique removes undesirable
+spacing
+ibm journal research development
+highly
+divided into deterministic
+made to carry out
+busy
+meet
+large amount of variation
+in-building rf-based user location
+ngerprints are found
+test-bed and localization environment
+addresses a key
+connect and disconnect
+wkola in combination
+positions in the search
+order to identify
+larger
+disadvantage
+host
+badge require
+persons
+software journal
+requiring four scans representing
+resulting
+observed rss vector falls
+oinnss and oinnssr
+increasingly accurate position estimations
+implement
+makes
+test the algorithms described
+involves
+raw rssi data
+red circles in fig
+weighed three times
+represents a total
+2.2.1 with bayes
+positioning
+alongside information
+wlan user location estimation
+x-coord
+returned to the users
+recall that oinnss
+set of state
+location determination
+factors in computing
+decrease
+human trafc
+high variability
+observed signal strength
+reserved
+methodology we rst
+information provided
+results shown
+research methodology we rst
+average all ve locations
+database would be lled
+npdf highlighted
+takes the average
+propose
+based on location
+aps from the rssi
+due to non-negligible
+average number
+address of aps
+based on n observations
+calculation
+equally towards the average
+location ngerprinting
+communications
+requiring four
+stage
+interest of table
+consistency in rssi
+main interests
+lter on bayesian algorithm
+existing deterministic
+methods ineffective
+long to reach
+previous research has demonstrated
+melillo
+location similar to uwkola
+distributions to perform poorly
+conference and journal
+small ofce rooms
+case intel
+generate an error
+approach before surveying prior
+bayesian algorithm reaches
+deployment of context-aware technologies
+haeberlen
+misikangas
+reducing
+method display
+variants highlight that localization
+ubiquity of wlans
+microsoft
+distinct physical locations
+1:39 1:14
+detected wifi network
+variants described in section
+returns a pointer
+localization sensors
+rssi logger program
+algorithm key features
+averages
+article history
+performed
+control
+generate ngerprints
+closest ngerprint in signal
+times better than nnssr
+process
+standard dimensions
+proles and wireless
+samples for that ngerprint
+aps or reduced
+modications are needed
+01ef6833130 is seen switching
+effectively
+layout of the rst
+acm
+tab
+authors of radar
+bss entries alongside
+neural network
+easily separated
+programming interface
+knnssr wknnss wknnssr
+match to multiple
+networking information
+localizing
+ngerprint database
+relative proximity
+estimates physical
+holds
+quiet study
+producing an error distance
+model bayesian
+ieee 802.11b
+considered open
+standard deviation greater
+book shelves
+wkola adds a weight
+based indoor
+performance of kola
+native
+localization technique
+location requiring four
+problems and resource allocation
+buildings
+highly variable signal strength
+produce comparative performance
+multiple instances
+total area divided
+samples
+nnsso sums the distance
+wkola
+distribution model bayesian nearest
+wknpdf
+stage were undesirable
+report on the median
+performance but utilizes
+wifi card manager
+mac addresses
+primary advantage
+referring
+engineering
+varied
+00dbd1fb4ac 01ef6833130 00d6572c38a
+introduced
+sciencedirect the journal
+wireless information
+list of bss entries
+oinnss is used ensure
+building being localized
+building robust
+spain
+probable location is weighed
+bayesian the bayesian
+lled
+northelds ave
+wlangetbsslist function
+discussion
+battiti
+general location
+environmental variables
+poor
+produces
+npdf performance
+obstruction between the host
+isdn systems
+localization accuracy
+k.-w chin
+produce an error
+produced
+rssi sample database
+demonstrated the effectiveness
+methods because they include
+npdfs performance increased
+variation in the aps
+give our sincere
+accuracy with additional samples
+move
+1:14 1:19 1:16 1:9
+technologies
+superior
+achieved using a wlanapi
+precision and accuracy
+list multiple times
+days of the week
+chosen
+mobile computing and communications
+variable aps and rssi
+varies
+fewer aps than nnss
+location and tracking
+beacons
+rst determines k unique
+distribution model
+variable aps
+ability to produce
+total
+method with reduced
+distribution to the sampled
+deterministic and probabilistic ngerprints
+ieee communications magazine
+systems and software
+period of eight weeks
+covered by a single
+localization to provide users
+greater
+important step when generating
+ndpf
+smart oor
+o|si
+shown in fig
+property
+complete
+requiring the least calculation
+statistical range
+problems such as aliasing
+honours
+day
+aps detected
+introduced an orientation
+location in the online
+wireless sensor networks
+dimension ngerprint
+present our test-bed
+university
+divides
+magnitude
+mode
+positioning algorithms for indoor
+produces very accurate
+primarily separated into two
+wireless lan based indoor
+aps may be missing
+probabilistic algorithms
+subset
+required four samples
+build the map
+number of mobile
+related
+bluetooth
+base station
+additional samples
+number of solutions
+iwkola
+out
+variable rssi
+desirable aps are included
+papers
+calibration to quickly
+command-line
+ngerprint database or observation
+s1
+tested with both deterministic
+required time correlated
+reduced dimension method
+layout differs greatly
+associate professor
+cut-off of approximately
+number of ngerprint
+sony vaio laptops
+effectiveness of rssif
+deterministic deterministic
+communications and networking conference
+number of rssi readings
+nnss algorithm operates
+cut-off than nnss variants
+sony vaio laptops wireless
+wlan user
+selects the rst
+collection paradigm
+collection
+accuracy versus computational cost
+knnsssr
+networking
+likelihood
+percentile
+shortest
+standard dimensions reduced
+algorithm picks k locations
+instances of location four
+days
+deterministic algorithms error distance
+voice over ip calls
+due to noise
+lower base station
+lan based indoor
+times
+bayes rule
+signal strength characteristics
+saha
+described in section 2.2.1
+classes of localization
+locations with location
+varies over time due
+developed three modications
+device using ieee
+facilitate
+environment and ngerprints
+orr and abowd
+multi-hop wireless networks
+evenly spaced
+scanning
+range of radio frequency
+returns the closest
+area covered
+s3o
+number
+modal value
+kola may not produce
+based on probability distributions
+location sensing using wireless
+simulated
+nnss uwkola iwkola wkola
+two to location
+achieved
+system
+desks and chairs
+users body may form
+seattle
+1:14 1:19 1:16
+aforementioned limitation
+higher number of rssi
+gap in the literature
+stronger function
+high distinction
+tuple
+ngerprints for each location
+api is designed
+soh
+features of the aforementioned
+lists
+aps used by deterministic
+picks k locations
+increase in the number
+method with mode lter
+information relevant
+euclidean distance in signal
+neighbor neural network
+rst
+provide acceptable performance
+existing wired
+review bayesian
+observation vector is presented
+result indicates oinnss
+shown in table
+outline
+ieee mass
+proling nearest
+quantitative
+improvement standard dimensions reduced
+ngerprint and rssi sample
+relied upon as part
+depends
+aps also demonstrated
+data set
+deviation of its rssi
+aps with rssi values
+amount of variability
+aps in ngerprint
+anchors in each ngerprint
+error distance performance
+negatively
+providing
+orientation j the algorithm
+globally unique identier
+anatomy
+problems in single
+delay
+mechanism for natural
+algorithms described in section
+display highly
+amount of networking
+kola represented as knnss
+environments
+algorithms remains
+variable
+cut-off increases
+weighted equally
+two paradigms
+signal space
+found methods
+kwan-wu chin university
+provide effective
+smallest
+propose a novel method
+consists of small
+clear that previous research
+rows running northsouth
+area is multi-use
+beacons whereas awaremedia
+average distance between evenly
+modied the aforementioned bayesian
+distance of npdf
+incorporating
+subset of aps
+radar also considered
+repeated locations
+wlan location determination
+received in revised form
+raw rssi sample
+periods when aps switched
+list similar to uwkola
+rooms
+constantly visible
+call to wlanapi
+involves processing the raw
+localization test-bed
+deviation greater
+random uctuation
+dimension of rssi ngerprints
+location that appears
+implemented in radar
+referred to as kola
+prior works
+increase in accuracy
+demonstrated very irregular
+outlined
+networks to be augmented
+service set
+probable
+multiple distinct
+transient and erroneous aps
+arrangement of book shelves
+location ngerprint
+require existing wired
+stronger
+listed in ascending
+2.2.1 with bayes rule
+user locations
+pick the location
+alternative algorithms averaged
+smart floor
+databases
+infrastructure to support
+knnss knnssr
+globally unique
+complex metric
+rely solely
+quiet study areas
+bayesian bayesian with mode
+extension reduces
+deviation
+agrawala
+i=1 for each observation
+text
+indoor
+computing and communications review
+employ
+operates with a reduced
+judge and compare
+context-aware applications
+localization test-bed ngerprint density
+anonymous reviewers for helping
+argue in favor
+decade
+technique generated favorable
+resource
+taking the average
+highest
+suggests that probabilistic methods
+probabilistic ngerprinting techniques
+performance increase
+reducing the error distance
+performance of the bayesian
+notes
+distance between evenly spaced
+observed rss
+iterations
+equally
+comparative analysis
+accuracy versus computational
+ngerprint is then removed
+inferior
+robust localization
+proceedings
+entire set of scans
+handle
+rssi readings
+sample database is logged
+means
+mogensen1
+versus computational cost
+position location
+closest ngerprints
+independent method
+theory for location
+nearest neighbor results shown
+calculated for each ngerprint
+arrangement
+aforementioned
+probabilistic approach to wlan
+impact of aps
+kola as koinnss
+rssi sample standard deviation
+compared to results
+s|o
+average rssi
+npdf is its ability
+approach
+performance of kola variants
+approximation algorithms to np-hard
+comprising
+drift in and out
+proposed mode ltering technique
+control of aps position
+stage in developing
+processed
+rf-based
+nearest neighbor search
+experiences
+location ngerprinting technique
+impact and provide solutions
+remains
+nth value
+propose a system
+obtain their location
+bayesian nearest
+rst discuss
+mobile device will pick
+robustness
+mode ltered version
+method
+location estimate
+in-building
+environment proling nearest neighbor
+operates
+differs
+chosen for two
+represents the marginal
+sample database to represent
+virtual calibration
+readily
+providing universal location
+closer
+phases
+techniques presented
+restore its accuracy
+bayes rule denes
+e911 location
+analysis with radar
+peaked after two
+switching in and out
+strength value
+performance of knnsssr
+targeted
+state
+previous work
+provided by different orientations
+performance continues to increase
+estimates produced by kola
+local area networks
+luo
+variability
+comparable
+number of aps utilized
+producing
+variants operate
+neighbor variants highlight
+importance
+performance with fewer aps
+deliver
+location ngerprinting in wireless
+a.u
+results in the smallest
+address 01ef6833130
+stage involves scanning
+key
+algorithms described
+oinnss with an error
+localization performance
+method with reduced dimensions
+criteria outlined
+range of standard
+taking
+building robust ngerprint
+uow library
+results show methods
+april
+distance in the region
+determine the best approach
+areas used in prior
+modication is called weighted
+algorithms to np-hard problems
+means if we combine
+relevant
+require existing
+indoor position
+removal
+uow-testbed radar
+appears before k unique
+maximum value to form
+location and tracking system
+world deployment
+paper makes
+graduated with a bachelor
+metric used to calculate
+modeling
+reported a continuous
+table
+fingerprint database
+presentation of this paper
+appeared
+system designer
+function call
+addition
+depending
+aforementioned bayesian
+sample standard
+inferior performance
+deployment of context-aware
+iwkola averages
+average spacing between ngerprints
+ngerprint in signal
+stage are primarily separated
+statistical learning
+aps ; an average
+building or oor
+day and different days
+individual ngerprints
+describe
+designer builds a map
+ranging
+pimrc
+tracking system
+affect the distance
+distinct environmental proles
+discuss the normal
+conditional probability distribution
+neighbor
+paradigms
+standard deviation stored
+covered
+last
+atlanta
+general
+samples to make
+wlan access
+fewer aps or reduced
+note that during localization
+two to three locations
+entire rssi sample database
+amount of variation
+weighed k times higher
+value
+interfaced identied
+reliability
+normalizing constant
+makes it difcult
+combines the ndpf
+represent the users rssi
+1:19 1:16
+bat and active
+location requiring
+aps utilized
+observation vector naturally represent
+multiple wireless technologies
+reduced dimension variants
+suggests that the environment
+kola with npdf
+return the mode
+high number
+site
+combines the ndpf method
+wknnssr
+orientations as opposed
+random uctuation due
+0164-1212 $ see front
+aps precision
+euclidean distance calculation
+single nearest
+current interests include
+number of samples fig
+switch
+delimited text
+produces very accurate results
+introduction in the last
+proba bayesian
+require specialized hardware
+802.11b access
+works with fewer
+physical positions
+highlighted
+host and aps
+spend a signicant amount
+largest
+reduced dimension ngerprint
+physical locations
+performance enhancement in highly
+figs
+outlined an effective
+simulation
+http
+determination via clustering
+signicantly fewer aps
+close in signal
+appearances
+nnss method consistently produces
+effect
+disconnect
+phd
+localization over large-scale
+motorola australia
+observing an rss vector
+pdf
+front matter
+badly in one ngerprint
+deterministic ngerprinting was rst
+independent infrastructure
+raw rssi sample database
+limitation with the bayesian
+ieee pimrc
+based on a single
+included localization algorithms
+locations fingerprint density fingerprint
+anatomy of context-aware
+neural
+nonetheless
+shortcoming with methods
+experimental
+position
+sensing
+design of indoor positioning
+networks rssi
+restore
+technique generated
+aps position
+ensure only a subset
+heavily
+journal of systems
+technique proved
+accurate
+fingerprint
+aps switched
+sievanen
+networked devices
+rst axis
+tend to drift
+targeted advertisements
+testbed
+weighted k-nearest
+uwkola ignores
+increase of knnssr
+model
+order to address
+802.11b access point signals
+address the aforementioned limitation
+heaberlen
+fingerprint spacing
+method implemented
+performance of nnss
+density
+point
+kola
+observation belongs
+wknpdf consistently produces
+kola offers signicant
+summarizes the key features
+dimensioning voice
+locations and represents
+current interests include designing
+combine
+compares
+conditional probability
+smart
+present in the ngerprint
+aps from the database
+uctuated
+shortcomings in environments
+increased
+kavraki
+doi:10.1016 active
+select the ngerprints
+found aps
+february
+sensor networks protocols
+implemented numerous
+algorithms for indoor
+increases
+algorithms based on nearest
+systems in uncontrolled environments
+2.2.1 normal
+nearest neighbor with environment
+context-aware application
+variants
+rssi observation
+system algorithm number
+statistical
+clear that previous
+yields a spacing
+motorola
+ngerprint that results
+badge require the installation
+success
+aps argues
+chairs
+environments with a lower
+observation samples
+indoor position location
+aps than nearest neighbor
+standard dimension
+performance with the exception
+create a location
+decrease in mean error
+closest ngerprint
+probabilistic the probabilistic
+bat requires sensors
+works
+data collection methods
+basic nnss method
+test-beds
+shows further improvement
+part of the ngerprint
+study area
+stage in developing rssi
+scans was performed
+learning theory for location
+run for n iterations
+section 2.2.1
+section 2.2.2
+arrangement of book
+library
+site layout
+iwkola gives more weight
+wlan api
+list of n preliminary
+multiple instances of location
+ngerprint and rssi
+nnss outperforms
+weighed k times
+nnss method consistently
+distribution
+nnssr
+strategically positioned
+intel pro 3945abg
+reported error
+theoretical modeling
+pinpoint
+proximity
+deterministic ngerprinting
+scanning stage
+aforementioned algorithms
+neighbor bayesian
+e-mail
+local area networks rssi
+outlined an effective strategy
+kwanwu
+system performance
+cut-off than nnss
+zagami
+ngerprint location
+display highly variable signal
+demonstrated
+limitations
+clustering and probability distributions
+joined the motorola australia
+noise
+performance given their simplicity
+nnss algorithm
+form a new ngerprint
+outlining how rssi values
+estimated average
+signicant performance
+results for fig
+variation
+villani
+nnss is simple
+distance to a single
+aliasing and large
+rooms and corridors
+noisy
+user observing an rss
+e-mail addresses
+actual
+signal strength indication ngerprinting
+extension
+matlab to test
+xiang
+density fingerprint spacing
+uctuations
+comparable number
+value added services
+kola represented
+proles
+mode ltered algorithm
+orientations and selecting
+nds
+two issues
+computing and communications
+ngerprint vector
+database or observation vector
+converging
+busy and slow
+orientations and then taking
+rssi-based indoor
+aps to remove
+simulated oinnss in combination
+rssi recordings
+aps have been included
+k-nearest
+users rssi observations
+offer superior localization
+npdf producing an error
+initially
+uncontrolled library
+location number
+minimum of three aps
+boost
+cut-off
+transmission
+additional
+motorola australia research center
+acm mobile computing
+scan period
+probable locations
+locations that appears
+existing rssif
+portable device will rst
+retrieve the basic
+undened for standard deviations
+determine the globally
+times higher
+two ngerprints
+signal to noise ratio
+naturally
+locations that appears multiple
+wireless network interface
+cricket
+north
+neighbors
+probability of an user
+important consideration in selecting
+cut-off fig
+webster
+limitations to carry out
+estimate from k unique
+kwanwu @ uow.edu.au
+two alternatives
+base stations
+ngerprint density
+goals
+ltered
+system to function
+methods offer superior localization
+interests include designing
+wkola as wknnssr
+command-line based
+made
+compute
+number of ngerprint locations
+ngerprints are created
+system designers
+cells
+variations
+record
+interests include designing approximation
+limit
+orientations of the host
+computational requirements
+means the localization algorithms
+probabilistic methods offer
+fingerprint density
+represents an estimated average
+received a high distinction
+thesis on indoor localization
+uncontrolled environments with highly
+ngerprints to yield
+operation
+prole
+exclude transient aps
+universal
+contribute
+condition
+generating
+location by calculating
+denote
+dependent
+number of pathways running
+rule
+algorithm key
+due to variations
+awarephone require existing wired
+anchors
+helping us improve
+identied
+kola will rst
+application programming interface
+calibration
+calculated by tting
+operating
+results show npdf
+wireless networks detected
+specic test-bed
+virtual
+lower than expected performance
+busy and slow periods
+book
+rfid to dimensioning
+kola may select
+mass
+accuracy and precision
+essentially
+samples suggests
+order location averaging technique
+conclusion
+produce this result
+native wifi application
+periods of human trafc
+giud
+elsevier pervasive and mobile
+distinct physical
+model bayesian nearest
+addresses of aps
+chrysanthis
+june
+naturally represent
+inherently
+precision
+site was chosen
+pathways
+suggest that nnss
+npdf to further boost
+rssi logger program makes
+ieee mobicom
+information networks
+localization technique that exploits
+values in dbm
+localization with ieee 802.15.4
+shows the impact
+identier
+identies
+problems that stem
+factors
+metrics specic
+probability that the user
+heavily dependent
+switched out of range
+effective in reducing
+distribution before taking
+enhancement in highly variable
+tted
+evaluated two classes
+deviation cut-off increases
+source program called wifi
+ngerprints into the location
+basic nnss
+augmented
