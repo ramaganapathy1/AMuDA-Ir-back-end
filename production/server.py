@@ -15,4 +15,4 @@ def start1():
     os.system('bash ./start.sh')
     return "1"
 if __name__ == '__main__':
-    app.run(port=8000,host="ir.sigappysupreme.com",debug=True)
+    app.run(debug=True)
