@@ -1,13 +1,13 @@
 # AMuDA-Ir-back-end+
 
-#Server Framework
+### Server Framework
 
 + Flask
 
-#Database
+### Database
 + mongo
 
-#To Run
+### To Run
 
 + Clone the repo
 + install pymongo
