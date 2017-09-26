@@ -10,9 +10,15 @@ db = client.ir
 app = Flask(__name__)
 @app.route('/start',methods=['GET'])
 def start1():
+    print ("start")
+    os.system('python intial.py')
+    os.system('chmod 0777 start.sh')
+    os.system('./start.sh')
     os.system('python keyphrase/start.py')
+    print ("start")
     os.system('chmod 0777 start.sh keyphrase/keyphrase.sh')
-    os.system('bash ./start.sh')
+    print ("start")
+    os.system('./start.sh')
     return "1"
 if __name__ == '__main__':
     app.run(debug=True)
