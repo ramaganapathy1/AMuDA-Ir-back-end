@@ -2,6 +2,7 @@ from flask import Flask, session, redirect, url_for,send_file
 from flask import request  # getting post request
 from flask import render_template
 from pymongo import MongoClient
+from werkzeug import secure_filename
 import os
 client = MongoClient('mongodb://localhost:27017/')
 db = client.ir
@@ -98,16 +99,15 @@ def addPaper():
         data['userId'] = session['number']
         data['status'] = '0'
         f = request.files['file']
-        data['filename'] = f.filename
+        filename = secure_filename(f.filename)
+        data['filename'] = filename
         data['domain'] = request.form['domain']
         data['name'] = request.form['name']
         print (data)
         print("paper added", data)
-
         print (f)
-        filename = f.filename
         print (filename)
-        f.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
+        f.save(os.path.join(app.config['UPLOAD_FOLDER'],filename))
         r=db.papers.insert_one(data)
         data['continuation']=[]
         data['elaboration']=[]
@@ -156,7 +156,7 @@ def uploads(filename1):
     print (os.path)
     if 'name' in session:
         print ("send file : ",filename1)
-        return send_file(path+'uploads/'+filename1,as_attachment=False,attachment_filename=filename1)
+        return send_file(path+'/uploads/'+filename1,as_attachment=False,attachment_filename=filename1)
     else:
         return redirect(url_for('index'),code=400)
 if __name__ == '__main__':
