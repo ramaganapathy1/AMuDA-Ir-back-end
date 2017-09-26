@@ -2,7 +2,6 @@ from flask import Flask, session, redirect, url_for,send_file
 from flask import request  # getting post request
 from flask import render_template
 from pymongo import MongoClient
-from werkzeug.utils import secure_filename
 import os
 client = MongoClient('mongodb://localhost:27017/')
 db = client.ir
@@ -11,7 +10,7 @@ app.secret_key = os.urandom(32)
 UPLOAD_FOLDER = '../AMuDA-Ir-back-end/uploads'
 ALLOWED_EXTENSIONS = ['pdf']
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
-
+path=os.getcwd()
 @app.route('/', methods=['GET'])
 def index():
     if 'name' not in session or session['name']=='':
@@ -62,14 +61,11 @@ def signin():
         number = request.form['number']
         password = request.form['password']
         result = db.user.find_one({'_id': number})
-
-        print (len(result))
-
-        # print (password)
-       # print (result['password'])
+        print ("result : ",len(result))
+        flag=0
         flag = (str(result['password']) == str(password))
         print (flag)
-        if flag:
+        if flag and len(result)>0:
             data = []
             data.append(result['number'])
             data.append(result['name'])
@@ -113,6 +109,9 @@ def addPaper():
         print (filename)
         f.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
         r=db.papers.insert_one(data)
+        data['continuation']=[]
+        data['elaboration']=[]
+        r = db.rPaper.insert_one(data)
         print(r)
         return redirect(url_for('dashboard'))
     else:
@@ -153,7 +152,12 @@ def recommend(paperName):
     else:
         return( "sorry you are not good at hacking!" )
 @app.route('/upload/<filename1>',methods=['GET'])
-def upload(filename1):
-    return send_file('/home/ramaganapathy1/PycharmProjects/AMuDA-Ir-back-end/uploads/'+filename1,attachment_filename=filename1)
+def uploads(filename1):
+    print (os.path)
+    if 'name' in session:
+        print ("send file : ",filename1)
+        return send_file(path+'uploads/'+filename1,as_attachment=False,attachment_filename=filename1)
+    else:
+        return redirect(url_for('index'),code=400)
 if __name__ == '__main__':
-    app.run(debug = True)
+    app.run()

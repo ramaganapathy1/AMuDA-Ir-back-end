@@ -89,7 +89,7 @@
             <div class="col-lg-3">
                 {% if i['status']=='0' %}
                 <div class="callout callout-warning">
-                        <h3><b>{{ i['name'] }} <a href="/uploads/{{ i['filename'] }}"><i class="fa fa-book pull-right"></i> </b></a> </h3>
+                        <h3><b>{{ i['name'] }} <a href="/upload/{{ i['filename'] }}"><i class="fa fa-book pull-right"></i> </b></a> </h3>
                     <p><a href="/read/{{ i['name'] }}" style="color:green;">Read ? </a> | <a href="/delete/{{ i['name'] }}" style="color: red;">Delete ?</a> </p>
                 </div></div>
                 {% else %}
