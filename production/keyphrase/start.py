@@ -1,7 +1,7 @@
 import os
 li = []
 fd = open("start.sh", "w+")
-for file in os.listdir("/Users/orion/Documents/AMuDA-Ir-back-end/production/keyphrase/transcript"):
+for file in os.listdir("/Users/orion/Documents/AMuDA-Ir-back-end/production/keyphrase/transcriptgit pull"):
     if file.endswith(".txt"):
         name = "./keyphrase/keyphrase.sh a " + file + " Porter_Stemmer disable none 4 'tfidf,dispersion,cscore' all_features.tab \n"
         print(name)
