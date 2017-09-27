@@ -99,7 +99,7 @@ def addPaper():
         data['userId'] = session['number']
         data['status'] = '0'
         f = request.files['file']
-        filename = secure_filename(f.filename)
+        filename = f.filename.replace(" ","")
         data['filename'] = filename
         data['domain'] = request.form['domain']
         data['name'] = request.form['name']
