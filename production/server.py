@@ -10,6 +10,7 @@ db = client.ir
 app = Flask(__name__)
 @app.route('/start',methods=['GET'])
 def start1():
+    path=os.getcwd()
     print ("start")
     os.system('python intial.py')
     os.system('chmod 0777 start.sh')
@@ -19,6 +20,11 @@ def start1():
     os.system('chmod 0777 start.sh keyphrase/keyphrase.sh')
     print ("start")
     os.system('./start.sh')
+    os.system('cp '+path+'/keyphrase/output/*.tab  '+path+'/JVcode/Scripts/tabfiles/')
+    os.system('cp ' + path + '/keyphrase/output/*.tab  ' + path + '/JVcode/Scripts/newtab/')
+    os.system('python '+path+'/JVcode/Scripts/split.py')
+    os.system('python '+path+'/JVcode/Scripts/AllScores.py')
+    print (path)
     return "1"
 if __name__ == '__main__':
     app.run(debug=True)

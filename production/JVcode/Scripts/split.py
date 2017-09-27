@@ -1,16 +1,17 @@
 import os
 #files = os.listdir(os.getcwd()+"/tabfiles") # source folder
 #files = os.listdir("/home/ramyananth/Desktop/RAMA IR/JV")
-files = os.listdir(os.getcwd()+"/tabfiles")
+path=os.getcwd()+"/JVcode/Scripts"
+files = os.listdir(path+"/tabfiles")
 for eachfile in files:
 	#if eachfile.endswith(".tabn"):
 	if(eachfile.endswith(".tab")):
-		doc = open(os.getcwd()+"/tabfiles/"+eachfile,"r")
+		doc = open(path+"/tabfiles/"+eachfile,"r")
 		#doc = open(os.getcwd()+"/home/ramyananth/Desktop/research work/tab files"+eachfile,"r")
-		doc1 = open(os.getcwd()+"/splitTabFiles/"+eachfile+".one","w") #output folder
-		doc2 = open(os.getcwd()+"/splitTabFiles/"+eachfile+".two","w")
-		doc3 = open(os.getcwd()+"/splitTabFiles/"+eachfile+".three","w")
-		doc4 = open(os.getcwd()+"/splitTabFiles/"+eachfile+".four","w")
+		doc1 = open(path+"/splitTabFiles/"+eachfile+".one","w") #output folder
+		doc2 = open(path+"/splitTabFiles/"+eachfile+".two","w")
+		doc3 = open(path+"/splitTabFiles/"+eachfile+".three","w")
+		doc4 = open(path+"/splitTabFiles/"+eachfile+".four","w")
 		for everyline in doc:
 			try:
 				thisline = everyline.split('\t')
@@ -30,5 +31,3 @@ for eachfile in files:
 		doc3.close();
 		doc4.close();
 		doc.close();
-			
-			

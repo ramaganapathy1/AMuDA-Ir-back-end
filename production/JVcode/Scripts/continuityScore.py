@@ -1,6 +1,6 @@
-import sys
+import os
 import math
-        
+path=os.getcwd()+"/JVcode/Scripts/splitTabFiles"
 def getcommongrams(name1, name2):
 	goodLambda = []
 	doc11 = open(name1+".four","r")
