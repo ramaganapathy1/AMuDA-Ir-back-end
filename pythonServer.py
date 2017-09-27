@@ -158,6 +158,6 @@ def uploads(filename1):
         print ("send file : ",filename1)
         return send_file(path+'/uploads/'+filename1,as_attachment=False,attachment_filename=filename1)
     else:
-        return redirect(url_for('index'),code=400)
+        return redirect(url_for('index'),code=401)
 if __name__ == '__main__':
     app.run()
