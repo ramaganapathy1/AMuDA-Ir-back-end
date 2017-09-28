@@ -1,5 +1,10 @@
 import sys
+from pymongo import MongoClient
+from werkzeug.utils import secure_filename
 import os
+import sys
+client = MongoClient('mongodb://localhost:27017/')
+db = client.ir
 import random
 #li=[]
 #color=open("AllColors.txt","r")
@@ -9,14 +14,15 @@ edgeConWT=[]
 edgeElaWT=[]
 edgeStart=[]
 edgeEnd=[]
-for file in os.listdir(os.getcwd()):
+path=os.getcwd()+"/production/JVcode/Scripts/ForClassification/"
+for file in os.listdir(path):
     edgeElaWT = []
     edgeConWT = []
     edgeStart = []
     edgeEnd = []
     if file.endswith(".tab.scores"):
-        fdTemp=open(file,"r")
-        fdOut=open("output/new/cont-"+file,"w+")
+        fdTemp=open(path+file,"r")
+       # fdOut=open("output/new/cont-"+file,"w+")
         for i1 in fdTemp:
              line=i1.split(" ")
              #print line
@@ -40,12 +46,16 @@ for file in os.listdir(os.getcwd()):
                         temp3 = edgeEnd[j]
                         edgeEnd[j] = edgeEnd[j + 1]
                         edgeEnd[j + 1] = temp3
-
-        print len(edgeConWT)
-        for k in range(0,10):
-            t=str(edgeStart[k])+" "+str(edgeEnd[k])+" "+str(edgeConWT[k])+" "+str(edgeElaWT[k])+"\n"
-            print t
-            fdOut.write(t)
+        #print (edgeConWT)
+        print (edgeEnd)
+        t1 = []
+        for k in range(0,3):
+          #  t1 = []
+            # t=str(edgeStart[k])+" "+str(edgeEnd[k])+" "+str(edgeConWT[k])+" "+str(edgeElaWT[k])+"\n"
+            t1.append(edgeEnd[k])
+        print ("for : ---> ",file[:-10] , 'pdf')
+        results = db.rPaper.update({'filename': file[:-10] + 'pdf'}, {'$set': {'continuation': t1}})
+        print (results)
         #st=raw_input("press to continue....")
 
 print "DONE"

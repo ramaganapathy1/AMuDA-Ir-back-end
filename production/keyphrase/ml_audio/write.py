@@ -10,9 +10,9 @@ try:
 	feature_list=sys.argv[2]
 	print feature_list
 	#feature_file_path=sys.argv[3]
-	feature_file_path="keyphrase/output"
+	feature_file_path="production/keyphrase/output"
 	#grams_folder=sys.argv[4]
-	grams_folder="keyphrase/output"
+	grams_folder="production/keyphrase/output"
 	#gram_ext=sys.argv[5]
 	gram_ext="_grams.txt"
 	#vgram_ext=sys.argv[6]

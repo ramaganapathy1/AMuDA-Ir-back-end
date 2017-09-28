@@ -5,7 +5,8 @@
     <title>{{ session['name']}}'s IR - Amrita</title>
     <!-- Tell the browser to be responsive to screen width -->
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-    <link rel="stylesheet" href="../static/dist/sweetalert-master/dist/sweetalert.css">
+    <link rel="stylesheet" href="../static/Dist/sweetalert-master/dist/sweetalert.css">
+    <script src="../static/Dist/sweetalert-master/dist/sweetalert.min.js"></script>
     <!-- Bootstrap 3.3.6 -->
     <link rel="stylesheet" href="../static/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="../static/plugins/datatables/dataTables.bootstrap.css">
@@ -14,8 +15,8 @@
     <!-- Ionicons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
     <!-- Theme style -->
-    <link rel="stylesheet" href="../static/dist/css/AdminLTE.min.css">
-    <link rel="stylesheet" href="../static/dist/css/skins/_all-skins.min.css">
+    <link rel="stylesheet" href="../static/Dist/css/AdminLTE.min.css">
+    <link rel="stylesheet" href="../static/Dist/css/skins/_all-skins.min.css">
     <!-- iCheck -->
     <link rel="stylesheet" href="../static/plugins/iCheck/flat/blue.css">
     <!-- Morris chart -->
@@ -24,7 +25,7 @@
     <link rel="stylesheet" href="../static/plugins/jvectormap/jquery-jvectormap-1.2.2.css">
     <!-- Date Picker -->
     <link rel="stylesheet" href="../static/plugins/datepicker/datepicker3.css">
-    <link rel="stylesheet" href="../static/dist/css/custom/custom.css">
+    <link rel="stylesheet" href="../static/Dist/css/custom/custom.css">
     <!-- Daterange picker -->
     <link rel="stylesheet" href="../static/plugins/daterangepicker/daterangepicker.css">
     <!-- bootstrap wysihtml5 - text editor -->
@@ -82,7 +83,10 @@
     </div>
     <div class="col-lg-9">
         <a class="btn btn-app" data-toggle="modal" data-target="#myModal">
-                <i class="fa fa-edit"></i> Edit
+                <i class="fa fa-edit"></i> Add
+              </a>
+    <a class="btn btn-app" onclick="loadDoc()" >
+                <i class="fa fa-edit"></i>Shoot
               </a>
         <h1>Your Collection(s)!</h1>
         {% for i in li %}
@@ -162,9 +166,9 @@
 <!-- FastClick -->
 <script src="../static/plugins/fastclick/fastclick.js"></script>
 <!-- AdminLTE App -->
-<script src="../static/dist/js/app.min.js"></script>
+<script src="../static/Dist/js/app.min.js"></script>
 <!-- AdminLTE for demo purposes -->
-<script src="../static/dist/js/demo.js"></script>
+<script src="../static/Dist/js/demo.js"></script>
 <!-- page script -->
 <script>
     $(function () {
@@ -205,7 +209,7 @@
         chart.draw(data, options);
     }
 </script>
-
+<script>sweetAlert("Welcome! {{ session['name'] }}"," by Team AMuDA ", "success")</script>
 
 <script src="../static/plugins/jQuery/jquery-2.2.3.min.js"></script>
 <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
@@ -215,7 +219,7 @@
 <script type='text/javascript' src='https://www.gstatic.com/charts/loader.js'></script>
 <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAuiWaDmr6ky8kGCIousEjixrcMQv-TH0U&callback=initMap"
         type="text/javascript"></script>
-<script src="../static/dist/sweetalert-master/dist/sweetalert-dev.js"></script>
+<script src="../static/Dist/sweetalert-master/Dist/sweetalert-dev.js"></script>
 <script src="../static/bootstrap/js/bootstrap.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"></script>
 <script src="../static/plugins/morris/morris.min.js"></script>
@@ -229,9 +233,16 @@
 <script src="../static/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js"></script>
 <script src="../static/plugins/slimScroll/jquery.slimscroll.min.js"></script>
 <script src="../static/plugins/fastclick/fastclick.js"></script>
-<script src="../static/dist/js/app.min.js"></script>
-<script src="../static/dist/js/pages/dashboard.js"></script>
+<script src="../static/Dist/js/app.min.js"></script>
+<script src="../static/Dist/js/pages/dashboard.js"></script>
 
-<script src="../static/dist/js/demo.js"></script>
+<script src="../static/Dist/js/demo.js"></script>
+
+<script>
+function loadDoc() {
+   $.ajax({url: "http://localhost:6000/start", success: function(result){
+            alert("DONE");
+}
+</script>
     </html>
 

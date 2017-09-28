@@ -13,10 +13,10 @@ try:
 	file_name=sys.argv[1]
 	#print file_name
 	#input_folder=sys.argv[2]
-	input_folder="keyphrase/output"
+	input_folder="production/keyphrase/output"
 	#print input_folder
 	#output_folder=sys.argv[3]
-	output_folder="keyphrase/output"
+	output_folder="production/keyphrase/output"
 	#print output_folder
 	#result_ext=sys.argv[4]
 	result_ext="_cscore.txt"

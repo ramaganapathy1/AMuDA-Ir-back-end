@@ -1,7 +1,7 @@
 import sys
 import math
 import os
-path=os.getcwd()+"/JVcode/Scripts/splitTabFiles"
+path=os.getcwd()+"/production/JVcode/Scripts/splitTabFiles"
 def getcommongrams(name1, name2):
     commonLambda = []
     goodLambda = []

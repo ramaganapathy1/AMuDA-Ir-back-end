@@ -12,12 +12,12 @@ echo "Hello"
 	then
 		echo $transcript_list
 		echo "first if"		
-		python keyphrase/preprocess_audio/grams.py $transcript_list $gramSize $stemmer
+		python production/keyphrase/preprocess_audio/grams.py $transcript_list $gramSize $stemmer
 		
 	elif [ "$posFilter_file" = "default_posfilter" ]
 	then
 		echo "second if"
-		python keyphrase/preprocess_audio/grams_pos.py $transcript_list $gramSize pos_filter.txt $stemmer
+		python production/keyphrase/preprocess_audio/grams_pos.py $transcript_list $gramSize pos_filter.txt $stemmer
 	else
 		echo "third else"
 		python preprocess_audio/grams_pos.py $transcript_list $gramSize $posFilter_file $stemmer

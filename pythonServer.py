@@ -159,5 +159,11 @@ def uploads(filename1):
         return send_file(path+'/uploads/'+filename1,as_attachment=False,attachment_filename=filename1)
     else:
         return redirect(url_for('index'),code=400)
+@app.route('/kickoff',methods=['GET'])
+def kick():
+    from production.server import start
+    s = start()
+    s.start1()
+    return "1"
 if __name__ == '__main__':
     app.run()

@@ -5,6 +5,6 @@ testing=$1
 trainingData=$2
 
 
-python keyphrase/ml_audio/Naive-Bayes/ICMR_audio.py $trainingData $testing
+python production/keyphrase/ml_audio/Naive-Bayes/ICMR_audio.py $trainingData $testing
 
 
