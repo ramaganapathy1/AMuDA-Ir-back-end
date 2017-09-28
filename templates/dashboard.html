@@ -83,10 +83,10 @@
     </div>
     <div class="col-lg-9">
         <a class="btn btn-app" data-toggle="modal" data-target="#myModal">
-                <i class="fa fa-edit"></i> Add
+                <i class="fa fa-plus"></i> Add
               </a>
     <a class="btn btn-app" onclick="loadDoc()" >
-                <i class="fa fa-edit"></i>Shoot
+                <i class="fa fa-play"></i>Kick Off
               </a>
         <h1>Your Collection(s)!</h1>
         {% for i in li %}
@@ -240,8 +240,14 @@
 
 <script>
 function loadDoc() {
-   $.ajax({url: "http://localhost:6000/start", success: function(result){
-            alert("DONE");
+   var xmlhttp = new XMLHttpRequest();
+        xmlhttp.onreadystatechange = function() {
+            if (this.readyState == 4 && this.status == 200) {
+                sweetAlert("Success! {{ session['name'] }}"," by Team AMuDA ", "success")
+            }
+        };
+        xmlhttp.open("GET", "http://localhost:5000/kickoff", true);
+        xmlhttp.send();
 }
 </script>
     </html>
