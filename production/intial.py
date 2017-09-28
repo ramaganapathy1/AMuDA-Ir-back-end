@@ -1,8 +1,9 @@
 import os
 fd=open("production/start.sh","w+")
-for i in os.listdir("/Users/orion/Documents/AMuDA-Ir-back-end/uploads"):
+path =os.getcwd()
+for i in os.listdir(path+"/uploads"):
     if i.endswith(".pdf"):
-        name="pdftotext /Users/orion/Documents/AMuDA-Ir-back-end/uploads/"+i+ " keyphrase/transcript/"+i[:-3]+"txt\n"
+        name="pdftotext "+path+"/uploads/"+i+" "+path+"/production/keyphrase/transcript/"+i[:-3]+"txt\n"
         print (name)
         fd.write(name)
         name=""

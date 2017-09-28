@@ -49,7 +49,7 @@ for file in os.listdir(path):
         #print (edgeConWT)
         print (edgeEnd)
         t1 = []
-        for k in range(0,3):
+        for k in range(0,5):
           #  t1 = []
             # t=str(edgeStart[k])+" "+str(edgeEnd[k])+" "+str(edgeConWT[k])+" "+str(edgeElaWT[k])+"\n"
             t1.append(edgeEnd[k])

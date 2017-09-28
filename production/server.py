@@ -20,7 +20,7 @@ class start():
         print ("start")
         os.system('chmod 0777 production/keyphrase/start.sh production/keyphrase/keyphrase.sh')
         print ("start")
-        os.system('./start.sh')
+        os.system('./production/start.sh')
         os.system('cp '+path+'/production/keyphrase/output/*.tab  '+path+'/production/JVcode/Scripts/tabfiles/')
         os.system('cp ' + path + '/production/keyphrase/output/*.tab  ' + path + '/production/JVcode/Scripts/newtab/')
         os.system('python '+path+'/production/JVcode/Scripts/split.py')

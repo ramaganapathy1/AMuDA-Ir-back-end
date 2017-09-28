@@ -154,9 +154,9 @@ doc_count=0
 try:
 	global stemmer_name
 	#transcript_folder=sys.argv[1]
-	transcript_folder="keyphrase/transcript"
+	transcript_folder="production/keyphrase/transcript"
 	#grams_folder=sys.argv[2]
-	grams_folder="keyphrase/output"
+	grams_folder="production/keyphrase/output"
 	stemmer_name=sys.argv[1]
 	max_gram=int(sys.argv[2])
 	#result_ext=sys.argv[5]

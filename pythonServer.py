@@ -3,6 +3,7 @@ from flask import request  # getting post request
 from flask import render_template
 from pymongo import MongoClient
 from werkzeug import secure_filename
+import thread,time
 import os
 client = MongoClient('mongodb://localhost:27017/')
 db = client.ir
@@ -161,9 +162,12 @@ def uploads(filename1):
         return redirect(url_for('index'),code=400)
 @app.route('/kickoff',methods=['GET'])
 def kick():
-    from production.server import start
-    s = start()
-    s.start1()
-    return "1"
+    try:
+        from production.server import start
+        s = start()
+        thread.start_new_thread(s.start1(),("New Thread for "+session['name']))
+        return "1"
+    except:
+        print "Error: thread not created"
 if __name__ == '__main__':
-    app.run()
+    app.run(threaded=True)

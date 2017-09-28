@@ -1,0 +1,4579 @@
+citation index::28.0
+citation indexes::13.0
+conjugate gradient method::12.6797000058
+context of citations::11.094737505
+citation indexing::10.0
+distance measure::10.0
+word vector::10.0
+citation indexing system::7.92481250361
+citation links::7.0
+conjugate gradient methods::6.33985000288
+number of citations::6.33985000288
+string distance::6.0
+classification and regression trees::6.0
+likelihood from incomplete data::6.0
+citation information::6.0
+neural network::6.0
+gradient method::6.0
+conjugate gradient::6.0
+citation database::5.0
+postscript file::5.0
+common citation::5.0
+edit distance::5.0
+distance measures::5.0
+neural network literature::4.75488750216
+conjugate and gradient::4.75488750216
+paper is cited::4.75488750216
+block jacobi preconditioning::4.75488750216
+literature using the context::4.0
+groups in the correct::4.0
+learning techniques::4.0
+citations to identical articles::4.0
+sub-fields for a citation::4.0
+autonomous citation indexing system::4.0
+located using common citation::4.0
+automatic citation indexing system::4.0
+likeit intelligent string comparison::4.0
+method on a vector::4.0
+related documents::4.0
+information or word vector::4.0
+identification of research trends::4.0
+page numbers::4.0
+citeseer has many advantages::4.0
+journal of the royal::4.0
+list of references made::4.0
+database of neural network::4.0
+heglandand paul e saylory::4.0
+department of computer science::4.0
+response to the paper::4.0
+browsing of the literature::4.0
+body of the document::4.0
+jacobi preconditioning::4.0
+word vector or likeit::4.0
+accurate identification of sub-fields::4.0
+word and phrase matching::4.0
+advantages over traditional citation::4.0
+citation tag::4.0
+citation information or word::4.0
+builds upon the original::4.0
+identifying citations to identical::4.0
+vector or likeit based::4.0
+words in the title::4.0
+limited to a preselected::4.0
+preconditioning of the conjugate::4.0
+preconditioned conjugate gradient method::4.0
+subsequent work which builds::4.0
+improvements of embedded zerotree::4.0
+postscript files::4.0
+fields of the citations::4.0
+indexing system::4.0
+cite a given paper::4.0
+summary of the paper::4.0
+cited in subsequent publications::4.0
+restricted by journal publication::4.0
+paper can be located::4.0
+word matching::4.0
+related document::4.0
+retrieval by following citation::4.0
+citeseer response for documents::4.0
+block jacobi::4.0
+words conjugate and gradient::4.0
+baseline simple::4.0
+based on the number::4.0
+limitation of this approach::4.0
+citations matching the query::4.0
+technical report::4.0
+citeseer response::4.0
+response for the query::4.0
+previous citation::4.0
+similar document retrieval::3.16992500144
+database of neural::3.16992500144
+simple baseline method::3.16992500144
+nec research institute::3.16992500144
+information or word::3.16992500144
+extract the context::3.16992500144
+journal publication delays::3.16992500144
+common citation information::3.16992500144
+display the context::3.16992500144
+powerful interactive browsing::3.16992500144
+groups of letters::3.16992500144
+list of references::3.16992500144
+restricted by journal::3.16992500144
+ranking of papers::3.16992500144
+siam j numer::3.16992500144
+evaluation and ranking::3.16992500144
+department of computer::3.16992500144
+heuristics to extract::3.16992500144
+identification of research::3.16992500144
+web search engines::3.16992500144
+traditional citation indexes::3.16992500144
+word vector similarity::3.16992500144
+list of papers::3.16992500144
+citation indexing systems::3.16992500144
+royal statistical society::3.16992500144
+markus heglandand paul::3.16992500144
+vector or likeit::3.16992500144
+word and phrase::3.16992500144
+work which builds::3.16992500144
+citation is considered::3.16992500144
+journals or restricted::3.16992500144
+paper of interest::3.16992500144
+query `` dempster::3.16992500144
+combined similarity measure::3.16992500144
+downloaded postscript file::3.16992500144
+type of text::3.16992500144
+performance of ccidf::3.16992500144
+intelligent string comparison::3.16992500144
+matching the query::3.16992500144
+advantages of traditional::3.16992500144
+sample citeseer database::3.16992500144
+shown in figure::3.16992500144
+identification of sub-fields::3.16992500144
+likelihood from incomplete::3.16992500144
+completely autonomous operation::3.16992500144
+citeseer can display::3.16992500144
+citations to identical::3.16992500144
+universal citation database::3.16992500144
+papers that cite::3.16992500144
+providing a list::3.16992500144
+reduction in cost::3.16992500144
+world wide web::3.16992500144
+similar document::3.0
+dot product::3.0
+likeit distance::3.0
+word stem::3.0
+gradient methods::3.0
+similarity measure::3.0
+embedded zerotree::3.0
+identifying citations::3.0
+incomplete data::3.0
+similarity measures::3.0
+citation context::3.0
+eugene garfield::3.0
+two word::3.0
+keyword search::3.0
+two documents::3.0
+automated grouping::3.0
+network literature::3.0
+citeseer database::3.0
+document retrieval::3.0
+text string::3.0
+studies ofscience::3.0
+section deleted::3.0
+document header::3.0
+cited article::2.0
+subbnnd codmg of video::2.0
+work on the web::2.0
+information could be extracted::2.0
+set ofjournals or restricted::2.0
+salton and chris buckley::2.0
+cnn help to find::2.0
+indexes of a user-specified::2.0
+stem s is fds::2.0
+documents in the downloaded::2.0
+tiles on the web::2.0
+method is well established::2.0
+citeseer home::2.0
+found on the world::2.0
+parsing of document headers::2.0
+assessthe accuracy of results::2.0
+requires prior specific permission::2.0
+citation index can provide::2.0
+searchable by any scholar::2.0
+order to extract additional::2.0
+cite the first article::2.0
+evidence that the documents::2.0
+indexed articles matching conjugate::2.0
+citation indexes were originally::2.0
+manually constructed::2.0
+sum of the weights::2.0
+composition given all previous::2.0
+likeit intelligent::2.0
+implemented a tfidf scheme::2.0
+values for the observed::2.0
+distance between the headers::2.0
+academic literature in electronic::2.0
+citation database from downloaded::2.0
+common citations::2.0
+stem s is `rl1::2.0
+cover the significant journals::2.0
+scholar with internet access::2.0
+statistics based on fields::2.0
+locate papers to index::2.0
+similar arrangements indicates documents::2.0
+networks and missing features::2.0
+document parsing::2.0
+easily and quickly browsable::2.0
+paper in different formats::2.0
+wllhnm a pearlman lkpartment::2.0
+normalized by the length::2.0
+ability to parse citations::2.0
+substitutions of letters rcquired::2.0
+citeseer can index articles::2.0
+document on another document::2.0
+indexing performed by citeseer::2.0
+semantic similarity of citations::2.0
+model can be estimated::2.0
+citeseer can locate papers::2.0
+made by this document::2.0
+create a comprehensive index::2.0
+peter yianilos::2.0
+track of topics documents::2.0
+systems engineermg rensselaer polytcchmc::2.0
+algorithm takes into account::2.0
+system is completely automatic::2.0
+accurate estimation of statistics::2.0
+royal statistical society ser::2.0
+automatic identification and disambiguation::2.0
+ranked by the number::2.0
+manually set the weights::2.0
+vector and edit distance::2.0
+similar document retrieval methods::2.0
+trees \l.nmbdn am~r snld::2.0
+citcseer allows the location::2.0
+total number of documents::2.0
+measure the edit distance::2.0
+text rely on models::2.0
+indexing of the articles::2.0
+articles that user-sare interested::2.0
+majd sakr for helpful::2.0
+computed an error score::2.0
+indexing using bibliographic citations::2.0
+citations to identical papers::2.0
+papers by keyword search::2.0
+literature in electronic format::2.0
+predict where the desired::2.0
+1jsmg the zero-tree method::2.0
+order to keep track::2.0
+wide web::2.0
+research paper::2.0
+neighbor search in general::2.0
+belief nets and decision::2.0
+parameters of a graphical::2.0
+mark it in context::2.0
+systems engmeermg kensselner polytechnic::2.0
+conference oii the theory::2.0
+generation of citation statistics::2.0
+analyses of research trends::2.0
+citations in the body::2.0
+prowdes even better performance::2.0
+components of each document::2.0
+represent local probability densities::2.0
+considered instead of complete::2.0
+term values in automatic::2.0
+distance measure between two::2.0
+problems where some variables::2.0
+marks the entire group::2.0
+fds and the number::2.0
+including a more up-to-date::2.0
+based on word frequencies::2.0
+sum of the individual::2.0
+techniques and additional heuristics::2.0
+database to a document::2.0
+ordered bit plane tmnsm~ss~::2.0
+fee provided that copies::2.0
+digital or hard copies::2.0
+word and two word::2.0
+document retrieval is subjectively::2.0
+academic permission to make::2.0
+document headers::2.0
+wth only small loss::2.0
+exhaustively index all papers::2.0
+string distance is based::2.0
+topics which a user::2.0
+authors can be found::2.0
+system c lee giles::2.0
+simple algorithm which first::2.0
+citation and the format::2.0
+detailed analyses of research::2.0
+information in a specific::2.0
+index can provide detailed::2.0
+graph during the minimization::2.0
+users may register papers::2.0
+search or by citation::2.0
+statistics on citation frequency::2.0
+contributions of a cited::2.0
+autonomously by watchmg user::2.0
+pnnciples are partial ordcnng::2.0
+referees for useful suggestions::2.0
+vector similarity::2.0
+conditions for the existence::2.0
+algorithm nchwves results comparable::2.0
+measure is a weighted::2.0
+judging the important contributions::2.0
+citations are actually made::2.0
+journal of the american::2.0
+articles with the cited::2.0
+document is a valid::2.0
+selection of the items::2.0
+parameter estimation for pins::2.0
+research.nj.nec.com abstract wc present::2.0
+considered identical and added::2.0
+sakr for helpful discussions::2.0
+postscript files are first::2.0
+indexing process is completely::2.0
+ll~ ; lilq models::2.0
+trends in syntactic relationships::2.0
+number for page numbers::2.0
+downloads postscript files identified::2.0
+citation in the entire::2.0
+details for a sample::2.0
+aspect of the application::2.0
+expansion of common abbreviations::2.0
+important difference between cameron::2.0
+cites a given paper::2.0
+papers related::2.0
+cite the current article::2.0
+-the second annual conference::2.0
+indexing system c lee::2.0
+find related articles based::2.0
+algorithm estimates the parameters::2.0
+results comparable to mpeg-2::2.0
+hccome simply `` walk::2.0
+common citations to make::2.0
+scalable scientific library subroutines::2.0
+extracted from the announcements::2.0
+page and relevant ncwsgroups::2.0
+parse citations::2.0
+document for computational masons::2.0
+document before the abstract::2.0
+documents of similar origin::2.0
+lawrence livermore national laboratory::2.0
+proceedings of digitul libraries::2.0
+ccidf dot product distance::2.0
+ordering of the words::2.0
+processor markus heglandand paul::2.0
+exploited to obtain closed::2.0
+contained in academic articles::2.0
+interest ,4 and choose::2.0
+accurate identification::2.0
+context of the citations::2.0
+markov probability propulsion laboratory::2.0
+institutions to provide citation::2.0
+found on the web::2.0
+extracted from the body::2.0
+video 1jsmg the zero-tree::2.0
+distance whcrc the dif.fercnce::2.0
+matching word & phrase::2.0
+number exceeds a threshold::2.0
+estimation in the logic::2.0
+strings at the level::2.0
+complexity aspects of neural::2.0
+algorithm which first sorts::2.0
+importance of the article::2.0
+computing similarity::2.0
+mixtures submitted to biometrika::2.0
+achieve reasonably good results::2.0
+incremental and other variants::2.0
+up-to-date database::2.0
+management decisions of isi::2.0
+information to judge distance::2.0
+list of indexed articles::2.0
+sequences of two words::2.0
+require any extra effort::2.0
+future work on citeseer::2.0
+message groups or mailing::2.0
+instance of a citation::2.0
+information almost always precedes::2.0
+preprints and technical reports::2.0
+documents in a database::2.0
+agreements with the publishers::2.0
+conjugate gradient methodsjbr indefinite::2.0
+tfidf scheme::2.0
+first sorts the citations::2.0
+words conjugate::2.0
+model searching and estimation::2.0
+section d & ted::2.0
+discussions and for assistance::2.0
+additional heuristics in order::2.0
+papers that may differ::2.0
+large numbei of documents::2.0
+oii the theory urrd::2.0
+likeit tries to match::2.0
+complex methods in nddltlon::2.0
+capable of correcting spurious::2.0
+scheme the algorithm nchwves::2.0
+otfcr nn nltcrnat~vc explnnnt~on::2.0
+document can bc found::2.0
+links between the articles::2.0
+words which are common::2.0
+creates the citation database::2.0
+indexing system which indexes::2.0
+distance which considers distance::2.0
+found that citation based::2.0
+hidden markov probability propulsion::2.0
+made by the document::2.0
+trends and identify emerging::2.0
+snld fnwlty of electncnl::2.0
+text file is checked::2.0
+similarity mcasures between two::2.0
+difference is that citeseer::2.0
+database which was created::2.0
+anthmetlc code i slmilxlty::2.0
+document acquisition::2.0
+errors or incomplete fields::2.0
+citations and on word::2.0
+engmeermg kensselner polytechnic institute::2.0
+indexing systems::2.0
+information to the indexing::2.0
+database using citation links::2.0
+found in citations roughly::2.0
+research document by testing::2.0
+methods of identifying citations::2.0
+profit or commercial advantage::2.0
+tested for identifying citations::2.0
+matching of the letters::2.0
+index as the traditional::2.0
+symposium on numerical analysis::2.0
+additional heuristics::2.0
+words in similar arrangements::2.0
+information in a database::2.0
+measure between two citations::2.0
+journals become available online::2.0
+c~rcum and systems tar::2.0
+determining the semantic similarity::2.0
+abstract wc present cifeseer::2.0
+words may be shared::2.0
+urls and postscript files::2.0
+modification frequency of pages::2.0
+iterates through all citations::2.0
+manual effort during indexing::2.0
+feedback on each article::2.0
+uniform across all citations::2.0
+identify citations to identical::2.0
+investigate learning user notions::2.0
+represent the `` location::2.0
+coding scheme the algorithm::2.0
+visual communlcntmns and image::2.0
+applicability was first discussed::2.0
+phrase matching::2.0
+innovative tool for navigating::2.0
+projection of the word::2.0
+solving linear systemsof equations::2.0
+system which indexes academic::2.0
+sample citeseer::2.0
+mcasures between two documents::2.0
+emerging areas of science::2.0
+process is completely automatic::2.0
+variation in the formatting::2.0
+freyllenq x inverse document::2.0
+vectors we have implemented::2.0
+algorithms on these sets::2.0
+table t shows parsing::2.0
+citation on the first::2.0
+methods on parallel computers::2.0
+database of research papers::2.0
+techniques such as gradient::2.0
+performance for a sample::2.0
+evidence of complex titer::2.0
+learning techniques to automatically::2.0
+scholarly work ever written::2.0
+add such an operation::2.0
+learning techniques and additional::2.0
+finds maximum likelihood parameter::2.0
+updated with relevance feedback::2.0
+relatedness of the document::2.0
+removal of extraneous words::2.0
+bob krovetz and majd::2.0
+document parsing the downloaded::2.0
+early edit distance whcrc::2.0
+journal and conference articles::2.0
+groups or mailing lists::2.0
+abstract text is extracted::2.0
+weekly listings of citations::2.0
+discussed in a research::2.0
+set of n documents::2.0
+approach is the inherent::2.0
+cost-cffectivc tool for indexing::2.0
+response for documents similar::2.0
+percentage of the correct::2.0
+respect to the selection::2.0
+methodsjbr indefinite systems.in symposium::2.0
+block jacobi for vector::2.0
+matches with a previous::2.0
+improve in this regard::2.0
+attempted to exhaustively index::2.0
+is1 services include keywords::2.0
+likeit is an sophisticated::2.0
+nets and decision analysis::2.0
+first query to citeseer::2.0
+likeit distance between headers::2.0
+literature on the web::2.0
+dots not require human::2.0
+body where the citations::2.0
+related to `` neural::2.0
+networks for hidden markov::2.0
+keeping up to date::2.0
+mparnble to or surpass::2.0
+cast of research publications::2.0
+based on set pnrtmon~np::2.0
+effect on the distance::2.0
+database would include citation::2.0
+expect that block jacobi::2.0
+single word and two::2.0
+agreement with the publisher::2.0
+form of edit distance::2.0
+produces multidisciplinary citation indexes::2.0
+citeseer detects and reorders::2.0
+downloaded database of research::2.0
+questions regarding the artlclc::2.0
+citeseer can also find::2.0
+listing of a cited::2.0
+type of text string::2.0
+informed of new articles::2.0
+first converted into text::2.0
+organization of the web::2.0
+human to assessthe accuracy::2.0
+olshen and c stone::2.0
+advantages of citeseer compared::2.0
+variables and the current::2.0
+preconditioning is more effective::2.0
+zealand digital library project::2.0
+2nd systems engmeermg kensselner::2.0
+citeseer helps by making::2.0
+advantage of this architecture::2.0
+subfields to be identified::2.0
+computation aspects of network::2.0
+i+nd~ s~m~lnr lrcmsl abstract::2.0
+frequency of the citation::2.0
+articles could be improved::2.0
+elet on the improvements::2.0
+department of electrical enineenng-systems::2.0
+numerical tests and results::2.0
+followup comments or responses::2.0
+detected is probably due::2.0
+digitul libraries `95 -the::2.0
+methods of document similarity::2.0
+previous citation indexing systems::2.0
+vector or string distance::2.0
+feedback _ citations matching::2.0
+characters which may occur::2.0
+letters rcquired to transform::2.0
+venue for the document::2.0
+jbr conjugate gradient methods::2.0
+possibly the publication venue::2.0
+items which arc indexed::2.0
+preconditioning requires the solution::2.0
+citations and the context::2.0
+dif.fercnce between two text::2.0
+citations easily and quickly::2.0
+scale where i represents::2.0
+swposium on discrete algorithms::2.0
+identical articles and grouping::2.0
+yianilos for useful discussions::2.0
+image processing::2.0
+similarity measures and normalize::2.0
+completely autonomous::2.0
+database which would link::2.0
+text of the document::2.0
+citeseer will not disambiguate::2.0
+navigating the research literature::2.0
+regimes such as gaussian::2.0
+implementation of block jacobi::2.0
+subfield arc also considered::2.0
+system could be enhanced::2.0
+additional heuristics or machine::2.0
+citeseer uses the likeit::2.0
+part of a corpus::2.0
+continue to investigate combining::2.0
+similarity measures as described::2.0
+context of those citations::2.0
+probability of choosing unit::2.0
+cxplwrat~o~~ ot sclt-stmllarity xxoss::2.0
+url of the downloaded::2.0
+document components or structure::2.0
+group marks the entire::2.0
+university of southern california::2.0
+discussed in this paper::2.0
+credit to previous work::2.0
+stem rrorn several forms::2.0
+stxs and images rectrnstructrd::2.0
+significance of citeseer derives::2.0
+find related::2.0
+sophwuted and computntlonslly complex::2.0
+automatic similar document retrieval::2.0
+adar and jeremy hylton::2.0
+performance than our prcv~osly::2.0
+documents using various measure::2.0
+information about the document::2.0
+codrc based on set::2.0
+includes algorithms for identifying::2.0
+induced by a multivalued::2.0
+files are first converted::2.0
+sections describe the document::2.0
+citation x inverse document::2.0
+type of semantic distance::2.0
+first article in figure::2.0
+ltcmsl block jacobi preconditioning::2.0
+allowing us to extract::2.0
+\l.nmbdn am~r snld fnwlty::2.0
+citeseer nom fklp suelrestlons::2.0
+types of distance measures::2.0
+notions of interesting research::2.0
+possibility of performing work::2.0
+eytan adar and jeremy::2.0
+citation database and citeseer::2.0
+commcrcial citation indexes include::2.0
+wide-spread applicability was first::2.0
+document makes the citations::2.0
+subroutine on the tractable::2.0
+vector processor::2.0
+heuristics or machine learning::2.0
+string comparison::2.0
+explnnnt~on of the prmc~ples::2.0
+universal citation database citeseer::2.0
+based on common citations::2.0
+context of these citations::2.0
+extracted from the documents::2.0
+text strings is simply::2.0
+identify citations::2.0
+placement of their work::2.0
+estimation of the impact::2.0
+documents in the database::2.0
+pearlman @ rcsr rpt::2.0
+label of a citation::2.0
+baseline method for comparison::2.0
+small loss in performance::2.0
+wquences a three-dimenslonat subband::2.0
+publications may be helpful::2.0
+context of citations easily::2.0
+author name and affiliation::2.0
+reduce the likeit distance::2.0
+distinguish subfields as accurately::2.0
+william a psnrlman ikpartment::2.0
+part of this work::2.0
+cite a particular publication::2.0
+low number for page::2.0
+document in a word::2.0
+oliver and j smith::2.0
+easily than with traditional::2.0
+extracted from neural network::2.0
+existence of a references::2.0
+original article::2.0
+bibliographic and citation database::2.0
+percentage of the groups::2.0
+heuristics used to locate::2.0
+citeseer uses web search::2.0
+problem is not completely::2.0
+conjugate and gradient performance::2.0
+citation to a group::2.0
+subjectively better than word::2.0
+user notions of interesting::2.0
+postscript file is stored::2.0
+support a containment operation::2.0
+text strings::2.0
+addition of one incorrect::2.0
+codmg and decoding pro::2.0
+phrases to a lesser::2.0
+corpus of a large::2.0
+article as the previous::2.0
+vectors for those documents::2.0
+topic of or concepts::2.0
+scientific effort to progress::2.0
+identifying and grouping variant::2.0
+bit stream hy anthmetlc::2.0
+manually grouped the citations::2.0
+due to the collection::2.0
+data structures and algorithms::2.0
+discussions and the referees::2.0
+correct grouping::2.0
+designed mainly for information::2.0
+accurate than any single::2.0
+fnwlty of electncnl engmeenng::2.0
+citeseer is an autonomous::2.0
+identical citations with normalization::2.0
+information and citation context::2.0
+weighting approaches in automatic::2.0
+locating papers which share::2.0
+responses from the author::2.0
+image compression::2.0
+jin li and po-yuen::2.0
+gradient methodsjbr indefinite systems.in::2.0
+analysis of the group::2.0
+muximum likelihood from incomplete::2.0
+set partltloning sorting algortthm::2.0
+maximum the em algorithm::2.0
+cited in the literature::2.0
+stem in each document::2.0
+citeseer is a keyword::2.0
+citations in citing publications::2.0
+pearlman lkpartment of elcctr~cnl::2.0
+return the same stem::2.0
+indexes were originally designed::2.0
+scalability of preconditioned conjugate::2.0
+estimation of statistics based::2.0
+estimation of the importance::2.0
+frequency to be generated::2.0
+browsing of citation context::2.0
+intelligent string::2.0
+score is the percentage::2.0
+response showing the context::2.0
+header contains very important::2.0
+foundations of statistical inference::2.0
+created three sets citations::2.0
+significant journals as comprehensively::2.0
+indexes preprints and technical::2.0
+citation is considered identical::2.0
+systems.in symposium on numerical::2.0
+`the ~mnge codnng rcwlt~::2.0
+shows a sample response::2.0
+sequences 1s first pcrtwmed::2.0
+give credit to previous::2.0
+uncommon citation is shared::2.0
+maximum likelihood from incomplete::2.0
+extract the following fields::2.0
+algorithm for suffix stripping::2.0
+gradient performance and scalability::2.0
+codes capable of correcting::2.0
+eftrcta at very low::2.0
+picked by the user::2.0
+citeseer over time due::2.0
+gradient methods on parallel::2.0
+citation indexes the institute::2.0
+citations of other works::2.0
+edit distance methods presented::2.0
+title and author block::2.0
+measure is the string::2.0
+tar tts excellent performance::2.0
+tag is the information::2.0
+heuristic introduced by porter::2.0
+header of a document::2.0
+weights to the fixed::2.0
+topics from both user::2.0
+magmrude with a set::2.0
+search in general metric::2.0
+derives from the ability::2.0
+semantic distance::2.0
+inverse of the frequency::2.0
+systemsof equations that arise::2.0
+performance of scalable scientific::2.0
+database from downloaded documents::2.0
+baseline method::2.0
+based on the likeit::2.0
+greater use to researchers::2.0
+whxh is an improved::2.0
+documents as the weighted::2.0
+engineermg rensselaer polytcchmc inwcuts::2.0
+combines the different methods::2.0
+adapt to represent local::2.0
+cited ? current contents::2.0
+based similar document retrieval::2.0
+proposed a universal bibliographic::2.0
+related to a document::2.0
+advantage and that copies::2.0
+un~verxty `` t cnmpmns::2.0
+partial ordcnng by magmrude::2.0
+publication and which papers::2.0
+verify that the document::2.0
+traditional citation indexing systems::2.0
+blaise cronin and herbert::2.0
+statistical society::2.0
+matching algorithm where sequences::2.0
+citeseer uses common citations::2.0
+citeseer database of neural::2.0
+word vector and edit::2.0
+references contained in academic::2.0
+beginning of a citation::2.0
+techniques to automatically determine::2.0
+russian problemy peredachi irzfbrmatsii::2.0
+addition to common papers::2.0
+browsing an algorithm similar::2.0
+likeit considers citation strings::2.0
+`95 -the second annual::2.0
+link every scholarly work::2.0
+automatic citation::2.0
+itcmq implementation and performance::2.0
+preconditioned conjugate::2.0
+citations tends to improve::2.0
+gerard salton and chris::2.0
+encoded uvng ths zero-tree::2.0
+citeseer can not distinguish::2.0
+frequencies do not differentiate::2.0
+statistics for a sample::2.0
+citations matching dempster citations::2.0
+document acquisition cameron proposed::2.0
+find the maximum number::2.0
+equal to the inverse::2.0
+lawrence nec research institute::2.0
+contribute to string differences::2.0
+correspond to semantic differences::2.0
+features of a citation::2.0
+world wide::2.0
+located independent of language::2.0
+simple word::2.0
+servers or to redistribute::2.0
+article can be made::2.0
+approach is the ambiguity::2.0
+databases of author names::2.0
+cheng and c.-c jay::2.0
+database could bc augmented::2.0
+feature problem in vision::2.0
+based automatic similar document::2.0
+weights of the citations::2.0
+independence networks for hidden::2.0
+methods for computing similarity::2.0
+word stem values represent::2.0
+rumple yet highly etfectw::2.0
+distance as the amount::2.0
+matching conjugate and gradient::2.0
+highly than a citation::2.0
+maximum number of words::2.0
+proposal that presents significant::2.0
+heuristics used to parse::2.0
+paper cited ? current::2.0
+acm-siam swposium on discrete::2.0
+copies bear this notice::2.0
+permission to make digital::2.0
+access to more recent::2.0
+current commcrcial citation indexes::2.0
+indexing the significant scientific::2.0
+listings of citations related::2.0
+values in automatic indexing::2.0
+preconditioning are both common::2.0
+large number of documents::2.0
+determine the best weights::2.0
+requiring no manual effort::2.0
+likeit currently performs poorly::2.0
+due to the organization::2.0
+iterate through the citations::2.0
+knowledge about document components::2.0
+poritz 19x8 ; rabiner::2.0
+reform in scholarly communication::2.0
+index allows navigation backward::2.0
+key word::2.0
+features such as author::2.0
+specification of term values::2.0
+spurious insertions and deletions::2.0
+likeit based::2.0
+profiles could be updated::2.0
+entire group as incorrect::2.0
+vision of a universal::2.0
+articles that researchers make::2.0
+algorithms used in two::2.0
+citation index allows finding::2.0
+parameter estimates in problems::2.0
+updated autonomously by watchmg::2.0
+gerard salton::2.0
+areas for future work::2.0
+psnrlman ikpartment ot elecrr~cnl::2.0
+citation links allow navigating::2.0
+observed variables::2.0
+key word ilst wdw::2.0
+identified and those atrcady::2.0
+edit distance which considers::2.0
+similar ltcms::2.0
+unique and innovative tool::2.0
+locations in the document::2.0
+letters instead of words::2.0
+documents with the highest::2.0
+conjugate projected gradient method::2.0
+search in the indexed::2.0
+tfidf scheme to measure::2.0
+article in the body::2.0
+document headers using tither::2.0
+existence of a conjugate::2.0
+cited article to show::2.0
+processing institute and department::2.0
+downloaded documents whereas cameron::2.0
+articles based on common::2.0
+aspects of network belief::2.0
+results are the percentage::2.0
+preselected set::2.0
+leads to more accurate::2.0
+ran the above algorithms::2.0
+found in an image::2.0
+vector of one document::2.0
+ths zero-tree coding scheme::2.0
+syntactic relationships between subfields::2.0
+markus heglandand::2.0
+terms in the matching::2.0
+systems because many publications::2.0
+list % requires prior::2.0
+automatic indexing::2.0
+ability to find related::2.0
+reasons tar tts excellent::2.0
+weight values are betwecn::2.0
+literature retrieval::2.0
+progressive key word ilst::2.0
+distribution for the unobserved::2.0
+simple word matching word::2.0
+set of key references::2.0
+threshold then the citation::2.0
+citations matching::2.0
+documents as concept symbols::2.0
+wth out the complexity::2.0
+research trends and identify::2.0
+feedback indexed articles matching::2.0
+product of the vectors::2.0
+triangular systems of equations::2.0
+extraneous words and characters::2.0
+make digital or hard::2.0
+calculate the word vector::2.0
+advantages of citesccr include::2.0
+fields in one instance::2.0
+research trends::2.0
+list of citations matching::2.0
+longest to the shortest::2.0
+compared to the current::2.0
+exists at the beginning::2.0
+word & phrase matchmg::2.0
+block of the paper::2.0
+compresswn techmque is presented::2.0
+interest in an image::2.0
+ng~nnl ezw `the ~mnge::2.0
+documents given a database::2.0
+group with the smallest::2.0
+similar to the web::2.0
+postscript files that arc::2.0
+cedures are extremely fast::2.0
+detailed information and citation::2.0
+cited documents as concept::2.0
+letters in the text::2.0
+made in the body::2.0
+identical citations::2.0
+construction and local computation::2.0
+distance measures between bodies::2.0
+institute for scientific information::2.0
+analysis of the academic::2.0
+classroom use is granted::2.0
+words arc currently expanded::2.0
+keywords conjugate and gradient::2.0
+researchers for finding recent::2.0
+queries for the terms::2.0
+string distance or edit::2.0
+citation based similar document::2.0
+wcexpect that this disadvantage::2.0
+important capabilities of citeseer::2.0
+find a combined similarity::2.0
+score for each case::2.0
+normalized so that rlirv~::2.0
+correct in the automated::2.0
+communlcntmns and image processing::2.0
+fast and eftiucnt image::2.0
+preselected set of journals::2.0
+upper and lower probabilities::2.0
+effort on the part::2.0
+combined similarity::2.0
+algorithm finds maximum likelihood::2.0
+distance between two documents::2.0
+common abbreviations::2.0
+.-l and all 71of::2.0
+bodies of text rely::2.0
+subfields of the citations::2.0
+explore new distance measures::2.0
+context analysis for separation::2.0
+requires authors or institutions::2.0
+estimate of the parameters::2.0
+pro cedures are extremely::2.0
+indexed articles::2.0
+variant forms of citations::2.0
+due to the wide::2.0
+removal of citation tags::2.0
+statistics and the grouping::2.0
+relatedness of all documents::2.0
+subfields of a citation::2.0
+citeseer citeseer downloads papers::2.0
+indication of the importance::2.0
+1vi highest rj values::2.0
+ylngwrl @ ~pl rp~::2.0
+mage wquences a three-dimenslonat::2.0
+keyword search is made::2.0
+literature in unique ways::2.0
+sample database of neural::2.0
+authors as being related::2.0
+solution of triangular systems::2.0
+codmg of video 1jsmg::2.0
+preconditioned conjugate gradient methods::2.0
+judge distance between documents::2.0
+obtain closed form solutions::2.0
+list of cited articles::2.0
+distance between we intend::2.0
+accurate as traditional manual::2.0
+formally measured the performance::2.0
+indexed articles is shown::2.0
+grouped with the previous::2.0
+type of text distance::2.0
+starting from some initial::2.0
+brnr~l wllhnm a pearlman::2.0
+evidence that this truncation::2.0
+steve lawrence nec research::2.0
+indexing of an article::2.0
+calculate the ccidf relatedness::2.0
+articles cite the current::2.0
+aspects of neural network::2.0
+picked by the authors::2.0
+parsing the downloaded postscript::2.0
+single word::2.0
+information in the citation::2.0
+formatting of document headers::2.0
+distance or edit distance::2.0
+parsing of natural language::2.0
+corn institute for scientific::2.0
+files that arc duplicates::2.0
+rectrnstructrd by the dscodlng::2.0
+index all papers found::2.0
+valuable and useful tools::2.0
+context in the database::2.0
+ezw `the ~mnge codnng::2.0
+detects and reorders postscript::2.0
+identification of identical citations::2.0
+citeseer is that citeseer::2.0
+proceedings of the 4th::2.0
+universal bibliographic and citation::2.0
+variants radford m neal::2.0
+plan to investigate learning::2.0
+sophisticated example is likeit::2.0
+results for grouping identical::2.0
+eftiucnt image codrc based::2.0
+body of the paper::2.0
+citations to the article::2.0
+mqe sequences 1s first::2.0
+notice and the full::2.0
+estimates the parameters iteratively::2.0
+value of each word::2.0
+copies are not made::2.0
+citation tags::2.0
+references or bibliography section::2.0
+library subroutines on fujitsu::2.0
+manually by using semantic::2.0
+language citations is difficult::2.0
+introduction section is extracted::2.0
+similar ltcmsl block jacobi::2.0
+estimate of which documents::2.0
+papers in usenet message::2.0
+citations are not grouped::2.0
+usefulness of a paper::2.0
+finding recent relevant literature::2.0
+indexing a citation index::2.0
+locate papers::2.0
+work in the literature::2.0
+literature search and evaluation::2.0
+comprehensive index of literature::2.0
+sophisticated form of edit::2.0
+make when they cite::2.0
+isi databases are valuable::2.0
+lilt stxs and images::2.0
+refine our existing distance::2.0
+automatic indexing using bibliographic::2.0
+represents semantically identical documents::2.0
+publication delay for journals::2.0
+signal and image processing::2.0
+label the normalized similarity::2.0
+nom fklp suelrestlons query::2.0
+word frequencies::2.0
+updates to a page::2.0
+citation rankings of authors::2.0
+citeseer does not require::2.0
+citation may be resolved::2.0
+citation information to judge::2.0
+text in a document::2.0
+individual citations are extracted::2.0
+granted without fee provided::2.0
+substrings in a larger::2.0
+parses them to extract::2.0
+word ilst wdw compnxmn::2.0
+factors contribute to string::2.0
+maximum likelihood parameter estimates::2.0
+consists of an expectation::2.0
+compare with other techniques::2.0
+plan on using learning::2.0
+citations that an article::2.0
+citation frequency for authors::2.0
+fact that many citations::2.0
+index allows finding out::2.0
+-tree method by snld::2.0
+parsed further as described::2.0
+browsing via citation links::2.0
+ymgwrl cbsn and william::2.0
+instances of a citation::2.0
+related to a set::2.0
+symp on visual communlcntmns::2.0
+build an optimal weighted::2.0
+publication delay::2.0
+pittsburgh pa usa copyright::2.0
+articles made by citations::2.0
+testing for the existence::2.0
+likeit based automatic similar::2.0
+baseline simple word matching::2.0
+wiley c % sons::2.0
+effort in the indexing::2.0
+features under certain training::2.0
+product of the two::2.0
+citeseer does not cover::2.0
+citeseer also performs full-text::2.0
+made in this document::2.0
+zero-tree method ymgwrl cbsn::2.0
+gerard salton and c.s::2.0
+taxonomy jbr conjugate gradient::2.0
+sclt-stmllarity xxoss dlfterent scales::2.0
+document citations ot interest::2.0
+citation across multiple articles::2.0
+citation index allows navigation::2.0
+mcnt of the algorithms::2.0
+solutions to the missing::2.0
+rffectlvr and compurntionally simple::2.0
+providing support for browsing::2.0
+significant difticulty for implementation::2.0
+navigation by locating papers::2.0
+literature search::2.0
+uvng ths zero-tree coding::2.0
+conferences means that citeseer::2.0
+discretization of partial differential::2.0
+documents containing the words::2.0
+concept of citation indexing::2.0
+intelligent string comparison facility::2.0
+papers that are made::2.0
+shared by two documents::2.0
+papers and identify citations::2.0
+creation for page images::2.0
+user activity and user::2.0
+relevant ncwsgroups and mailin::2.0
+journals and conferences means::2.0
+locates and downloads postscript::2.0
+image compression manuscript database::2.0
+frequency of each word::2.0
+algorithm introduced by yianilos::2.0
+algorithm geoffrey e hinton::2.0
+capabilities of citeseer arc::2.0
+web in this area::2.0
+algorithms for nearest neighbor::2.0
+po-yuen cheng and c.-c::2.0
+arise from the discretization::2.0
+good paradigm for determining::2.0
+papers can be located::2.0
+established for solving linear::2.0
+string comparison algorithm introduced::2.0
+krovetz and majd sakr::2.0
+weighted sum::2.0
+investigate combining different types::2.0
+cameron proposed a universal::2.0
+intelligent string comparison algorithm::2.0
+prewous rrsults `` btxned::2.0
+informed when new articles::2.0
+common citation x inverse::2.0
+document d the highest::2.0
+understands how to parse::2.0
+equations that are difficult::2.0
+hnsed on set pnrtinonlng::2.0
+represents completely different documents::2.0
+sample document is shown::2.0
+form of this measure::2.0
+compared io the current::2.0
+instances of the citation::2.0
+current commercial citation indexes::2.0
+describe the document acquisition::2.0
+mon on the mqe::2.0
+order to maintain user::2.0
+document where a vector::2.0
+traditional citation::2.0
+citation indexing a citation::2.0
+length of the shorter::2.0
+lists could be monitored::2.0
+register papers of interest::2.0
+database as a catalyst::2.0
+note that an error::2.0
+units adapt to represent::2.0
+citeseer locates and downloads::2.0
+current contents::2.0
+added to the prcvious::2.0
+citeseer exists whcrcas cameron::2.0
+references has been identified::2.0
+headers using tither additional::2.0
+similar to the paper::2.0
+create more up-to-date databases::2.0
+approaches in automatic text::2.0
+made by a large::2.0
+likeit provides a distance::2.0
+pages in reverse order::2.0
+shows the documents citeseer::2.0
+made for the citation::2.0
+words within each subfield::2.0
+analogous to the word::2.0
+generalization of bayesian inference::2.0
+point and block jacobi::2.0
+publishers would be required::2.0
+hypcrlink creation for page::2.0
+word vector or string::2.0
+vector processor markus heglandand::2.0
+jacobi for vector computers::2.0
+beginning of the citation::2.0
+system which requires authors::2.0
+parse citations from papers::2.0
+baseline method which iterates::2.0
+stream hy anthmetlc code::2.0
+ways in which citeseer::2.0
+techniques to improve vectorization::2.0
+good results using heuristics::2.0
+heuristics to locate papers::2.0
+gbf networks and missing::2.0
+similar to the baseline::2.0
+document a and query::2.0
+make a more informed::2.0
+automatically creates the citation::2.0
+completely different documents::1.58496250072
+significance of citeseer::1.58496250072
+theory and application::1.58496250072
+index can provide::1.58496250072
+feedback indexed articles::1.58496250072
+indexes academic literature::1.58496250072
+word stem values::1.58496250072
+optimal weighted matching::1.58496250072
+distance between documents::1.58496250072
+author or other-s::1.58496250072
+permission to make::1.58496250072
+full bayesian methods::1.58496250072
+compression manuscript database::1.58496250072
+citations were constructed::1.58496250072
+specification of term::1.58496250072
+journal and conference::1.58496250072
+frequency for authors::1.58496250072
+grouping variant forms::1.58496250072
+extract the citations::1.58496250072
+enhanced and improved::1.58496250072
+table t shows::1.58496250072
+scalability of preconditioned::1.58496250072
+user can find::1.58496250072
+words `` publications::1.58496250072
+group is made::1.58496250072
+probabilistic independence networks::1.58496250072
+adapt to represent::1.58496250072
+methods on parallel::1.58496250072
+initial keyword search::1.58496250072
+proposed a universal::1.58496250072
+shows the documents::1.58496250072
+formatting of document::1.58496250072
+group contained citations::1.58496250072
+based similar document::1.58496250072
+weights for document::1.58496250072
+analysis for separation::1.58496250072
+set an interval::1.58496250072
+downloaded postscript files::1.58496250072
+cl1 l breiman::1.58496250072
+journal of documentation::1.58496250072
+rumple yet highly::1.58496250072
+reorders postscript files::1.58496250072
+values in automatic::1.58496250072
+capable of correcting::1.58496250072
+block preconditioning requires::1.58496250072
+nchwves results comparable::1.58496250072
+include citation links::1.58496250072
+browsing detailed information::1.58496250072
+words and phrases::1.58496250072
+accuracy of results::1.58496250072
+citeseer downloads papers::1.58496250072
+submitted to biometrika::1.58496250072
+similarity distance measure::1.58496250072
+shared by documents::1.58496250072
+show the context::1.58496250072
+pins the parameters::1.58496250072
+monitored in order::1.58496250072
+citeseer might index::1.58496250072
+amount of difference::1.58496250072
+preprints and technical::1.58496250072
+methodsjbr indefinite systems.in::1.58496250072
+embedded zerotree wavelct::1.58496250072
+appkd and rxp::1.58496250072
+salton and chris::1.58496250072
+proposed a system::1.58496250072
+winston of canada::1.58496250072
+commonly used form::1.58496250072
+citeseer has access::1.58496250072
+investigate learning user::1.58496250072
+ccidf dot product::1.58496250072
+document and citations::1.58496250072
+early edit distance::1.58496250072
+likeit string distance::1.58496250072
+system which requires::1.58496250072
+redistribute to list::1.58496250072
+issues of journals::1.58496250072
+word oriented tfidf::1.58496250072
+obtained by clicking::1.58496250072
+sakr for helpful::1.58496250072
+detected and skipped::1.58496250072
+indexes the links::1.58496250072
+citations is extracted::1.58496250072
+preselected set ofjournals::1.58496250072
+citations with normalization::1.58496250072
+post on servers::1.58496250072
+literature in electronic::1.58496250072
+format is uniform::1.58496250072
+ambiguity of words::1.58496250072
+cedures are extremely::1.58496250072
+including the context::1.58496250072
+extract certain subfields::1.58496250072
+converts the papers::1.58496250072
+paradigm for determining::1.58496250072
+conjugate projected gradient::1.58496250072
+headers using tither::1.58496250072
+interesting research topics::1.58496250072
+considers citation strings::1.58496250072
+kensselner polytechnic institute::1.58496250072
+word ilst wdw::1.58496250072
+query the database::1.58496250072
+urls and postscript::1.58496250072
+results using heuristics::1.58496250072
+user can browse::1.58496250072
+accepted for publication::1.58496250072
+extract and show::1.58496250072
+linear systemsof equations::1.58496250072
+citation indexing performed::1.58496250072
+aspects of neural::1.58496250072
+set partltloning sorting::1.58496250072
+required to index::1.58496250072
+profit or commercial::1.58496250072
+problemy peredachi irzfbrmatsii::1.58496250072
+technical report 97-093::1.58496250072
+computational complexity aspects::1.58496250072
+allowing a researcher::1.58496250072
+common preconditioning techniques::1.58496250072
+sl~lllx itcmn~~ abstract::1.58496250072
+require any extra::1.58496250072
+process is completely::1.58496250072
+string comparison facility::1.58496250072
+fklp suelrestlons query::1.58496250072
+on-the-fly hypcrlink creation::1.58496250072
+correspond to semantic::1.58496250072
+citation x inverse::1.58496250072
+rankin g information::1.58496250072
+systems engmeermg kensselner::1.58496250072
+journals and conferences::1.58496250072
+database using citation::1.58496250072
+show all instances::1.58496250072
+surpass prewous rrsults::1.58496250072
+usenet message groups::1.58496250072
+highly etfectw wde::1.58496250072
+string distance citeseer::1.58496250072
+natural language citations::1.58496250072
+indexes the citations::1.58496250072
+combining different types::1.58496250072
+stems of words::1.58496250072
+authors beyond placement::1.58496250072
+measure between two::1.58496250072
+hidden units adapt::1.58496250072
+location of papers::1.58496250072
+institute for scientific::1.58496250072
+document by testing::1.58496250072
+shows parsing statistics::1.58496250072
+tts excellent performance::1.58496250072
+edit distance methods::1.58496250072
+ilst wdw compnxmn::1.58496250072
+phrase matchmg llkelt::1.58496250072
+distance between two::1.58496250072
+represent local probability::1.58496250072
+watchmg user actions::1.58496250072
+search and evaluation::1.58496250072
+citesecr could easily::1.58496250072
+importance of articles::1.58496250072
+algorithms for identifying::1.58496250072
+evaluate the performance::1.58496250072
+requiring no manual::1.58496250072
+year of publication::1.58496250072
+document of interest::1.58496250072
+estimated with maximumlikelihood::1.58496250072
+citation indexes include::1.58496250072
+current commercial citation::1.58496250072
+journul qf documentation::1.58496250072
+choosing the link::1.58496250072
+science cita tion::1.58496250072
+articles which cite::1.58496250072
+determine the relatedness::1.58496250072
+decoding pro cedures::1.58496250072
+word and two::1.58496250072
+citation were identified::1.58496250072
+groups or mailing::1.58496250072
+converted into text::1.58496250072
+cite the current::1.58496250072
+herbert w snyder::1.58496250072
+easily bc cxtcnded::1.58496250072
+identify the subfields::1.58496250072
+sophwuted and computntlonslly::1.58496250072
+generalization of bayesian::1.58496250072
+reasonable to expect::1.58496250072
+find the locations::1.58496250072
+making the context::1.58496250072
+power to represent::1.58496250072
+assign a weight::1.58496250072
+simply `` walk::1.58496250072
+browsing of citation::1.58496250072
+bit plane tmnsm~ss~::1.58496250072
+creates the citation::1.58496250072
+giving false evidence::1.58496250072
+based on set::1.58496250072
+represent the topic::1.58496250072
+infinite semantic distance::1.58496250072
+page numbers roughly::1.58496250072
+abstract wc present::1.58496250072
+group of citations::1.58496250072
+set of key::1.58496250072
+user is interested::1.58496250072
+significantly different ways::1.58496250072
+heuristics or machine::1.58496250072
+reasons tar tts::1.58496250072
+signal and image::1.58496250072
+part of authors::1.58496250072
+article to show::1.58496250072
+check for updates::1.58496250072
+normalizing certain aspects::1.58496250072
+probability of choosing::1.58496250072
+applicability was first::1.58496250072
+showing the context::1.58496250072
+work which cites::1.58496250072
+wllhnm a pearlman::1.58496250072
+arc also considered::1.58496250072
+considered as terms::1.58496250072
+image compression manuscript::1.58496250072
+distributed for profit::1.58496250072
+semantically identical documents::1.58496250072
+word matching word::1.58496250072
+normalize each measure::1.58496250072
+robert d cameron::1.58496250072
+corrcsponding to queries::1.58496250072
+isi citation indexes::1.58496250072
+loss in performance::1.58496250072
+plan to explore::1.58496250072
+distance or edit::1.58496250072
+present an implementation::1.58496250072
+improve the parsing::1.58496250072
+link every scholarly::1.58496250072
+digital library project::1.58496250072
+find which papers::1.58496250072
+string comparison algorithm::1.58496250072
+including the ability::1.58496250072
+local computation aspects::1.58496250072
+learning and pins::1.58496250072
+index new papers::1.58496250072
+documents is calculated::1.58496250072
+citation is parsed::1.58496250072
+section is extracted::1.58496250072
+ability to create::1.58496250072
+components or structure::1.58496250072
+document similarity mentioned::1.58496250072
+plan to improve::1.58496250072
+database of documents::1.58496250072
+checked to verify::1.58496250072
+journals as comprehensively::1.58496250072
+normalized similarity mcasures::1.58496250072
+structures and algorithms::1.58496250072
+significant scientific journals::1.58496250072
+browsing an algorithm::1.58496250072
+articles is shown::1.58496250072
+citations is difficult::1.58496250072
+list of cited::1.58496250072
+continue to investigate::1.58496250072
+simply the number::1.58496250072
+am~r snld fnwlty::1.58496250072
+finds the distribution::1.58496250072
+citations is indexed::1.58496250072
+citeseer uses common::1.58496250072
+baseline simple algorithm::1.58496250072
+represents semantically identical::1.58496250072
+desired subfield existed::1.58496250072
+build an optimal::1.58496250072
+links between articles::1.58496250072
+authors or institutions::1.58496250072
+progress more rapidly::1.58496250072
+extract additional fields::1.58496250072
+\l.nmbdn am~r snld::1.58496250072
+cite that article::1.58496250072
+query and browsing::1.58496250072
+article is cited::1.58496250072
+citeseer home qntittns::1.58496250072
+prcv~osly reported cxtens::1.58496250072
+browse the database::1.58496250072
+indexing using bibliographic::1.58496250072
+return a list::1.58496250072
+downloads postscript files::1.58496250072
+subroutines on fujitsu::1.58496250072
+papers which share::1.58496250072
+analyses of research::1.58496250072
+articles and citations::1.58496250072
+measured the performance::1.58496250072
+wquences a three-dimenslonat::1.58496250072
+references or bibliography::1.58496250072
+dif.fercnce between two::1.58496250072
+databases are valuable::1.58496250072
+likeit considers citation::1.58496250072
+existing citation indexes::1.58496250072
+made or distributed::1.58496250072
+effort to progress::1.58496250072
+likeit based retrieval::1.58496250072
+vector processor markus::1.58496250072
+xxoss dlfterent scales::1.58496250072
+recent relevant literature::1.58496250072
+likeit currently performs::1.58496250072
+authors in monographic::1.58496250072
+citations are made::1.58496250072
+foundations of statistical::1.58496250072
+algorithms for nearest::1.58496250072
+level of letters::1.58496250072
+adds citation information::1.58496250072
+documents are related::1.58496250072
+headers of documents::1.58496250072
+cheng and c.-c::1.58496250072
+measure a value::1.58496250072
+strings of symbols::1.58496250072
+vector and edit::1.58496250072
+capabilities of citeseer::1.58496250072
+similar itcmsi abstract::1.58496250072
+services include keywords::1.58496250072
+papers in usenet::1.58496250072
+geoffrey e hinton::1.58496250072
+department of electrical::1.58496250072
+search for pages::1.58496250072
+resolved from analysis::1.58496250072
+local probability densities::1.58496250072
+interest in computing::1.58496250072
+requiring context analysis::1.58496250072
+calculate the ccidf::1.58496250072
+image processing institute::1.58496250072
+return the documents::1.58496250072
+sets and computed::1.58496250072
+systems tar vlde::1.58496250072
+databases and improveciteseer::1.58496250072
+plan to investigate::1.58496250072
+william a psnrlman::1.58496250072
+exists whcrcas cameron::1.58496250072
+parse the citations::1.58496250072
+ability to extract::1.58496250072
+ability to find::1.58496250072
+wellknown efficient approach::1.58496250072
+sociul studies ofscience::1.58496250072
+group as incorrect::1.58496250072
+insertions and deletions::1.58496250072
+gaussian mixture modeling::1.58496250072
+duda & hart::1.58496250072
+system indexes preprints::1.58496250072
+extracted and parsed::1.58496250072
+parsed using heuristics::1.58496250072
+relationships between subfields::1.58496250072
+documents citeseer found::1.58496250072
+measure the edit::1.58496250072
+citeseer citeseer downloads::1.58496250072
+algorithm where sequences::1.58496250072
+support for browsing::1.58496250072
+taxonomy jbr conjugate::1.58496250072
+index all papers::1.58496250072
+paper is extracted::1.58496250072
+provide citation information::1.58496250072
+measures between bodies::1.58496250072
+find the set::1.58496250072
+specific citation information::1.58496250072
+rrsults `` btxned::1.58496250072
+text string distance::1.58496250072
+similar itcmq implementation::1.58496250072
+stream hy anthmetlc::1.58496250072
+based on statistics::1.58496250072
+shown in table::1.58496250072
+results are shown::1.58496250072
+expect that citeseer::1.58496250072
+reduce the likeit::1.58496250072
+document are extracted::1.58496250072
+articles are indcxcd::1.58496250072
+models of similarity::1.58496250072
+projected gradient method::1.58496250072
+distance methods presented::1.58496250072
+creation for page::1.58496250072
+conversion to lowercase::1.58496250072
+nets and decision::1.58496250072
+determining the semantic::1.58496250072
+citations from papers::1.58496250072
+database to find::1.58496250072
+index allows finding::1.58496250072
+distance which considers::1.58496250072
+indexed articles matching::1.58496250072
+information to judge::1.58496250072
+indexing the significant::1.58496250072
+databases of author::1.58496250072
+estimates in problems::1.58496250072
+helpful in judging::1.58496250072
+make an estimate::1.58496250072
+difficult to vectorize::1.58496250072
+title will tend::1.58496250072
+embedded zerotree wnvrlrt::1.58496250072
+measures from step::1.58496250072
+computntlonslly complex methods::1.58496250072
+sets of documents::1.58496250072
+label the normalized::1.58496250072
+monographic and journal::1.58496250072
+code i slmilxlty::1.58496250072
+is1 citation indexes::1.58496250072
+navigating the literature::1.58496250072
+addition to common::1.58496250072
+transform one string::1.58496250072
+introduction the expectation-maximization::1.58496250072
+tind the group::1.58496250072
+work for personal::1.58496250072
+moody & darken::1.58496250072
+wadsworth and brooks::1.58496250072
+referencing as persuasian::1.58496250072
+probability propulsion laboratory::1.58496250072
+knowledge about document::1.58496250072
+~mnge codnng rcwlt~::1.58496250072
+removal of hyphens::1.58496250072
+found that normalizing::1.58496250072
+mnge sequence codm::1.58496250072
+finds maximum likelihood::1.58496250072
+out the complexity::1.58496250072
+providing an indication::1.58496250072
+commcrcial citation indexes::1.58496250072
+presence of words::1.58496250072
+ordcnng by magmrude::1.58496250072
+shows a sample::1.58496250072
+image codrc based::1.58496250072
+two word matches::1.58496250072
+cnlculntad from xtu::1.58496250072
+accurate as traditional::1.58496250072
+documents whereas cameron::1.58496250072
+identify emerging areas::1.58496250072
+position and composition::1.58496250072
+embedded zerotree wavelet::1.58496250072
+krovetz and majd::1.58496250072
+cbsn and william::1.58496250072
+smallest likeit distance::1.58496250072
+finding related documents::1.58496250072
+complex titer motivations::1.58496250072
+plans to add::1.58496250072
+unique and innovative::1.58496250072
+markov probability propulsion::1.58496250072
+ability to parse::1.58496250072
+vw~~ ? ~~y::1.58496250072
+scheme to measure::1.58496250072
+index new issues::1.58496250072
+usa copyright acm::1.58496250072
+exceeds a threshold::1.58496250072
+citescer includes algorithms::1.58496250072
+application in science::1.58496250072
+comprehensive and up-to-date::1.58496250072
+bear this notice::1.58496250072
+computing the distance::1.58496250072
+papers which cite::1.58496250072
+maintain user feedback::1.58496250072
+word matching algorithm::1.58496250072
+techmque is presented::1.58496250072
+including literature search::1.58496250072
+encoded uvng ths::1.58496250072
+decisions of isi::1.58496250072
+differ in syntax::1.58496250072
+image compression database::1.58496250072
+processor markus heglandand::1.58496250072
+cite these papers::1.58496250072
+keywords or document::1.58496250072
+identify the context::1.58496250072
+measure of similarity::1.58496250072
+19x8 ; rabiner::1.58496250072
+document is shown::1.58496250072
+highest of documents::1.58496250072
+digital or hard::1.58496250072
+aspects of network::1.58496250072
+personal or classroom::1.58496250072
+full text search::1.58496250072
+closed form solutions::1.58496250072
+forms of citations::1.58496250072
+approaches in automatic::1.58496250072
+sclt-stmllarity xxoss dlfterent::1.58496250072
+swposium on discrete::1.58496250072
+method by snld::1.58496250072
+baseline simple word::1.58496250072
+stxs and images::1.58496250072
+partial differential equations::1.58496250072
+engineermg rensselaer polytcchmc::1.58496250072
+grouping identical citations::1.58496250072
+binary codes capable::1.58496250072
+areas for future::1.58496250072
+progressive key word::1.58496250072
+possibly the publication::1.58496250072
+common to sets::1.58496250072
+improve the results::1.58496250072
+individual similarity measures::1.58496250072
+fast and eftiucnt::1.58496250072
+user may find::1.58496250072
+files are first::1.58496250072
+theory urrd practice::1.58496250072
+arc hand picked::1.58496250072
+methods we tested::1.58496250072
+identification of identical::1.58496250072
+understood these pnnciples::1.58496250072
+work ever written::1.58496250072
+sncial studies ofscience::1.58496250072
+ordered by length::1.58496250072
+neural network publications::1.58496250072
+upper and lower::1.58496250072
+significantly different lengths::1.58496250072
+information is extracted::1.58496250072
+method which iterates::1.58496250072
+list % requires::1.58496250072
+uniform syntactic indicators::1.58496250072
+number in document::1.58496250072
+activity and user::1.58496250072
+context always exists::1.58496250072
+describes a system::1.58496250072
+commercial citation indexes::1.58496250072
+made even faster::1.58496250072
+discuss several techniques::1.58496250072
+indexing a citation::1.58496250072
+marks the entire::1.58496250072
+current commcrcial citation::1.58496250072
+comparison algorithm introduced::1.58496250072
+found are detected::1.58496250072
+papers of interest::1.58496250072
+mnge wweler transform::1.58496250072
+term weighting approaches::1.58496250072
+rely on models::1.58496250072
+citeseer can extract::1.58496250072
+shared by two::1.58496250072
+items which arc::1.58496250072
+jbr conjugate gradient::1.58496250072
+i,21 `` r~g~nal::1.58496250072
+lower probabilities math::1.58496250072
+151a word weight::1.58496250072
+set of references::1.58496250072
+difference between strings::1.58496250072
+paper introduces citeseer::1.58496250072
+uvng ths zero-tree::1.58496250072
+parsing the downloaded::1.58496250072
+word vector space::1.58496250072
+ng~nnl ezw `the::1.58496250072
+letters and multigraphs::1.58496250072
+vector or string::1.58496250072
+indexes articles found::1.58496250072
+citeseer exists whcrcas::1.58496250072
+removal of citation::1.58496250072
+number of insertions::1.58496250072
+index most journals::1.58496250072
+two word vectors::1.58496250072
+database and citeseer::1.58496250072
+citeseer automatically creates::1.58496250072
+cite other articles::1.58496250072
+figure i shows::1.58496250072
+nearest neighbor search::1.58496250072
+investigated three methods::1.58496250072
+based automatic similar::1.58496250072
+image processing threr~dlmension::1.58496250072
+indcxcd which match::1.58496250072
+institute and department::1.58496250072
+imply scholarly impact::1.58496250072
+words are removed::1.58496250072
+linking the articles::1.58496250072
+query are shown::1.58496250072
+find related documents::1.58496250072
+citation to mark::1.58496250072
+rinehart and winston::1.58496250072
+parsing of document::1.58496250072
+general metric spaces::1.58496250072
+relatedness of documents::1.58496250072
+mmmg entropy codmg::1.58496250072
+intend lo include::1.58496250072
+augmented m order::1.58496250072
+text distance measure::1.58496250072
+citation parsing performance::1.58496250072
+papers to text::1.58496250072
+ths zero-tree coding::1.58496250072
+peter n yianilos::1.58496250072
+califorma 90089-2564 kclntedpapers::1.58496250072
+citeseer response showing::1.58496250072
+ezw `the ~mnge::1.58496250072
+provide detailed analyses::1.58496250072
+means that citeseer::1.58496250072
+match their interests::1.58496250072
+files that arc::1.58496250072
+form of edit::1.58496250072
+cast of research::1.58496250072
+performance of scalable::1.58496250072
+wth only small::1.58496250072
+related articles based::1.58496250072
+navigating the research::1.58496250072
+c.-c jay kuo::1.58496250072
+documents as concept::1.58496250072
+expansion of common::1.58496250072
+citations in citing::1.58496250072
+cxtcnded in order::1.58496250072
+.ar ! temsl::1.58496250072
+navigation by locating::1.58496250072
+network belief functions::1.58496250072
+comparative citation rankings::1.58496250072
+radford m neal::1.58496250072
+evidence of complex::1.58496250072
+made in significantly::1.58496250072
+problem in vision::1.58496250072
+point and block::1.58496250072
+results for grouping::1.58496250072
+statistics of words::1.58496250072
+nom fklp suelrestlons::1.58496250072
+find a combined::1.58496250072
+citation is grouped::1.58496250072
+comments or questions::1.58496250072
+zero-tree method ymgwrl::1.58496250072
+compurntionally simple techmque::1.58496250072
+index allows navigation::1.58496250072
+automatic text retrieval::1.58496250072
+intend to explore::1.58496250072
+requires the solution::1.58496250072
+document is simply::1.58496250072
+similarity between .-l::1.58496250072
+granted without fee::1.58496250072
+locates and downloads::1.58496250072
+percentage of groups::1.58496250072
+trends and identify::1.58496250072
+found by choosing::1.58496250072
+find other publications::1.58496250072
+page numbers detected::1.58496250072
+ikpartment ot elecrr~cnl::1.58496250072
+values and return::1.58496250072
+hnsed on set::1.58496250072
+sequences 1s first::1.58496250072
+citations ot interest::1.58496250072
+body of articles::1.58496250072
+machine learning techniques::1.58496250072
+retrieve the documents::1.58496250072
+semantic distance measure::1.58496250072
+papers are cited::1.58496250072
+provide a link::1.58496250072
+missing feature problem::1.58496250072
+simple word frequencies::1.58496250072
+introduced by yianilos::1.58496250072
+improving literature search::1.58496250072
+detects and reorders::1.58496250072
+eftiucnt image codrc::1.58496250072
+cameron has proposed::1.58496250072
+citeseer can search::1.58496250072
+cvaluatc the algorithms::1.58496250072
+similar ltcmsl block::1.58496250072
+measure the similarity::1.58496250072
+provide as comprehensive::1.58496250072
+c71 l breiman::1.58496250072
+lawrence nec research::1.58496250072
+document retrieval system::1.58496250072
+performs full-text indexing::1.58496250072
+titles and authors::1.58496250072
+networks and missing::1.58496250072
+number of documents::1.58496250072
+aspects of citations::1.58496250072
+logic of inference::1.58496250072
+order of letters::1.58496250072
+construction and local::1.58496250072
+lists the papers::1.58496250072
+tool for navigating::1.58496250072
+symp on visual::1.58496250072
+ability to recognize::1.58496250072
+neural network training::1.58496250072
+documents by coincidence::1.58496250072
+longest to shortest::1.58496250072
+correcting spurious insertions::1.58496250072
+disambiguation of authors::1.58496250072
+words which matches::1.58496250072
+citations by length::1.58496250072
+kurt d bollacker::1.58496250072
+algorithm to calculate::1.58496250072
+two text strings::1.58496250072
+tither additional heuristics::1.58496250072
+ccidf and compare::1.58496250072
+documents having stem::1.58496250072
+art of dissembling::1.58496250072
+word & phrase::1.58496250072
+original in russian::1.58496250072
+combination of methods::1.58496250072
+heuristics to locate::1.58496250072
+tend to reduce::1.58496250072
+annual conference oii::1.58496250072
+jii `` .`a::1.58496250072
+godambe and d.a::1.58496250072
+ordered bit plane::1.58496250072
+social studies ofscience::1.58496250072
+group is created::1.58496250072
+pufls = j~jed::1.58496250072
+list of citations::1.58496250072
+words are considered::1.58496250072
+inverse document frequency::1.58496250072
+4th acm-siam swposium::1.58496250072
+literature and provide::1.58496250072
+surpassed the performance::1.58496250072
+response for documents::1.58496250072
+references eytan adar::1.58496250072
+spcctivc similarity measures::1.58496250072
+number of purposes::1.58496250072
+is1 services include::1.58496250072
+number of areas::1.58496250072
+contribute to string::1.58496250072
+precedes title information::1.58496250072
+citeseer autonomously locates::1.58496250072
+allowing the estimation::1.58496250072
+terms `` giles::1.58496250072
+find a document::1.58496250072
+title and author::1.58496250072
+catalyst for reform::1.58496250072
+rankings of authors::1.58496250072
+existing distance measures::1.58496250072
+order to cvaluatc::1.58496250072
+citation across multiple::1.58496250072
+ncwsgroups and mailin::1.58496250072
+recent and sophisticated::1.58496250072
+authors or .journals::1.58496250072
+papers and identify::1.58496250072
+citeseer home options::1.58496250072
+citeseer is autonomous::1.58496250072
+valid research document::1.58496250072
+estimates the parameters::1.58496250072
+disadvantage will disappear::1.58496250072
+stores the information::1.58496250072
+judge the relatedness::1.58496250072
+stemming heuristic introduced::1.58496250072
+assistance using likeit::1.58496250072
+article `` maximum::1.58496250072
+citation similarity measures::1.58496250072
+similarity of groups::1.58496250072
+order to find::1.58496250072
+string distance similarity::1.58496250072
+require human effort::1.58496250072
+subsequent articles cite::1.58496250072
+citations are ordered::1.58496250072
+characters are removed::1.58496250072
+algorithm finds maximum::1.58496250072
+removal of extraneous::1.58496250072
+find the distance::1.58496250072
+index of literature::1.58496250072
+comprehensive an index::1.58496250072
+presents significant difticulty::1.58496250072
+announcements of papers::1.58496250072
+pair of documents::1.58496250072
+reduces the possibility::1.58496250072
+link in ligurc::1.58496250072
+study of sociology::1.58496250072
+order to index::1.58496250072
+detailed document information::1.58496250072
+determine the list::1.58496250072
+traditional manual indexes::1.58496250072
+regard of databases::1.58496250072
+grouping of work::1.58496250072
+technical report ucrl-98508::1.58496250072
+preconditioned conjugate gradient::1.58496250072
+weighted more highly::1.58496250072
+word matching lo.o::1.58496250072
+differential equations::1.0
+include keywords::1.0
+wide variation::1.0
+mixtures submitted::1.0
+solving linear::1.0
+up-to-date databases::1.0
+hand picked::1.0
+natural language::1.0
+uniform syntactic::1.0
+independence networks::1.0
+local probability::1.0
+numerical analysis::1.0
+indexes articles::1.0
+current commcrcial::1.0
+wdw compnxmn::1.0
+downloaded database::1.0
+first pcrtwmed::1.0
+markov probability::1.0
+large effect::1.0
+human effort::1.0
+important aspect::1.0
+tts excellent::1.0
+citutinn umte.vt::1.0
+`the ~mnge::1.0
+output unit::1.0
+detailed analyses::1.0
+give credit::1.0
+isi citation::1.0
+lrcmsl abstract::1.0
+zero-tree coding::1.0
+article makes::1.0
+interesting research::1.0
+retrieval system::1.0
+key words::1.0
+set ofr::1.0
+produces multidisciplinary::1.0
+units adapt::1.0
+lawrence livermore::1.0
+ordered bit::1.0
+research literature::1.0
+multivalued mapping::1.0
+introduction section::1.0
+false evidence::1.0
+previous algorithms::1.0
+presents significant::1.0
+zealand digital::1.0
+engineermg rensselaer::1.0
+performing work::1.0
+parameter estimation::1.0
+ng~nnl ezw::1.0
+performs full-text::1.0
+pearlman lkpartment::1.0
+polytechnic institute::1.0
+ezw `the::1.0
+ahmed sameh::1.0
+make digital::1.0
+oriented tfidf::1.0
+identify emerging::1.0
+highly etfectw::1.0
+whcrcas cameron::1.0
+on-the-fly hypcrlink::1.0
+important information::1.0
+recent articles::1.0
+requires authors::1.0
+decoding pro::1.0
+lesser degree::1.0
+existing distance::1.0
+computntlonslly complex::1.0
+bit stream::1.0
+distance whcrc::1.0
+current estimate::1.0
+summary citeseer::1.0
+report ucrl-98508::1.0
+judge distance::1.0
+problemy peredachi::1.0
+suflcient conditions::1.0
+manual effort::1.0
+dempster a.p::1.0
+snld fnwlty::1.0
+ths zero-tree::1.0
+article citations::1.0
+preconditioning techniques::1.0
+citations shared::1.0
+larger string::1.0
+preconditioning requires::1.0
+research publications::1.0
+citeseer automatically::1.0
+matching dempster::1.0
+methods presented::1.0
+complex methods::1.0
+article dempster::1.0
+ilst wdw::1.0
+automatic text::1.0
+provide detailed::1.0
+technical reports::1.0
+subfield arc::1.0
+fixed values::1.0
+syntactic indicators::1.0
+is1 services::1.0
+excellent performance::1.0
+model discussed::1.0
+sociul studies::1.0
+..section deleted::1.0
+kensselner polytechnic::1.0
+unobserved variables::1.0
+set pnrtinonlng::1.0
+scientific library::1.0
+mentioned earlier::1.0
+additional fields::1.0
+2nd systems::1.0
+itcmsi abstract::1.0
+gradient descent::1.0
+partial ordcnng::1.0
+citeseer exists::1.0
+stemming heuristic::1.0
+algorithm introduced::1.0
+research institute::1.0
+emerging areas::1.0
+~pl rp~::1.0
+scction deleted::1.0
+rensselaer polytcchmc::1.0
+algorithm geoffrey::1.0
+valid research::1.0
+codnng rcwlt~::1.0
+investigate combining::1.0
+title information::1.0
+web crawler::1.0
+desired subfield::1.0
+\l.nmbdn am~r::1.0
+document frequency::1.0
+reported cxtens::1.0
+shows parsing::1.0
+reasons tar::1.0
+propulsion laboratory::1.0
+finding related::1.0
+published research::1.0
+citations related::1.0
+conferences means::1.0
+existing citation::1.0
+mngc squcnccs::1.0
+psnrlman ikpartment::1.0
+citeseer arc::1.0
+three-dimenslonat subband::1.0
+basis unit::1.0
+polytcchmc inwcuts::1.0
+probability densities::1.0
+citing publications::1.0
+fee provided::1.0
+downloads postscript::1.0
+uncommon citation::1.0
+rhetoricfirst model::1.0
+citations roughly::1.0
+document citations::1.0
+research group::1.0
+mnge compress::1.0
+library project::1.0
+reverse order::1.0
+nec research::1.0
+ccidf relatedness::1.0
+digitul libraries::1.0
+sets citations::1.0
+cray x-mp::1.0
+citation frequency::1.0
+cited documents::1.0
+fklp suelrestlons::1.0
+word matches::1.0
+scholarly work::1.0
+injtirmtltion science::1.0
+arc normalized::1.0
+~mnge codnng::1.0
+references eytan::1.0
+citation parsing::1.0
+blaise cronin::1.0
+retrieval methods::1.0
+john wiley::1.0
+pacific grove::1.0
+i+nd~ s~m~lnr::1.0
+surpass prewous::1.0
+nearest neighbor::1.0
+document information::1.0
+sequence codm::1.0
+social studies::1.0
+uvng ths::1.0
+probabilistic independence::1.0
+distance similarity::1.0
+zerotree wnvrlrt::1.0
+manuscript database::1.0
+common papers::1.0
+based retrieval::1.0
+conference oii::1.0
+citeseer helps::1.0
+commcrcial citation::1.0
+progressive key::1.0
+variant forms::1.0
+sample document::1.0
+term values::1.0
+likelihood parameter::1.0
+suffix stripping::1.0
+matching word::1.0
+articles made::1.0
+atrcady identified::1.0
+citation rankings::1.0
+obtain closed::1.0
+citeseer locates::1.0
+detailed listing::1.0
+major advantage::1.0
+citeseer downloads::1.0
+autonomously locates::1.0
+providing support::1.0
+c.-c jay::1.0
+mmmg entropy::1.0
+initial guess::1.0
+belief functions::1.0
+full citation::1.0
+american socier::1.0
+citeseer derives::1.0
+151a word::1.0
+machine learning::1.0
+finding recent::1.0
+citations cnn::1.0
+dlfterent scales::1.0
+context analysis::1.0
+statistics based::1.0
+etfectw wde::1.0
+systems engineermg::1.0
+linear systemsof::1.0
+citations made::1.0
+compression manuscript::1.0
+papers cite::1.0
+author affiliation::1.0
+language citations::1.0
+document body::1.0
+poritz 19x8::1.0
+spurious insertions::1.0
+cost-cffectivc tool::1.0
+updated autonomously::1.0
+encoded uvng::1.0
+create indexes::1.0
+relevant ncwsgroups::1.0
+citation leads::1.0
+weighting approaches::1.0
+register papers::1.0
+sets contained::1.0
+citeseer understands::1.0
+is1 databases::1.0
+represent local::1.0
+introduces citeseer::1.0
+similar itcmsi::1.0
+automatically informed::1.0
+cita tion::1.0
+state un~verxty::1.0
+topics documents::1.0
+similar ltcmsl::1.0
+navigation backward::1.0
+matching process::1.0
+relevant literature::1.0
+anshul gupta::1.0
+livermore national::1.0
+engmeermg kensselner::1.0
+researchers make::1.0
+nom fklp::1.0
+innovative tool::1.0
+large number::1.0
+semantic similarity::1.0
+probability propulsion::1.0
+originally designed::1.0
+mage wquences::1.0
+lower probabilities::1.0
+changing rapidly::1.0
+usa copyright::1.0
+citation based::1.0
+downloaded postscript::1.0
+reorders postscript::1.0
+information retrieval::1.0
+numbers detected::1.0
+suelrestlons query::1.0
+located independent::1.0
+exists whcrcas::1.0
+informed estimation::1.0
+stem values::1.0
+author names::1.0
+key references::1.0
+data structures::1.0
+factors contribute::1.0
+arc duplicates::1.0
+royal statistical::1.0
+single method::1.0
+two citations::1.0
+visual communlcntmns::1.0
+values represent::1.0
+feature problem::1.0
+isinet formation::1.0
+influence diagrams::1.0
+downloads papers::1.0
+isi databases::1.0
+related articles::1.0
+common authors::1.0
+citution indexing::1.0
+maintain user::1.0
+scalable scientific::1.0
+database citeseer::1.0
+correcting spurious::1.0
+computation aspects::1.0
+documents citeseer::1.0
+copies bear::1.0
+grouped correctly::1.0
+heglandand paul::1.0
+gbf networks::1.0
+thcsc methods::1.0
+zerotree wavelet::1.0
+jbr conjugate::1.0
+tar vlde::1.0
+home options::1.0
+bayesian inference::1.0
+optimal weighted::1.0
+partial differential::1.0
+pro cedures::1.0
+shorter citation::1.0
+statistical inference::1.0
+text search::1.0
+citeseer autonomously::1.0
+extremely fast::1.0
+cornell university::1.0
+matching conjugate::1.0
+video 1jsmg::1.0
+binary codes::1.0
+tech report::1.0
+scientific journals::1.0
+product distance::1.0
+important contributions::1.0
+location information::1.0
+author block::1.0
+individual similarity::1.0
+number exceeds::1.0
+require human::1.0
+comparison facility::1.0
+locate articles::1.0
+bit plane::1.0
+processor markus::1.0
+method based::1.0
+algorithm finds::1.0
+po-yuen cheng::1.0
+improving literature::1.0
+maximum number::1.0
+management decisions::1.0
+indexes include::1.0
+citations count::1.0
+prewous rrsults::1.0
+commercial citation::1.0
+user activity::1.0
+closed form::1.0
+brnr~l wllhnm::1.0
+relevant difference::1.0
+vppsooparallelvector supercomputcr::1.0
+detailed information::1.0
+autonomous citation::1.0
+network publications::1.0
+acknowledgments literature::1.0
+weight values::1.0
+traditional manual::1.0
+human limb::1.0
+entire database::1.0
+dscodlng algorithm::1.0
+average percentage::1.0
+processing institute::1.0
+string differences::1.0
+citeseer found::1.0
+sclt-stmllarity xxoss::1.0
+montecarlo sampling::1.0
+files identified::1.0
+hccome simply::1.0
+term weighting::1.0
+standard hmm::1.0
+recurrent criticism::1.0
+scholarly communication::1.0
+two authors::1.0
+separate thresholds::1.0
+coding scheme::1.0
+graphical model::1.0
+theory urrd::1.0
+header information::1.0
+phrase matchmg::1.0
+current commercial::1.0
+indexing process::1.0
+sophisticated form::1.0
+documents related::1.0
+complete words::1.0
+specific format::1.0
+compurntionally simple::1.0
+relevance feedback::1.0
+uncommon words::1.0
+author information::1.0
+vector space::1.0
+entropy codmg::1.0
+free energy::1.0
+reliably detected::1.0
+web search::1.0
+concept symbols::1.0
+network training::1.0
+hypcrlink creation::1.0
+neighbor search::1.0
+inherent noise::1.0
+image codrc::1.0
+arc indexed::1.0
+map estimate::1.0
+good results::1.0
+compresswn techmque::1.0
+`the reconstructed::1.0
+two text::1.0
+heuristic introduced::1.0
+comparison algorithm::1.0
+indexes preprints::1.0
+soft clustering::1.0
+simple algorithm::1.0
+acm-siam swposium::1.0
+represents semantically::1.0
+parameter estimates::1.0
+automatically creates::1.0
+califorma 90089-2564::1.0
+hwarchul trees::1.0
+multidisciplinary citation::1.0
+citcseer combines::1.0
+formally measured::1.0
+finding out::1.0
+tractable graph::1.0
+introduction literature::1.0
+gradient performance::1.0
+automatically determine::1.0
+4th acm-siam::1.0
+text retrieval::1.0
+represents completely::1.0
+thts paper::1.0
+annual conference::1.0
+full-text indexing::1.0
+document title::1.0
+similar items::1.0
+first converted::1.0
+mnge sequence::1.0
+training regimes::1.0
+precedes title::1.0
+completely trivial::1.0
+collection mcnt::1.0
+full text::1.0
+citeseer citeseer::1.0
+keseurch alert::1.0
+corn institute::1.0
+citeseer nom::1.0
+single words::1.0
+lilt stxs::1.0
+hcen done::1.0
+electronic format::1.0
+low number::1.0
+entire group::1.0
+articles found::1.0
+learning user::1.0
+dltferent ~mplrmrntntion::1.0
+vipin kumar::1.0
+identical articles::1.0
+target document::1.0
+jay kuo::1.0
+locating papers::1.0
+gradient methodsjbr::1.0
+user-specified topic::1.0
+processing threr~dlmension::1.0
+extract additional::1.0
+neural networks::1.0
+~dco codmg::1.0
+ymgwrl cbsn::1.0
+maximum likelihood::1.0
+urrd practice::1.0
+cited works::1.0
+text rely::1.0
+match substrings::1.0
+potential difficulties::1.0
+word ilst::1.0
+closely related::1.0
+good paradigm::1.0
+references contained::1.0
+unique ways::1.0
+research document::1.0
+recent relevant::1.0
+string distances::1.0
+taxonomy jbr::1.0
+acquisition cameron::1.0
+document picked::1.0
+watchmg user::1.0
+tar tts::1.0
+r.a olshen::1.0
+citeseer index::1.0
+majd sakr::1.0
+term frequency::1.0
+words arc::1.0
+tither additional::1.0
+comprehensive index::1.0
+ncgational reference::1.0
+levenshtein distance::1.0
+previous parsing::1.0
+exhaustively index::1.0
+steve lawrence::1.0
+articles matching::1.0
+citation similarity::1.0
+missing feature::1.0
+plane tmnsm~ss~::1.0
+dempster citations::1.0
+j*j glgg::1.0
+universal citation::1.0
+pages 73-89::1.0
+correct groups::1.0
+postscript tiles::1.0
+multiple articles::1.0
+page images::1.0
+considered identical::1.0
+extraneous words::1.0
+lawrence nec::1.0
+libraries `95::1.0
+incorrect citation::1.0
+s~m~lnr lrcmsl::1.0
+scholarly impact::1.0
+completely automatic::1.0
+first article::1.0
+los angeles::1.0
+identical documents::1.0
+publication venue::1.0
+xxoss dlfterent::1.0
+detailed document::1.0
+text distance::1.0
+invariants first::1.0
+automatic identification::1.0
+based similar::1.0
+cameron proposed::1.0
+citation made::1.0
+word vectors::1.0
+improved vrrs::1.0
+candidate documents::1.0
+future work::1.0
+anthmetlc code::1.0
+assessthe accuracy::1.0
+papers found::1.0
+performs poorly::1.0
+cyril goutte::1.0
+word weights::1.0
+-tree method::1.0
+padhraic smyth::1.0
+local computation::1.0
+gaussian-mixture codebooks::1.0
+minimization process::1.0
+error score::1.0
+mqe sequences::1.0
+mnge wweler::1.0
+eftiucnt image::1.0
+iteration consists::1.0
+manual indexes::1.0
+concepts discussed::1.0
+inverse document::1.0
+incremental algorithms::1.0
+journal names::1.0
+justifies incremental::1.0
+bibliographic coupling::1.0
+electrical enineenng-systems::1.0
+low rz~tes::1.0
+semantically identical::1.0
+blocking eftrcta::1.0
+semantic features::1.0
+normalized similarity::1.0
+prcvious group::1.0
+word weight::1.0
+..a .rl::1.0
+ccidf assumes::1.0
+database query::1.0
+digital libraries::1.0
+traditional techniques::1.0
+regular features::1.0
+slmllarlty ieee::1.0
+traditional systems::1.0
+variant algorithms::1.0
+first page::1.0
+grouping identical::1.0
+searchable::0.0
+limited::0.0
+walked  all hccome::0.0
+2nd systems engmeermg::0.0
+cedures::0.0
+entropy::0.0
+qntittns::0.0
+poorly::0.0
+relationships::0.0
+calculate::0.0
+similarity::0.0
+sprott::0.0
+documents of similar::0.0
+scholar::0.0
+venue::0.0
+solution::0.0
+markov::0.0
+itcmq implementation::0.0
+estimates::0.0
+approximation::0.0
+d.1977::0.0
+implemented::0.0
+c~rcum and systems::0.0
+irzfbrmatsii::0.0
+errors::0.0
+nec::0.0
+requiring context::0.0
+decoding::0.0
+kuo::0.0
+\l.nmbdn::0.0
+dcta~lc::0.0
+14:91-94::0.0
+indefinite systems.in::0.0
+xtu::0.0
+scientometrks::0.0
+brooks::0.0
+obtained::0.0
+wde::0.0
+reports::0.0
+rcsr::0.0
+browsing::0.0
+buckley::0.0
+criticism::0.0
+classification::0.0
+highly::0.0
+total::0.0
+unit::0.0
+presents::0.0
+:352362::0.0
+rlirv~::0.0
+browse::0.0
+abbreviations::0.0
+prescript::0.0
+padhraic::0.0
+substitutions::0.0
+citesccr include::0.0
+scction::0.0
+type::0.0
+requires prior specific::0.0
+preconditioned::0.0
+document retrieval methods::0.0
+nowlan::0.0
+excellent::0.0
+blocking::0.0
+kumar::0.0
+word::0.0
+listings of citations::0.0
+work::0.0
+erg::0.0
+containment::0.0
+missing features::0.0
+calculate the word::0.0
+updated::0.0
+comparative::0.0
+sclt-stmllarity::0.0
+syntactic::0.0
+provide::0.0
+machine::0.0
+citeseer can locate::0.0
+symposium::0.0
+contained citations::0.0
+electncnl::0.0
+earlier::0.0
+regression trees::0.0
+techniques to automatically::0.0
+indefinite systems.in symposium::0.0
+sncial::0.0
+parallel::0.0
+types::0.0
+vipin::0.0
+complexity::0.0
+maintain::0.0
+order::0.0
+innovative::0.0
+isbn::0.0
+nets::0.0
+vectorize::0.0
+hidden::0.0
+combination::0.0
+gerard::0.0
+powerful::0.0
+prcvious::0.0
+invariants::0.0
+reasonable::0.0
+series::0.0
+precedes::0.0
+citescer::0.0
+herbert::0.0
+extract::0.0
+network::0.0
+statistical society ser::0.0
+restricted::0.0
+is1::0.0
+vector::0.0
+adapt::0.0
+godambe::0.0
+independence::0.0
+mded::0.0
+linear::0.0
+vector computers::0.0
+free::0.0
+cxplwrat~o~~::0.0
+pufls::0.0
+formation::0.0
+full bayesian::0.0
+estimate::0.0
+perform::0.0
+three-dimenslonat::0.0
+created::0.0
+progrcss::0.0
+creates::0.0
+isi::0.0
+paper cited::0.0
+mpeg-2::0.0
+researcher::0.0
+:263-273::0.0
+coding::0.0
+ligurc::0.0
+electronic::0.0
+top::0.0
+areas of science::0.0
+spcctivc similarity::0.0
+percentage::0.0
+weighted matching::0.0
+wcexpect::0.0
+tool::0.0
+.ps.gz  extensions::0.0
+toronto::0.0
+distance::0.0
+ahmed::0.0
+keyword::0.0
+princeton::0.0
+compnxmn::0.0
+iteration::0.0
+normalizing::0.0
+project::0.0
+tion::0.0
+acquisition::0.0
+ran::0.0
+disambiguation::0.0
+manner::0.0
+ucrl-98508::0.0
+estimated::0.0
+extra effort::0.0
+oriented::0.0
+rxp::0.0
+research papers::0.0
+14:130-137,3::0.0
+infinite semantic::0.0
+cronin::0.0
+zealand::0.0
+grove::0.0
+calculated::0.0
+spiht::0.0
+~~y::0.0
+dow::0.0
+incomplete::0.0
+erg prescript::0.0
+heuristics::0.0
+syntax::0.0
+~11::0.0
+solutions::0.0
+substituting::0.0
+system is completely::0.0
+sophwuted::0.0
+mcnt::0.0
+academic permission::0.0
+invariants first  philosophy::0.0
+tiles::0.0
+mixture::0.0
+ng~nnl::0.0
+scalable::0.0
+altavista::0.0
+report::0.0
+fields::0.0
+architecture::0.0
+browsed::0.0
+automatic::0.0
+lkpartment::0.0
+set partltloning::0.0
+reference::0.0
+testing::0.0
+instance::0.0
+propulsion::0.0
+symposium on numerical::0.0
+approach::0.0
+urrd practice ojdigita1 libraries::0.0
+subbnnd::0.0
+sections::0.0
+networks for hidden::0.0
+titer motivations::0.0
+algortthm::0.0
+consists::0.0
+wth::0.0
+modeling::0.0
+hwarchx::0.0
+improve::0.0
+suggested::0.0
+candidate::0.0
+reported::0.0
+citation statistics::0.0
+journals::0.0
+cornell::0.0
+urls::0.0
+logic::0.0
+exceeds::0.0
+engmeermg kensselner polytechnic::0.0
+~i~::0.0
+q7j::0.0
+stem rrorn::0.0
+uvng::0.0
+conference::0.0
+basis::0.0
+quickly::0.0
+tind::0.0
+dots::0.0
+graphical::0.0
+excite::0.0
+c.-c::0.0
+credit to previous::0.0
+neal::0.0
+compurntionally::0.0
+discrete::0.0
+lesser::0.0
+practice ojdigita1::0.0
+brnr~l::0.0
+similar origin::0.0
+parsing of natural::0.0
+explanation::0.0
+conf::0.0
+descent::0.0
+make::0.0
+mixtures::0.0
+zero-tree coding scheme::0.0
+distance citeseer::0.0
+independent::0.0
+difference between cameron::0.0
+vectorization::0.0
+numerical::0.0
+hand::0.0
+normalization::0.0
+ths::0.0
+academic::0.0
+cover the significant::0.0
+paradigm::0.0
+learning::0.0
+proposed::0.0
+ofjournals or restricted::0.0
+subsequent articles::0.0
+identify::0.0
+human::0.0
+previous::0.0
+unique::0.0
+monitored::0.0
+ncgational::0.0
+prewous::0.0
+royal::0.0
+transformed::0.0
+research topics::0.0
+comparable to mpeg-2::0.0
+possibly::0.0
+wide-spread::0.0
+judge::0.0
+disadvantage::0.0
+heglandand::0.0
+performing::0.0
+manual::0.0
+specific::0.0
+system indexes::0.0
+whcrcas cameron s system::0.0
+create a comprehensive::0.0
+nltcrnat~vc explnnnt~on::0.0
+sociology::0.0
+comments::0.0
+cnn::0.0
+indication::0.0
+systemsof::0.0
+minimization::0.0
+deleted::0.0
+citations  baseline simple::0.0
+corn::0.0
+computed an error::0.0
+post::0.0
+205-247::0.0
+limitation::0.0
+presence::0.0
+file is checked::0.0
+effort during indexing::0.0
+existed::0.0
+rely::0.0
+compression::0.0
+support::0.0
+initial::0.0
+transform::0.0
+researchers::0.0
+corrcsponding::0.0
+likeit string::0.0
+on-line::0.0
+form::0.0
+attempted::0.0
+differences::0.0
+set::0.0
+removed::0.0
+builds::0.0
+maximum::0.0
+document acquisition cameron::0.0
+computing::0.0
+evidence::0.0
+postscript::0.0
+zerotree::0.0
+pnrtmon~np::0.0
+check::0.0
+constructed::0.0
+citations matching dempster::0.0
+papers::0.0
+methods for computing::0.0
+holt::0.0
+intend::0.0
+models::0.0
+unicamp::0.0
+ltcmsl block jacobi::0.0
+ojdigita1::0.0
+mcasures::0.0
+ordcnng::0.0
+faster::0.0
+nwww.neci.nj.nec.com::0.0
+weight from the jth::0.0
+commercial advantage::0.0
+located using common::0.0
+backward::0.0
+updates::0.0
+users may register::0.0
+leads::0.0
+computation::0.0
+dimensionality::0.0
+mailing::0.0
+graph::0.0
+show::0.0
+browsing detailed::0.0
+editors::0.0
+similarity distance::0.0
+marks::0.0
+downloading::0.0
+string::0.0
+advantage::0.0
+itcmq::0.0
+important difference::0.0
+trends in syntactic::0.0
+bayesian methods::0.0
+lo.o::0.0
+upper::0.0
+achieve reasonably good::0.0
+maximization::0.0
+cost::0.0
+formatting::0.0
+uniform::0.0
+current::0.0
+view::0.0
+otfcr::0.0
+1vi::0.0
+downloaded::0.0
+groups::0.0
+based::0.0
+knowledge::0.0
+fujitsu s vppsooparallelvector supercomputcr::0.0
+commonly::0.0
+complexity aspects::0.0
+1jsmg the zero-tree::0.0
+create more up-to-date::0.0
+navigation::0.0
+inference::0.0
+algorithm nchwves results::0.0
+indexing performed::0.0
+user-sare::0.0
+elecrr~cnl::0.0
+give::0.0
+whxh::0.0
+rz~tes::0.0
+encode::0.0
+hinton::0.0
+diagrams::0.0
+327-340::0.0
+browsable::0.0
+clicking::0.0
+share::0.0
+visual::0.0
+effort::0.0
+pnrtinonlng i  hwarchul::0.0
+arc hand::0.0
+contained in academic::0.0
+values::0.0
+sorting algortthm::0.0
+similarity mentioned::0.0
+figure::0.0
+predict::0.0
+whcrcas::0.0
+topic::0.0
+weighting::0.0
+incremental::0.0
+performed::0.0
+measures as described::0.0
+occur::0.0
+normalize::0.0
+two words::0.0
+discussion::0.0
+cites::0.0
+subroutines::0.0
+pins::0.0
+parameter::0.0
+map::0.0
+southern::0.0
+4th::0.0
+designed::0.0
+date::0.0
+j.h::0.0
+classroom::0.0
+natural::0.0
+dctai1.s::0.0
+appkd::0.0
+similarity mcasures::0.0
+kurt::0.0
+find the maximum::0.0
+tts::0.0
+thresholds::0.0
+find::0.0
+feature::0.0
+retrieval is subjectively::0.0
+statistical::0.0
+ieee::0.0
+cited::0.0
+group::0.0
+jin::0.0
+interesting::0.0
+facility::0.0
+forms::0.0
+tested for identifying::0.0
+listing::0.0
+stemming::0.0
+nom::0.0
+group marks::0.0
+matches::0.0
+http::0.0
+total number::0.0
+parsing::0.0
+term::0.0
+january::0.0
+eftrcta::0.0
+giles97::0.0
+sameh::0.0
+full-text::0.0
+persuasian::0.0
+weighted::0.0
+retrieve::0.0
+significantly::0.0
+academic articles::0.0
+wellknown efficient::0.0
+author s response::0.0
+kclntedpapers::0.0
+year::0.0
+topics::0.0
+canada::0.0
+citcseer::0.0
+found that citation::0.0
+space::0.0
+previous citation indexing::0.0
+navigating::0.0
+internet::0.0
+shows::0.0
+method ymgwrl cbsn::0.0
+theory::0.0
+errors or incomplete::0.0
+possibility::0.0
+california::0.0
+algorithm nchwves::0.0
+spie\::0.0
+research.nj.nec.com::0.0
+training::0.0
+fixed::0.0
+efficient approach::0.0
+language::0.0
+listings::0.0
+califorma::0.0
+citescer includes::0.0
+otfcr nn nltcrnat~vc::0.0
+articles that user-sare::0.0
+frequenq::0.0
+strings is simply::0.0
+origin::0.0
+chris buckley::0.0
+shapiro::0.0
+variables::0.0
+powerful interactive::0.0
+livermore national laboratory::0.0
+other-s::0.0
+message::0.0
+derives::0.0
+checked::0.0
+hccome::0.0
+1:12-25::0.0
+substitutions of letters::0.0
+hwarchul::0.0
+literature in unique::0.0
+parsing statistics::0.0
+cita::0.0
+structures::0.0
+cite::0.0
+bear::0.0
+ashby::0.0
+citeseer compared::0.0
+pittsburgh::0.0
+accurately::0.0
+copy::0.0
+effective::0.0
+require::0.0
+future::0.0
+duplicates::0.0
+published::0.0
+keseurch::0.0
+ncwsgroups::0.0
+ann::0.0
+locations::0.0
+generalization::0.0
+large numbei::0.0
+questions::0.0
+citeseer::0.0
+conversion::0.0
+73-89::0.0
+ll~ ; lilq::0.0
+ltcmsl::0.0
+c71::0.0
+preselected::0.0
+~lkl\vill  a~l::0.0
+note::0.0
+sl~lllx::0.0
+potential::0.0
+mnge::0.0
+journul::0.0
+online::0.0
+performance::0.0
+multiple::0.0
+friedman::0.0
+compress::0.0
+rankin::0.0
+supercomputcr::0.0
+initial keyword::0.0
+wavelct::0.0
+pair::0.0
+eytan adar::0.0
+current article::0.0
+pages::0.0
+considered::0.0
+average::0.0
+copyright acm::0.0
+catalyst::0.0
+walking::0.0
+i,21::0.0
+troy::0.0
+spaces::0.0
+fletcher::0.0
+encoded::0.0
+threshold::0.0
+-the second annual::0.0
+title::0.0
+accurate estimation::0.0
+written::0.0
+previous work::0.0
+27:98-l::0.0
+dissembling::0.0
+ranking::0.0
+normalizations::0.0
+expectation::0.0
+codrc::0.0
+set ofjournals::0.0
+summary::0.0
+tfidf::0.0
+showing::0.0
+vision::0.0
+publication delays::0.0
+code i slmilxlty spie\::0.0
+techniques and additional::0.0
+bibliographic citations::0.0
+difticulty::0.0
+ways::0.0
+subsequent::0.0
+justifies::0.0
+label::0.0
+pearlman::0.0
+jth::0.0
+engmeermg::0.0
+deletions::0.0
+muximum::0.0
+notice::0.0
+article::0.0
+motivations::0.0
+adar and jeremy::0.0
+zero-tree::0.0
+tractable::0.0
+methods in nddltlon::0.0
+personal::0.0
+krovetz::0.0
+lrcmsl::0.0
+multidisciplinary::0.0
+stream::0.0
+gaussian-mixture::0.0
+sampling::0.0
+mded t  three-dlmenslon::0.0
+oji1ocurnentution::0.0
+isinet::0.0
+user feedback::0.0
+considers::0.0
+system which indexes::0.0
+combines::0.0
+computational masons::0.0
+ii7c::0.0
+informed::0.0
+mark::0.0
+combined::0.0
+marr::0.0
+judging::0.0
+am~r::0.0
+swposium::0.0
+followup::0.0
+stems::0.0
+bayesian::0.0
+mcasures between two::0.0
+case::0.0
+,nsm~ss~::0.0
+profiles::0.0
+cast::0.0
+iknvnload::0.0
+.`rlj::0.0
+eugene::0.0
+mqe::0.0
+conferences::0.0
+metric::0.0
+report 97-093::0.0
+incomplete fields::0.0
+technology::0.0
+..section::0.0
+model searching::0.0
+granted::0.0
+html::0.0
+mixture modeling::0.0
+autonomously::0.0
+investigated::0.0
+fujitsu s vppsooparallelvector::0.0
+oii::0.0
+disadvantages::0.0
+downloads::0.0
+expectation-maximization::0.0
+po-yuen::0.0
+three-dlmenslon::0.0
+systems.in::0.0
+shared::0.0
+markus::0.0
+arrangements indicates documents::0.0
+components::0.0
+model::0.0
+library subroutines::0.0
+bodies::0.0
+actions::0.0
+systems tar::0.0
+aspect::0.0
+first discussed::0.0
+query to citeseer::0.0
+~jl::0.0
+weekly::0.0
+prior specific permission::0.0
+heuristic::0.0
+set the weights::0.0
+~mplrmrntntion::0.0
+interested::0.0
+sublields::0.0
+0.5+::0.0
+aspects::0.0
+represents::0.0
+digital::0.0
+cameron s vision::0.0
+early::0.0
+world::0.0
+accepted::0.0
+correcting::0.0
+identifying::0.0
+reduces::0.0
+faber::0.0
+ith output::0.0
+citesecr::0.0
+un~verxty::0.0
+completely::0.0
+grouping::0.0
+jth basis::0.0
+ezw::0.0
+pacific::0.0
+respect::0.0
+images::0.0
+matching::0.0
+problemy::0.0
+takes into account::0.0
+distance is based::0.0
+semantically::0.0
+references made::0.0
+institutions to provide::0.0
+biased::0.0
+scientific::0.0
+power::0.0
+oliver::0.0
+found::0.0
+inwcuts::0.0
+comparison::0.0
+stone::0.0
+hypcrlink::0.0
+permission and a fee::0.0
+discussed::0.0
+discretization of partial::0.0
+acm::0.0
+cl1::0.0
+practical::0.0
+neighbor::0.0
+systems.in symposium::0.0
+-tree::0.0
+references::0.0
+determine::0.0
+wadsworth::0.0
+log::0.0
+area::0.0
+partltloning sorting algortthm::0.0
+los::0.0
+mngc::0.0
+nzdl::0.0
+low::0.0
+closed::0.0
+assumes::0.0
+cost-cffectivc::0.0
+complete::0.0
+regard::0.0
+sophisticated::0.0
+likeit intelligent string::0.0
+socier::0.0
+darken::0.0
+embedded::0.0
+communlcntmns and image::0.0
+freyllenq::0.0
+regimes::0.0
+detailed::0.0
+laird::0.0
+unit to the ith::0.0
+choosing unit::0.0
+rmntt::0.0
+describe::0.0
+general::0.0
+laboratory::0.0
+truncation::0.0
+incorrect::0.0
+prmc~ples::0.0
+hart::0.0
+track of topics::0.0
+links allow navigating::0.0
+acknowledgments::0.0
+database would include::0.0
+valid::0.0
+separate::0.0
+includes::0.0
+important::0.0
+track::0.0
+chris::0.0
+document for computational::0.0
+adar::0.0
+19x8::0.0
+gradient::0.0
+campmas::0.0
+rhetoricfirst::0.0
+starting::0.0
+original::0.0
+article in figure::0.0
+represent::0.0
+semantic::0.0
+gupta::0.0
+classification and regression::0.0
+on-the-fly::0.0
+values are betwecn::0.0
+decisions::0.0
+similar arrangements::0.0
+ll~::0.0
+pearlman @ rcsr::0.0
+removal::0.0
+polytcchmc::0.0
+codnng::0.0
+vlde::0.0
+helps by making::0.0
+325-339::0.0
+based on fields::0.0
+05~::0.0
+sons::0.0
+worst::0.0
+polytechnic::0.0
+zero-tree method::0.0
+difference::0.0
+whcrc::0.0
+c~rcum::0.0
+computntlonslly::0.0
+document makes::0.0
+.ps.z::0.0
+rrsults::0.0
+springer-verlag::0.0
+large::0.0
+acquisition cameron proposed::0.0
+society ser::0.0
+small::0.0
+system c lee::0.0
+perat::0.0
+121-141::0.0
+ted::0.0
+titles::0.0
+section::0.0
+manually set::0.0
+trees \l.nmbdn am~r::0.0
+public::0.0
+90089-2564::0.0
+fklp::0.0
+a~l::0.0
+full::0.0
+manually::0.0
+tags::0.0
+dltferent::0.0
+method::0.0
+standard::0.0
+equations::0.0
+publisher::0.0
+search::0.0
+d.a::0.0
+prior::0.0
+amount::0.0
+social::0.0
+correct::0.0
+options::0.0
+sci::0.0
+order to extract::0.0
+identification::0.0
+requiring::0.0
+betwecn::0.0
+saylory::0.0
+techmque::0.0
+partltloning sorting::0.0
+conjugate gradient methodsjbr::0.0
+cxplwrat~o~~ ot sclt-stmllarity::0.0
+hylton::0.0
+takes::0.0
+probabilities::0.0
+two::0.0
+extraneous::0.0
+iteratively::0.0
+solving linear systemsof::0.0
+word oriented::0.0
+c.j::0.0
+words and characters::0.0
+scientific library subroutines::0.0
+hidden markov probability::0.0
+problem::0.0
+tested::0.0
+finds maximum::0.0
+text file::0.0
+foundations::0.0
+analogous::0.0
+parse::0.0
+keeping::0.0
+citation strings::0.0
+15:437447::0.0
+compare::0.0
+rumple::0.0
+citation database citeseer::0.0
+mpensat~::0.0
+suggestions::0.0
+pro::0.0
+anthmetlc::0.0
+numbers::0.0
+arise::0.0
+phrase::0.0
+paul e saylory::0.0
+longest::0.0
+concept::0.0
+information::0.0
+algorithms::0.0
+surpassed::0.0
+cite the first::0.0
+frequencies::0.0
+rensselaer polytcchmc inwcuts::0.0
+intended::0.0
+binary::0.0
+block preconditioning::0.0
+wiley::0.0
+variant::0.0
+mapping::0.0
+adds citation::0.0
+plane::0.0
+rinehart::0.0
+response::0.0
+interactive browsing::0.0
+injtirmtltion::0.0
+r.a::0.0
+documentation::0.0
+describe the document::0.0
+retrieval::0.0
+distinguish subfields::0.0
+likeit considers::0.0
+~lkl\vill::0.0
+taxonomy::0.0
+number for page::0.0
+identifying and grouping::0.0
+paper::0.0
+existence::0.0
+subbnnd codmg::0.0
+29:351-372::0.0
+features::0.0
+rapidly::0.0
+tool for indexing::0.0
+solving::0.0
+complex::0.0
+slmllarlty::0.0
+followup comments::0.0
+detected::0.0
+sorts the citations::0.0
+systems::0.0
+jacobi::0.0
+hidden units::0.0
+tar vlde  technology::0.0
+good::0.0
+return::0.0
+scholar with internet::0.0
+lilq models::0.0
+hyphens::0.0
+advantages of citesccr::0.0
+traditional citation indexing::0.0
+early edit::0.0
+llkelt::0.0
+easily::0.0
+document::0.0
+level::0.0
+work on citeseer::0.0
+yianilos::0.0
+significant scientific::0.0
+inherent::0.0
+subsequent work::0.0
+judging the important::0.0
+squcnccs::0.0
+modification frequency::0.0
+as1::0.0
+weight::0.0
+generation::0.0
+energy::0.0
+hard::0.0
+first  philosophy::0.0
+expect::0.0
+phrases::0.0
+parsing performance::0.0
+operation::0.0
+71of::0.0
+feedback _ citations::0.0
+btxned::0.0
+robert::0.0
+projected::0.0
+converts::0.0
+research::0.0
+induced::0.0
+evaluation::0.0
+dots not require::0.0
+stem values represent::0.0
+belief::0.0
+lawrence::0.0
+improve vectorization::0.0
+pcrtwmed::0.0
+j*j::0.0
+asi::0.0
+beginning::0.0
+national laboratory::0.0
+fill text::0.0
+e.g::0.0
+computers::0.0
+american::0.0
+articles cite::0.0
+37134-36::0.0
+assign::0.0
+cameron s system::0.0
+major::0.0
+probability::0.0
+number::0.0
+linking::0.0
+instances::0.0
+done::0.0
+fixed values hv::0.0
+numbei::0.0
+changing::0.0
+cozens::0.0
+notions of interesting::0.0
+ccidf dot::0.0
+differ::0.0
+algorithm for suffix::0.0
+jet::0.0
+libraries `95 -the::0.0
+introduction::0.0
+is1 citation::0.0
+cnmpmns::0.0
+scheme::0.0
+distance between headers::0.0
+sequences of two::0.0
+relationship::0.0
+exploited to obtain::0.0
+blaise::0.0
+types of distance::0.0
+part::0.0
+differentiate::0.0
+mmmg::0.0
+corpus::0.0
+john::0.0
+affiliation::0.0
+results comparable::0.0
+matchmg llkelt::0.0
+rensselaer::0.0
+likeit based automatic::0.0
+interactive::0.0
+sample response::0.0
+roughly::0.0
+citations easily::0.0
+brent::0.0
+wquences::0.0
+multivalued::0.0
+conjugate::0.0
+scheme the algorithm::0.0
+group contained::0.0
+manually grouped::0.0
+extracted::0.0
+estimation for pins::0.0
+build::0.0
+wide-spread applicability::0.0
+`95::0.0
+`96::0.0
+added::0.0
+statistics on citation::0.0
+measures::0.0
+dot product distance::0.0
+text is extracted::0.0
+significant::0.0
+services::0.0
+adds::0.0
+measured::0.0
+theory urrd practice ojdigita1::0.0
+ccidf::0.0
+understands::0.0
+sociul::0.0
+cover::0.0
+ojdigita1 libraries::0.0
+traditional::0.0
+assistance::0.0
+automatically::0.0
+indexes were originally::0.0
+saylor::0.0
+.rl::0.0
+solution of triangular::0.0
+networks::0.0
+impact::0.0
+based on common::0.0
+documents similar::0.0
+copyright::0.0
+distributed::0.0
+considers citation::0.0
+electncnl engmeenng::0.0
+wde  compresswn techmque::0.0
+academic literature::0.0
+browsing via citation::0.0
+jacobi for vector::0.0
+permission::0.0
+spurious::0.0
+pnrtinonlng::0.0
+common preconditioning::0.0
+wdw::0.0
+valuable::0.0
+closely::0.0
+referencing::0.0
+items::0.0
+keywords conjugate::0.0
+nltcrnat~vc::0.0
+target::0.0
+engmeenng::0.0
+coincidence::0.0
+investigate::0.0
+search engines::0.0
+common::0.0
+activity::0.0
+locating::0.0
+university of southern::0.0
+hnsed::0.0
+ser::0.0
+automatic similar document::0.0
+taxonornx::0.0
+arc::0.0
+helpful discussions::0.0
+arm::0.0
+-the::0.0
+tend::0.0
+highest rj values::0.0
+headers::0.0
+libraries::0.0
+letters rcquired::0.0
+conditions::0.0
+unobserved::0.0
+responses::0.0
+missing::0.0
+numer::0.0
+scalability::0.0
+sections describe::0.0
+implementation and performance::0.0
+x-mp::0.0
+ranked::0.0
+premise::0.0
+distinguish::0.0
+.`a::0.0
+improved::0.0
+reverse::0.0
+giles::0.0
+annual::0.0
+lee giles::0.0
+context::0.0
+sncial studies::0.0
+autonomous citation indexing::0.0
+reduce::0.0
+study::0.0
+point::0.0
+reasons::0.0
+pnnciples::0.0
+header::0.0
+words in similar::0.0
+~nsxx~ons::0.0
+rrorn::0.0
+indefinite::0.0
+factors::0.0
+usenet::0.0
+described::0.0
+three-dlmenslon t  encode::0.0
+lawrence livermore national::0.0
+grouping variant::0.0
+geoffrey::0.0
+reduction::0.0
+citations::0.0
+document components::0.0
+contained::0.0
+prior specific::0.0
+performance and scalability::0.0
+research.nj.nec.com abstract::0.0
+box::0.0
+suflcient::0.0
+wnvrlrt::0.0
+cvaluatc::0.0
+stripping::0.0
+user-sare interested::0.0
+cited ? current::0.0
+finds::0.0
+presented::0.0
+implementation of block::0.0
+expanded::0.0
+garfield::0.0
+institute::0.0
+substrings::0.0
+explnnnt~on::0.0
+hcen::0.0
+computed::0.0
+suelrestlons::0.0
+vol::0.0
+similarity of citations::0.0
+.journals::0.0
+baseline::0.0
+glgg::0.0
+lengths::0.0
+matching lo.o::0.0
+shorter::0.0
+prcv~osly reported::0.0
+modification::0.0
+wweler::0.0
+composition::0.0
+literature::0.0
+journal oji1ocurnentution::0.0
+comprehensive::0.0
+commcrcial::0.0
+alert::0.0
+pnnciples are partial::0.0
+user::0.0
+dlfterent::0.0
+bob::0.0
+method ymgwrl::0.0
+recent::0.0
+jbr::0.0
+database::0.0
+studies::0.0
+likeit::0.0
+analysis::0.0
+cleary::0.0
+elet::0.0
+organization::0.0
+mon::0.0
+distances::0.0
+proceedings of digitul::0.0
+first query::0.0
+..a::0.0
+cifeseer::0.0
+mailing lists::0.0
+comprehensively::0.0
+indexes::0.0
+rectrnstructrd::0.0
+citations are extracted::0.0
+makes the citations::0.0
+digitul libraries `95::0.0
+introduced by porter::0.0
+location::0.0
+relevance::0.0
+multidisciplinary citation indexes::0.0
+citeseer can index::0.0
+ith output unit::0.0
+rcsr rpt::0.0
+march::0.0
+evaluate::0.0
+subfield::0.0
+indexed::0.0
+articles that researchers::0.0
+s~m~lnr lrcmsl abstract::0.0
+elw::0.0
+moody::0.0
+computational complexity::0.0
+quickly browsable::0.0
+signal::0.0
+continue::0.0
+rabiner::0.0
+names::0.0
+grouped::0.0
+methods::0.0
+dempster::0.0
+i+nd~::0.0
+eftiucnt::0.0
+sample database::0.0
+creation::0.0
+advantages::0.0
+understood::0.0
+goutte::0.0
+poritz::0.0
+belief nets::0.0
+nddltlon::0.0
+scale::0.0
+method for comparison::0.0
+decision::0.0
+transactions::0.0
+postscript files identified::0.0
+first sorts::0.0
+proc::0.0
+semantic differences::0.0
+processing::0.0
+agreement::0.0
+stem::0.0
+step::0.0
+generation of citation::0.0
+output::0.0
+mparnble::0.0
+`the::0.0
+significant journals::0.0
+values hv::0.0
+kensselner::0.0
+i.e::0.0
+`rl1::0.0
+1jsmg::0.0
+block::0.0
+plan::0.0
+computational::0.0
+comments or responses::0.0
+profit::0.0
+`the ~mnge codnng::0.0
+servers::0.0
+iterate::0.0
+file is stored::0.0
+vrrs::0.0
+clustering::0.0
+statistics::0.0
+etfectw::0.0
+probabilistic::0.0
+fast::0.0
+found in citations::0.0
+forward::0.0
+index articles::0.0
+psnrlman::0.0
+subfields::0.0
+files::0.0
+subjectively::0.0
+link::0.0
+russian::0.0
+arc currently expanded::0.0
+cbsn::0.0
+delay for journals::0.0
+inverse::0.0
+intuitive::0.0
+algorithm which first::0.0
+gorithm::0.0
+ylngwrl::0.0
+.ar::0.0
+majd::0.0
+sum::0.0
+updated with relevance::0.0
+autonomous::0.0
+sakr::0.0
+similar::0.0
+steve lawrence nec::0.0
+ordered::0.0
+projected gradient::0.0
+slmilxlty::0.0
+influence::0.0
+transm::0.0
+single::0.0
+l-32::0.0
+home::0.0
+formally::0.0
+titer::0.0
+parsed::0.0
+codes::0.0
+humanities::0.0
+image::0.0
+application::0.0
+assessthe::0.0
+yang::0.0
+electrical::0.0
+department::0.0
+tech::0.0
+identical and added::0.0
+radford::0.0
+livermore::0.0
+users::0.0
+provided::0.0
+problems::0.0
+maximum likelihood parameter::0.0
+william::0.0
+generated::0.0
+allowing::0.0
+vectors::0.0
+finding::0.0
+structure::0.0
+c.s::0.0
+algorithm::0.0
+established::0.0
+required::0.0
+ltcms::0.0
+walked::0.0
+wllhnm::0.0
+weights::0.0
+dot::0.0
+tmy::0.0
+international::0.0
+requires::0.0
+compression database::0.0
+code::0.0
+partial::0.0
+automatic citation indexing::0.0
+temsl::0.0
+codm::0.0
+results::0.0
+eds::0.0
+ilst::0.0
+efficient::0.0
+query::0.0
+concepts::0.0
+contributions::0.0
+issues::0.0
+detects::0.0
+hard copies::0.0
+citeseer detects::0.0
+lower::0.0
+citing::0.0
+institutions::0.0
+helps::0.0
+cited in subsequent::0.0
+algorithm takes::0.0
+include::0.0
+sl~lllx itcmn~~::0.0
+include citation::0.0
+stxs::0.0
+searching and estimation::0.0
+lowercase::0.0
+sorting::0.0
+cod~np::0.0
+relet::0.0
+entire::0.0
+redistribute::0.0
+related document retrieval::0.0
+skipped::0.0
+porter::0.0
+articles based::0.0
+bollacker::0.0
+automatic similar::0.0
+originally::0.0
+estimation of statistics::0.0
+v.p::0.0
+keywords::0.0
+imply::0.0
+video::0.0
+interval::0.0
+picked::0.0
+mantcuffel::0.0
+download::0.0
+winston::0.0
+specific citation::0.0
+peredachi::0.0
+register::0.0
+rcwlt~::0.0
+index::0.0
+formats::0.0
+vppsooparallelvector::0.0
+wide::0.0
+giving::0.0
+codes capable::0.0
+feedback::0.0
+access::0.0
+human to assessthe::0.0
+etfectw wde  compresswn::0.0
+referees::0.0
+vw~~::0.0
+body::0.0
+lee::0.0
+bibliographic::0.0
+computer science::0.0
+subhand::0.0
+commercial::0.0
+rffectlvr::0.0
+desired::0.0
+explore::0.0
+ktnll::0.0
+separation::0.0
+making::0.0
+tests and results::0.0
+technical::0.0
+larger::0.0
+technolog::0.0
+document similarity::0.0
+implementation::0.0
+symp::0.0
+hidden markov::0.0
+xxoss::0.0
+delays::0.0
+provide citation::0.0
+up-to-date::0.0
+addresses::0.0
+nearest::0.0
+97-093::0.0
+citeseer uses web::0.0
+threr~dlmension::0.0
+citeseer nom fklp::0.0
+limb::0.0
+tools::0.0
+database of research::0.0
+announced::0.0
+fee::0.0
+subsequent publications::0.0
+usa::0.0
+explore new distance::0.0
+conjugate projected::0.0
+cray::0.0
+information and citation::0.0
+means::0.0
+triangular systems::0.0
+sort::0.0
+zealand digital library::0.0
+compresswn::0.0
+ith::0.0
+southern california::0.0
+`95 -the::0.0
+normalized::0.0
+codmg::0.0
+sample::0.0
+account::0.0
+significant difticulty::0.0
+list::0.0
+salton::0.0
+publications::0.0
+oii the theory::0.0
+ylngwrl @ ~pl::0.0
+general metric::0.0
+refine::0.0
+masons::0.0
+anshul::0.0
+tar::0.0
+process::0.0
+methodsjbr::0.0
+response showing::0.0
+purposes::0.0
+reconstructed::0.0
+tag::0.0
+ahsrruct::0.0
+expect that block::0.0
+ofjournals::0.0
+credit::0.0
+j~jed::0.0
+locates::0.0
+number of words::0.0
+parses::0.0
+delay::0.0
+located::0.0
+scientific information::0.0
+smallest likeit::0.0
+indexes academic::0.0
+methods of document::0.0
+gradient methodsjbr indefinite::0.0
+jth basis unit::0.0
+philosophy::0.0
+collection::0.0
+trees::0.0
+specific permission::0.0
+introduced::0.0
+discrete algorithms::0.0
+complex titer::0.0
+correspond::0.0
+processor::0.0
+citations to make::0.0
+steve::0.0
+algorithm similar::0.0
+1vi highest::0.0
+produces::0.0
+atrcady::0.0
+extracted from neural::0.0
+discretization::0.0
+difticulty for implementation::0.0
+symbols::0.0
+key word ilst::0.0
+including::0.0
+90089-2564 kclntedpapers::0.0
+parameters::0.0
+page and relevant::0.0
+trees \l.nmbdn::0.0
+advantages over traditional::0.0
+mailin::0.0
+rubin::0.0
+choose::0.0
+communication::0.0
+set pnrtmon~np::0.0
+requires prior::0.0
+obtain closed form::0.0
+considers distance::0.0
+slmilxlty spie\::0.0
+practice::0.0
+indexing::0.0
+paper introduces::0.0
+services include::0.0
+articles::0.0
+february::0.0
+edit::0.0
+university::0.0
+identified::0.0
+statis::0.0
+prcv~osly::0.0
+product::0.0
+related::0.0
+society::0.0
+frequency::0.0
+measure::0.0
+citation based similar::0.0
+preconditioning::0.0
+out::0.0
+parallel computers::0.0
+list of indexed::0.0
+russian problemy peredachi::0.0
+performs::0.0
+network belief::0.0
+umte.vt::0.0
+heuristics in order::0.0
+math::0.0
+created three sets::0.0
+monrlu~~::0.0
+digitul::0.0
+approaches::0.0
+york::0.0
+trends::0.0
+likelihood::0.0
+shortest::0.0
+ijc\`\::0.0
+find related articles::0.0
+verify::0.0
+determining::0.0
+wde  compresswn::0.0
+~pl::0.0
+length::0.0
+specification::0.0
+tar tts excellent::0.0
+degree::0.0
+autonomous operation::0.0
+manuscript::0.0
+based automatic::0.0
+monographic::0.0
+fnwlty::0.0
+improving::0.0
+improvements::0.0
+codrc based::0.0
+art::0.0
+ofscience::0.0
+cxtcnded::0.0
+management::0.0
+publication::0.0
+ordering::0.0
+data::0.0
+tmnsm~ss~::0.0
+system::0.0
+itcmsi::0.0
+siam::0.0
+pi-ogrum::0.0
+interests::0.0
+digital library::0.0
+macroberts::0.0
+bibliometrics::0.0
+lists::0.0
+notions::0.0
+fuzzy::0.0
+rffectlvr and compurntionally::0.0
+concept of citation::0.0
+observed::0.0
+subroutine::0.0
+am~r snld::0.0
+independent of language::0.0
+submitted::0.0
+internet access::0.0
+r~g~nal::0.0
+identical::0.0
+urrd practice ojdigita1::0.0
+providing::0.0
+established for solving::0.0
+urrd::0.0
+i+nd~ s~m~lnr lrcmsl::0.0
+based on word::0.0
+plans::0.0
+false::0.0
+zerotree wavelct::0.0
+cronin and herbert::0.0
+spcctivc::0.0
+reorders::0.0
+discussions::0.0
+codebooks::0.0
+learning user notions::0.0
+likelihood parameter estimates::0.0
+bob krovetz::0.0
+documents::0.0
+wweler transform::0.0
+maximum-a-posteriori::0.0
+conference articles::0.0
+lilt::0.0
+scalable scientific library::0.0
+lilq::0.0
+combining::0.0
+user notions::0.0
+techniques::0.0
+accuracy::0.0
+eirst::0.0
+equations that arise::0.0
+numbei of documents::0.0
+ymgwrl::0.0
+numerical tests::0.0
+subband::0.0
+itcmn~~ abstract::0.0
+placement::0.0
+url::0.0
+produces multidisciplinary citation::0.0
+downloaded documents::0.0
+proceedings::0.0
+fujitsu::0.0
+error::0.0
+databases::0.0
+manteuffel::0.0
+fact::0.0
+extensions::0.0
+citutinn::0.0
+optimal::0.0
+emerging::0.0
+selection::0.0
+science cita::0.0
+text::0.0
+automated::0.0
+rp~::0.0
+file::0.0
+trivial::0.0
+projection::0.0
+regular::0.0
+imply scholarly::0.0
+format::0.0
+indexes the institute::0.0
+cyril::0.0
+ikpartment::0.0
+thts::0.0
+jay::0.0
+systems of equations::0.0
+related document retrieval system::0.0
+citations  baseline::0.0
+bibliography section::0.0
+score::0.0
+matchmg::0.0
+ambiguity::0.0
+local::0.0
+achieve::0.0
+contents::0.0
+individual citations::0.0
+first::0.0
+exploited::0.0
+made::0.0
+words::0.0
+numbers roughly::0.0
+sorts::0.0
+areas::0.0
+gbf::0.0
+densities::0.0
+autonomously by watchmg::0.0
+partltloning::0.0
+differential::0.0
+variants radford::0.0
+nchwves results::0.0
+queries::0.0
+snld::0.0
+exists::0.0
+rcquired::0.0
+gaussian mixture::0.0
+national::0.0
+cxtens::0.0
+computer::0.0
+usefulness::0.0
+enhanced::0.0
+terms::0.0
+olshen::0.0
+progressive::0.0
+message groups::0.0
+prowdes::0.0
+mentioned::0.0
+reform::0.0
+timeliness::0.0
+user-specified::0.0
+weekly listings::0.0
+state::0.0
+difficulties::0.0
+wavelet::0.0
+correctly::0.0
+progress::0.0
+including literature::0.0
+multigraphs::0.0
+publishers::0.0
+comparable::0.0
+subhand c  dlng::0.0
+ability::0.0
+importance::0.0
+s.il::0.0
+easily and quickly::0.0
+a.p::0.0
+parameters iteratively::0.0
+key::0.0
+mage::0.0
+relatedness::0.0
+measures and normalize::0.0
+provided that copies::0.0
+gilbert::0.0
+equal::0.0
+estimation::0.0
+scientific effort::0.0
+identification and disambiguation::0.0
+duda::0.0
+investigate learning::0.0
+relevant::0.0
+rpt::0.0
+elcctr~cnl::0.0
+walk::0.0
+makes::0.0
+sequences::0.0
+table::0.0
+cited articles::0.0
+jii::0.0
+grouped the citations::0.0
+fds::0.0
+containment operation::0.0
+methodsjbr indefinite::0.0
+addition::0.0
+breiman::0.0
+151a::0.0
+copies::0.0
+cnlculntad::0.0
+montecarlo::0.0
+agreements::0.0
+indicators::0.0
+proposal::0.0
+important capabilities::0.0
+advantages of citeseer::0.0
+citation::0.0
+bit::0.0
+decision analysis::0.0
+1542-1568::0.0
+deta~b::0.0
+giving false::0.0
+cheng::0.0
+intelligent::0.0
+hmm::0.0
+small loss::0.0
+database from downloaded::0.0
+.-l::0.0
+systems engineermg rensselaer::0.0
+present::0.0
+reliably::0.0
+contexts::0.0
+value::0.0
+suffix::0.0
+ltcmsl block::0.0
+attempted to exhaustively::0.0
+muximum likelihood::0.0
+watchmg::0.0
+practice ojdigita1 libraries::0.0
+journal publication::0.0
+bibliographic and citation::0.0
+arrangements::0.0
+regression::0.0
+greater::0.0
+author::0.0
+russian problemy::0.0
+abstract text::0.0
+units::0.0
+fill::0.0
+difficult::0.0
+smallest::0.0
+probabilities math::0.0
+matching dempster citations::0.0
+effect::0.0
+automation::0.0
+authors::0.0
+itcmn~~::0.0
+infinite::0.0
+fnwlty of electncnl::0.0
+i97::0.0
+neural::0.0
+dlng::0.0
+weapon::0.0
+anal::0.0
+tither::0.0
+ofr::0.0
+sets::0.0
+position::0.0
+citeseer also performs::0.0
+preprints::0.0
+engineermg::0.0
+universal bibliographic::0.0
+stores::0.0
+distance methods::0.0
+accurate::0.0
+obtain::0.0
+codmg and decoding::0.0
+biometrika::0.0
+stored::0.0
+surpass::0.0
+made by citations::0.0
+paul::0.0
+edit distance whcrc::0.0
+citesccr::0.0
+web::0.0
+bibliography::0.0
+wellknown::0.0
+smith::0.0
+capabilities::0.0
+discuss::0.0
+simple::0.0
+add::0.0
+citation is shared::0.0
+o-89791-965::0.0
+whcrc the dif.fercnce::0.0
+refine our existing::0.0
+match::0.0
+simple word matching::0.0
+resolved::0.0
+rrorn several forms::0.0
+tests::0.0
+hotbot::0.0
+characters::0.0
+cxamplc::0.0
+researchers for finding::0.0
+finding recent relevant::0.0
+press::0.0
+dscodlng::0.0
+variants::0.0
+2nd::0.0
+set of journals::0.0
+republish::0.0
+loss::0.0
+helpful::0.0
+alternatively::0.0
+indcxcd::0.0
+extremely::0.0
+comparative citation::0.0
+frequency of pages::0.0
+disappear::0.0
+simply::0.0
+works::0.0
+soft::0.0
+page::0.0
+crawler::0.0
+exhaustively::0.0
+applicability::0.0
+sequence::0.0
+thcsc::0.0
+searching::0.0
+library::0.0
+existing::0.0
+choosing::0.0
+articles and grouping::0.0
+papers by keyword::0.0
+peter::0.0
+codmg of video::0.0
+scales::0.0
+similar itcmq::0.0
+jeremy::0.0
+extra::0.0
+wth out::0.0
+papers to index::0.0
+peredachi irzfbrmatsii::0.0
+smyth::0.0
+locate::0.0
+noise::0.0
+search is made::0.0
+journal::0.0
+expansion::0.0
+citution::0.0
+11s::0.0
+s~m~lnr::0.0
+analyses::0.0
+images rectrnstructrd::0.0
+communlcntmns::0.0
+science::0.0
+eytan::0.0
+engines::0.0
+sub-fields::0.0
+nchwves::0.0
+introduces::0.0
+angeles::0.0
+salton and c.s::0.0
+cameron::0.0
+create::0.0
+support a containment::0.0
+~dco::0.0
+proposal that presents::0.0
+letters::0.0
+pages in reverse::0.0
+simple baseline::0.0
+due::0.0
+capable::0.0
+improvements of embedded::0.0
+matching algorithm::0.0
+additional::0.0
+reform in scholarly::0.0
+snyder::0.0
+subfields as accurately::0.0
+feedback indexed::0.0
+announcements::0.0
+describes::0.0
+maximumlikelihood::0.0
+jeremy hylton::0.0
+implemented a tfidf::0.0
+recurrent::0.0
+order to maintain::0.0
+interest::0.0
+techniques to improve::0.0
+guess::0.0
+type of semantic::0.0
+disambiguate::0.0
+hv::0.0
+triangular::0.0
+gaussian::0.0
+volume::0.0
+simple techmque::0.0
+~mnge::0.0
+construction::0.0
+user actions::0.0
+bodies of text::0.0
+highest::0.0
+metric spaces::0.0
+partially::0.0
+count::0.0
+iterates::0.0
+lvv::0.0
+dcld_i::0.0
+insertions::0.0
+abstract::0.0
+rcquired to transform::0.0
+present cifeseer::0.0
+converted::0.0
+distribution::0.0
+includes algorithms::0.0
+display::0.0
+significance::0.0
+links::0.0
+recognize::0.0
+universal::0.0
+contribute::0.0
+articles matching conjugate::0.0
+levenshtein::0.0
+possibility of performing::0.0
+lkpartment of elcctr~cnl::0.0
+rankings::0.0
+improveciteseer::0.0
+functions::0.0
+compared::0.0
+acm-siam::0.0
+individual::0.0
+subfield existed::0.0
+usenet message::0.0
+scholarly::0.0
+systems engmeermg::0.0
+details::0.0
+introductiot~::0.0
+artlclc::0.0
+performed by citeseer::0.0
+freyllenq x inverse::0.0
+search in general::0.0
+lllr::0.0
+cited  articles::0.0
+magmrude::0.0
+dif.fercnce::0.0
+vlde  technology::0.0
+methods of identifying::0.0
+june::0.0
+shown::0.0
+variation::0.0
+algorithm estimates::0.0
+syntactic relationships::0.0
+uncommon::0.0
+additionally::0.0
+.ps.gz::0.0
+form solutions::0.0
+eirst monrlu~~::0.0
+coupling::0.0
+home qntittns::0.0
+strings::0.0
+systemsof equations::0.0
+identical papers::0.0
+pittsburgh pa usa::0.0
+enineenng-systems::0.0
+augmented::0.0
