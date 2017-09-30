@@ -3,6 +3,7 @@ from flask import request  # getting post request
 from flask import render_template
 from pymongo import MongoClient
 from werkzeug import secure_filename
+from datetime import datetime
 import thread,time
 import os
 client = MongoClient('mongodb://localhost:27017/')
@@ -157,9 +158,25 @@ def uploads(filename1):
     print (os.path)
     if 'name' in session:
         print ("send file : ",filename1)
+        r=db.timeStamp.find({"fileName":filename1,"userId":session['number']})
+        if r.count()==0:
+            result = db.timeStamp.insert_one(
+                {"userId": session['number'], "fileName": filename1, "startTime": [datetime.utcnow()], "endTime": []})
+        else:
+            result = db.timeStamp.update(
+                {"userId": session['number'], "fileName": filename1},{'$push':{ "startTime": datetime.utcnow()}})
+        print result
         return send_file(path+'/uploads/'+filename1,as_attachment=False,attachment_filename=filename1)
     else:
         return redirect(url_for('index'),code=400)
+@app.route('/end',methods=['POST'])
+def end():
+    if request.method=="POST":
+        file=request.form['filename']
+        result=db.timeStamp.update({'fileName':file,'userId':session['number']},{ '$push' :{'endTime':datetime.utcnow()}})
+        return redirect(url_for('dashboard'),code=200)
+    else:
+        return "sorry you are not good at hacking !"
 @app.route('/kickoff',methods=['GET'])
 def kick():
     try:

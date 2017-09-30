@@ -89,12 +89,12 @@
             <div class="col-lg-3">
                 {% if i['status']=='0' %}
                 <div class="callout callout-warning">
-                        <h3><b>{{ i['name'] }} <a href="/upload/{{ i['filename'] }}"><i class="fa fa-book pull-right"></i> </b></a> </h3>
+                        <h3><b>{{ i['name'] }} <button onclick="window.open('/upload/{{ i['filename'] }}');"  data-toggle="modal" data-target="#myModal1" data-whatever="{{ i['filename'] }}"><i class="fa fa-book pull-right"></i> </b></a> </h3>
                     <p><a href="/read/{{ i['name'] }}" style="color:green;">Read ? </a> | <a href="/delete/{{ i['name'] }}" style="color: red;">Delete ?</a> </p>
                 </div></div>
                 {% else %}
                     <div class="callout callout" style="background-color: gainsboro;">
-                        <h3><b>{{ i['name'] }} <a href="/upload/{{ i['filename'] }}"><i class="fa fa-book pull-right" style="color: #222;"></i> </b></a> </h3>
+                        <h3><b>{{ i['name'] }} <a href="/upload/{{ i['filename'] }}" target="_blank"><i class="fa fa-book pull-right" style="color: #222;"></i> </b></a> </h3>
                     <p><a href="/recommend/{{ i['name'] }}" style="color:blue;">What to do next? </a>
                         | <a href="/delete/{{ i['name'] }}" style="color: red;">Delete ?</a> </p>
                 </div></div>
@@ -145,6 +145,43 @@
               <!-- /.box-body -->
 
               <div class="box-footer">
+                <button type="submit" class="btn btn-primary">Submit</button>
+              </div>
+            </form></div></p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<div id="myModal1" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Did you read something?</h4>
+      </div>
+      <div class="modal-body">
+          <!-- general form elements -->
+          <div class="box box-primary">
+            <div class="box-header with-border">
+              <h3 class="box-title">Fill it up!</h3>
+            </div>
+            <!-- /.box-header -->
+            <!-- form start -->
+            <form role="form" method="post" action="/end">
+              <div class="box-body">
+                <div class="form-group">
+                  <label for="exampleInputPassword1">Name</label>
+                  <input type="name" class="form-control" required id="exampleInputPassword1" placeholder="Name">
+                </div>
+              </div>
+                <div class="box-footer">
                 <button type="submit" class="btn btn-primary">Submit</button>
               </div>
             </form></div></p>
