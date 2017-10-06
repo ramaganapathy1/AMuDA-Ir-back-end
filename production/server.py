@@ -8,26 +8,59 @@ import sys
 client = MongoClient('mongodb://localhost:27017/')
 db = client.ir
 production = Flask(__name__)
+db = client.ir
+app = Flask(__name__)
+app.secret_key = os.urandom(32)
+UPLOAD_FOLDER = '../AMuDA-Ir-back-end/uploads'
+ALLOWED_EXTENSIONS = ['pdf']
+app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
+path=os.getcwd()
 #@production.route('/start',methods=['GET'])
-class start():
+"""class start():
     def start1(self):
         path=os.getcwd()
         print ("start")
-        os.system('python production/intial.py')
-        os.system('chmod 0777 production/start.sh')
-        os.system('./production/start.sh')
-        os.system('python production/keyphrase/start.py')
+        os.system('python intial.py')
+        os.system('chmod 0777 start.sh')
+        os.system('./start.sh')
+        os.system('python keyphrase/start.py')
         print ("start")
-        os.system('chmod 0777 production/keyphrase/start.sh production/keyphrase/keyphrase.sh')
+        os.system('chmod 0777 keyphrase/start.sh keyphrase/keyphrase.sh')
         print ("start")
-        os.system('./production/start.sh')
-        os.system('cp '+path+'/production/keyphrase/output/*.tab  '+path+'/production/JVcode/Scripts/tabfiles/')
-        os.system('cp ' + path + '/production/keyphrase/output/*.tab  ' + path + '/production/JVcode/Scripts/newtab/')
-        os.system('python '+path+'/production/JVcode/Scripts/split.py')
-        os.system('python '+path+'/production/JVcode/Scripts/AllScores.py')
-        os.system('python '+path+'/production/JVcode/Scripts/ForClassification/cont-sep.py')
-        os.system('python '+path+'/production/JVcode/Scripts/ForClassification/ela-sep.py')
+        os.system('./start.sh')
+        os.system('cp '+path+'/keyphrase/output/*.tab  '+path+'/JVcode/Scripts/tabfiles/')
+        os.system('cp ' + path + '/keyphrase/output/*.tab  ' + path + '/JVcode/Scripts/newtab/')
+        os.system('python '+path+'/JVcode/Scripts/split.py')
+        os.system('python '+path+'/JVcode/Scripts/AllScores.py')
+        os.system('python '+path+'/JVcode/Scripts/ForClassification/cont-sep.py')
+        os.system('python '+path+'/JVcode/Scripts/ForClassification/ela-sep.py')
         print (path)
         return "1"
-"""if __name__ == '__main__':
+s = start()
+s.start1()
+
+
+if __name__ == '__main__':
     production.run(host="127.0.0.1",port=6000,debug=True)"""
+@app.route('/kickoff',methods=['GET'])
+def kick():
+    path = os.getcwd()
+    print ("start")
+    os.system('python intial.py')
+    os.system('chmod 0777 start.sh')
+    os.system('./start.sh')
+    os.system('python keyphrase/start.py')
+    print ("start")
+    os.system('chmod 0777 keyphrase/start.sh keyphrase/keyphrase.sh')
+    print ("start")
+    os.system('./keyphrase/start.sh')
+    os.system('cp ' + path + '/keyphrase/output/*.tab  ' + path + '/JVcode/Scripts/tabfiles/')
+    os.system('cp ' + path + '/keyphrase/output/*.tab  ' + path + '/JVcode/Scripts/newtab/')
+    os.system('python ' + path + '/JVcode/Scripts/split.py')
+    os.system('python ' + path + '/JVcode/Scripts/AllScores.py')
+    os.system('python ' + path + '/JVcode/Scripts/ForClassification/cont-sep.py')
+    os.system('python ' + path + '/JVcode/Scripts/ForClassification/ela-sep.py')
+    print (path)
+    return ("done")
+if __name__ == '__main__':
+    app.run()

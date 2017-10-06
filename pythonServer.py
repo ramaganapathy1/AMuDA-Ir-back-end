@@ -187,4 +187,4 @@ def kick():
     except:
         print "Error: thread not created"
 if __name__ == '__main__':
-    app.run(threaded=True)
+    app.run(host='127.0.0.1:3000')

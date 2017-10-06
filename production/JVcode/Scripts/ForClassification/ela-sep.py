@@ -15,7 +15,7 @@ edgeConWT=[]
 edgeElaWT=[]
 edgeStart=[]
 edgeEnd=[]
-path=os.getcwd()+"/production/JVcode/Scripts/ForClassification/"
+path=os.getcwd()+"/JVcode/Scripts/ForClassification/"
 for file in os.listdir(path):
     edgeElaWT = []
     edgeConWT = []

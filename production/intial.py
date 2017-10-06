@@ -1,9 +1,9 @@
 import os
-fd=open("production/start.sh","w+")
+fd=open("start.sh","w+")
 path =os.getcwd()
-for i in os.listdir(path+"/uploads"):
+for i in os.listdir("../uploads"):
     if i.endswith(".pdf"):
-        name="pdftotext "+path+"/uploads/"+i+" "+path+"/production/keyphrase/transcript/"+i[:-3]+"txt\n"
+        name="pdftotext ../uploads/"+i+" "+path+"/keyphrase/transcript/"+i[:-3]+"txt\n"
         print (name)
         fd.write(name)
         name=""

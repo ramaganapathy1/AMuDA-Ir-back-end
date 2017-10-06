@@ -26,8 +26,8 @@ stem_to_root={}
 
 try:
 	file_name=sys.argv[1]
-	input_folder="production/keyphrase/transcript"
-	output_folder="production/keyphrase/output"
+	input_folder="keyphrase/transcript"
+	output_folder="keyphrase/output"
 	stemmer_name=sys.argv[2]
 	pos_status=sys.argv[3]
 	tagged_file_ext="_tagged.txt"

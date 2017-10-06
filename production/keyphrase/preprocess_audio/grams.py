@@ -115,13 +115,13 @@ try:
 	file_name=file_name_list[0]+"_tagged.txt"
 	#print file_name
 	#input_folder=sys.argv[2]
-	input_folder="production/keyphrase/output"
+	input_folder="keyphrase/output"
 	#print input_folder
 	#lecture=explode(".",file_name)
 	complete_file_name=input_folder+"/"+file_name
 	#print complete_file_name
 	#output_folder=sys.argv[3]
-	output_folder="production/keyphrase/output"
+	output_folder="keyphrase/output"
 	#print output_folder	
 	max_gram=int(sys.argv[2])
 	#print max_gram

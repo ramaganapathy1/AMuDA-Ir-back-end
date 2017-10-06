@@ -14,9 +14,9 @@ except:
 	sys.exit()
 
 
-transcriptFolder="production/keyphrase/output"
-ngramsFolder="production/keyphrase/output"
-outputFolder="production/keyphrase/output"
+transcriptFolder="keyphrase/output"
+ngramsFolder="keyphrase/output"
+outputFolder="keyphrase/output"
 
 
 untagged_files=[ufile_name]

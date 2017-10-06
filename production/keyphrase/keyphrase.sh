@@ -14,12 +14,12 @@ train_file=$8
 if [ "$mode" == "av" ] || [ "$mode" == "a" ]
 then
 	echo "Pre-Processing Audio Transcript"
-		./production/keyphrase/pos.sh $transcript_name $stemmer_name $pos_status
+		./keyphrase/pos.sh $transcript_name $stemmer_name $pos_status
 	if [ "$pos_status" == "enable" ] 
 	then
-		./production/keyphrase/grams_pos.sh $transcript_name $max_gram $pos_filter_file $stemmer_name
+		./keyphrase/grams_pos.sh $transcript_name $max_gram $pos_filter_file $stemmer_name
 	else
-		./production/keyphrase/grams.sh $transcript_name $max_gram none $stemmer_name
+		./keyphrase/grams.sh $transcript_name $max_gram none $stemmer_name
 	fi
 	echo "Done -- Pre-Processing Audio Transcript"
 fi
@@ -43,35 +43,35 @@ then
 	  if [ "$feature" == "cscore" ] &&  [ "$mode" == "a" -o "$mode" == "av" ]
 	  then
 		echo "Cscore"
-		bash ./production/keyphrase/cscore.sh $transcript_name $stemmer_name
+		bash ./keyphrase/cscore.sh $transcript_name $stemmer_name
 		ext="_cscore.txt"
 		feature_ext=${feature_ext}${ext}${comma_str}
 	  fi
 	  if [ "$feature" == "localspan" ] &&  [ "$mode" == "a" -o "$mode" == "av" ]
 	  then
 		echo "Localspan"
-		bash ./production/keyphrase/localspan.sh $transcript_name $stemmer_name $max_gram
+		bash ./keyphrase/localspan.sh $transcript_name $stemmer_name $max_gram
 		ext="_localspan.txt"
 		feature_ext=${feature_ext}${ext}${comma_str}
 	  fi
 	  if [ "$feature" == "cuewords" ] &&  [ "$mode" == "a" -o "$mode" == "av" ]
 	  then
 		echo "Cuewords"
-		bash ./production/keyphrase/cue.sh $transcript_name $stemmer_name $max_gram
+		bash ./keyphrase/cue.sh $transcript_name $stemmer_name $max_gram
 		ext="_cue.txt"
 		feature_ext=${feature_ext}${ext}${comma_str}
 	  fi
 	  if [ "$feature" == "tfidf" ] &&  [ "$mode" == "a" -o "$mode" == "av" ]
 	  then
 		echo "TF-IDF"
-		bash ./production/keyphrase/tfidf.sh $stemmer_name $max_gram $transcript_name
+		bash ./keyphrase/tfidf.sh $stemmer_name $max_gram $transcript_name
 		ext="_tfidf.txt"
 		feature_ext=${feature_ext}${ext}${comma_str}
 	  fi
 	  if [ "$feature" == "dispersion" ] &&  [ "$mode" == "a" -o "$mode" == "av" ]
 	  then
 		echo "Dispersion"
-		bash ./production/keyphrase/dispersion.sh $transcript_name $max_gram $stemmer_name
+		bash ./keyphrase/dispersion.sh $transcript_name $max_gram $stemmer_name
 		ext="_disp.txt"
 		feature_ext=${feature_ext}${ext}${comma_str}
 	  fi
@@ -79,14 +79,14 @@ then
 	  then
 		echo "Contiguous_Occurance_Ratio"
 		ext="_cont.txt"
-		python production/keyphrase/video_features/contiguous_count_ratio.py $transcript_name $ext
+		python keyphrase/video_features/contiguous_count_ratio.py $transcript_name $ext
 		feature_ext=${feature_ext}${ext}${comma_str}
 	  fi
 	 if [ "$feature" == "freq_ratio" ] &&  [ "$mode" == "v" -o "$mode" == "av" ]
 	  then
 		echo "Frequency Occurance Ratio"
 		ext="_freq.txt"
-		python production/keyphrase/video_features/freq_occur_ratio.py $transcript_name $ext
+		python keyphrase/video_features/freq_occur_ratio.py $transcript_name $ext
 		feature_ext=${feature_ext}${ext}${comma_str}
 	  fi
 	done
@@ -96,8 +96,8 @@ feature_ext="'"${feature_ext}"'"
 export IFS=" "
 
 echo "Integrating all feature results"
-str="python production/keyphrase/write.py "$transcript_name" "$feature_list" "$feature_ext" "$stemmer_name
-python production/keyphrase/ml_audio/write.py $transcript_name $feature_list $feature_ext $stemmer_name
+str="python keyphrase/write.py "$transcript_name" "$feature_list" "$feature_ext" "$stemmer_name
+python keyphrase/ml_audio/write.py $transcript_name $feature_list $feature_ext $stemmer_name
 #echo "$str"
 
 

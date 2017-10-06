@@ -2,7 +2,7 @@ import continuityScore
 import elaborationScore
 #import applicationScore
 import os
-path=os.getcwd()+"/production/JVcode/Scripts"
+path=os.getcwd()+"/JVcode/Scripts"
 
 listOfFiles = []
 
