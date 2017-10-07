@@ -1,6 +1,4 @@
 import sys
-import os
-import random
 from pymongo import MongoClient
 from werkzeug.utils import secure_filename
 import os
@@ -15,7 +13,7 @@ edgeConWT=[]
 edgeElaWT=[]
 edgeStart=[]
 edgeEnd=[]
-path=os.getcwd()+"/JVcode/Scripts/ForClassification/"
+path="JVcode/Scripts/ForClassification/"
 for file in os.listdir(path):
     edgeElaWT = []
     edgeConWT = []
@@ -48,11 +46,15 @@ for file in os.listdir(path):
                         temp3 = edgeEnd[j]
                         edgeEnd[j] = edgeEnd[j + 1]
                         edgeEnd[j + 1] = temp3
-        print (edgeEnd,edgeElaWT)
+        #print (edgeEnd,edgeElaWT)
         t2 = []
         for k in range(0,5):
             t2.append(edgeEnd[k])
+        print ("To update : ",t2)
         print("for => ",file)
-        results=db.rPapers.update({'filename': file[:-10]+'pdf'}, {'$set': {'elaboration':t2}})
+
+        str1="db.rPaper.update({'filename':"+ file[:-10]+"'pdf'}, {'$set': {'elaboration':}})"
+        print(str1)
+        results = db.rPaper.update({'filename': file[:-10]+'pdf'}, {'$set': {'elaboration': t2}})
         print (results)
 print "DONE"
