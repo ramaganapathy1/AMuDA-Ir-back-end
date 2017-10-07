@@ -52,6 +52,7 @@ for file in os.listdir(path):
         t2 = []
         for k in range(0,5):
             t2.append(edgeEnd[k])
+        print("for => ",file)
         results=db.rPapers.update({'filename': file[:-10]+'pdf'}, {'$set': {'elaboration':t2}})
         print (results)
 print "DONE"
