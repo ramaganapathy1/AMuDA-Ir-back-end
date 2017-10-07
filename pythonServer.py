@@ -77,6 +77,7 @@ def signin():
             app.secret_key='ir'
             session['name'] = result['name']
             session['number'] = result['number']
+            session['lastRead']=""
             c=db.papers.find({'userId':session['number']})
             result2 = db.papers.find({'userId':session['number'], 'status': '1'})
             session['count']=c.count()
@@ -165,26 +166,20 @@ def uploads(filename1):
         else:
             result = db.timeStamp.update(
                 {"userId": session['number'], "fileName": filename1},{'$push':{ "startTime": datetime.utcnow()}})
-        print result
+        print ("Sent : ",result)
+        session['lastRead']=filename1
+        print (session['lastRead'])
         return send_file(path+'/uploads/'+filename1,as_attachment=False,attachment_filename=filename1)
     else:
         return redirect(url_for('index'),code=400)
 @app.route('/end',methods=['POST'])
 def end():
     if request.method=="POST":
-        file=request.form['filename']
+        file=session['lastRead']
         result=db.timeStamp.update({'fileName':file,'userId':session['number']},{ '$push' :{'endTime':datetime.utcnow()}})
+        session['lastRead']=""
         return redirect(url_for('dashboard'),code=200)
     else:
         return "sorry you are not good at hacking !"
-@app.route('/kickoff',methods=['GET'])
-def kick():
-    try:
-        from production.server import start
-        s = start()
-        thread.start_new_thread(s.start1(),("New Thread for "+session['name']))
-        return "1"
-    except:
-        print "Error: thread not created"
 if __name__ == '__main__':
-    app.run(host='127.0.0.1:3000')
+    app.run()
