@@ -5,16 +5,13 @@ import os
 import sys
 client = MongoClient('mongodb://localhost:27017/')
 db = client.ir
-import random
-#li=[]
-#color=open("AllColors.txt","r")
 doc1=[]
 doc2=[]
 edgeConWT=[]
 edgeElaWT=[]
 edgeStart=[]
 edgeEnd=[]
-path=os.getcwd()+"/JVcode/Scripts/ForClassification/"
+path="JVcode/Scripts/ForClassification/"
 for file in os.listdir(path):
     edgeElaWT = []
     edgeConWT = []
@@ -29,10 +26,6 @@ for file in os.listdir(path):
              edgeStart.append(line[0])
              edgeEnd.append(line[1])
              edgeConWT.append(float(line[2]))
-             if(float(line[3]))>0:
-                edgeElaWT.append(float(line[3]))
-             else:
-                edgeElaWT.append(0.0)
         for i in range(0,len(edgeConWT)):
             for j in range(0, len(edgeConWT)):
                 if (j < (len(edgeConWT) - 1)):
