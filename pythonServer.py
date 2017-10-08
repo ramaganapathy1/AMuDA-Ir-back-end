@@ -181,5 +181,6 @@ def end():
         return redirect(url_for('dashboard'),code=200)
     else:
         return "sorry you are not good at hacking !"
+
 if __name__ == '__main__':
     app.run()
