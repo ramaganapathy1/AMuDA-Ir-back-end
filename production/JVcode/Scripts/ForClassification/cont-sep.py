@@ -43,9 +43,13 @@ for file in os.listdir(path):
         print (edgeEnd)
         t1 = []
         for k in range(0,5):
-          #  t1 = []
-            # t=str(edgeStart[k])+" "+str(edgeEnd[k])+" "+str(edgeConWT[k])+" "+str(edgeElaWT[k])+"\n"
-            t1.append(edgeEnd[k])
+            print("for -> ",edgeEnd[k])
+            results = db.papers.find_one({'filename': edgeEnd[k][:-3] + 'pdf'})
+            print results
+            h={}
+            h['name']= results['_id']
+            h['domain']=results['domain']
+            t1.append(h)
         print ("for : ---> ",file[:-10] , 'pdf')
         results = db.rPaper.update({'filename': file[:-10] + 'pdf'}, {'$set': {'continuation': t1}})
         print (results)

@@ -49,7 +49,12 @@ for file in os.listdir(path):
         #print (edgeEnd,edgeElaWT)
         t2 = []
         for k in range(0,5):
-            t2.append(edgeEnd[k])
+            results = db.papers.find_one({'filename': edgeEnd[k][:-3] + 'pdf'})
+            print results
+            h={}
+            h['name'] = results['_id']
+            h['domain']=results['domain']
+            t2.append(h)
         print ("To update : ",t2)
         print("for => ",file)
 
