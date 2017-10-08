@@ -75,19 +75,19 @@
         <a class="btn btn-app" data-toggle="modal" data-target="#timeOpen">
                 <i class="fa fa-edit"></i> Edit
               </a>
-        <h1>Your Collection(s)!</h1>
+        <h1><i>{{ li[0]['domain'] }}</i></h1>
         {% for i in li %}
             <div class="col-lg-3">
                 {% if i['status']=='0' %}
                 <div class="callout callout-warning">
-                        <h3><b>{{ i['name'] }} <button onclick="openBoth('{{ i['filename'] }}')"  data-toggle="modal" data-target="#myModal" data-whatever="{{ i['filename'] }}"><i class="fa fa-book pull-right"></i> </b></a> </h3>
+                        <h3><b>{{ i['name'] }} <a onclick="openBoth('{{ i['filename'] }}')"> <i class="fa fa-book pull-right"></i> </b></a> </h3>
                     <p><a href="/read/{{ i['name'] }}" style="color:green;">Read ? </a> | <a href="/delete/{{ i['name'] }}" style="color: red;">Delete ?</a> </p>
                 </div></div>
                 {% else %}
                     <div class="callout callout" style="background-color: gainsboro;">
-                        <h3><b>{{ i['name'] }} <a onclick="openBoth('{{ i['filename'] }}')" target="_blank"><i class="fa fa-book pull-right" style="color: #222;"></i> </b></a> </h3>
+                        <h3><b>{{ i['name'] }} <a onclick="openBoth('{{ i['filename'] }}')" target="_blank"><i class="fa fa-book pull-right" style="color: #222;" ></i> </b></a> </h3>
                     <p><a href="/recommend/{{ i['name'] }}" style="color:blue;">What to do next? </a>
-                        | <a href="/delete/{{ i['name'] }}" style="color: red;">Delete ?</a> </p>
+                        | <a href="/delete/{{ i['name'] }}" style="color: red;" >Delete ?</a> </p>
                 </div></div>
                 {% endif %}
         {% else %}

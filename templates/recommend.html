@@ -93,8 +93,8 @@
         {% for i in li[0]['continuation'] %}
             <div class="col-lg-3">
                 <div class="callout callout-warning">
-                        <h3><b>{{ i }} <a href="/domain/{{ li[0]['domain'] }}"><i class="fa fa-book pull-right"></i> </b></a> </h3>
-                    <p><a href="/domain/{{ li[0]['domain'] }}" style="color:green;">Take me to the domain -> </a></p>
+                        <h3><b>{{ i['name'] }} </h3>
+                    <p><a href="/domain/{{ i['domain'] }}" style="color:green;">Take me to the domain -> </a></p>
                 </div></div>
         {% else %}
         <div class="alert alert-info alert-dismissible">
@@ -112,8 +112,8 @@
         {% for i in li[0]['elaboration'] %}
             <div class="col-lg-3">
                 <div class="callout callout-success">
-                        <h3><b>{{ i }} <a href="/domain/{{ li[0]['domain'] }}"><i class="fa fa-book pull-right"></i> </b></a> </h3>
-                    <p><a href="/domain/{{ li[0]['domain'] }}" style="color:green;">Take me to the domain -> </a></p>
+                        <h3><b>{{ i['name'] }} </h3>
+                    <p><a href="/domain/{{ i['domain'] }}" style="color:green;">Take me to the domain -> </a></p>
                 </div></div>
         {% else %}
         <div class="alert alert-info alert-dismissible">
@@ -167,10 +167,10 @@
         var data = google.visualization.arrayToDataTable(
           [ ['Phrases'],
               {% for i in li[0]['elaboration'] %}
-                ['{{ li[0]['_id']}} elaboration {{i}}'],
+                ['{{ li[0]['_id']}} elaboration {{i['name']}}'],
               {% endfor %}
               {% for i in li[0]['continuation'] %}
-                ['{{ li[0]['_id']}} continuation {{i}}'],
+                ['{{ li[0]['_id']}} continuation {{i['name']}}'],
               {% endfor %}
           ]
         );
