@@ -183,9 +183,14 @@ def end():
         return "sorry you are not good at hacking !"
 @app.route('/delete/<paperName>',methods=['GET'])
 def delete(paperName):
-    r1=db.papers.remove({'name':paperName})
+    r=db.papers.find_one({'name': paperName})
+    r1=db.papers.remove({'name': paperName})
     r2=db.rPaper.remove({'name': paperName})
     r3=db.timeStamp.remove({'name': paperName})
+    path=os.getcwd()
+    print (r)
+    os.system("rm "+path+"/uploads/"+r['filename'])
+    os.system("rm "+path+"/production/keyphrase/transcript/" + r['filename'][:-3]+'txt')
     print(r1,r2,r3)
     return redirect(url_for('index'),code=200)
 if __name__ == '__main__':

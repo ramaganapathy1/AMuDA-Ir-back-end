@@ -46,7 +46,7 @@ if __name__ == '__main__':
 def kick():
     path = os.getcwd()
     print ("start")
-    """os.system('python intial.py')
+    os.system('python intial.py')
     os.system('chmod 0777 start.sh')
     os.system('./start.sh')
     os.system('python keyphrase/start.py')
@@ -57,7 +57,7 @@ def kick():
     os.system('cp ' + path + '/keyphrase/output/*.tab  ' + path + '/JVcode/Scripts/tabfiles/')
     os.system('cp ' + path + '/keyphrase/output/*.tab  ' + path + '/JVcode/Scripts/newtab/')
     os.system('python ' + path + '/JVcode/Scripts/split.py')
-    os.system('python ' + path + '/JVcode/Scripts/AllScores.py')"""
+    os.system('python ' + path + '/JVcode/Scripts/AllScores.py')
     print("-----------------<Continuation>--------------------")
     os.system('python ' + path + '/JVcode/Scripts/ForClassification/cont-sep.py')
     print("-----------------</Continuation>--------------------")
