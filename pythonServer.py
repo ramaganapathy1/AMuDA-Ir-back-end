@@ -192,6 +192,6 @@ def delete(paperName):
     os.system("rm "+path+"/uploads/"+r['filename'])
     os.system("rm "+path+"/production/keyphrase/transcript/" + r['filename'][:-3]+'txt')
     print(r1,r2,r3)
-    return redirect(url_for('index'),code=200)
+    return redirect(url_for('dashboard'),code=200)
 if __name__ == '__main__':
     app.run()
