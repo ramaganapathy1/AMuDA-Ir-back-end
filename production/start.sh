@@ -1,1 +1,5 @@
-pdftotext ../uploads/9444370166-7408-7713-1-PB.pdf /Users/orion/Documents/AMuDA-Ir-back-end/production/keyphrase/transcript/9444370166-7408-7713-1-PB.txt
+pdftotext /Users/orion/Documents/AMuDA-Ir-back-end/uploads/9444370166-7408-7713-1-PB.pdf /Users/orion/Documents/AMuDA-Ir-back-end//production/keyphrase/transcript/9444370166-7408-7713-1-PB.txt
+pdftotext /Users/orion/Documents/AMuDA-Ir-back-end/uploads/9444370166-CiteSeer-Anautomaticcitationindexingsystem.pdf /Users/orion/Documents/AMuDA-Ir-back-end//production/keyphrase/transcript/9444370166-CiteSeer-Anautomaticcitationindexingsystem.txt
+pdftotext /Users/orion/Documents/AMuDA-Ir-back-end/uploads/9444370166-JV.pdf /Users/orion/Documents/AMuDA-Ir-back-end//production/keyphrase/transcript/9444370166-JV.txt
+pdftotext /Users/orion/Documents/AMuDA-Ir-back-end/uploads/9444370166-KRDocumentation.pdf /Users/orion/Documents/AMuDA-Ir-back-end//production/keyphrase/transcript/9444370166-KRDocumentation.txt
+pdftotext /Users/orion/Documents/AMuDA-Ir-back-end/uploads/9444370166-SFXavier-enhancingstatisticalsemanticnetworkswithconceptualheirarchies.pdf /Users/orion/Documents/AMuDA-Ir-back-end//production/keyphrase/transcript/9444370166-SFXavier-enhancingstatisticalsemanticnetworkswithconceptualheirarchies.txt

@@ -1,6 +1,4 @@
 import os
-#files = os.listdir(os.getcwd()+"/tabfiles") # source folder
-#files = os.listdir("/home/ramyananth/Desktop/RAMA IR/JV")
 path=os.getcwd()+"/JVcode/Scripts"
 files = os.listdir(path+"/tabfiles")
 for eachfile in files:
