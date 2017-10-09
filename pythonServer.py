@@ -181,5 +181,12 @@ def end():
         return redirect(url_for('dashboard'),code=200)
     else:
         return "sorry you are not good at hacking !"
+@app.route('/delete/<paperName>',methods=['GET'])
+def delete(paperName):
+    r1=db.papers.remove({'name':paperName})
+    r2=db.rPaper.remove({'name': paperName})
+    r3=db.timeStamp.remove({'name': paperName})
+    print(r1,r2,r3)
+    return redirect(url_for('index'),code=200)
 if __name__ == '__main__':
     app.run()
