@@ -1,0 +1,4910 @@
+common terms::0.00956859638784
+c-value::0.00637906425856
+d-span::0.00621958765209
+continuation::0.00621958765209
+elaboration::0.00590063443917
+document pairs::0.00542220461977
+tf-idf::0.00478429819392
+d-span similarity::0.00382743855513
+intell::0.00350848534221
+background terms::0.00350848534221
+syst::0.00350848534221
+high d-span similarity::0.00334900873574
+document::0.00309553083472
+lecture::0.00303005552281
+semantic relatedness::0.00287057891635
+types of relatedness::0.00287057891635
+relatedness model::0.00287057891635
+relatedness::0.0028345456729
+data set::0.00272381311496
+topic terms::0.00255162570342
+high d-span::0.00255162570342
+continuation relation::0.00255162570342
+cdiff::0.00239214909696
+relationships between documents::0.00239214909696
+latent semantic analysis::0.00239214909696
+ground truth::0.00236063803297
+cosine similarity::0.0022326724905
+documents::0.00218898251884
+background::0.00217905049197
+terms::0.00201209504257
+digital libraries::0.00199746295097
+measure::0.00192344170661
+type of relatedness::0.00191371927757
+measures to quantify::0.00191371927757
+subtopic and background::0.00191371927757
+defining and quantifying::0.00191371927757
+science and technology::0.00191371927757
+query processing::0.00191371927757
+semantic analysis::0.00191371927757
+higher c-value::0.00191371927757
+scores::0.00191371927757
+syst table::0.00191371927757
+dsim::0.00191371927757
+average precision::0.00191371927757
+pairs::0.00163428786898
+hash tables::0.00163428786898
+pair of documents::0.00163428786898
+document relationships::0.00159476606464
+cosine::0.00159476606464
+document relatedness::0.00159476606464
+linked lists::0.00159476606464
+elaboration measure::0.00159476606464
+knowledge base::0.00159476606464
+latent semantic::0.00159476606464
+source document::0.00159476606464
+prototype system::0.00159476606464
+2012::0.00154349409848
+digital library::0.00145270032798
+computing semantic relatedness::0.00143528945818
+c-value and tf-idf::0.00143528945818
+lsa::0.00143528945818
+continuation elaboration application::0.00143528945818
+types of document::0.00143528945818
+quantify the strength::0.00143528945818
+document pairs exhibiting::0.00143528945818
+knowing and understanding::0.00143528945818
+characterized::0.00143528945818
+definition::0.00143528945818
+similarity between documents::0.00143528945818
+evaluation of continuation::0.00143528945818
+relation::0.00141727283645
+similarity::0.00137087794109
+quantify::0.00127581285171
+filter::0.00127581285171
+computing semantic::0.00127581285171
+occurrence patterns::0.00127581285171
+scientific literature::0.00127581285171
+learner::0.00127581285171
+data points::0.00127581285171
+continuation elaboration::0.00127581285171
+results obtained::0.00127581285171
+information science::0.00127581285171
+subtopic terms::0.00127581285171
+external knowledge::0.00127581285171
+document pair::0.00127581285171
+statistical model::0.00127581285171
+elaboration application::0.00127581285171
+data sets::0.00121480528839
+ground::0.00118031901648
+truth::0.00118031901648
+learning::0.00116418840137
+rank::0.00111633624525
+points::0.00111633624525
+defining::0.00111633624525
+dictionaries::0.00111633624525
+table::0.00111357151435
+term::0.00110554672669
+score::0.00108952524599
+libraries::0.00108952524599
+similarity measures::0.00108952524599
+rating::0.000998731475487
+precision::0.000998731475487
+digital::0.000961720853305
+find more information::0.000956859638784
+users of digital::0.000956859638784
+d-span and c-value::0.000956859638784
+order to provide::0.000956859638784
+kahani m 2012::0.000956859638784
+evaluation of application::0.000956859638784
+presence of common::0.000956859638784
+featured more prominently::0.000956859638784
+topic in document::0.000956859638784
+term is characterized::0.000956859638784
+c-value and d-span::0.000956859638784
+document similarity measure::0.000956859638784
+f-score and nmi::0.000956859638784
+related by application::0.000956859638784
+probabilistic latent semantic::0.000956859638784
+based on expert::0.000956859638784
+tf-idf as filter::0.000956859638784
+hashing and hash::0.000956859638784
+application and elaboration::0.000956859638784
+low or moderate::0.000956859638784
+effective in identifying::0.000956859638784
+model for identifying::0.000956859638784
+grammar quick sort::0.000956859638784
+aspects of teaching::0.000956859638784
+lecture on hashing::0.000956859638784
+suggestions of related::0.000956859638784
+query processing document::0.000956859638784
+proposed by mccormak::0.000956859638784
+terms of low::0.000956859638784
+elaboration application data::0.000956859638784
+direction for future::0.000956859638784
+instance a lecture::0.000956859638784
+teaching and learning::0.000956859638784
+aspects of relatedness::0.000956859638784
+dictionaries and hash::0.000956859638784
+cosine similarity index::0.000956859638784
+relation is defined::0.000956859638784
+terms or phrases::0.000956859638784
+segmentation of videos::0.000956859638784
+type of relation::0.000956859638784
+tf-idf and low::0.000956859638784
+frantzi and ananiadou::0.000956859638784
+truth was generated::0.000956859638784
+indicating higher c-value::0.000956859638784
+cdiff ; c-values::0.000956859638784
+problem of quantifying::0.000956859638784
+aspects of learning::0.000956859638784
+serves to identify::0.000956859638784
+nxn document pairs::0.000956859638784
+c-value as filter::0.000956859638784
+defined in section::0.000956859638784
+difference or similarity::0.000956859638784
+types of semantic::0.000956859638784
+ground truth generation::0.000956859638784
+types of relationships::0.000956859638784
+gather user feedback::0.000956859638784
+mccormak and yager::0.000956859638784
+shown in fig::0.000956859638784
+indicates that document::0.000956859638784
+intro to machine::0.000956859638784
+external knowledge base::0.000956859638784
+evaluation of elaboration::0.000956859638784
+identifying these relationships::0.000956859638784
+evaluate the results::0.000956859638784
+standard deviation::0.000956859638784
+higher relevance::0.000956859638784
+learning objectives::0.000956859638784
+d-span values::0.000956859638784
+scientific documents::0.000956859638784
+frantzi::0.000956859638784
+lecture transcripts::0.000956859638784
+high c-value::0.000956859638784
+application measure::0.000956859638784
+tf-idf weighting::0.000956859638784
+trees trees::0.000956859638784
+topic term::0.000956859638784
+elaboration relation::0.000956859638784
+low cdiff::0.000956859638784
+continuation application::0.000956859638784
+random set::0.000956859638784
+elaboration document::0.000956859638784
+specific relationship::0.000956859638784
+average recall::0.000956859638784
+indicating higher::0.000956859638784
+term features::0.000956859638784
+exhibiting::0.000956859638784
+negative cdiff::0.000956859638784
+pairs exhibiting::0.000956859638784
+nptel::0.000956859638784
+relatedness types::0.000956859638784
+statistical patterns::0.000956859638784
+continuation measure::0.000956859638784
+context::0.000907937704988
+tables::0.000907937704988
+lectures::0.000907937704988
+common::0.000906548315882
+higher::0.000860487079273
+recall::0.000817143934489
+examples::0.000817143934489
+dataset::0.000817143934489
+precision and recall::0.000817143934489
+featured::0.00079738303232
+huang::0.00079738303232
+yager::0.00079738303232
+external::0.00079738303232
+moderate::0.00079738303232
+nmi::0.00079738303232
+f-score::0.00079738303232
+infer::0.00079738303232
+usage::0.00079738303232
+relationships::0.000795993643214
+topic::0.00077388270868
+subtopic::0.000759253305241
+aspects::0.000759253305241
+defined::0.000759253305241
+results::0.000729660839612
+related work::0.000726350163991
+background topic::0.000726350163991
+common term::0.000726350163991
+article::0.000726350163991
+relevant::0.000726350163991
+base::0.000726350163991
+transcripts::0.000726350163991
+similarity measure::0.000726350163991
+user rating::0.000726350163991
+term frequency::0.000726350163991
+library::0.000726350163991
+semantic::0.000685438970545
+measures::0.000685438970545
+set::0.000663328036011
+feature::0.000658019531209
+similarity relation::0.000637906425856
+data set1::0.000637906425856
+sample sets::0.000637906425856
+nptel 2012::0.000637906425856
+applies::0.000637906425856
+cosine index::0.000637906425856
+exhibiting continuation::0.000637906425856
+continuation type::0.000637906425856
+c-value difference::0.000637906425856
+application score::0.000637906425856
+learning process::0.000637906425856
+probabilistic latent::0.000637906425856
+science education::0.000637906425856
+educational context::0.000637906425856
+cultural heritage::0.000637906425856
+destination document::0.000637906425856
+relative c-value::0.000637906425856
+collaborative filtering::0.000637906425856
+document based::0.000637906425856
+natural progression::0.000637906425856
+data point::0.000637906425856
+experts::0.000637906425856
+computer graphics::0.000637906425856
+elaborations::0.000637906425856
+spread::0.000637906425856
+concept level::0.000637906425856
+2012 scientific::0.000637906425856
+wan::0.000637906425856
+video transcripts::0.000637906425856
+truth generation::0.000637906425856
+syst fig::0.000637906425856
+automatically identify::0.000637906425856
+balanced f-score::0.000637906425856
+identifying semantic::0.000637906425856
+relatedness categories::0.000637906425856
+high dsim::0.000637906425856
+logical::0.000637906425856
+d-span score::0.000637906425856
+information access::0.000637906425856
+interesting applications::0.000637906425856
+c-values::0.000637906425856
+high tf-idf::0.000637906425856
+application average::0.000637906425856
+relatedness score::0.000637906425856
+inter-document relationships::0.000637906425856
+yager frantzi::0.000637906425856
+tf-idf c-value::0.000637906425856
+knowledge based::0.000637906425856
+systems publication::0.000637906425856
+media::0.000637906425856
+document graph::0.000637906425856
+application relation::0.000637906425856
+low relevance::0.000637906425856
+measuring::0.000637906425856
+considerable similarity::0.000637906425856
+clustering based::0.000637906425856
+continuation relationship::0.000637906425856
+virtual memory::0.000637906425856
+deviation::0.000637906425856
+cdiff values::0.000637906425856
+information sciences::0.000637906425856
+mit 2012::0.000637906425856
+var(ia::0.000637906425856
+grammar quick::0.000637906425856
+ananiadou::0.000637906425856
+rating points::0.000637906425856
+explicit user::0.000637906425856
+|ia::0.000637906425856
+normalized relevance::0.000637906425856
+similar patterns::0.000637906425856
+starting point::0.000637906425856
+candidate keyphrases::0.000637906425856
+relevant results::0.000637906425856
+applying::0.000637906425856
+inter-document::0.000637906425856
+relevant terms::0.000637906425856
+gather user::0.000637906425856
+clustering result::0.000637906425856
+reference corpora::0.000637906425856
+work focuses::0.000637906425856
+huang 2008::0.000637906425856
+relatedness measures::0.000637906425856
+d-span scores::0.000637906425856
+moderate d-span::0.000637906425856
+measures defined::0.000637906425856
+nxn document::0.000637906425856
+greater extent::0.000637906425856
+application implementation::0.000637906425856
+score pattern::0.000637906425856
+similar documents::0.000637906425856
+search trees::0.000637906425856
+educational::0.000637906425856
+explicit semantic::0.000637906425856
+sample documents::0.000637906425856
+featuring topics::0.000637906425856
+term usage::0.000637906425856
+processing document::0.000637906425856
+occurrence pattern::0.000637906425856
+similar subjects::0.000637906425856
+application data::0.000637906425856
+identifying patterns::0.000637906425856
+document suggestions::0.000637906425856
+2006::0.000637906425856
+scientific publications::0.000637906425856
+classroom lectures::0.000637906425856
+similar d-span::0.000637906425856
+prominent::0.000637906425856
+similarity index::0.000637906425856
+database systems::0.000637906425856
+current document::0.000637906425856
+naive bayes::0.000637906425856
+quantifying::0.000635556393492
+wikipedia::0.000635556393492
+equation::0.000635556393492
+ratings::0.000635556393492
+2008::0.000635556393492
+chosen::0.000635556393492
+lists::0.000635556393492
+recommendation::0.000635556393492
+content::0.000607402644193
+user::0.00059699523241
+relationship::0.000574884297876
+types::0.000552773363343
+main topic::0.000544762622993
+relations::0.000544762622993
+strength::0.000544762622993
+play a role::0.000544762622993
+repository::0.000544762622993
+hashing::0.000544762622993
+user ratings::0.000544762622993
+statistical measures::0.000544762622993
+explicit::0.000544762622993
+documents are related::0.000544762622993
+directly::0.000544762622993
+based on topic::0.000544762622993
+large data sets::0.000544762622993
+determined::0.000544762622993
+categories::0.000544762622993
+quick sort::0.000544762622993
+helps the user::0.000544762622993
+technical documents::0.000544762622993
+model::0.000508551494275
+occurrence::0.000506168870161
+applications::0.000506168870161
+hash::0.000506168870161
+document similarity::0.000506168870161
+query::0.000506168870161
+relevance::0.000486440559742
+high::0.000486440559742
+order linked list::0.000478429819392
+contrast to esa::0.000478429819392
+measure of term::0.000478429819392
+libraries are fast::0.000478429819392
+propositional logic lecture::0.000478429819392
+serve more specific::0.000478429819392
+guarantee a semantic::0.000478429819392
+needed for large::0.000478429819392
+application to word::0.000478429819392
+quantifies the relevance::0.000478429819392
+definition of document::0.000478429819392
+explicit user ratings::0.000478429819392
+31­49 mccormack a.j.::0.000478429819392
+relation cosine similarity::0.000478429819392
+keyphrase extraction publication;::0.000478429819392
+method that evolved::0.000478429819392
+counteract this effect::0.000478429819392
+modeling document relatedness::0.000478429819392
+term in document::0.000478429819392
+query processing multilevel::0.000478429819392
+interested in determining::0.000478429819392
+spanning a wider::0.000478429819392
+feature in query-document::0.000478429819392
+abstract e-learning repositories::0.000478429819392
+continuation have tended::0.000478429819392
+potentially help identify::0.000478429819392
+human language technologies::0.000478429819392
+document relatedness correspondingly::0.000478429819392
+tf-idf and high::0.000478429819392
+understand this lecture::0.000478429819392
+coupling this factor::0.000478429819392
+results the scaled::0.000478429819392
+discussion on query::0.000478429819392
+defined we develop::0.000478429819392
+c-value was helpful::0.000478429819392
+application data set3::0.000478429819392
+machine learning grammar::0.000478429819392
+model to find::0.000478429819392
+stemming n-gram extraction::0.000478429819392
+inverse-document frequency d-span::0.000478429819392
+search trees intro::0.000478429819392
+statistical term features::0.000478429819392
+liberty to choose::0.000478429819392
+describing extensive experimental::0.000478429819392
+related to information::0.000478429819392
+filter we tested::0.000478429819392
+giving a detailed::0.000478429819392
+filter was determined::0.000478429819392
+browsing a repository::0.000478429819392
+enable the learner::0.000478429819392
+learning we first::0.000478429819392
+led to relationships::0.000478429819392
+factor for terms::0.000478429819392
+explicit user rating::0.000478429819392
+wikipedia hyperlinks gouws::0.000478429819392
+candidate keyphrases balagopalan::0.000478429819392
+degree of importance::0.000478429819392
+case of elaboration::0.000478429819392
+functional languages base::0.000478429819392
+kinds of common::0.000478429819392
+topics or concepts::0.000478429819392
+compare the results::0.000478429819392
+tf-idf weighting cosine::0.000478429819392
+level of similarity::0.000478429819392
+applications and geographic::0.000478429819392
+addition knowledge sources::0.000478429819392
+measures the scope::0.000478429819392
+clustering of similar::0.000478429819392
+describes the approach::0.000478429819392
+series of logical::0.000478429819392
+effective at identifying::0.000478429819392
+documents the yager::0.000478429819392
+defining different types::0.000478429819392
+discussion do affect::0.000478429819392
+identified features extensive::0.000478429819392
+data point belonging::0.000478429819392
+zarrinkalam and kahani::0.000478429819392
+document is reduced::0.000478429819392
+method probabilistic latent::0.000478429819392
+documents such scores::0.000478429819392
+methods to test::0.000478429819392
+background terms taking::0.000478429819392
+explore the contents::0.000478429819392
+process in short::0.000478429819392
+wordnet and bing::0.000478429819392
+library our specific::0.000478429819392
+information retrieval database::0.000478429819392
+lsa j intell::0.000478429819392
+publication trees lecture::0.000478429819392
+documents have absolutely::0.000478429819392
+documents that characterize::0.000478429819392
+point for defining::0.000478429819392
+discovering 3 imagining::0.000478429819392
+scientific and educational::0.000478429819392
+evaluation of clustering::0.000478429819392
+high document pairs::0.000478429819392
+sixth new zealand::0.000478429819392
+implies that common::0.000478429819392
+tf-idf of common::0.000478429819392
+authors keywords topics::0.000478429819392
+libraries with cultural::0.000478429819392
+meta-data are presented::0.000478429819392
+nptel http agirre::0.000478429819392
+high c-value high::0.000478429819392
+positive indicating higher::0.000478429819392
+semantic analysis. ijcai::0.000478429819392
+topics in economics::0.000478429819392
+technique to automatically::0.000478429819392
+terms the c-value::0.000478429819392
+prototype system returns::0.000478429819392
+semantic news recommendation::0.000478429819392
+document gets benefited::0.000478429819392
+knowledge based approach::0.000478429819392
+pos tagging based::0.000478429819392
+time to explore::0.000478429819392
+similarity pearson coefficient::0.000478429819392
+lecture videos transcripts::0.000478429819392
+libraries 3(2 115­130::0.000478429819392
+similar documents researchers::0.000478429819392
+sets had data::0.000478429819392
+dataset and represents::0.000478429819392
+pairs exhibiting elaboration::0.000478429819392
+luk r.w.p. wong::0.000478429819392
+2005 and wan::0.000478429819392
+sources in order::0.000478429819392
+path can lead::0.000478429819392
+shows specific examples::0.000478429819392
+generation for data::0.000478429819392
+defined relatedness measures::0.000478429819392
+state the idea::0.000478429819392
+potential document relatedness::0.000478429819392
+fragments the cosine::0.000478429819392
+characterized by similarity::0.000478429819392
+users we calculate::0.000478429819392
+degree of relatedness::0.000478429819392
+techniques in digital::0.000478429819392
+evaluate the relatedness::0.000478429819392
+green r 2001::0.000478429819392
+indicates how significant::0.000478429819392
+indicating a natural::0.000478429819392
+simple document browser::0.000478429819392
+user to browse::0.000478429819392
+linguistic and statistic::0.000478429819392
+indication that clustering::0.000478429819392
+number of technical::0.000478429819392
+context the average::0.000478429819392
+learning syntax pointers::0.000478429819392
+annual acm symposium::0.000478429819392
+application measure serves::0.000478429819392
+longer candidate phrases::0.000478429819392
+tree traversal cubic::0.000478429819392
+similarity of terms::0.000478429819392
+effective in generating::0.000478429819392
+material and direct::0.000478429819392
+corpora ecai strube::0.000478429819392
+work is related::0.000478429819392
+terms with higher::0.000478429819392
+pairs were clustered::0.000478429819392
+identifying the characteristic::0.000478429819392
+set of occurrences::0.000478429819392
+earth mover's distance::0.000478429819392
+base our continuation::0.000478429819392
+sciences 239(0 31­49::0.000478429819392
+clustering of documents::0.000478429819392
+defined for identifying::0.000478429819392
+relationship between stacks::0.000478429819392
+find the degree::0.000478429819392
+sample sets out::0.000478429819392
+retrieval · digital::0.000478429819392
+documents featuring similar::0.000478429819392
+development of measures::0.000478429819392
+tower of hanoi::0.000478429819392
+2013 novel personal::0.000478429819392
+observed is shown::0.000478429819392
+d.r. & lin::0.000478429819392
+relations is required::0.000478429819392
+pairs in video::0.000478429819392
+faculty or researcher::0.000478429819392
+characterized by high::0.000478429819392
+flow is continuous::0.000478429819392
+d-span for measuring::0.000478429819392
+higher d-span values::0.000478429819392
+mit 2012 scientific::0.000478429819392
+examples are mentioned::0.000478429819392
+child quick sort::0.000478429819392
+analysis discourse processes::0.000478429819392
+set of larger::0.000478429819392
+requirements for evaluating::0.000478429819392
+include semantic knowledge::0.000478429819392
+indicates the relationship::0.000478429819392
+repositories and digital::0.000478429819392
+relatedness correspondingly answer::0.000478429819392
+information and learning::0.000478429819392
+157­228 lai c.h.::0.000478429819392
+causing the background::0.000478429819392
+similarly high tf-idf::0.000478429819392
+|ia | dispersion(a::0.000478429819392
+gauch s 2012::0.000478429819392
+stacks this type::0.000478429819392
+relationships and applying::0.000478429819392
+application average precision::0.000478429819392
+based on earth::0.000478429819392
+document have higher::0.000478429819392
+terms as part::0.000478429819392
+syst of modeling::0.000478429819392
+learning science education::0.000478429819392
+aspects i.e. imagining::0.000478429819392
+manually created document::0.000478429819392
+found in digital::0.000478429819392
+studying virtual memory::0.000478429819392
+relation by definition::0.000478429819392
+kinds of difficulties::0.000478429819392
+share similar background::0.000478429819392
+methods involving hypertext::0.000478429819392
+learning or research::0.000478429819392
+truth was determined::0.000478429819392
+terms we count::0.000478429819392
+documents that fall::0.000478429819392
+retrieval and defines::0.000478429819392
+structures and machine::0.000478429819392
+terms to similar::0.000478429819392
+1996 extracting nested::0.000478429819392
+vijayakumar1 · vidhya::0.000478429819392
+score the scores::0.000478429819392
+type application rank::0.000478429819392
+document the role::0.000478429819392
+clustering of nxn::0.000478429819392
+account for issues::0.000478429819392
+nmi and f-score::0.000478429819392
+point belonging table::0.000478429819392
+var(ia  |ia::0.000478429819392
+domain for instance::0.000478429819392
+simple retrieval system::0.000478429819392
+good d-span score::0.000478429819392
+identifying semantic relationships::0.000478429819392
+synonymy and polysemy::0.000478429819392
+identifying the type::0.000478429819392
+characterizing the continuation::0.000478429819392
+videos transcripts featuring::0.000478429819392
+definition of measures::0.000478429819392
+2012 the occurrences::0.000478429819392
+set of data::0.000478429819392
+estimated by applying::0.000478429819392
+terms supervised learning::0.000478429819392
+studies are ongoing::0.000478429819392
+exhibit this relation::0.000478429819392
+aspects of scientific::0.000478429819392
+generalized search trees::0.000478429819392
+cosine index method::0.000478429819392
+capable of identifying::0.000478429819392
+demonstrate considerable similarity::0.000478429819392
+nptel and mit-ocw::0.000478429819392
+pairs were classified::0.000478429819392
+documents that reflect::0.000478429819392
+point for addressing::0.000478429819392
+calculate the average::0.000478429819392
+background or subtopic::0.000478429819392
+train a rule-based::0.000478429819392
+exhibit these types::0.000478429819392
+terms increasing order::0.000478429819392
+evolved from lsa::0.000478429819392
+huang l. milne::0.000478429819392
+high d-span subtopic::0.000478429819392
+semantic analysis discourse::0.000478429819392
+concept this directly::0.000478429819392
+techniques identify connections::0.000478429819392
+queue and `double-ended::0.000478429819392
+similarity as lsa::0.000478429819392
+lin c.s 2013::0.000478429819392
+similar the results::0.000478429819392
+features extensive experimentation::0.000478429819392
+decide what documents::0.000478429819392
+hand data set::0.000478429819392
+weinstein l 2005::0.000478429819392
+cosine similarity pearson::0.000478429819392
+directions for future::0.000478429819392
+function for relevance::0.000478429819392
+relationships that capture::0.000478429819392
+learning for scientific::0.000478429819392
+cosine similarity calculated::0.000478429819392
+choice of feature::0.000478429819392
+lecture what document::0.000478429819392
+expressions programming languages::0.000478429819392
+patterns in d-span::0.000478429819392
+`exploring and `using::0.000478429819392
+consumers of scientific::0.000478429819392
+understanding of topics::0.000478429819392
+case high d-span::0.000478429819392
+personal and group-based::0.000478429819392
+unsolved citation links::0.000478429819392
+items however work::0.000478429819392
+measures like cosine::0.000478429819392
+d-span subtopic subtopic::0.000478429819392
+pairs with feature::0.000478429819392
+terms of behavior::0.000478429819392
+straightforward to train::0.000478429819392
+measure and judged::0.000478429819392
+2007 computing semantic::0.000478429819392
+resistors in series::0.000478429819392
+analysis. ijcai vol::0.000478429819392
+examples of continuation::0.000478429819392
+semantically a user::0.000478429819392
+similarly the conditional::0.000478429819392
+applications for digital::0.000478429819392
+similarity in term::0.000478429819392
+observe the utility::0.000478429819392
+india j intell::0.000478429819392
+pairs will feature::0.000478429819392
+works like wan::0.000478429819392
+users ground truth::0.000478429819392
+enhanced learning nptel::0.000478429819392
+relationships j intell::0.000478429819392
+trees for database::0.000478429819392
+infer their semantic::0.000478429819392
+points with low::0.000478429819392
+addressing this problem::0.000478429819392
+set2 continuation elaboration::0.000478429819392
+shows some sample::0.000478429819392
+collected user ratings::0.000478429819392
+transcripts or documents::0.000478429819392
+extend our observations::0.000478429819392
+processing to find::0.000478429819392
+documents and present::0.000478429819392
+features is informative::0.000478429819392
+words the elaboration::0.000478429819392
+graphics curves query::0.000478429819392
+documents this approach::0.000478429819392
+dsim is high::0.000478429819392
+context and relevance::0.000478429819392
+measures that indicate::0.000478429819392
+larger data sets::0.000478429819392
+extraction and pos::0.000478429819392
+addition each relation::0.000478429819392
+context free grammar::0.000478429819392
+libraries is provided::0.000478429819392
+hashing is mentioned::0.000478429819392
+featuring similar subjects::0.000478429819392
+programming languages application::0.000478429819392
+taking into consideration::0.000478429819392
+histogram and eliminating::0.000478429819392
+data set1 continuation::0.000478429819392
+headings or sub-headings::0.000478429819392
+pairs exhibiting continuation::0.000478429819392
+account j intell::0.000478429819392
+feeling and valuing::0.000478429819392
+model that serves::0.000478429819392
+`elaboration or `application::0.000478429819392
+profiling in recommendation::0.000478429819392
+similarity for common::0.000478429819392
+similarity in background::0.000478429819392
+validate these measures::0.000478429819392
+lecture on dynamic::0.000478429819392
+document the relevance::0.000478429819392
+analysis esa gabrilovich::0.000478429819392
+relation the continuation::0.000478429819392
+sort subtopic terms::0.000478429819392
+build further relatedness::0.000478429819392
+information on it?::0.000478429819392
+libraries we specifically::0.000478429819392
+relevance as measured::0.000478429819392
+semantic analysis esa::0.000478429819392
+part of longer::0.000478429819392
+instance a discussion::0.000478429819392
+expected results metrics::0.000478429819392
+extended to build::0.000478429819392
+gathered a mix::0.000478429819392
+featured in document::0.000478429819392
+huang 2008 chalmers::0.000478429819392
+ontologybased information retrieval::0.000478429819392
+original data set::0.000478429819392
+present a comprehensive::0.000478429819392
+context of term::0.000478429819392
+document an inquisitive::0.000478429819392
+document data sets::0.000478429819392
+developed to infer::0.000478429819392
+relations beyond similarity::0.000478429819392
+document on stacks::0.000478429819392
+modeling inter-document semantic::0.000478429819392
+2012 mit open::0.000478429819392
+method j intell::0.000478429819392
+implementation directly correlates::0.000478429819392
+patterns in subtopic::0.000478429819392
+serves the learning::0.000478429819392
+distribution into account::0.000478429819392
+common pre-processing techniques::0.000478429819392
+ratings for results::0.000478429819392
+document thus taking::0.000478429819392
+application for instance::0.000478429819392
+552­558 wu h.c.::0.000478429819392
+cdiff  indicates::0.000478429819392
+consist of information::0.000478429819392
+feature vectors representing::0.000478429819392
+tables queue scaled::0.000478429819392
+respect to scientific::0.000478429819392
+document j intell::0.000478429819392
+taking term distribution::0.000478429819392
+gouws 2010 strube::0.000478429819392
+relation scores defined::0.000478429819392
+relationship was determined::0.000478429819392
+2007 define document::0.000478429819392
+piece of literature::0.000478429819392
+application score pattern::0.000478429819392
+context of usage::0.000478429819392
+bta 1 tf-idf::0.000478429819392
+relatedness measures based::0.000478429819392
+relatedness we made::0.000478429819392
+subtopic subtopic term::0.000478429819392
+based on wikipedia::0.000478429819392
+create a ground::0.000478429819392
+lecture video transcripts::0.000478429819392
+index method probabilistic::0.000478429819392
+represents a starting::0.000478429819392
+determine only similarity::0.000478429819392
+estimation the document::0.000478429819392
+hopfgartner 2010; lai::0.000478429819392
+recommended continuations applications::0.000478429819392
+identification of concept::0.000478429819392
+specific feature score::0.000478429819392
+geographic information systems::0.000478429819392
+design novel applications::0.000478429819392
+239(0 31­49 mccormack::0.000478429819392
+filtering involve user::0.000478429819392
+tended to end::0.000478429819392
+sets ground truth::0.000478429819392
+models for identification::0.000478429819392
+similarity relation cosine::0.000478429819392
+degree of contextual::0.000478429819392
+learning and numerical::0.000478429819392
+concept level relationships::0.000478429819392
+processing multilevel indexing::0.000478429819392
+open courseware http::0.000478429819392
+research student conference::0.000478429819392
+reflect a single::0.000478429819392
+augment these patterns::0.000478429819392
+identify interesting applications::0.000478429819392
+computer science mathematics::0.000478429819392
+cultural heritage journal::0.000478429819392
+content they share::0.000478429819392
+literature documents theses::0.000478429819392
+chalmers and chitson::0.000478429819392
+systems publication elaboration::0.000478429819392
+text our system::0.000478429819392
+similar? investigating item::0.000478429819392
+2012 computing similarity::0.000478429819392
+classifier to classify::0.000478429819392
+relatedness between documents::0.000478429819392
+scope of information::0.000478429819392
+values are shown::0.000478429819392
+metric for wikipedia::0.000478429819392
+c-value for common::0.000478429819392
+helping a learner::0.000478429819392
+modeling our goal::0.000478429819392
+mentions linked lists::0.000478429819392
+yager 1989 discusses::0.000478429819392
+single continuous flow::0.000478429819392
+learning grammar quick::0.000478429819392
+captures three important::0.000478429819392
+lists the presence::0.000478429819392
+data set3 continuation::0.000478429819392
+zealand computer science::0.000478429819392
+trend of higher::0.000478429819392
+progression of topics::0.000478429819392
+eliminating document pairs::0.000478429819392
+promising the nmi::0.000478429819392
+concept is insufficiently::0.000478429819392
+nature of connection::0.000478429819392
+lecture on queues::0.000478429819392
+expect a document::0.000478429819392
+approach the measure::0.000478429819392
+kinds of relationships::0.000478429819392
+hanoi applies recursion::0.000478429819392
+set and category::0.000478429819392
+pair was decided::0.000478429819392
+presented this demonstrates::0.000478429819392
+ieee pp 1­10::0.000478429819392
+documents in addition::0.000478429819392
+compare our system::0.000478429819392
+tables elaboration score::0.000478429819392
+term weighting feature::0.000478429819392
+rank documents based::0.000478429819392
+relatedness using distributional::0.000478429819392
+identify and quantify::0.000478429819392
+understanding 2 exploring::0.000478429819392
+milne d. frank::0.000478429819392
+indication that precision::0.000478429819392
+serves to provide::0.000478429819392
+concept linked lists::0.000478429819392
+c-value and low::0.000478429819392
+biology and computer::0.000478429819392
+normalized relevance distance­a::0.000478429819392
+documents the model::0.000478429819392
+background or subtopics::0.000478429819392
+difference in d-span::0.000478429819392
+strong continuation relation::0.000478429819392
+helping the learning::0.000478429819392
+base or hypertext::0.000478429819392
+capelle m. hogenboom::0.000478429819392
+give formal definitions::0.000478429819392
+application or elaboration::0.000478429819392
+elaboration measure brings::0.000478429819392
+additionally digital libraries::0.000478429819392
+higher relevance defines::0.000478429819392
+types of lectures::0.000478429819392
+courseware http nptel::0.000478429819392
+related to segmentation::0.000478429819392
+electrical engineering chemistry::0.000478429819392
+capacitor dictionaries stack::0.000478429819392
+ananiadou 1996; balagopalan::0.000478429819392
+result for nxn::0.000478429819392
+structures that form::0.000478429819392
+tran h. luong::0.000478429819392
+measure also identifies::0.000478429819392
+included document pairs::0.000478429819392
+documents using cosine::0.000478429819392
+reference corpora ecai::0.000478429819392
+repository of technical::0.000478429819392
+document pairs balanced::0.000478429819392
+document; similar d-span::0.000478429819392
+document at regular::0.000478429819392
+information retrieval systems::0.000478429819392
+direct his study::0.000478429819392
+documents were chosen::0.000478429819392
+continuation and elaboration::0.000478429819392
+kld are effective::0.000478429819392
+repository of documents::0.000478429819392
+c-value high tf-idf::0.000478429819392
+conceptual document similarity::0.000478429819392
+opinion was sought::0.000478429819392
+features that quantify::0.000478429819392
+classifier lecture propositional::0.000478429819392
+serve such requirements::0.000478429819392
+scientific content identifying::0.000478429819392
+similarity other approaches::0.000478429819392
+recommendation systems hopfgartner::0.000478429819392
+sought in general::0.000478429819392
+knowledge based approaches::0.000478429819392
+similarity with respect::0.000478429819392
+cdiff  indicating::0.000478429819392
+documents demonstrate considerable::0.000478429819392
+rated for similarity::0.000478429819392
+feature multiple topics::0.000478429819392
+article is organized::0.000478429819392
+give much importance::0.000478429819392
+documents this difference::0.000478429819392
+infer these relationships::0.000478429819392
+set j intell::0.000478429819392
+technologies naacl association::0.000478429819392
+continuity elaboration application::0.000478429819392
+maximum margin classifier::0.000478429819392
+meta-data like authors::0.000478429819392
+alue = log2::0.000478429819392
+important in helping::0.000478429819392
+indicates a stronger::0.000478429819392
+scientific technological document::0.000478429819392
+soroa a 2009::0.000478429819392
+affect the ranking::0.000478429819392
+extracted after common::0.000478429819392
+find the similarity::0.000478429819392
+computer science research::0.000478429819392
+concepts the user::0.000478429819392
+identify the nature::0.000478429819392
+collaborative citation networks.::0.000478429819392
+averages are shown::0.000478429819392
+standard data sets::0.000478429819392
+markovitch s 2007::0.000478429819392
+means of reducing::0.000478429819392
+relevance distance­a stable::0.000478429819392
+characterize their strength::0.000478429819392
+contributors in contrast::0.000478429819392
+i.e the d-span::0.000478429819392
+seelan1 · narendranath::0.000478429819392
+rely on external::0.000478429819392
+briefly mentions linked::0.000478429819392
+subtopic terms supervised::0.000478429819392
+2008 interpreting tf-idf::0.000478429819392
+constitutes our relatedness::0.000478429819392
+topics or subtopics::0.000478429819392
+documents keywords relatedness::0.000478429819392
+education literature proposed::0.000478429819392
+model to identify::0.000478429819392
+documents each pair::0.000478429819392
+25(2­3 285­307 frantzi::0.000478429819392
+limited to structured::0.000478429819392
+improves the results::0.000478429819392
+patterns within documents::0.000478429819392
+guidance to users::0.000478429819392
+document we characterize::0.000478429819392
+imagining and feeling::0.000478429819392
+analyzes the statistical::0.000478429819392
+terms with differing::0.000478429819392
+pairs j intell::0.000478429819392
+document was provided::0.000478429819392
+system is implemented::0.000478429819392
+points where aggregate::0.000478429819392
+term is distributed::0.000478429819392
+video and audio::0.000478429819392
+documents a simple::0.000478429819392
+stacks that briefly::0.000478429819392
+2001 search result::0.000478429819392
+implying an application::0.000478429819392
+k.t. & ananiadou::0.000478429819392
+document structures document::0.000478429819392
+feature in information::0.000478429819392
+indicates a higher::0.000478429819392
+personalised video retrieval::0.000478429819392
+scholarly articles video::0.000478429819392
+d-span it indicates::0.000478429819392
+connection or relationship::0.000478429819392
+concept-based document similarity::0.000478429819392
+distribution or occurrence::0.000478429819392
+2007 use esa::0.000478429819392
+hyperlinks gouws 2010::0.000478429819392
+technology enhanced learning::0.000478429819392
+document similarly high::0.000478429819392
+relation provides answers::0.000478429819392
+introduced elaboration measure::0.000478429819392
+categories are continuation::0.000478429819392
+discussion on tower::0.000478429819392
+quantify different types::0.000478429819392
+account common terms::0.000478429819392
+information visualization. proceedings::0.000478429819392
+topics or common::0.000478429819392
+landauer t.k 1998::0.000478429819392
+time consuming process::0.000478429819392
+linked list root::0.000478429819392
+general and picks::0.000478429819392
+keyphrase a term::0.000478429819392
+witten i.h 2012::0.000478429819392
+mccormack and yager::0.000478429819392
+understood the concept::0.000478429819392
+relationships; however techniques::0.000478429819392
+tables are spread::0.000478429819392
+truth actually prefer::0.000478429819392
+relevance of terms::0.000478429819392
+continuous this type::0.000478429819392
+normalized compression distance::0.000478429819392
+2005 wikipedia risks::0.000478429819392
+phrases which makes::0.000478429819392
+similar background terms::0.000478429819392
+relatedness as mentioned::0.000478429819392
+types of context-based::0.000478429819392
+documents must serve::0.000478429819392
+nptel 2012 national::0.000478429819392
+relatedness continuation application::0.000478429819392
+muralikumar1 · sri::0.000478429819392
+discussion the users::0.000478429819392
+related work section::0.000478429819392
+documents this work::0.000478429819392
+domain-specific keyphrase extraction::0.000478429819392
+international acm sigir::0.000478429819392
+number of potential::0.000478429819392
+terms like hashing::0.000478429819392
+term is potentially::0.000478429819392
+form the topic::0.000478429819392
+similarity measure journal::0.000478429819392
+normalized mutual information::0.000478429819392
+represented by terms::0.000478429819392
+characterized by moderate::0.000478429819392
+intrinsic term features::0.000478429819392
+motivates the presence::0.000478429819392
+types between documents::0.000478429819392
+group-based trust models::0.000478429819392
+counteract the effect::0.000478429819392
+terms as topic::0.000478429819392
+conclude in section::0.000478429819392
+subtopic being applied::0.000478429819392
+d-spans or c-values::0.000478429819392
+overburden the users::0.000478429819392
+inter-document semantic relationships::0.000478429819392
+visualisation with xfind.::0.000478429819392
+content and flow::0.000478429819392
+traditional recommendation model::0.000478429819392
+distance­a stable metric::0.000478429819392
+measure between documents::0.000478429819392
+semantic similarity measure::0.000478429819392
+organization of knowledge::0.000478429819392
+tf-idf for measuring::0.000478429819392
+56(2 47­48 rafi::0.000478429819392
+average user rating::0.000478429819392
+recommendations identifying additional::0.000478429819392
+high tf-idf means::0.000478429819392
+publications a repository::0.000478429819392
+terms binary search::0.000478429819392
+wan x 2007::0.000478429819392
+datasets and ground::0.000478429819392
+topic a good::0.000478429819392
+computer graphics curves::0.000478429819392
+presented that consist::0.000478429819392
+index is applied::0.000478429819392
+indicate the varying::0.000478429819392
+feature of application::0.000478429819392
+2006 wikirelate! computing::0.000478429819392
+removal stemming n-gram::0.000478429819392
+exhibit some level::0.000478429819392
+average c-value difference::0.000478429819392
+mit-ocw mit 2012::0.000478429819392
+acm sigir conference::0.000478429819392
+document pair i.e::0.000478429819392
+similarity is found::0.000478429819392
+provided through suggestions::0.000478429819392
+features scientific research::0.000478429819392
+values j intell::0.000478429819392
+resulting documents categorized::0.000478429819392
+1992 bead explorations::0.000478429819392
+indexing computer graphics::0.000478429819392
+documents are presented::0.000478429819392
+identification of additional::0.000478429819392
+sub-headings similarity measures::0.000478429819392
+concepts paragraphs terms::0.000478429819392
+term can fall::0.000478429819392
+results in high::0.000478429819392
+relevance and d-span::0.000478429819392
+trees trees document::0.000478429819392
+elaboration positive cdiff::0.000478429819392
+knowledge in future::0.000478429819392
+media files including::0.000478429819392
+relevance though tf-idf::0.000478429819392
+types we categorize::0.000478429819392
+recognition of multi-word::0.000478429819392
+infrequently as part::0.000478429819392
+2012 national programme::0.000478429819392
+wordnet-based approaches. proceedings::0.000478429819392
+horning j. parnas::0.000478429819392
+margin classifier lecture::0.000478429819392
+explicit semantic analysis.::0.000478429819392
+access in digital::0.000478429819392
+research publishing zhang::0.000478429819392
+evaluate by user::0.000478429819392
+matching other meta-data::0.000478429819392
+ground truth creation::0.000478429819392
+science research student::0.000478429819392
+means the term::0.000478429819392
+document to measure::0.000478429819392
+base and compute::0.000478429819392
+pairs of documents::0.000478429819392
+hofmann t 1999::0.000478429819392
+damodar a 2012::0.000478429819392
+uncertainty in artificial::0.000478429819392
+application are higher::0.000478429819392
+making a histogram::0.000478429819392
+shaikh m.s 2013::0.000478429819392
+type of queries::0.000478429819392
+document clustering based::0.000478429819392
+dictionaries trees trees::0.000478429819392
+based on link::0.000478429819392
+terms with high::0.000478429819392
+fulfill the knowing::0.000478429819392
+created document graph::0.000478429819392
+improved semantic similarity::0.000478429819392
+relatedness we first::0.000478429819392
+measures by extensive::0.000478429819392
+focused this applies::0.000478429819392
+creating 4 feeling::0.000478429819392
+features in order::0.000478429819392
+continuation in data::0.000478429819392
+details the results::0.000478429819392
+document 1 deals::0.000478429819392
+documents whereas documents::0.000478429819392
+library scenario user::0.000478429819392
+work on types::0.000478429819392
+term or phrase::0.000478429819392
+directly infer concept::0.000478429819392
+48(12 152­152 foltz::0.000478429819392
+varied data sets::0.000478429819392
+terms whereas documents::0.000478429819392
+1998 the measurement::0.000478429819392
+data intensive systems::0.000478429819392
+mit 2012 mit::0.000478429819392
+analyzing the data::0.000478429819392
+classroom lectures candidate::0.000478429819392
+overcome these kinds::0.000478429819392
+domains like electronics::0.000478429819392
+factor minimum required::0.000478429819392
+acm pp 330­337::0.000478429819392
+arbitrarily by making::0.000478429819392
+d-span values documents::0.000478429819392
+percentile being 4.32::0.000478429819392
+similarity of common::0.000478429819392
+topic term terms::0.000478429819392
+citations links headings::0.000478429819392
+users in terms::0.000478429819392
+techniques that involve::0.000478429819392
+digital library keeping::0.000478429819392
+problem of identifying::0.000478429819392
+data sets represented::0.000478429819392
+development of recommendation::0.000478429819392
+techniques effectively extract::0.000478429819392
+1999 another method::0.000478429819392
+advanced scientific literature::0.000478429819392
+score pattern medium::0.000478429819392
+semantic knowledge derived::0.000478429819392
+d-span score indicates::0.000478429819392
+topic is chosen::0.000478429819392
+previously introduced elaboration::0.000478429819392
+discussed in rafi::0.000478429819392
+exhibiting these patterns::0.000478429819392
+pairs exhibiting application::0.000478429819392
+clough p 2012::0.000478429819392
+categories of terms::0.000478429819392
+means a greater::0.000478429819392
+user profiles university::0.000478429819392
+tf-idf the tf-idf::0.000478429819392
+exploring and discovering::0.000478429819392
+intend to present::0.000478429819392
+approach that analyzes::0.000478429819392
+approach this problem::0.000478429819392
+category by means::0.000478429819392
+tf-idf term weights::0.000478429819392
+representing tf-idf c-value::0.000478429819392
+collection of educational::0.000478429819392
+individually and privately::0.000478429819392
+aspects are desirable::0.000478429819392
+ieee pp 50­58::0.000478429819392
+chitson p 1992::0.000478429819392
+lead to discovering::0.000478429819392
+required d-span similarity::0.000478429819392
+frequencies or tf-idfs::0.000478429819392
+document relationships zarrinkalam::0.000478429819392
+similarity and relatedness::0.000478429819392
+designed for scientific::0.000478429819392
+identify inter-document relationships::0.000478429819392
+identifies a good::0.000478429819392
+applied to counteract::0.000478429819392
+dataset the elaboration::0.000478429819392
+document relatedness categories::0.000478429819392
+system is shown::0.000478429819392
+extracting nested collocations.::0.000478429819392
+brings out results::0.000478429819392
+mit open courseware::0.000478429819392
+classroom lecture video::0.000478429819392
+privately and average::0.000478429819392
+classification and clustering::0.000478429819392
+concept and semantic::0.000478429819392
+process j intell::0.000478429819392
+desirable to infer::0.000478429819392
+files including articles::0.000478429819392
+affect the accuracy::0.000478429819392
+extraction publication; presents::0.000478429819392
+measures are capable::0.000478429819392
+browser is included::0.000478429819392
+retrieval database applications::0.000478429819392
+keyword or keyphrase::0.000478429819392
+phrases to develop::0.000478429819392
+workshop on ieee::0.000478429819392
+syst for characterizing::0.000478429819392
+presented our experimental::0.000478429819392
+language technologies naacl::0.000478429819392
+unique statistical model::0.000478429819392
+similarity and jaccard::0.000478429819392
+scaled cont score::0.000478429819392
+base address logical::0.000478429819392
+support the discussion::0.000478429819392
+rating points averaged::0.000478429819392
+document recommendations identifying::0.000478429819392
+similarity between short::0.000478429819392
+document relatedness presents::0.000478429819392
+section many solutions::0.000478429819392
+closely related left::0.000478429819392
+identifying the usage::0.000478429819392
+queues have similar::0.000478429819392
+user rating type::0.000478429819392
+c-value method international::0.000478429819392
+analysis lsa foltz::0.000478429819392
+unstructured text video::0.000478429819392
+background topic term::0.000478429819392
+higher and wider::0.000478429819392
+applies the main::0.000478429819392
+making a literature::0.000478429819392
+categories of semantic::0.000478429819392
+term topic terms::0.000478429819392
+recommender applications stellenbosch::0.000478429819392
+categories of learning::0.000478429819392
+continuation of document::0.000478429819392
+characterize the degree::0.000478429819392
+2001 also methods::0.000478429819392
+document the distribution::0.000478429819392
+set1 the ground::0.000478429819392
+continuation relation based::0.000478429819392
+yager r.e 1989::0.000478429819392
+medium to high::0.000478429819392
+topic being applied::0.000478429819392
+scenario user interest-based::0.000478429819392
+machine learning syntax::0.000478429819392
+elaboration is characterized::0.000478429819392
+extensively studied khoo::0.000478429819392
+features the classical::0.000478429819392
+lai c.h. liu::0.000478429819392
+documents both lsa::0.000478429819392
+sense disambiguation wan::0.000478429819392
+mentioned in table::0.000478429819392
+balasubramanian v. chandrasekharan::0.000478429819392
+digital library scenario::0.000478429819392
+tf-idf weight means::0.000478429819392
+deal with factors::0.000478429819392
+purposes which involve::0.000478429819392
+library which typically::0.000478429819392
+large digital library::0.000478429819392
+query document based::0.000478429819392
+sri ananda seelan1::0.000478429819392
+ratings we gather::0.000478429819392
+disagreement the expert::0.000478429819392
+result the average::0.000478429819392
+measuring occurrence patterns::0.000478429819392
+frantzi k. ananiadou::0.000478429819392
+semantic relatedness metric::0.000478429819392
+terms that exhibit::0.000478429819392
+s.p 2006 wikirelate!::0.000478429819392
+automated system modeled::0.000478429819392
+provide ranked suggestions::0.000478429819392
+identifying similar documents::0.000478429819392
+terms of rating::0.000478429819392
+minimum required d-span::0.000478429819392
+documents are extracted::0.000478429819392
+interpreting tf-idf term::0.000478429819392
+behavior of topic::0.000478429819392
+helps the learner::0.000478429819392
+repository that consists::0.000478429819392
+c-value as explained::0.000478429819392
+properties these features::0.000478429819392
+literature which provide::0.000478429819392
+similar to aletras::0.000478429819392
+hash tables elaboration::0.000478429819392
+balanced f-score normalized::0.000478429819392
+left and hash::0.000478429819392
+d-span and tf-idf::0.000478429819392
+bing similarities. proceedings::0.000478429819392
+science education science::0.000478429819392
+relationship that occurs::0.000478429819392
+document tf-idf c-value::0.000478429819392
+elaboration application average::0.000478429819392
+learning a concept-based::0.000478429819392
+a.j. & yager::0.000478429819392
+results for sample::0.000478429819392
+list root node::0.000478429819392
+relationships from concept::0.000478429819392
+continuation relation continuation::0.000478429819392
+information search figure::0.000478429819392
+similarity and semantic::0.000478429819392
+document graph linking::0.000478429819392
+lackner w 2001::0.000478429819392
+lsa and probabilistic::0.000478429819392
+computing and cultural::0.000478429819392
+techniques for estimating::0.000478429819392
+transcripts from nptel::0.000478429819392
+wikipedia document corpus::0.000478429819392
+person seeking information::0.000478429819392
+relevant terms indicates::0.000478429819392
+terms will make::0.000478429819392
+technological document repository::0.000478429819392
+dsim and low::0.000478429819392
+explore and discover::0.000478429819392
+relationship by `rank::0.000478429819392
+equation the identifying::0.000478429819392
+decisions acm transactions::0.000478429819392
+elaboration and application::0.000478429819392
+results of results::0.000478429819392
+heritage jocch 5(4::0.000478429819392
+analyzing the measure::0.000478429819392
+databases. acm sigmod::0.000478429819392
+cdiff were eliminated::0.000478429819392
+scores for topic::0.000478429819392
+terms for instance::0.000478429819392
+compare our results::0.000478429819392
+moderate it indicates::0.000478429819392
+sigmod record vol::0.000478429819392
+library recommendation engines::0.000478429819392
+types of content::0.000478429819392
+spline interpolation hash::0.000478429819392
+feature score patterns::0.000478429819392
+examples of application::0.000478429819392
+including articles theses::0.000478429819392
+identifies the relatedness::0.000478429819392
+article an approach::0.000478429819392
+2012 the document::0.000478429819392
+proceedings second international::0.000478429819392
+weighting cosine index::0.000478429819392
+measure working irrespective::0.000478429819392
+studied the average::0.000478429819392
+information are met::0.000478429819392
+ponzetto s.p 2006::0.000478429819392
+determined by generating::0.000478429819392
+provide this background::0.000478429819392
+user find answers::0.000478429819392
+documents the final::0.000478429819392
+article we intend::0.000478429819392
+chosen to compare::0.000478429819392
+wordcount × dispersion::0.000478429819392
+provide vidhya balasubramanian::0.000478429819392
+tf-idf c-value d-span::0.000478429819392
+involve user profiling::0.000478429819392
+elaboration average precision::0.000478429819392
+hypertext for identifying::0.000478429819392
+implementation and elaboration::0.000478429819392
+presented the rest::0.000478429819392
+content identifying patterns::0.000478429819392
+literature may feature::0.000478429819392
+good continuing document::0.000478429819392
+data sets similar::0.000478429819392
+product of term::0.000478429819392
+dsim or cdiff::0.000478429819392
+indicator of continuation::0.000478429819392
+patterns that characterize::0.000478429819392
+influencing this relationship::0.000478429819392
+discuss base patterns::0.000478429819392
+root node left::0.000478429819392
+c-value of terms::0.000478429819392
+presents method based::0.000478429819392
+score pattern represented::0.000478429819392
+relevance is brought::0.000478429819392
+theses and videos::0.000478429819392
+differs from similarity::0.000478429819392
+additional document relationships::0.000478429819392
+systems data structures::0.000478429819392
+digital libraries 3(2::0.000478429819392
+order to identify::0.000478429819392
+systems or standard::0.000478429819392
+scientific literature survey::0.000478429819392
+transcripts from mit-ocw::0.000478429819392
+2009 a study::0.000478429819392
+experiments have demonstrated::0.000478429819392
+types of terms::0.000478429819392
+denoting say algorithmic::0.000478429819392
+moser j. sabol::0.000478429819392
+naive bayes classifier::0.000478429819392
+scores for document::0.000478429819392
+difficulties is desirable::0.000478429819392
+economics physics chemistry::0.000478429819392
+documents is shown::0.000478429819392
+collaborative filtering involve::0.000478429819392
+nptel nptel 2012::0.000478429819392
+series and parallel::0.000478429819392
+retrieval systems publication::0.000478429819392
+identify other relationships::0.000478429819392
+content 0 indicates::0.000478429819392
+characterizing continuation d-span::0.000478429819392
+document graph based::0.000478429819392
+topics in computer::0.000478429819392
+degree of similarity::0.000478429819392
+experimentally determined dispersion::0.000478429819392
+university coimbatore india::0.000478429819392
+vidhya balasubramanian1 received::0.000478429819392
+science mathematics mechanical::0.000478429819392
+patterns for dictionaries::0.000478429819392
+examples of elaboration::0.000478429819392
+vectors the rating::0.000478429819392
+chosen the number::0.000478429819392
+quick sort trees::0.000478429819392
+documents is hard::0.000478429819392
+lecture on greedy::0.000478429819392
+rating as mentioned::0.000478429819392
+features two documents::0.000478429819392
+concentrate on digital::0.000478429819392
+subtopics like knapsack::0.000478429819392
+similarity or association::0.000478429819392
+consisting of data::0.000478429819392
+2008 similarity measures::0.000478429819392
+pairs and calculated::0.000478429819392
+continuation application implementation::0.000478429819392
+documents when exploring::0.000478429819392
+set is broad::0.000478429819392
+15th annual international::0.000478429819392
+conference pp 49­56::0.000478429819392
+document from dataset::0.000478429819392
+experience these aspects::0.000478429819392
+videos our experiments::0.000478429819392
+2008 semantic relatedness::0.000478429819392
+cdiff values higher::0.000478429819392
+d-spans but high::0.000478429819392
+moderate d-span background::0.000478429819392
+d-span rank documents::0.000478429819392
+shown to formally::0.000478429819392
+nested collocations. proceedings::0.000478429819392
+pairs are good::0.000478429819392
+article on segmentation::0.000478429819392
+similar d-span values::0.000478429819392
+interfaces to data::0.000478429819392
+relatedness using wikipedia.::0.000478429819392
+importance to dictionaries::0.000478429819392
+context measuring factor::0.000478429819392
+values are min-max::0.000478429819392
+support the learning::0.000478429819392
+utl c. moser::0.000478429819392
+c-value or term::0.000478429819392
+lectures candidate keyphrases::0.000478429819392
+document for giving::0.000478429819392
+returns a document::0.000478429819392
+similarity search journal::0.000478429819392
+addressing the semantic::0.000478429819392
+threshold the remaining::0.000478429819392
+topic in query::0.000478429819392
+survey by browsing::0.000478429819392
+aggregate d-span similarity::0.000478429819392
+content of documents::0.000478429819392
+uniformly and widely::0.000478429819392
+2010 personalised video::0.000478429819392
+generally a concept::0.000478429819392
+relevance distance schaefer::0.000478429819392
+document d2 serves::0.000478429819392
+measures for text::0.000478429819392
+citation networks. collaboration::0.000478429819392
+i)| 5 cdiff::0.000478429819392
+schaefer c. hienert::0.000478429819392
+probability of relevance::0.000478429819392
+results of analyzing::0.000478429819392
+potentially a keyword::0.000478429819392
+score patterns type::0.000478429819392
+met and ensure::0.000478429819392
+make the measures::0.000478429819392
+smaller sample sets::0.000478429819392
+teacher 56(2 47­48::0.000478429819392
+sort trees trees::0.000478429819392
+aid the users::0.000478429819392
+number of document::0.000478429819392
+related such functionality::0.000478429819392
+modeled to provide::0.000478429819392
+library our methodology::0.000478429819392
+guidance for users::0.000478429819392
+relatedness of scientificpapers::0.000478429819392
+expertise of contributors::0.000478429819392
+cluster with negative::0.000478429819392
+user interest-based approaches::0.000478429819392
+subjects for applications::0.000478429819392
+tested the performance::0.000478429819392
+formalize different classes::0.000478429819392
+2000 automatic recognition::0.000478429819392
+documents and lead::0.000478429819392
+represents the extent::0.000478429819392
+results of expected::0.000478429819392
+relations between documents::0.000478429819392
+characterizing document relationships::0.000478429819392
+development in information::0.000478429819392
+chain of concepts::0.000478429819392
+multilevel indexing expressions::0.000478429819392
+strube and ponzetto::0.000478429819392
+types are chosen::0.000478429819392
+experience remains focused::0.000478429819392
+document 2 hashing::0.000478429819392
+identifying semantic relatedness::0.000478429819392
+experimentation and results::0.000478429819392
+extensive experimental results::0.000478429819392
+introduction automated guidance::0.000478429819392
+semantic relatedness definition::0.000478429819392
+database systems data::0.000478429819392
+consists of advanced::0.000478429819392
+data sets table::0.000478429819392
+2006 semantic relations::0.000478429819392
+supervised learning functional::0.000478429819392
+range of domains::0.000478429819392
+cases ­ document::0.000478429819392
+normalized relevance distance::0.000478429819392
+index huang 2008::0.000478429819392
+terms and documents::0.000478429819392
+effect of terms::0.000478429819392
+search machine learning::0.000478429819392
+c-value d-span rank::0.000478429819392
+video lecture transcripts::0.000478429819392
+evidence for elaboration::0.000478429819392
+high distribution similarity::0.000478429819392
+measure in quantifying::0.000478429819392
+relation data set1::0.000478429819392
+definition of c-value::0.000478429819392
+provide detailed discussions::0.000478429819392
+table while recall::0.000478429819392
+continuation we first::0.000478429819392
+definition of topic::0.000478429819392
+technical documents show::0.000478429819392
+text video transcripts::0.000478429819392
+d-span is moderate::0.000478429819392
+application implementation directly::0.000478429819392
+316­321 khoo c.s.g.::0.000478429819392
+patterns between documents::0.000478429819392
+develop a statistical::0.000478429819392
+number of clusters::0.000478429819392
+background terms term::0.000478429819392
+semantic user profiles::0.000478429819392
+table 6 shows::0.000478429819392
+normalized and run::0.000478429819392
+topics to follow::0.000478429819392
+identifying and characterizing::0.000478429819392
+classifier a logic-based::0.000478429819392
+approach for modeling::0.000478429819392
+terms term topic::0.000478429819392
+stacks and queues::0.000478429819392
+data sets development::0.000478429819392
+topic a background::0.000478429819392
+suggestions and meta-data::0.000478429819392
+characterize different relationships::0.000478429819392
+document pairs based::0.000478429819392
+top k results::0.000478429819392
+200 and cosine::0.000478429819392
+retrieve the related::0.000478429819392
+retrieval system shows::0.000478429819392
+applications and elaborations::0.000478429819392
+learning functional languages::0.000478429819392
+found in table::0.000478429819392
+nptel that features::0.000478429819392
+terms has lead::0.000478429819392
+balasubramanian b vidhya@cb.amrita.edu::0.000478429819392
+advatages as argued::0.000478429819392
+relation between documents::0.000478429819392
+document is chosen::0.000478429819392
+involve computing semantic::0.000478429819392
+truth creation process::0.000478429819392
+systems hopfgartner 2010;::0.000478429819392
+lists some types::0.000478429819392
+singular value matrix::0.000478429819392
+stevenson m 2015::0.000478429819392
+agirre e. aletras::0.000478429819392
+elaboration and statistical::0.000478429819392
+intent of users::0.000478429819392
+analysis of sample::0.000478429819392
+prone to false::0.000478429819392
+provide such document::0.000478429819392
+sources for gathering::0.000478429819392
+measure the d-span::0.000478429819392
+wikipedia-based explicit semantic::0.000478429819392
+frasincar f 2013::0.000478429819392
+application and f-score::0.000478429819392
+curves query processing::0.000478429819392
+mentioned in section::0.000478429819392
+coefficient and kld::0.000478429819392
+role in defining::0.000478429819392
+create ground truth::0.000478429819392
+series of document::0.000478429819392
+model in order::0.000478429819392
+relatedness and provide::0.000478429819392
+identifying the application::0.000478429819392
+relationships and describes::0.000478429819392
+data set2 continuation::0.000478429819392
+eliminating the occurrences::0.000478429819392
+lectures some mathematical::0.000478429819392
+2008 is applied::0.000478429819392
+acm 48(12 152­152::0.000478429819392
+elaboration this relation::0.000478429819392
+technology 63(8 1593­1608::0.000478429819392
+applied is represented::0.000478429819392
+results is needed::0.000478429819392
+terms with similar::0.000478429819392
+maps arxiv:1303.4087 schaefer::0.000478429819392
+knowledge is essential::0.000478429819392
+terms to boost::0.000478429819392
+aspects into account::0.000478429819392
+mathematical some programming::0.000478429819392
+identified between lectures::0.000478429819392
+set3 continuation elaboration::0.000478429819392
+conference on uncertainty::0.000478429819392
+xfind. user interfaces::0.000478429819392
+linguistics pp 19­27::0.000478429819392
+patterns for common::0.000478429819392
+systems tois 26(3::0.000478429819392
+coefficients are examples::0.000478429819392
+measure brings out::0.000478429819392
+similarity would indicate::0.000478429819392
+patterns of terms::0.000478429819392
+4.32 while dictionaries::0.000478429819392
+explorations in information::0.000478429819392
+mechanical engineering electrical::0.000478429819392
+documents that exhibit::0.000478429819392
+document relatedness score::0.000478429819392
+snippets of text::0.000478429819392
+scientific publication recommendations::0.000478429819392
+tf-idf to weight::0.000478429819392
+syst we created::0.000478429819392
+kravalova j. pas::0.000478429819392
+users each user::0.000478429819392
+bins for evaluation::0.000478429819392
+compare the obtained::0.000478429819392
+represents the topic::0.000478429819392
+approach as evaluated::0.000478429819392
+identification of interesting::0.000478429819392
+ratings are presented::0.000478429819392
+2012 scientific publication::0.000478429819392
+foltz p.w. kintsch::0.000478429819392
+indicate the strength::0.000478429819392
+media new york::0.000478429819392
+dsim negative cdiff::0.000478429819392
+view a selected::0.000478429819392
+wan and peng::0.000478429819392
+category of relatedness::0.000478429819392
+user to view::0.000478429819392
+relevance and low::0.000478429819392
+enable the user::0.000478429819392
+provide scores based::0.000478429819392
+estimate the likelihood::0.000478429819392
+categories these relatedness::0.000478429819392
+readily calculated similarly::0.000478429819392
+risks like uncertain::0.000478429819392
+285­307 frantzi k.t.::0.000478429819392
+earlier we evaluate::0.000478429819392
+defining the continuation::0.000478429819392
+category the set::0.000478429819392
+hypertext are limited::0.000478429819392
+initial term-document matrix::0.000478429819392
+1999 probabilistic latent::0.000478429819392
+traversal cubic spline::0.000478429819392
+specific some theoretical::0.000478429819392
+science annual review::0.000478429819392
+application data set2::0.000478429819392
+distinct statistical patterns::0.000478429819392
+results a sample::0.000478429819392
+spread of common::0.000478429819392
+indicating the effectiveness::0.000478429819392
+mathematics mechanical engineering::0.000478429819392
+relationship these probabilities::0.000478429819392
+case of academic::0.000478429819392
+frequency after eliminating::0.000478429819392
+displays the results::0.000478429819392
+points the filter::0.000478429819392
+relevance the degree::0.000478429819392
+matrix was arbitrarily::0.000478429819392
+related by continuation::0.000478429819392
+documents was presented::0.000478429819392
+term j intell::0.000478429819392
+features to determine::0.000478429819392
+multiple document formats::0.000478429819392
+work and guidance::0.000478429819392
+berlin springer capelle::0.000478429819392
+obtained and recall::0.000478429819392
+kwok k.l 2008::0.000478429819392
+indexing expressions programming::0.000478429819392
+aspects of common::0.000478429819392
+section 3.2 similarity::0.000478429819392
+graph-based or knowledge-based::0.000478429819392
+notation background terms::0.000478429819392
+compute the relatedness::0.000478429819392
+identify different aspects::0.000478429819392
+evaluation and development::0.000478429819392
+lecture on query::0.000478429819392
+lectures and documents::0.000478429819392
+corpus-based measure built::0.000478429819392
+terms that contribute::0.000478429819392
+count the difference::0.000478429819392
+application average user::0.000478429819392
+digital library recommendation::0.000478429819392
+provide a starting::0.000478429819392
+conference on research::0.000478429819392
+measures this experiment::0.000478429819392
+covered for instance::0.000478429819392
+results of latent::0.000478429819392
+technology 40 157­228::0.000478429819392
+approach for query::0.000478429819392
+relationship maybe considered::0.000478429819392
+lectures and scientific::0.000478429819392
+applying the bayes::0.000478429819392
+association for information::0.000478429819392
+aletras n. stevenson::0.000478429819392
+pairs balanced f-score::0.000478429819392
+cluster where cdiff::0.000478429819392
+syntax pointers logical::0.000478429819392
+semantic relatedness continuation::0.000478429819392
+considered a person::0.000478429819392
+implementation of birch::0.000478429819392
+similarity and high::0.000478429819392
+multi-level indexing computer::0.000478429819392
+background terms documents::0.000478429819392
+experts this serves::0.000478429819392
+document pairs evaluated::0.000478429819392
+moderate c-value moderate::0.000478429819392
+non-textual features scientific::0.000478429819392
+shown in section::0.000478429819392
+sample document data::0.000478429819392
+model that identifies::0.000478429819392
+digital libraries jeyavaishnavi::0.000478429819392
+university of stellenbosch::0.000478429819392
+analyze the performance::0.000478429819392
+architecture of proposed::0.000478429819392
+evaluate the large::0.000478429819392
+esa latent semantic::0.000478429819392
+related work relatedness::0.000478429819392
+zhang t. ramakrishnan::0.000478429819392
+determined by analyzing::0.000478429819392
+represents a `continuation::0.000478429819392
+c-value moderate tf-idf::0.000478429819392
+identifying additional document::0.000478429819392
+based on c-value::0.000478429819392
+content additionally digital::0.000478429819392
+works like huang::0.000478429819392
+velikhov p 2008::0.000478429819392
+transcripts in dataset::0.000478429819392
+set of relations::0.000478429819392
+efficient data clustering::0.000478429819392
+denning p. horning::0.000478429819392
+resistor capacitor dictionaries::0.000478429819392
+publication; presents method::0.000478429819392
+topic a term::0.000478429819392
+languages application score::0.000478429819392
+scores a simple::0.000478429819392
+estimation of bayesian::0.000478429819392
+university of glasgow::0.000478429819392
+proceedings of human::0.000478429819392
+references mit 2012::0.000478429819392
+helpful we start::0.000478429819392
+covered in document::0.000478429819392
+c-value of common::0.000478429819392
+relationship is weak::0.000478429819392
+similar documents works::0.000478429819392
+wikipedia concepts based::0.000478429819392
+derived from external::0.000478429819392
+calculated balanced f-score::0.000478429819392
+intended for learning::0.000478429819392
+infer the underlying::0.000478429819392
+high minimum tf-idf::0.000478429819392
+extended to identify::0.000478429819392
+relation the documents::0.000478429819392
+document for instance::0.000478429819392
+eliminated the relation::0.000478429819392
+mima h 2000::0.000478429819392
+experts and compare::0.000478429819392
+difficult to create::0.000478429819392
+structured text documents::0.000478429819392
+document similarity search::0.000478429819392
+elaboration we compare::0.000478429819392
+indicates a subtopic::0.000478429819392
+frequency and occurs::0.000478429819392
+relationship a higher::0.000478429819392
+hashing hash tables::0.000478429819392
+similarity and tf-idf::0.000478429819392
+term having high::0.000478429819392
+information about this?::0.000478429819392
+languages base address::0.000478429819392
+sake of readability::0.000478429819392
+focuses on relationships::0.000478429819392
+background a background::0.000478429819392
+relationship 3 indicates::0.000478429819392
+user ratings based::0.000478429819392
+gouws s 2010::0.000478429819392
+huynh t. hoang::0.000478429819392
+stop word removal::0.000478429819392
+based on similarities::0.000478429819392
+review of information::0.000478429819392
+information science annual::0.000478429819392
+subset of test::0.000478429819392
+part of larger::0.000478429819392
+conference on computational::0.000478429819392
+exhibiting this relation::0.000478429819392
+infer concept level::0.000478429819392
+providing more information::0.000478429819392
+based on extensive::0.000478429819392
+hand is designed::0.000478429819392
+graph shows recommended::0.000478429819392
+feature high d-span::0.000478429819392
+instance for data::0.000478429819392
+model that captures::0.000478429819392
+characterized by specific::0.000478429819392
+graph linking research::0.000478429819392
+argued by denning::0.000478429819392
+feasible to analogize::0.000478429819392
+defines the continuation::0.000478429819392
+electronics as shown::0.000478429819392
+reducing the noise::0.000478429819392
+evaluating our relatedness::0.000478429819392
+relations in information::0.000478429819392
+f-score normalized mutual::0.000478429819392
+documents that hold::0.000478429819392
+frequency and inverse-document::0.000478429819392
+tf-idf vs d-span::0.000478429819392
+consensus the document::0.000478429819392
+process the ground::0.000478429819392
+outlines the related::0.000478429819392
+typical scientific technological::0.000478429819392
+transcripts in data::0.000478429819392
+bayes and maximum::0.000478429819392
+approaches for identifying::0.000478429819392
+elaboration this indicates::0.000478429819392
+document similarity metrics::0.000478429819392
+continuation is characterized::0.000478429819392
+parallel hash tables::0.000478429819392
+computing semantic similarity::0.000478429819392
+i.h 2012 learning::0.000478429819392
+research and development::0.000478429819392
+relatedness · information::0.000478429819392
+based on collaborative::0.000478429819392
+2012 and mit-ocw::0.000478429819392
+tf-idf is empirically::0.000478429819392
+find any similar::0.000478429819392
+patterns in term::0.000478429819392
+documents 1 indicates::0.000478429819392
+retrieval model based::0.000478429819392
+defined in balagopalan::0.000478429819392
+style of discussion::0.000478429819392
+flow of concepts::0.000478429819392
+journal on digital::0.000478429819392
+improved by taking::0.000478429819392
+document is brought::0.000478429819392
+2012 scientific literature::0.000478429819392
+x.j. & peng::0.000478429819392
+continue a subtopic::0.000478429819392
+present appropriate suggestions::0.000478429819392
+documents the ratings::0.000478429819392
+manner this calls::0.000478429819392
+systems and innovative::0.000478429819392
+hopfgartner f 2010::0.000478429819392
+text document clustering.::0.000478429819392
+continuation type helps::0.000478429819392
+require a knowledge::0.000478429819392
+logical notation background::0.000478429819392
+documents or text::0.000478429819392
+queue scaled cont::0.000478429819392
+152­152 foltz p.w.::0.000478429819392
+test our measures::0.000478429819392
+inter-document relatedness model::0.000478429819392
+acm pp 296­302::0.000478429819392
+dsim or low::0.000478429819392
+mix of graduate::0.000478429819392
+similarity among common::0.000478429819392
+binary search machine::0.000478429819392
+system the architecture::0.000478429819392
+proposed with respect::0.000478429819392
+related to background::0.000478429819392
+similarity index huang::0.000478429819392
+similarity in occurrence::0.000478429819392
+focus on providing::0.000478429819392
+approach where user::0.000478429819392
+chosen data set::0.000478429819392
+terms hence indicating::0.000478429819392
+publishers inc hopfgartner::0.000478429819392
+libraries jeyavaishnavi muralikumar1::0.000478429819392
+services to support::0.000478429819392
+c-value is defined::0.000478429819392
+common topic terms::0.000478429819392
+hogenboom f. hogenboom::0.000478429819392
+dsim and cdiff::0.000478429819392
+research articles related::0.000478429819392
+semantic analysis hofmann::0.000478429819392
+relation are expected::0.000478429819392
+measurement of textual::0.000478429819392
+notion in mind::0.000478429819392
+semantic relation bean::0.000478429819392
+sample source document::0.000478429819392
+content-based recommender applications::0.000478429819392
+learning context free::0.000478429819392
+boost helps counteract::0.000478429819392
+processes 25(2­3 285­307::0.000478429819392
+account for relations::0.000478429819392
+dsim  cdiff::0.000478429819392
+2013 and huang::0.000478429819392
+defined in frantzi::0.000478429819392
+pieces of text::0.000478429819392
+ananiadou s 1996::0.000478429819392
+clustered after points::0.000478429819392
+candidates for continuation::0.000478429819392
+taxonomy of science::0.000478429819392
+analogize a document::0.000478429819392
+documents the problem::0.000478429819392
+turdakov and velikhov::0.000478429819392
+corpora the normalized::0.000478429819392
+experts who generated::0.000478429819392
+work references mit::0.000478429819392
+refinement in ontologybased::0.000478429819392
+validated in section::0.000478429819392
+information systems totalling::0.000478429819392
+play a major::0.000478429819392
+science education literature::0.000478429819392
+measure of relevance::0.000478429819392
+identify the inter-document::0.000478429819392
+libraries · statistical::0.000478429819392
+categories of relatedness::0.000478429819392
+plenty of models::0.000478429819392
+similarity or lsa::0.000478429819392
+suggestions to enable::0.000478429819392
+application estimated probability::0.000478429819392
+document is applied::0.000478429819392
+2001 describe clustering::0.000478429819392
+experimentation and evaluation::0.000478429819392
+sets for judging::0.000478429819392
+database systems publication::0.000478429819392
+networks. collaboration technologies::0.000478429819392
+user these figures::0.000478429819392
+replacing the c-value::0.000478429819392
+machine learning context::0.000478429819392
+measure is fundamental::0.000478429819392
+main topic term::0.000478429819392
+vectors representing tf-idf::0.000478429819392
+alfonseca e. hall::0.000478429819392
+subset of documents::0.000478429819392
+model defines measures::0.000478429819392
+generic similarity relation::0.000478429819392
+analysis the likelihood::0.000478429819392
+lsa is defined::0.000478429819392
+functions is continued::0.000478429819392
+number of common::0.000478429819392
+results for application::0.000478429819392
+c-value over tf-idf::0.000478429819392
+gabrilovich and markovitch::0.000478429819392
+shows an illustration::0.000478429819392
+category this relationship::0.000478429819392
+eliminating the densest::0.000478429819392
+explicit semantic analysis::0.000478429819392
+technologies and systems::0.000478429819392
+syst similarity measures::0.000478429819392
+analyze the continuation::0.000478429819392
+identifies such requirements::0.000478429819392
+documents must feature::0.000478429819392
+frequency d-span d-span::0.000478429819392
+publication recommendations based::0.000478429819392
+defined similarity measures::0.000478429819392
+lsa these measures::0.000478429819392
+consideration the td-idf::0.000478429819392
+balasubramanian l.l. balasubramanian::0.000478429819392
+similarity in d-span::0.000478429819392
+measure for document::0.000478429819392
+interpolation hash tables::0.000478429819392
+recent corpus-based measure::0.000478429819392
+peng y.x 2005::0.000478429819392
+provide better document::0.000478429819392
+video retrieval application::0.000478429819392
+measure after replacing::0.000478429819392
+weights as making::0.000478429819392
+relationship and indicating::0.000478429819392
+application an application::0.000478429819392
+similarity measure based::0.000478429819392
+based on distinct::0.000478429819392
+factors into account::0.000478429819392
+lowered to 200::0.000478429819392
+ground truth includes::0.000478429819392
+measures more reliable::0.000478429819392
+share including common::0.000478429819392
+nmi were calculated::0.000478429819392
+trees trees trees::0.000478429819392
+address different aspects::0.000478429819392
+measures that involve::0.000478429819392
+pointers logical inference::0.000478429819392
+tables though hashing::0.000478429819392
+hash tables table::0.000478429819392
+remains unsolved citation::0.000478429819392
+type of indirect::0.000478429819392
+requirements without relying::0.000478429819392
+engineering electrical engineering::0.000478429819392
+springer science+business media::0.000478429819392
+features to identify::0.000478429819392
+discussion and presented::0.000478429819392
+sequences or paths::0.000478429819392
+perspective our work::0.000478429819392
+weight the d-span::0.000478429819392
+applications are interesting::0.000478429819392
+relationship 4 indicates::0.000478429819392
+document recommendation information::0.000478429819392
+morgan kaufmann publishers::0.000478429819392
+graphs of related::0.000478429819392
+feature based filter::0.000478429819392
+sets by explicit::0.000478429819392
+learner s perspective::0.000478429819392
+terms as shown::0.000478429819392
+ongoing to determine::0.000478429819392
+approaches like collaborative::0.000478429819392
+left child quick::0.000478429819392
+2013 semantic news::0.000478429819392
+journal on computing::0.000478429819392
+quantify each type::0.000478429819392
+relying on external::0.000478429819392
+learning nptel http::0.000478429819392
+involve hash tables::0.000478429819392
+created data sets::0.000478429819392
+applications stellenbosch university::0.000478429819392
+information retrieval acm::0.000478429819392
+performance on varied::0.000478429819392
+lecture on universal::0.000478429819392
+wikirelate! computing semantic::0.000478429819392
+boost the effect::0.000478429819392
+generating potential results::0.000478429819392
+c.h. liu d.r.::0.000478429819392
+making relevance decisions::0.000478429819392
+wikipedia. aaai vol::0.000478429819392
+ratings were table::0.000478429819392
+engines our experiments::0.000478429819392
+motivate a definition::0.000478429819392
+amrita university coimbatore::0.000478429819392
+relatedness using wikipedia-based::0.000478429819392
+huang a 2008::0.000478429819392
+learning this article::0.000478429819392
+information sciences 239(0::0.000478429819392
+similarity between items::0.000478429819392
+balagopalan a. balasubramanian::0.000478429819392
+word sense disambiguation::0.000478429819392
+models in collaborative::0.000478429819392
+statistical patterns exhibited::0.000478429819392
+probabilistic lsa account::0.000478429819392
+areas of information::0.000478429819392
+prototype system works::0.000478429819392
+increasing order linked::0.000478429819392
+address logical notation::0.000478429819392
+occur between documents::0.000478429819392
+usage of topic::0.000478429819392
+documents was limited::0.000478429819392
+background terms elaboration::0.000478429819392
+covered multiple document::0.000478429819392
+widely a term::0.000478429819392
+lecture propositional logic::0.000478429819392
+tables and virtual::0.000478429819392
+transcripts featuring topics::0.000478429819392
+documents as discussed::0.000478429819392
+shows recommended continuations::0.000478429819392
+metrics with content-based::0.000478429819392
+continuation the `continuation::0.000478429819392
+definitions in section::0.000478429819392
+search result visualisation::0.000478429819392
+elaboration the common::0.000478429819392
+suggestions the simplest::0.000478429819392
+digital library journal::0.000478429819392
+birch an efficient::0.000478429819392
+directions for information::0.000478429819392
+approach that identifies::0.000478429819392
+classes of common::0.000478429819392
+elaboration or application::0.000478429819392
+literature the model::0.000478429819392
+jaccard similarity coefficients::0.000478429819392
+rigau g. agirre::0.000478429819392
+study on similarity::0.000478429819392
+judging these specific::0.000478429819392
+finally we conclude::0.000478429819392
+relatedness this relatedness::0.000478429819392
+feature a semantic::0.000478429819392
+browsing experience remains::0.000478429819392
+document an automated::0.000478429819392
+videos this graph::0.000478429819392
+development of conceptual::0.000478429819392
+free grammar quick::0.000478429819392
+keeping in mind::0.000478429819392
+set1 continuation elaboration::0.000478429819392
+289­296 morgan kaufmann::0.000478429819392
+3(2 115­130 gabrilovich::0.000478429819392
+continuation therefore differs::0.000478429819392
+1992 and andrews::0.000478429819392
+quantifying the application::0.000478429819392
+researchers have defined::0.000478429819392
+society for information::0.000478429819392
+reliable and studies::0.000478429819392
+relatedness through analysis::0.000478429819392
+concept level relationships;::0.000478429819392
+intelligence pp 289­296::0.000478429819392
+solve the problem::0.000478429819392
+hashing here topic::0.000478429819392
+larger subject domain::0.000478429819392
+distance information sciences::0.000478429819392
+clusters the result::0.000478429819392
+education science teacher::0.000478429819392
+shows the average::0.000478429819392
+contribute to detecting::0.000478429819392
+relationships are modeled::0.000478429819392
+d-span similarity patterns::0.000478429819392
+c-value we make::0.000478429819392
+dictionaries hence dictionaries::0.000478429819392
+context of concepts::0.000478429819392
+coherence with latent::0.000478429819392
+users after discussion::0.000478429819392
+quantifying semantic similarity::0.000478429819392
+determined using domain::0.000478429819392
+bean and green::0.000478429819392
+based on user::0.000478429819392
+larger n-grams terms::0.000478429819392
+recommendation using wordnet::0.000478429819392
+definitive 2 indicates::0.000478429819392
+investigating item similarity::0.000478429819392
+data clustering method::0.000478429819392
+documents average precision::0.000478429819392
+d-span of common::0.000478429819392
+relevance decisions acm::0.000478429819392
+aspects or dimensions::0.000478429819392
+measures that solve::0.000478429819392
+metric for measuring::0.000478429819392
+acm sigmod record::0.000478429819392
+relationship we approach::0.000478429819392
+words between successive::0.000478429819392
+ponzetto 2006 turdakov::0.000478429819392
+tf-idf dramatically improves::0.000478429819392
+broad document characteristics::0.000478429819392
+identify the dominating::0.000478429819392
+exhibiting continuation elaboration::0.000478429819392
+28th annual acm::0.000478429819392
+capture document relationships::0.000478429819392
+discussed our inter-document::0.000478429819392
+examine the d-span::0.000478429819392
+stacks and linked::0.000478429819392
+lectures. technology enhanced::0.000478429819392
+2013 an improved::0.000478429819392
+providing a channelized::0.000478429819392
+lectures from data::0.000478429819392
+mind these aspects::0.000478429819392
+formats and structures::0.000478429819392
+model to evaluate::0.000478429819392
+graduate level classroom::0.000478429819392
+sample feature scores::0.000478429819392
+constant factor minimum::0.000478429819392
+livny m 1996::0.000478429819392
+recommendation information sciences::0.000478429819392
+taking these factors::0.000478429819392
+relatedness over reference::0.000478429819392
+set for evaluation::0.000478429819392
+support automatic suggestions::0.000478429819392
+learning like `knowing::0.000478429819392
+documents these works::0.000478429819392
+observed that studying::0.000478429819392
+methods from nptel::0.000478429819392
+documents knowledge based::0.000478429819392
+r.w.p. wong k.f.::0.000478429819392
+scientific literature documents::0.000478429819392
+technology 20(4 552­558::0.000478429819392
+analysis hofmann 1999::0.000478429819392
+determining the relationship::0.000478429819392
+imagining and creating::0.000478429819392
+definition requires concepts::0.000478429819392
+dictionaries stack document::0.000478429819392
+63(8 1593­1608 huynh::0.000478429819392
+gottron t 2014::0.000478429819392
+hall k. kravalova::0.000478429819392
+terms of varying::0.000478429819392
+based on non-textual::0.000478429819392
+discourse processes 25(2­3::0.000478429819392
+inform and fulfill::0.000478429819392
+distributional and wordnet-based::0.000478429819392
+concept being applied::0.000478429819392
+system that identifies::0.000478429819392
+tables have similar::0.000478429819392
+level classroom lecture::0.000478429819392
+material such systems::0.000478429819392
+relatedness continuity elaboration::0.000478429819392
+binary search trees::0.000478429819392
+based on texttiling::0.000478429819392
+logic lecture document::0.000478429819392
+system and analyze::0.000478429819392
+benefited when documents::0.000478429819392
+feature common terms::0.000478429819392
+cultural heritage jocch::0.000478429819392
+j.c 2006 semantic::0.000478429819392
+node left child::0.000478429819392
+similar d-span scores::0.000478429819392
+title of document::0.000478429819392
+science our prototype::0.000478429819392
+2012 automatic keyphrase::0.000478429819392
+documents and mint::0.000478429819392
+k.l 2008 interpreting::0.000478429819392
+argued that continuation::0.000478429819392
+scores for application::0.000478429819392
+high dsim negative::0.000478429819392
+word removal stemming::0.000478429819392
+represented several subject::0.000478429819392
+annual international acm::0.000478429819392
+alue of common::0.000478429819392
+relevance in terms::0.000478429819392
+number of scientific::0.000478429819392
+insight into linked::0.000478429819392
+concept in document::0.000478429819392
+document similarity measures::0.000478429819392
+feedback and semantic::0.000478429819392
+http nptel 2012::0.000478429819392
+subtopics are featured::0.000478429819392
+weighting for comparison::0.000478429819392
+library of cultural::0.000478429819392
+classified as exhibiting::0.000478429819392
+examples of statistical::0.000478429819392
+references to hash::0.000478429819392
+quantify the degree::0.000478429819392
+obtained when cosine::0.000478429819392
+subtopic or background::0.000478429819392
+item similarity types::0.000478429819392
+probabilities that types::0.000478429819392
+41­46 j intell::0.000478429819392
+topic maps arxiv:1303.4087::0.000478429819392
+occurrence or term::0.000478429819392
+hash tables queue::0.000478429819392
+gonzalez-agirre a. rigau::0.000478429819392
+defined or mentioned::0.000478429819392
+transcripts of classroom::0.000478429819392
+topic terms stacks::0.000478429819392
+2014 normalized relevance::0.000478429819392
+topic terms binary::0.000478429819392
+made some exploratory::0.000478429819392
+rafi and shaikh::0.000478429819392
+media in question::0.000478429819392
+feature dispersion defined::0.000478429819392
+large databases. acm::0.000478429819392
+relatedness in scientific::0.000478429819392
+c-value difference established::0.000478429819392
+measures like c-value::0.000478429819392
+document clustering. proceedings::0.000478429819392
+application of dictionaries::0.000478429819392
+presenting a diversified::0.000478429819392
+continuation the relevance::0.000478429819392
+wikipedia risks communications::0.000478429819392
+physics chemistry biology::0.000478429819392
+applications this led::0.000478429819392
+choose to create::0.000478429819392
+analysis in proceedings::0.000478429819392
+3718­3730 wan x.j.::0.000478429819392
+filtering for document::0.000478429819392
+mit-ocw featuring topics::0.000478429819392
+systems publication trees::0.000478429819392
+k.f. & kwok::0.000478429819392
+semantic analysis lsa::0.000478429819392
+document relation scores::0.000478429819392
+generated the ground::0.000478429819392
+texttiling for document::0.000478429819392
+2013 or wikipedia::0.000478429819392
+provide useful directions::0.000478429819392
+fast becoming important::0.000478429819392
+1996 this measure::0.000478429819392
+characterize the relationships::0.000478429819392
+quick sort subtopic::0.000478429819392
+results when c-value::0.000478429819392
+method international journal::0.000478429819392
+relationships in digital::0.000478429819392
+metric for computing::0.000478429819392
+agirre e. alfonseca::0.000478429819392
+programme on technology::0.000478429819392
+out the relevance::0.000478429819392
+experimental results finally::0.000478429819392
+application of implicit::0.000478429819392
+develop a prototype::0.000478429819392
+elaboration application score::0.000478429819392
+future work references::0.000478429819392
+h.c. luk r.w.p.::0.000478429819392
+relation as shown::0.000478429819392
+lectures our measures::0.000478429819392
+domains they covered::0.000478429819392
+cdiff is positive::0.000478429819392
+including common terms::0.000478429819392
+characterized by dsim::0.000478429819392
+helps a learner::0.000478429819392
+science teacher 56(2::0.000478429819392
+established in section::0.000478429819392
+trees lecture type::0.000478429819392
+mover's distance information::0.000478429819392
+work or datasets::0.000478429819392
+shown the results::0.000478429819392
+background terms increasing::0.000478429819392
+linking research articles::0.000478429819392
+cubic spline interpolation::0.000478429819392
+continuation average precision::0.000478429819392
+lecture type application::0.000478429819392
+relatedness between scientific::0.000478429819392
+video lectures. technology::0.000478429819392
+defines the relevance::0.000478429819392
+esa::0.000478429819392
+log2::0.000478429819392
+observations::0.000478429819392
+flow::0.000478429819392
+characterizing::0.000478429819392
+alue::0.000478429819392
+cultural::0.000478429819392
+gabrilovich::0.000478429819392
+agirre::0.000478429819392
+queue::0.000478429819392
+bayes::0.000478429819392
+programming::0.000478429819392
+eliminating::0.000478429819392
+fundamental::0.000478429819392
+mit-ocw::0.000478429819392
+featuring::0.000478429819392
+prominently::0.000478429819392
+2000::0.000478429819392
+aletras::0.000478429819392
+boost::0.000478429819392
+knowing::0.000478429819392
+birch::0.000478429819392
+alue2::0.000478429819392
+alue1::0.000478429819392
+meta-data::0.000478429819392
+schaefer::0.000478429819392
+scaled::0.000478429819392
+collaborative::0.000478429819392
+dispersion::0.000478429819392
+mit::0.000478429819392
+lead::0.000478429819392
+patterns::0.000464329625208
+applied::0.000455551983144
+suggestions::0.000455551983144
+set of documents::0.000455551983144
+shown in table::0.000455551983144
+latent::0.000453968852494
+characterize::0.000453968852494
+requirements::0.000453968852494
+balagopalan::0.000453968852494
+pattern::0.000453968852494
+prototype::0.000453968852494
+difference::0.000453968852494
+presented::0.000453968852494
+expert::0.000453968852494
+2013::0.000453968852494
+concept::0.000442218690674
+section::0.000442218690674
+literature::0.000404935096128
+machine learning::0.000404935096128
+topic subtopic::0.000404935096128
+semantic similarity::0.000404935096128
+trees::0.000404935096128
+knowledge::0.000397996821607
+users::0.000375885887073
+1996::0.000363175081995
+average rating::0.000363175081995
+retrieval system::0.000363175081995
+technology enhanced::0.000363175081995
+semantic relation::0.000363175081995
+development::0.000363175081995
+background topics::0.000363175081995
+expected::0.000363175081995
+brought out::0.000363175081995
+presence::0.000363175081995
+stacks::0.000363175081995
+extensive::0.000363175081995
+videos::0.000363175081995
+2001::0.000363175081995
+2007::0.000363175081995
+2005::0.000363175081995
+recommendation systems::0.000363175081995
+user feedback::0.000363175081995
+expect::0.000363175081995
+probabilistic::0.000363175081995
+information systems::0.000363175081995
+binary search::0.000363175081995
+statistical approach::0.000363175081995
+background knowledge::0.000363175081995
+defines::0.000363175081995
+keyphrase extraction::0.000363175081995
+identifies::0.000363175081995
+literature survey::0.000363175081995
+exhibit::0.000363175081995
+large data::0.000363175081995
+extent::0.000363175081995
+modeling::0.000363175081995
+discussion::0.000354318209112
+fig::0.000354318209112
+acm::0.000354318209112
+category::0.000354318209112
+domain::0.000354318209112
+identifying::0.000353774952539
+scientific::0.000353774952539
+features::0.000331664018006
+average::0.000331664018006
+sets::0.000331664018006
+evaluation::0.000331664018006
+uncertain expertise::0.000318953212928
+main theme::0.000318953212928
+teaching::0.000318953212928
+intended measures::0.000318953212928
+documents keywords::0.000318953212928
+data set2::0.000318953212928
+f-score normalized::0.000318953212928
+experimentally::0.000318953212928
+readily calculated::0.000318953212928
+progression::0.000318953212928
+values documents::0.000318953212928
+documents show::0.000318953212928
+2001 describe::0.000318953212928
+presents method::0.000318953212928
+andrews::0.000318953212928
+c-values higher::0.000318953212928
+n-gram extraction::0.000318953212928
+extensive experimentation::0.000318953212928
+c-value proves::0.000318953212928
+high-level applications::0.000318953212928
+zarrinkalam::0.000318953212928
+document clustering.::0.000318953212928
+elaboration relationship::0.000318953212928
+expert estimation::0.000318953212928
+underlying relationship::0.000318953212928
+cosine measure::0.000318953212928
+statistical modeling::0.000318953212928
+documents means::0.000318953212928
+articles related::0.000318953212928
+measure quantifies::0.000318953212928
+multi-word terms::0.000318953212928
+computer architecture::0.000318953212928
+identify similarity::0.000318953212928
+experimentation::0.000318953212928
+relation scores::0.000318953212928
+notation background::0.000318953212928
+ratings based::0.000318953212928
+relative d-span::0.000318953212928
+239(0 31­49::0.000318953212928
+calculated similarly::0.000318953212928
+work represents::0.000318953212928
+short snippets::0.000318953212928
+large databases.::0.000318953212928
+hofmann 1999::0.000318953212928
+1992::0.000318953212928
+typical scientific::0.000318953212928
+examples shown::0.000318953212928
+relationships identified::0.000318953212928
+330­337 denning::0.000318953212928
+links headings::0.000318953212928
+involving hypertext::0.000318953212928
+content additionally::0.000318953212928
+search journal::0.000318953212928
+maps arxiv:1303.4087::0.000318953212928
+systems data::0.000318953212928
+exhibiting application::0.000318953212928
+list root::0.000318953212928
+lai::0.000318953212928
+terms indicates::0.000318953212928
+`circular queue::0.000318953212928
+method international::0.000318953212928
+characteristic relationship::0.000318953212928
+2006 turdakov::0.000318953212928
+created data::0.000318953212928
+relatedness characterized::0.000318953212928
+documents demonstrate::0.000318953212928
+birch zhang::0.000318953212928
+trees document::0.000318953212928
+search figure::0.000318953212928
+affect::0.000318953212928
+directly opt::0.000318953212928
+31­49 mccormack::0.000318953212928
+economics physics::0.000318953212928
+involve user::0.000318953212928
+conceivable relationship::0.000318953212928
+tables table::0.000318953212928
+content similarity::0.000318953212928
+quantifying types::0.000318953212928
+elaborated term::0.000318953212928
+sri ananda::0.000318953212928
+mover's distance::0.000318953212928
+hopfgartner 2010;::0.000318953212928
+`standard deviation::0.000318953212928
+document structures::0.000318953212928
+grammar::0.000318953212928
+elaborations users::0.000318953212928
+remains unsolved::0.000318953212928
+2010 personalised::0.000318953212928
+address mapping::0.000318953212928
+provide ranked::0.000318953212928
+vectors representing::0.000318953212928
+measure working::0.000318953212928
+fundamental relation::0.000318953212928
+1992 bead::0.000318953212928
+feature multiple::0.000318953212928
+understanding aspect::0.000318953212928
+creation process::0.000318953212928
+system works::0.000318953212928
+model proposed::0.000318953212928
+implicit feedback::0.000318953212928
+included document::0.000318953212928
+user interest-based::0.000318953212928
+academic documents::0.000318953212928
+narendranath vijayakumar1::0.000318953212928
+specific relationships::0.000318953212928
+expert generally::0.000318953212928
+taking term::0.000318953212928
+elaboration score::0.000318953212928
+hanoi applies::0.000318953212928
+educational content::0.000318953212928
+analysis hofmann::0.000318953212928
+earth mover's::0.000318953212928
+2008 schaefer::0.000318953212928
+subtopic explained::0.000318953212928
+automated guidance::0.000318953212928
+analysis esa::0.000318953212928
+topic featured::0.000318953212928
+ideal subjects::0.000318953212928
+learning context::0.000318953212928
+2006 wikirelate!::0.000318953212928
+vidhya balasubramanian1::0.000318953212928
+concept linked::0.000318953212928
+extensive analysis::0.000318953212928
+feeling::0.000318953212928
+feature score::0.000318953212928
+perspective::0.000318953212928
+files including::0.000318953212928
+mind::0.000318953212928
+stable metric::0.000318953212928
+index method::0.000318953212928
+provide suggestions::0.000318953212928
+mint::0.000318953212928
+based approaches::0.000318953212928
+user experience::0.000318953212928
+relatedness category::0.000318953212928
+helps counteract::0.000318953212928
+khoo::0.000318953212928
+learning science::0.000318953212928
+relevance distance­a::0.000318953212928
+automatic recognition::0.000318953212928
+distance information::0.000318953212928
+`continuation `elaboration::0.000318953212928
+child quick::0.000318953212928
+multiple document::0.000318953212928
+keywords topics::0.000318953212928
+consuming process::0.000318953212928
+term terms::0.000318953212928
+scientific content::0.000318953212928
+documents categorized::0.000318953212928
+relation bean::0.000318953212928
+networks. collaboration::0.000318953212928
+syst similarity::0.000318953212928
+generating potential::0.000318953212928
+involve computing::0.000318953212928
+search result::0.000318953212928
+determined based::0.000318953212928
+user find::0.000318953212928
+relation exhibited::0.000318953212928
+svd rank::0.000318953212928
+lower d-span::0.000318953212928
+feature values::0.000318953212928
+relatedness measure::0.000318953212928
+describing extensive::0.000318953212928
+parallel hash::0.000318953212928
+bayes classifier::0.000318953212928
+sets represented::0.000318953212928
+increasing order::0.000318953212928
+educational media::0.000318953212928
+weight means::0.000318953212928
+arbitrarily lowered::0.000318953212928
+approaches. proceedings::0.000318953212928
+media files::0.000318953212928
+learning material::0.000318953212928
+2013; huynh::0.000318953212928
+removal stemming::0.000318953212928
+trees lecture::0.000318953212928
+analysis discourse::0.000318953212928
+classical probability::0.000318953212928
+liu d.r.::0.000318953212928
+1989 discusses::0.000318953212928
+proper justification::0.000318953212928
+http nptel::0.000318953212928
+2008 chalmers::0.000318953212928
+briefly covered::0.000318953212928
+collocations. proceedings::0.000318953212928
+extraction publication;::0.000318953212928
+section introduces::0.000318953212928
+logical sequences::0.000318953212928
+methods involving::0.000318953212928
+lin c.s::0.000318953212928
+gouws 2010::0.000318953212928
+high frequency::0.000318953212928
+heritage journal::0.000318953212928
+d-span subtopic::0.000318953212928
+recommender applications::0.000318953212928
+cases elaborations::0.000318953212928
+25(2­3 285­307::0.000318953212928
+including articles::0.000318953212928
+item similarity::0.000318953212928
+mutual information::0.000318953212928
+rank documents::0.000318953212928
+share similar::0.000318953212928
+set3 continuation::0.000318953212928
+keywords relatedness::0.000318953212928
+document characteristics::0.000318953212928
+sufficient knowledge::0.000318953212928
+2010 strube::0.000318953212928
+determined dispersion::0.000318953212928
+feature scores::0.000318953212928
+gonzalez-agirre::0.000318953212928
+distance schaefer::0.000318953212928
+context-based relatedness::0.000318953212928
+50­58 balagopalan::0.000318953212928
+average user::0.000318953212928
+inquisitive user::0.000318953212928
+model based::0.000318953212928
+score patterns::0.000318953212928
+person seeking::0.000318953212928
+comprehensive set::0.000318953212928
+e-learning repositories::0.000318953212928
+applied based::0.000318953212928
+selected document::0.000318953212928
+high minimum::0.000318953212928
+independent users::0.000318953212928
+48(12 152­152::0.000318953212928
+lecture making::0.000318953212928
+knowledge-based approach::0.000318953212928
+length |ta::0.000318953212928
+huynh::0.000318953212928
+citations links::0.000318953212928
+greedy algorithms::0.000318953212928
+quantifying application::0.000318953212928
+defined relatedness::0.000318953212928
+distinct statistical::0.000318953212928
+target documents::0.000318953212928
+linked list::0.000318953212928
+pattern medium::0.000318953212928
+rafi::0.000318953212928
+analysis lsa::0.000318953212928
+larger data::0.000318953212928
+requirements specifically::0.000318953212928
+scientific learning::0.000318953212928
+c-values lower::0.000318953212928
+identifies types::0.000318953212928
+introduction automated::0.000318953212928
+specific relation::0.000318953212928
+common concepts::0.000318953212928
+negative::0.000318953212928
+work relatedness::0.000318953212928
+balanced::0.000318953212928
+wikipedia concepts::0.000318953212928
+low d-spans::0.000318953212928
+learner browse::0.000318953212928
+identified features::0.000318953212928
+feature common::0.000318953212928
+requires concepts::0.000318953212928
+balasubramanian l.l.::0.000318953212928
+explicit ratings::0.000318953212928
+corpora ecai::0.000318953212928
+specific contributions::0.000318953212928
+document repository::0.000318953212928
+equivalent scope::0.000318953212928
+`knowing `exploring::0.000318953212928
+method probabilistic::0.000318953212928
+subtopic subtopic::0.000318953212928
+category based::0.000318953212928
+techniques identify::0.000318953212928
+reliable measures::0.000318953212928
+false positives::0.000318953212928
+techniques effectively::0.000318953212928
+suggestions based::0.000318953212928
+wikipedia hyperlinks::0.000318953212928
+concepts featured::0.000318953212928
+foltz p.w.::0.000318953212928
+dominating relationship(s::0.000318953212928
+interest-based approaches::0.000318953212928
+1606­1611 gonzalez-agirre::0.000318953212928
+background table::0.000318953212928
+naive::0.000318953212928
+users ground::0.000318953212928
+document corpus::0.000318953212928
+first identify::0.000318953212928
+applying document::0.000318953212928
+similarity pearson::0.000318953212928
+typically::0.000318953212928
+hofmann::0.000318953212928
+fifteenth conference::0.000318953212928
+high distribution::0.000318953212928
+logic lecture::0.000318953212928
+established method::0.000318953212928
+universal hashing::0.000318953212928
+document recommendation::0.000318953212928
+discovering::0.000318953212928
+lsa foltz::0.000318953212928
+optimization analysis::0.000318953212928
+zhang::0.000318953212928
+features extensive::0.000318953212928
+detailed discussions::0.000318953212928
+157­228 lai::0.000318953212928
+elaboration average::0.000318953212928
+concept-based document::0.000318953212928
+relation cosine::0.000318953212928
+broad document::0.000318953212928
+gathering information::0.000318953212928
+terms related::0.000318953212928
+references mit::0.000318953212928
+statistic features::0.000318953212928
+result visualisation::0.000318953212928
+esa latent::0.000318953212928
+jeyavaishnavi muralikumar1::0.000318953212928
+relevance defines::0.000318953212928
+system modeled::0.000318953212928
+document similarly::0.000318953212928
+probability function::0.000318953212928
+wordcount::0.000318953212928
+definition requires::0.000318953212928
+document; similar::0.000318953212928
+research student::0.000318953212928
+ananda seelan1::0.000318953212928
+positive indicating::0.000318953212928
+relationships based::0.000318953212928
+exploratory visualizations::0.000318953212928
+core topic::0.000318953212928
+systems hopfgartner::0.000318953212928
+probabilities estimated::0.000318953212928
+ananiadou 1996;::0.000318953212928
+disambiguation wan::0.000318953212928
+extensive evaluation::0.000318953212928
+features topics::0.000318953212928
+positive::0.000318953212928
+normalized compression::0.000318953212928
+estimating similarity::0.000318953212928
+ananiadou 1996::0.000318953212928
+bottom-left cluster::0.000318953212928
+differing c-values::0.000318953212928
+feature dispersion::0.000318953212928
+sub-headings similarity::0.000318953212928
+works similar::0.000318953212928
+semantic structure::0.000318953212928
+corpus-based measure::0.000318953212928
+text documents::0.000318953212928
+create datasets::0.000318953212928
+user profiling::0.000318953212928
+traditional recommendation::0.000318953212928
+text video::0.000318953212928
+2009; capelle::0.000318953212928
+high document::0.000318953212928
+base address::0.000318953212928
+wider occurrence::0.000318953212928
+explained adequately::0.000318953212928
+relatedness continuity::0.000318953212928
+terms taking::0.000318953212928
+expressions programming::0.000318953212928
+support automatic::0.000318953212928
+studying patterns::0.000318953212928
+d-span measure::0.000318953212928
+1996 birch::0.000318953212928
+relation data::0.000318953212928
+remains focused::0.000318953212928
+imagining::0.000318953212928
+results metrics::0.000318953212928
+science+business media::0.000318953212928
+argued::0.000318953212928
+documents gonzalez-agirre::0.000318953212928
+1.3x boost::0.000318953212928
+risks communications::0.000318953212928
+level classroom::0.000318953212928
+acm sigmod::0.000318953212928
+programming specific::0.000318953212928
+1593­1608 huynh::0.000318953212928
+graphics curves::0.000318953212928
+effectively extract::0.000318953212928
+dictionaries stack::0.000318953212928
+kahani::0.000318953212928
+measure results::0.000318953212928
+pointers logical::0.000318953212928
+retrieval database::0.000318953212928
+bring out::0.000318953212928
+collaborative citation::0.000318953212928
+similarity types::0.000318953212928
+system shows::0.000318953212928
+measuring occurrence::0.000318953212928
+average c-value::0.000318953212928
+specific purposes::0.000318953212928
+measure brings::0.000318953212928
+documents tested::0.000318953212928
+counteract::0.000318953212928
+continuing::0.000318953212928
+2012 computing::0.000318953212928
+`double-ended queue::0.000318953212928
+continuations applications::0.000318953212928
+initial term-document::0.000318953212928
+larger terms::0.000318953212928
+acm sigir::0.000318953212928
+comprehensively defined::0.000318953212928
+document vectors::0.000318953212928
+difference established::0.000318953212928
+paragraphs terms::0.000318953212928
+syst information::0.000318953212928
+central theme::0.000318953212928
+identified patterns::0.000318953212928
+markovitch::0.000318953212928
+defines measures::0.000318953212928
+nested::0.000318953212928
+collaboration technologies::0.000318953212928
+c-value d-span::0.000318953212928
+continuing table::0.000318953212928
+core content::0.000318953212928
+similarities. proceedings::0.000318953212928
+application estimated::0.000318953212928
+frantzi k.t.::0.000318953212928
+continuous::0.000318953212928
+points averaged::0.000318953212928
+average nmi::0.000318953212928
+specific examples::0.000318953212928
+strongly related::0.000318953212928
+mentions linked::0.000318953212928
+text document::0.000318953212928
+type application::0.000318953212928
+type helps::0.000318953212928
+elementary feature::0.000318953212928
+addressing::0.000318953212928
+tf-idf means::0.000318953212928
+bead explorations::0.000318953212928
+library keeping::0.000318953212928
+domain-specific keyphrase::0.000318953212928
+algorithmic complexity::0.000318953212928
+identifying feature::0.000318953212928
+interpreting tf-idf::0.000318953212928
+section 3.2::0.000318953212928
+set1 continuation::0.000318953212928
+low tf-idf::0.000318953212928
+stop word::0.000318953212928
+continuation scores::0.000318953212928
+pairwise relationship::0.000318953212928
+elaboration table::0.000318953212928
+article defines::0.000318953212928
+measure journal::0.000318953212928
+markovitch 2007::0.000318953212928
+sort subtopic::0.000318953212928
+terms documents::0.000318953212928
+densest bins::0.000318953212928
+2000 automatic::0.000318953212928
+lecture document::0.000318953212928
+stellenbosch hofmann::0.000318953212928
+sample feature::0.000318953212928
+traversal cubic::0.000318953212928
+syst terms::0.000318953212928
+created document::0.000318953212928
+language technologies::0.000318953212928
+fundamental measures::0.000318953212928
+recommendations identifying::0.000318953212928
+libraries jeyavaishnavi::0.000318953212928
+p.w. kintsch::0.000318953212928
+publishing zhang::0.000318953212928
+c-value method::0.000318953212928
+capture document::0.000318953212928
+investigating item::0.000318953212928
+chosen subset::0.000318953212928
+measuring relevance::0.000318953212928
+next?::0.000318953212928
+efficient data::0.000318953212928
+level relationships;::0.000318953212928
+cubic spline::0.000318953212928
+queues::0.000318953212928
+minimum required::0.000318953212928
+programming languages::0.000318953212928
+term topic::0.000318953212928
+publication recommendations::0.000318953212928
+document tf-idf::0.000318953212928
+patterns type::0.000318953212928
+library scenario::0.000318953212928
+share including::0.000318953212928
+sets table::0.000318953212928
+science teacher::0.000318953212928
+dramatically improves::0.000318953212928
+identify features::0.000318953212928
+covered multiple::0.000318953212928
+28th annual::0.000318953212928
+peng::0.000318953212928
+term-document matrix::0.000318953212928
+hashing hash::0.000318953212928
+documents citations::0.000318953212928
+enhanced learning::0.000318953212928
+approach results::0.000318953212928
+create ground::0.000318953212928
+document quantification::0.000318953212928
+stellenbosch::0.000318953212928
+articles video::0.000318953212928
+direction::0.000318953212928
+contextual relevance::0.000318953212928
+quantifying continuation::0.000318953212928
+libraries 3(2::0.000318953212928
+mit-ocw featuring::0.000318953212928
+describe clustering::0.000318953212928
+formal definitions::0.000318953212928
+low dsim::0.000318953212928
+`continuation::0.000318953212928
+additional observations::0.000318953212928
+equation `wordcount::0.000318953212928
+characteristics::0.000318953212928
+coimbatore india::0.000318953212928
+y.x 2005::0.000318953212928
+based filter::0.000318953212928
+similarity patterns::0.000318953212928
+lecture videos::0.000318953212928
+wikipedia document::0.000318953212928
+ecai strube::0.000318953212928
+c-value high::0.000318953212928
+2005 wikipedia::0.000318953212928
+mathematics mechanical::0.000318953212928
+additional document::0.000318953212928
+physics chemistry::0.000318953212928
+mccormack::0.000318953212928
+knowledge vol::0.000318953212928
+american society::0.000318953212928
+correspondingly answer::0.000318953212928
+point belonging::0.000318953212928
+knowledge sources::0.000318953212928
+identify inter-document::0.000318953212928
+hyperlinks gouws::0.000318953212928
+values higher::0.000318953212928
+weighting feature::0.000318953212928
+literature proposed::0.000318953212928
+capacitor dictionaries::0.000318953212928
+jaccard similarity::0.000318953212928
+2015 lists::0.000318953212928
+library recommendation::0.000318953212928
+mentioned features::0.000318953212928
+yager 1989::0.000318953212928
+samples::0.000318953212928
+technologies naacl::0.000318953212928
+tf-idf frantzi::0.000318953212928
+common pre-processing::0.000318953212928
+prominently featured::0.000318953212928
+mathematical definition::0.000318953212928
+test::0.000318953212928
+potential continuation::0.000318953212928
+scholarly articles::0.000318953212928
+term weights::0.000318953212928
+indirect application::0.000318953212928
+experimental study::0.000318953212928
+wan x.j.::0.000318953212928
+external sources::0.000318953212928
+evaluation based::0.000318953212928
+hash functions::0.000318953212928
+provide services::0.000318953212928
+databases. acm::0.000318953212928
+relation helps::0.000318953212928
+similarly high::0.000318953212928
+expert's classification::0.000318953212928
+similarity calculated::0.000318953212928
+multilevel indexing::0.000318953212928
+documents works::0.000318953212928
+queues `queue::0.000318953212928
+dimensions::0.000318953212928
+learning functional::0.000318953212928
+feature high::0.000318953212928
+frequency d-span::0.000318953212928
+science mathematics::0.000318953212928
+candidate phrases::0.000318953212928
+important factor::0.000318953212928
+lsa account::0.000318953212928
+compression distance::0.000318953212928
+resulting documents::0.000318953212928
+extracting nested::0.000318953212928
+first state::0.000318953212928
+316­321 khoo::0.000318953212928
+trees intro::0.000318953212928
+precision score::0.000318953212928
+terms denoting::0.000318953212928
+2012 characterize::0.000318953212928
+datasets focusing::0.000318953212928
+left child::0.000318953212928
+structures document::0.000318953212928
+truth includes::0.000318953212928
+chitson 1992::0.000318953212928
+main concept::0.000318953212928
+exhibit higher::0.000318953212928
+expert opinion::0.000318953212928
+stronger instance::0.000318953212928
+learning nptel::0.000318953212928
+additionally digital::0.000318953212928
+sort trees::0.000318953212928
+terms increasing::0.000318953212928
+languages base::0.000318953212928
+similarity coefficients::0.000318953212928
+document mccormack::0.000318953212928
+56(2 47­48::0.000318953212928
+spline interpolation::0.000318953212928
+1996; balagopalan::0.000318953212928
+types serve::0.000318953212928
+relationships zarrinkalam::0.000318953212928
+larger n-grams::0.000318953212928
+2010; lai::0.000318953212928
+definitions::0.000318953212928
+characterization constitutes::0.000318953212928
+scores based::0.000318953212928
+including common::0.000318953212928
+intro::0.000318953212928
+implementation perspective::0.000318953212928
+terms elaboration::0.000318953212928
+scientific technological::0.000318953212928
+involve hash::0.000318953212928
+obtained results::0.000318953212928
+term frequencies::0.000318953212928
+peng 2005::0.000318953212928
+briefly::0.000318953212928
+learning syntax::0.000318953212928
+accuracy addressing::0.000318953212928
+included::0.000318953212928
+high ranks::0.000318953212928
+courseware http::0.000318953212928
+basic premises::0.000318953212928
+continuation d-span::0.000318953212928
+logical notation::0.000318953212928
+lectures. technology::0.000318953212928
+supervised learning::0.000318953212928
+scientific document::0.000318953212928
+find similarity::0.000318953212928
+simple retrieval::0.000318953212928
+engineering chemistry::0.000318953212928
+focused manner::0.000318953212928
+lectures spanning::0.000318953212928
+s.p 2006::0.000318953212928
+application rank::0.000318953212928
+equation dsim::0.000318953212928
+ranked suggestions::0.000318953212928
+chosen independently::0.000318953212928
+patterns exhibited::0.000318953212928
+exploration process::0.000318953212928
+intensive systems::0.000318953212928
+pos tagging::0.000318953212928
+simple document::0.000318953212928
+interpolation hash::0.000318953212928
+application relationship::0.000318953212928
+preliminary measure::0.000318953212928
+distribution similarity::0.000318953212928
+stack document::0.000318953212928
+recommendation model::0.000318953212928
+concept helps::0.000318953212928
+measuring factor::0.000318953212928
+wong k.f.::0.000318953212928
+d-spans::0.000318953212928
+start point::0.000318953212928
+documents researchers::0.000318953212928
+elaboration positive::0.000318953212928
+296­302 chalmers::0.000318953212928
+similar extents::0.000318953212928
+subtopic topic::0.000318953212928
+j.c 2006::0.000318953212928
+material::0.000318953212928
+relation based::0.000318953212928
+free grammar::0.000318953212928
+library journal::0.000318953212928
+similar? investigating::0.000318953212928
+positive cdiff::0.000318953212928
+inter-document relatedness::0.000318953212928
+directions::0.000318953212928
+case high::0.000318953212928
+computational linguistics-volume::0.000318953212928
+concept defined::0.000318953212928
+heritage jocch::0.000318953212928
+sets out::0.000318953212928
+tois 26(3::0.000318953212928
+word sense::0.000318953212928
+defining types::0.000318953212928
+word removal::0.000318953212928
+group arrived::0.000318953212928
+introduce measures::0.000318953212928
+destination::0.000318953212928
+recent corpus-based::0.000318953212928
+important sources::0.000318953212928
+varying relevance::0.000318953212928
+wikipedia article::0.000318953212928
+identifying additional::0.000318953212928
+varying::0.000318953212928
+sciences 239(0::0.000318953212928
+mit-ocw mit::0.000318953212928
+unspecified number::0.000318953212928
+bing similarities.::0.000318953212928
+document c-value::0.000318953212928
+statistical term::0.000318953212928
+topic maps::0.000318953212928
+filtering involve::0.000318953212928
+context free::0.000318953212928
+2008 interpreting::0.000318953212928
+effect identification::0.000318953212928
+inter-document semantic::0.000318953212928
+functional languages::0.000318953212928
+higher d-span::0.000318953212928
+audio lectures::0.000318953212928
+min-max normalized::0.000318953212928
+khoo c.s.g.::0.000318953212928
+similar work::0.000318953212928
+2012 mit::0.000318953212928
+learner understand::0.000318953212928
+expected results::0.000318953212928
+continuation document::0.000318953212928
+keyphrases balagopalan::0.000318953212928
+data intensive::0.000318953212928
+hypertext::0.000318953212928
+decimal scaled::0.000318953212928
+cultural items::0.000318953212928
+structured text::0.000318953212928
+large digital::0.000318953212928
+successive clusters::0.000318953212928
+annual review::0.000318953212928
+mccormak::0.000318953212928
+expert judgement::0.000318953212928
+documents relate::0.000318953212928
+directly correlates::0.000318953212928
+science research::0.000318953212928
+green 2001::0.000318953212928
+defined similarity::0.000318953212928
+naacl association::0.000318953212928
+birch clustering::0.000318953212928
+logical inference::0.000318953212928
+formally analyze::0.000318953212928
+unsolved citation::0.000318953212928
+representing tf-idf::0.000318953212928
+varied data::0.000318953212928
+moderate c-value::0.000318953212928
+15th annual::0.000318953212928
+seeking information::0.000318953212928
+common subtopics::0.000318953212928
+publication trees::0.000318953212928
+trust models::0.000318953212928
+r.e 1989::0.000318953212928
+learner overcome::0.000318953212928
+occurs::0.000318953212928
+2008 similarity::0.000318953212928
+c.h. liu::0.000318953212928
+recommendation results::0.000318953212928
+relevance decisions::0.000318953212928
+truth creation::0.000318953212928
+multiple topics::0.000318953212928
+hand data::0.000318953212928
+h.c. luk::0.000318953212928
+annual acm::0.000318953212928
+exhibited::0.000318953212928
+selected subset::0.000318953212928
+experimental results::0.000318953212928
+propositional logic::0.000318953212928
+applies concepts::0.000318953212928
+d-span d-span::0.000318953212928
+shows recommended::0.000318953212928
+mccormack a.j.::0.000318953212928
+document relation::0.000318953212928
+original data::0.000318953212928
+address logical::0.000318953212928
+data set3::0.000318953212928
+judged based::0.000318953212928
+background term::0.000318953212928
+generating graphs::0.000318953212928
+2007 computing::0.000318953212928
+gouws::0.000318953212928
+luk r.w.p.::0.000318953212928
+work references::0.000318953212928
+publication elaboration::0.000318953212928
+browsing experience::0.000318953212928
+highest c-value::0.000318953212928
+wordnet-based approaches.::0.000318953212928
+maximum margin::0.000318953212928
+document play::0.000318953212928
+major role::0.000318953212928
+publication; presents::0.000318953212928
+processing multilevel::0.000318953212928
+esa gabrilovich::0.000318953212928
+working irrespective::0.000318953212928
+scores defined::0.000318953212928
+c-value defined::0.000318953212928
+quantifying semantic::0.000318953212928
+systems totalling::0.000318953212928
+diversified chain::0.000318953212928
+relatedness type::0.000318953212928
+languages application::0.000318953212928
+2012 works::0.000318953212928
+reasonable precision::0.000318953212928
+remaining dsim::0.000318953212928
+resistor capacitor::0.000318953212928
+expert user::0.000318953212928
+index huang::0.000318953212928
+implementation directly::0.000318953212928
+textual coherence::0.000318953212928
+relationship helps::0.000318953212928
+curves query::0.000318953212928
+unbiased experts::0.000318953212928
+measuring relatedness::0.000318953212928
+contextual::0.000318953212928
+an2 i)|::0.000318953212928
+relatedness modeling::0.000318953212928
+logic-based approach::0.000318953212928
+19­27 aletras::0.000318953212928
+recommendations::0.000318953212928
+detailed explanation::0.000318953212928
+syntax pointers::0.000318953212928
+comprehensive view::0.000318953212928
+modeling document::0.000318953212928
+elaboration equation::0.000318953212928
+tf-idf dramatically::0.000318953212928
+c-value moderate::0.000318953212928
+good indicator::0.000318953212928
+spread uniformly::0.000318953212928
+empirically determined::0.000318953212928
+terms term::0.000318953212928
+characterizing continuation::0.000318953212928
+improved semantic::0.000318953212928
+sample source::0.000318953212928
+syst doi::0.000318953212928
+document clustering::0.000318953212928
+classroom lecture::0.000318953212928
+identifying characteristics::0.000318953212928
+provide vidhya::0.000318953212928
+experimental::0.000318953212928
+arbitrarily::0.000318953212928
+aggregate d-span::0.000318953212928
+features means::0.000318953212928
+estimated probability::0.000318953212928
+conceptual document::0.000318953212928
+section details::0.000318953212928
+standard data::0.000318953212928
+applies recursion::0.000318953212928
+text fragments::0.000318953212928
+generated based::0.000318953212928
+shows specific::0.000318953212928
+terms binary::0.000318953212928
+prefer applications::0.000318953212928
+good candidates::0.000318953212928
+evaluated::0.000318953212928
+international acm::0.000318953212928
+c.s 2013::0.000318953212928
+chalmers::0.000318953212928
+simply estimated::0.000318953212928
+technological document::0.000318953212928
+larger subject::0.000318953212928
+discourse processes::0.000318953212928
+hogenboom::0.000318953212928
+lecture video::0.000318953212928
+easily estimate::0.000318953212928
+patterns mentioned::0.000318953212928
+annual international::0.000318953212928
+approaches based::0.000318953212928
+relation continuation::0.000318953212928
+nptel http::0.000318953212928
+first evaluate::0.000318953212928
+acm 48(12::0.000318953212928
+discourse::0.000318953212928
+documents featuring::0.000318953212928
+eliminating document::0.000318953212928
+user profiles::0.000318953212928
+dispersion defined::0.000318953212928
+shaikh 2013::0.000318953212928
+aggregate::0.000318953212928
+graph linking::0.000318953212928
+directly infer::0.000318953212928
+university coimbatore::0.000318953212928
+content-based recommender::0.000318953212928
+chemistry::0.000318953212928
+potential document::0.000318953212928
+tf-idf weight::0.000318953212928
+user motivated::0.000318953212928
+stemming n-gram::0.000318953212928
+`continuation relation::0.000318953212928
+ontologybased information::0.000318953212928
+aaai vol::0.000318953212928
+jocch 5(4::0.000318953212928
+intrinsic term::0.000318953212928
+aggregate dsim::0.000318953212928
+rating type::0.000318953212928
+document recommendations::0.000318953212928
+arxiv:1303.4087 schaefer::0.000318953212928
+varying context::0.000318953212928
+wikipedia-based explicit::0.000318953212928
+discuss base::0.000318953212928
+63(8 1593­1608::0.000318953212928
+engineering electrical::0.000318953212928
+brings out::0.000318953212928
+linking research::0.000318953212928
+mathematical::0.000318953212928
+chemistry biology::0.000318953212928
+retrieval systems::0.000318953212928
+determined arbitrarily::0.000318953212928
+ponzetto 2006::0.000318953212928
+pearson coefficient::0.000318953212928
+recommendation engines::0.000318953212928
+give formal::0.000318953212928
+study next?::0.000318953212928
+information search::0.000318953212928
+subject domains::0.000318953212928
+detailed insight::0.000318953212928
+handling faculty::0.000318953212928
+2006 semantic::0.000318953212928
+characterizing document::0.000318953212928
+feature based::0.000318953212928
+open courseware::0.000318953212928
+prominent concept::0.000318953212928
+domain characterized::0.000318953212928
+queue scaled::0.000318953212928
+relationships table::0.000318953212928
+terms supervised::0.000318953212928
+video lectures.::0.000318953212928
+relationship table::0.000318953212928
+transcripts featuring::0.000318953212928
+1999 probabilistic::0.000318953212928
+multi-level indexing::0.000318953212928
+specific feature::0.000318953212928
+important measure::0.000318953212928
+heritage::0.000318953212928
+video lecture::0.000318953212928
+relatedness metric::0.000318953212928
+final goal::0.000318953212928
+systems cts::0.000318953212928
+work section::0.000318953212928
+dynamic programming::0.000318953212928
+i.h 2012::0.000318953212928
+personalised video::0.000318953212928
+involve presenting::0.000318953212928
+profiles university::0.000318953212928
+identifying similarity::0.000318953212928
+system returns::0.000318953212928
+technology 20(4::0.000318953212928
+geographic information::0.000318953212928
+measure built::0.000318953212928
+k.l 2008::0.000318953212928
+research articles::0.000318953212928
+tables queue::0.000318953212928
+content identifying::0.000318953212928
+methodology serves::0.000318953212928
+285­307 frantzi::0.000318953212928
+search machine::0.000318953212928
+moderate tf-idf::0.000318953212928
+citation networks.::0.000318953212928
+sigmod record::0.000318953212928
+regular intervals::0.000318953212928
+pairs based::0.000318953212928
+technology 63(8::0.000318953212928
+addition knowledge::0.000318953212928
+additional patterns::0.000318953212928
+rule-based classifier::0.000318953212928
+wikipedia risks::0.000318953212928
+retrieval model::0.000318953212928
+scaled cont::0.000318953212928
+relatedness definition::0.000318953212928
+relatedness based::0.000318953212928
+peng y.x::0.000318953212928
+effective filter::0.000318953212928
+3(2 115­130::0.000318953212928
+channelized series::0.000318953212928
+automated system::0.000318953212928
+document formats::0.000318953212928
+query refinement::0.000318953212928
+quantifying elaboration::0.000318953212928
+indexing expressions::0.000318953212928
+documents based::0.000318953212928
+2012 concentrate::0.000318953212928
+2012 learning::0.000318953212928
+database repository::0.000318953212928
+applications stellenbosch::0.000318953212928
+similarity relationship::0.000318953212928
+ijcai vol::0.000318953212928
+dsim negative::0.000318953212928
+continuity elaboration::0.000318953212928
+focused::0.000318953212928
+velikhov::0.000318953212928
+terms influencing::0.000318953212928
+152­152 foltz::0.000318953212928
+innovative visualizations::0.000318953212928
+similar background::0.000318953212928
+information flow::0.000318953212928
+numerical methods::0.000318953212928
+types elaboration::0.000318953212928
+results finally::0.000318953212928
+terms exhibiting::0.000318953212928
+find answers::0.000318953212928
+guidance::0.000318953212928
+abstract e-learning::0.000318953212928
+suggested work::0.000318953212928
+videos transcripts::0.000318953212928
+results shown::0.000318953212928
+occurs infrequently::0.000318953212928
+general trend::0.000318953212928
+47­48 rafi::0.000318953212928
+289­296 morgan::0.000318953212928
+landauer t.k::0.000318953212928
+account common::0.000318953212928
+graph shows::0.000318953212928
+document data::0.000318953212928
+weighting cosine::0.000318953212928
+languages::0.000318953212928
+feeling deal::0.000318953212928
+logical level::0.000318953212928
+stellenbosch university::0.000318953212928
+recommended continuations::0.000318953212928
+education science::0.000318953212928
+documents delve::0.000318953212928
+wikipedia. aaai::0.000318953212928
+research article::0.000318953212928
+directly relate::0.000318953212928
+potential documents::0.000318953212928
+2000 outlines::0.000318953212928
+figures indicate::0.000318953212928
+pairs balanced::0.000318953212928
+out results::0.000318953212928
+witten i.h::0.000318953212928
+scaled scores::0.000318953212928
+r.w.p. wong::0.000318953212928
+identify interesting::0.000318953212928
+primarily related::0.000318953212928
+specific aspects::0.000318953212928
+prominent topics::0.000318953212928
+similarity metrics::0.000318953212928
+semantic user::0.000318953212928
+measure demonstrating::0.000318953212928
+considered experimentally::0.000318953212928
+unstructured text::0.000318953212928
+continuation score::0.000318953212928
+scenario user::0.000318953212928
+studying virtual::0.000318953212928
+collected user::0.000318953212928
+base patterns::0.000318953212928
+factor minimum::0.000318953212928
+relationship types::0.000318953212928
+extensive experimental::0.000318953212928
+set1::0.000318953212928
+semantic analysis.::0.000318953212928
+average ratings::0.000318953212928
+discovering information::0.000318953212928
+2015::0.000318953212928
+mit open::0.000318953212928
+studied khoo::0.000318953212928
+hopfgartner::0.000318953212928
+rank suggestions::0.000318953212928
+graduate level::0.000318953212928
+cont score::0.000318953212928
+education literature::0.000318953212928
+xfind. user::0.000318953212928
+non-textual features::0.000318953212928
+ratings aggregated::0.000318953212928
+semantic news::0.000318953212928
+normalized mutual::0.000318953212928
+similarity search::0.000318953212928
+context measuring::0.000318953212928
+belonging table::0.000318953212928
+tagging based::0.000318953212928
+potential results::0.000318953212928
+calculated balanced::0.000318953212928
+distance­a stable::0.000318953212928
+subjects covered::0.000318953212928
+2010 evaluation::0.000318953212928
+discover information::0.000318953212928
+1­10 bean::0.000318953212928
+topic representations::0.000318953212928
+berlin springer::0.000318953212928
+97th percentile::0.000318953212928
+chitson::0.000318953212928
+bayes rule::0.000318953212928
+pairs evaluated::0.000318953212928
+set2 continuation::0.000318953212928
+terms stacks::0.000318953212928
+16th conference::0.000318953212928
+l.l. balasubramanian::0.000318953212928
+2014 normalized::0.000318953212928
+lai c.h.::0.000318953212928
+model defines::0.000318953212928
+conceptual relationship::0.000318953212928
+link analysis::0.000318953212928
+filter based::0.000318953212928
+2001 relationships::0.000318953212928
+introduced elaboration::0.000318953212928
+minimum tf-idf::0.000318953212928
+low c-value::0.000318953212928
+group-based trust::0.000318953212928
+july::0.000318953212928
+commonly observed::0.000318953212928
+tree traversal::0.000318953212928
+lsa results::0.000318953212928
+20(4 552­558::0.000318953212928
+generalized search::0.000318953212928
+tables elaboration::0.000318953212928
+heterogeneous collection::0.000318953212928
+learner motivates::0.000318953212928
+equal extent::0.000318953212928
+describe measures::0.000318953212928
+nested collocations.::0.000318953212928
+studying::0.000318953212928
+1419­1424 turdakov::0.000318953212928
+understanding learning::0.000318953212928
+provide scores::0.000318953212928
+relatedness correspondingly::0.000318953212928
+knowledge derived::0.000318953212928
+common content::0.000318953212928
+unique statistical::0.000318953212928
+teacher 56(2::0.000318953212928
+record vol::0.000318953212928
+gather::0.000318953212928
+measures based::0.000318953212928
+good d-span::0.000318953212928
+pas ¸ca::0.000318953212928
+wordnet agirre::0.000318953212928
+interesting directions::0.000318953212928
+tf-idf term::0.000318953212928
+dictionaries trees::0.000318953212928
+continuing document::0.000318953212928
+sigir conference::0.000318953212928
+foltz::0.000318953212928
+zealand computer::0.000318953212928
+specific relations::0.000318953212928
+t.k 1998::0.000318953212928
+2012 automatic::0.000318953212928
+query type::0.000318953212928
+demonstrate considerable::0.000318953212928
+identify connections::0.000318953212928
+1996 extracting::0.000318953212928
+bean::0.000318953212928
+n-grams terms::0.000318953212928
+visualization. proceedings::0.000318953212928
+categorize terms::0.000318953212928
+discussion lecture::0.000318953212928
+2001 search::0.000318953212928
+making relevance::0.000318953212928
+database applications::0.000318953212928
+articles theses::0.000318953212928
+velikhov 2008::0.000318953212928
+top-left cluster::0.000318953212928
+shaikh m.s::0.000318953212928
+document browser::0.000318953212928
+person making::0.000318953212928
+glasgow huang::0.000318953212928
+continuous flow::0.000318953212928
+authors keywords::0.000318953212928
+strictly require::0.000318953212928
+indexing computer::0.000318953212928
+bayesian probabilities::0.000318953212928
+springer capelle::0.000318953212928
+denning::0.000318953212928
+http agirre::0.000318953212928
+complementary cases::0.000318953212928
+classifier lecture::0.000318953212928
+boost helps::0.000318953212928
+generic similarity::0.000318953212928
+springer science+business::0.000318953212928
+information visualization.::0.000318953212928
+2012 national::0.000318953212928
+identifying similar::0.000318953212928
+mechanical engineering::0.000318953212928
+experience remains::0.000318953212928
+features scientific::0.000318953212928
+specifically gathered::0.000318953212928
+comprehensive approach::0.000318953212928
+kwok k.l::0.000318953212928
+single continuous::0.000318953212928
+score indicates::0.000318953212928
+pair i.e::0.000318953212928
+lectures candidate::0.000318953212928
+greater likelihood::0.000318953212928
+retrieval application::0.000318953212928
+wider range::0.000318953212928
+good continuing::0.000318953212928
+kaufmann publishers::0.000318953212928
+graphics::0.000318953212928
+ponzetto s.p::0.000318953212928
+directly corresponds::0.000318953212928
+required d-span::0.000318953212928
+inverse-document frequency::0.000318953212928
+virtual::0.000318953212928
+yager r.e::0.000318953212928
+f-score values::0.000318953212928
+serve learning::0.000318953212928
+turdakov::0.000318953212928
+documents knowledge::0.000318953212928
+sets development::0.000318953212928
+application document::0.000318953212928
+`using services::0.000318953212928
+sense disambiguation::0.000318953212928
+recommendation information::0.000318953212928
+video retrieval::0.000318953212928
+probabilistic model::0.000318953212928
+documents theses::0.000318953212928
+syst frantzi::0.000318953212928
+user interfaces::0.000318953212928
+experimentally determined::0.000318953212928
+term distribution::0.000318953212928
+modeling inter-document::0.000318953212928
+student conference::0.000318953212928
+smaller sample::0.000318953212928
+relationships automatically::0.000318953212928
+2013 semantic::0.000318953212928
+modeled::0.000318953212928
+theses::0.000318953212928
+necessarily make::0.000318953212928
+news recommendation::0.000318953212928
+shaikh::0.000318953212928
+relatedness presents::0.000318953212928
+domain experts::0.000318953212928
+nptel nptel::0.000318953212928
+rating process::0.000318953212928
+users rated::0.000318953212928
+sets similar::0.000318953212928
+m.s 2013::0.000318953212928
+important aspects::0.000318953212928
+2008 semantic::0.000318953212928
+retrieval acm::0.000318953212928
+conditional probability::0.000318953212928
+concepts helping::0.000318953212928
+sets ground::0.000318953212928
+infer concept::0.000318953212928
+relatedness continuation::0.000318953212928
+technology gouws::0.000318953212928
+capelle::0.000318953212928
+longer candidate::0.000318953212928
+balasubramanian1 received::0.000318953212928
+stevenson::0.000318953212928
+scientific publication::0.000318953212928
+scientificpapers based::0.000318953212928
+briefly mentions::0.000318953212928
+morgan kaufmann::0.000318953212928
+d-span differences::0.000318953212928
+test documents::0.000318953212928
+3.2 similarity::0.000318953212928
+direct measure::0.000318953212928
+wider::0.000318953212928
+meta-data independent::0.000318953212928
+research requirements::0.000318953212928
+science annual::0.000318953212928
+documents average::0.000318953212928
+constant factor::0.000318953212928
+3718­3730 wan::0.000318953212928
+previously introduced::0.000318953212928
+measure serves::0.000318953212928
+recommendations based::0.000318953212928
+automatic suggestions::0.000318953212928
+manually created::0.000318953212928
+classify terms::0.000318953212928
+strong continuation::0.000318953212928
+concepts paragraphs::0.000318953212928
+explicit causing::0.000318953212928
+pre-processing techniques::0.000318953212928
+chosen data::0.000318953212928
+cluster consisting::0.000318953212928
+exhibiting elaboration::0.000318953212928
+high recall::0.000318953212928
+lecture type::0.000318953212928
+elaboration depend::0.000318953212928
+important concept::0.000318953212928
+ensured::0.000318953212928
+processes 25(2­3::0.000318953212928
+tf-idf values::0.000318953212928
+margin classifier::0.000318953212928
+probabilistic lsa::0.000318953212928
+considerable length::0.000318953212928
+node left::0.000318953212928
+learning grammar::0.000318953212928
+clustering. proceedings::0.000318953212928
+yager model::0.000318953212928
+lecture propositional::0.000318953212928
+literature documents::0.000318953212928
+patterns play::0.000318953212928
+query-document retrieval::0.000318953212928
+order linked::0.000318953212928
+advanced scientific::0.000318953212928
+wikirelate! computing::0.000318953212928
+related left::0.000318953212928
+subtopic term::0.000318953212928
+49­56 huang::0.000318953212928
+featuring similar::0.000318953212928
+analysis. ijcai::0.000318953212928
+outlines::0.000318953212928
+level relationships::0.000318953212928
+national programme::0.000318953212928
+primary requirements::0.000318953212928
+decisions acm::0.000318953212928
+continuation average::0.000318953212928
+wan 2007::0.000318953212928
+d-span background::0.000318953212928
+115­130 gabrilovich::0.000318953212928
+pattern represented::0.000318953212928
+common grams::0.000318953212928
+extensively studied::0.000318953212928
+d-span rank::0.000318953212928
+type::0.000309553083472
+indicates::0.000309553083472
+statistical::0.000309553083472
+represented::0.000303701322096
+calculated::0.000303701322096
+related documents::0.000303701322096
+understanding::0.000303701322096
+technology::0.000303701322096
+evaluate::0.000303701322096
+video::0.000303701322096
+linked::0.000303701322096
+subject::0.000303701322096
+future work::0.000303701322096
+topics::0.000287442148938
+system::0.000287442148938
+desirable::0.000272381311496
+similarity or relatedness::0.000272381311496
+association for computational::0.000272381311496
+evaluate the performance::0.000272381311496
+likelihood::0.000272381311496
+terms that occur::0.000272381311496
+classifier::0.000272381311496
+series::0.000272381311496
+natural language processing::0.000272381311496
+effectiveness::0.000272381311496
+ieee international conference::0.000272381311496
+random::0.000272381311496
+shown in tables::0.000272381311496
+indication::0.000272381311496
+objectives::0.000272381311496
+articles::0.000272381311496
+technology enhanced education::0.000272381311496
+quick::0.000272381311496
+applied computing acm::0.000272381311496
+address::0.000272381311496
+classroom::0.000272381311496
+experiments::0.000272381311496
+scientific research publishing::0.000272381311496
+conference on ieee::0.000272381311496
+transactions on information::0.000272381311496
+relationships between concepts::0.000272381311496
+relative::0.000272381311496
+vishwa vidyapeetham amrita::0.000272381311496
+keyphrase::0.000272381311496
+journal of computer::0.000272381311496
+extended to include::0.000272381311496
+extended::0.000272381311496
+segmentation of video::0.000272381311496
+rest::0.000272381311496
+detailed::0.000272381311496
+balasubramanian::0.000272381311496
+approach for identifying::0.000272381311496
+section we analyze::0.000272381311496
+relationships for instance::0.000272381311496
+generic::0.000272381311496
+set of concepts::0.000272381311496
+play::0.000272381311496
+automatic keyphrase extraction::0.000272381311496
+improved::0.000272381311496
+person::0.000272381311496
+considerable::0.000272381311496
+vidyapeetham amrita university::0.000272381311496
+visualizations::0.000272381311496
+amrita vishwa vidyapeetham::0.000272381311496
+feedback::0.000272381311496
+extraction and segmentation::0.000272381311496
+information systems tois::0.000272381311496
+enhanced education ictee::0.000272381311496
+symposium on applied::0.000272381311496
+world wide web::0.000272381311496
+publication::0.000272381311496
+contribute::0.000272381311496
+2014::0.000272381311496
+datasets::0.000272381311496
+section we discuss::0.000272381311496
+number of terms::0.000272381311496
+2010::0.000272381311496
+additional::0.000272381311496
+effect::0.000272381311496
+sources::0.000272381311496
+education::0.000272381311496
+kinds::0.000272381311496
+obtained::0.00025308443508
+widely::0.00025308443508
+domains::0.00025308443508
+cluster::0.00025308443508
+serves::0.00025308443508
+part::0.00025308443508
+source::0.00025308443508
+indicating::0.00025308443508
+normalized::0.00025308443508
+greater::0.00025308443508
+concepts::0.000243220279871
+pair::0.000243220279871
+shown::0.000243220279871
+instance::0.000221109345337
+information retrieval::0.000221109345337
+study::0.000202467548064
+explained::0.000202467548064
+involve::0.000202467548064
+machine::0.000202467548064
+subjects::0.000202467548064
+result::0.000202467548064
+candidate::0.000202467548064
+performance::0.000202467548064
+role::0.000202467548064
+semantic relationships::0.000202467548064
+future::0.000202467548064
+large number::0.000202467548064
+standard::0.000202467548064
+factor::0.000202467548064
+subtopics::0.000202467548064
+larger::0.000202467548064
+international conference::0.000202467548064
+values::0.000198998410803
+corpora::0.000181587540998
+ponzetto::0.000181587540998
+language processing::0.000181587540998
+browsing::0.000181587540998
+association relations::0.000181587540998
+presents::0.000181587540998
+browse::0.000181587540998
+computational linguistics::0.000181587540998
+acm transactions::0.000181587540998
+springer::0.000181587540998
+1999::0.000181587540998
+1998::0.000181587540998
+vidhya::0.000181587540998
+computing acm::0.000181587540998
+green::0.000181587540998
+wide web::0.000181587540998
+provide detailed::0.000181587540998
+selected::0.000181587540998
+theme::0.000181587540998
+recall values::0.000181587540998
+potentially::0.000181587540998
+independent::0.000181587540998
+left::0.000181587540998
+acm symposium::0.000181587540998
+citation links::0.000181587540998
+core::0.000181587540998
+probabilities::0.000181587540998
+electrical engineering::0.000181587540998
+vishwa vidyapeetham::0.000181587540998
+nxn::0.000181587540998
+role played::0.000181587540998
+root node::0.000181587540998
+sample document::0.000181587540998
+automatic keyphrase::0.000181587540998
+memory::0.000181587540998
+data clustering::0.000181587540998
+based approach::0.000181587540998
+exploring::0.000181587540998
+short::0.000181587540998
+strube::0.000181587540998
+measure based::0.000181587540998
+filtering::0.000181587540998
+feature vectors::0.000181587540998
+wordnet::0.000181587540998
+develop::0.000181587540998
+concepts based::0.000181587540998
+terms present::0.000181587540998
+clustering method::0.000181587540998
+systems tois::0.000181587540998
+vidhya balasubramanian::0.000181587540998
+1989::0.000181587540998
+defined based::0.000181587540998
+start::0.000181587540998
+technologies::0.000181587540998
+include semantic::0.000181587540998
+citation::0.000181587540998
+starting::0.000181587540998
+keyphrases::0.000181587540998
+fall::0.000181587540998
+time consuming::0.000181587540998
+answers::0.000181587540998
+analyzing::0.000181587540998
+tested::0.000181587540998
+semantic relations::0.000181587540998
+vidyapeetham amrita::0.000181587540998
+intended::0.000181587540998
+term weighting::0.000181587540998
+method based::0.000181587540998
+semantic aspects::0.000181587540998
+helpful::0.000181587540998
+risks::0.000181587540998
+ieee international::0.000181587540998
+results show::0.000181587540998
+enhanced education::0.000181587540998
+semantic knowledge::0.000181587540998
+domain knowledge::0.000181587540998
+specifically::0.000181587540998
+reliable::0.000181587540998
+focuses::0.000181587540998
+common topic::0.000181587540998
+continue::0.000181587540998
+understood::0.000181587540998
+major topic::0.000181587540998
+scientific research::0.000181587540998
+amrita university::0.000181587540998
+indicator::0.000181587540998
+widely studied::0.000181587540998
+international workshop::0.000181587540998
+matrix::0.000181587540998
+determining::0.000181587540998
+artificial intelligence::0.000181587540998
+providing::0.000181587540998
+education ictee::0.000181587540998
+research publishing::0.000181587540998
+remains::0.000181587540998
+term indicates::0.000181587540998
+group::0.000181587540998
+human language::0.000181587540998
+estimation::0.000181587540998
+candidate documents::0.000181587540998
+describe::0.000181587540998
+applied computing::0.000181587540998
+world wide::0.000181587540998
+relevance distance::0.000181587540998
+http::0.000181587540998
+subject domain::0.000181587540998
+demonstrated::0.000181587540998
+query document::0.000181587540998
+citations::0.000181587540998
+computing similarity::0.000181587540998
+comprehensive understanding::0.000181587540998
+coupling::0.000181587540998
+clustering::0.00017688747627
+frequency::0.00017688747627
+jeyavaishnavi::0.000159476606464
+dynamic::0.000159476606464
+sub-headings::0.000159476606464
+tagging::0.000159476606464
+vijayakumar1::0.000159476606464
+liberty::0.000159476606464
+consisting::0.000159476606464
+mutual::0.000159476606464
+wordnet-based::0.000159476606464
+met::0.000159476606464
+mover's::0.000159476606464
+economics::0.000159476606464
+elaborated::0.000159476606464
+c.h.::0.000159476606464
+clough::0.000159476606464
+hanoi::0.000159476606464
+used?::0.000159476606464
+y.x::0.000159476606464
+brings::0.000159476606464
+pre-processing::0.000159476606464
+top-left::0.000159476606464
+aaai::0.000159476606464
+validated::0.000159476606464
+guarantee::0.000159476606464
+straightforward::0.000159476606464
+answer::0.000159476606464
+soroa::0.000159476606464
+multi-level::0.000159476606464
+`elaboration::0.000159476606464
+min-max::0.000159476606464
+recursion::0.000159476606464
+balasubramanian1::0.000159476606464
+candidates::0.000159476606464
+extents::0.000159476606464
+25(2­3::0.000159476606464
+benefited::0.000159476606464
+synonymy::0.000159476606464
+4.32::0.000159476606464
+hienert::0.000159476606464
+`rank::0.000159476606464
+organized::0.000159476606464
+157­228::0.000159476606464
+resistor::0.000159476606464
+1996;::0.000159476606464
+detecting::0.000159476606464
+certified::0.000159476606464
+scientificpapers::0.000159476606464
+ananda::0.000159476606464
+muralikumar1::0.000159476606464
+guidelines::0.000159476606464
+behavior::0.000159476606464
+recommended::0.000159476606464
+snippets::0.000159476606464
+involving::0.000159476606464
+plenty::0.000159476606464
+clustering.::0.000159476606464
+notion::0.000159476606464
+implying::0.000159476606464
+visualisation::0.000159476606464
+diversified::0.000159476606464
+judged::0.000159476606464
+continuity::0.000159476606464
+explorations::0.000159476606464
+3718­3730::0.000159476606464
+pearson::0.000159476606464
+intervals::0.000159476606464
+contrast::0.000159476606464
+livny::0.000159476606464
+decided::0.000159476606464
+simplest::0.000159476606464
+glasgow::0.000159476606464
+extend::0.000159476606464
+inform::0.000159476606464
+tf-idfs::0.000159476606464
+news::0.000159476606464
+refinement::0.000159476606464
+uncertainty::0.000159476606464
+similarities::0.000159476606464
+variance::0.000159476606464
+capacitor::0.000159476606464
+chandrasekharan::0.000159476606464
+gathering::0.000159476606464
+inquisitive::0.000159476606464
+trust::0.000159476606464
+xfind.::0.000159476606464
+child::0.000159476606464
+285­307::0.000159476606464
+hoang::0.000159476606464
+remaining::0.000159476606464
+c.s.g.::0.000159476606464
+2009;::0.000159476606464
+cont::0.000159476606464
+differing::0.000159476606464
+inverse-document::0.000159476606464
+positives::0.000159476606464
+scenario::0.000159476606464
+relationships;::0.000159476606464
+technological::0.000159476606464
+validates::0.000159476606464
+opt::0.000159476606464
+wikipedia.::0.000159476606464
+disagreement::0.000159476606464
+indicative::0.000159476606464
+distance­a::0.000159476606464
+informative::0.000159476606464
+indirect::0.000159476606464
+opposite::0.000159476606464
+algorithmic::0.000159476606464
+illustration::0.000159476606464
+differs::0.000159476606464
+`wordcount::0.000159476606464
+absolutely::0.000159476606464
+influencing::0.000159476606464
+distributional::0.000159476606464
+overburden::0.000159476606464
+49­56::0.000159476606464
+document;::0.000159476606464
+channelized::0.000159476606464
+valuing::0.000159476606464
+formalize::0.000159476606464
+jaccard::0.000159476606464
+uniformly::0.000159476606464
+longer::0.000159476606464
+152­152::0.000159476606464
+depend::0.000159476606464
+knapsack::0.000159476606464
+similarities.::0.000159476606464
+leave::0.000159476606464
+talked::0.000159476606464
+trend::0.000159476606464
+jocch::0.000159476606464
+expert's::0.000159476606464
+satisfy::0.000159476606464
+totalling::0.000159476606464
+advatages::0.000159476606464
+hall::0.000159476606464
+densest::0.000159476606464
+teacher::0.000159476606464
+n-grams::0.000159476606464
+552­558::0.000159476606464
+inverses::0.000159476606464
+3(2::0.000159476606464
+polysemy::0.000159476606464
+set3::0.000159476606464
+berlin::0.000159476606464
+interest-based::0.000159476606464
+j.c::0.000159476606464
+talk::0.000159476606464
+typical::0.000159476606464
+texttiling::0.000159476606464
+constitutes::0.000159476606464
+ideal::0.000159476606464
+introduce::0.000159476606464
+wikirelate!::0.000159476606464
+repositories::0.000159476606464
+analysis.::0.000159476606464
+individually::0.000159476606464
+horning::0.000159476606464
+relationship(s::0.000159476606464
+`exploring::0.000159476606464
+mima::0.000159476606464
+reflect::0.000159476606464
+kaufmann::0.000159476606464
+16th::0.000159476606464
+sabol::0.000159476606464
+question::0.000159476606464
+r.w.p.::0.000159476606464
+textual::0.000159476606464
+structured::0.000159476606464
+returns::0.000159476606464
+eliminated::0.000159476606464
+coefficients::0.000159476606464
+browser::0.000159476606464
+exploratory::0.000159476606464
+`using::0.000159476606464
+200::0.000159476606464
+denoting::0.000159476606464
+an1::0.000159476606464
+successive::0.000159476606464
+kwok::0.000159476606464
+ratio::0.000159476606464
+296­302::0.000159476606464
+`queue::0.000159476606464
+median::0.000159476606464
+review::0.000159476606464
+unstructured::0.000159476606464
+concentrate::0.000159476606464
+collocations.::0.000159476606464
+pos::0.000159476606464
+traversal::0.000159476606464
+narendranath::0.000159476606464
+margin::0.000159476606464
+faculty::0.000159476606464
+functionality::0.000159476606464
+solve::0.000159476606464
+arxiv:1303.4087::0.000159476606464
+characterization::0.000159476606464
+20(4::0.000159476606464
+k.t.::0.000159476606464
+concordance::0.000159476606464
+tower::0.000159476606464
+extensively::0.000159476606464
+equivalent::0.000159476606464
+2010;::0.000159476606464
+k.f.::0.000159476606464
+1606­1611::0.000159476606464
+elementary::0.000159476606464
+spline::0.000159476606464
+strictly::0.000159476606464
+databases.::0.000159476606464
+330­337::0.000159476606464
+examine::0.000159476606464
+physics::0.000159476606464
+correlates::0.000159476606464
+coherence::0.000159476606464
+sigmod::0.000159476606464
+seelan1::0.000159476606464
+calls::0.000159476606464
+115­130::0.000159476606464
+expressions::0.000159476606464
+289­296::0.000159476606464
+domain-specific::0.000159476606464
+witten::0.000159476606464
+interpreting::0.000159476606464
+decide::0.000159476606464
+47­48::0.000159476606464
+insufficiently::0.000159476606464
+programme::0.000159476606464
+displays::0.000159476606464
+consumers::0.000159476606464
+ongoing::0.000159476606464
+promising::0.000159476606464
+i.h::0.000159476606464
+infrequently::0.000159476606464
+mentions::0.000159476606464
+readily::0.000159476606464
+proceed::0.000159476606464
+distinct::0.000159476606464
+content-based::0.000159476606464
+kld::0.000159476606464
+evolved::0.000159476606464
+50­58::0.000159476606464
+luong::0.000159476606464
+unbiased::0.000159476606464
+sense::0.000159476606464
+discusses::0.000159476606464
+`standard::0.000159476606464
+t.k::0.000159476606464
+pas::0.000159476606464
+l.l.::0.000159476606464
+geographic::0.000159476606464
+41­46::0.000159476606464
+unsolved::0.000159476606464
+naacl::0.000159476606464
+style::0.000159476606464
+continuations::0.000159476606464
+sake::0.000159476606464
+motivated::0.000159476606464
+seeking::0.000159476606464
+97th::0.000159476606464
+it?::0.000159476606464
+motivates::0.000159476606464
+|ta::0.000159476606464
+1593­1608::0.000159476606464
+decimal::0.000159476606464
+48(12::0.000159476606464
+measurement::0.000159476606464
+`circular::0.000159476606464
+cubic::0.000159476606464
+1419­1424::0.000159476606464
+gottron::0.000159476606464
+dominating::0.000159476606464
+parnas::0.000159476606464
+`knowing::0.000159476606464
+focusing::0.000159476606464
+pairwise::0.000159476606464
+alongside::0.000159476606464
+liu::0.000159476606464
+empirically::0.000159476606464
+grams::0.000159476606464
+dispersion(a::0.000159476606464
+stage::0.000159476606464
+moser::0.000159476606464
+notation::0.000159476606464
+morgan::0.000159476606464
+knowledge-based::0.000159476606464
+tended::0.000159476606464
+profiling::0.000159476606464
+complementary::0.000159476606464
+premises::0.000159476606464
+sigir::0.000159476606464
+relying::0.000159476606464
+63(8::0.000159476606464
+improves::0.000159476606464
+term-document::0.000159476606464
+a.j.::0.000159476606464
+moderation::0.000159476606464
+recommender::0.000159476606464
+uncertain::0.000159476606464
+optimization::0.000159476606464
+evaluating::0.000159476606464
+headings::0.000159476606464
+landauer::0.000159476606464
+frasincar::0.000159476606464
+visualization.::0.000159476606464
+interpolation::0.000159476606464
+heterogeneous::0.000159476606464
+arrived::0.000159476606464
+picks::0.000159476606464
+lin::0.000159476606464
+h.c.::0.000159476606464
+majority::0.000159476606464
+rule-based::0.000159476606464
+judgement::0.000159476606464
+addressed::0.000159476606464
+consensus::0.000159476606464
+r.e::0.000159476606464
+3.2::0.000159476606464
+28th::0.000159476606464
+`double-ended::0.000159476606464
+investigating::0.000159476606464
+approaches.::0.000159476606464
+context-based::0.000159476606464
+percentile::0.000159476606464
+propositional::0.000159476606464
+damodar::0.000159476606464
+milne::0.000159476606464
+conceivable::0.000159476606464
+conditional::0.000159476606464
+characteristic::0.000159476606464
+utl::0.000159476606464
+aluen::0.000159476606464
+31­49::0.000159476606464
+aggregated::0.000159476606464
+cts::0.000159476606464
+independently::0.000159476606464
+svd::0.000159476606464
+presenting::0.000159476606464
+d.r.::0.000159476606464
+illustrated::0.000159476606464
+logic-based::0.000159476606464
+analogize::0.000159476606464
+intensive::0.000159476606464
+kravalova::0.000159476606464
+strongly::0.000159476606464
+56(2::0.000159476606464
+group-based::0.000159476606464
+justification::0.000159476606464
+led::0.000159476606464
+chose::0.000159476606464
+gathered::0.000159476606464
+fifteenth::0.000159476606464
+implicit::0.000159476606464
+opinion::0.000159476606464
+fulfill::0.000159476606464
+19­27::0.000159476606464
+privately::0.000159476606464
+bottom-left::0.000159476606464
+i)|::0.000159476606464
+publication;::0.000159476606464
+averaged::0.000159476606464
+averages::0.000159476606464
+239(0::0.000159476606464
+pieces::0.000159476606464
+sought::0.000159476606464
+weinstein::0.000159476606464
+singular::0.000159476606464
+demonstrating::0.000159476606464
+varied::0.000159476606464
+ecai::0.000159476606464
+bing::0.000159476606464
+bins::0.000159476606464
+insight::0.000159476606464
+`application::0.000159476606464
+kintsch::0.000159476606464
+tran::0.000159476606464
+an2::0.000159476606464
+science+business::0.000159476606464
+query-document::0.000159476606464
+alfonseca::0.000159476606464
+electronics::0.000159476606464
+utility::0.000159476606464
+quantification::0.000159476606464
+frank::0.000159476606464
+gauch::0.000159476606464
+similar?::0.000159476606464
+earth::0.000159476606464
+intent::0.000159476606464
+wikipedia-based::0.000159476606464
+unspecified::0.000159476606464
+rated::0.000159476606464
+rigau::0.000159476606464
+prone::0.000159476606464
+fragments::0.000159476606464
+pointers::0.000159476606464
+x.j.::0.000159476606464
+curves::0.000159476606464
+mix::0.000159476606464
+316­321::0.000159476606464
+non-textual::0.000159476606464
+collaboration::0.000159476606464
+k.l::0.000159476606464
+linguistics-volume::0.000159476606464
+preliminary::0.000159476606464
+delve::0.000159476606464
+intrinsic::0.000159476606464
+concept-based::0.000159476606464
+1.3x::0.000159476606464
+mechanical::0.000159476606464
+high-level::0.000159476606464
+meant::0.000159476606464
+courseware::0.000159476606464
+bead::0.000159476606464
+processes::0.000159476606464
+15th::0.000159476606464
+ontologybased::0.000159476606464
+bta::0.000159476606464
+td-idf::0.000159476606464
+hyperlinks::0.000159476606464
+luk::0.000159476606464
+interfaces::0.000159476606464
+e-learning::0.000159476606464
+piece::0.000159476606464
+26(3::0.000159476606464
+prefer::0.000159476606464
+hold::0.000159476606464
+conclude::0.000159476606464
+contributors::0.000159476606464
+estimating::0.000159476606464
+sufficient::0.000159476606464
+lackner::0.000159476606464
+uidis::0.000159476606464
+lectures.::0.000159476606464
+set2::0.000159476606464
+¸ca::0.000159476606464
+student::0.000159476606464
+personalised::0.000159476606464
+underlying::0.000159476606464
+definitive::0.000159476606464
+mathematics::0.000159476606464
+vidhya@cb.amrita.edu::0.000159476606464
+functional::0.000159476606464
+classical::0.000159476606464
+proper::0.000159476606464
+recognition::0.000159476606464
+biology::0.000159476606464
+p.w.::0.000159476606464
+previously::0.000159476606464
+5(4::0.000159476606464
+gleaned::0.000159476606464
+resistors::0.000159476606464
+histogram::0.000159476606464
+lowered::0.000159476606464
+gain::0.000159476606464
+s.p::0.000159476606464
+record::0.000159476606464
+this?::0.000159476606464
+m.s::0.000159476606464
+multi-word::0.000159476606464
+ranks::0.000159476606464
+validation::0.000159476606464
+techniques::0.000154776541736
+computing::0.000154776541736
+shows::0.000154776541736
+find::0.000154776541736
+mentioned::0.000154776541736
+means::0.000154776541736
+frequency of occurrence::0.000151850661048
+engineering amrita school::0.000151850661048
+science and engineering::0.000151850661048
+coimbatore amrita vishwa::0.000151850661048
+engineering coimbatore amrita::0.000151850661048
+takes into account::0.000151850661048
+classification::0.000151850661048
+automatically::0.000151850661048
+studied::0.000151850661048
+scope::0.000151850661048
+minimum::0.000151850661048
+interesting::0.000151850661048
+factors::0.000151850661048
+support::0.000151850661048
+indicate::0.000151850661048
+determine::0.000151850661048
+segmentation::0.000151850661048
+association::0.000151850661048
+serve::0.000151850661048
+annual::0.000151850661048
+analyze::0.000151850661048
+extraction::0.000151850661048
+distribution::0.000151850661048
+sort::0.000151850661048
+covered::0.000151850661048
+occurrences::0.000151850661048
+respect::0.000151850661048
+taking::0.000151850661048
+amrita::0.000151850661048
+conference::0.000132665607202
+data structures::0.000132665607202
+large::0.000132665607202
+search::0.000132665607202
+research::0.000132665607202
+account::0.000132665607202
+text::0.000132665607202
+present::0.000132665607202
+level::0.000110554672669
+main::0.000110554672669
+structures::0.000110554672669
+considered::0.000110554672669
+probability::0.000110554672669
+point::0.000110554672669
+helps::0.000110554672669
+works::0.000110554672669
+limited::0.000101233774032
+approach works::0.000101233774032
+direct::0.000101233774032
+established::0.000101233774032
+mentioned earlier::0.000101233774032
+items::0.000101233774032
+brought::0.000101233774032
+earlier::0.000101233774032
+similarly::0.000101233774032
+classes::0.000101233774032
+coimbatore::0.000101233774032
+reference::0.000101233774032
+conceptual::0.000101233774032
+deal::0.000101233774032
+engineering amrita::0.000101233774032
+properties::0.000101233774032
+amrita school::0.000101233774032
+generally::0.000101233774032
+share::0.000101233774032
+enable::0.000101233774032
+coimbatore amrita::0.000101233774032
+helping::0.000101233774032
+amrita vishwa::0.000101233774032
+automated::0.000101233774032
+total number::0.000101233774032
+experience::0.000101233774032
+engineering coimbatore::0.000101233774032
+semantic relationship::0.000101233774032
+goal::0.000101233774032
+queries::0.000101233774032
+relate::0.000101233774032
+international journal::0.000101233774032
+services::0.000101233774032
+current::0.000101233774032
+premise::0.000101233774032
+generating::0.000101233774032
+understand::0.000101233774032
+estimate::0.000101233774032
+built::0.000101233774032
+metrics::0.000101233774032
+vectors::0.000101233774032
+access::0.000101233774032
+explore::0.000101233774032
+formally::0.000101233774032
+publications::0.000101233774032
+indexing::0.000101233774032
+enhanced::0.000101233774032
+sciences::0.000101233774032
+proposed system::0.000101233774032
+survey::0.000101233774032
+graph based::0.000101233774032
+clusters::0.000101233774032
+subset::0.000101233774032
+segments::9.07937704988e-05
+rise::9.07937704988e-05
+graph-based::9.07937704988e-05
+sri::9.07937704988e-05
+increasing::9.07937704988e-05
+coefficient::9.07937704988e-05
+correspondingly::9.07937704988e-05
+india::9.07937704988e-05
+belonging::9.07937704988e-05
+methodology::9.07937704988e-05
+classify::9.07937704988e-05
+parallel::9.07937704988e-05
+personal::9.07937704988e-05
+exhibits::9.07937704988e-05
+overcome::9.07937704988e-05
+count::9.07937704988e-05
+reasonable::9.07937704988e-05
+stronger::9.07937704988e-05
+primary::9.07937704988e-05
+needed::9.07937704988e-05
+recent::9.07937704988e-05
+target::9.07937704988e-05
+disambiguation::9.07937704988e-05
+zealand::9.07937704988e-05
+doi::9.07937704988e-05
+discussions::9.07937704988e-05
+meet::9.07937704988e-05
+artificial::9.07937704988e-05
+suggested::9.07937704988e-05
+received::9.07937704988e-05
+aid::9.07937704988e-05
+played::9.07937704988e-05
+numerical::9.07937704988e-05
+academic::9.07937704988e-05
+formal::9.07937704988e-05
+clustered::9.07937704988e-05
+unique::9.07937704988e-05
+advanced::9.07937704988e-05
+1­10::9.07937704988e-05
+statistic::9.07937704988e-05
+communications::9.07937704988e-05
+differences::9.07937704988e-05
+expertise::9.07937704988e-05
+intend::9.07937704988e-05
+focus::9.07937704988e-05
+leads::9.07937704988e-05
+inverse::9.07937704988e-05
+finally::9.07937704988e-05
+frequencies::9.07937704988e-05
+choice::9.07937704988e-05
+discover::9.07937704988e-05
+inference::9.07937704988e-05
+working::9.07937704988e-05
+ensure::9.07937704988e-05
+correlate::9.07937704988e-05
+vidyapeetham::9.07937704988e-05
+wong::9.07937704988e-05
+revised::9.07937704988e-05
+adequately::9.07937704988e-05
+replacing::9.07937704988e-05
+compression::9.07937704988e-05
+lie::9.07937704988e-05
+necessarily::9.07937704988e-05
+networks.::9.07937704988e-05
+ann::9.07937704988e-05
+threshold::9.07937704988e-05
+developed::9.07937704988e-05
+analyzes::9.07937704988e-05
+sixth::9.07937704988e-05
+workshop::9.07937704988e-05
+judging::9.07937704988e-05
+linguistic::9.07937704988e-05
+bayesian::9.07937704988e-05
+evidence::9.07937704988e-05
+proves::9.07937704988e-05
+irrespective::9.07937704988e-05
+classified::9.07937704988e-05
+validate::9.07937704988e-05
+ijcai::9.07937704988e-05
+aspect::9.07937704988e-05
+supervised::9.07937704988e-05
+assumed::9.07937704988e-05
+scholarly::9.07937704988e-05
+title::9.07937704988e-05
+follow::9.07937704988e-05
+chain::9.07937704988e-05
+removal::9.07937704988e-05
+contexts::9.07937704988e-05
+design::9.07937704988e-05
+exploration::9.07937704988e-05
+collected::9.07937704988e-05
+deals::9.07937704988e-05
+2013;::9.07937704988e-05
+n-gram::9.07937704988e-05
+keeping::9.07937704988e-05
+stated::9.07937704988e-05
+phrase::9.07937704988e-05
+stemming::9.07937704988e-05
+strong::9.07937704988e-05
+derived::9.07937704988e-05
+ictee::9.07937704988e-05
+feasible::9.07937704988e-05
+item::9.07937704988e-05
+american::9.07937704988e-05
+contributions::9.07937704988e-05
+paragraphs::9.07937704988e-05
+categorized::9.07937704988e-05
+paths::9.07937704988e-05
+generalized::9.07937704988e-05
+intelligence::9.07937704988e-05
+sequences::9.07937704988e-05
+simply::9.07937704988e-05
+consuming::9.07937704988e-05
+corpus-based::9.07937704988e-05
+handling::9.07937704988e-05
+resulting::9.07937704988e-05
+expanded::9.07937704988e-05
+contents::9.07937704988e-05
+makes::9.07937704988e-05
+organization::9.07937704988e-05
+comprehensively::9.07937704988e-05
+causing::9.07937704988e-05
+describing::9.07937704988e-05
+readability::9.07937704988e-05
+regular::9.07937704988e-05
+measured::9.07937704988e-05
+multilevel::9.07937704988e-05
+consist::9.07937704988e-05
+matching::9.07937704988e-05
+implies::9.07937704988e-05
+broad::9.07937704988e-05
+2009::9.07937704988e-05
+stable::9.07937704988e-05
+dramatically::9.07937704988e-05
+syntax::9.07937704988e-05
+continued::9.07937704988e-05
+smaller::9.07937704988e-05
+formats::9.07937704988e-05
+experiment::9.07937704988e-05
+consideration::9.07937704988e-05
+distributed::9.07937704988e-05
+train::9.07937704988e-05
+central::9.07937704988e-05
+augment::9.07937704988e-05
+spanning::9.07937704988e-05
+linguistics::9.07937704988e-05
+false::9.07937704988e-05
+february::9.07937704988e-05
+ordering::9.07937704988e-05
+element::9.07937704988e-05
+tois::9.07937704988e-05
+quantifies::9.07937704988e-05
+difficulties::9.07937704988e-05
+publishers::9.07937704988e-05
+equal::9.07937704988e-05
+figures::9.07937704988e-05
+logic::9.07937704988e-05
+researcher::9.07937704988e-05
+audio::9.07937704988e-05
+graduate::9.07937704988e-05
+ramakrishnan::9.07937704988e-05
+demonstrates::9.07937704988e-05
+noise::9.07937704988e-05
+categorize::9.07937704988e-05
+publishing::9.07937704988e-05
+function::9.07937704988e-05
+compute::9.07937704988e-05
+demonstrate::9.07937704988e-05
+universal::9.07937704988e-05
+functions::9.07937704988e-05
+c.s::9.07937704988e-05
+additionally::9.07937704988e-05
+order::8.84437381348e-05
+represents::8.84437381348e-05
+implementation::8.84437381348e-05
+graph::8.84437381348e-05
+length::8.84437381348e-05
+making::8.84437381348e-05
+weighting::8.84437381348e-05
+engineering::8.84437381348e-05
+good::8.84437381348e-05
+compare::8.84437381348e-05
+degree::8.84437381348e-05
+comprehensive::8.84437381348e-05
+lower::8.84437381348e-05
+generated::8.84437381348e-05
+index::8.84437381348e-05
+approaches::8.84437381348e-05
+identification::8.84437381348e-05
+problem::8.84437381348e-05
+estimated::6.63328036011e-05
+created::6.63328036011e-05
+distance::6.63328036011e-05
+automatic::6.63328036011e-05
+department of computer::6.63328036011e-05
+hand::6.63328036011e-05
+models::6.63328036011e-05
+cases::6.63328036011e-05
+natural::6.63328036011e-05
+words::6.63328036011e-05
+metric::6.63328036011e-05
+discussed::6.63328036011e-05
+paper::6.63328036011e-05
+architecture::6.63328036011e-05
+technical::6.63328036011e-05
+number of documents::6.63328036011e-05
+number of words::6.63328036011e-05
+identified::6.63328036011e-05
+school of engineering::6.63328036011e-05
+ieee::6.63328036011e-05
+choose::6.63328036011e-05
+importance::6.63328036011e-05
+create::6.63328036011e-05
+phrases::6.63328036011e-05
+calculate::5.06168870161e-05
+path::5.06168870161e-05
+york::5.06168870161e-05
+total::5.06168870161e-05
+motivate::5.06168870161e-05
+root::5.06168870161e-05
+complexity::5.06168870161e-05
+free::5.06168870161e-05
+top::5.06168870161e-05
+corpus::5.06168870161e-05
+tree::5.06168870161e-05
+final::5.06168870161e-05
+solutions::5.06168870161e-05
+representing::5.06168870161e-05
+stop::5.06168870161e-05
+weak::5.06168870161e-05
+contribution::5.06168870161e-05
+engines::5.06168870161e-05
+visualization::5.06168870161e-05
+takes::5.06168870161e-05
+reducing::5.06168870161e-05
+rely::5.06168870161e-05
+medium::5.06168870161e-05
+interested::5.06168870161e-05
+node::5.06168870161e-05
+technique::5.06168870161e-05
+theoretical::5.06168870161e-05
+ranking::5.06168870161e-05
+original::5.06168870161e-05
+map::5.06168870161e-05
+representations::5.06168870161e-05
+weighted::5.06168870161e-05
+retrieve::5.06168870161e-05
+state::5.06168870161e-05
+open::5.06168870161e-05
+vishwa::5.06168870161e-05
+innovative::5.06168870161e-05
+constant::5.06168870161e-05
+designed::5.06168870161e-05
+observe::5.06168870161e-05
+profiles::5.06168870161e-05
+researchers::5.06168870161e-05
+captures::5.06168870161e-05
+accepted::5.06168870161e-05
+hard::5.06168870161e-05
+idea::5.06168870161e-05
+nature::5.06168870161e-05
+decisions::5.06168870161e-05
+maps::5.06168870161e-05
+taxonomy::5.06168870161e-05
+difficult::5.06168870161e-05
+linking::5.06168870161e-05
+authors::5.06168870161e-05
+significant::5.06168870161e-05
+traditional::5.06168870161e-05
+comparison::5.06168870161e-05
+connections::5.06168870161e-05
+creating::5.06168870161e-05
+connection::5.06168870161e-05
+extracting::5.06168870161e-05
+corresponds::5.06168870161e-05
+symposium::5.06168870161e-05
+describes::5.06168870161e-05
+stack::5.06168870161e-05
+essential::5.06168870161e-05
+creation::5.06168870161e-05
+scale::5.06168870161e-05
+range::5.06168870161e-05
+primarily::5.06168870161e-05
+fast::5.06168870161e-05
+files::5.06168870161e-05
+electrical::5.06168870161e-05
+issues::5.06168870161e-05
+proof::5.06168870161e-05
+effectively::5.06168870161e-05
+run::5.06168870161e-05
+product::5.06168870161e-05
+society::5.06168870161e-05
+greedy::5.06168870161e-05
+explanation::5.06168870161e-05
+purposes::5.06168870161e-05
+graphs::5.06168870161e-05
+bring::5.06168870161e-05
+areas::5.06168870161e-05
+ranked::5.06168870161e-05
+reduced::5.06168870161e-05
+sequence::5.06168870161e-05
+introduces::5.06168870161e-05
+introduced::5.06168870161e-05
+capable::5.06168870161e-05
+basic::5.06168870161e-05
+rule::5.06168870161e-05
+conclusion::5.06168870161e-05
+consists::4.42218690674e-05
+natural language::4.42218690674e-05
+give::4.42218690674e-05
+end::4.42218690674e-05
+keywords::4.42218690674e-05
+view::4.42218690674e-05
+commonly::4.42218690674e-05
+occur::4.42218690674e-05
+language::4.42218690674e-05
+binary::4.42218690674e-05
+provided::4.42218690674e-05
+generation::4.42218690674e-05
+computational::4.42218690674e-05
+closely related::4.42218690674e-05
+links::4.42218690674e-05
+collection::4.42218690674e-05
+including::4.42218690674e-05
+addition::4.42218690674e-05
+capture::4.42218690674e-05
+weight::4.42218690674e-05
+school::2.21109345337e-05
+extract::2.21109345337e-05
+keyword::2.21109345337e-05
+manner::2.21109345337e-05
+transactions::2.21109345337e-05
+basis::2.21109345337e-05
+abstract::2.21109345337e-05
+discuss::2.21109345337e-05
+wide::2.21109345337e-05
+require::2.21109345337e-05
+form::2.21109345337e-05
+link::2.21109345337e-05
+implemented::2.21109345337e-05
+captured::2.21109345337e-05
+world::2.21109345337e-05
+semantically::2.21109345337e-05
+structure::2.21109345337e-05
+combined::2.21109345337e-05
+maximum::2.21109345337e-05
+list::2.21109345337e-05
+i.e::2.21109345337e-05
+mapping::2.21109345337e-05
+giving::2.21109345337e-05
+extracted::2.21109345337e-05
+build::2.21109345337e-05
+weights::2.21109345337e-05
+single::2.21109345337e-05
+department::2.21109345337e-05
+requires::2.21109345337e-05
+closely::2.21109345337e-05
+accuracy::2.21109345337e-05
+initial::2.21109345337e-05
+national::2.21109345337e-05
+manually::2.21109345337e-05
+highest::2.21109345337e-05
+details::2.21109345337e-05
+multiple::0.0
+word::0.0
+work::0.0
+provide::0.0
+low::0.0
+effective::0.0
+database::0.0
+observed::0.0
+web::0.0
+make::0.0
+proposed::0.0
+identify::0.0
+human::0.0
+specific::0.0
+computer science::0.0
+time::0.0
+science::0.0
+studies::0.0
+sample::0.0
+data::0.0
+first::0.0
+efficient::0.0
+potential::0.0
+show::0.0
+case::0.0
+process::0.0
+found::0.0
+references::0.0
+general::0.0
+includes::0.0
+important::0.0
+method::0.0
+include::0.0
+information::0.0
+algorithms::0.0
+retrieval::0.0
+easily::0.0
+approach::0.0
+major::0.0
+number::0.0
+introduction::0.0
+systems::0.0
+international::0.0
+simple::0.0
+vol::0.0
+analysis::0.0
+methods::0.0
+processing::0.0
+computer::0.0
+similar::0.0
+application::0.0
+required::0.0
+figure::0.0
+university::0.0
+related::0.0
+proceedings::0.0
+based::0.0
+journal::0.0
+made::0.0
+out::0.0
