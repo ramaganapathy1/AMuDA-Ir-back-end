@@ -44,7 +44,8 @@ if __name__ == '__main__':
     production.run(host="127.0.0.1",port=6000,debug=True)"""
 @app.route('/kickoff',methods=['GET'])
 def kick():
-    if(int(session['count'])>=5):
+    results=db.papers.find({})
+    if(results.count()>=5):
         path = os.getcwd()
         print ("start")
         os.system('python intial.py')
