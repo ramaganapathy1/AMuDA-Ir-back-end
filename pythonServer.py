@@ -124,6 +124,7 @@ def markRead(paperName):
     if 'name' in session:
         print (paperName)
         r = db.papers.update({'_id':paperName,'userId':session['number']},{ '$set' :{'status':'1'}})
+        r = db.rPaper.update({'_id': paperName, 'userId': session['number']}, {'$set': {'status': '1'}})
         print (r)
         if( r['nModified'] ==1):
             print(paperName+' Marker Successfully')
@@ -135,7 +136,7 @@ def markRead(paperName):
 @app.route('/domain/<dname>',methods=['GET'])
 def domain(dname):
     if 'name' in session:
-        papers = db.papers.find({'userId':session['number'],'domain':dname})
+        papers = db.rPaper.find({'userId':session['number'],'domain':dname})
         li1=[]
         for i in papers:
             li1.append(i)
