@@ -74,15 +74,25 @@ def signin():
             data.append(result['name'])
             # print (str(result['password']) == str(password))
             print ("Success")
+            month=time.strftime("%m")
+            year=time.strftime("%Y")
+            day=time.strftime("%d")
+            db.entry.insert({"userId":number,"month":month,"year":year,"date":day})
             app.secret_key='ir'
             session['name'] = result['name']
             session['number'] = result['number']
             session['lastRead']=""
-            c=db.papers.find({'userId':session['number']})
-            result2 = db.papers.find({'userId':session['number'], 'status': '1'})
+
+            c=db.papers.find({"userId":number})
+            result2 = db.papers.find({'userId':number, 'status': '1'})
             session['count']=c.count()
             session['count2']=result2.count()
-            return redirect(url_for('dashboard'))
+            rT=db.entry.find({"userId":number})
+            print (rT.count())
+            lirt=[]
+            for i in rT:
+                lirt.append(i)
+            return render_template('index.html',li=lirt)
         else:
             return redirect(url_for('index'),code=400)
 @app.route('/logOut',methods=['GET'])
@@ -106,6 +116,8 @@ def addPaper():
         data['filename'] = filename
         data['domain'] = request.form['domain']
         data['name'] = request.form['name']
+        data['keywords']=""
+        data['abstract']=""
         print (data)
         print("paper added", data)
         print (f)
@@ -162,13 +174,13 @@ def uploads(filename1):
         print (filename1, "is requested")
         print ("send file : ",filename1)
         r=db.timeStamp.find({"fileName":filename1,"userId":session['number']})
-        if r.count()==0:
+        """if r.count()==0:
             result = db.timeStamp.insert_one(
                 {"userId": session['number'], "fileName": filename1, "startTime": [datetime.utcnow()], "endTime": []})
         else:
             result = db.timeStamp.update(
-                {"userId": session['number'], "fileName": filename1},{'$push':{ "startTime": datetime.utcnow()}})
-        print ("Sent : ",result)
+                {"userId": session['number'], "fileName": filename1},{'$push':{ "startTime": datetime.utcnow()}}
+        print ("Sent : ",result)"""
         session['lastRead']=filename1
         print (session['lastRead'])
         return send_file(path+'/uploads/'+filename1,as_attachment=False,attachment_filename=filename1)
@@ -204,5 +216,20 @@ def readPaper(paperName):
         return render_template('viewPdf.html',li=r2)
     else:
         return render_template('index.html')
+"""@app.route('/search/<key>',methods=['GET'])
+def search(key):
+    r=db.rPaper.find({'keys'})"""
+@app.route('/index2',methods=['GET'])
+def index2():
+    if 'name' in session:
+        rT = db.entry.find({"userId": session['number']})
+        print (rT.count())
+        lirt = []
+        for i in rT:
+            lirt.append(i)
+        return render_template('index.html', li=lirt)
+    else:
+        return redirect(url_for('index'),code=300)
+
 if __name__ == '__main__':
     app.run()
