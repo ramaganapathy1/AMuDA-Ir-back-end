@@ -51,7 +51,9 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" style="color: #f4ffea;" href="/"><b>I</b>R - <b>A</b>MuDA </a>
+            <a class="navbar-brand" style="color: #f4ffea;" href="{% if 'name' not in session %}
+                  / {% else %}/index2
+            {% endif %} "><b>I</b>R - <b>A</b>MuDA </a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
@@ -207,6 +209,12 @@
                 <i class="fa fa-github"></i> Fork Us on GitHub
             </a>
         </div>
+        <h3><i class="fa fa-bookmark">{{ session['count'] }}</i>&nbsp;&nbsp;&nbsp;&nbsp;</h3>
+    <div class="row">
+        <div class="col-lg-12">
+<div id="calendar_basic" style="width: 1000px; height: 350px;"></div>
+        </div>
+    </div>
 
 
     </div>
@@ -225,21 +233,34 @@
         type="text/javascript"></script>
 
 <script src="../static/dist/sweetalert-master/dist/sweetalert-dev.js"></script>
-<!--<?php
-    if(isset($_SESSION['name']))
-    {
-        echo "<script>swal(\"Hi! ".$_SESSION['name']."\", \"\", \"success\")</script>";
-    }
-    if($_GET['id']=="success")
-    {
-        echo "<script>swal(\"Success!\", \"\", \"success\")</script>";
-    }
-    else if($_GET['id']=="error")
-    {
-        echo "<script>swal ( \"Oops\" ,  \"Something went wrong!\" ,  \"error\" )</script>";
-    }
-?>-->
 <script src="../static/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load("current", {packages:["calendar"]});
+      google.charts.setOnLoadCallback(drawChart);
+
+   function drawChart() {
+       var dataTable = new google.visualization.DataTable();
+       dataTable.addColumn({ type: 'date', id: 'Date' });
+       dataTable.addColumn({ type: 'number', id: 'Won/Loss' });
+       dataTable.addRows([
+           {% if li %}
+               {% for i in li %}
+          [ new Date({{  i['year'] }},{{  i['month'] }},{{  i['date'] }}), 1 ],
+               {% endfor %}
+               [ new Date(2017,8,26), 0]
+        ]);
+       {% endif %}
+       var chart = new google.visualization.Calendar(document.getElementById('calendar_basic'));
+
+       var options = {
+         title: "IR-AMuDA Usage Stats",
+         height: 350,
+       };
+       {% if li  %}
+       chart.draw(dataTable, options);
+       {% endif %}
+   }</script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"></script>
 <script src="../static/plugins/morris/morris.min.js"></script>
 <script src="../static/plugins/sparkline/jquery.sparkline.min.js"></script>

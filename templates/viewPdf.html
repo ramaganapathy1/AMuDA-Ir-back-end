@@ -41,7 +41,7 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 </head>
-<body  id="main" class="img-responsive success">
+<body  id="main" class="img-responsive success " style="font-family: Lato ">
 <nav class="navbar navbar-fixed-top navbar-default " style="background:#004c96;">
     <div class="container-fluid">
         <div class="navbar-header">
@@ -87,6 +87,14 @@
             <b>Please add a paper , as its so lonely here!</b>
               </div>
         {% endfor %}
+        </div>
+        <div class="col-lg-12">
+            <i>Keywords : </i><hr>
+            {% for i in li['keywords'].split(',')%}
+                <u style="color: #0d6aad"><a href="/search/{{ i }}" style="font-size:20px;color: #222;">{{ i }}</a></u>,
+                {% else %}
+                    Clik On KickOff
+            {% endfor %}
         </div>
     </div>
 
