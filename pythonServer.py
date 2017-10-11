@@ -159,6 +159,7 @@ def recommend(paperName):
 def uploads(filename1):
     print (os.path)
     if 'name' in session:
+        print (filename1, "is requested")
         print ("send file : ",filename1)
         r=db.timeStamp.find({"fileName":filename1,"userId":session['number']})
         if r.count()==0:
@@ -194,5 +195,14 @@ def delete(paperName):
     os.system("rm "+path+"/production/keyphrase/transcript/" + r['filename'][:-3]+'txt')
     print(r1,r2,r3)
     return redirect(url_for('dashboard'),code=200)
+@app.route('/readPaper/<paperName>',methods=['GET'])
+def readPaper(paperName):
+    if request.method == 'GET':
+        print(paperName)
+        r2 = db.rPaper.find_one({'name': paperName})
+        print (r2)
+        return render_template('viewPdf.html',li=r2)
+    else:
+        return render_template('index.html')
 if __name__ == '__main__':
     app.run()
