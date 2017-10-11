@@ -30,6 +30,33 @@
     <!-- bootstrap wysihtml5 - text editor -->
     <link rel="stylesheet" href="../static/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css">
     <link href="https://fonts.googleapis.com/css?family=Baloo+Bhaina|Catamaran:100|Exo:100|Lato|Quicksand:300" rel="stylesheet">
+    <style>
+        #hover{
+            border-top: #1A237E solid 50px;
+            height:270px;
+            width:70%;
+            margin:0 0 0 15%;
+            background: #EEEEEE;
+            text-align: left;
+            font-family: Lato , Sans-Serif;
+            font-size: medium;
+            color: #222;
+            display: none;
+            transition: display 1s;
+            padding: 10px;
+            position: relative;
+
+        }
+        @-webkit-keyframes mynewmove {
+    0% {top: 150px; background: #222; width: 100px;}
+    100% {top: 150px;background: #EEEEEE; width: 100px;}
+}
+@keyframes mynewmove {
+    from {top: 100px;}
+    to {top: 120px;}
+}
+
+    </style>
 </head>
 <body  id="main" class="img-responsive success">
 <nav class="navbar navbar-fixed-top navbar-default " style="background:#004c96;">
@@ -50,12 +77,15 @@
                 <li><a href="#">Contact</a></li>
 
             </ul>
-
+<div id="hover">{{ li[0]['name'] }}<br>asdasdasdasdasdasdasdasdasd</div>
         </div>
         <!--/.nav-collapse -->
+
     </div><!--/.container-fluid -->
 </nav>
+
 <br><br>
+
 <div class="row">
     <div class="col-lg-3 ">
         <div class="callout">
@@ -71,6 +101,7 @@
         </div>
 
     </div>
+
     <div class="col-lg-9">
         <a class="btn btn-app" data-toggle="modal" data-target="#timeOpen">
                 <i class="fa fa-edit"></i> Edit
@@ -79,12 +110,13 @@
         {% for i in li %}
             <div class="col-lg-3">
                 {% if i['status']=='0' %}
-                <div class="callout callout-warning">
+                <div class="callout callout-warning" onMouseOver="hoverText('{{ i['abstract'] }}','{{ i['keywords'] }}','{% for j in i['continuation'] %} {{ j['name'] }}({{ j['domain'] }})-> {% else %} Click Kickoff Button in Dashboard!!! {% endfor %}'
+                        ,'{{ i['name'] }}')" onMouseOut="removeHover()">
                         <h3><b>{{ i['name'] }} <a onclick="openBoth('{{ i['filename'] }}')"> <i class="fa fa-book pull-right"></i> </b></a> </h3>
                     <p><a href="/read/{{ i['name'] }}" style="color:green;">Read ? </a> | <a href="/delete/{{ i['name'] }}" style="color: red;">Delete ?</a> </p>
                 </div></div>
                 {% else %}
-                    <div class="callout callout" style="background-color: gainsboro;">
+                    <div class="callout callout" style="background-color: gainsboro;" onMouseOver="hoverText('{{ i['abstract'] }}','{{ i['keywords'] }}')" onMouseOut="removeHover()">
                         <h3><b>{{ i['name'] }} <a onclick="openBoth('{{ i['filename'] }}')" target="_blank"><i class="fa fa-book pull-right" style="color: #222;" ></i> </b></a> </h3>
                     <p><a href="/recommend/{{ i['name'] }}" style="color:blue;">What to do next? </a>
                         | <a href="/delete/{{ i['name'] }}" style="color: red;" >Delete ?</a> </p>
@@ -101,6 +133,7 @@
             </div>
     </div>
 </div>
+
 <div id="myModal" class="modal fade" role="dialog">
   <div class="modal-dialog">
 
@@ -180,7 +213,9 @@
 
   </div>
 </div>
+<div id="hover">{{ li[0]['name'] }}<br>asdasdasdasdasdasdasdasdasd</div>
 <div class="row">
+
 </div>
 
 </body>
@@ -271,6 +306,22 @@
     function openBoth(page) {
          window.open('/upload/'+page);
         $(' #timeOpen ').modal('toggle');
+    }
+    </script>
+    <script>
+    function hoverText(abs,keywords,path,name) {
+        document.getElementById("hover").style.marginTop = "-60px";
+        document.getElementById("hover").style.marginLeft = "245px";
+        document.getElementById("hover").style.display = "block";
+        document.getElementById("hover").style.transitionDuration = "3s";
+        //document.getElementById("hover").style.WebkitAnimation = "mynewmove 4s 1";
+        document.getElementById("hover").innerHTML = "<h1><i>"+name+"</i></h1><b>Abstract :</b> <br>&nbsp;&nbsp;&nbsp;&nbsp;"+abs+"<br>" +
+            "<b>Keywords : </b><br>&nbsp;&nbsp;&nbsp;&nbsp;"+keywords+"<br><b>Path To Read : </b><br>&nbsp;&nbsp;&nbsp;&nbsp;"+path;
+        console.log(abs,keywords);
+    }
+    function removeHover() {
+
+     document.getElementById("hover").style.display = "none";
     }
 </script>
     </html>
