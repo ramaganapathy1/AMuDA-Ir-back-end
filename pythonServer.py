@@ -216,9 +216,21 @@ def readPaper(paperName):
         return render_template('viewPdf.html',li=r2)
     else:
         return render_template('index.html')
-"""@app.route('/search/<key>',methods=['GET'])
+@app.route('/search/<key>',methods=['GET'])
 def search(key):
-    r=db.rPaper.find({'keys'})"""
+    r=db.rPaper.find({"userId":session['number']})
+    print (r.count())
+    d=[]
+    for j in r:
+        d.append(j)
+    rs=[]
+    print (d)
+    for i in range(0,len(d)):
+        k=d[i]['keywords']
+        k=k.split(",")
+        if(key in k):
+            rs.append(d[i])
+    return render_template("search.html",li=rs)
 @app.route('/index2',methods=['GET'])
 def index2():
     if 'name' in session:
