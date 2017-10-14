@@ -133,6 +133,7 @@ def addPaper():
         data['keywords']=""
         data['abstract']=""
         data['rCount']=0
+        data['next']=[]
         print (data)
         print("paper added", data)
         print (f)
@@ -279,6 +280,8 @@ def readPaper(paperName):
         if (session['lastpage'] == 1 and len(session['lastRead']) > 0):
             result = db.timeStamp.update({'name': session['lastRead'], 'userId': session['number']},
                                          {'$push': {'endTime': datetime.utcnow()}})
+            result = db.rPaper.update({'name': session['lastRead'], 'userId': session['number']},
+                                         {'$push': {'next': paperName}})
             session['lastRead'] = ""
             session['lastpage'] = 0
         t=r["rCount"]
