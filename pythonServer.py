@@ -55,6 +55,12 @@ def dashboard():
             if i['domain'] not in li1:
                 li1.append(i['domain'])
         print (li1)
+
+        if (session['lastpage'] == 1 and len(session['lastRead']) > 0):
+            result = db.timeStamp.update({'name': session['lastRead'], 'userId': session['number']},
+                                         {'$push': {'endTime': datetime.utcnow()}})
+            session['lastRead'] = ""
+            session['lastpage'] = 0
         return render_template('dashboard.html',li=li1)
     else:
         return redirect(url_for('index'))
@@ -82,6 +88,7 @@ def signin():
             session['name'] = result['name']
             session['number'] = result['number']
             session['lastRead']=""
+            session['lastpage']=0
 
             c=db.papers.find({"userId":number})
             result2 = db.papers.find({'userId':number, 'status': '1'})
@@ -97,8 +104,15 @@ def signin():
             return redirect(url_for('index'),code=400)
 @app.route('/logOut',methods=['GET'])
 def logout():
+
+    if(session['lastpage']==1 and len(session['lastRead'])>0):
+        result = db.timeStamp.update({'name': session['lastRead'], 'userId': session['number']},
+                                     {'$push': {'endTime': datetime.utcnow()}})
+        session['lastRead']=""
+        session['lastpage']=0
     session.pop('name',None)
     session.pop('number',None)
+
     session.clear()
     print (session)
     print ("logout success")
@@ -118,6 +132,7 @@ def addPaper():
         data['name'] = request.form['name']
         data['keywords']=""
         data['abstract']=""
+        data['rCount']=0
         print (data)
         print("paper added", data)
         print (f)
@@ -127,6 +142,12 @@ def addPaper():
         data['continuation']=[]
         data['elaboration']=[]
         r = db.rPaper.insert_one(data)
+
+        if (session['lastpage'] == 1 and len(session['lastRead']) > 0):
+            result = db.timeStamp.update({'name': session['lastRead'], 'userId': session['number']},
+                                         {'$push': {'endTime': datetime.utcnow()}})
+            session['lastRead'] = ""
+            session['lastpage'] = 0
         print(r)
         return redirect(url_for('dashboard'))
     else:
@@ -138,6 +159,12 @@ def markRead(paperName):
         r = db.papers.update({'_id':paperName,'userId':session['number']},{ '$set' :{'status':'1'}})
         r = db.rPaper.update({'_id': paperName, 'userId': session['number']}, {'$set': {'status': '1'}})
         print (r)
+
+        if (session['lastpage'] == 1 and len(session['lastRead']) > 0):
+            result = db.timeStamp.update({'name': session['lastRead'], 'userId': session['number']},
+                                         {'$push': {'endTime': datetime.utcnow()}})
+            session['lastRead'] = ""
+            session['lastpage'] = 0
         if( r['nModified'] ==1):
             print(paperName+' Marker Successfully')
             return redirect(url_for('dashboard'),code=200)
@@ -153,6 +180,12 @@ def domain(dname):
         for i in papers:
             li1.append(i)
         print (li1)
+
+        if (session['lastpage'] == 1 and len(session['lastRead']) > 0):
+            result = db.timeStamp.update({'name': session['lastRead'], 'userId': session['number']},
+                                         {'$push': {'endTime': datetime.utcnow()}})
+            session['lastRead'] = ""
+            session['lastpage'] = 0
         return render_template('list.html',li=li1)
     else:
         return redirect(url_for('index'),code=400)
@@ -164,6 +197,12 @@ def recommend(paperName):
         li1=[]
         for i in result:
             li1.append(i)
+
+        if (session['lastpage'] == 1 and len(session['lastRead']) > 0):
+            result = db.timeStamp.update({'name': session['lastRead'], 'userId': session['number']},
+                                         {'$push': {'endTime': datetime.utcnow()}})
+            session['lastRead'] = ""
+            session['lastpage'] = 0
         return render_template("recommend.html",li=li1)
     else:
         return( "sorry you are not good at hacking!" )
@@ -174,15 +213,25 @@ def uploads(filename1):
         print (filename1, "is requested")
         print ("send file : ",filename1)
         r=db.timeStamp.find({"fileName":filename1,"userId":session['number']})
-        """if r.count()==0:
+        if r.count()==0:
             result = db.timeStamp.insert_one(
                 {"userId": session['number'], "fileName": filename1, "startTime": [datetime.utcnow()], "endTime": []})
         else:
             result = db.timeStamp.update(
-                {"userId": session['number'], "fileName": filename1},{'$push':{ "startTime": datetime.utcnow()}}
-        print ("Sent : ",result)"""
+                {"userId": session['number'], "fileName": filename1},{'$push':{ "startTime": datetime.utcnow()}})
+        r=db.rPaper.find_one({"userId":session['number'],"filename":filename1})
+        t=r["rCount"]
+        t=t+1
+        r=db.rPaper.update({"userId":session['number'],"filename1":filename1},{'$set' :{"rCount":t}})
+        print ("Sent : ",result)
         session['lastRead']=filename1
         print (session['lastRead'])
+
+        if (session['lastpage'] == 1 and len(session['lastRead']) > 0):
+            result = db.timeStamp.update({'name': session['lastRead'], 'userId': session['number']},
+                                         {'$push': {'endTime': datetime.utcnow()}})
+            session['lastRead'] = ""
+            session['lastpage'] = 0
         return send_file(path+'/uploads/'+filename1,as_attachment=False,attachment_filename=filename1)
     else:
         return redirect(url_for('index'),code=400)
@@ -202,6 +251,12 @@ def delete(paperName):
     r2=db.rPaper.remove({'name': paperName})
     r3=db.timeStamp.remove({'name': paperName})
     path=os.getcwd()
+
+    if(session['lastpage']==1 and len(session['lastRead'])>0):
+        result = db.timeStamp.update({'name': session['lastRead'], 'userId': session['number']},
+                                     {'$push': {'endTime': datetime.utcnow()}})
+        session['lastRead']=""
+        session['lastpage']=0
     print (r)
     os.system("rm "+path+"/uploads/"+r['filename'])
     os.system("rm "+path+"/production/keyphrase/transcript/" + r['filename'][:-3]+'txt')
@@ -212,6 +267,26 @@ def readPaper(paperName):
     if request.method == 'GET':
         print(paperName)
         r2 = db.rPaper.find_one({'name': paperName})
+        r=db.timeStamp.find({"name":paperName,"userId":session['number']})
+        if r.count()==0:
+            result = db.timeStamp.insert_one(
+                {"userId": session['number'], "name": paperName, "startTime": [datetime.utcnow()], "endTime": []})
+        else:
+            result = db.timeStamp.update(
+                {"userId": session['number'], "name": paperName},{'$push':{ "startTime": datetime.utcnow()}})
+        r=db.rPaper.find_one({"userId":session['number'],"name":paperName})
+        print (r)
+        if (session['lastpage'] == 1 and len(session['lastRead']) > 0):
+            result = db.timeStamp.update({'name': session['lastRead'], 'userId': session['number']},
+                                         {'$push': {'endTime': datetime.utcnow()}})
+            session['lastRead'] = ""
+            session['lastpage'] = 0
+        t=r["rCount"]
+        session['lastRead']=paperName
+        t=t+1
+        r=db.rPaper.update({"userId":session['number'],"name":paperName},{'$set' :{"rCount":t}})
+        session['lastpage']=1
+        print ("rCount" ,r)
         print (r2)
         return render_template('viewPdf.html',li=r2)
     else:
@@ -225,6 +300,12 @@ def search(key):
         d.append(j)
     rs=[]
     print (d)
+    if(session['lastpage']==1 and len(session['lastRead'])>0):
+        result = db.timeStamp.update({'name': session['lastRead'], 'userId': session['number']},
+                                     {'$push': {'endTime': datetime.utcnow()}})
+        session['lastRead']=""
+        session['lastpage']=0
+
     for i in range(0,len(d)):
         k=d[i]['keywords']
         k=k.split(",")
@@ -239,6 +320,12 @@ def index2():
         lirt = []
         for i in rT:
             lirt.append(i)
+
+        if (session['lastpage'] == 1 and len(session['lastRead']) > 0):
+            result = db.timeStamp.update({'name': session['lastRead'], 'userId': session['number']},
+                                         {'$push': {'endTime': datetime.utcnow()}})
+            session['lastRead'] = ""
+            session['lastpage'] = 0
         return render_template('index.html', li=lirt)
     else:
         return redirect(url_for('index'),code=300)
