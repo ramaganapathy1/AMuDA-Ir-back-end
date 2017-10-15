@@ -228,11 +228,11 @@ def uploads(filename1):
         session['lastRead']=filename1
         print (session['lastRead'])
 
-        if (session['lastpage'] == 1 and len(session['lastRead']) > 0):
-            result = db.timeStamp.update({'name': session['lastRead'], 'userId': session['number']},
-                                         {'$push': {'endTime': datetime.utcnow()}})
-            session['lastRead'] = ""
-            session['lastpage'] = 0
+        #if (session['lastpage'] == 1 and len(session['lastRead']) > 0):
+            #result = db.timeStamp.update({'name': session['lastRead'], 'userId': session['number']},
+             #                            {'$push': {'endTime': datetime.utcnow()}})
+            #session['lastRead'] = ""
+            #session['lastpage'] = 0
         return send_file(path+'/uploads/'+filename1,as_attachment=False,attachment_filename=filename1)
     else:
         return redirect(url_for('index'),code=400)
@@ -280,8 +280,10 @@ def readPaper(paperName):
         if (session['lastpage'] == 1 and len(session['lastRead']) > 0):
             result = db.timeStamp.update({'name': session['lastRead'], 'userId': session['number']},
                                          {'$push': {'endTime': datetime.utcnow()}})
+            print ("Check 1 : ",result)
             result = db.rPaper.update({'name': session['lastRead'], 'userId': session['number']},
                                          {'$push': {'next': paperName}})
+            print ("Check 2 : ", result)
             session['lastRead'] = ""
             session['lastpage'] = 0
         t=r["rCount"]
@@ -290,6 +292,8 @@ def readPaper(paperName):
         r=db.rPaper.update({"userId":session['number'],"name":paperName},{'$set' :{"rCount":t}})
         session['lastpage']=1
         print ("rCount" ,r)
+
+        print(session)
         print (r2)
         return render_template('viewPdf.html',li=r2)
     else:
@@ -323,12 +327,13 @@ def index2():
         lirt = []
         for i in rT:
             lirt.append(i)
-
+        print session
         if (session['lastpage'] == 1 and len(session['lastRead']) > 0):
             result = db.timeStamp.update({'name': session['lastRead'], 'userId': session['number']},
                                          {'$push': {'endTime': datetime.utcnow()}})
             session['lastRead'] = ""
             session['lastpage'] = 0
+        print session
         return render_template('index.html', li=lirt)
     else:
         return redirect(url_for('index'),code=300)
