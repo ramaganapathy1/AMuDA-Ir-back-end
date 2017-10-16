@@ -109,7 +109,6 @@
         <h1><i>{{ li[0]['domain'] }}</i></h1>
         {% for i in li %}
             <a href="/readPaper/{{ i['name'] }}"><div class="col-lg-3">
-
                  <div class="callout callout-warning" onMouseOver="hoverText('{{ i['abstract'] }}','{{ i['keywords'] }}','{% for j in i['continuation'] %} {{ j['name'] }}({{ j['domain'] }})-> {% else %} Click Kickoff Button in Dashboard!!! {% endfor %}'
                         ,'{{ i['name'] }}')" onMouseOut="removeHover()">
                         <h3><b>{{ i['name'] }} <a onclick="openBoth('{{ i['filename'] }}')"> <i class="fa fa-book pull-right"></i> </b></a> </h3>
