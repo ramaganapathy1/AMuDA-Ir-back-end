@@ -73,10 +73,32 @@
             <div class="col-lg-12">
 
         <h2>To read next!</h2>
-        {% for i in li['continuation'] %}
-            <a href="/readPaper/{{ i['name'] }}" style="color:green;"><div class="col-lg-12">
-                <div class="callout callout-warning">
-                    <b>{{ i['name'] }} </b>
+                <div class="col-lg-12">
+                    <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#option1">Normal Way</button></div><br><br>
+            <div class="col-lg-12"><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#option2">Tree (Paths)</button></div><br><br>
+            <div class="col-lg-12x"><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#option3">Interactive Mode</button></div><br><br>
+            <div id="option1" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header bg-green-active">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Normal Mode</h4>
+      </div>
+      <div class="modal-body">
+<div class="row">
+    <div class="col-lg-12 ">
+
+        <div class="col-lg-12">
+        <div class="row">
+            <div class="col-lg-12">
+
+        <h2>To read next!</h2>
+        {% for i in li['option1'] %}
+            <a href="/readPaper/{{ i }}" style="color:green;"><div class="col-lg-12">
+                <div class="callout callout-info">
+                    <b>{{ i }} </b>
                     <p></p>
                 </div></div></a>
         {% else %}
@@ -99,15 +121,124 @@
 
     </div>
 </div>
-<div class="col-lg-8"> <div class="row">
-    <div class="col-lg-12">
-    <h2>{{ li['_id'] }}</h2>
+</div>
+  <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+    </div></div></div>
+<div id="option2" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header bg-green-active">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Tree (Paths)</h4>
+      </div>
+      <div class="modal-body">
+<div class="row">
+    <div class="col-lg-12 ">
+
+        <div class="col-lg-12">
+        <div class="row">
+            <div class="col-lg-12">
+
+        <h2>To read next!</h2>
+        {% for i in li['option2'] %}
+            <a href="/readPaper/{{ i }}" style="color:green;"><div class="col-lg-12">
+                <div class="callout callout-info">
+                    <b>{{ i }} </b>
+                    <p></p>
+                </div></div></a>
+        {% else %}
+        <div class="alert alert-info alert-dismissible">
+
+                <h4><i class="icon fa fa-info"></i> Alert!</h4>
+            <b>Please add a paper , as its so lonely here!</b>
+              </div>
+        {% endfor %}
+        </div>
+
+    </div>
+
+    </div>
+</div>
+</div>
+  <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+    </div></div></div>
+            <div id="option3" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header bg-green-active">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Interactive Mode</h4>
+      </div>
+      <div class="modal-body">
+<div class="row">
+    <div class="col-lg-12 ">
+
+        <div class="col-lg-12">
+        <div class="row">
+            <div class="col-lg-12">
+
+        <h2>Path (mind the order)</h2>
+        {% for i in li['option3'] %}
+            <a href="/readPaper/{{ i }}" style="color:green;"><div class="col-lg-12">
+                <div class="callout callout-info">
+                    <b>{{ i }}</b>-->
+                    <p></p>
+                </div></div></a>
+        {% else %}
+        <div class="alert alert-info alert-dismissible">
+
+                <h4><i class="icon fa fa-info"></i> Alert!</h4>
+            <b>Please add a paper , as its so lonely here!</b>
+              </div>
+        {% endfor %}
+        </div>
+
+    </div>
+
+    </div>
+</div>
+</div>
+  <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+    </div></div></div>
+        </div>
+        <div class="col-lg-12">
+            <i>Keywords : </i><hr>
+            {% for i in li['keywords'].split(',')%}
+                <u style="color: #0d6aad"><a href="/search/{{ i }}" style="font-size:20px;color: #222;">{{ i }}</a></u>,
+                {% else %}
+                    Clik On KickOff
+            {% endfor %}
+        </div>
+    </div>
+
         </div></div>
-    <br>
+
+
+
+<div class="col-lg-8">
     <div class="row">
+        <div class="col-lg-12">
+            <h2>{{ li['_id'] }}</h2>
+        </div>
+    </div>
+    <br>
+
     <div class="col-lg-12">
     <iframe src="/upload/{{ li['filename'] }}" frameborder="0" style="width: 100%;height:80%;"></iframe>
-        </div>
+
     </div>
 </div>
 <div class="col-lg-2">
@@ -125,7 +256,7 @@
         {% for i in li['elaboration'] %}
             <a href="/readPaper/{{ i['name'] }}" style="color:green;"><div class="col-lg-12">
                 <div class="callout callout-success">
-                    <b>{{ i['name'] }} </b>
+                    <b>{{ i['name'] }} </b> <br>
                     <p></p>
             </div></div></a>
         {% else %}
@@ -144,6 +275,7 @@
             </div>
 
     </div>
+</div>
 </div>
 
 <div id="myModal" class="modal fade" role="dialog">
@@ -194,6 +326,7 @@
 </div>
 <div class="row">
 </div>
+
 
 </body>
 <script src="../static/plugins/jQuery/jquery-2.2.3.min.js"></script>

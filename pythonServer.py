@@ -1,6 +1,6 @@
 from flask import Flask, session, redirect, url_for,send_file
 from flask import request  # getting post request
-from flask import render_template
+from flask import render_template,jsonify
 from pymongo import MongoClient
 from werkzeug import secure_filename
 from datetime import datetime
@@ -14,6 +14,9 @@ UPLOAD_FOLDER = '../AMuDA-Ir-back-end/uploads'
 ALLOWED_EXTENSIONS = ['pdf']
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 path=os.getcwd()
+def logMaker(path):
+    r=db.login.insert_one({"path":path,"user":session['number'],"time":datetime.utcnow()})
+    print r,path
 @app.route('/', methods=['GET'])
 def index():
     if 'name' not in session or session['name']=='':
@@ -34,10 +37,12 @@ def signup():
         post_data['email'] = request.form['email']
         post_data['number'] = request.form['number']
         post_data['password'] = request.form['password']
+        post_data['path']=[]
         print (post_data)
         try:
             db.user.insert_one(post_data)
             print ("done")
+
             return redirect(url_for('index'), code=200)
         except:
             print ("wrong")
@@ -56,11 +61,13 @@ def dashboard():
                 li1.append(i['domain'])
         print (li1)
 
-        if (session['lastpage'] == 1 and len(session['lastRead']) > 0):
-            result = db.timeStamp.update({'name': session['lastRead'], 'userId': session['number']},
-                                         {'$push': {'endTime': datetime.utcnow()}})
-            session['lastRead'] = ""
-            session['lastpage'] = 0
+        #if (session['lastpage'] == 1 and len(session['lastRead']) > 0):
+        result = db.timeStamp.update({'name': session['lastRead'], 'userId': session['number']},
+                                     {'$push': {'endTime': datetime.utcnow()}})
+        print "End Time ",datetime.utcnow(),"----",result
+        session['lastRead'] = ""
+        session['lastpage'] = 0
+        logMaker("dashboard")
         return render_template('dashboard.html',li=li1)
     else:
         return redirect(url_for('index'))
@@ -89,6 +96,7 @@ def signin():
             session['number'] = result['number']
             session['lastRead']=""
             session['lastpage']=0
+            session['path']=result['path']
 
             c=db.papers.find({"userId":number})
             result2 = db.papers.find({'userId':number, 'status': '1'})
@@ -100,6 +108,7 @@ def signin():
             for i in rT:
                 lirt.append(i)
             return render_template('index.html',li=lirt)
+            logMaker("login")
         else:
             return redirect(url_for('index'),code=400)
 @app.route('/logOut',methods=['GET'])
@@ -116,6 +125,7 @@ def logout():
     session.clear()
     print (session)
     print ("logout success")
+    logMaker("logout")
     return redirect(url_for('index'))
 
 @app.route('/addPaper',methods=['GET','POST'])
@@ -150,6 +160,7 @@ def addPaper():
             session['lastRead'] = ""
             session['lastpage'] = 0
         print(r)
+        logMaker("added paper - "+data['name'])
         return redirect(url_for('dashboard'))
     else:
         return "You are not good at hacking sorry!"
@@ -169,6 +180,7 @@ def markRead(paperName):
         if( r['nModified'] ==1):
             print(paperName+' Marker Successfully')
             return redirect(url_for('dashboard'),code=200)
+            logMaker("marked read - "+paperName)
         else:
             return redirect(url_for('dashboard'),code=301)
     else:
@@ -187,6 +199,7 @@ def domain(dname):
                                          {'$push': {'endTime': datetime.utcnow()}})
             session['lastRead'] = ""
             session['lastpage'] = 0
+            logMaker("domain")
         return render_template('list.html',li=li1)
     else:
         return redirect(url_for('index'),code=400)
@@ -204,6 +217,7 @@ def recommend(paperName):
                                          {'$push': {'endTime': datetime.utcnow()}})
             session['lastRead'] = ""
             session['lastpage'] = 0
+            logMaker("recom - "+paperName)
         return render_template("recommend.html",li=li1)
     else:
         return( "sorry you are not good at hacking!" )
@@ -233,6 +247,7 @@ def uploads(filename1):
              #                            {'$push': {'endTime': datetime.utcnow()}})
             #session['lastRead'] = ""
             #session['lastpage'] = 0
+        logMaker("paper read"+filename1)
         return send_file(path+'/uploads/'+filename1,as_attachment=False,attachment_filename=filename1)
     else:
         return redirect(url_for('index'),code=400)
@@ -260,6 +275,7 @@ def delete(paperName):
         session['lastpage']=0
     print (r)
     os.system("rm "+path+"/uploads/"+r['filename'])
+    logMaker("deleted - "+ paperName)
     os.system("rm "+path+"/production/keyphrase/transcript/" + r['filename'][:-3]+'txt')
     print(r1,r2,r3)
     return redirect(url_for('dashboard'),code=200)
@@ -277,24 +293,47 @@ def readPaper(paperName):
                 {"userId": session['number'], "name": paperName},{'$push':{ "startTime": datetime.utcnow()}})
         r=db.rPaper.find_one({"userId":session['number'],"name":paperName})
         print (r)
-        if (session['lastpage'] == 1 and len(session['lastRead']) > 0):
-            result = db.timeStamp.update({'name': session['lastRead'], 'userId': session['number']},
-                                         {'$push': {'endTime': datetime.utcnow()}})
-            print ("Check 1 : ",result)
-            result = db.rPaper.update({'name': session['lastRead'], 'userId': session['number']},
-                                         {'$push': {'next': paperName}})
-            print ("Check 2 : ", result)
-            session['lastRead'] = ""
-            session['lastpage'] = 0
+       # if (session['lastpage'] == 1 and len(session['lastRead']) > 0):
+        result = db.timeStamp.update({'name': session['lastRead'], 'userId': session['number']},
+                                     {'$push': {'endTime': datetime.utcnow()}})
+        print ("Check 1 : ",result)
+        result = db.rPaper.update({'name': session['lastRead'], 'userId': session['number']},
+                                     {'$push': {'next': paperName}})
+        print ("Check 2 : ", result)
+        session['lastRead'] = ""
+        session['lastpage'] = 0
+        r3=db.recom.find_one({'_id': r2['filename'][:-3]+"pdf"})
+        print r3
+        option1=r3['continuation']
+        option2=["Paper1","Paper2","Paper3","Paper4"]
+        option3=["Pap1","Pap2","Pap3","Pap4"]
         t=r["rCount"]
         session['lastRead']=paperName
         t=t+1
         r=db.rPaper.update({"userId":session['number'],"name":paperName},{'$set' :{"rCount":t}})
         session['lastpage']=1
         print ("rCount" ,r)
-
         print(session)
         print (r2)
+
+        option1new=[]
+        for i in option1:
+            print i[:-4]+".pdf"
+            rs=db.rPaper.find_one({'filename':i[:-4]+".pdf"})
+            print rs
+            option1new.append(rs['name'])
+            print option1new
+        option3new=[]
+        for i in session['path']:
+            print i[:-4] + ".pdf"
+            rs = db.rPaper.find_one({'filename': i[:-4] + ".pdf"})
+            print rs
+            option3new.append(rs['name'])
+            print option1new
+        r2["option1"] = option1new
+        r2["option2"]=option2
+        r2["option3"]=option3new
+        logMaker("readPaper - "+paperName)
         return render_template('viewPdf.html',li=r2)
     else:
         return render_template('index.html')
