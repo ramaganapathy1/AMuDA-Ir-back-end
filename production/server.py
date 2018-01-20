@@ -48,7 +48,7 @@ def kick():
     if(results.count()>=5):
         path = os.getcwd()
         print ("start")
-        os.system('python intial.py')
+        """os.system('python intial.py')
         os.system('chmod 0777 start.sh')
         os.system('./start.sh')
         os.system('python keyphrase/start.py')
@@ -61,7 +61,9 @@ def kick():
         os.system('python ' + path + '/JVcode/Scripts/split.py')
         os.system('python ' + path + '/JVcode/Scripts/AllScores.py')
         print("-----------------<Continuation>--------------------")
-        os.system('python ' + path + '/JVcode/Scripts/ForClassification/cont-sep.py')
+        #os.system('python ' + path + '/JVcode/Scripts/ForClassification/cont-sep.py')
+        os.system('python ' + path + '/JVcode/Scripts/ForClassification/main.py')"""
+        os.system('python ' + path + '/JVcode/Scripts/ForClassification/outputFiles/basePaper.py')
         print("-----------------</Continuation>--------------------")
         print("-----------------<Elaboration>--------------------")
         os.system('python ' + path + '/JVcode/Scripts/ForClassification/ela-sep.py')
