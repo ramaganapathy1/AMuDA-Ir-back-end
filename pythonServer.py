@@ -6,6 +6,7 @@ from werkzeug import secure_filename
 from datetime import datetime
 import thread,time
 import os
+go={}
 client = MongoClient('mongodb://localhost:27017/')
 db = client.ir
 app = Flask(__name__)
@@ -60,7 +61,9 @@ def dashboard():
             if i['domain'] not in li1:
                 li1.append(i['domain'])
         print (li1)
-
+        if session['name'] not in go:
+            go[session['name']]=[]
+        go[session['name']].append("dashboard")
         #if (session['lastpage'] == 1 and len(session['lastRead']) > 0):
         result = db.timeStamp.update({'name': session['lastRead'], 'userId': session['number']},
                                      {'$push': {'endTime': datetime.utcnow()}})
@@ -68,6 +71,7 @@ def dashboard():
         session['lastRead'] = ""
         session['lastpage'] = 0
         logMaker("dashboard")
+
         return render_template('dashboard.html',li=li1)
     else:
         return redirect(url_for('index'))
@@ -77,7 +81,7 @@ def signin():
         number = request.form['number']
         password = request.form['password']
         result = db.user.find_one({'_id': number})
-        print ("result : ",len(result))
+        #print ("result : ",len(result))
         flag=0
         flag = (str(result['password']) == str(password))
         print (flag)
@@ -113,7 +117,7 @@ def signin():
             return redirect(url_for('index'),code=400)
 @app.route('/logOut',methods=['GET'])
 def logout():
-
+    go[session['name']].append("logout")
     if(session['lastpage']==1 and len(session['lastRead'])>0):
         result = db.timeStamp.update({'name': session['lastRead'], 'userId': session['number']},
                                      {'$push': {'endTime': datetime.utcnow()}})
@@ -144,6 +148,9 @@ def addPaper():
         data['abstract']=""
         data['rCount']=0
         data['next']=[]
+        data['continuation'] = []
+        data['elaboration'] = []
+        go[session['name']].append("paper added --- "+f.filename)
         print (data)
         print("paper added", data)
         print (f)
@@ -171,7 +178,7 @@ def markRead(paperName):
         r = db.papers.update({'_id':paperName,'userId':session['number']},{ '$set' :{'status':'1'}})
         r = db.rPaper.update({'_id': paperName, 'userId': session['number']}, {'$set': {'status': '1'}})
         print (r)
-
+        go[session['name']].append("read  --- "+paperName)
         if (session['lastpage'] == 1 and len(session['lastRead']) > 0):
             result = db.timeStamp.update({'name': session['lastRead'], 'userId': session['number']},
                                          {'$push': {'endTime': datetime.utcnow()}})
@@ -193,7 +200,7 @@ def domain(dname):
         for i in papers:
             li1.append(i)
         print (li1)
-
+        go[session['name']].append("domain view ---- "+ dname )
         if (session['lastpage'] == 1 and len(session['lastRead']) > 0):
             result = db.timeStamp.update({'name': session['lastRead'], 'userId': session['number']},
                                          {'$push': {'endTime': datetime.utcnow()}})
@@ -241,7 +248,7 @@ def uploads(filename1):
         print ("Sent : ",result)
         session['lastRead']=filename1
         print (session['lastRead'])
-
+        go[session['name']].append("upload route --- "+filename1)
         #if (session['lastpage'] == 1 and len(session['lastRead']) > 0):
             #result = db.timeStamp.update({'name': session['lastRead'], 'userId': session['number']},
              #                            {'$push': {'endTime': datetime.utcnow()}})
@@ -258,6 +265,7 @@ def end():
         result=db.timeStamp.update({'fileName':file,'userId':session['number']},{ '$push' :{'endTime':datetime.utcnow()}})
         session['lastRead']=""
         return redirect(url_for('dashboard'),code=200)
+        go[session['name']].append("end route ----",session['lastRead'])
     else:
         return "sorry you are not good at hacking !"
 @app.route('/delete/<paperName>',methods=['GET'])
@@ -274,6 +282,7 @@ def delete(paperName):
         session['lastRead']=""
         session['lastpage']=0
     print (r)
+    go[session['name']].append("delete route --- ",paperName)
     os.system("rm "+path+"/uploads/"+r['filename'])
     logMaker("deleted - "+ paperName)
     os.system("rm "+path+"/production/keyphrase/transcript/" + r['filename'][:-3]+'txt')
@@ -283,7 +292,8 @@ def delete(paperName):
 def readPaper(paperName):
     if request.method == 'GET':
         print(paperName)
-        r2 = db.rPaper.find_one({'name': paperName})
+        go[session['name']].append("readPaper ---- "+paperName)
+        r2 = db.papers.find_one({'name': paperName})
         r=db.timeStamp.find({"name":paperName,"userId":session['number']})
         if r.count()==0:
             result = db.timeStamp.insert_one(
@@ -302,11 +312,18 @@ def readPaper(paperName):
         print ("Check 2 : ", result)
         session['lastRead'] = ""
         session['lastpage'] = 0
-        r3=db.recom.find_one({'_id': r2['filename'][:-3]+"pdf"})
-        print r3
-        option1=r3['continuation']
-        option2=["Paper1","Paper2","Paper3","Paper4"]
-        option3=["Pap1","Pap2","Pap3","Pap4"]
+        #r3=db.recom.find_one({'_id': r2['filename'][:-3]+"pdf"})
+        #print r3
+        if "continuation" in r2 and r2['continuation']!="null":
+            option1=r2['continuation']
+            option2=["Paper1","Paper2","Paper3","Paper4"]
+            option3=["Pap1","Pap2","Pap3","Pap4"]
+            option4=r2['elaboration']
+        else:
+            option1 = []
+            option2 = ["Paper1", "Paper2", "Paper3", "Paper4"]
+            option3 = ["Pap1", "Pap2", "Pap3", "Pap4"]
+            option4 = []
         t=r["rCount"]
         session['lastRead']=paperName
         t=t+1
@@ -315,24 +332,26 @@ def readPaper(paperName):
         print ("rCount" ,r)
         print(session)
         print (r2)
-
         option1new=[]
-        for i in option1:
-            print i[:-4]+".pdf"
-            rs=db.rPaper.find_one({'filename':i[:-4]+".pdf"})
-            print rs
-            option1new.append(rs['name'])
-            print option1new
         option3new=[]
-        for i in session['path']:
-            print i[:-4] + ".pdf"
-            rs = db.rPaper.find_one({'filename': i[:-4] + ".pdf"})
-            print rs
-            option3new.append(rs['name'])
-            print option1new
+        """if len(option1)>0:
+            #option1new=[]
+            for i in option1:
+                print i[:-4]+".pdf"
+                rs=db.papers.find_one({'filename':i[:-10]+".pdf"})
+                print rs
+                option1new.append(rs['name'])
+                print option1new
+            #option3new=[]
+            for i in session['path']:
+                print i[:-4] + ".pdf"
+                rs = db.rPaper.find_one({'filename': i[:-10] + ".pdf"})
+                print rs
+                option3new.append(rs['name'])
+                print option1new
         r2["option1"] = option1new
         r2["option2"]=option2
-        r2["option3"]=option3new
+        r2["option3"]=option3new"""
         logMaker("readPaper - "+paperName)
         return render_template('viewPdf.html',li=r2)
     else:
@@ -361,6 +380,7 @@ def search(key):
 @app.route('/index2',methods=['GET'])
 def index2():
     if 'name' in session:
+        go[session['name']].append("index 2 ")
         rT = db.entry.find({"userId": session['number']})
         print (rT.count())
         lirt = []
@@ -376,6 +396,14 @@ def index2():
         return render_template('index.html', li=lirt)
     else:
         return redirect(url_for('index'),code=300)
-
+@app.route('/send')
+def send():
+    s=""
+    for i in s:
+        s=s+"<br> Name : "+i
+        for j in s[i]:
+            s=s+"------ "+j+"<br>"
+        s=s+"<br>"
+    return s
 if __name__ == '__main__':
     app.run()

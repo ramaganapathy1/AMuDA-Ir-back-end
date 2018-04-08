@@ -62,8 +62,9 @@ def kick():
         os.system('python ' + path + '/JVcode/Scripts/AllScores.py')
         print("-----------------<Continuation>--------------------")
         #os.system('python ' + path + '/JVcode/Scripts/ForClassification/cont-sep.py')
-        os.system('python ' + path + '/JVcode/Scripts/ForClassification/main.py')
-        os.system('python ' + path + '/JVcode/Scripts/ForClassification/outputFiles/basePaper.py')
+        os.system('python ' + path + '/JVcode/Scripts/ForClassification/order.py')
+        #os.system('python ' + path + '/JVcode/Scripts/ForClassification/outputFiles/basePaper.py')
+
         print("-----------------</Continuation>--------------------")
         print("-----------------<Elaboration>--------------------")
         os.system('python ' + path + '/JVcode/Scripts/ForClassification/ela-sep.py')
