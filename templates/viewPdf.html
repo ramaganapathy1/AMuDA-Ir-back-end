@@ -74,9 +74,7 @@
 
         <h2>To read next!</h2>
                 <div class="col-lg-12">
-                    <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#option1">Normal Way</button></div><br><br>
-            <div class="col-lg-12"><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#option2">Tree (Paths)</button></div><br><br>
-            <div class="col-lg-12x"><button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#option3">Interactive Mode</button></div><br><br>
+                    <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#option1">Read Next</button></div><br><br>
             <div id="option1" class="modal fade" role="dialog">
   <div class="modal-dialog">
 
@@ -95,10 +93,10 @@
             <div class="col-lg-12">
 
         <h2>To read next!</h2>
-        {% for i in li['option1'] %}
-            <a href="/readPaper/{{ i }}" style="color:green;"><div class="col-lg-12">
+        {% for i in li['continuation'] %}
+            <a href="/readPaper/{{ i[0] }}" style="color:green;"><div class="col-lg-12">
                 <div class="callout callout-info">
-                    <b>{{ i }} </b>
+                    <b>{{ i[0] }} , {{ i[1] }} </b>
                     <p></p>
                 </div></div></a>
         {% else %}
@@ -114,7 +112,7 @@
             {% for i in li['keywords'].split(',')%}
                 <u style="color: #0d6aad"><a href="/search/{{ i }}" style="font-size:20px;color: #222;">{{ i }}</a></u>,
                 {% else %}
-                    Clik On KickOff
+                    Click On KickOff
             {% endfor %}
         </div>
     </div>
@@ -219,7 +217,7 @@
             {% for i in li['keywords'].split(',')%}
                 <u style="color: #0d6aad"><a href="/search/{{ i }}" style="font-size:20px;color: #222;">{{ i }}</a></u>,
                 {% else %}
-                    Clik On KickOff
+                    Click On KickOff
             {% endfor %}
         </div>
     </div>

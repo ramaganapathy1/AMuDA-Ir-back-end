@@ -399,9 +399,9 @@ def index2():
 @app.route('/send')
 def send():
     s=""
-    for i in s:
+    for i in go:
         s=s+"<br> Name : "+i
-        for j in s[i]:
+        for j in go[i]:
             s=s+"------ "+j+"<br>"
         s=s+"<br>"
     return s
